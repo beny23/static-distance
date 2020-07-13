@@ -17,3 +17,5 @@ do
 done
 
 cp index.html target
+
+rm target/ukpostcodes.csv target/pubs.csv target/named_pubs.csv
