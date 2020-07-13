@@ -3,20 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Static Distance Spike</title>
-
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
-          integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-          crossorigin=""/>
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.css"/>
     <!-- Make sure you put this AFTER Leaflet's CSS -->
-    <script src="https://ª/leaflet@1.6.0/dist/leaflet.js"
-            integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
-            crossorigin=""></script>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js"></script>
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <style>
         #mapid {
-            height: 600px;
+            height: 500px;
         }
     </style>
 </head>
@@ -81,7 +74,7 @@
                                         .append("div")
                                         .text(d => JSON.stringify(d))
 
-                                    inRange.forEach(d => L.marker([d.lat, d.lon], { "title": d.name }).addTo(markerLayer))
+                                    inRange.slice(0, 500).forEach(d => L.marker([d.lat, d.lon], { "title": d.name }).addTo(markerLayer))
                                 })
                         } else {
                             d3.select("#status").text("Postcode not found")
