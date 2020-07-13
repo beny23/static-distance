@@ -72,7 +72,7 @@
                                         .selectAll("div")
                                         .data(inRange).enter()
                                         .append("div")
-                                        .text(d => JSON.stringify(d))
+                                        .text(d => d.name + " located at " + d.postcode + " which is " + (d.distance / 1600) + " miles away")
 
                                     inRange.slice(0, 500).forEach(d => L.marker([d.lat, d.lon], { "title": d.name }).addTo(markerLayer))
                                 })
