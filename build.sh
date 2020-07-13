@@ -1,9 +1,10 @@
 #!/bin/bash
 
-#rm -f target/*
-#awk -F, -f split_outcodes.awk ukpostcodes.csv
-#shuf -n 200000 ukpostcodes.csv > target/pubs.csv
-#paste -d "," <(paste -d " " <(shuf -r animal_names.txt) <(yes "and") <(shuf -r animal_names.txt) | head -200000) target/pubs.csv > target/named_pubs.csv
+rm -f target/*
+gunzip -c ukpostcodes.csv.gz > target/ukpostcodes.csv
+awk -F, -f split_outcodes.awk target/ukpostcodes.csv
+shuf -n 200000 target/ukpostcodes.csv > target/pubs.csv
+paste -d "," <(paste -d " " <(shuf -r animal_names.txt) <(yes "and") <(shuf -r animal_names.txt) | head -200000) target/pubs.csv > target/named_pubs.csv
 
 for f in target/outcode-*.csv
 do
