@@ -51,7 +51,7 @@
                 d3.select("#status").text("Searching...");
                 outcode = postcode.slice(0, -3);
 
-                d3.csv("outcode-" + outcode + ".csv")
+                d3.csv("outcode/" + outcode[0] + "/" + outcode[1] + "/" + outcode + ".csv")
                     .then(function(postcodes) {
                         result = postcodes.find(d => normalisePostcode(d.postcode) === postcode);
                         if (result) {
@@ -61,7 +61,7 @@
                             d3.select("#status").text("");
                             mapid.panTo(new L.LatLng(result.lat, result.lon));
 
-                            d3.csv("pubs_" + outcode + ".csv")
+                            d3.csv("pubs/" + outcode[0] + "/" + outcode[1] + "/" + outcode + ".csv")
                                 .then(function(pubs) {
                                     inRange = pubs
                                         .map(a => ({ ...a, distance: distance(result, a)}))
@@ -72,7 +72,7 @@
                                         .selectAll("div")
                                         .data(inRange).enter()
                                         .append("div")
-                                        .text(d => JSON.stringify(d))
+                                        .text(d => d.name + " located at " + d.postcode + " which is " + (d.distance / 1600) + " miles away")
 
                                     inRange.slice(0, 500).forEach(d => L.marker([d.lat, d.lon], { "title": d.name }).addTo(markerLayer))
                                 })
