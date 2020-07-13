@@ -1,0 +1,126 @@
+Armadillo
+Asiatic leopard
+Badger
+Boto
+Capuchin
+Chipmunk
+Civet
+Cloud rat
+Coati
+Cuscus
+Dolphin
+Dorcopsis
+Elephant
+Fox
+Ground sloth
+Ibex
+Ice seal
+Jackal
+Jerboa
+Kangaroo
+Lemming
+Linsang
+Marmoset
+Mink
+Mole
+Mouse
+Polecat
+Rabbit
+Rat
+River dolphin
+Skunk
+Tahr
+Viscacha
+Vole
+Wallaby
+Minke whale
+Zebra
+Argus
+B
+Black cockatoo
+Black jay
+Booted eagles
+Bronzewing pigeon
+Bunting
+Buzzard
+Chickadee
+Chicken
+Condor
+Crow
+Darwin's finches
+Diving bird
+Duck
+Eagle
+Egret
+Fish eagle
+Flameback
+Francolin
+Fulmarine petrel
+Goose
+Grackle
+Greenbul
+Grosbeak
+Grouse
+Guillemot
+Gull
+Hawaiian honeycreeper
+Hawk
+Herring gull
+Jay
+Kākāriki
+Kestrel
+Kite
+Logrunners
+Macaw
+Magpie
+Mamo
+Marsh harrier
+Masked owl
+Maya
+Meadowlark
+Mockingbird
+Moluccan boobook
+Myna
+New World blackbird
+Night heron
+Nukupuʻu
+Old World quail
+Old World vulture
+Old World warbler
+Parakeet
+Parrotbill
+Parrotlet
+Partridge
+Peafowl
+Perching duck
+Petrel
+Pheasant
+Philippine hawk-owl
+Piping shrike
+Pitohui
+Pratincole
+Prion
+Puffleg
+Quetzal
+Recurvebill
+Scimitar babbler
+Shearwater
+Siskin
+Snipe
+Solitaire
+Songlark
+American sparrow
+Stilt
+Stint
+Tattler
+Thicketbird
+Thrasher
+Tit-tyrant
+Towhee
+Tree warbler
+Treepie
+Triller
+Vulture
+Wader
+Warbler
+White ibis

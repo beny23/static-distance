@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Static Distance Spike</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+          integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+          crossorigin=""/>
+
+    <!-- Make sure you put this AFTER Leaflet's CSS -->
+    <script src="https://ª/leaflet@1.6.0/dist/leaflet.js"
+            integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+            crossorigin=""></script>
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <style>
+        #mapid {
+            height: 600px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Static Distance Spike</h1>
+    <form onsubmit="search(); return false;">
+        <label for="postcode">Enter postcode</label>
+        <input id="postcode" type="text">
+        <input id="submit" type="submit" value="Search">
+    </form>
+
+    <div id="status"></div>
+    <div>Longitude: <span id="longitude"></span></div>
+    <div>Latitude: <span id="latitude"></span></div>
+    <div id="results">
+    </div>
+    <div id="mapid"></div>
+
+    <script>
+
+        POSTCODE_REGEX = new RegExp("^((GIR ?0AA)|((([A-Z][0-9]{1,2})|(([A-Z][A-HJ-Y][0-9]{1,2})|(([A-Z][0-9][A-Z])|([A-Z][A-HJ-Y][0-9][A-Z]?))))\\s?[0-9][A-Z]{2}))$")
+
+        mapid = L.map('mapid').setView([51.505, -0.09], 13);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(mapid);
+        markerLayer = L.layerGroup().addTo(mapid)
+
+        function search() {
+            postcode = normalisePostcode(d3.select("#postcode").property("value"));
+
+            markerLayer.clearLayers();
+            d3.select("#results").text("")
+
+            if (!postcode.match(POSTCODE_REGEX)) {
+                d3.select("#status").text("Invalid postcode");
+            } else {
+                d3.select("#status").text("Searching...");
+                outcode = postcode.slice(0, -3);
+
+                d3.csv("target/outcode-" + outcode + ".csv")
+                    .then(function(postcodes) {
+                        result = postcodes.find(d => normalisePostcode(d.postcode) === postcode);
+                        if (result) {
+                            console.log(result);
+                            d3.select("#longitude").text(result.lon);
+                            d3.select("#latitude").text(result.lat);
+                            d3.select("#status").text("");
+                            mapid.panTo(new L.LatLng(result.lat, result.lon));
+
+                            d3.csv("target/pubs_" + outcode + ".csv")
+                                .then(function(pubs) {
+                                    inRange = pubs
+                                        .map(a => ({ ...a, distance: distance(result, a)}))
+                                        .filter(a => a.distance < (5 * 1600))
+                                        .sort((a, b) => a.distance - b.distance)
+
+                                    d3.select("#results")
+                                        .selectAll("div")
+                                        .data(inRange).enter()
+                                        .append("div")
+                                        .text(d => JSON.stringify(d))
+
+                                    inRange.forEach(d => L.marker([d.lat, d.lon], { "title": d.name }).addTo(markerLayer))
+                                })
+                        } else {
+                            d3.select("#status").text("Postcode not found")
+                        }
+                    })
+            }
+        }
+
+        function normalisePostcode(postcode) {
+            return postcode.replace(" ", "").toUpperCase()
+        }
+
+        function distance(p1, p2) {
+            const R = 6371e3; // metres
+            const φ1 = p1.lat * Math.PI/180; // φ, λ in radians
+            const φ2 = p2.lat * Math.PI/180;
+            const Δφ = (p2.lat-p1.lat) * Math.PI/180;
+            const Δλ = (p2.lon-p1.lon) * Math.PI/180;
+
+            const a = Math.sin(Δφ/2) * Math.sin(Δφ/2) +
+                Math.cos(φ1) * Math.cos(φ2) *
+                Math.sin(Δλ/2) * Math.sin(Δλ/2);
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+
+            return R * c
+        }
+    </script>
+</body>
+</html>
