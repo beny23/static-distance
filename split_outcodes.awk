@@ -1,4 +1,4 @@
-$1 != "id" {
+$1 != "id" && $3 < 99.9 {
   prev=file;
   split($2, f, " ");
   outcode = f[1]

@@ -12,6 +12,17 @@
             height: 500px;
         }
     </style>
+    <!-- Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-171035600-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
 </head>
 <body>
     <h1>Static Distance Spike</h1>
@@ -24,9 +35,15 @@
     <div id="status"></div>
     <div>Longitude: <span id="longitude"></span></div>
     <div>Latitude: <span id="latitude"></span></div>
-    <div id="results">
-    </div>
     <div id="mapid"></div>
+    <div>
+        <table>
+            <thead>
+            <tr><th>Name</th><th>Postcode</th><th>Distance</th></tr>
+            </thead>
+            <tbody id="results"></tbody>
+        </table>
+    </div>
 
     <script>
 
@@ -39,10 +56,41 @@
         }).addTo(mapid);
         markerLayer = L.layerGroup().addTo(mapid)
 
+        mapid.on("moveend", function () {
+            var d = mapid.getCenter();
+            var result = { lat: d.lat, lon: d.lng };
+
+            d3.select("#longitude").text(result.lon);
+            d3.select("#latitude").text(result.lat);
+
+            var x = parseInt((+result.lat - 49.0) / (12.0 / 160.0))
+            var y = parseInt((+result.lon + 9) / (11.0 / 80.0))
+
+            d3.csv("pubgrid/" + x + "/" + x + "-" + y + ".csv")
+                .then(function(pubs) {
+                    let inRange = pubs
+                        .map(a => ({ ...a, distance: distance(result, a)}))
+                        .filter(a => a.distance < (5 * 1600))
+                        .sort((a, b) => a.distance - b.distance)
+                        .slice(0, 500)
+
+                    let tbody = d3.select("#results");
+                    let rows = tbody.selectAll("tr").data(inRange).enter().append("tr")
+
+                    rows.append('td').text(d => d.name)
+                    rows.append('td').text(d => d.postcode)
+                    rows.append('td').text(d => (d.distance / 1600).toFixed(2) + " miles away")
+
+                    tbody.selectAll('tr').data(inRange).exit().remove()
+
+                    markerLayer.clearLayers();
+                    inRange.forEach(d => L.marker([d.lat, d.lon], { "title": d.name }).addTo(markerLayer))
+                })
+        });
+
         function search() {
             postcode = normalisePostcode(d3.select("#postcode").property("value"));
 
-            markerLayer.clearLayers();
             d3.select("#results").text("")
 
             if (!postcode.match(POSTCODE_REGEX)) {
@@ -55,27 +103,8 @@
                     .then(function(postcodes) {
                         result = postcodes.find(d => normalisePostcode(d.postcode) === postcode);
                         if (result) {
-                            console.log(result);
-                            d3.select("#longitude").text(result.lon);
-                            d3.select("#latitude").text(result.lat);
                             d3.select("#status").text("");
                             mapid.panTo(new L.LatLng(result.lat, result.lon));
-
-                            d3.csv("pubs/" + outcode[0] + "/" + outcode[1] + "/" + outcode + ".csv")
-                                .then(function(pubs) {
-                                    inRange = pubs
-                                        .map(a => ({ ...a, distance: distance(result, a)}))
-                                        .filter(a => a.distance < (5 * 1600))
-                                        .sort((a, b) => a.distance - b.distance)
-
-                                    d3.select("#results")
-                                        .selectAll("div")
-                                        .data(inRange).enter()
-                                        .append("div")
-                                        .text(d => d.name + " located at " + d.postcode + " which is " + (d.distance / 1600) + " miles away")
-
-                                    inRange.slice(0, 500).forEach(d => L.marker([d.lat, d.lon], { "title": d.name }).addTo(markerLayer))
-                                })
                         } else {
                             d3.select("#status").text("Postcode not found")
                         }

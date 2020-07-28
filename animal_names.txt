@@ -124,3 +124,134 @@ Vulture
 Wader
 Warbler
 White ibis
+adder
+agama
+agamid
+alligator
+amphisbaena
+anaconda
+anole
+asp
+bandy-bandy
+black snake
+blind snake
+blue racer
+blue tongue
+boa
+boa constrictor
+boomslang
+box turtle
+brown snake
+bull snake
+gopher snake
+bushmaster
+carpet snake
+python
+cayman
+caiman
+cerastes
+chameleon
+chuckwalla
+cobra
+cobra de capello
+constrictor
+copperhead
+coral snake
+crocodile
+death adder
+deaf adder
+diamondback
+diamondback terrapin
+diamondback turtle
+diamond snake
+diamond python
+dugite
+dukite
+elapid
+fer-de-lance
+flying lizard
+flying dragon
+frill-necked lizard
+frilled lizard
+bicycle lizard
+cycling lizard
+gaboon viper
+galliwasp
+garter snake
+gavial
+gecko
+giant tortoise
+Gila monster
+glass snake
+goanna
+grass snake
+green turtle
+habu
+harlequin snake
+hawksbill
+hognose snake
+puff adder
+hoop snake
+horned toad
+horned viper
+iguana
+indigo snake
+jew lizard
+bearded lizard
+bearded dragon
+kabaragoya
+king cobra
+king snake
+Komodo dragon
+krait
+leathery turtle
+leguaan
+lizard
+loggerhead
+mamba
+massasauga
+milk snake
+moloch
+thorny devil
+thorn lizard
+mountain devil
+monitor
+mud turtle
+perentie
+pit viper
+puff adder
+python
+racer
+rat snake
+rattlesnake
+ringhals
+rock snake
+rock python
+amethystine python
+Schneider python
+saltwater crocodile
+sand lizard
+sand viper
+sea snake
+sidewinder
+skink
+slowworm
+blindworm
+smooth snake
+snake
+snapping turtle
+soft-shelled turtle
+swift
+taipan
+terrapin
+tiger snake
+tokay
+tortoise
+tree snake
+tuatara
+turtle
+viper
+wall lizard
+water snake
+whip snake
+worm lizard

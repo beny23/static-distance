@@ -36,3 +36,12 @@ Badger and Zebra
 ```
 
 - the outer paste, just merges the fake pub names with the previously selected 200k postcodes to derive a list of establishments.
+
+Finding the minimum lat/lon:
+
+```shell script
+$ gunzip -dc ukpostcodes.csv.gz | grep -v 99.9999990 | cut -f3 -d, | awk -F, 'BEGIN { max = -999; min = +999; } /[0-9.-]+/ { if ($1 > max) max = $1; if ($1 < min) min = $1; } END { print min, max; }'
+49.181941000000000 60.800793046799900
+$ gunzip -dc ukpostcodes.csv.gz | grep -v 99.9999990 | cut -f4 -d, | awk -F, 'BEGIN { max = -999; min = +999; } /[0-9.-]+/ { if ($1 > max) max = $1; if ($1 < min) min = $1; } END { print min, max; }'
+-8.163139000000000 1.760443184261870
+```
