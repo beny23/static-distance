@@ -19,7 +19,7 @@ shuf -n 100000 target/ukpostcodes.csv > target/pubs.csv
 
 shuf -rn 100000 animal_names.txt > target/1.txt
 shuf -rn 100000 animal_names.txt > target/2.txt
-yes "and" | head -100000 > target/and.txt
+yes "and" 2>/dev/null | head -100000 > target/and.txt
 paste -d " " target/1.txt target/and.txt target/2.txt > target/pubnames.txt
 
 paste -d "," target/pubnames.txt target/pubs.csv > target/named_pubs.csv
