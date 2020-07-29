@@ -12,6 +12,17 @@
             height: 500px;
         }
     </style>
+    <!-- Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-171035600-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
 </head>
 <body>
     <h1>Static Distance Spike</h1>
@@ -38,7 +49,7 @@
 
         POSTCODE_REGEX = new RegExp("^((GIR ?0AA)|((([A-Z][0-9]{1,2})|(([A-Z][A-HJ-Y][0-9]{1,2})|(([A-Z][0-9][A-Z])|([A-Z][A-HJ-Y][0-9][A-Z]?))))\\s?[0-9][A-Z]{2}))$")
 
-        mapid = L.map('mapid').setView([51.505, -0.09], 13);
+        mapid = L.map('mapid');
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -61,21 +72,22 @@
                         .map(a => ({ ...a, distance: distance(result, a)}))
                         .filter(a => a.distance < (5 * 1600))
                         .sort((a, b) => a.distance - b.distance)
-                        .slice(0, 500)
+                        .slice(0, 250)
 
-                    let tbody = d3.select("#results");
-                    let rows = tbody.selectAll("tr").data(inRange).enter().append("tr")
-
-                    rows.append('td').text(d => d.name)
-                    rows.append('td').text(d => d.postcode)
-                    rows.append('td').text(d => (d.distance / 1600).toFixed(2) + " miles away")
-
-                    tbody.selectAll('tr').data(inRange).exit().remove()
+                    d3.select("#results").selectAll("tr")
+                        .data(inRange)
+                        .join("tr")
+                        .selectAll("td")
+                        .data(d => [ d.name, d.postcode, (d.distance / 1600).toFixed(2) + " miles away" ])
+                        .join("td")
+                        .text(d => d)
 
                     markerLayer.clearLayers();
                     inRange.forEach(d => L.marker([d.lat, d.lon], { "title": d.name }).addTo(markerLayer))
                 })
         });
+
+        mapid.setView([51.505, -0.09], 13);
 
         function search() {
             postcode = normalisePostcode(d3.select("#postcode").property("value"));
