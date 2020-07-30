@@ -127,7 +127,7 @@
                 })
         });
 
-        mapid.locate({setView: true, maxZoom: 13});
+        mapid.setView([51.505, -0.09], 13);
         L.control.locate({drawCircle: false, keepCurrentZoomLevel: true}).addTo(mapid);
 
         function goto(postcode) {
