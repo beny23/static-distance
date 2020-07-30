@@ -123,11 +123,13 @@
                         .html(d => d)
 
                     markerLayer.clearLayers();
-                    inRange.forEach(d => L.marker([d.lat, d.lon], { "title": d.name }).addTo(markerLayer))
+                    inRange.forEach(d => L.marker([d.lat, d.lon], { "title": d.name })
+                        .bindPopup("<dl><dt>" + d.name + "</dt><dd>" + d.postcode + "</dd></dl>")
+                        .addTo(markerLayer))
                 })
         });
 
-        mapid.setView([51.505, -0.09], 13);
+        mapid.setView([51.505, -0.09], 15);
         L.control.locate({drawCircle: false, keepCurrentZoomLevel: true}).addTo(mapid);
 
         function goto(postcode) {
