@@ -124,13 +124,22 @@
 
                     markerLayer.clearLayers();
                     inRange.forEach(d => L.marker([d.lat, d.lon], { "title": d.name })
-                        .bindPopup("<dl><dt>" + d.name + "</dt><dd>" + d.postcode + "</dd></dl>")
+                        .bindPopup(escapeHtml(d.name) + "<br>" + d.postcode)
                         .addTo(markerLayer))
                 })
         });
 
         mapid.setView([51.505, -0.09], 15);
         L.control.locate({drawCircle: false, keepCurrentZoomLevel: true}).addTo(mapid);
+
+        function escapeHtml(unsafe) {
+            return unsafe
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
 
         function goto(postcode) {
             d3.select("#postcode").property("value", postcode);
