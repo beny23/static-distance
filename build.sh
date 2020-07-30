@@ -13,19 +13,16 @@ do
   mkdir -p target/pubgrid/$d
 done
 
-gunzip -c ukpostcodes.csv.gz | awk -F, '$3 ~ /^[0-9.-]+$/ && $4 ~ /^[0-9.-]+$/ && $3 < 99.9 { print $0; }' > target/ukpostcodes.csv
+gunzip -c ukpostcodes.csv.gz | awk -F, -f filter_postcodes.awk > target/ukpostcodes.csv
 awk -F, -f split_outcodes.awk target/ukpostcodes.csv
-shuf -n 100000 target/ukpostcodes.csv > target/pubs.csv
 
-shuf -rn 100000 animal_names.txt > target/1.txt
-shuf -rn 100000 animal_names.txt > target/2.txt
-yes "and" 2>/dev/null | head -100000 > target/and.txt
-paste -d " " target/1.txt target/and.txt target/2.txt > target/pubnames.txt
+bash generate_pubs.sh
 
-paste -d "," target/pubnames.txt target/pubs.csv > target/named_pubs.csv
+join -t , -1 2 -2 2 -o 1.1,0,2.3,2.4 <(sort -k 2 -t , target/pub_postcodes.csv) <(sort -k 2 -t , target/ukpostcodes.csv) > target/named_pubs.csv
 
-awk -F, -f split_pubs.awk target/named_pubs.csv
+awk -F, -f filter_postcodes.awk target/named_pubs.csv | awk -F, -f split_pubs.awk
 
 cp index.html target
+cp eotho.png target
 
-rm target/ukpostcodes.csv target/pubs.csv target/named_pubs.csv target/*.txt
+rm target/*.csv target/*.txt

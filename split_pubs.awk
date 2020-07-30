@@ -1,15 +1,15 @@
 function print_to_file(file) {
   if (headers[file] != "done") {
-    print "name,id,postcode,lat,lon" >> file;
+    print "name,postcode,lat,lon" >> file;
     headers[file] = "done"
   }
   print $0 >> file;
   close(file);
 }
 
-$2 != "id" && $4 < 99.9 {
-  x = int(($4 - 49.0) / (12.0 / 160.0))
-  y = int(($5 + 9) / (11.0 / 80.0))
+{
+  x = int(($3 - 49.0) / (12.0 / 160.0))
+  y = int(($4 + 9) / (11.0 / 80.0))
 
   file_tl="target/pubgrid/" (x-1) "/" (x-1) "-" (y-1) ".csv";
   file_tm="target/pubgrid/" x "/" x "-" (y-1) ".csv";

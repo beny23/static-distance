@@ -2,14 +2,46 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Static Distance Spike</title>
+    <title>Help Out Eat Out To Help Out</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.css"/>
-    <!-- Make sure you put this AFTER Leaflet's CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karla:400,700|Martel:400,700">
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.js" charset="utf-8"></script>    <!-- Make sure you put this AFTER Leaflet's CSS -->
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <style>
         #mapid {
+            width: 95%;
             height: 500px;
+        }
+        body {
+            font-family: 'Martel', serif;
+            font-weight: 400;
+            background-color: #C5D0DD;
+            color: #2B394A;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Karla', sans-serif;
+            font-weight: 700;
+        }
+
+        .button {
+            font-family: 'Karla', sans-serif;
+            font-weight: 700;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+
+        #coords {
+            display: flex
+        }
+
+        #coords div {
+            padding-right: 15px;
         }
     </style>
     <!-- Google Analytics -->
@@ -25,7 +57,13 @@
     <!-- End Google Analytics -->
 </head>
 <body>
-    <h1>Static Distance Spike</h1>
+    <h1><img src="eotho.png" alt="Eat Out to Help Out"/> Discounted Dining Finder</h1>
+    <p>
+        Use this to find participants of the
+        <a href="https://www.gov.uk/guidance/get-a-discount-with-the-eat-out-to-help-out-scheme">Eat Out to Help Out</a>
+        scheme. Uses the HMRC <a href="https://github.com/hmrc/eat-out-to-help-out-establishments">published data set</a>.
+        Read <a href="/posts/discounted_dining_finder/">how it was built</a>.
+    </p>
     <form onsubmit="search(); return false;">
         <label for="postcode">Enter postcode</label>
         <input id="postcode" type="text">
@@ -33,8 +71,10 @@
     </form>
 
     <div id="status"></div>
-    <div>Longitude: <span id="longitude"></span></div>
-    <div>Latitude: <span id="latitude"></span></div>
+    <div id="coords">
+        <div>Longitude: <span id="longitude"></span></div>
+        <div>Latitude: <span id="latitude"></span></div>
+    </div>
     <div id="mapid"></div>
     <div>
         <table>
@@ -60,8 +100,8 @@
             var d = mapid.getCenter();
             var result = { lat: d.lat, lon: d.lng };
 
-            d3.select("#longitude").text(result.lon);
-            d3.select("#latitude").text(result.lat);
+            d3.select("#longitude").text(result.lon.toFixed(3));
+            d3.select("#latitude").text(result.lat.toFixed(3));
 
             var x = parseInt((+result.lat - 49.0) / (12.0 / 160.0))
             var y = parseInt((+result.lon + 9) / (11.0 / 80.0))
@@ -70,7 +110,7 @@
                 .then(function(pubs) {
                     let inRange = pubs
                         .map(a => ({ ...a, distance: distance(result, a)}))
-                        .filter(a => a.distance < (5 * 1600))
+                        .filter(a => a.distance < (5 * 1609.34))
                         .sort((a, b) => a.distance - b.distance)
                         .slice(0, 250)
 
@@ -78,16 +118,23 @@
                         .data(inRange)
                         .join("tr")
                         .selectAll("td")
-                        .data(d => [ d.name, d.postcode, (d.distance / 1600).toFixed(2) + " miles away" ])
+                        .data(d => [ d.name, "<a href=\"javascript:goto('" + d.postcode + "')\">" + d.postcode + "</a>", (d.distance / 1609.34).toFixed(2) + " miles away" ])
                         .join("td")
-                        .text(d => d)
+                        .html(d => d)
 
                     markerLayer.clearLayers();
                     inRange.forEach(d => L.marker([d.lat, d.lon], { "title": d.name }).addTo(markerLayer))
                 })
         });
 
-        mapid.setView([51.505, -0.09], 13);
+        mapid.locate({setView: true, maxZoom: 13});
+        L.control.locate({drawCircle: false, keepCurrentZoomLevel: true}).addTo(mapid);
+
+        function goto(postcode) {
+            d3.select("#postcode").property("value", postcode);
+            search();
+            return false;
+        }
 
         function search() {
             postcode = normalisePostcode(d3.select("#postcode").property("value"));
@@ -132,5 +179,6 @@
             return R * c
         }
     </script>
+
 </body>
 </html>
