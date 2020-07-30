@@ -16,7 +16,8 @@ done
 gunzip -c ukpostcodes.csv.gz | awk -F, -f filter_postcodes.awk > target/ukpostcodes.csv
 awk -F, -f split_outcodes.awk target/ukpostcodes.csv
 
-bash generate_pubs.sh
+#bash generate_pubs.sh
+bash read_pubs.sh
 
 join -t , -1 2 -2 2 -o 1.1,0,2.3,2.4 <(sort -k 2 -t , target/pub_postcodes.csv) <(sort -k 2 -t , target/ukpostcodes.csv) > target/named_pubs.csv
 

@@ -124,7 +124,7 @@
 
                     markerLayer.clearLayers();
                     inRange.forEach(d => L.marker([d.lat, d.lon], { "title": d.name })
-                        .bindPopup("<dl><dt>" + d.name + "</dt><dd>" + d.postcode + "</dd></dl>")
+                        .bindPopup(d.name + "<br>" + d.postcode)
                         .addTo(markerLayer))
                 })
         });
