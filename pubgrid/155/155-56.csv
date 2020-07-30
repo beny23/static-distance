@@ -1,3 +1,2 @@
-name,id,postcode,lat,lon
-water snake and garter snake,1786735,ZE2 9BF,60.594485005885400,-1.059785954599300
-Egret and Tit-tyrant,1800,ZE2 9XG,60.585803260137700,-1.337437313135080
+name,postcode,lat,lon
+Vole and garter snake,ZE2 9BF,60.594485005885400,-1.059785954599300

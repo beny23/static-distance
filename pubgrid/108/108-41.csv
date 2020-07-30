@@ -1,5 +1,2 @@
-name,id,postcode,lat,lon
-soft-shelled turtle and flying dragon,1587095,AB37 9HE,57.249827990000000,-3.375781000000000
-frilled lizard and carpet snake,1587323,AB35 5TJ,57.033753190000000,-3.178010629000000
-Gull and rattlesnake,1586972,AB36 8UD,57.237150870000000,-3.110482171000000
-Gila monster and Bronzewing pigeon,1586859,AB35 5XL,57.087463260000000,-3.116712381000000
+name,postcode,lat,lon
+thorny devil and Flameback,AB35 5TP,57.034323000000000,-3.250794000000000

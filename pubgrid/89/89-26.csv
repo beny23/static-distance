@@ -1,5 +1,3 @@
-name,id,postcode,lat,lon
-Komodo dragon and Viscacha,990446,KA27 8HJ,55.699484745644300,-5.279639533293550
-snapping turtle and Jay,591726,PA29 6YX,55.800088000000000,-5.474529000000000
-bearded dragon and Francolin,592121,PA29 6XR,55.796576000000000,-5.482388413936290
-deaf adder and amethystine python,592218,PA29 6YG,55.770232659837900,-5.406046282068610
+name,postcode,lat,lon
+Old World warbler and swift,KA27 8HR,55.612007024327000,-5.391253784779130
+copperhead and hognose snake,KA27 8HS,55.603775000000000,-5.382506000000000

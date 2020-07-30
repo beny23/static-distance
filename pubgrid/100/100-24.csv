@@ -1,4 +1,3 @@
-name,id,postcode,lat,lon
-Kestrel and milk snake,590569,PA37 1PP,56.447108289357200,-5.442956324457770
-frilled lizard and box turtle,590128,PA37 1SS,56.445099549951500,-5.442125203775000
-horned toad and River dolphin,588659,PA65 6AY,56.465958000000000,-5.698747000000000
+name,postcode,lat,lon
+blind snake and Buzzard,PA37 1SS,56.445099549951500,-5.442125203775000
+Meadowlark and Grosbeak,PA37 1TP,56.446700291683700,-5.442432413522300

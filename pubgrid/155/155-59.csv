@@ -1,4 +1,2 @@
-name,id,postcode,lat,lon
-skink and constrictor,1831,ZE2 9DY,60.758747454865500,-0.880996224111714
-smooth snake and Jerboa,1833,ZE2 9EA,60.758065447133300,-0.861879826192182
-habu and elapid,1794,ZE2 9DP,60.757400226600000,-0.860691000000000
+name,postcode,lat,lon
+swift and milk snake,ZE2 9DS,60.764962000000000,-0.843611000000000
