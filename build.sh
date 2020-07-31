@@ -25,5 +25,6 @@ awk -F, -f filter_postcodes.awk target/named_pubs.csv | awk -F, -f split_pubs.aw
 
 cp index.html target
 cp eotho.png target
+cp leaflet-hash.js target
 
 rm target/*.csv target/*.txt
