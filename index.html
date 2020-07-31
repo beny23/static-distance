@@ -11,6 +11,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.js" charset="utf-8"></script>    <!-- Make sure you put this AFTER Leaflet's CSS -->
     <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="leaflet-hash.js"></script>
     <style>
         #mapid {
             width: 95%;
@@ -64,7 +65,7 @@
         scheme. Uses the HMRC <a href="https://github.com/hmrc/eat-out-to-help-out-establishments">published data set</a>.
         Read <a href="/posts/discounted_dining_finder/">how it was built</a>.
     </p>
-    <form onsubmit="search(); return false;">
+    <form onsubmit="javascript:search();">
         <label for="postcode">Enter postcode</label>
         <input id="postcode" type="text">
         <input id="submit" type="submit" value="Search">
@@ -89,49 +90,6 @@
 
         POSTCODE_REGEX = new RegExp("^((GIR ?0AA)|((([A-Z][0-9]{1,2})|(([A-Z][A-HJ-Y][0-9]{1,2})|(([A-Z][0-9][A-Z])|([A-Z][A-HJ-Y][0-9][A-Z]?))))\\s?[0-9][A-Z]{2}))$")
 
-        mapid = L.map('mapid');
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 19,
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(mapid);
-        markerLayer = L.layerGroup().addTo(mapid)
-
-        mapid.on("moveend", function () {
-            var d = mapid.getCenter();
-            var result = { lat: d.lat, lon: d.lng };
-
-            d3.select("#longitude").text(result.lon.toFixed(3));
-            d3.select("#latitude").text(result.lat.toFixed(3));
-
-            var x = parseInt((+result.lat - 49.0) / (12.0 / 160.0))
-            var y = parseInt((+result.lon + 9) / (11.0 / 80.0))
-
-            d3.csv("pubgrid/" + x + "/" + x + "-" + y + ".csv")
-                .then(function(pubs) {
-                    let inRange = pubs
-                        .map(a => ({ ...a, distance: distance(result, a)}))
-                        .filter(a => a.distance < (5 * 1609.34))
-                        .sort((a, b) => a.distance - b.distance)
-                        .slice(0, 250)
-
-                    d3.select("#results").selectAll("tr")
-                        .data(inRange)
-                        .join("tr")
-                        .selectAll("td")
-                        .data(d => [ d.name, "<a href=\"javascript:goto('" + d.postcode + "')\">" + d.postcode + "</a>", (d.distance / 1609.34).toFixed(2) + " miles away" ])
-                        .join("td")
-                        .html(d => d)
-
-                    markerLayer.clearLayers();
-                    inRange.forEach(d => L.marker([d.lat, d.lon], { "title": d.name })
-                        .bindPopup(escapeHtml(d.name) + "<br>" + d.postcode)
-                        .addTo(markerLayer))
-                })
-        });
-
-        mapid.setView([51.505, -0.09], 15);
-        L.control.locate({drawCircle: false, keepCurrentZoomLevel: true}).addTo(mapid);
-
         function escapeHtml(unsafe) {
             return unsafe
                 .replace(/&/g, "&amp;")
@@ -141,54 +99,111 @@
                 .replace(/'/g, "&#039;");
         }
 
-        function goto(postcode) {
+        function normalisePostcode(postcode) {
+            return postcode.replace(" ", "").toUpperCase();
+        }
+
+        function gotoPostcode(postcode) {
             d3.select("#postcode").property("value", postcode);
-            search();
-            return false;
+            document.getElementById("postcode").focus();
         }
 
         function search() {
-            postcode = normalisePostcode(d3.select("#postcode").property("value"));
+            const postcode = normalisePostcode(d3.select("#postcode").property("value"));
 
-            d3.select("#results").text("")
+            d3.select("#results").text("");
 
             if (!postcode.match(POSTCODE_REGEX)) {
                 d3.select("#status").text("Invalid postcode");
             } else {
                 d3.select("#status").text("Searching...");
-                outcode = postcode.slice(0, -3);
+                const outcode = postcode.slice(0, -3);
 
                 d3.csv("outcode/" + outcode[0] + "/" + outcode[1] + "/" + outcode + ".csv")
                     .then(function(postcodes) {
-                        result = postcodes.find(d => normalisePostcode(d.postcode) === postcode);
+                        const result = postcodes.find(d => normalisePostcode(d.postcode) === postcode);
                         if (result) {
                             d3.select("#status").text("");
                             mapid.panTo(new L.LatLng(result.lat, result.lon));
                         } else {
-                            d3.select("#status").text("Postcode not found")
+                            d3.select("#status").text("Postcode not found");
                         }
                     })
             }
-        }
-
-        function normalisePostcode(postcode) {
-            return postcode.replace(" ", "").toUpperCase()
+            return false;
         }
 
         function distance(p1, p2) {
             const R = 6371e3; // metres
-            const φ1 = p1.lat * Math.PI/180; // φ, λ in radians
-            const φ2 = p2.lat * Math.PI/180;
-            const Δφ = (p2.lat-p1.lat) * Math.PI/180;
-            const Δλ = (p2.lon-p1.lon) * Math.PI/180;
+            const phi1 = p1.lat * Math.PI/180; // φ, λ in radians
+            const phi2 = p2.lat * Math.PI/180;
+            const deltaphi = (p2.lat-p1.lat) * Math.PI/180;
+            const deltal = (p2.lon-p1.lon) * Math.PI/180;
 
-            const a = Math.sin(Δφ/2) * Math.sin(Δφ/2) +
-                Math.cos(φ1) * Math.cos(φ2) *
-                Math.sin(Δλ/2) * Math.sin(Δλ/2);
+            const a = Math.sin(deltaphi/2) * Math.sin(deltaphi/2) +
+                Math.cos(phi1) * Math.cos(phi2) *
+                Math.sin(deltal/2) * Math.sin(deltal/2);
             const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
 
-            return R * c
+            return R * c;
         }
+
+        function showResults(inRange) {
+            d3.select("#results")
+                .selectAll("tr")
+                .data(inRange)
+                .join("tr")
+                .selectAll("td")
+                .data(d => [
+                    escapeHtml(d.name),
+                    "<a href=\"#" + mapid.getZoom() + "/" + d.lat + "/" + d.lon + "\" onclick=\"gotoPostcode('" + d.postcode + "')\">" + escapeHtml(d.postcode) + "</a>",
+                    (d.distance / 1609.34).toFixed(2) + " miles away"
+                ])
+                .join("td")
+                .html(d => d);
+
+            markerLayer.clearLayers();
+            inRange.forEach(d => L.marker([d.lat, d.lon], { "title": d.name })
+                .bindPopup(escapeHtml(d.name) + "<br>" + d.postcode)
+                .addTo(markerLayer));
+        }
+
+        const mapid = L.map('mapid');
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            minZoom: 11,
+            maxZoom: 19,
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(mapid);
+        const markerLayer = L.layerGroup().addTo(mapid);
+
+        mapid.on("moveend", function () {
+            const d = mapid.getCenter();
+            const result = { lat: d.lat, lon: d.lng };
+
+            d3.select("#longitude").text(result.lon.toFixed(3));
+            d3.select("#latitude").text(result.lat.toFixed(3));
+
+            const x = Math.round((+result.lat - 49.0) / (12.0 / 160.0));
+            const y = Math.round((+result.lon + 9) / (11.0 / 80.0));
+
+            d3.csv("pubgrid/" + x + "/" + x + "-" + y + ".csv")
+                .then(function(pubs) {
+                    showResults(pubs
+                        .map(a => ({ ...a, distance: distance(result, a)}))
+                        .filter(a => a.distance < (5 * 1609.34))
+                        .sort((a, b) => a.distance - b.distance)
+                        .slice(0, 250));
+                })
+                .catch(function(error) {
+                    console.log(error);
+                    showResults([]);
+                });
+        });
+
+        mapid.setView([51.505, -0.09], 15);
+        L.control.locate({drawCircle: false, keepCurrentZoomLevel: true}).addTo(mapid);
+        var hash = new L.Hash(mapid);
+
     </script>
 
 </body>
