@@ -235,7 +235,13 @@
                 .then(function(pubs) {
                     showResults(pubs
                         .map(function(a) {
-                            return { ...a, distance: distance(result, a)};
+                            return {
+                                name: a.name,
+                                postcode: a.postcode,
+                                lat: a.lat,
+                                lon: a.lon,
+                                distance: distance(result, a)
+                            };
                         })
                         .filter(function(a) {
                             return a.distance < (5 * 1609.34);
