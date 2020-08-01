@@ -23,8 +23,8 @@ join -t , -1 2 -2 2 -o 1.1,0,2.3,2.4 <(sort -k 2 -t , target/pub_postcodes.csv) 
 
 awk -F, -f filter_postcodes.awk target/named_pubs.csv | awk -F, -f split_pubs.awk
 
-cp index.html target
-cp eotho.png target
-cp leaflet-hash.js target
-
 rm target/*.csv target/*.txt
+
+cp index.html target/
+cp assets/* target/
+
