@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="Description" content="Postcode and map search for establishments participating in the Eat Out to Help Out scheme">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Discounted Dining Finder: Places to Eat Out To Help Out</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.css"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.css" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karla:400,700|Martel:400,700">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.js" charset="utf-8"></script>    <!-- Make sure you put this AFTER Leaflet's CSS -->
@@ -15,35 +16,18 @@
     <script src="leaflet-hash.js"></script>
     <style>
         #mapid {
-            width: 95%;
-            height: 500px;
+            position: relative;
+            width: 100%;
+            height: 90%;
         }
-        body {
-            font-family: 'Martel', serif;
-            font-weight: 400;
-            background-color: #C5D0DD;
-            color: #2B394A;
+        html, body, div.container, div.tab-content, #map {
+            position: relative;
+            padding: 0;
+            margin: 0;
+            height: 100%;
         }
-
-        h1, h2, h3, h4, h5, h6 {
-            font-family: 'Karla', sans-serif;
-            font-weight: 700;
-        }
-
-        .button {
-            font-family: 'Karla', sans-serif;
-            font-weight: 700;
-            font-size: 13px;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-        }
-
-        #coords {
-            display: flex
-        }
-
-        #coords div {
-            padding-right: 15px;
+        #navigation,.navbar .navbar-default{
+            background-image: url("eotho.png");
         }
     </style>
     <!-- Google Analytics -->
@@ -59,32 +43,87 @@
     <!-- End Google Analytics -->
 </head>
 <body>
-    <h1><img src="eotho.png" alt="Eat Out to Help Out"/> Discounted Dining Finder</h1>
-    <p>
-        Use this to find participants of the
-        <a href="https://www.gov.uk/guidance/get-a-discount-with-the-eat-out-to-help-out-scheme">Eat Out to Help Out</a>
-        scheme. Uses the HMRC <a href="https://github.com/hmrc/eat-out-to-help-out-establishments">published data set</a>.
-        Read <a href="/posts/discounted_dining_finder/">how it was built</a>.
-    </p>
-    <form onsubmit="javascript:search();">
-        <label for="postcode">Enter postcode</label>
-        <input id="postcode" type="text">
-        <input id="submit" type="submit" value="Search">
-    </form>
-
-    <div id="status"></div>
-    <div id="coords">
-        <div>Longitude: <span id="longitude"></span></div>
-        <div>Latitude: <span id="latitude"></span></div>
+<div class="container">
+    <nav class="navbar navbar-light bg-light">
+        <img class="navbar-brand" src="eotho.png">
+        <ul class="nav nav-pills" role="tablist">
+            <li class="nav-item">
+                <a id="maplink" class="nav-link active" data-toggle="pill" href="#map">Map</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="pill" href="#list">List</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="pill" href="#about">About</a>
+            </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0" onsubmit="javascript:search();">
+            <div class="input-group">
+                <input id="postcode" class="form-control" type="search" placeholder="Postcode" aria-label="Search">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </div>
+            </div>
+        </form>
+    </nav>
+    <div id="invalid" class="alert alert-warning alert-dismissible collapse fade" role="alert">
+        Invalid postcode
+        <button type="button" class="close" aria-label="Close" data-toggle="collapse" href="#invalid">
+            <span aria-hidden="true">&times;</span>
+        </button>
     </div>
-    <div id="mapid"></div>
-    <div>
-        <table>
-            <thead>
-            <tr><th>Name</th><th>Postcode</th><th>Distance</th></tr>
-            </thead>
-            <tbody id="results"></tbody>
-        </table>
+    <div id="notfound" class="alert alert-warning alert-dismissible collapse fade" role="alert">
+        Postcode not found
+        <button type="button" class="close" aria-label="Close" data-toggle="collapse" href="#notfound">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="tab-content">
+        <div id="map" class="container tab-pane active">
+            <div id="mapid"></div>
+        </div>
+        <div id="list" class="container tab-pane fade">
+            <div>
+                <table>
+                    <thead>
+                    <tr><th>Name</th><th>Postcode</th><th>Distance</th></tr>
+                    </thead>
+                    <tbody id="results"></tbody>
+                </table>
+            </div>
+        </div>
+        <div id="about" class="container tab-pane fade">
+            <p>
+                Use this tool to find participants of the
+                <a href="https://www.gov.uk/guidance/get-a-discount-with-the-eat-out-to-help-out-scheme">Eat Out to Help Out</a>
+                scheme.
+            </p>
+            <p>
+                Use the Eat Out to Help Out Scheme at a participating establishment:
+            </p>
+            <ul>
+                <li>to get a 50% discount on food or non-alcoholic drinks to eat or drink in (up to a maximum of £10 discount per diner)</li>
+                <li>every Monday, Tuesday and Wednesday between 3 and 31 August</li>
+                <li>as many times as you like</li>
+            </ul>
+            <p>
+                You do not need a voucher to use this scheme and you can use it at the same time as other offers and
+                discounts. There is no minimum spend.
+            </p>
+            <p>
+                You cannot claim discount on alcoholic drinks or service charges.
+            </p>
+            <p>
+                This tool uses the published <a href="https://github.com/hmrc/eat-out-to-help-out-establishments">data set</a> on
+                the HMRC GitHub repository and is updated with the latest list of establishments daily.
+            </p>
+            <p>
+                Read all about <a href="/posts/discounted_dining_finder/">how it was built</a>.
+            </p>
+            <p>
+                &copy; 2020 Software Design Systems Ltd
+            </p>
+        </div>
     </div>
 
     <script>
@@ -105,29 +144,30 @@
         }
 
         function gotoPostcode(postcode) {
+            $('#invalid').collapse('hide');
+            $('#notfound').collapse('hide');
+            $('#maplink').tab('show');
             d3.select("#postcode").property("value", postcode);
-            document.getElementById("postcode").focus();
+            window.scrollTo(0, 0);
         }
 
         function search() {
             const postcode = normalisePostcode(d3.select("#postcode").property("value"));
 
-            d3.select("#results").text("");
-
             if (!postcode.match(POSTCODE_REGEX)) {
-                d3.select("#status").text("Invalid postcode");
+                $('#invalid').collapse('show');
             } else {
-                d3.select("#status").text("Searching...");
+                $('#invalid').collapse('hide');
                 const outcode = postcode.slice(0, -3);
 
                 d3.csv("outcode/" + outcode[0] + "/" + outcode[1] + "/" + outcode + ".csv")
                     .then(function(postcodes) {
                         const result = postcodes.find(d => normalisePostcode(d.postcode) === postcode);
                         if (result) {
-                            d3.select("#status").text("");
+                            $('#notfound').collapse('hide');
                             mapid.panTo(new L.LatLng(result.lat, result.lon));
                         } else {
-                            d3.select("#status").text("Postcode not found");
+                            $('#notfound').collapse('show');
                         }
                     })
             }
@@ -158,7 +198,7 @@
                 .data(d => [
                     escapeHtml(d.name),
                     "<a href=\"#" + mapid.getZoom() + "/" + d.lat + "/" + d.lon + "\" onclick=\"gotoPostcode('" + d.postcode + "')\">" + escapeHtml(d.postcode) + "</a>",
-                    (d.distance / 1609.34).toFixed(2) + " miles away"
+                    (d.distance / 1609.34).toFixed(2) + "mi"
                 ])
                 .join("td")
                 .html(d => d);
@@ -207,5 +247,8 @@
 
     </script>
 
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 </body>
 </html>
