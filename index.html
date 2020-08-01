@@ -162,7 +162,7 @@
 
                 d3.csv("outcode/" + outcode[0] + "/" + outcode[1] + "/" + outcode + ".csv")
                     .then(function(postcodes) {
-                        const result = postcodes.find(d => normalisePostcode(d.postcode) === postcode);
+                        const result = postcodes.find(function(d) { return normalisePostcode(d.postcode) === postcode; });
                         if (result) {
                             $('#notfound').collapse('hide');
                             mapid.panTo(new L.LatLng(result.lat, result.lon));
@@ -195,18 +195,22 @@
                 .data(inRange)
                 .join("tr")
                 .selectAll("td")
-                .data(d => [
-                    escapeHtml(d.name),
-                    "<a href=\"#" + mapid.getZoom() + "/" + d.lat + "/" + d.lon + "\" onclick=\"gotoPostcode('" + d.postcode + "')\">" + escapeHtml(d.postcode) + "</a>",
-                    (d.distance / 1609.34).toFixed(2) + "mi"
-                ])
+                .data(function(d) {
+                    return [
+                        escapeHtml(d.name),
+                        "<a href=\"#" + mapid.getZoom() + "/" + d.lat + "/" + d.lon + "\" onclick=\"gotoPostcode('" + d.postcode + "')\">" + escapeHtml(d.postcode) + "</a>",
+                        (d.distance / 1609.34).toFixed(2) + "mi"
+                    ];
+                })
                 .join("td")
-                .html(d => d);
+                .html(function(d) { return d; });
 
             markerLayer.clearLayers();
-            inRange.forEach(d => L.marker([d.lat, d.lon], { "title": d.name })
-                .bindPopup(escapeHtml(d.name) + "<br>" + d.postcode)
-                .addTo(markerLayer));
+            inRange.forEach(function(d) {
+                return L.marker([d.lat, d.lon], {"title": d.name})
+                    .bindPopup(escapeHtml(d.name) + "<br>" + d.postcode)
+                    .addTo(markerLayer)
+            });
         }
 
         const mapid = L.map('mapid');
@@ -230,9 +234,15 @@
             d3.csv("pubgrid/" + x + "/" + x + "-" + y + ".csv")
                 .then(function(pubs) {
                     showResults(pubs
-                        .map(a => ({ ...a, distance: distance(result, a)}))
-                        .filter(a => a.distance < (5 * 1609.34))
-                        .sort((a, b) => a.distance - b.distance)
+                        .map(function(a) {
+                            return { ...a, distance: distance(result, a)};
+                        })
+                        .filter(function(a) {
+                            return a.distance < (5 * 1609.34);
+                        })
+                        .sort(function(a, b) {
+                            return a.distance - b.distance;
+                        })
                         .slice(0, 250));
                 })
                 .catch(function(error) {
