@@ -3,7 +3,7 @@ cat <<EOF >target/sitemap.xml
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://eat-out-to-help-out.co/</loc>
-        <lastmod>`date +%Y-%m-%d`</lastmod>
+        <lastmod>`git log -1 --pretty="format:%cs" index.html`</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
