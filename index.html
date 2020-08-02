@@ -42,8 +42,9 @@
 </head>
 <body>
 <div class="container">
+    <h1 class="collapse">Discounted Dining Finder: Places to Eat Out To Help Out</h1>
     <nav class="navbar navbar-light bg-light">
-        <img class="navbar-brand" src="eotho.png">
+        <img class="navbar-brand" src="eotho.png" alt="Eat Out To Help Out">
         <ul class="nav nav-pills" role="tablist">
             <li class="nav-item">
                 <a id="maplink" class="nav-link active" data-toggle="pill" href="#map">Map</a>
@@ -88,7 +89,8 @@
             <p>
                 Use this tool to find participants of the
                 <a href="https://www.gov.uk/guidance/get-a-discount-with-the-eat-out-to-help-out-scheme">Eat Out to Help Out</a>
-                scheme.
+                scheme.  You can search using a postcode (e.g. "M1" or "M4 4BF") or a town ("Manchester") or borough
+                ("South Ribble").
             </p>
             <p>
                 Use the Eat Out to Help Out Scheme at a participating establishment:
@@ -209,12 +211,18 @@
         }).addTo(mapid);
         const markerLayer = L.layerGroup().addTo(mapid);
 
+        var southWest = L.latLng(49, -9),
+            northEast = L.latLng(61, 2);
+        var bounds = L.latLngBounds(southWest, northEast);
+
+        mapid.setMaxBounds(bounds);
+        mapid.on('drag', function() {
+            mapid.panInsideBounds(bounds, { animate: false });
+        });
+
         mapid.on("moveend", function () {
             const d = mapid.getCenter();
             const result = { lat: d.lat, lon: d.lng };
-
-            d3.select("#longitude").text(result.lon.toFixed(3));
-            d3.select("#latitude").text(result.lat.toFixed(3));
 
             const x = Math.round((+result.lat - 49.0) / (12.0 / 160.0));
             const y = Math.round((+result.lon + 9) / (11.0 / 80.0));
@@ -240,7 +248,6 @@
                         .slice(0, 250));
                 })
                 .catch(function(error) {
-                    console.log(error);
                     showResults([]);
                 });
         });
