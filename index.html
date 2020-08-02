@@ -58,7 +58,7 @@
                 <a class="nav-link" data-toggle="pill" href="#about">About</a>
             </li>
         </ul>
-        <form class="form-inline my-2 my-lg-0" onsubmit="javascript:search();">
+        <form class="form-inline my-2 my-lg-0" onsubmit="return search(event)">
             <div class="input-group">
                 <input id="postcode" class="form-control" type="search" placeholder="Postcode" aria-label="Search">
                 <div class="input-group-append">
@@ -67,14 +67,8 @@
             </div>
         </form>
     </nav>
-    <div id="invalid" class="alert alert-warning alert-dismissible collapse fade" role="alert">
-        Invalid postcode
-        <button type="button" class="close" aria-label="Close" data-toggle="collapse" href="#invalid">
-            <span aria-hidden="true">&times;</span>
-        </button>
-    </div>
     <div id="notfound" class="alert alert-warning alert-dismissible collapse fade" role="alert">
-        Postcode not found
+        Location not found
         <button type="button" class="close" aria-label="Close" data-toggle="collapse" href="#notfound">
             <span aria-hidden="true">&times;</span>
         </button>
@@ -129,8 +123,6 @@
 
     <script>
 
-        POSTCODE_REGEX = new RegExp("^((GIR ?0AA)|((([A-Z][0-9]{1,2})|(([A-Z][A-HJ-Y][0-9]{1,2})|(([A-Z][0-9][A-Z])|([A-Z][A-HJ-Y][0-9][A-Z]?))))\\s?[0-9][A-Z]{2}))$")
-
         function escapeHtml(unsafe) {
             return unsafe
                 .replace(/&/g, "&amp;")
@@ -141,37 +133,35 @@
         }
 
         function normalisePostcode(postcode) {
-            return postcode.replace(" ", "").toUpperCase();
+            return postcode.toUpperCase().replace(/[^A-Z0-9]/, "");
         }
 
         function gotoPostcode(postcode) {
-            $('#invalid').collapse('hide');
             $('#notfound').collapse('hide');
             $('#maplink').tab('show');
             d3.select("#postcode").property("value", postcode);
             window.scrollTo(0, 0);
         }
 
-        function search() {
+        function search(e) {
+            e.preventDefault();
+
             const postcode = normalisePostcode(d3.select("#postcode").property("value"));
+            const outcode = postcode.slice(0, 4);
 
-            if (!postcode.match(POSTCODE_REGEX)) {
-                $('#invalid').collapse('show');
-            } else {
-                $('#invalid').collapse('hide');
-                const outcode = postcode.slice(0, -3);
-
-                d3.csv("outcode/" + outcode[0] + "/" + outcode[1] + "/" + outcode + ".csv")
-                    .then(function(postcodes) {
-                        const result = postcodes.find(function(d) { return normalisePostcode(d.postcode) === postcode; });
-                        if (result) {
-                            $('#notfound').collapse('hide');
-                            mapid.panTo(new L.LatLng(result.lat, result.lon));
-                        } else {
-                            $('#notfound').collapse('show');
-                        }
-                    })
-            }
+            d3.csv("outcode/" + outcode[0] + "/" + outcode[1] + "/" + outcode + ".csv")
+                .then(function(postcodes) {
+                    const result = postcodes.find(function(d) { return normalisePostcode(d.postcode) === postcode; });
+                    if (result) {
+                        $('#notfound').collapse('hide');
+                        mapid.panTo(new L.LatLng(result.lat, result.lon));
+                    } else {
+                        $('#notfound').collapse('show');
+                    }
+                })
+                .catch(function(error) {
+                    $('#notfound').collapse('show');
+                })
             return false;
         }
 
