@@ -120,147 +120,148 @@
             </p>
         </div>
     </div>
+</div>
 
-    <script>
+<script>
 
-        function escapeHtml(unsafe) {
-            return unsafe
-                .replace(/&/g, "&amp;")
-                .replace(/</g, "&lt;")
-                .replace(/>/g, "&gt;")
-                .replace(/"/g, "&quot;")
-                .replace(/'/g, "&#039;");
-        }
+    function escapeHtml(unsafe) {
+        return unsafe
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;")
+            .replace(/'/g, "&#039;");
+    }
 
-        function normalisePostcode(postcode) {
-            return postcode.toUpperCase().replace(/[^A-Z0-9]/, "");
-        }
+    function normalisePostcode(postcode) {
+        return postcode.toUpperCase().replace(/[^A-Z0-9]/, "");
+    }
 
-        function gotoPostcode(postcode) {
-            $('#notfound').collapse('hide');
-            $('#maplink').tab('show');
-            d3.select("#postcode").property("value", postcode);
-            window.scrollTo(0, 0);
-        }
+    function gotoPostcode(postcode) {
+        $('#notfound').collapse('hide');
+        $('#maplink').tab('show');
+        d3.select("#postcode").property("value", postcode);
+        window.scrollTo(0, 0);
+    }
 
-        function search(e) {
-            e.preventDefault();
+    function search(e) {
+        e.preventDefault();
 
-            const postcode = normalisePostcode(d3.select("#postcode").property("value"));
-            const outcode = postcode.slice(0, 4);
+        const postcode = normalisePostcode(d3.select("#postcode").property("value"));
+        const outcode = postcode.slice(0, 4);
 
-            d3.csv("outcode/" + outcode[0] + "/" + outcode[1] + "/" + outcode + ".csv")
-                .then(function(postcodes) {
-                    const result = postcodes.find(function(d) { return normalisePostcode(d.postcode) === postcode; });
-                    if (result) {
-                        $('#notfound').collapse('hide');
-                        mapid.panTo(new L.LatLng(result.lat, result.lon));
-                    } else {
-                        $('#notfound').collapse('show');
-                    }
-                })
-                .catch(function(error) {
+        d3.csv("outcode/" + outcode[0] + "/" + outcode[1] + "/" + outcode + ".csv")
+            .then(function(postcodes) {
+                const result = postcodes.find(function(d) { return normalisePostcode(d.postcode) === postcode; });
+                if (result) {
+                    $('#notfound').collapse('hide');
+                    mapid.panTo(new L.LatLng(result.lat, result.lon));
+                } else {
                     $('#notfound').collapse('show');
-                })
-            return false;
-        }
+                }
+            })
+            .catch(function(error) {
+                $('#notfound').collapse('show');
+            })
+        return false;
+    }
 
-        function distance(p1, p2) {
-            const R = 6371e3; // metres
-            const phi1 = p1.lat * Math.PI/180; // φ, λ in radians
-            const phi2 = p2.lat * Math.PI/180;
-            const deltaphi = (p2.lat-p1.lat) * Math.PI/180;
-            const deltal = (p2.lon-p1.lon) * Math.PI/180;
+    function distance(p1, p2) {
+        const R = 6371e3; // metres
+        const phi1 = p1.lat * Math.PI/180; // φ, λ in radians
+        const phi2 = p2.lat * Math.PI/180;
+        const deltaphi = (p2.lat-p1.lat) * Math.PI/180;
+        const deltal = (p2.lon-p1.lon) * Math.PI/180;
 
-            const a = Math.sin(deltaphi/2) * Math.sin(deltaphi/2) +
-                Math.cos(phi1) * Math.cos(phi2) *
-                Math.sin(deltal/2) * Math.sin(deltal/2);
-            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+        const a = Math.sin(deltaphi/2) * Math.sin(deltaphi/2) +
+            Math.cos(phi1) * Math.cos(phi2) *
+            Math.sin(deltal/2) * Math.sin(deltal/2);
+        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
 
-            return R * c;
-        }
+        return R * c;
+    }
 
-        function showResults(inRange) {
-            d3.select("#results")
-                .selectAll("tr")
-                .data(inRange)
-                .join("tr")
-                .selectAll("td")
-                .data(function(d) {
-                    return [
-                        escapeHtml(d.name),
-                        "<a href=\"#" + mapid.getZoom() + "/" + d.lat + "/" + d.lon + "\" onclick=\"gotoPostcode('" + d.postcode + "')\">" + escapeHtml(d.postcode) + "</a>",
-                        (d.distance / 1609.34).toFixed(2) + "mi"
-                    ];
-                })
-                .join("td")
-                .html(function(d) { return d; });
+    function showResults(inRange) {
+        d3.select("#results")
+            .selectAll("tr")
+            .data(inRange)
+            .join("tr")
+            .selectAll("td")
+            .data(function(d) {
+                return [
+                    escapeHtml(d.name),
+                    "<a href=\"#" + mapid.getZoom() + "/" + d.lat + "/" + d.lon + "\" onclick=\"gotoPostcode('" + d.postcode + "')\">" + escapeHtml(d.postcode) + "</a>",
+                    (d.distance / 1609.34).toFixed(2) + "mi"
+                ];
+            })
+            .join("td")
+            .html(function(d) { return d; });
 
-            markerLayer.clearLayers();
-            inRange.forEach(function(d) {
-                return L.marker([d.lat, d.lon], {"title": d.name})
-                    .bindPopup(escapeHtml(d.name) + "<br>" + d.postcode)
-                    .addTo(markerLayer)
+        markerLayer.clearLayers();
+        inRange.forEach(function(d) {
+            return L.marker([d.lat, d.lon], {"title": d.name})
+                .bindPopup(escapeHtml(d.name) + "<br>" + d.postcode)
+                .addTo(markerLayer)
+        });
+    }
+
+    const mapid = L.map('mapid');
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        minZoom: 11,
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(mapid);
+    const markerLayer = L.layerGroup().addTo(mapid);
+
+    var southWest = L.latLng(49, -9),
+        northEast = L.latLng(61, 2);
+    var bounds = L.latLngBounds(southWest, northEast);
+
+    mapid.setMaxBounds(bounds);
+    mapid.on('drag', function() {
+        mapid.panInsideBounds(bounds, { animate: false });
+    });
+
+    mapid.on("moveend", function () {
+        const d = mapid.getCenter();
+        const result = { lat: d.lat, lon: d.lng };
+
+        const x = Math.round((+result.lat - 49.0) / (12.0 / 160.0));
+        const y = Math.round((+result.lon + 9) / (11.0 / 80.0));
+
+        d3.csv("pubgrid/" + x + "/" + x + "-" + y + ".csv")
+            .then(function(pubs) {
+                showResults(pubs
+                    .map(function(a) {
+                        return {
+                            name: a.name,
+                            postcode: a.postcode,
+                            lat: a.lat,
+                            lon: a.lon,
+                            distance: distance(result, a)
+                        };
+                    })
+                    .filter(function(a) {
+                        return a.distance < (5 * 1609.34);
+                    })
+                    .sort(function(a, b) {
+                        return a.distance - b.distance;
+                    })
+                    .slice(0, 250));
+            })
+            .catch(function(error) {
+                showResults([]);
             });
-        }
+    });
 
-        const mapid = L.map('mapid');
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            minZoom: 11,
-            maxZoom: 19,
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(mapid);
-        const markerLayer = L.layerGroup().addTo(mapid);
+    mapid.setView([51.505, -0.09], 15);
+    L.control.locate({drawCircle: false, keepCurrentZoomLevel: true}).addTo(mapid);
+    var hash = new L.Hash(mapid);
 
-        var southWest = L.latLng(49, -9),
-            northEast = L.latLng(61, 2);
-        var bounds = L.latLngBounds(southWest, northEast);
+</script>
 
-        mapid.setMaxBounds(bounds);
-        mapid.on('drag', function() {
-            mapid.panInsideBounds(bounds, { animate: false });
-        });
-
-        mapid.on("moveend", function () {
-            const d = mapid.getCenter();
-            const result = { lat: d.lat, lon: d.lng };
-
-            const x = Math.round((+result.lat - 49.0) / (12.0 / 160.0));
-            const y = Math.round((+result.lon + 9) / (11.0 / 80.0));
-
-            d3.csv("pubgrid/" + x + "/" + x + "-" + y + ".csv")
-                .then(function(pubs) {
-                    showResults(pubs
-                        .map(function(a) {
-                            return {
-                                name: a.name,
-                                postcode: a.postcode,
-                                lat: a.lat,
-                                lon: a.lon,
-                                distance: distance(result, a)
-                            };
-                        })
-                        .filter(function(a) {
-                            return a.distance < (5 * 1609.34);
-                        })
-                        .sort(function(a, b) {
-                            return a.distance - b.distance;
-                        })
-                        .slice(0, 250));
-                })
-                .catch(function(error) {
-                    showResults([]);
-                });
-        });
-
-        mapid.setView([51.505, -0.09], 15);
-        L.control.locate({drawCircle: false, keepCurrentZoomLevel: true}).addTo(mapid);
-        var hash = new L.Hash(mapid);
-
-    </script>
-
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 </body>
 </html>
