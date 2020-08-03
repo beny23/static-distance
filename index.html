@@ -190,7 +190,7 @@
     }
 
     function makeDirectLink(d) {
-        return "<a target=\"_blank\" href=\"https://duckduckgo.com/?q=\\" + encodeURIComponent(d.name) + "%20" + encodeURIComponent(d.postcode) + "\">" + escapeHtml(d.name) + "</a>"
+        return "<a target=\"_blank\" href=\"https://duckduckgo.com/?q=%5C" + encodeURIComponent(d.name) + "%20" + encodeURIComponent(d.postcode) + "\">" + escapeHtml(d.name) + "</a>"
     }
 
     function showResults(inRange) {
