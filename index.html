@@ -134,7 +134,7 @@
     }
 
     function normalisePostcode(postcode) {
-        return postcode.toUpperCase().replace(/[^A-Z0-9]/, "");
+        return postcode.toUpperCase().replace(/[^A-Z0-9]/g, "");
     }
 
     function gotoPostcode(postcode) {
