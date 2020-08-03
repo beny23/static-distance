@@ -115,6 +115,11 @@
                 registered for the scheme.
             </p>
             <p>
+                The direct links to the restaurant use a <a href="https://duckduckgo.com/">duckduckgo</a> search of the
+                restaurant's name and postcode - which typically lands on the correct page, though not all establishments have
+                been checked and there is no guarantee that it will find the right place.
+            </p>
+            <p>
                 Read all about <a href="https://beny23.github.io/posts/discounted_dining_finder/">how it was built</a>.
             </p>
             <p>
@@ -184,6 +189,10 @@
         return R * c;
     }
 
+    function makeDirectLink(d) {
+        return "<a target=\"_blank\" href=\"https://duckduckgo.com/?q=\\" + encodeURIComponent(d.name) + "%20" + encodeURIComponent(d.postcode) + "\">" + escapeHtml(d.name) + "</a>"
+    }
+
     function showResults(inRange) {
         d3.select("#results")
             .selectAll("tr")
@@ -192,7 +201,7 @@
             .selectAll("td")
             .data(function(d) {
                 return [
-                    escapeHtml(d.name),
+                    makeDirectLink(d),
                     "<a href=\"#" + mapid.getZoom() + "/" + d.lat + "/" + d.lon + "\" onclick=\"gotoPostcode('" + d.postcode + "')\">" + escapeHtml(d.postcode) + "</a>",
                     (d.distance / 1609.34).toFixed(2) + "mi"
                 ];
@@ -203,7 +212,7 @@
         markerLayer.clearLayers();
         inRange.forEach(function(d) {
             return L.marker([d.lat, d.lon], {"title": d.name})
-                .bindPopup(escapeHtml(d.name) + "<br>" + d.postcode)
+                .bindPopup(makeDirectLink(d) + "<br>" + d.postcode)
                 .addTo(markerLayer)
         });
     }
