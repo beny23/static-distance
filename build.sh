@@ -20,7 +20,7 @@ awk -F, -f filter_postcodes.awk target/named_pubs.csv | awk -F, -f split_pubs.aw
 
 #Add additional bits to "outcodes" for non postcode places
 awk 'BEGIN { FS="\t"; OFS=","; } $8 ~ /^(PPL|ADM)/ && $5 > 49 && $5 < 61 && $6 > -8 && $6 < 2 { gsub(/[^a-zA-Z0-9]/, "", $2); print $8, $2, $5, $6, $15 }' GB.txt \
-| sort -rnk5,5 -t, | awk -F, 'BEGIN { OFS = FS }; NF { NF -= 1 }; 1' | tr '[:lower:]' '[:upper:]' | sort -u -k2,2 -t, | awk -F, -f split_locations.awk
+| sort -rnk5,5 -t, | cut -f1-4 -d, | tr '[:lower:]' '[:upper:]' | sort -u -k2,2 -t, | awk -F, -f split_locations.awk
 cat postcode-outcodes.csv | awk -F, -f filter_postcodes.awk | awk -F, -f split_locations.awk
 
 rm target/*.csv target/*.txt
