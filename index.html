@@ -213,7 +213,7 @@
         inRange.forEach(function(d) {
             let fsa = '';
 		if (d.fsa > 0) {
-			fsa = "<br> FSA Rating:" + d.fsa + "<br>Category:" + d.cat;
+			fsa = "<br> Food Standards Agency Rating:" + d.fsa + "<br>Category:" + d.cat;
 		}
             return L.marker([d.lat, d.lon], {"title": d.name})
                 .bindPopup(makeDirectLink(d) + "<br>" + d.postcode + fsa)
