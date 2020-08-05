@@ -3,10 +3,7 @@ set -ex
 
 rm -rf target/*
 
-for d in `seq 0 170`
-do
-  mkdir -p target/pubgrid/$d
-done
+mkdir -p target/pubgrid/{0..170}
 
 gunzip -c ukpostcodes.csv.gz | awk -F, -f reduce_precision.awk | awk -F, -f filter_postcodes.awk > target/ukpostcodes.csv
 awk -F, -f split_locations.awk target/ukpostcodes.csv
@@ -16,6 +13,7 @@ bash read_pubs.sh
 
 join -t , -1 2 -2 2 -o 1.1,0,2.3,2.4 <(sort -k 2 -t , target/pub_postcodes.csv) <(sort -k 2 -t , target/ukpostcodes.csv) > target/named_pubs.csv
 
+bash add_fsa.sh
 awk -F, -f filter_postcodes.awk target/named_pubs.csv | awk -F, -f split_pubs.awk
 
 #Add additional bits to "outcodes" for non postcode places
