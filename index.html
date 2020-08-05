@@ -78,7 +78,7 @@
             <div>
                 <table>
                     <thead>
-                    <tr><th>Name</th><th>Postcode</th><th>Distance</th></tr>
+                    <tr><th>Name</th><th>Postcode</th><th>Distance</th><th>Food Hygine Score</th><th>Category</th></tr>
                     </thead>
                     <tbody id="results"></tbody>
                 </table>
@@ -200,10 +200,17 @@
             .join("tr")
             .selectAll("td")
             .data(function(d) {
+		let fsa = "Not found / rated";
+		if (d.fsa > 0) {
+
+		    fsa = "<img src='fhrs_" + d.fsa + "_en-gb.jpg' alt='Food Standard Agency Score: " + d.fsa + "' />";
+		}
                 return [
                     makeDirectLink(d),
                     "<a href=\"#" + mapid.getZoom() + "/" + d.lat + "/" + d.lon + "\" onclick=\"gotoPostcode('" + d.postcode + "')\">" + escapeHtml(d.postcode) + "</a>",
-                    (d.distance / 1609.34).toFixed(2) + "mi"
+                    (d.distance / 1609.34).toFixed(2) + "mi",
+		    fsa,
+                    d.cat
                 ];
             })
             .join("td")
@@ -217,7 +224,6 @@
 		}
             return L.marker([d.lat, d.lon], {"title": d.name})
                 .bindPopup(makeDirectLink(d) + "<br>" + d.postcode + fsa)
-                .addTo(markerLayer)
                 .addTo(markerLayer)
         });
     }
