@@ -15,15 +15,15 @@
     <meta name="Description" content="Postcode, town and map search for establishments participating in the Eat Out to Help Out scheme. Allows you to search all participating establishments using postcode, town or village name on a zoom/dragabble map. And it's open source.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Discounted Dining Finder: Places to Eat Out To Help Out</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.css"/>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.css" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.css" integrity="sha384-eS4bw6aEvhCSXWGP85ANR/N8isWKzT7P36NvcuTJGkrj6wsbxLVpXslrNXYHyseD" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.css" integrity="sha384-vNGCZwbWwO+u7VXCcmLEJRcz/YmtXGdC3LOF8O4/IvddhfpYZI1O0tJszYkbsD2" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" integrity="sha384-bF2gXog8EbftpjuWQY8G0T7aeq+FvNU9YWvxSRHybqv2F/lvV5msKMHvRgoukeQP" crossorigin="anonymous">
 
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.find%2Cfetch%2CPromise%2CPromise.prototype.finally%2Cdefault%2CArray.prototype.includes"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.js" charset="utf-8"></script>    <!-- Make sure you put this AFTER Leaflet's CSS -->
-    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.find%2Cfetch%2CPromise%2CPromise.prototype.finally%2Cdefault%2CArray.prototype.includes" integrity="sha384-bF2gXog8EbftpjuWQY8G0T7aeq+FvNU9YWvxSRHybqv2F/lvV5msKMHvRgoukeQP" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/leaflet.js" integrity="sha384-wKOriz2x8/bF1D9t6PuKhSpxfhHeVi9huvyuxJrrShSJpi5+rmRIsM90UuWbdAYJ" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.locatecontrol@0.72.0/dist/L.Control.Locate.min.js" integrity="sha384-g5auForUrJRA/c7ecPwFWRKeQqsJphdlumGoxbKTX6tpzREZyXRzeGwqjenHr4Yx" crossorigin="anonymous" charset="utf-8"></script>    <!-- Make sure you put this AFTER Leaflet's CSS -->
+    <script src="https://d3js.org/d3.v5.min.js" integrity="sha384-M06Cb6r/Yrkprjr7ngOrJlzgekrkkdmGZDES/SUnkUpUol0/qjsaQWQfLzq0mcfg" crossorigin="anonymous"></script>
     <script src="leaflet-hash.js"></script>
     <style>
         #mapid {
@@ -248,6 +248,7 @@
     mapid.on("moveend", function () {
         const d = mapid.getCenter();
         const result = { lat: d.lat, lon: d.lng };
+        localStorage && localStorage.setItem('location', JSON.stringify({long: d.lng, lat: d.lat, zoom: mapid._zoom}));
 
         const x = Math.round((+result.lat - 49.0) / (12.0 / 160.0));
         const y = Math.round((+result.lon + 9) / (11.0 / 80.0));
@@ -279,7 +280,17 @@
             });
     });
 
-    mapid.setView([51.505, -0.09], 15);
+    let defaults = {
+        lat: 51.505,
+        long: -0.09,
+        zoom: 15
+    }
+
+    if (localStorage && localStorage.getItem('location')) {
+        defaults = JSON.parse(localStorage.getItem('location'));
+    }
+
+    mapid.setView([defaults.lat, defaults.long], defaults.zoom);
     L.control.locate({drawCircle: false, keepCurrentZoomLevel: true}).addTo(mapid);
     var hash = new L.Hash(mapid);
 
