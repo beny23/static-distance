@@ -75,10 +75,10 @@
             <div id="mapid"></div>
         </div>
         <div id="list" class="container tab-pane fade">
-            <div>
-                <table>
+            <div class="table-responsive">
+                <table class="table">
                     <thead>
-                    <tr><th>Name</th><th>Postcode</th><th>Distance</th><th>Food Hygine Score</th><th>Category</th></tr>
+                    <tr><th>Name</th><th>Postcode</th><th>Distance</th><th>Food Hygine Rating</th><th>Category</th></tr>
                     </thead>
                     <tbody id="results"></tbody>
                 </table>
@@ -203,7 +203,7 @@
 		let fsa = "Not found / rated";
 		if (d.fsa > 0) {
 
-		    fsa = "<img src='fhrs_" + d.fsa + "_en-gb.jpg' alt='Food Standard Agency Score: " + d.fsa + "' />";
+		    fsa = "<img src='fhrs_md_" + d.fsa + "_en-gb.jpg' alt='Food Standard Agency Score: " + d.fsa + "' />";
 		}
                 return [
                     makeDirectLink(d),
@@ -220,7 +220,7 @@
         inRange.forEach(function(d) {
             let fsa = '';
 		if (d.fsa > 0) {
-			fsa = "<br><img src='fhrs_" + d.fsa + "_en-gb.jpg' alt='Food Standard Agency Score: " + d.fsa + "' /> <br>Category:" + d.cat;
+			fsa = "<br><img src='fhrs_" + d.fsa + "_en-gb.jpg' alt='Food Standard Agency Score: " + d.fsa + "' /><br>" + d.cat;
 		}
             return L.marker([d.lat, d.lon], {"title": d.name})
                 .bindPopup(makeDirectLink(d) + "<br>" + d.postcode + fsa)
