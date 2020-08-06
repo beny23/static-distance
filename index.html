@@ -237,6 +237,7 @@
     mapid.on("moveend", function () {
         const d = mapid.getCenter();
         const result = { lat: d.lat, lon: d.lng };
+        localStorage.setItem('location', JSON.stringify({long: d.lng, lat: d.lat, zoom: mapid._zoom}));
 
         const x = Math.round((+result.lat - 49.0) / (12.0 / 160.0));
         const y = Math.round((+result.lon + 9) / (11.0 / 80.0));
@@ -266,7 +267,17 @@
             });
     });
 
-    mapid.setView([51.505, -0.09], 15);
+    let defaults = {
+        lat: 51.505,
+        long: -0.09,
+        zoom: 15
+    }
+
+    if (localStorage && localStorage.getItem('location')) {
+        defaults = JSON.parse(localStorage.getItem('location'));
+    }
+
+    mapid.setView([defaults.lat, defaults.long], defaults.zoom);
     L.control.locate({drawCircle: false, keepCurrentZoomLevel: true}).addTo(mapid);
     var hash = new L.Hash(mapid);
 
