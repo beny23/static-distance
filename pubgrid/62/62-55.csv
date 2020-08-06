@@ -47,6 +47,7 @@ Out of the Woods,LS1 4GL,53.7935,-1.5488
 Mans Market,LS1 4JJ,53.7962,-1.5533
 Lazy Lounge,LS1 4JY,53.7959,-1.5533
 The Whitehall Restaurant and Bar Limited,LS1 4JY,53.7959,-1.5533
+Toast Bar,LS1 4JY,53.7959,-1.5533
 CrepeAffaire Leeds,LS1 5AT,53.7965,-1.5446
 MEATLiquor,LS1 5AT,53.7965,-1.5446
 Comptoir Leeds,LS1 5AY,53.7966,-1.5439
@@ -132,6 +133,7 @@ Subway,LS10 1EW,53.7871,-1.5406
 Sheaf St,LS10 1HD,53.7912,-1.5381
 Cha Lounge Ltd,LS10 1JF,53.7937,-1.5395
 Ciao Bella restaurant,LS10 1JF,53.7937,-1.5395
+The Tetley ,LS10 1JQ,53.7930,-1.5411
 Printworks Kitchen and bar,LS10 1JY,53.7875,-1.5352
 Holiday Inn Express Leeds Armouries ,LS10 1LE,53.7906,-1.5304
 Cafe YumYum,LS10 1NE,53.7935,-1.5374
@@ -141,6 +143,7 @@ Ronnies Ltd t/a McDonalds 672,LS10 1QR,53.7816,-1.5270
 Subway,LS10 1QR,53.7816,-1.5270
 KFC HUNSLET 02031,LS10 2AG,53.7784,-1.5317
 Costa Coffee,LS10 2AP,53.7788,-1.5286
+The Crooked Clock,LS10 2LF,53.7755,-1.5173
 Starbucks Leeds Bridgewater Place,LS11 5BZ,53.7915,-1.5478
 John Charles Centre for Sport Flavour Café,LS11 5DJ,53.7642,-1.5420
 Casa Das Fransecinha ,LS11 5EG,53.7781,-1.5445
@@ -199,6 +202,7 @@ The Lamb and Flag,LS2 7HD,53.7950,-1.5370
 Fat Annie's Hot Dogs,LS2 7HY,53.7976,-1.5386
 Jenny’s Jerk Chicken ,LS2 7HY,53.7976,-1.5386
 Manjit's Kitchen ,LS2 7HY,53.7976,-1.5386
+khao gaeng thai ,LS2 7HY,53.7976,-1.5386
 Akbar's Restaurant,LS2 7LY,53.7990,-1.5384
 Pizza Fella Pizzeria Ltd,LS2 7NL,53.7997,-1.5393
 The Owl,LS2 7RQ,53.7968,-1.5399
@@ -212,8 +216,10 @@ Subway Garforth,LS25 1AF,53.7953,-1.3885
 LA BELLA VITA (LEEDS) LTD,LS25 1DS,53.7929,-1.3886
 The Topiary Coffee Shop,LS25 2AQ,53.7822,-1.3705
 Freshly Made Sandwich Bar & Cafe,LS25 2EA,53.7967,-1.3753
+Clip n Climb Garforth,LS25 2EB,53.7971,-1.3775
 Aagrah Garforth,LS25 2HF,53.7984,-1.3686
 The Queen o’ t’ owd Thatch,LS25 5AQ,53.7779,-1.2556
+The Swan Hotel,LS25 5AR,53.7790,-1.2478
 Cumin Lounge,LS25 5AS,53.7775,-1.2481
 China Palace Restaurant,LS25 5DP,53.7734,-1.2487
 The Crown Inn,LS25 5DU,53.7624,-1.2359
@@ -231,10 +237,12 @@ Sylhety Balti,LS25 7LT,53.7671,-1.3708
 SUBWAY,LS26 0AF,53.7488,-1.4779
 Dill & Bay Restaurant,LS26 0AG,53.7470,-1.4780
 Jailyarddiner ,LS26 0AW,53.7486,-1.4768
+Mirchiz Restaurant and take away Ltd,LS26 0AW,53.7486,-1.4768
 Swithens Farm Shop Limited,LS26 0BT,53.7385,-1.4739
 The Pavilion Cafe,LS26 0DY,53.7492,-1.4739
 Hare & Hounds,LS26 0QD,53.7484,-1.4797
 SALUTE AT THE WHITE SWAN,LS26 0QL,53.7495,-1.4814
+Grand Indian Lounge Restaurant ltd ,LS26 8DJ,53.7663,-1.4225
 Cazs Cafe,LS26 8DT,53.7663,-1.4212
 Oulton Hall Hotel,LS26 8HN,53.7447,-1.4586
 Zoya Restaurant ,LS26 8HP,53.7516,-1.4480
@@ -251,6 +259,7 @@ Aagrah Restaurant Leeds,LS9 8AH,53.7971,-1.5332
 Kendells Bistro,LS9 8AH,53.7971,-1.5332
 Casa Peri Peri,LS9 8AQ,53.7971,-1.5331
 The Gateway Bar & Grill,LS9 8BZ,53.7950,-1.5327
+Blukku Ltd,LS9 8HB,53.7963,-1.5286
 The New Captains Table,LS9 8LH,53.7900,-1.5233
 Ruby's Ice Cream,S71 4QU,53.5979,-1.4537
 Poppy's of Cudworth LTD,S72 8JN,53.5776,-1.4166
@@ -276,6 +285,7 @@ Marmalade on the square ,WF1 1HB,53.6832,-1.4985
 Mr and Mrs C’s,WF1 1HB,53.6832,-1.4985
 Al's Tea and coffee Shop ,WF1 1HX,53.6824,-1.4938
 Harry's Fish & Chip Restaurant,WF1 1HX,53.6824,-1.4938
+Sweet Sensation Creamery Limited,WF1 1JG,53.6811,-1.4925
 Holiday Inn Express Wakefield,WF1 1JU,53.6819,-1.4994
 Montys,WF1 1PJ,53.6832,-1.4967
 Break-Fast,WF1 1PN,53.6836,-1.4970
@@ -410,6 +420,7 @@ Nostalgic Kitchen,WF4 5DA,53.6593,-1.5503
 The CoffeeStop At The Junction Horbury Ltd,WF4 5FH,53.6530,-1.5402
 Bistro 42 Horbury,WF4 5LE,53.6599,-1.5561
 The Quarry Restaurant and Grill,WF4 5NF,53.6590,-1.5665
+Cinnamon Lounge,WF4 5NN,53.6581,-1.5708
 The Cherry Tree Horbury Limited,WF4 6LT,53.6607,-1.5544
 Malagor,WF5 0NH,53.6776,-1.5636
 Corner Kitchen,WF6 2AD,53.6998,-1.4196

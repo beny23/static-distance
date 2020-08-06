@@ -55,6 +55,7 @@ McDonald's Store 946 Pilsworth,BL9 8RD,53.5745,-2.2801
 Crowded House,BL9 9SU,53.5692,-2.2941
 let's lunch,M15 4EY,53.4698,-2.2644
 The Banyan Tree of Castlefield,M15 4JY,53.4710,-2.2641
+The crumb cake company,M16 0AY,53.4476,-2.2699
 Ashiana Takeaway,M16 0BN,53.4509,-2.2723
 Jerk Junction,M16 0DZ,53.4496,-2.2740
 1887 Sports Bar & Cafe,M16 0PE,53.4615,-2.2789
@@ -76,6 +77,7 @@ Burger King,M17 8EH,53.4656,-2.3488
 Chaobaby,M17 8EH,53.4656,-2.3488
 East Street By Tampopo,M17 8EH,53.4656,-2.3488
 McDonald's Restaurant,M17 8EH,53.4656,-2.3488
+Oh You Pretty Things,M17 8EH,53.4656,-2.3488
 SHERE KHAN EXPRESS,M17 8EH,53.4656,-2.3488
 Subway,M17 8EH,53.4656,-2.3488
 tampopo,M17 8EH,53.4656,-2.3488
@@ -92,6 +94,8 @@ Olive & Thyme,M21 8AD,53.4417,-2.2761
 TUTKU CAFE,M21 8AD,53.4417,-2.2761
 Dessert Republic,M21 8AE,53.4415,-2.2767
 Jasmine Restaurant,M21 8AE,53.4415,-2.2767
+The Little Yeti,M21 8AG,53.4385,-2.2751
+coriander restautant 1 ltd,M21 8AG,53.4385,-2.2751
 Roti Food & Liquor,M21 8AN,53.4408,-2.2761
 KFC,M21 8AU,53.4361,-2.2739
 MCD Manchester LTD (McDonald's),M21 8AY,53.4368,-2.2728
@@ -103,12 +107,15 @@ double zero pizza,M21 8AZ,53.4381,-2.2741
 Subway Chorlton,M21 8ER,53.4347,-2.2736
 Yoga Cafe,M21 8HA,53.4320,-2.2687
 JJ's Desi Kitchen,M21 9AN,53.4424,-2.2805
+Jaipur Palace,M21 9AN,53.4424,-2.2805
 CROMA CHORLTON,M21 9AP,53.4428,-2.2802
 Chapati Cafe,M21 9AS,53.4427,-2.2789
 Cocoa Tree Ltd,M21 9AS,53.4427,-2.2789
 Into The Woods,M21 9AW,53.4428,-2.2807
+Pho Bowl,M21 9AW,53.4428,-2.2807
 Thai Spice,M21 9EG,53.4387,-2.2806
 The Laundrette,M21 9EL,53.4383,-2.2791
+Barrio chorlton,M21 9EQ,53.4384,-2.2806
 LS BEECH ROAD LTD,M21 9EQ,53.4384,-2.2806
 Zitano Restaurant ,M21 9EQ,53.4384,-2.2806
 Bowling Green,M21 9ES,53.4371,-2.2834
@@ -117,6 +124,7 @@ The Font,M21 9PG,53.4475,-2.2775
 The Oystercatcher,M21 9PG,53.4475,-2.2775
 The thirsty korean ,M21 9PG,53.4475,-2.2775
 Proof,M21 9PH,53.4443,-2.2781
+Barbakan Delicatessen,M21 9PW,53.4455,-2.2785
 Tea Hive ,M21 9PW,53.4455,-2.2785
 Flavour Factory,M22 1SG,53.3768,-2.2803
 Britannia Airport Hotel,M22 4FH,53.4071,-2.2657
@@ -128,6 +136,7 @@ MCD Manchester LTD (McDonald's),M23 9AA,53.4003,-2.2910
 Brooks Fish & Chips Ltd,M23 9EG,53.4046,-2.3041
 RiMo at Maccabi,M25 0EG,53.5237,-2.2628
 Mozzarella,M25 0LE,53.5189,-2.2703
+Italian Eats,M25 0PD,53.5243,-2.2761
 The Coffee Sack,M25 0PD,53.5243,-2.2761
 babbo,M25 0PD,53.5243,-2.2761
 TAO'S,M25 0RP,53.5242,-2.2762
@@ -139,6 +148,7 @@ BNR Kitchen Ltd T/A Istanbul Grill ,M25 1AX,53.5332,-2.2850
 Breakfast at claires ,M25 1AY,53.5329,-2.2843
 CROMA PRESTWICH,M25 1AY,53.5329,-2.2843
 Prestwich Village - Costa Coffee,M25 1AY,53.5329,-2.2843
+Butter me up,M25 1HA,53.5295,-2.2681
 KRAVE COFFEE ,M25 1NL,53.5377,-2.2763
 Rios Gourmet Grill,M25 1NL,53.5377,-2.2763
 Park Life Café Lakeside - Heaton Park ,M25 2GT,53.5385,-2.2678
@@ -169,6 +179,7 @@ Swinton - Costa Coffee,M27 4BD,53.5119,-2.3379
 PARADE FISH BAR LTD,M27 4BH,53.5125,-2.3386
 Swinton Buffet,M27 4DL,53.5156,-2.3278
 Sykes fish and chips,M27 4ET,53.5176,-2.3310
+Agra Indian Cuisine,M27 4TT,53.5081,-2.3314
 DEURALI RESTAURANT,M27 5AF,53.5090,-2.3342
 Swinton Park Golf & Country Club 2017 LTD,M27 5LX,53.5020,-2.3262
 Siena Italian Ristorante,M27 5SQ,53.5059,-2.3412
@@ -182,6 +193,7 @@ Queens Subway,M28 1BT,53.5060,-2.4262
 The Tea Set,M28 1DN,53.5048,-2.4340
 Buffalo Bar and Grill Limited,M28 1FB,53.5030,-2.4161
 Shahbaaz Indian Restaurant Limited,M28 1FB,53.5030,-2.4161
+Vesuvio Restaurant ,M28 1FB,53.5030,-2.4161
 Coal and Cotton,M28 1LR,53.5021,-2.4184
 The Delph Restaurant & Bar,M28 2NL,53.5004,-2.3796
 George's Dining Room and Bar,M28 2PD,53.4987,-2.3807
@@ -237,6 +249,8 @@ The Hive Stretford,M32 9BH,53.4452,-2.3087
 HIGHLINK CAPITAL LTD,M32 9LN,53.4503,-2.3232
 HIGHLINK VENTURES LTD,M32 9LN,53.4503,-2.3232
 MBUK VENTURES LTD,M32 9LN,53.4503,-2.3232
+FRENCH FEELING,M33 2DH,53.4242,-2.3170
+Milktray ,M33 2DH,53.4242,-2.3170
 Mustard,M33 2DH,53.4242,-2.3170
 Propeller Coffee,M33 2DH,53.4242,-2.3170
 Mellors Catering Services Ltd,M33 2GS,53.4245,-2.2941
@@ -274,6 +288,7 @@ Bar Bianco Ltd,M33 7XN,53.4246,-2.3233
 Bean & Brush Family Art Cafe,M33 7XW,53.4252,-2.3255
 Massala Lounge,M33 7XY,53.4246,-2.3198
 VIDA (SALE) LTD,M33 7XY,53.4246,-2.3198
+Cafe Se7en Ltd,M33 7XZ,53.4245,-2.3224
 Costa Coffee,M33 7YF,53.4252,-2.3238
 Spice 'N' Spirits Indian Kitchen Ltd,M38 9EG,53.5319,-2.4272
 Lilys at Eden ,M41 0NA,53.4491,-2.3547
@@ -303,6 +318,7 @@ Chameleon ,M41 9ET,53.4438,-2.3652
 Brewchimp Urmston,M41 9FD,53.4450,-2.3638
 Mela Restaurant ,M41 9JG,53.4475,-2.3526
 The Italian job restaurant ,M41 9JG,53.4475,-2.3526
+station cocktail bar grill,M41 9JG,53.4475,-2.3526
 WHITTAKERS CAFE,M41 9JN,53.4473,-2.3531
 The Bus Stop Cafe Ltd,M41 9NA,53.4465,-2.3384
 Leoncino Ltd,M41 9SB,53.4481,-2.3533
@@ -349,12 +365,14 @@ McDonald's Restaurant,M50 1ZD,53.4830,-2.3284
 Subway,M50 1ZD,53.4830,-2.3284
 VICEGOLD CATERERS,M50 2EQ,53.4741,-2.2976
 The Alchemist Media City,M50 3AB,53.4718,-2.2956
+Cult & Coffee LTD,M50 3AD,53.4670,-2.2840
 Lime,M50 3AG,53.4709,-2.2932
 Cuppa Coffee ,M50 3AH,53.4709,-2.2931
 Deli Fresh,M50 3AH,53.4709,-2.2931
 Harry Ramsdens,M50 3AH,53.4709,-2.2931
 TANDOORI DELIGHTS,M50 3AH,53.4709,-2.2931
 Craftbrew,M50 3UB,53.4712,-2.2945
+Shahi Masala,M50 3WL,53.4705,-2.2832
 Snack shack ,M6 5JA,53.4890,-2.2867
 Subway,M6 5JA,53.4890,-2.2867
 Speedy chicken & pizza ,M6 5PP,53.4872,-2.2946
@@ -461,12 +479,14 @@ Porta,WA14 1RZ,53.3867,-2.3522
 The Con Club,WA14 1RZ,53.3867,-2.3522
 Chilli B - Alty,WA14 1SA,53.3875,-2.3519
 Market House Altrincham,WA14 1SA,53.3875,-2.3519
+RUBENS MED SHED,WA14 1SB,53.3862,-2.3515
 Oxford Road Cafe,WA14 2DP,53.3830,-2.3520
 Coffii 22,WA14 2DW,53.3837,-2.3526
 KATHMANDU KITCHEN,WA14 2DW,53.3837,-2.3526
 Nahm Prik Thai Cuisine,WA14 2DW,53.3837,-2.3526
 California Coffee and Wine Co.,WA14 2DY,53.3839,-2.3518
 S A S Catering Limited,WA14 2ED,53.3827,-2.3507
+Yara Altrincham ,WA14 2ED,53.3827,-2.3507
 Gonbay Chinese Restaurant,WA14 2QD,53.3840,-2.3529
 Rasassi Restaurant ,WA14 2QD,53.3840,-2.3529
 Batch Deli,WA14 2RD,53.3851,-2.3523
@@ -479,6 +499,7 @@ Da Noi Restaurant,WA14 4NP,53.3888,-2.3502
 Essence ,WA14 4RJ,53.3968,-2.3524
 ATLANTIC BOWL,WA14 5BW,53.3980,-2.3557
 McDonald's Restaurant,WA14 5GR,53.4008,-2.3561
+Spice Indian cuisine ,WA14 5NH,53.4066,-2.3466
 Subway Timperley,WA14 5NH,53.4066,-2.3466
 The Cafe Place Altrincham Limited ,WA14 5NS,53.3991,-2.3527
 Dunham Massey Farm Icecream ,WA14 5SG,53.3887,-2.4141
@@ -569,6 +590,7 @@ Cardamon Restaurant ,WA4 6LG,53.3695,-2.5802
 expedition,WA4 6LG,53.3695,-2.5802
 EGO Mediterranean Restaurant Stockton Heath,WA4 6NJ,53.3701,-2.5818
 Maison Fleur,WA4 6NJ,53.3701,-2.5818
+heaths26,WA4 6NL,53.3692,-2.5820
 Bus Stop Bistro & Bar,WA4 6SG,53.3720,-2.5814
 Rudra corporation limited T/A Wasabi Teppanyaki,WA4 6SG,53.3720,-2.5814
 Terrace Bistro,WA4 6SG,53.3720,-2.5814
@@ -619,6 +641,7 @@ Casino De Cuba,WN1 1YB,53.5464,-2.6307
 THE FAT OLIVE RESTAURANT ,WN1 2AD,53.5506,-2.6310
 Basmati restaurant wigan,WN1 2LF,53.5535,-2.6281
 The Cherry Gardens Hotel,WN1 2NT,53.5631,-2.6304
+Jks kitchen,WN1 3EU,53.5433,-2.6230
 The Mount cafe,WN2 1DA,53.5572,-2.6093
 Alexanders Coffee Shop ,WN2 1PE,53.5730,-2.6097
 Two Left Feet Tap,WN2 1PE,53.5730,-2.6097
@@ -635,6 +658,8 @@ The Bucks Head,WN2 5RQ,53.5103,-2.5940
 Fresh Choice Cafes Ltd,WN3 4AR,53.5425,-2.6429
 Power Kitchen Nutrition Limited,WN3 4DP,53.5449,-2.6376
 Hideout,WN3 4HX,53.5418,-2.6320
+Shimlar,WN3 4UG,53.5265,-2.6109
+Postcode Coffee House,WN3 5AB,53.5411,-2.6417
 Foodie Cafe & Resto,WN3 5BD,53.5396,-2.6403
 McDonalds ,WN3 6XA,53.5202,-2.6529
 Velocity Leisure Ltd Wigan,WN3 6XU,53.5176,-2.6545

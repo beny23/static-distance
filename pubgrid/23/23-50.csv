@@ -9,6 +9,7 @@ McDonald's,BH1 1DS,50.7205,-1.8776
 KOKORO,BH1 1DT,50.7210,-1.8769
 simit chai,BH1 1DT,50.7210,-1.8769
 Leo Cafe,BH1 1EN,50.7219,-1.8760
+Kala Thai,BH1 1EP,50.7221,-1.8751
 Zazacafe ,BH1 1EW,50.7216,-1.8764
 Frieda's tearoom Ltd,BH1 1JH,50.7231,-1.8689
 The Coconut Tree,BH1 1JU,50.7223,-1.8701
@@ -114,6 +115,7 @@ Filippo's Restaurant,BH14 9BY,50.7285,-1.9313
 Boheme,BH14 9DZ,50.7286,-1.9386
 Crusty Bread Artisan Bakery,BH14 9DZ,50.7286,-1.9386
 Jenkins  & Sons Ltd,BH14 9NB,50.7232,-1.9259
+NICK THE FISH LTD,BH14 9NB,50.7232,-1.9259
 Penn Central,BH14 9NB,50.7232,-1.9259
 The Fisherman cafe LTD,BH15 1AB,50.7130,-1.9879
 Tin of Sardines,BH15 1AB,50.7130,-1.9879
@@ -132,8 +134,10 @@ Quay Cafe,BH15 1HH,50.7123,-1.9843
 Custom House Cafe,BH15 1HJ,50.7124,-1.9864
 Da Vincis ,BH15 1HJ,50.7124,-1.9864
 Oriel on the Quay,BH15 1HJ,50.7124,-1.9864
+Poole quay fish bar LTD ,BH15 1HJ,50.7124,-1.9864
 ROCKFISH POOLE,BH15 1HJ,50.7124,-1.9864
 The Lord Nelson,BH15 1HJ,50.7124,-1.9864
+quay roast,BH15 1HJ,50.7124,-1.9864
 Deli on the Quay,BH15 1HU,50.7123,-1.9842
 Rancho South American Steak House,BH15 1HU,50.7123,-1.9842
 Hotel du Vin & Bistro Poole,BH15 1JN,50.7129,-1.9898
@@ -220,6 +224,7 @@ Lolas,BH2 5RT,50.7199,-1.8845
 Tealith Bubble Tea,BH2 5RT,50.7199,-1.8845
 the four horsemen pub,BH2 5RT,50.7199,-1.8845
 Bag Of Holding,BH2 5RY,50.7204,-1.8854
+TROY RESTAURANT,BH2 5RY,50.7204,-1.8854
 TWELVE EATERY,BH2 5RY,50.7204,-1.8854
 mad cucumber,BH2 5RY,50.7204,-1.8854
 Pondok Fresh Falafel and Juice,BH2 5SE,50.7200,-1.8848
@@ -304,6 +309,7 @@ DUDSBURY GOLF CLUB,BH22 8ST,50.7856,-1.9033
 The Kings Arms,BH22 9AA,50.7788,-1.9092
 The White Hart,BH22 9AB,50.7827,-1.9084
 The Bridge House Hotel,BH22 9AN,50.7776,-1.9080
+JOY FERNDOWN,BH22 9AT,50.8000,-1.8916
 Chianti restaurant,BH22 9AU,50.8007,-1.8906
 McDonald's ,BH22 9BB,50.8115,-1.8734
 Haskins Garden Centre Ferndown,BH22 9DG,50.7857,-1.9091
@@ -316,6 +322,7 @@ Premier Bar and Catering Ltd,BH23 6BL,50.7824,-1.8591
 seasons restaurant,BH24 2ET,50.8506,-1.8503
 Oakdene Forest Park,BH24 2RZ,50.8115,-1.8584
 West Hants Lawn Tennis Company (Bournemouth) Ltd,BH3 7EF,50.7380,-1.8860
+jjs snack shack,BH31 6AX,50.8687,-1.8504
 Cafe Argyll,BH4 8AB,50.7153,-1.8997
 Westbourne Conservative Club,BH4 8DX,50.7202,-1.9029
 The Riviera Hotel,BH4 8JF,50.7121,-1.9005
@@ -324,6 +331,7 @@ INDI'S RESTAURANT LIMITED,BH4 9AA,50.7223,-1.9019
 Costa Coffee,BH4 9AE,50.7224,-1.9038
 Cotea,BH4 9AE,50.7224,-1.9038
 Dilli Haat,BH4 9AE,50.7224,-1.9038
+Dot Teas,BH4 9AE,50.7224,-1.9038
 Truly's of Westbourne,BH4 9AE,50.7224,-1.9038
 Lazy Fox,BH4 9AR,50.7219,-1.9028
 Camden Bar Westbourne ,BH4 9AS,50.7223,-1.9043
@@ -351,6 +359,7 @@ McDonald's,BH8 8DL,50.7265,-1.8652
 La Piccola Italia,BH8 8EH,50.7228,-1.8660
 Subway,BH8 8EH,50.7228,-1.8660
 Tea 4ever Ltd,BH8 8EH,50.7228,-1.8660
+AVALON CAFE LIMITED,BH8 8EZ,50.7255,-1.8654
 Naked Deli,BH8 8GN,50.7238,-1.8650
 The Tipsy Cow Bar ,BH8 8UE,50.7351,-1.8684
 creams cafe,BH8 8UE,50.7351,-1.8684
@@ -362,9 +371,11 @@ Nippon Inn,BH8 8UT,50.7358,-1.8662
 Pamir BBQ express Ltd,BH8 8UT,50.7358,-1.8662
 Anatolia Take Away,BH8 8UU,50.7362,-1.8654
 Wonderful Kitchen & Lounge,BH8 9QJ,50.7396,-1.8639
+Roxy’s Bistro Bar,BH8 9QP,50.7411,-1.8632
 bates restaurant,BH8 9RX,50.7419,-1.8612
 Maru Korean & Japanese Restaurant,BH9 1AJ,50.7373,-1.8662
 Winton Park Cafe,BH9 1BX,50.7389,-1.8674
+The Ice Chef,BH9 1SE,50.7488,-1.8658
 Bellaggio Pizzeria,BH9 2AA,50.7395,-1.8793
 Roosters Piri Piri Winton,BH9 2AJ,50.7429,-1.8785
 Binnies cafe,BH9 2AU,50.7495,-1.8771
@@ -394,6 +405,7 @@ Rendez Vous,DT11 8RH,50.8683,-2.1251
 The Botany Bay Inne,DT11 9ET,50.7743,-2.1488
 Clubhouse 1896,DT11 9HN,50.8603,-2.1293
 The Scented Botanist Keyneston Mill,DT11 9HZ,50.8384,-2.1274
+True Lovers Knot,DT11 9JG,50.8429,-2.1018
 The Stour Inn,DT11 9LH,50.8523,-2.1663
 The Charlton Inn,DT11 9NH,50.8343,-2.1408
 Seven Stars Inn ,DT2 8RL,50.6862,-2.2607

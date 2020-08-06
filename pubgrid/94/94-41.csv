@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+Ravenous Beastie,EH30 9LL,55.9902,-3.3969
 Orocco Pier,EH30 9PP,55.9903,-3.3963
 Queens Spice,EH30 9PP,55.9903,-3.3963
 The Boathouse,EH30 9PP,55.9903,-3.3963
@@ -17,6 +18,7 @@ The Barologist,EH6 6JA,55.9763,-3.1709
 PB Edinburgh Ltd T/A Subway,EH6 6JJ,55.9809,-3.1778
 Raw health edinburgh ,EH6 6JJ,55.9809,-3.1778
 The Royal Yacht Britannia,EH6 6JJ,55.9809,-3.1778
+Alby's,EH6 6LA,55.9780,-3.1807
 Britannia Spice,EH6 6LB,55.9781,-3.1791
 The Kitchin Restaurant Limited,EH6 6LX,55.9770,-3.1731
 Nurture the Play,EH6 6NY,55.9790,-3.1810
@@ -52,6 +54,7 @@ Wonder World Kirkcaldy,KY1 2NR,56.1225,-3.1427
 The Path Tavern ,KY1 2PE,56.1199,-3.1487
 LA GONDOLA RESTAURANT,KY1 2SG,56.1151,-3.1533
 Dysart Coffee Cabin,KY1 2UG,56.1256,-3.1215
+The Hug A Mug Coffee Shop,KY1 3AB,56.1318,-3.1335
 The Elbow Room,KY1 3HT,56.1340,-3.1323
 Fala Foods LTD T/A McDonalds,KY1 3NG,56.1349,-3.1445
 Club 3000 Bingo Kirkcaldy,KY1 3NQ,56.1357,-3.1454
@@ -61,6 +64,7 @@ Deep Sea World,KY11 1JR,56.0091,-3.3917
 Flemings Furniture & Antique Centre Ltd,KY11 1NH,56.0337,-3.3957
 CALEDONIA HOTEL,KY11 2BA,56.0290,-3.4369
 HILL PARK HOTEL,KY11 2BT,56.0343,-3.4209
+Pepes Piri Piri Rosyth,KY11 2PU,56.0386,-3.4199
 Taste of India,KY11 2QJ,56.0356,-3.4133
 Bella E Buona,KY11 2QY,56.0409,-3.4238
 The Cottars Bar,KY11 2UW,56.0423,-3.4373
@@ -90,6 +94,7 @@ Carlucci Restaurant,KY12 7AR,56.0714,-3.4635
 La Menta,KY12 7AT,56.0716,-3.4613
 Bob & Berts Dunfermline  ,KY12 7DP,56.0716,-3.4604
 Casa Mia ,KY12 7DS,56.0667,-3.4583
+Tapas Ducal,KY12 7DS,56.0667,-3.4583
 Dhoom Streetery and Bar,KY12 7EA,56.0711,-3.4589
 Commercial Inn,KY12 7EB,56.0718,-3.4610
 THE ELIZABETHAN,KY12 7LX,56.0777,-3.4264
@@ -112,10 +117,12 @@ ADAMSON HOTEL,KY12 8NJ,56.0643,-3.4943
 Keavil House Hotel,KY12 8NN,56.0634,-3.4985
 The Harbour Cafe,KY13 8GB,56.1996,-3.4241
 Lochend Farm Shop,KY13 9JQ,56.1917,-3.3180
+Dunmilkin Ltd,KY13 9LY,56.1767,-3.3311
 The Bothy at Boglily,KY2 5XY,56.1068,-3.1999
 Dean Park Hotel,KY2 6HF,56.1351,-3.2108
 Fala Foods LTD T/A McDonalds,KY2 6QL,56.1354,-3.1986
 KFC,KY2 6QL,56.1354,-3.1986
+McTaggart's,KY3 0SH,56.0538,-3.3011
 Aberdour Hotel ,KY3 0SW,56.0534,-3.3031
 Oui Chef Catering Company Ltd,KY3 0TX,56.0510,-3.2991
 The Roasting Project,KY3 9AQ,56.0600,-3.2312

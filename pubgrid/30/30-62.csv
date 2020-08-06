@@ -67,6 +67,7 @@ Subway,GU21 5AB,51.3195,-0.5567
 THAI TABLE RESTAURANT,GU21 5AB,51.3195,-0.5567
 Taco Bell,GU21 5AB,51.3195,-0.5567
 Treatz Woking,GU21 5AB,51.3195,-0.5567
+Jaipur Restaurant,GU21 5AJ,51.3201,-0.5558
 ROOSTERS PIRI PIRI,GU21 5AJ,51.3201,-0.5558
 The Red Fort ,GU21 5AJ,51.3201,-0.5558
 OKKA LOUNGE,GU21 5AP,51.3195,-0.5556
@@ -80,6 +81,7 @@ Auntie Anne's Pretzel Bakery ,GU21 6GD,51.3198,-0.5606
 Chopstix Woking,GU21 6GH,51.3201,-0.5604
 Renz Restaurants Limited,GU21 6GH,51.3201,-0.5604
 Fresch Coffee House Ltd,GU21 6HR,51.3205,-0.5566
+Bacaro ,GU21 6HW,51.3196,-0.5570
 Latino ristorante italiano,GU21 6HW,51.3196,-0.5570
 Daarna Restaurant ,GU21 6LJ,51.3173,-0.5653
 Black and Whites Coffee House Woking,GU21 6XT,51.3190,-0.5591
@@ -131,6 +133,7 @@ Guildford Manor Hotel & Spa,GU4 8SE,51.2353,-0.5056
 fork handles kitchen at Bramley Golf Club ,GU5 0AL,51.1990,-0.5656
 THE WHEATSHEAF,GU5 0HB,51.1934,-0.5576
 The Jolly Farmer,GU5 0HB,51.1934,-0.5576
+The Nest Coffee  Shop,GU5 0HF,51.1935,-0.5572
 Grantley Arms,GU5 0PE,51.1974,-0.5455
 Barnett Hill Hotel,GU5 0RF,51.1991,-0.5334
 The Bricklayers Arms,GU5 0UA,51.1830,-0.5245
@@ -158,6 +161,7 @@ Jolshiri Restaurant,KT10 0JQ,51.3603,-0.3399
 RASOY,KT10 0NU,51.3613,-0.3471
 Parade and Albany Ltd,KT10 0PD,51.3611,-0.3473
 Ex Cellar,KT10 0QX,51.3619,-0.3465
+PANSHI,KT10 0SP,51.3750,-0.3393
 Wheatsheaf,KT10 8AG,51.3718,-0.3666
 The Terrace Bar Ltd,KT10 8AN,51.3728,-0.3650
 Marney's Village Inn,KT10 8JN,51.3838,-0.3481
@@ -276,7 +280,6 @@ RAJ CUISINE (ADDELSTONE)  LIMITED,KT15 3EU,51.3486,-0.5041
 BOURNE VALLEY GARDEN CENTRE LTD,KT15 3TH,51.3536,-0.5147
 Squire's Garden Centre Chertsey,KT16 0AE,51.3793,-0.5290
 Old School Cafe,KT16 0DP,51.3791,-0.5677
-Foxhills,KT16 0EL,51.3717,-0.5461
 3Rooms Indian restaurant ,KT16 0HG,51.3644,-0.5301
 the castle public house,KT16 0LW,51.3578,-0.5330
 Ashford & St Peters,KT16 0PZ,51.3778,-0.5271
@@ -289,6 +292,7 @@ Thann Thai,KT16 9BE,51.3883,-0.5073
 The Golden Grove,KT16 9EN,51.3944,-0.5188
 Rocksalt ,KT17 1BD,51.3357,-0.2634
 Delicious Feast,KT17 1FB,51.3397,-0.2550
+Los amigos cafe & sandwich bar ltd,KT17 1HH,51.3348,-0.2638
 All Things Nice,KT17 1RE,51.3476,-0.2502
 Mandalina Limited,KT17 1RE,51.3476,-0.2502
 Hanedan restaurant ,KT17 1RW,51.3490,-0.2493
@@ -340,6 +344,7 @@ The Blenheim Arms,KT19 8RA,51.3405,-0.2729
 Tamarind Spice,KT19 9XF,51.3531,-0.2681
 Haweli of Tadworth,KT20 5PU,51.2969,-0.2377
 The Grumpy Mole Tadworth,KT20 5RX,51.2916,-0.2254
+The Chalet Bakery Coffee Shop,KT20 5SD,51.2880,-0.2313
 The Bridge ,KT20 5SP,51.2917,-0.2353
 The Coffee House  ,KT20 5SR,51.2913,-0.2351
 No 12 Restaurant,KT20 6EB,51.2954,-0.2143
@@ -350,7 +355,9 @@ DESTINATION BIKE LIMITED,KT20 7JE,51.2530,-0.2792
 Smith & Western,KT20 7LB,51.2493,-0.3131
 Fox & Hounds,KT20 7RU,51.2830,-0.2469
 SPAGHETTI TREE,KT20 7RW,51.2837,-0.2423
+Walton Heath Golf Club,KT20 7TP,51.2781,-0.2439
 The Blue Ball PH,KT20 7UE,51.2827,-0.2408
+Ashtead Charcoal Grill Ltd,KT21 1AA,51.3103,-0.2981
 The street thai ,KT21 1AA,51.3103,-0.2981
 The Leg of Mutton and Cauliflower,KT21 1AZ,51.3092,-0.2994
 Ex Cellar,KT21 1QJ,51.3169,-0.3047
@@ -372,6 +379,7 @@ L'ultimo,KT22 8AN,51.2952,-0.3286
 Nurestani Fresh Food Ltd T/A Subway,KT22 8AN,51.2952,-0.3286
 Five Rivers Leatherhead,KT22 8BZ,51.2949,-0.3311
 Preto,KT22 8DW,51.2945,-0.3292
+KARAHI HOUSE,KT22 8ED,51.2952,-0.3261
 Tyrrells Wood Golf Club,KT22 8QP,51.2854,-0.2966
 Clarks Cafe,KT22 9AL,51.2920,-0.3373
 Zen garden cuisine limited ,KT22 9AL,51.2920,-0.3373
@@ -452,6 +460,7 @@ Positano (2017)LTD ,KT6 6AW,51.3886,-0.2973
 Niku Bar & Restaurant ,KT6 6EX,51.3909,-0.2985
 Agra Restaurant (Surbiton) Limited,KT6 6HE,51.3890,-0.2980
 Royal Oak Surbiton,KT6 7AA,51.3854,-0.2951
+Kookoo Grill & Seafood,KT6 7AQ,51.3844,-0.2934
 IL MULINO ,KT6 7BE,51.3826,-0.2870
 SORRENTO RESTAURANT,KT6 7DE,51.3829,-0.2865
 Superfish,KT6 7DJ,51.3813,-0.2826
@@ -492,7 +501,9 @@ REIGATE TRADERS UK LIMITED,RH2 9AE,51.2377,-0.2088
 Buenos Aires Argentine Steakhouse ,RH2 9AN,51.2383,-0.2097
 Eighty Ate Burger,RH2 9AP,51.2381,-0.2093
 THE RIVER KWAI RESTAURANT,RH2 9AP,51.2381,-0.2093
+Regional Thai Taste,RH2 9AT,51.2378,-0.2079
 Monte Forte - Neapolitan Pizza,RH2 9BS,51.2387,-0.2110
+The Admiral Inn Pub,RH2 9EF,51.2427,-0.2117
 The Black Horse,RH2 9JZ,51.2403,-0.2210
 Reigate Manor,RH2 9PF,51.2490,-0.2030
 Squire's Garden Centre Reigate,RH2 9RE,51.2422,-0.2353
@@ -507,12 +518,14 @@ White Horse Hotel,RH4 1BE,51.2324,-0.3302
 ARTO RESTAURANT,RH4 1BG,51.2323,-0.3305
 Fountain Garden,RH4 1BL,51.2316,-0.3343
 Mullins Coffee Shop,RH4 1BS,51.2317,-0.3340
+The Old House,RH4 1BY,51.2317,-0.3366
 Jam Pot Cafe,RH4 1HA,51.2349,-0.3365
 Hillier Garden Centre Dorking,RH4 1NP,51.2363,-0.3164
 Betchworth Park Golf Club,RH4 1NZ,51.2366,-0.3055
 Subway Dorking,RH4 1QR,51.2331,-0.3289
 The Surrey Yeoman,RH4 1QR,51.2331,-0.3289
 Deepdene Dorking,RH4 1RL,51.2345,-0.3273
+Tandoori Nights,RH4 1RQ,51.2349,-0.3267
 Wimpy,RH4 1RU,51.2333,-0.3293
 Lincoln Arms Limited,RH4 1TF,51.2404,-0.3240
 Burgundy and Black,RH4 1UT,51.2331,-0.3313
@@ -556,6 +569,7 @@ Cheam Park Cafe,SM3 8QS,51.3613,-0.2199
 Beijing Garden,SM3 8QW,51.3611,-0.2185
 MILI'S KITCHEN,SM3 8RE,51.3582,-0.2150
 SAMSARA RESTAURANT,SM3 8RE,51.3582,-0.2150
+LOVE CREPE LTD,SM3 8RL,51.3575,-0.2158
 Costa Coffee,SM3 8RQ,51.3580,-0.2157
 Tasha's Tearoom,SM3 8RW,51.3579,-0.2149
 Lal Akash Indian Restaurant,SM3 8SD,51.3568,-0.2160

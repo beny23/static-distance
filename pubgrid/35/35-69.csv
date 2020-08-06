@@ -22,6 +22,7 @@ SAPORI D' ABRUZZO LTD,CM1 1PP,51.7394,0.4737
 Subway,CM1 1SH,51.7413,0.4731
 THE SHIP,CM1 1SW,51.7381,0.4663
 Zorba The Greek Taverna,CM1 1TS,51.7361,0.4675
+Bourgee,CM1 1XB,51.7338,0.4722
 CITY DINER,CM1 1XB,51.7338,0.4722
 Banana Tree,CM1 1XD,51.7339,0.4719
 Munch,CM1 2AR,51.7439,0.4638
@@ -44,6 +45,7 @@ Downham Hall,CM11 1LG,51.6285,0.5008
 The White Horse,CM11 1NA,51.6359,0.4726
 Beauvoir Arms,CM11 1QH,51.6388,0.4875
 Duke of York,CM11 2PR,51.6127,0.4343
+copperfield bakeries ltd,CM11 2RB,51.6136,0.4302
 The magic mushroom restaurant ,CM11 2UD,51.6012,0.4454
 Tiptree Tea Rooms at Barleylands,CM11 2UF,51.5982,0.4461
 The shepherd and dog public house,CM11 2YA,51.6035,0.4731
@@ -61,6 +63,7 @@ Harry's Bar and Restaurant,CM12 9BQ,51.6270,0.4190
 the chequers,CM12 9BQ,51.6270,0.4190
 Fish 'n' Chick'n Billericay,CM12 9BS,51.6254,0.4179
 Flamingo,CM12 9BS,51.6254,0.4179
+La Toscana Italian Restaurant,CM12 9BY,51.6240,0.4166
 Wimpy Billericay,CM12 9BY,51.6240,0.4166
 The Coach & Horses,CM12 9LU,51.6251,0.4182
 Pasha,CM12 9UN,51.5949,0.4285
@@ -145,11 +148,11 @@ The Eatery,CM3 5TQ,51.6447,0.6184
 Marsh Farm,CM3 5WP,51.6352,0.6139
 Chillies Indian Fusion,CM3 5XF,51.6447,0.6190
 Fish 'n' Chick'n South Woodham Ferrers,CM3 5XF,51.6447,0.6190
+Passage To India,CM3 5XU,51.6448,0.6189
 Teds of Mayland Limited t/a Hardys,CM3 6AQ,51.6868,0.7573
 ON THE LATCH,CM3 6BL,51.6695,0.7513
 Hollys diner,CM3 6EX,51.6682,0.7269
 The Norton Pub,CM3 6JB,51.6717,0.6720
-Latchingdon Lion Ltd,CM3 6JR,51.6714,0.7204
 River Breeze cafe and bar Ltd,CM3 6LU,51.6431,0.6727
 The Bell,CM3 6QJ,51.6863,0.6625
 The Fox and Hounds Free House Limited ,CM3 6RF,51.6938,0.6262
@@ -176,6 +179,7 @@ Heybridge Tandoori Restaurant,CM9 4GD,51.7405,0.6892
 The Breakfast Bar Heybridge Breakfast Bar limited ,CM9 4GD,51.7405,0.6892
 McDonald's Maldon,CM9 4LE,51.7355,0.6793
 New Pavilion Restaurant ,CM9 4LT,51.7411,0.6843
+luigis al fresco,CM9 4PZ,51.7322,0.6785
 Rubino Kitchen Limited,CM9 4RE,51.7418,0.7188
 The Jolly Sailor,CM9 4RS,51.7298,0.7090
 Tiptree Tea Room at The Lock,CM9 4RS,51.7298,0.7090
@@ -266,6 +270,7 @@ McDonalds,SS2 6FW,51.5678,0.7035
 DIXON COMPANY AND SONS LIMITED t/a Subway ,SS2 6RL,51.5577,0.6990
 FAVORITE CHICKEN & RIBS 4U LTD,SS2 6RL,51.5577,0.6990
 Holiday Inn Southend - 1935 Restaurant,SS2 6XG,51.5658,0.6982
+Loyal Toast,SS2 6XY,51.5711,0.6697
 Antica Roma Restaurant,SS4 1AB,51.5831,0.7068
 Monsoon Indian Cuisine,SS4 1AB,51.5831,0.7068
 Skewer house rochford,SS4 1AJ,51.5824,0.7060
@@ -274,11 +279,13 @@ Kwikserve Ltd t/a Taste of raj,SS4 1DB,51.5826,0.7084
 FirstPort - Coachman Court,SS4 1FF,51.5843,0.7001
 KFC Rochford,SS4 1GP,51.5709,0.6794
 LOKENATH FOOD LTD,SS4 1ND,51.5768,0.7167
+The Rochford Hundred Golf Club Ltd,SS4 1NW,51.5809,0.6979
 Cafe 206,SS4 1TB,51.5939,0.6981
 The Cherry Tree,SS4 2AF,51.5845,0.7270
 The Lakes ,SS4 2AR,51.5903,0.7385
 The Royal Oak,SS4 2AX,51.5929,0.7407
 Shepherd and Dog ,SS4 2DA,51.6016,0.7479
+Anchor Inn,SS4 3QA,51.6175,0.7431
 Aimes Ltd t/a Costa Coffee Hockley,SS5 4AZ,51.6017,0.6554
 Potash Tearooms,SS5 4JN,51.5897,0.6671
 The White Hart Inn,SS5 4NS,51.5989,0.6608

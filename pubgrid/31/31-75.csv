@@ -18,6 +18,7 @@ The Funicular Coffeehouse,CT10 1LZ,51.3589,1.4434
 Aqua 43,CT10 1NE,51.3596,1.4429
 Beaches Cafe Bar,CT10 1NE,51.3596,1.4429
 Bessie’s Tea Parlour,CT10 1NE,51.3596,1.4429
+Seafarer Restaurant ,CT10 1NE,51.3596,1.4429
 Seggari's,CT10 1NE,51.3596,1.4429
 The George,CT10 1NE,51.3596,1.4429
 RESTAURANT 54,CT10 1NF,51.3601,1.4435
@@ -53,7 +54,6 @@ Comfort Inn Ramsgate,CT11 8DT,51.3368,1.4288
 Coastal Bar,CT11 8HA,51.3330,1.4203
 Il TRICOLORE ,CT11 8HA,51.3330,1.4203
 RAMSGATE CURRY LIMITED,CT11 8HA,51.3330,1.4203
-Ramsgate cafe ,CT11 8HA,51.3330,1.4203
 Albion House,CT11 8HQ,51.3334,1.4221
 Marc-Pierre's Kitchen,CT11 8LH,51.3318,1.4182
 la magnolia ltd,CT11 8LH,51.3318,1.4182
@@ -77,7 +77,6 @@ Eats 'n' Beats,CT11 9JN,51.3315,1.4139
 Archive Homestore & Kitchen,CT11 9LG,51.3286,1.4155
 Shipshape Cafe,CT11 9LG,51.3286,1.4155
 The Arch Bar,CT11 9LG,51.3286,1.4155
-Roma pizza and restaurant ,CT11 9LP,51.3323,1.4068
 Hotel de Ville ,CT11 9LR,51.3314,1.4069
 Jemima's Tea Room,CT12 4AB,51.3344,1.3149
 The New Inn,CT12 4AG,51.3356,1.3144
@@ -86,9 +85,9 @@ Minster Tandoori ,CT12 4BU,51.3319,1.3156
 The Bell Inn,CT12 4BU,51.3319,1.3156
 P A Crocker Ltd t/a McDonalds,CT12 4EU,51.3421,1.3169
 Le Club at Foxhunter Park,CT12 4JG,51.3370,1.2830
+The Jolly Kitchen Limited,CT12 5BG,51.3452,1.3690
 FAIRWAYS KITCHEN,CT12 5DJ,51.3144,1.3506
 The Tenth Cafe and Bar,CT12 5FG,51.3469,1.3810
-Dana restaurant ,CT12 6EW,51.3433,1.3993
 Newington Fish Bar,CT12 6EW,51.3433,1.3993
 Sandwich Wildlife Park,CT13 0DG,51.2617,1.3273
 COSTA COFFEE - SANDWICH ,CT13 9AB,51.2744,1.3397
@@ -132,8 +131,6 @@ Quex Maize Maze,CT7 0BH,51.3667,1.3157
 crown inn,CT7 0LF,51.3389,1.2415
 The Bell inn,CT7 0NT,51.3537,1.2543
 Strawberry Fields coffee house ,CT7 9AB,51.3741,1.3070
-Thanet kebab and chips restaurant ,CT7 9AB,51.3741,1.3070
-The Raj mahal tandoori restaurant ,CT7 9AB,51.3741,1.3070
 The Cow Shed Bar & Grill,CT7 9AE,51.3737,1.3074
 The Powell Bar & Restaurant,CT7 9AF,51.3739,1.3064
 Smugglers Restaurant ,CT7 9AQ,51.3741,1.3080
@@ -177,7 +174,6 @@ Margate fried chicken ,CT9 1JT,51.3863,1.3816
 P A Crocker Ltd t/a McDonalds,CT9 1JT,51.3863,1.3816
 COSTA COFFEE - MARGATE,CT9 1JW,51.3864,1.3811
 Storeroom by Curve,CT9 1PP,51.3878,1.3843
-Indian balti tandoori restaurant ,CT9 1RU,51.3919,1.3896
 Roost Restaurant,CT9 1RU,51.3919,1.3896
 Cafe Darcy,CT9 1UH,51.3874,1.3803
 Giorgios ,CT9 1UH,51.3874,1.3803
@@ -199,3 +195,4 @@ LESTERS PUB & RESTAURANT LIMITED,CT9 4EZ,51.3768,1.3857
 Pizza2night Kent Ltd,CT9 5AS,51.3854,1.3688
 The Hussar,CT9 5JP,51.3796,1.3541
 Flavours By Kumar ,CT9 5JW,51.3801,1.3546
+Amadeus Trattoria Mediterranea,CT9 5LP,51.3772,1.3556

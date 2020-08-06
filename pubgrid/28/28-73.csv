@@ -21,6 +21,7 @@ Subway,CT16 3FJ,51.1527,1.3045
 P A Crocker Ltd t/a McDonalds,CT16 3LF,51.1559,1.2886
 The Archer Pub,CT16 3LG,51.1563,1.2892
 The Boost Food Kitchen,CT16 3LG,51.1563,1.2892
+The Raj Mahal,CT16 3LG,51.1563,1.2892
 The Chicken Shack,CT17 0BJ,51.1301,1.3047
 The Cricketers,CT17 0JB,51.1396,1.2868
 Jerk n' Tingz,CT17 0SS,51.1319,1.3038
@@ -36,9 +37,11 @@ Sene Valley Golf Club,CT18 8BL,51.0801,1.1042
 The Gatekeeper,CT18 8DE,51.1143,1.0941
 CHINA CHINA,CT18 8HP,51.1272,1.0907
 Swindon Truckstop Limited,CT18 8HU,51.1290,1.0907
+Captain Webb Coffee Co,CT19 4DP,51.0867,1.1511
 COSTA COFFEE - CHERITON ,CT19 4ET,51.0879,1.1452
 Finn's,CT19 4ET,51.0879,1.1452
 Lemon Leaf Restaurant & Bar,CT19 4HE,51.0879,1.1423
+Prince off india restaurants ,CT19 4JH,51.0872,1.1417
 FirstPort - Laurel Court,CT19 4RL,51.0910,1.1411
 Subway,CT19 5FF,51.0962,1.1662
 P A Crocker Ltd t/a McDonalds,CT19 5GA,51.0951,1.1658
@@ -53,6 +56,7 @@ Planet Earth Kitchen ltd,CT20 1EX,51.0798,1.1816
 Market Square,CT20 1EY,51.0804,1.1813
 djangos,CT20 1EY,51.0804,1.1813
 Luben,CT20 1EZ,51.0806,1.1817
+Oriental Buffet,CT20 1EZ,51.0806,1.1817
 Wonderland Tearoom,CT20 1EZ,51.0806,1.1817
 The Nook Folkestone Ltd,CT20 1JT,51.0808,1.1839
 Harbour Fish Bar,CT20 1QJ,51.0791,1.1841
@@ -60,6 +64,7 @@ The Harbour Inn,CT20 1QN,51.0796,1.1854
 SPACE,CT20 1RJ,51.0804,1.1821
 Big Boys Fine Burger Co.,CT20 1RL,51.0803,1.1830
 El Cortador Tapas Bar,CT20 1RL,51.0803,1.1830
+Marleys Bistro Ltd,CT20 1RL,51.0803,1.1830
 Steep Street Coffee House,CT20 1RL,51.0803,1.1830
 Bella Vita Ristorante Folkestone,CT20 1RN,51.0805,1.1842
 P A Crocker Ltd t/a McDonalds,CT20 1RR,51.0783,1.1789
@@ -130,6 +135,7 @@ Fitzwalter Arms,CT3 1PJ,51.2454,1.2302
 Tadpole Tearoom,CT4 5HU,51.2311,1.1357
 THE INDEPENDENT PEDALER,CT4 5HW,51.2394,1.1477
 The White Horse Inn,CT4 5LA,51.2459,1.1258
+the red lion inn bridge,CT4 5LB,51.2451,1.1262
 The George Inn,CT4 6DF,51.1624,1.0524
 The Black Robin,CT4 6HS,51.2179,1.1512
 The Vineyard Teashop Ltd,CT4 6LN,51.1863,1.1441
@@ -139,6 +145,7 @@ Kent Motorcycles Limited - H's Cafe,CT4 6SA,51.1942,1.1871
 The Rose & Crown,CT4 6TD,51.1533,1.1108
 KA Elham ltd,CT4 6TJ,51.1527,1.1115
 The Kings Arms,CT4 6TJ,51.1527,1.1115
+Lord Whisky Tea Room,CT4 6XY,51.1530,1.0688
 The Granville,CT4 7AL,51.2404,1.0747
 The Local,CT4 7PT,51.2486,1.0209
 The George Restaurant and bar,CT4 8HE,51.2290,0.9024

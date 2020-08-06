@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+Rios Piri Piri,B11 4AT,52.4478,-1.8606
 Petits Fours Patisserie Ltd,B11 4BP,52.4466,-1.8598
 CRESCENT FOOD SERVICES LTD,B11 4BS,52.4451,-1.8590
 Treatz Sparkhill,B11 4DX,52.4472,-1.8608
@@ -16,6 +17,7 @@ Ponte Di Legno,B13 8EJ,52.4481,-1.8864
 Chakana,B13 8HS,52.4477,-1.8877
 DeMaines of Moseley,B13 8HW,52.4467,-1.8875
 I&M Cafe Deli,B13 8HW,52.4467,-1.8875
+LK Hopitality Ltd T/A Coach House,B13 8HW,52.4467,-1.8875
 PALMYRA MEDITERRANEAN LTD,B13 8HW,52.4467,-1.8875
 The Cuban Embassy at The Bulls Head,B13 8HW,52.4467,-1.8875
 Tubule Kitchen ,B13 8JG,52.4461,-1.8872
@@ -33,6 +35,7 @@ De Vere Catering,B14 6DT,52.4237,-1.8917
 kings heath cricket & sports club limited,B14 6DT,52.4237,-1.8917
 Rajarani Restaurants Ltd T/a The Rajrani,B14 7AA,52.4363,-1.8914
 THE SPICE MERCHANT,B14 7AD,52.4360,-1.8915
+Punjabi dhaba ,B14 7AG,52.4363,-1.8903
 poplar balti ltd,B14 7AG,52.4363,-1.8903
 Esme’s Eats Caribbean Cuisine Ltd,B14 7BB,52.4379,-1.8924
 RA COFFEE HOUSE,B14 7BB,52.4379,-1.8924
@@ -65,6 +68,7 @@ Pasta Di Piazza,B27 6QT,52.4475,-1.8262
 Subway,B27 6RA,52.4464,-1.8217
 Mujahid Hussain ,B27 6RG,52.4458,-1.8185
 hawam Tawa & Grill,B27 6RG,52.4458,-1.8185
+Mishmash Desserts Ltd,B27 7PS,52.4426,-1.8341
 THE WOODHOUSE CAFE LIMITED,B27 7RR,52.4436,-1.8344
 blue ocean cafe restaurant,B27 7RR,52.4436,-1.8344
 Acocks Green Bowl,B27 7UH,52.4457,-1.8260
@@ -275,6 +279,7 @@ Hockley House,B94 5NW,52.3393,-1.7745
 Bulls Head,B94 6BU,52.3670,-1.8193
 La Stalla,B94 6DL,52.3698,-1.8104
 The Stables,B94 6DL,52.3698,-1.8104
+ak's indian,B94 6EA,52.3651,-1.7819
 The Punchbowl Lapworth,B94 6HR,52.3460,-1.7313
 The Boot in Lapworth ,B94 6JU,52.3390,-1.7360
 Navigation Inn Lapworth,B94 6NA,52.3362,-1.7216
@@ -326,6 +331,7 @@ The Village Inn,B98 9AT,52.3247,-1.8895
 Abbey Hotel Golf & Country Club Ltd,B98 9BE,52.3230,-1.9228
 The Holly Bush ,B98 9EN,52.3145,-1.8674
 Dough & Brew,CV34 4BL,52.2809,-1.5901
+Thomas Oken Tea Rooms,CV34 4BP,52.2807,-1.5872
 saffron gold restaurant,CV34 4DH,52.2812,-1.5914
 The Globe,CV34 4DP,52.2821,-1.5921
 Jack’s Shack Warwick,CV34 4EH,52.2817,-1.5869
@@ -335,12 +341,15 @@ Happy Puccia ltd,CV34 4HU,52.2831,-1.5821
 The Roebuck Inn,CV34 4HU,52.2831,-1.5821
 CHOPSTICKS,CV34 4JA,52.2829,-1.5835
 Il Piccolinos Ltd.,CV34 4JA,52.2829,-1.5835
+Mayas,CV34 4JA,52.2829,-1.5835
 New Bowling Green,CV34 4JD,52.2825,-1.5823
+Castle Balti,CV34 4NE,52.2837,-1.5812
 Le Bel Ami,CV34 4NE,52.2837,-1.5812
 Subway,CV34 4NE,52.2837,-1.5812
 panache balti restaurant,CV34 4NE,52.2837,-1.5812
 Pastelaria Portuguese,CV34 4NU,52.2850,-1.5773
 The Black Pug,CV34 4NU,52.2850,-1.5773
+Warwick Castle a division of Merlin Entertainments Operations Limited,CV34 4QU,52.2806,-1.5858
 The Apple Tree Tearooms,CV34 4RA,52.2821,-1.5890
 The Old Coffee Tavern,CV34 4RA,52.2821,-1.5890
 The Tuckery,CV34 4SA,52.2819,-1.5901
@@ -364,12 +373,14 @@ The Granville,CV35 8DS,52.2403,-1.6065
 The New Inn,CV35 8JA,52.2664,-1.6686
 The Crown Inn,CV35 8LJ,52.2832,-1.7172
 Red Lion Inn,CV35 8PE,52.2794,-1.7010
+Alfresco Style Alfies Cafe,CV35 8XA,52.2936,-1.6556
 Snorty's Restaurant,CV35 8XA,52.2936,-1.6556
 The Spinning Jenny Restaurant,CV35 8XA,52.2936,-1.6556
 The Snitterfield Arms,CV37 0JH,52.2378,-1.6912
 Stratford Manor,CV37 0PY,52.2267,-1.6633
 The Farm Stratford Ltd,CV37 0QA,52.2280,-1.6938
 Hickory's Smokehouse,CV4 8AP,52.3883,-1.6005
+Infinity Room Ltd,CV4 9AE,52.4116,-1.5979
 The Auction House,CV4 9HS,52.3989,-1.5956
 The Windmill Village Hotel and Golf Club Ltd,CV5 9AL,52.4282,-1.5812
 PRINCE HOTELS LTD ,CV5 9BA,52.4284,-1.5770
@@ -381,6 +392,7 @@ la Delicia,CV7 7EG,52.3928,-1.6465
 mckees brasserie,CV7 7EL,52.3933,-1.6507
 CAFE TAMARINDS,CV7 7ER,52.3934,-1.6520
 Costa Coffee,CV7 7FE,52.3921,-1.6495
+Meriden Spice,CV7 7JP,52.4358,-1.6314
 The Barn at Berryfields,CV7 7LB,52.4301,-1.6411
 The Strawberry Bank,CV7 7NF,52.4361,-1.6467
 The Manor at Meriden limited,CV7 7NH,52.4350,-1.6379

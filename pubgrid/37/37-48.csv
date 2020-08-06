@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+KASPAS DESSERTS GLOUCESTER,GL1 1DH,51.8649,-2.2415
 KASPAS GLOUCESTER LTD,GL1 1DH,51.8649,-2.2415
 GL1 Leisure Centre,GL1 1DT,51.8629,-2.2390
 Poppins Restaurant ,GL1 1EA,51.8649,-2.2421
@@ -60,6 +61,7 @@ The Avenue pub,GL1 5TH,51.8501,-2.2578
 LA CAMPAGNA STONEHOUSE LIMITED,GL10 2NA,51.7470,-2.2834
 Woolpack Inn,GL10 2NA,51.7470,-2.2834
 Wynns coffee co,GL10 2NA,51.7470,-2.2834
+Zaika,GL10 2NA,51.7470,-2.2834
 The Old Badger,GL10 3AT,51.7468,-2.3225
 Beacon & Railway Hotel,GL10 3DX,51.7878,-2.2726
 Stonehouse Court Hotel,GL10 3RA,51.7444,-2.2935
@@ -88,6 +90,7 @@ Kaplan's Cafe & Bistro Limited,GL15 5RA,51.7272,-2.5294
 The Swan Hotel,GL15 5RF,51.7266,-2.5299
 The bridge cafe,GL15 5RF,51.7266,-2.5299
 the Red Hart Inn,GL17 0AH,51.8483,-2.4335
+FARMERS BOY INN LONGHOPE ,GL17 0LP,51.8850,-2.4683
 The Glasshouse Inn Ltd,GL17 0NN,51.8881,-2.4230
 The Old Dairy Tearoom,GL17 0QD,51.8645,-2.4665
 Yew Tree Inn,GL17 0QD,51.8645,-2.4665
@@ -149,13 +152,16 @@ Polash restaurant,GL4 5GL,51.8471,-2.1997
 Coffee Shop at The Friendship Cafe,GL4 6PR,51.8538,-2.2276
 Hatton Court Hotel - Tara Restaurant and Bar,GL4 8DE,51.8200,-2.2083
 Mercure Gloucester Bowden Hall Hotel,GL4 8ED,51.8346,-2.1915
+Black Horse Inn,GL4 8HP,51.8153,-2.1516
 The Cafe Above,GL5 1AF,51.7447,-2.2164
 Woodruffs Cafe,GL5 1AJ,51.7450,-2.2155
+Socialight Stroud ,GL5 1AS,51.7455,-2.2163
 Penny Farthing Cafe,GL5 1AZ,51.7453,-2.2164
 Toni's Kitchen,GL5 1DZ,51.7441,-2.2111
 The Retreat,GL5 1JL,51.7462,-2.2151
 Galgos Latino,GL5 1QG,51.7466,-2.2174
 Rajdoot restaurant ,GL5 1QG,51.7466,-2.2174
+Star Anise Cafe,GL5 1QG,51.7466,-2.2174
 Non Solo Pasta ,GL5 1RR,51.7462,-2.2189
 Thai 2 Go ,GL5 1RR,51.7462,-2.2189
 Tomari-Gi,GL5 1RR,51.7462,-2.2189
@@ -201,7 +207,6 @@ The Painswick,GL6 6YB,51.7845,-2.1929
 The Stirrup Cup,GL6 7BL,51.7535,-2.1400
 The Fostons Ash,GL6 7ES,51.8040,-2.1264
 Giffords Circus Sauce,GL6 7NE,51.7543,-2.1693
-The Woolpack Inn Ltd,GL6 7QA,51.7645,-2.1862
 Butchers Arms,GL6 7RH,51.7925,-2.1598
 The Ram Inn  (Bussage) Ltd,GL6 8BB,51.7306,-2.1691
 Pulla Pint Limited T/A The Old Neighbourhood,GL6 8EN,51.7272,-2.1517

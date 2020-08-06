@@ -84,6 +84,7 @@ The Black Lion,BN1 1ND,50.8211,-0.1415
 The Cricketers,BN1 1ND,50.8211,-0.1415
 Seasons Restaurant & Bar,BN1 1NF,50.8197,-0.1390
 The Old Ship Hotel,BN1 1NR,50.8207,-0.1415
+Queens Hotel Brighton,BN1 1NS,50.8197,-0.1395
 Royal Albion Hotel Brighton,BN1 1NT,50.8198,-0.1373
 Subway,BN1 1RE,50.8233,-0.1411
 Burger King,BN1 1RH,50.8232,-0.1426
@@ -91,6 +92,7 @@ KOKORO,BN1 1RH,50.8232,-0.1426
 Medaluk Ltd t/a foodilic,BN1 1RH,50.8232,-0.1426
 Smashburger,BN1 1RH,50.8232,-0.1426
 itsu Brighton North Street,BN1 1RH,50.8232,-0.1426
+Ye Olde King and Queen ,BN1 1UB,50.8246,-0.1371
 Pinocchio,BN1 1UF,50.8235,-0.1396
 Tinto Taperia,BN1 1UF,50.8235,-0.1396
 Mrs fitzherberts,BN1 1UG,50.8237,-0.1391
@@ -215,12 +217,14 @@ Caffe Aldo,BN1 4EB,50.8285,-0.1391
 Mange tout,BN1 4EB,50.8285,-0.1391
 Milk no sugar,BN1 4EB,50.8285,-0.1391
 Blend & Brew Brighton ,BN1 4ED,50.8283,-0.1393
+Brighton Cereal Cafe,BN1 4ED,50.8283,-0.1393
 COFFEEat33,BN1 4ED,50.8283,-0.1393
 The Laine Deli,BN1 4ED,50.8283,-0.1393
 The Roastery ,BN1 4EN,50.8275,-0.1380
 kitokito,BN1 4EQ,50.8279,-0.1370
 CoffeeTzar Limited,BN1 4ER,50.8281,-0.1369
 O'Shio Japanese & Korean Restaurant,BN1 4ER,50.8281,-0.1369
+Isaac At,BN1 4EW,50.8272,-0.1370
 L atelier du vin,BN1 4GB,50.8276,-0.1357
 MEATLiquor,BN1 4GE,50.8315,-0.1372
 C9 London Road Ltd,BN1 4GU,50.8286,-0.1359
@@ -231,6 +235,7 @@ Moksha Caffe,BN1 4GU,50.8286,-0.1359
 Subway,BN1 4GX,50.8303,-0.1382
 Cosy cottage cafe bar,BN1 4JB,50.8313,-0.1367
 Eastern Eye,BN1 4JE,50.8329,-0.1385
+YEFSIS OF GREECE,BN1 4JE,50.8329,-0.1385
 poppys sandwich bar,BN1 4JE,50.8329,-0.1385
 Fatto a Mano Brighton Limited,BN1 4JF,50.8326,-0.1374
 Nova cafe,BN1 4JG,50.8313,-0.1361
@@ -308,6 +313,7 @@ BOOM BIRD,BN2 1TH,50.8208,-0.1352
 Bella Bar,BN2 1TH,50.8208,-0.1352
 La Capannina (Brighton) Ltd,BN2 1TN,50.8204,-0.1343
 Little Miss Piggies,BN2 1TP,50.8206,-0.1332
+Sawadee Thai Restaurant ,BN2 1TP,50.8206,-0.1332
 The Camelford Arms,BN2 1TQ,50.8203,-0.1330
 Legends ,BN2 1TR,50.8197,-0.1325
 Horatios Bar,BN2 1TW,50.8191,-0.1365
@@ -361,6 +367,7 @@ Ollivers Restaurant,BN25 1NL,50.7728,0.1014
 The Old Boot Inn,BN25 1PE,50.7710,0.1019
 The Sisters at Sunnyside Cafe,BN25 1PE,50.7710,0.1019
 Front Room,BN25 1PL,50.7715,0.1037
+La Mediterranea Pizzeria e Ristorante,BN25 1PL,50.7715,0.1037
 The Cinque Ports Pub,BN25 1PP,50.7715,0.1044
 Moon of India,BN25 1QU,50.7730,0.1030
 Ridley Family Ltd t/a Marion's Seaford,BN25 1QX,50.7735,0.1029
@@ -460,6 +467,7 @@ Cafe Ninety 7,BN3 3YG,50.8313,-0.1739
 Honeypot cafe,BN3 3YG,50.8313,-0.1739
 Amici Restaurant,BN3 3YH,50.8312,-0.1746
 Ramsbottoms fish and chips ,BN3 3YH,50.8312,-0.1746
+Ethel’s Pantry ,BN3 3YJ,50.8316,-0.1752
 First Cup,BN3 3YN,50.8315,-0.1767
 IM Thai Food Factory,BN3 3YN,50.8315,-0.1767
 The Foragers,BN3 3YU,50.8300,-0.1767
@@ -480,6 +488,7 @@ Hove Park Community Cafe Ltd,BN3 7BF,50.8401,-0.1743
 Queensbury Coffee,BN3 7EX,50.8384,-0.1815
 Bankers Express Hangleton,BN3 7LP,50.8462,-0.1909
 Burger King,BN3 7PN,50.8379,-0.1744
+ARNIES KITCHEN ,BN3 8JG,50.8449,-0.1933
 Uncle Sams,BN3 8JG,50.8449,-0.1933
 Sunam Tandoori (UK) Ltd,BN6 8AD,50.9245,-0.1429
 The Thatched Inn,BN6 8DH,50.9276,-0.1319
@@ -504,6 +513,7 @@ Rights Of Man,BN7 1YE,50.8728,0.0089
 The Lewes Arms,BN7 1YH,50.8744,0.0095
 Bake Out Lewes Ltd,BN7 2AD,50.8739,0.0151
 Trading Post Coffee Roasters,BN7 2AH,50.8744,0.0174
+John Harvey Tavern,BN7 2AN,50.8741,0.0180
 The Royal Oak Lewes,BN7 2DA,50.8724,0.0113
 Carafe Coffee Roasters Ltd.,BN7 2DB,50.8723,0.0109
 RUSTICO ITALIANO LIMITED,BN7 2DG,50.8739,0.0099
@@ -538,6 +548,7 @@ Ismet Turen Ltd TA McDonalds Brighton,BN9 0AG,50.7964,0.0587
 Paradise Park,BN9 0DH,50.8002,0.0555
 Luna Rossa ,BN9 9GB,50.7873,0.0518
 Newhaven coffee house ,BN9 9PA,50.7937,0.0479
+Padella Doro Restaurant,BN9 9PJ,50.7947,0.0507
 The Viceroy,BN9 9PJ,50.7947,0.0507
 The Patchwork Cat Limited,BN9 9QS,50.7941,0.0496
 Peacehaven Golf Club,BN9 9UH,50.7899,0.0309

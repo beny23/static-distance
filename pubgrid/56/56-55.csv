@@ -21,6 +21,7 @@ Little Monkeys Explorers Cafe,DE4 5PL,53.1816,-1.5500
 Santo's Higham Farm Hotel & Restaurant,DE55 6EH,53.1268,-1.4185
 The White Bear,DE55 6ET,53.1447,-1.4134
 The White Horse at Woolley Moor,DE55 6FG,53.1489,-1.4522
+ENJOY CAFE,NG17 1AZ,53.1252,-1.2613
 McDonald's,NG17 1BE,53.1260,-1.2617
 Naboulsi's Caffe,NG17 1BP,53.1252,-1.2631
 Street Coffee,NG17 1BP,53.1252,-1.2631
@@ -34,11 +35,13 @@ funtimez at jimmy beans,NG17 4NE,53.1265,-1.2415
 Subway,NG17 4NU,53.1320,-1.2400
 Strawberry Fayre,NG17 4PA,53.1290,-1.2314
 The Swan,NG18 1AE,53.1437,-1.1944
+Priors Well Brewery Ltd (Old Brewery Cafe),NG18 1AH,53.1405,-1.1927
 Apollo Bingo Mansfield,NG18 1BU,53.1362,-1.1995
 KFC,NG18 1BW,53.1368,-1.1982
 Waterlily Restaurant ,NG18 1BW,53.1368,-1.1982
 caseys coffee bar,NG18 1DG,53.1436,-1.1953
 MANGROVE INDIAN BISTRO & GRILL,NG18 1DJ,53.1426,-1.1954
+Your Space Mansfield,NG18 1HB,53.1382,-1.1994
 MANSFIELD BOWL,NG18 1LG,53.1441,-1.1998
 Britalia ,NG18 1NE,53.1449,-1.1953
 Rima Faz Restaurant,NG18 1NE,53.1449,-1.1953
@@ -54,6 +57,7 @@ Mansfield lodge Hotel Ltd,NG18 2AF,53.1498,-1.1940
 Subway,NG18 2BA,53.1526,-1.1936
 smith & smith - the black bull,NG18 2BQ,53.1544,-1.1933
 Ravensdale Hotel,NG18 2DX,53.1487,-1.1715
+The Brown Cow,NG18 2JA,53.1433,-1.1898
 IL ROSSO LIMITED ,NG18 4AF,53.1335,-1.1978
 281 Restaurant and Rooms,NG18 4SE,53.1287,-1.1934
 No5 Bistro,NG18 4XW,53.1324,-1.1815
@@ -66,7 +70,6 @@ Redgate Inn,NG19 6EH,53.1505,-1.2169
 Rufford,NG19 7ES,53.1560,-1.2156
 The White Swan,NG19 7SQ,53.1724,-1.2452
 Shangri-La Chinese restaurant ,NG19 8AN,53.1650,-1.1924
-Sid and the Spoon ,NG19 8BG,53.1651,-1.1878
 Sunnydale,NG19 8HH,53.1706,-1.1979
 The Hostess Restaurant,NG19 8LL,53.1888,-1.1771
 Tap Haus ,NG19 9EU,53.1770,-1.1763
@@ -86,7 +89,7 @@ The Bridge Inn,S12 3YD,53.3195,-1.3987
 Ego at the Dore Moor,S17 3AB,53.3343,-1.5559
 The Crown Inn,S17 3AX,53.3177,-1.5419
 The Cricket Inn,S17 3AZ,53.3167,-1.5493
-HOSPITALITY DINERS LTD,S17 3GU,53.3269,-1.5395
+Almas Restaurant,S17 3GU,53.3269,-1.5395
 Rajdhani Express Ltd ,S17 3LB,53.3299,-1.5154
 THE SUMMERHOUSE,S17 3LB,53.3299,-1.5154
 Omega at Abbeydale ltd,S17 3LJ,53.3252,-1.5208
@@ -130,6 +133,7 @@ The Sitwell Arms Hotel,S21 3WF,53.3000,-1.3369
 Angel & Harlequin,S21 3YB,53.3021,-1.3180
 Woodheads Cafe,S21 4FT,53.3085,-1.3552
 The Devonshire Arms ,S21 5RN,53.2972,-1.3939
+The Duke of Leeds ,S26 5LQ,53.3389,-1.2850
 Aston’s restaurant ,S26 5PQ,53.3498,-1.3000
 Rother Valley Golf Centre Ltd,S26 5PQ,53.3498,-1.3000
 The Vintage Tack Room and Playbarn,S26 5PQ,53.3498,-1.3000
@@ -139,6 +143,7 @@ The Beehive,S26 7YH,53.3222,-1.2607
 Subway,S40 1AH,53.2357,-1.4309
 The Market Pub,S40 1AH,53.2357,-1.4309
 KFC,S40 1BA,53.2359,-1.4368
+Mutiara Chinese Restaurant,S40 1BA,53.2359,-1.4368
 the barley mow,S40 1JR,53.2374,-1.4304
 Cara Restaurants Limited McDonalds 142,S40 1PB,53.2351,-1.4296
 peacock coffee lounge ,S40 1PB,53.2351,-1.4296
@@ -193,7 +198,9 @@ Pomegranate,S41 7TJ,53.2356,-1.4244
 Aruba,S41 7TP,53.2368,-1.4230
 Bar Rumba,S41 7TP,53.2368,-1.4230
 Urban kitchen ,S41 7UG,53.2385,-1.4218
+Afats grill,S41 8LT,53.2586,-1.4280
 The Blue Bell Inn,S42 5HY,53.1775,-1.3962
+Anaarkali ,S42 5RA,53.1885,-1.3544
 Junction 29 Truckstop,S42 5SA,53.1868,-1.3505
 Batemans Mill Hotel ,S42 6AE,53.1731,-1.4369
 Cornerstone Coffee House,S42 6BH,53.1899,-1.4086
@@ -213,6 +220,7 @@ Cara Restaurants Limited McDonalds 1398,S44 5HB,53.2480,-1.3400
 KFC Markham Vale,S44 5HP,53.2465,-1.3325
 The Arkwright Arms,S44 5JG,53.2373,-1.3425
 Plug And Feathers,S44 5LY,53.1901,-1.2982
+THE ELM TREE,S44 5SE,53.1995,-1.3344
 The white hart,S44 5TE,53.2340,-1.3787
 Courtyard Kitchen,S44 6DB,53.2295,-1.2903
 Masons little cafe ,S44 6DT,53.2292,-1.2899

@@ -3,6 +3,7 @@ name,postcode,lat,lon
 STEAKOUT,BB1 1BB,53.7429,-2.4793
 subway,BB1 1EY,53.7464,-2.4795
 Chai Station,BB1 1NR,53.7478,-2.4587
+DD DINER,BB1 1RN,53.7430,-2.4702
 sahad blackburn ,BB1 1TD,53.7435,-2.4713
 Wright's Bites,BB1 2AL,53.7477,-2.4461
 FLIP OUT BLACKBURN,BB1 2EE,53.7307,-2.4526
@@ -27,6 +28,7 @@ Zakros Greek Cuisine & Thai noodle bar,BB1 5AF,53.7483,-2.4832
 Haute Dolci,BB1 5AL,53.7479,-2.4817
 Calypso Restaurant,BB1 5BY,53.7492,-2.4742
 TCK DELI MARKET LTD,BB1 5DP,53.7522,-2.4699
+Marhaba sweets,BB1 6DS,53.7526,-2.4813
 Naafiah GrillHouse ,BB1 6DS,53.7526,-2.4813
 Chaiiwala,BB1 6EE,53.7559,-2.4773
 Kebabish Original,BB1 6JZ,53.7589,-2.4711
@@ -99,6 +101,7 @@ SUBWAY,BB3 1AU,53.6974,-2.4693
 Sweet Vintage Darwen,BB3 1BG,53.6954,-2.4672
 FLAMES GRILL AND BAR ,BB3 1BZ,53.6911,-2.4666
 The Alexandra hotel ,BB3 1NL,53.7007,-2.4765
+Eddie's Wood fired pizza,BB3 1PL,53.6952,-2.4688
 Akash Indian Brasserie,BB3 1PX,53.6979,-2.4705
 anaz restaurant,BB3 1QA,53.6987,-2.4714
 Artisan Cafe and Wine Bar ,BB3 2AA,53.6946,-2.4662
@@ -164,6 +167,7 @@ Spice Room,BB5 2SB,53.7262,-2.3326
 Royal Phoenix Restaurant,BB5 3DA,53.7474,-2.3926
 The Pavillion coffee shop,BB5 3DE,53.7474,-2.3898
 ELEANOR EATERY,BB5 3JX,53.7417,-2.3978
+JD CAFE,BB5 3JX,53.7417,-2.3978
 The White Bull Oswaldtwistle,BB5 3QW,53.7374,-2.4058
 Britannia,BB5 3RJ,53.7296,-2.4148
 The Whitecroft Indian Bar & Restaurant,BB5 3RJ,53.7296,-2.4148
@@ -312,6 +316,7 @@ Rivington Hall Barn,BL6 7SB,53.6232,-2.5622
 Village green tearooms limited,BL6 7SD,53.6315,-2.5615
 The Rivington,BL6 7SE,53.6243,-2.5676
 The Black Bull,BL7 0AF,53.6422,-2.3970
+ROSE AND CROWN,BL7 0AR,53.6456,-2.3898
 Chetham Arms,BL7 0EW,53.6372,-2.4044
 Dalchini Indian Restaurant ,BL7 0HR,53.6289,-2.3849
 The Toby Inn Ltd,BL7 0JQ,53.6713,-2.3851
@@ -341,12 +346,14 @@ Bloom Coffee Co.,BL9 0AJ,53.5930,-2.2977
 Ground Up,BL9 0AJ,53.5930,-2.2977
 Subway,BL9 0AJ,53.5930,-2.2977
 Katsouris Delicatessen Ltd,BL9 0BD,53.5922,-2.2940
+The Bury Roast Co,BL9 0BD,53.5922,-2.2940
 Alisons fresh and tasty,BL9 0BJ,53.5910,-2.2953
 Big Jim’s Cafe,BL9 0BJ,53.5910,-2.2953
 Fresh Bites Cafe,BL9 0BJ,53.5910,-2.2953
 Jan's Kitchen,BL9 0BJ,53.5910,-2.2953
 Peters tea room,BL9 0BJ,53.5910,-2.2953
 The Coffee Pot,BL9 0BJ,53.5910,-2.2953
+Up Market Cafe,BL9 0BJ,53.5910,-2.2953
 Chicken cottage millgate ,BL9 0BL,53.5922,-2.2965
 Sky Bar,BL9 0BL,53.5922,-2.2965
 Bap,BL9 0BX,53.5930,-2.2959
@@ -379,7 +386,7 @@ Summerseat Garden Centre Limited,BL9 5QD,53.6273,-2.3178
 AL BOSCO RISTORANTE,BL9 5QP,53.6310,-2.3209
 Games Hub Bury ,BL9 6AS,53.5965,-2.2864
 H's Diner,BL9 7AJ,53.5960,-2.2855
-Chunks Steakbox (MCR) LTD,BL9 7BA,53.5931,-2.2859
+Chunks steakbox (mcr) LTD,BL9 7BA,53.5931,-2.2859
 Shazia's Street Food Limited,BL9 7BA,53.5931,-2.2859
 Ice Box,BL9 7DY,53.5918,-2.2855
 white boar hotel,BL9 9LN,53.5794,-2.3058
@@ -405,6 +412,7 @@ Pinocchios ,PR5 4JA,53.7469,-2.6724
 SUBWAY,PR5 6EJ,53.7226,-2.6619
 YE OLDE HOB INN,PR5 6EP,53.7210,-2.6613
 WA Bar and Bistro,PR5 6EQ,53.7223,-2.6620
+Dilnaz Indian restaurant ltd,PR5 6FN,53.7231,-2.6598
 Walton Arms ,PR5 6GD,53.7355,-2.6621
 Valley Coffee,PR5 6GS,53.7339,-2.6598
 Tiny Tea Cups Play Cafe Ltd,PR5 6LF,53.7296,-2.6593
@@ -420,12 +428,14 @@ The Red Cat,PR6 7HS,53.6896,-2.6377
 Mediterranean 3 at the bay horse,PR6 7HW,53.6884,-2.6387
 The HalfwayHouse,PR6 7JB,53.7028,-2.6393
 Whittle Vintage Tearoom,PR6 7LD,53.6887,-2.6364
+Lord Nelson,PR6 7RD,53.7041,-2.6365
 THE BEAUMONT,PR6 7TY,53.7067,-2.6450
 The Little Tiger ,PR6 8DA,53.7002,-2.5470
 Hare & Hounds,PR6 8DP,53.6982,-2.5440
 The Red Lion,PR6 8EU,53.6853,-2.6068
 The Village Tearoom at Wheelton Limited,PR6 8EY,53.6861,-2.6064
 The Dressers Arms,PR6 8HD,53.6859,-2.5992
+Whins green kitchen,PR6 8HN,53.6901,-2.6032
 golden lion hotel,PR6 8HP,53.6956,-2.5949
 The Top Lock,PR6 8LT,53.6885,-2.6149
 CAVENDISH ARMS,PR6 8NG,53.7129,-2.6101

@@ -35,6 +35,7 @@ Tap and Spile,B1 2JT,52.4775,-1.9105
 Vietnamese Street Kitchen,B1 2LP,52.4768,-1.9140
 The Prince of Wales,B1 2NP,52.4798,-1.9133
 Ristorante Caffe Gustami ,B1 2PZ,52.4836,-1.9207
+The Pig & Tail,B1 3ED,52.4851,-1.9137
 1000 Trades,B1 3HE,52.4851,-1.9113
 Jojolapa Nepalese Restaurant,B1 3HE,52.4851,-1.9113
 Frederick Street Townhouse,B1 3HH,52.4865,-1.9121
@@ -52,11 +53,14 @@ Abu Zayds Grill,B10 0UF,52.4713,-1.8620
 BADER RESTAURANT LTD,B10 0UF,52.4713,-1.8620
 BUBA JOES,B10 0UF,52.4713,-1.8620
 Cedars grill palace ltd,B10 0UF,52.4713,-1.8620
+JamJar,B10 0UF,52.4713,-1.8620
 M-H.M.Z LTD,B10 0UF,52.4713,-1.8620
+ZURBYAN,B10 0UF,52.4713,-1.8620
 MOUCHAK STREET,B10 0UN,52.4688,-1.8557
 Mishtidesh Ltd,B10 0UN,52.4688,-1.8557
 Panshi Restaurant Birmingham Limited,B10 0UN,52.4688,-1.8557
 The Ponchokhana ltd ,B10 0UN,52.4688,-1.8557
+DERA ,B10 0US,52.4682,-1.8534
 NAMAK MANDI AUTHENTIC TASTE OF KPK LTD,B10 0US,52.4682,-1.8534
 Alam Birmingham Ltd,B10 0XE,52.4722,-1.8640
 Mak Halal,B10 9SN,52.4703,-1.8569
@@ -66,10 +70,13 @@ Al Bulushi Cafe,B11 1AN,52.4662,-1.8774
 Cafe Macho LTD,B11 1JP,52.4669,-1.8751
 OG’Z,B11 1NP,52.4590,-1.8685
 Manjaros,B11 1QT,52.4607,-1.8735
+area 51 cafe ltd,B11 3LU,52.4534,-1.8601
+Rios Piri Piri,B11 4AT,52.4478,-1.8606
 Petits Fours Patisserie Ltd,B11 4BP,52.4466,-1.8598
 CRESCENT FOOD SERVICES LTD,B11 4BS,52.4451,-1.8590
 Treatz Sparkhill,B11 4DX,52.4472,-1.8608
 SHAHI NAN KABAB ( BIRMINGHAM ) LIMITED,B11 4JY,52.4580,-1.8706
+BIG CHICKEN LTD ,B11 4JZ,52.4570,-1.8696
 Deepam ltd ta deepalis kitchen,B11 4PB,52.4571,-1.8720
 Mylahore,B12 0JD,52.4715,-1.8799
 The Old Crown ,B12 0LD,52.4747,-1.8825
@@ -77,7 +84,9 @@ Cg’s cafe,B12 0NS,52.4719,-1.8824
 Smokin pizza ,B12 0SS,52.4685,-1.8897
 SYRIAN HOUSE RESTAURANT LTD,B12 0YR,52.4653,-1.8920
 Alfaisals,B12 8AQ,52.4553,-1.8735
+Pizza Land,B12 8AQ,52.4553,-1.8735
 Taste of Pakistani ltd,B12 8DP,52.4592,-1.8761
+Yaqubs steakhouse ,B12 8ED,52.4586,-1.8730
 Chaska & Chai,B12 8JA,52.4589,-1.8765
 AL BADER LOUNGE LTD,B12 8JS,52.4577,-1.8764
 Lahore Village ,B12 8JS,52.4577,-1.8764
@@ -103,6 +112,7 @@ Sweet. Ladypool Road,B12 8LA,52.4524,-1.8788
 OODLES,B12 8LB,52.4535,-1.8781
 LP BIRMINGHAM LTD,B12 8LF,52.4551,-1.8778
 Popular Balti,B12 8LH,52.4582,-1.8769
+Eggless Cake Shop Moseley ,B12 9AD,52.4554,-1.8860
 German Doner Kebab,B12 9AD,52.4554,-1.8860
  Bayt Al Yemeni,B12 9AH,52.4570,-1.8854
 The MIX Community Cafe,B12 9AH,52.4570,-1.8854
@@ -123,6 +133,7 @@ Ponte Di Legno,B13 8EJ,52.4481,-1.8864
 Chakana,B13 8HS,52.4477,-1.8877
 DeMaines of Moseley,B13 8HW,52.4467,-1.8875
 I&M Cafe Deli,B13 8HW,52.4467,-1.8875
+LK Hopitality Ltd T/A Coach House,B13 8HW,52.4467,-1.8875
 PALMYRA MEDITERRANEAN LTD,B13 8HW,52.4467,-1.8875
 The Cuban Embassy at The Bulls Head,B13 8HW,52.4467,-1.8875
 Tubule Kitchen ,B13 8JG,52.4461,-1.8872
@@ -140,6 +151,7 @@ De Vere Catering,B14 6DT,52.4237,-1.8917
 kings heath cricket & sports club limited,B14 6DT,52.4237,-1.8917
 Rajarani Restaurants Ltd T/a The Rajrani,B14 7AA,52.4363,-1.8914
 THE SPICE MERCHANT,B14 7AD,52.4360,-1.8915
+Punjabi dhaba ,B14 7AG,52.4363,-1.8903
 poplar balti ltd,B14 7AG,52.4363,-1.8903
 Esme’s Eats Caribbean Cuisine Ltd,B14 7BB,52.4379,-1.8924
 RA COFFEE HOUSE,B14 7BB,52.4379,-1.8924
@@ -163,10 +175,12 @@ POLI,B14 7SA,52.4344,-1.8940
 Sylhet Spice Cuisine ,B14 7SA,52.4344,-1.8940
 Bierkeller,B15 1AY,52.4752,-1.9138
 Dilbar,B15 1AY,52.4752,-1.9138
+Pitstop,B15 1AY,52.4752,-1.9138
 Park Regis Birmingham,B15 1DT,52.4730,-1.9168
 the food hut,B15 1DT,52.4730,-1.9168
 Creams Cafe,B15 1EJ,52.4736,-1.9144
 The Bulls Head,B15 1EJ,52.4736,-1.9144
+Khayyam restaurant,B15 1EY,52.4747,-1.9142
 LAGHI'S RESTAURANT LTD,B15 1LD,52.4722,-1.9172
 La-Pop!,B15 1LD,52.4722,-1.9172
 Hampton by Hilton Birmingham Broad Street,B15 1SU,52.4752,-1.9138
@@ -230,6 +244,7 @@ Niche Cafe,B18 6JR,52.4877,-1.9097
 The Rose Villa Tavern,B18 6JW,52.4872,-1.9123
 202KITCHEN,B18 6LJ,52.4889,-1.9135
 Horizon Coffee Shop,B18 6LJ,52.4889,-1.9135
+Lunchline,B18 6NF,52.4876,-1.9120
 Urban Cafe Bar Kitchen,B18 6NF,52.4876,-1.9120
 Semedos restaurant,B18 6NG,52.4868,-1.9137
 Espresso Quarter,B18 6NN,52.4872,-1.9138
@@ -256,6 +271,7 @@ Thai Express Birmingham,B2 4BF,52.4779,-1.8986
 atpizza Grand central,B2 4BF,52.4779,-1.8986
 LA GALLERIA BIRMINGHAM LTD,B2 4BG,52.4790,-1.9009
 NI&WANG GROUP LTD T/A TWIST,B2 4BG,52.4790,-1.9009
+ALL GREEK STREET FOOD,B2 4BH,52.4781,-1.8987
 Tiger Bites Pig ,B2 4BH,52.4781,-1.8987
 YAKINORI GRAND CENTRAL LTD,B2 4BH,52.4781,-1.8987
 Yorks Cafe & Coffee Roasters,B2 4BH,52.4781,-1.8987
@@ -299,6 +315,7 @@ Love Peri Peri,B20 2HX,52.5145,-1.9349
 Mr singh's Pizza,B20 2HY,52.5155,-1.9337
 Titanic restaurant ,B20 3BX,52.5141,-1.9015
 Burger Town,B20 3DD,52.5131,-1.9017
+SweetLab Desserts,B20 3DD,52.5131,-1.9017
 McDonald’s ,B21 0AP,52.5092,-1.9575
 baba pizza,B21 0LS,52.5068,-1.9484
 Amor Desserts,B21 0TU,52.5021,-1.9331
@@ -415,6 +432,7 @@ Holiday Inn Express Birmingham Snow Hill,B4 6HY,52.4852,-1.8974
 MY SHOP 4 LTD,B4 6PH,52.4828,-1.8951
 Sami foods Limited,B4 6PH,52.4828,-1.8951
 The Boston Tea Party Group Limited,B4 6QD,52.4832,-1.8929
+Bubble Waffles Dessert Lounge,B4 6SE,52.4843,-1.8928
 Dolce Desserts LTD,B4 6SE,52.4843,-1.8928
 Big Johns City,B4 6SX,52.4814,-1.8946
 The Coffee Bar Birmingham ,B4 6SX,52.4814,-1.8946
@@ -466,6 +484,7 @@ TAKUMI UK LTD,B5 4BD,52.4748,-1.8979
 Chaophraya,B5 4BE,52.4776,-1.8949
 SOHO Coffee Shops Limited The Bullring,B5 4BL,52.4768,-1.8954
 Ming Moon Restaurant Birmingham ,B5 4BN,52.4750,-1.8975
+Santorini Restaurant,B5 4BN,52.4750,-1.8975
 Lola's Cupcakes,B5 4BP,52.4778,-1.8929
 Ooty Station,B5 4BP,52.4778,-1.8929
 Archie's Selfridges,B5 4BU,52.4779,-1.8939
@@ -474,6 +493,7 @@ Muffin Break Bullring,B5 4BU,52.4779,-1.8939
 SOHO Coffee Shops Limited Bullring 2,B5 4BU,52.4779,-1.8939
 The Indian Streatery Express,B5 4BU,52.4779,-1.8939
 Wrapchic,B5 4BU,52.4779,-1.8939
+Japan Tsukiji Limited,B5 4DY,52.4766,-1.8988
 TAJ MAHAL RESTAURANT,B5 4EJ,52.4765,-1.8975
 Rodroj Coffee Lounge & Restaurant Ltd,B5 4EN,52.4755,-1.8996
 Holiday Inn Birmingham City Centre,B5 4EW,52.4757,-1.8992
@@ -489,6 +509,7 @@ CAFFE CHINO,B5 4TD,52.4745,-1.8966
 HOT SEVEN CHINESE RESTAURANT,B5 4TD,52.4745,-1.8966
 MILANO,B5 4TD,52.4745,-1.8966
 Pepper chef,B5 4TD,52.4745,-1.8966
+Rozu Restaurant ,B5 4TD,52.4745,-1.8966
 Topokki,B5 4TE,52.4743,-1.8972
 XIONGQI LTD ,B5 4TR,52.4736,-1.8984
 Khan palace cafe ltd,B5 5BD,52.4765,-1.8922
@@ -511,6 +532,7 @@ Bradford Street Catering LLP,B5 6ET,52.4749,-1.8891
 The loft kitchen ,B5 6RG,52.4733,-1.8962
 Formosa Izakaya,B5 6SE,52.4731,-1.8958
 PINCHUAN LTD ,B5 6SE,52.4731,-1.8958
+Deep Caribbean Experience Limited,B5 7AA,52.4729,-1.8992
 SAVANNA RESTAURANT LTD,B5 7AA,52.4729,-1.8992
 Gaijin Sushi,B5 7AH,52.4716,-1.8993
 Quarter Horse Coffee,B5 7AH,52.4716,-1.8993
@@ -521,6 +543,7 @@ Brittons of Birmingham,B6 4JX,52.4924,-1.8941
 THE BARTONS ARMS,B6 4UP,52.4992,-1.8951
 Adian's Dining,B6 4UU,52.4990,-1.8945
 Deli,B6 5RW,52.4993,-1.8818
+villalicious cafe ,B6 6JR,52.5069,-1.8927
 CLASSIC RESTAURANT (ASTON) FOOD SERVICES LIMITED,B6 6NT,52.5100,-1.8889
 Perfect Subs Ltd t/a Subway,B6 6QR,52.5127,-1.8871
 wildmoor oak country pub and dining ,B61 0RB,52.3817,-2.0575
@@ -528,6 +551,7 @@ cobham,B62 0JD,52.4506,-2.0165
 The Little Griddle,B62 8AN,52.4589,-2.0427
 The Daily Deli ,B62 9AA,52.4623,-2.0266
 BALTI TOWERS,B62 9DJ,52.4700,-2.0326
+Spice Fusion,B62 9DJ,52.4700,-2.0326
 FAIRFIELD INN,B62 9JA,52.4731,-2.0254
 The Why Not Inn,B63 2JH,52.4542,-2.0906
 McDonald’s Lye,B63 2RG,52.4580,-2.0944
@@ -552,6 +576,7 @@ The riddins tavern,B64 6DP,52.4730,-2.0665
 The Crown Inn,B64 6NT,52.4723,-2.0585
 MONTHEILL LIMITED,B64 7HF,52.4665,-2.0659
 The Old Bush Revived,B65 0AD,52.4763,-2.0500
+Tak's Fish and Chips Limited,B65 0DU,52.4757,-2.0398
 The Knights Quest,B65 0EE,52.4758,-2.0439
 The Malt Shovel,B65 0EH,52.4757,-2.0450
 Bell & bear ,B65 0HA,52.4686,-2.0476
@@ -594,6 +619,7 @@ Edge Coffee ,B67 5DP,52.4727,-1.9704
 Jonathans in the Park Ltd,B67 5DP,52.4727,-1.9704
 zaalsha,B67 5RD,52.4774,-1.9756
 KFC,B68 0BZ,52.4635,-1.9969
+SIMRANS DESSERTS LTD,B68 0BZ,52.4635,-1.9969
 Subway,B68 0BZ,52.4635,-1.9969
 A&S Restaurants LTD T/A McDonalds,B68 0LH,52.4669,-1.9849
 Big Man's Food,B68 0LH,52.4669,-1.9849
@@ -608,6 +634,7 @@ McDonald's,B69 2AW,52.5015,-2.0184
 KFC,B69 2BH,52.5009,-2.0312
 Brades Tavern,B69 2ET,52.5051,-2.0288
 masala Curry House ,B69 2HH,52.5056,-2.0348
+Blair’s Caribbean Takeaway ,B69 4DY,52.5029,-2.0140
 The New Cottage Bar and Grill,B69 4NB,52.4949,-2.0038
 three friends pub company limited,B69 4NH,52.4958,-2.0059
 Ibis Styles Birmingham Oldbury,B69 4RJ,52.4908,-2.0213
@@ -627,6 +654,7 @@ Pepe's Piri Piri ,B7 5SA,52.5055,-1.8565
 Shere Khan Star City Birmingham,B7 5SA,52.5055,-1.8565
 Shobha's,B7 5SA,52.5055,-1.8565
 Zauq Buffet,B7 5SA,52.5055,-1.8565
+Zindabad Restaurant,B7 5SA,52.5055,-1.8565
 King Arthur Grill,B70 0HG,52.5225,-2.0272
 midland leisure ltd trading as the new hen and chickens,B70 0RT,52.5378,-2.0118
 the Dovecote pub & carvery,B70 0SD,52.5406,-2.0131
@@ -639,6 +667,7 @@ Proark UK Hotels Ltd t/a Mercure Birmingham West Hotel,B70 6RS,52.5134,-1.9760
 Windsor Castle Public House,B70 7ED,52.5123,-1.9928
 The Prince Albert,B70 7EG,52.5127,-1.9968
 The Railway Inn,B70 7JB,52.5094,-2.0117
+KASPAS DESSERTS WEST BROM,B70 7NJ,52.5182,-1.9913
 SUNNY COFFEE HOUSE LIMITED,B70 7NW,52.5173,-1.9930
 The Smokehouse Bar & Grill,B70 7PE,52.5188,-1.9884
 PEPE'S ,B70 7PN,52.5191,-1.9939
@@ -680,6 +709,7 @@ The Bracebridge Restaurant,B74 2YR,52.5793,-1.8524
 XO LOUNGE,B74 3EH,52.5868,-1.8711
 DELHI 6 RESTAURANT LIMITED,B74 3EJ,52.5866,-1.8730
 mocha coffee lounge limited,B74 3EJ,52.5866,-1.8730
+DA GINO,B74 3EL,52.5864,-1.8737
 Spice of Streetly Ltd,B74 3NA,52.5791,-1.8855
 Streetly Balti,B74 3NA,52.5791,-1.8855
 Spice inn ,B74 3PW,52.5794,-1.8899
@@ -709,6 +739,7 @@ Finesse Desserts Dudley,DY1 1PS,52.5094,-2.0841
 The Coffee Shop,DY1 1PZ,52.5090,-2.0845
 PAPAZ PIZZA AND KEBAB,DY1 1QE,52.5092,-2.0858
 Twice the spice ,DY1 1QP,52.5082,-2.0878
+FRENCH CONNECTION COFFE HOUSE,DY1 1QQ,52.5097,-2.0845
 Subway,DY1 1QQ,52.5097,-2.0845
 BRITANNIA INN BAR AND GRILL,DY1 1QU,52.5058,-2.0936
 The Hilly House,DY1 2QH,52.5121,-2.1067
@@ -767,6 +798,7 @@ Port N Ale Ltd,DY4 7DS,52.5283,-2.0401
 Alis kitchen,DY4 7EL,52.5302,-2.0350
 Balti nites,DY4 7EL,52.5302,-2.0350
 A&S Restaurants LTD T/A McDonalds,DY4 7HJ,52.5308,-2.0325
+Tenders Chicken,DY4 7QT,52.5260,-2.0458
 Ekhaya Bar and Grill ,DY4 7RG,52.5180,-2.0583
 Mughal Massala ,DY4 8DB,52.5285,-2.0727
 Bangla Cottage,DY4 8EZ,52.5294,-2.0675
@@ -797,6 +829,7 @@ KFC,DY5 1SY,52.4778,-2.1114
 McDonald’s Merry Hill 1,DY5 1SY,52.4778,-2.1114
 Triple Two Coffee,DY5 1SY,52.4778,-2.1114
 Scallywags soft play,DY5 1UA,52.4841,-2.1155
+Louies cafe,DY5 1UB,52.4832,-2.1170
 BRIERLEY HOP HOUSE,DY5 1XD,52.4852,-2.1141
 Ten Steps Coffee Lounge ,DY5 1XG,52.4863,-2.1142
 Church Tavern,DY5 2AA,52.4725,-2.1039
@@ -860,6 +893,7 @@ McDonald’s Stourbridge,DY8 1JN,52.4602,-2.1466
 The Seven Stars,DY8 1NQ,52.4490,-2.1357
 FULL OF BEANS CAFE LIMITED,DY8 1PH,52.4544,-2.1439
 Coffee Shop Oldswinford Ltd,DY8 1QU,52.4492,-2.1412
+Sohas pizza&kebab,DY8 1RF,52.4485,-2.1420
 Soha’s Royal Cuisine,DY8 1RF,52.4485,-2.1420
 BOMBAY PICKLES LTD,DY8 1TA,52.4582,-2.1477
 Cellars Indian Cuisine ltd,DY8 1TT,52.4586,-2.1487
@@ -893,6 +927,7 @@ Balti Bazaar,DY9 8DJ,52.4570,-2.1182
 Subway,DY9 8DU,52.4619,-2.1170
 TIFFINS RESTAURANT LTD,DY9 8EA,52.4618,-2.1176
 Maliks Restaurant Lye Ltd,DY9 8ET,52.4596,-2.1170
+D'luxe Desserts,DY9 8JT,52.4583,-2.1167
 The Queensway ,DY9 9HN,52.4415,-2.1192
 HAGLEY GOLF CLUB,DY9 9JW,52.4354,-2.1014
 Wychbury Inn & Thai Kitchen,DY9 9LZ,52.4262,-2.1278
@@ -927,6 +962,7 @@ Rendezvous Walsall ltd,WS1 3QQ,52.5817,-1.9854
 Sultan’s restaurant and takeaway limited,WS1 3RB,52.5782,-1.9818
 Caldmore Restaurant,WS1 3RF,52.5775,-1.9821
 Dera Walsall Ltd,WS1 3RF,52.5775,-1.9821
+Sweet treat ,WS1 4LN,52.5730,-1.9889
 Walsall FC Ltd,WS1 4SA,52.5655,-1.9912
 McDonald's,WS1 4SB,52.5664,-1.9923
 Park Inn by Radisson Birmingham Walsall,WS1 4SE,52.5644,-1.9893
@@ -943,6 +979,7 @@ Lamp restaurant ,WS10 7HQ,52.5534,-2.0210
 spices restaurany & takeaway wednesbury ltd,WS10 7PA,52.5523,-2.0264
 MAC'S DINER LTD,WS10 8BQ,52.5708,-2.0232
 Herberts Tavern,WS10 8QU,52.5683,-2.0452
+Tenders Chicken ,WS10 8SY,52.5661,-2.0363
 The Crown,WS10 8TN,52.5672,-2.0381
 churchills bar and restaurant,WS10 9BZ,52.5532,-2.0192
 CASAMIA ,WS10 9QW,52.5615,-2.0064
@@ -999,6 +1036,7 @@ SUBWAY,WV1 1TQ,52.5857,-2.1283
 Top Nosh,WV1 1TQ,52.5857,-2.1283
 THE NEW VICTORIA LTD,WV1 2BA,52.5880,-2.0937
 Fresh Bakes Cafe,WV1 2HW,52.5835,-2.1028
+Hickmans Cafe ,WV1 2XF,52.5792,-2.1042
 subway,WV1 3AE,52.5848,-2.1254
 China Cooking,WV1 3EN,52.5855,-2.1275
 McDonald’s Dudley St,WV1 3ER,52.5849,-2.1268

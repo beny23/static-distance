@@ -27,6 +27,7 @@ Cafe Elite,CM20 1BX,51.7713,0.0926
 Harlow Restaurant Ltd,CM20 1BX,51.7713,0.0926
 Kebabish Harlow,CM20 1ES,51.7706,0.0948
 chicken hut,CM20 1ES,51.7706,0.0948
+Royal Kebabs,CM20 1HP,51.7707,0.0934
 McDonald’s Harlow Town,CM20 1JA,51.7697,0.0939
 kingdu,CM20 1JJ,51.7706,0.0923
 Holiday Inn Express,CM20 1NB,51.7690,0.0969
@@ -62,6 +63,7 @@ The Cock Inn,CM22 7LT,51.8040,0.1865
 Great Hallingbury Manor Hotel,CM22 7TJ,51.8687,0.2078
 The Coffee Shop,CM22 7WE,51.8705,0.2223
 Yew Tree Inn,CM23 1DJ,51.9192,0.1662
+Ruby’s Restaurant,CM23 2DH,51.8699,0.1658
 smoke bbq kitchen,CM23 2DH,51.8699,0.1658
 Mountbatten Restaurant,CM23 2FN,51.8853,0.1686
 Atkins Restaurant,CM23 2JZ,51.8725,0.1593
@@ -106,6 +108,7 @@ LEON,CM24 1RW,51.8899,0.2617
 THE COFFEE HOUSE,CM24 1RW,51.8899,0.2617
 Bombay butler,CM24 8BE,51.9017,0.1994
 Wood Grill,CM24 8BX,51.9051,0.1940
+Yummys,CM24 8BX,51.9051,0.1940
 The Old Bell,CM24 8EY,51.8974,0.1912
 Linden house hotel bar and restaurant ,CM24 8HA,51.9026,0.1926
 The Cock Public House,CM24 8HD,51.9027,0.1923
@@ -126,6 +129,7 @@ La bonta,CM6 1HE,51.8702,0.2820
 Axe and Compasses,CM6 1PP,51.8128,0.3082
 Brett's Country Restaurant,CM6 1RF,51.7991,0.2686
 Bretts Country Restaurant,CM6 1RF,51.7991,0.2686
+Cumin Bar Restaurant ,EN10 6AJ,51.7231,-0.0258
 Salad Box Limited ,EN10 6AJ,51.7231,-0.0258
 White Bear  ,EN10 7BN,51.7458,-0.0187
 A COFFEE AFFAIR LTD,EN10 7HX,51.7486,-0.0185
@@ -135,6 +139,7 @@ Highland Steakhouse,EN10 7HY,51.7474,-0.0187
 Royal Bengal restaurant ,EN10 7NF,51.7470,-0.0198
 The Hertfordshire Golf and Country Club,EN10 7PY,51.7469,-0.0411
 Ezgi catering ltd t/a river Palace cafe ,EN11 0AZ,51.7545,0.0069
+ANATOLIA CAFE & RESTAURANT ,EN11 0JP,51.7670,-0.0040
 Ashoka indian Restaurant,EN11 0JP,51.7670,-0.0040
 HAYTA RESTAURANT,EN11 8ET,51.7593,-0.0120
 smokeshed,EN11 8FN,51.7602,-0.0117
@@ -152,9 +157,13 @@ RAJ MAHAL,EN11 9DU,51.7670,-0.0120
 Raj Vogue Cheshunt Ltd,EN8 0AQ,51.7094,-0.0359
 Dejavu ,EN8 0BX,51.7086,-0.0375
 Karvin Retail Limited,EN8 0JA,51.7114,-0.0503
+ORIS 62 LTD,EN8 8NQ,51.7011,-0.0349
+Windmill cafe,EN8 9AA,51.7025,-0.0340
 Cheshunt Tandoori,EN8 9AW,51.7033,-0.0254
 Vince's Kitchen,EN8 9BN,51.7032,-0.0340
+BEANSTALK CAFE,EN8 9DG,51.7065,-0.0366
 Mahek,EN8 9DG,51.7065,-0.0366
+Fishy Delishy,EN8 9NU,51.7024,-0.0354
 King Harold's Head,EN9 2RY,51.7271,0.0429
 Great Hadham Country Cluib Ltd,SG10 6JE,51.8562,0.1053
 The White Hart,SG11 1RR,51.8930,0.0139

@@ -4,6 +4,7 @@ Cafe Giardino - Bromley 2,BR1 1DD,51.4039,0.0166
 Cafe Giardino - Bromley 1,BR1 1DN,51.4039,0.0166
 McDonalds,BR1 1DN,51.4039,0.0166
 Quiznos,BR1 1DN,51.4039,0.0166
+PRIVE LOUNGE,BR1 1DS,51.3998,0.0163
 German Doner Kebab,BR1 1EA,51.4004,0.0166
 Oceans Fresh ltd ,BR1 1EA,51.4004,0.0166
 Subway,BR1 1EA,51.4004,0.0166
@@ -55,6 +56,7 @@ The Greyhound  ,BR2 6BP,51.3636,0.0286
 Metropolitan Police Hayes Sports Club Ltd,BR2 7AL,51.3706,0.0086
 The New Inn,BR2 7EA,51.3760,0.0113
 MUMBAI CENTRAL,BR2 7EH,51.3772,0.0104
+ELACHI (HAYES) LIMITED,BR2 7EJ,51.3766,0.0109
 Elachi (Hayes) ltd t/a Ginger,BR2 7EJ,51.3766,0.0109
 tugra restaurant ltd,BR2 7EJ,51.3766,0.0109
 Hello Burger Hayes,BR2 7LD,51.3790,0.0176
@@ -97,6 +99,8 @@ The Amber Fort,BR3 3DY,51.3915,-0.0389
 Baturello Cafe Pizzeria,BR3 3HG,51.3908,-0.0289
 Lugana ,BR3 3HN,51.3987,-0.0404
 The Coach & Horses,BR3 3LA,51.4062,-0.0265
+Leo’s Kitchen,BR3 3PP,51.4063,-0.0327
+Meant2bean ,BR3 3PS,51.4027,-0.0368
 TIYA’S CAFE LIMITED,BR3 3PS,51.4027,-0.0368
 Goodfella Vapes Limited,BR3 3RA,51.3988,-0.0423
 Kemer Ltd,BR3 3RB,51.3988,-0.0416
@@ -125,23 +129,28 @@ KFC,BR4 0LZ,51.3773,-0.0209
 Topolino Italian Restaurant,BR4 0LZ,51.3773,-0.0209
 DINESTYLE LTD,BR4 0ND,51.3771,-0.0200
 Hisar Meze Bar ,BR4 0NH,51.3764,-0.0177
+Prayosha enterprises ltd ,BR4 0NH,51.3764,-0.0177
+SONARGAON TANDOORI,BR4 0RL,51.3751,-0.0114
 Coneys cafe,BR4 9HZ,51.3702,0.0020
 Smoque Coney,BR4 9HZ,51.3702,0.0020
 Thai Elephant,BR4 9HZ,51.3702,0.0020
 Arabica Coffee House,BR5 1DF,51.3891,0.0729
 BAY LEAF ENN LIMITED,BR5 1DF,51.3891,0.0729
+Oakley Coffee,BR5 1DF,51.3891,0.0729
 RAJDOOT,BR5 1DG,51.3895,0.0718
 Thai Moom,BR5 1DG,51.3895,0.0718
 As u like it,BR5 1DQ,51.3885,0.0729
 Cafe Dolce Vita,BR5 1DQ,51.3885,0.0729
 Uskudar restaurant,BR5 1DQ,51.3885,0.0729
 Semosh Restaurant,BR5 1EF,51.3888,0.0762
+Atlas Restaurant,BR5 1LA,51.3901,0.0739
 saigon bar and grill,BR5 1LA,51.3901,0.0739
 INDIAN ESSENCE,BR5 1LG,51.3905,0.0753
 The Village Fish & Chips,BR5 1LG,51.3905,0.0753
 SMT FOOD LIMITED,BR5 1LY,51.3897,0.0756
 The Brasserie Petts Wood Ltd,BR5 1LZ,51.3890,0.0752
 Cafe Maz,BR5 1NA,51.3898,0.0741
+Coffee X LTD,BR5 1NA,51.3898,0.0741
 Desperados Petts Wood,BR5 1NA,51.3898,0.0741
 Little India Restaurant,BR5 1NA,51.3898,0.0741
 Berils' Cafe,BR5 2HE,51.3906,0.1072
@@ -232,7 +241,6 @@ Chez Vous Restaurant,CR6 9LA,51.3092,-0.0546
 Asian Dinning Limited,CR6 9NA,51.3094,-0.0563
 TIKKA MASALA LIMITED,CR6 9NA,51.3094,-0.0563
 The Bull inn,CR6 9PB,51.3140,-0.0321
-Farleigh Golf Club,CR6 9PE,51.3263,-0.0432
 the White Bear,CR6 9PH,51.3251,-0.0070
 Botley Hill Farmhouse,CR6 9QH,51.2812,0.0017
 SOULSUB LIMITED,DA1 1AS,51.4465,0.2168
@@ -365,6 +373,7 @@ Holiday Inn London Bexley,DA5 1ND,51.4464,0.1541
 Riverside Cafe,DA5 1PQ,51.4480,0.1602
 Fortune Inn,DA5 3HG,51.4360,0.1276
 Ruchi Restaurant Limited,DA5 3HG,51.4360,0.1276
+il vesuvio restaurant,DA6 7AD,51.4561,0.1428
 The Cafe ,DA6 7AT,51.4556,0.1536
 Masala Inn,DA6 7AU,51.4577,0.1383
 Thai Bexleyheath,DA6 7BD,51.4576,0.1394
@@ -395,6 +404,7 @@ Fleur de The Ltd,DA6 8HL,51.4558,0.1226
 Bexleyheath golf club ,DA6 8JS,51.4521,0.1294
 Glasshouse restaurant ,DA7 4EG,51.4628,0.1326
 Crook Log Leisure Centre,DA7 4HH,51.4602,0.1245
+Spice of India,DA7 4QW,51.4643,0.1331
 Zanz Cafe,DA7 4QW,51.4643,0.1331
 Bombay Balti House ,DA7 5AE,51.4659,0.1457
 Jalsha 2(Tandoori Restaurant),DA7 6HJ,51.4672,0.1582
@@ -417,12 +427,14 @@ Comptoir Bluewater,DA9 9ST,51.4394,0.2729
 Gravity - Bluewater,DA9 9ST,51.4394,0.2729
 SPUDULIKE BLUEWATER,DA9 9ST,51.4394,0.2729
 Tapas Revolution Bluewater,DA9 9ST,51.4394,0.2729
+Wasabi Sushi & Bento,DA9 9ST,51.4394,0.2729
 Yangzte Blue Water,DA9 9ST,51.4394,0.2729
 Zabardast,DA9 9ST,51.4394,0.2729
 BGK House Ltd t/a Gurkha Kitchen,RH8 0AX,51.2576,-0.0029
 The Deli Oxted,RH8 0AX,51.2576,-0.0029
 Deep Blue Restaurants,RH8 0BD,51.2570,-0.0012
 Subway,RH8 0BD,51.2570,-0.0012
+Coffee at Kiwi House,RH8 0DR,51.2590,0.0140
 The Bull Inn Limpsfield,RH8 0DR,51.2590,0.0140
 Ber-Gur Lt t/a Brisk,RH8 0PG,51.2578,-0.0022
 Cucina Italiana,RH8 0PG,51.2578,-0.0022
@@ -498,6 +510,7 @@ creperie chez yves,SE20 8HU,51.4152,-0.0552
 Blue Belle Cafe,SE20 8JB,51.4145,-0.0552
 Lorenzo,SE22 0RR,51.4535,-0.0623
 The Herne Tavern,SE22 0RR,51.4535,-0.0623
+Zainab Mahal (omrith),SE22 0RS,51.4520,-0.0602
 RAILWAY TELEGRAPH,SE23 1BS,51.4422,-0.0491
 Hattush Restaurant Ltd,SE23 1DY,51.4494,-0.0433
 Mamma Dough HOP,SE23 1DY,51.4494,-0.0433
@@ -570,6 +583,7 @@ German Doner Kebab (GDK),SE6 4AA,51.4464,-0.0184
 A2 Lounge,SE6 4AF,51.4475,-0.0178
 Costa Coffee,SE6 4AF,51.4475,-0.0178
 Grill Kebab House,SE6 4AF,51.4475,-0.0178
+KASPAS DESSERTS CATFORD,SE6 4AF,51.4475,-0.0178
 Sema’s Cafe,SE6 4DT,51.4389,-0.0334
 Catford KFC Store,SE6 4HQ,51.4461,-0.0197
 Tai Won Mein,SE6 4HW,51.4473,-0.0191
@@ -600,6 +614,7 @@ CHOI CATERING LIMITED,SE9 2EB,51.4391,0.0703
 Happy Days Cafe,SE9 2PH,51.4502,0.0819
 Mahatma Tandoori LTD,SE9 2PH,51.4502,0.0819
 Mint Leaves-Real Indian Food,SE9 3NS,51.4338,0.0668
+Zavi Restaurant ,SE9 3SA,51.4347,0.0648
 Pope Street Bar and Kitchen ,SE9 3TU,51.4362,0.0732
 Mem' Cafe,SE9 4QZ,51.4370,0.0443
 Jolpai Indian cuisine ,SE9 4RQ,51.4378,0.0449
@@ -629,6 +644,7 @@ The Chequers,TN13 1LD,51.2701,0.1927
 Malabar Coffee House,TN13 1LE,51.2705,0.1927
 Subway,TN13 1LH,51.2708,0.1926
 Soprano,TN13 1LL,51.2709,0.1921
+Hive,TN13 1UN,51.2713,0.1919
 The Oak,TN13 1UP,51.2716,0.1924
 Basil Sevenoaks Bank Street,TN13 1UW,51.2710,0.1921
 Life On High ,TN13 1XE,51.2731,0.1930
@@ -638,6 +654,7 @@ Malabar Coffee House,TN13 2DE,51.2859,0.1692
 The Kings Head,TN13 2PT,51.2789,0.1581
 George & Dragon Chipstead,TN13 2RW,51.2846,0.1536
 The Bricklayers Arms,TN13 2RZ,51.2856,0.1484
+Donnington Manor Hotel,TN13 2TD,51.3014,0.1608
 Bojangles coffee house,TN13 2UT,51.2945,0.1667
 The Taj Restaurant,TN13 2UT,51.2945,0.1667
 Lingalonga Limited T/A Rafferty’s Café ,TN13 3TL,51.2814,0.1947
@@ -649,6 +666,7 @@ The White Horse,TN14 6EQ,51.2786,0.1303
 The Cock Inn,TN14 7DD,51.3310,0.1366
 THE THREE HORSESHOES (KNOCKHOLT)LTD,TN14 7LD,51.3157,0.1236
 BLUEBERRY RESTAURANT,TN14 7LJ,51.3148,0.1152
+the blacksmiths arms ,TN14 7QB,51.3177,0.0740
 Mount Vineyard (Bar & Restaurant) Limited,TN14 7SD,51.3335,0.1822
 Ganga finest Indian Dining,TN15 0AW,51.2886,0.2229
 Knole Park Golf Club Ltd,TN15 0HT,51.2750,0.2086

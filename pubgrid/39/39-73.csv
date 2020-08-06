@@ -3,6 +3,7 @@ Colchester High Street McDonalds,CO1 1DH,51.8896,0.9007
 Love Thy Burger,CO1 1DH,51.8896,0.9007
 Preto,CO1 1DH,51.8896,0.9007
 Brook Red Lion Hotel ,CO1 1DJ,51.8896,0.9003
+KASPAS DESSERTS COLCHESTER,CO1 1DN,51.8894,0.9027
 Three Wise Monkeys Colchester,CO1 1DN,51.8894,0.9027
 Triple TWo Coffee,CO1 1LH,51.8889,0.9023
 Aburi restaurant LTD.,CO1 1LN,51.8880,0.9027
@@ -15,12 +16,14 @@ Wild at Spirit,CO1 1LS,51.8879,0.9006
 Tanbell Ltd ,CO1 1LX,51.8883,0.9006
 Wimpy,CO1 1TB,51.8899,0.9017
 MIRRA RESTAURANT,CO1 1TH,51.8898,0.9026
+The Castle Pub Colchester Ltd,CO1 1TH,51.8898,0.9026
 Sip & Tuck,CO1 1UE,51.8897,0.9047
 GREYFRIARS COLCHESTER,CO1 1UG,51.8901,0.9053
 Putt in the  Park ,CO1 1UG,51.8901,0.9053
 The Foresters Arms,CO1 1UW,51.8917,0.9063
 MT COFFEE LTD T/A MUFFIN BREAK,CO1 1XJ,51.8887,0.9002
 THE BAMBOO HOUSE,CO1 2AN,51.8831,0.9094
+Sushi n Sake,CO1 2HG,51.8808,0.9216
 Yak & Yeti Colchester,CO1 2JT,51.8858,0.9046
 Miseria E Nobilta' Ltd,CO1 2PG,51.8896,0.9044
 Kimchi House,CO1 2PJ,51.8890,0.9040
@@ -42,6 +45,7 @@ The New Bell Inn,CO12 3EN,51.9472,1.2889
 Thai up at the Quay,CO12 3EZ,51.9474,1.2868
 The Pier at Harwich,CO12 3HH,51.9479,1.2865
 The Tower Hotel (Dovercourt) Limited,CO12 3PJ,51.9358,1.2761
+Dovercourt Skate Rink,CO12 3ST,51.9270,1.2700
 Costa Coffee,CO12 4FE,51.9390,1.2642
 Harwich McDonalds,CO12 4GA,51.9393,1.2599
 Shadowcat Coffee Shop,CO12 4HT,51.9334,1.2571
@@ -180,6 +184,7 @@ Salt n pepper bistro cafe ,IP4 1BA,52.0557,1.1574
 The Bloom Lounge,IP4 1BA,52.0557,1.1574
 Bangkok Heightz ,IP4 1BB,52.0553,1.1590
 The Dhaka Restaurant,IP4 1BB,52.0553,1.1590
+Kaspas Desserts Ipswich,IP4 1DR,52.0560,1.1560
 Cafe at the DanceHouse,IP4 1DW,52.0525,1.1554
 Papa Panda,IP4 1EW,52.0573,1.1583
 The Grazing Sheep,IP4 1FH,52.0524,1.1578
@@ -229,7 +234,6 @@ The Harkstead Bakers Arms,IP9 1BT,51.9686,1.1831
 The Butt & Oyster Inn,IP9 1JW,51.9963,1.2127
 The Rose inn,IP9 1NL,51.9692,1.2514
 SHOTLEY PIER,IP9 1PU,51.9568,1.2684
-Shipwreck Bistro and Shipwreck LoftsShotley Marina Ltd,IP9 1QJ,51.9567,1.2752
 Cafe,IP9 2AB,52.0239,1.1562
 Zaynab Indian Cuisine,IP9 2JR,52.0017,1.0554
 THE WHITE HORSE INN,IP9 2NU,52.0015,1.1108

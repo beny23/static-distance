@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 castle inn newport ,PO30 1BQ,50.6996,-1.2977
+Subway,PO30 1JU,50.6990,-1.2929
 Town Choice Cafe ,PO30 1JU,50.6990,-1.2929
 Cornerstop Cafe Ltd,PO30 1JZ,50.6977,-1.2943
 McDonald's Restaurant,PO30 1LB,50.6984,-1.2953
@@ -7,6 +8,7 @@ Peach Vegan Kitchen & Zero Waste Store,PO30 1LB,50.6984,-1.2953
 The George Inn,PO30 1LB,50.6984,-1.2953
 Caffe Isola ,PO30 1LG,50.6978,-1.2950
 Board Cafe Bar,PO30 1LQ,50.6974,-1.2954
+Tamarind,PO30 1LQ,50.6974,-1.2954
 The Eight Bells,PO30 1NR,50.6916,-1.3121
 Valentino's restaurant,PO30 1NT,50.6915,-1.3146
 Waverley inn,PO30 1PA,50.6905,-1.3166
@@ -46,6 +48,7 @@ Hungry Bear,PO33 1XS,50.7002,-1.1080
 The White Hart Inn,PO33 4DP,50.7097,-1.2084
 Lakeside Park Hotel & Spa,PO33 4LJ,50.7232,-1.2276
 Cibo,PO33 4PF,50.7248,-1.2286
+The Cedars,PO33 4QU,50.7234,-1.2372
 The Woodmans Arms,PO33 4RQ,50.7171,-1.2457
 Bluebells at Briddlesford,PO33 4RY,50.7096,-1.2455
 The Old Barracks Restaurant,PO34 5AR,50.7249,-1.1286
@@ -117,6 +120,7 @@ Bournehall Country Hotel & Restaurant,PO37 6RR,50.6205,-1.1766
 CINNAMON RESTAURANT AND TAKEAWAY,PO37 7AF,50.6303,-1.1780
 TUMBLERS CAFE,PO37 7AT,50.6336,-1.1784
 Artyshakes ,PO37 7LA,50.6312,-1.1791
+Toni’s Tea Room,PO38 1EU,50.5950,-1.2023
 The Seapot,PO38 1HP,50.5949,-1.1971
 BESTY & SPINKYS,PO38 1JR,50.5933,-1.2062
 THE MILL BAY,PO38 1JR,50.5933,-1.2062
@@ -125,13 +129,11 @@ Carnaby Tea Rooms,PO38 1LU,50.5956,-1.2029
 The Bonchurch Inn,PO38 1NU,50.6011,-1.1867
 The Blenheim,PO38 1RY,50.5953,-1.2059
 T & D kitchen Ventnor ,PO38 1RZ,50.5953,-1.2048
-Tramezzini,PO38 1RZ,50.5953,-1.2048
 Masala Bay,PO38 1ST,50.5948,-1.2052
 Ventnor Botanic Garden C I C,PO38 1UL,50.5897,-1.2300
 THE WHITE LION,PO38 2AT,50.5881,-1.2849
 WIGHT MOUSE INN,PO38 2HA,50.5967,-1.3178
 Blackgang Chine,PO38 2HN,50.5905,-1.3142
-Castlehaven caravan park Beach cafe,PO38 2ND,50.5778,-1.2892
 Buddle Inn,PO38 2NE,50.5789,-1.2916
 The White Horse Inn,PO38 2PY,50.5986,-1.2642
 Woods Kitchen,PO38 3HH,50.6337,-1.2547

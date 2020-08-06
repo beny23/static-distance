@@ -51,6 +51,7 @@ The Grumpy Mole Epsom,KT18 7AS,51.3240,-0.2683
 Woodcote Park Clubhouse,KT18 7EW,51.3153,-0.2757
 Haweli of Tadworth,KT20 5PU,51.2969,-0.2377
 The Grumpy Mole Tadworth,KT20 5RX,51.2916,-0.2254
+The Chalet Bakery Coffee Shop,KT20 5SD,51.2880,-0.2313
 The Bridge ,KT20 5SP,51.2917,-0.2353
 The Coffee House  ,KT20 5SR,51.2913,-0.2351
 No 12 Restaurant,KT20 6EB,51.2954,-0.2143
@@ -62,7 +63,9 @@ DESTINATION BIKE LIMITED,KT20 7JE,51.2530,-0.2792
 Smith & Western,KT20 7LB,51.2493,-0.3131
 Fox & Hounds,KT20 7RU,51.2830,-0.2469
 SPAGHETTI TREE,KT20 7RW,51.2837,-0.2423
+Walton Heath Golf Club,KT20 7TP,51.2781,-0.2439
 The Blue Ball PH,KT20 7UE,51.2827,-0.2408
+Ashtead Charcoal Grill Ltd,KT21 1AA,51.3103,-0.2981
 The street thai ,KT21 1AA,51.3103,-0.2981
 The Leg of Mutton and Cauliflower,KT21 1AZ,51.3092,-0.2994
 Ex Cellar,KT21 1QJ,51.3169,-0.3047
@@ -80,6 +83,7 @@ L'ultimo,KT22 8AN,51.2952,-0.3286
 Nurestani Fresh Food Ltd T/A Subway,KT22 8AN,51.2952,-0.3286
 Five Rivers Leatherhead,KT22 8BZ,51.2949,-0.3311
 Preto,KT22 8DW,51.2945,-0.3292
+KARAHI HOUSE,KT22 8ED,51.2952,-0.3261
 Tyrrells Wood Golf Club,KT22 8QP,51.2854,-0.2966
 Clarks Cafe,KT22 9AL,51.2920,-0.3373
 Zen garden cuisine limited ,KT22 9AL,51.2920,-0.3373
@@ -134,6 +138,7 @@ Mo Lin Chinese Restaurant,RH10 1BJ,51.1133,-0.1909
 TAJ MAHAL RESTAURANT,RH10 1BJ,51.1133,-0.1909
 Lemongrass,RH10 1BN,51.1134,-0.1908
 Blue India,RH10 1BQ,51.1147,-0.1901
+The White Hart,RH10 1BQ,51.1147,-0.1901
 Sage,RH10 1BW,51.1141,-0.1908
 KFC,RH10 1BZ,51.1164,-0.1902
 creams cafe ,RH10 1BZ,51.1164,-0.1902
@@ -164,6 +169,7 @@ Dal Nonno Restaurant ,RH10 4HS,51.1250,-0.0856
 H.A.E TEA ROOM LTD,RH10 4PE,51.1100,-0.1136
 Alexander House Hotel and Spa,RH10 4QD,51.1080,-0.0680
 Holiday Inn London Gatwick Worth,RH10 4ST,51.1199,-0.1353
+Mommy’s Kitchen ,RH10 5EJ,51.1023,-0.1794
 Cinnamon ,RH10 5EQ,51.1023,-0.1806
 EPHESUS BBQ LTD,RH10 5EQ,51.1023,-0.1806
 Tilgate Forest Golf Course,RH10 5EU,51.1006,-0.1799
@@ -212,7 +218,9 @@ REIGATE TRADERS UK LIMITED,RH2 9AE,51.2377,-0.2088
 Buenos Aires Argentine Steakhouse ,RH2 9AN,51.2383,-0.2097
 Eighty Ate Burger,RH2 9AP,51.2381,-0.2093
 THE RIVER KWAI RESTAURANT,RH2 9AP,51.2381,-0.2093
+Regional Thai Taste,RH2 9AT,51.2378,-0.2079
 Monte Forte - Neapolitan Pizza,RH2 9BS,51.2387,-0.2110
+The Admiral Inn Pub,RH2 9EF,51.2427,-0.2117
 The Black Horse,RH2 9JZ,51.2403,-0.2210
 Reigate Manor,RH2 9PF,51.2490,-0.2030
 Squire's Garden Centre Reigate,RH2 9RE,51.2422,-0.2353
@@ -227,12 +235,14 @@ White Horse Hotel,RH4 1BE,51.2324,-0.3302
 ARTO RESTAURANT,RH4 1BG,51.2323,-0.3305
 Fountain Garden,RH4 1BL,51.2316,-0.3343
 Mullins Coffee Shop,RH4 1BS,51.2317,-0.3340
+The Old House,RH4 1BY,51.2317,-0.3366
 Jam Pot Cafe,RH4 1HA,51.2349,-0.3365
 Hillier Garden Centre Dorking,RH4 1NP,51.2363,-0.3164
 Betchworth Park Golf Club,RH4 1NZ,51.2366,-0.3055
 Subway Dorking,RH4 1QR,51.2331,-0.3289
 The Surrey Yeoman,RH4 1QR,51.2331,-0.3289
 Deepdene Dorking,RH4 1RL,51.2345,-0.3273
+Tandoori Nights,RH4 1RQ,51.2349,-0.3267
 Wimpy,RH4 1RU,51.2333,-0.3293
 Lincoln Arms Limited,RH4 1TF,51.2404,-0.3240
 Burgundy and Black,RH4 1UT,51.2331,-0.3313
@@ -249,6 +259,7 @@ Dorking Golf Club Limited,RH5 4BX,51.2256,-0.3199
 Royal Oak Dorking,RH5 4DJ,51.2185,-0.3154
 Lakeside viewpub Dorking,RH5 4RW,51.1779,-0.3018
 Surrey Hills Cafe and Deli LTD,RH5 4SL,51.1797,-0.3179
+Sixbells (Dorking) Limited,RH5 5DH,51.1657,-0.2896
 The Surrey Oaks,RH5 5DZ,51.1786,-0.2783
 THE CROWN INN,RH5 5JY,51.1527,-0.3203
 Inn on the Green,RH5 5TD,51.1489,-0.3606

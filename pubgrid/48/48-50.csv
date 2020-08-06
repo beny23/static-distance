@@ -35,6 +35,7 @@ The Bracebridge Restaurant,B74 2YR,52.5793,-1.8524
 XO LOUNGE,B74 3EH,52.5868,-1.8711
 DELHI 6 RESTAURANT LIMITED,B74 3EJ,52.5866,-1.8730
 mocha coffee lounge limited,B74 3EJ,52.5866,-1.8730
+DA GINO,B74 3EL,52.5864,-1.8737
 Spice of Streetly Ltd,B74 3NA,52.5791,-1.8855
 Streetly Balti,B74 3NA,52.5791,-1.8855
 Spice inn ,B74 3PW,52.5794,-1.8899
@@ -57,6 +58,7 @@ Port N Ale Ltd,DY4 7DS,52.5283,-2.0401
 Alis kitchen,DY4 7EL,52.5302,-2.0350
 Balti nites,DY4 7EL,52.5302,-2.0350
 A&S Restaurants LTD T/A McDonalds,DY4 7HJ,52.5308,-2.0325
+Tenders Chicken,DY4 7QT,52.5260,-2.0458
 Mughal Massala ,DY4 8DB,52.5285,-2.0727
 Bangla Cottage,DY4 8EZ,52.5294,-2.0675
 The fountain inn ,DY4 8HE,52.5288,-2.0700
@@ -99,6 +101,7 @@ Rendezvous Walsall ltd,WS1 3QQ,52.5817,-1.9854
 Sultan’s restaurant and takeaway limited,WS1 3RB,52.5782,-1.9818
 Caldmore Restaurant,WS1 3RF,52.5775,-1.9821
 Dera Walsall Ltd,WS1 3RF,52.5775,-1.9821
+Sweet treat ,WS1 4LN,52.5730,-1.9889
 Walsall FC Ltd,WS1 4SA,52.5655,-1.9912
 McDonald's,WS1 4SB,52.5664,-1.9923
 Park Inn by Radisson Birmingham Walsall,WS1 4SE,52.5644,-1.9893
@@ -115,6 +118,7 @@ Lamp restaurant ,WS10 7HQ,52.5534,-2.0210
 spices restaurany & takeaway wednesbury ltd,WS10 7PA,52.5523,-2.0264
 MAC'S DINER LTD,WS10 8BQ,52.5708,-2.0232
 Herberts Tavern,WS10 8QU,52.5683,-2.0452
+Tenders Chicken ,WS10 8SY,52.5661,-2.0363
 The Crown,WS10 8TN,52.5672,-2.0381
 churchills bar and restaurant,WS10 9BZ,52.5532,-2.0192
 CASAMIA ,WS10 9QW,52.5615,-2.0064
@@ -140,6 +144,7 @@ Truckers rest ,WS11 1SF,52.6816,-2.0644
 Longford McDonald's Restaurant,WS11 1TD,52.6781,-2.0478
 Holy Smoke Bar & Grill Ltd,WS11 1UE,52.6904,-2.0320
 Indulge ,WS11 5DB,52.7029,-2.0147
+BakeAway ,WS11 5DD,52.7029,-2.0155
 Dilshad Restaurant,WS11 5DZ,52.7024,-2.0155
 Garam masala ,WS11 5QJ,52.6993,-2.0221
 Snack Shack Midlands LTD ,WS11 7GA,52.6962,-2.0076
@@ -158,6 +163,7 @@ Hednesford Bingo,WS12 1DU,52.7089,-1.9967
 The Trafalgar,WS12 1HZ,52.7060,-1.9754
 KFC,WS12 1LT,52.6999,-2.0052
 Olive Grove ,WS12 2DN,52.7005,-1.9971
+BakeAway,WS12 3HN,52.6903,-1.9837
 FIVE WAYS INN,WS12 3HU,52.6876,-1.9790
 Panshi,WS12 3XP,52.6919,-1.9996
 The Winding Wheel ,WS12 3XP,52.6919,-1.9996
@@ -211,6 +217,7 @@ Penguin cafe,WS3 2XA,52.6048,-1.9920
 The Vintage Tea Room,WS3 2XD,52.6063,-1.9931
 Subway,WS3 3HE,52.6151,-2.0030
 Ashoca,WS3 3JT,52.6147,-2.0041
+Delicious-The Finest Indian Cuisine,WS3 3LQ,52.6172,-2.0042
 Mirchi catering ltd,WS3 3UB,52.6296,-2.0132
 one man and his dog ,WS3 3UB,52.6296,-2.0132
 The Reading Rooms,WS3 4LX,52.6296,-1.9683
@@ -232,6 +239,7 @@ the malt at landywood,WS6 7AR,52.6499,-2.0246
 THE MARY ROSE,WS6 7AY,52.6561,-2.0349
 Village Lodge,WS6 7ED,52.6624,-2.0306
 Cigno,WS7 0HQ,52.6767,-1.9029
+BakeAway,WS7 1JR,52.6822,-1.9346
 Costa Coffee,WS7 1JS,52.6816,-1.9348
 The Hazelwood House Club,WS7 1LY,52.6857,-1.9405
 Bradshaw Bros Ltd,WS7 1YL,52.6926,-1.9426
@@ -288,6 +296,7 @@ SUBWAY,WV1 1TQ,52.5857,-2.1283
 Top Nosh,WV1 1TQ,52.5857,-2.1283
 THE NEW VICTORIA LTD,WV1 2BA,52.5880,-2.0937
 Fresh Bakes Cafe,WV1 2HW,52.5835,-2.1028
+Hickmans Cafe ,WV1 2XF,52.5792,-2.1042
 subway,WV1 3AE,52.5848,-2.1254
 China Cooking,WV1 3EN,52.5855,-2.1275
 McDonald’s Dudley St,WV1 3ER,52.5849,-2.1268
@@ -311,6 +320,7 @@ THE COFFEE HOUSE,WV10 0QP,52.5997,-2.0956
 SUBWAY,WV10 6AN,52.6190,-2.1299
 McDonald’s Stafford Road,WV10 6JF,52.6018,-2.1295
 Tastebuds (Wolverhampton) Limited,WV10 6JH,52.6036,-2.1320
+The Brook Coffee House Limited,WV10 6NR,52.6291,-2.1256
 ming moon restaurant wolverhampton,WV10 6RR,52.6191,-2.1305
 The Dog and Partridge,WV10 7DW,52.6766,-2.0921
 Northycote Farm Tearoom ,WV10 7JF,52.6265,-2.1058

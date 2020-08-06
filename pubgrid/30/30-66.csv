@@ -1,10 +1,12 @@
 name,postcode,lat,lon
+PRIVE LOUNGE,BR1 1DS,51.3998,0.0163
 Truffles kitchen ,BR2 0TY,51.3924,0.0024
 Daisy Grey Keston,BR2 6BP,51.3636,0.0286
 The Greyhound  ,BR2 6BP,51.3636,0.0286
 Metropolitan Police Hayes Sports Club Ltd,BR2 7AL,51.3706,0.0086
 The New Inn,BR2 7EA,51.3760,0.0113
 MUMBAI CENTRAL,BR2 7EH,51.3772,0.0104
+ELACHI (HAYES) LIMITED,BR2 7EJ,51.3766,0.0109
 Elachi (Hayes) ltd t/a Ginger,BR2 7EJ,51.3766,0.0109
 tugra restaurant ltd,BR2 7EJ,51.3766,0.0109
 Hello Burger Hayes,BR2 7LD,51.3790,0.0176
@@ -39,23 +41,28 @@ KFC,BR4 0LZ,51.3773,-0.0209
 Topolino Italian Restaurant,BR4 0LZ,51.3773,-0.0209
 DINESTYLE LTD,BR4 0ND,51.3771,-0.0200
 Hisar Meze Bar ,BR4 0NH,51.3764,-0.0177
+Prayosha enterprises ltd ,BR4 0NH,51.3764,-0.0177
+SONARGAON TANDOORI,BR4 0RL,51.3751,-0.0114
 Coneys cafe,BR4 9HZ,51.3702,0.0020
 Smoque Coney,BR4 9HZ,51.3702,0.0020
 Thai Elephant,BR4 9HZ,51.3702,0.0020
 Arabica Coffee House,BR5 1DF,51.3891,0.0729
 BAY LEAF ENN LIMITED,BR5 1DF,51.3891,0.0729
+Oakley Coffee,BR5 1DF,51.3891,0.0729
 RAJDOOT,BR5 1DG,51.3895,0.0718
 Thai Moom,BR5 1DG,51.3895,0.0718
 As u like it,BR5 1DQ,51.3885,0.0729
 Cafe Dolce Vita,BR5 1DQ,51.3885,0.0729
 Uskudar restaurant,BR5 1DQ,51.3885,0.0729
 Semosh Restaurant,BR5 1EF,51.3888,0.0762
+Atlas Restaurant,BR5 1LA,51.3901,0.0739
 saigon bar and grill,BR5 1LA,51.3901,0.0739
 INDIAN ESSENCE,BR5 1LG,51.3905,0.0753
 The Village Fish & Chips,BR5 1LG,51.3905,0.0753
 SMT FOOD LIMITED,BR5 1LY,51.3897,0.0756
 The Brasserie Petts Wood Ltd,BR5 1LZ,51.3890,0.0752
 Cafe Maz,BR5 1NA,51.3898,0.0741
+Coffee X LTD,BR5 1NA,51.3898,0.0741
 Desperados Petts Wood,BR5 1NA,51.3898,0.0741
 Little India Restaurant,BR5 1NA,51.3898,0.0741
 Berils' Cafe,BR5 2HE,51.3906,0.1072
@@ -129,7 +136,6 @@ Chez Vous Restaurant,CR6 9LA,51.3092,-0.0546
 Asian Dinning Limited,CR6 9NA,51.3094,-0.0563
 TIKKA MASALA LIMITED,CR6 9NA,51.3094,-0.0563
 The Bull inn,CR6 9PB,51.3140,-0.0321
-Farleigh Golf Club,CR6 9PE,51.3263,-0.0432
 the White Bear,CR6 9PH,51.3251,-0.0070
 Botley Hill Farmhouse,CR6 9QH,51.2812,0.0017
 Longfield Tandoori,DA3 7QA,51.3964,0.3007
@@ -147,6 +153,7 @@ BGK House Ltd t/a Gurkha Kitchen,RH8 0AX,51.2576,-0.0029
 The Deli Oxted,RH8 0AX,51.2576,-0.0029
 Deep Blue Restaurants,RH8 0BD,51.2570,-0.0012
 Subway,RH8 0BD,51.2570,-0.0012
+Coffee at Kiwi House,RH8 0DR,51.2590,0.0140
 The Bull Inn Limpsfield,RH8 0DR,51.2590,0.0140
 Ber-Gur Lt t/a Brisk,RH8 0PG,51.2578,-0.0022
 Cucina Italiana,RH8 0PG,51.2578,-0.0022
@@ -169,6 +176,7 @@ The Bell Inn,TN11 0BD,51.2103,0.3428
 Turmeric Gold ,TN11 0NT,51.1819,0.3193
 Poacher & Partridge,TN11 0PH,51.1876,0.3169
 The Little Brown Jug,TN11 8JJ,51.1975,0.1731
+The Greyhound,TN11 8LG,51.2032,0.1766
 Cinnamon Square,TN11 8LX,51.2138,0.2272
 Nizels Golf & Country Club,TN11 8NU,51.2298,0.2125
 Fleur De Lis Pub,TN11 8RL,51.1959,0.2126
@@ -191,6 +199,7 @@ The Chequers,TN13 1LD,51.2701,0.1927
 Malabar Coffee House,TN13 1LE,51.2705,0.1927
 Subway,TN13 1LH,51.2708,0.1926
 Soprano,TN13 1LL,51.2709,0.1921
+Hive,TN13 1UN,51.2713,0.1919
 The Oak,TN13 1UP,51.2716,0.1924
 Basil Sevenoaks Bank Street,TN13 1UW,51.2710,0.1921
 Life On High ,TN13 1XE,51.2731,0.1930
@@ -200,6 +209,7 @@ Malabar Coffee House,TN13 2DE,51.2859,0.1692
 The Kings Head,TN13 2PT,51.2789,0.1581
 George & Dragon Chipstead,TN13 2RW,51.2846,0.1536
 The Bricklayers Arms,TN13 2RZ,51.2856,0.1484
+Donnington Manor Hotel,TN13 2TD,51.3014,0.1608
 Bojangles coffee house,TN13 2UT,51.2945,0.1667
 The Taj Restaurant,TN13 2UT,51.2945,0.1667
 Lingalonga Limited T/A Rafferty’s Café ,TN13 3TL,51.2814,0.1947
@@ -213,6 +223,7 @@ The Windmill ,TN14 6PN,51.2373,0.1878
 The Cock Inn,TN14 7DD,51.3310,0.1366
 THE THREE HORSESHOES (KNOCKHOLT)LTD,TN14 7LD,51.3157,0.1236
 BLUEBERRY RESTAURANT,TN14 7LJ,51.3148,0.1152
+the blacksmiths arms ,TN14 7QB,51.3177,0.0740
 Mount Vineyard (Bar & Restaurant) Limited,TN14 7SD,51.3335,0.1822
 Ganga finest Indian Dining,TN15 0AW,51.2886,0.2229
 Knole Park Golf Club Ltd,TN15 0HT,51.2750,0.2086
@@ -252,6 +263,7 @@ KING & QUEEN EDENBRIDGE,TN8 5AU,51.1953,0.0657
 The Old Eden,TN8 5AX,51.1938,0.0662
 FirstPort - Roman Court,TN8 5LU,51.2005,0.0623
 Pronto Bistro Limited,TN8 6ND,51.2113,0.1079
+Castle Inn,TN8 7AH,51.1859,0.1465
 The Tulip Tree,TN8 7AH,51.1859,0.1465
 The Greyhound Inn,TN8 7LJ,51.1759,0.1068
 King Henry VIII Inn,TN8 7NH,51.1836,0.1104

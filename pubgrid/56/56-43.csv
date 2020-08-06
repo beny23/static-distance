@@ -37,6 +37,7 @@ Ristorante Sergio,CH1 2DY,53.1912,-2.8902
 Share Shop,CH1 2HA,53.1911,-2.8914
 Starbucks Northgate Street,CH1 2HA,53.1911,-2.8914
 Veeno Chester,CH1 2HA,53.1911,-2.8914
+Crustum,CH1 2HH,53.1913,-2.8940
 Death by Tacos,CH1 2HH,53.1913,-2.8940
 Jeffro's wingz an tingz ,CH1 2HH,53.1913,-2.8940
 Mrkt Cafe,CH1 2HH,53.1913,-2.8940
@@ -81,6 +82,7 @@ The Yard,CH1 3AE,53.1943,-2.8815
 Koconut Grove ,CH1 3AT,53.1927,-2.8813
 Deva Tap Chester,CH1 3DU,53.1968,-2.8836
 istanbul bbq,CH1 3DX,53.1957,-2.8857
+Chester Tandoori ,CH1 3DZ,53.1950,-2.8864
 PIEROGI CHESTER,CH1 3DZ,53.1950,-2.8864
 Baristas Coffee Co,CH1 3EF,53.1943,-2.8887
 pacinos restaurant,CH1 3HE,53.1961,-2.8874
@@ -103,6 +105,7 @@ Crabwall Manor Hotel & Spa ,CH1 6NE,53.2199,-2.9247
 Brook Mollington Banastre Hotel & Spa,CH1 6NN,53.2168,-2.9182
 Little Molly's Tea Rooms,CH1 6NY,53.2176,-2.9179
 The indian brasserie ,CH2 1JF,53.2190,-2.8783
+The Oakfield,CH2 1LH,53.2255,-2.8776
 Fish and Chips At Weston Grove,CH2 1QL,53.2142,-2.8806
 Village Cafe Upton,CH2 1QL,53.2142,-2.8806
 The Bears Paw,CH2 2BT,53.2063,-2.8893
@@ -186,6 +189,7 @@ KFC BROMBOROUGH 02036,CH62 3PN,53.3408,-2.9757
 M & Ems ltd t/a Subway,CH62 3PN,53.3408,-2.9757
 PGriffiths foods ltd Mcdonalds Bromborough,CH62 3PN,53.3408,-2.9757
 Tudor rose tea room,CH62 4XD,53.3499,-2.9982
+Wirral Kitchen Ltd,CH62 6AU,53.3250,-2.9715
 king Wah Restaurant,CH62 6AU,53.3250,-2.9715
 Rubens Coffee Ltd,CH62 6BB,53.3223,-2.9846
 WIRRAL TANDOORI RESTAURANT LIMITED,CH62 7ES,53.3336,-2.9777
@@ -215,6 +219,7 @@ Burtons at the Manor,CH64 5SJ,53.2596,-3.0286
 The Neston Club,CH64 6QJ,53.2933,-3.0793
 The Ship,CH64 6SA,53.2941,-3.0816
 britannia spice,CH64 6SA,53.2941,-3.0816
+Elephant Lounge & Bar,CH64 6SB,53.2953,-3.0832
 Saltys ,CH64 6SL,53.2959,-3.0834
 Mozkitos Coffee House,CH64 6SP,53.2963,-3.0827
 Cascades Coffee Shop,CH64 8TF,53.2737,-3.0002
@@ -223,12 +228,14 @@ Paisley Grey,CH64 9TZ,53.2893,-3.0634
 Elephant Bank,CH64 9UB,53.2896,-3.0646
 The Blue Bicycle,CH64 9UB,53.2896,-3.0646
 Krikri Greek Restaurant,CH64 9UJ,53.2881,-3.0627
+SONARGAON RESTAURANT LTD,CH64 9UJ,53.2881,-3.0627
 REALFOODKITCHEN365,CH64 9XF,53.2898,-3.0656
 Kelly’s cafe,CH65 0AJ,53.2785,-2.8989
 Club 3000 Bingo Ellesmere Port,CH65 0AN,53.2782,-2.9018
 M & Ems ltd t/a Subway,CH65 0AN,53.2782,-2.9018
 Wok & Go,CH65 0AN,53.2782,-2.9018
 Costa Coffee,CH65 0AP,53.2776,-2.9001
+dominik cafe,CH65 0HW,53.2784,-2.8989
 Holiday Inn Ellesmere Port - Cheshire Oaks,CH65 2AL,53.2893,-2.8965
 Subway,CH65 3AA,53.2853,-2.9090
 Eco Truck Cafe Limited,CH65 4LB,53.2790,-2.8742
@@ -248,9 +255,12 @@ LEON,CH65 9JJ,53.2638,-2.8803
 McDonald's Cheshire Oaks,CH65 9JJ,53.2638,-2.8803
 Starbucks Cheshire Oaks Outlet Centre,CH65 9JJ,53.2638,-2.8803
 Blue Planet Aquarium,CH65 9LF,53.2603,-2.8904
+Pig N Cow Diner,CH66 1LG,53.2876,-2.9244
 Boulder Hut Limited,CH66 1ST,53.2922,-2.9154
+Saffron,CH66 1SW,53.2939,-2.9224
 Old Wirral Hundred,CH66 2BY,53.2616,-2.9297
 White Swan,CH66 3NZ,53.2769,-2.9364
+Holdi spice lounge ,CH66 3RF,53.2852,-2.9463
 Meanay's Cafe,CH66 3RQ,53.2838,-2.9450
 The White Lion,CH66 5PU,53.2917,-2.9549
 Inglewood Manor ,CH66 8PF,53.2725,-2.9829
@@ -272,11 +282,13 @@ Crumbs Sandwich Bar,CH7 2ED,53.1682,-3.0797
 Costa Coffee,CH7 2EF,53.1677,-3.0784
 Gerrards Confectioners North Wales Ltd,CH7 2EF,53.1677,-3.0784
 Pink Daisy Garment Care Ltd,CH7 2JB,53.1686,-3.0826
+The Woodworks Cafe,CH7 4HE,53.1555,-3.1278
 Druid Inn (Mold) Limited,CH7 4HG,53.1427,-3.0887
 carlwillis catering,CH7 4JD,53.1518,-3.0854
 plas hafod limited,CH7 5JS,53.1615,-3.1745
 We Three Loggerheads,CH7 5LH,53.1545,-3.2005
 Druid Inn,CH7 5SN,53.1335,-3.2154
+highfield hall,CH7 6AZ,53.2059,-3.1092
 Holiday Inn Chester West,CH7 6HB,53.1929,-3.0820
 OK Diners Northop Hall,CH7 6HB,53.1929,-3.0820
 McDonald's,CH7 6HS,53.2023,-3.0978

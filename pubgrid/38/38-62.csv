@@ -58,6 +58,7 @@ LAMBODARA ENTERPRISE LIMITED (T/A MUFFIN BREAK),AL8 6HA,51.8012,-0.2046
 Starbucks  Welwyn Garden City Howard Centre,AL8 6HA,51.8012,-0.2046
 MISYA (UK) LTD,AL8 6JQ,51.8001,-0.2091
 Bebo Café  (Welwyn Garden City),AL8 6NA,51.8022,-0.2049
+Neem tree,AL8 6NU,51.8008,-0.2063
 Fuhao Restaurant,AL8 6PG,51.8022,-0.2065
 RED INDIAN RESTAURANT,AL8 6PG,51.8022,-0.2065
 Cafe Trio,AL8 6PL,51.8011,-0.2071
@@ -87,6 +88,7 @@ BEDFORDSHIRE COFFEE LTD T/A MUFFIN BREAK ,LU1 2LJ,51.8794,-0.4128
 Chopstix Luton,LU1 2LJ,51.8794,-0.4128
 Frankster's,LU1 2LJ,51.8794,-0.4128
 Nucrema,LU1 2LJ,51.8794,-0.4128
+Jamaica Jerk and Burger Hut ltd,LU1 2NA,51.8828,-0.4185
 Cookies and Cream,LU1 2NB,51.8817,-0.4180
 Subway Galaxy Luton,LU1 2NF,51.8813,-0.4172
 Villa Ada Restaurant,LU1 2NQ,51.8805,-0.4127
@@ -108,6 +110,7 @@ Greenfields Restaurant,LU1 2TW,51.8792,-0.4126
 Robbys Teashop,LU1 2TW,51.8792,-0.4126
 Lime House Cafe,LU1 2TY,51.8791,-0.4160
 O'Sheas,LU1 3AL,51.8737,-0.4172
+The Living Room Cafe ,LU1 3BE,51.8771,-0.4129
 grill 33 limited,LU1 3BW,51.8767,-0.4109
 La Dolce Vita (Luton) Limited,LU1 3ET,51.8773,-0.4120
 The Chequers,LU1 3EZ,51.8755,-0.4090
@@ -157,6 +160,7 @@ Orbital Trampoline Park (Luton) Limited,LU4 8EZ,51.8901,-0.4554
 Arabella lounge,LU4 8FG,51.8864,-0.4300
 Coffeepot ,LU4 8FG,51.8864,-0.4300
 CAFE LUTON ,LU4 8HX,51.8883,-0.4318
+Luton tawa house,LU4 8HX,51.8883,-0.4318
 Alankar,LU4 8JL,51.8870,-0.4338
 pepes piri piri,LU4 8JS,51.8894,-0.4398
 The Coffee Tree,LU4 9ND,51.9010,-0.4710
@@ -167,6 +171,7 @@ CURRY GARDEN,LU5 4NP,51.8928,-0.4981
 Kazmicks Restaurant,LU5 4RH,51.8871,-0.5206
 The Old Palace Lodge Hotel ,LU5 4RT,51.8873,-0.5176
 Chez Jerome ,LU5 4RU,51.8861,-0.5199
+The Bell,LU5 6BP,51.9490,-0.5316
 Bistro Twenty Four ,LU5 6BY,51.9471,-0.5332
 The Fancott,LU5 6HT,51.9374,-0.5188
 Coconut Garden,LU6 1AU,51.8938,-0.5315
@@ -190,6 +195,7 @@ Jaccs coffee,LU6 3AH,51.8832,-0.5225
 Holiday Inn Express Dunstable,LU6 3DX,51.8756,-0.5050
 Priory House Tearooms,LU6 3RZ,51.8854,-0.5196
 Sugar 'n' Spice,LU6 3RZ,51.8854,-0.5196
+VANTAGE INDIAN RESTAURANT,LU6 3RZ,51.8854,-0.5196
 Peri Peri Original Dunstable ,LU6 3SF,51.8842,-0.5178
 The White Swan,LU6 3SF,51.8842,-0.5178
 MCDONALD'S,LU7 9LZ,51.9280,-0.5814
@@ -199,6 +205,7 @@ Tilsworth Golf Centre Ltd,LU7 9PU,51.9094,-0.5752
 The Green Man,MK17 9DU,51.9816,-0.5683
 The Red Lion,MK17 9HS,51.9616,-0.5843
 SPICE INDIAN CUISINE,MK45 1HZ,51.9981,-0.4956
+CAFE GOA,MK45 4JU,51.9655,-0.4266
 Passage to India ,MK45 4LL,51.9672,-0.4274
 Boutique-e-licious,MK45 4RF,51.9688,-0.4344
 Mill House Coffee Shop,MK45 4RF,51.9688,-0.4344
@@ -220,6 +227,7 @@ TARLA RESTAURANT,SG1 3AW,51.9111,-0.2076
 Rump & Wade,SG1 3AZ,51.9127,-0.2079
 The Cromwell Hotel,SG1 3AZ,51.9127,-0.2079
 Lavish bar and grill,SG1 3DB,51.9087,-0.2070
+ANGELIQUE 2019 LTD,SG1 3DW,51.9101,-0.2077
 Angelique Restaurant ,SG1 3DW,51.9101,-0.2077
 OLD TOWN CHINESE RESTAURANT LTD,SG1 3DW,51.9101,-0.2077
 Sala Thong Stevenage,SG1 3DW,51.9101,-0.2077
@@ -248,6 +256,8 @@ Indian Hitchin,SG4 9NR,51.9424,-0.2597
 Khushma Cottage,SG4 9ST,51.9514,-0.2693
 Radcliffe Arms,SG4 9ST,51.9514,-0.2693
 THE ALBERT INN,SG4 9SU,51.9517,-0.2683
+Bosphorus Restaurant,SG5 1AE,51.9465,-0.2786
+Four Leaf Clover,SG5 1AE,51.9465,-0.2786
 Mevan Ocakbasi,SG5 1AE,51.9465,-0.2786
 Deroka restaurant,SG5 1AH,51.9464,-0.2790
 Lussmanns Hitchin,SG5 1AH,51.9464,-0.2790
@@ -267,6 +277,7 @@ Starbucks,SG5 1DR,51.9477,-0.2785
 Halsey's Deli & Eatery,SG5 1DS,51.9471,-0.2783
 Bar Amigo,SG5 1DT,51.9471,-0.2790
 Osinsky's,SG5 1DY,51.9475,-0.2793
+Casbah Grill Ltd,SG5 1HR,51.9481,-0.2780
 The Groundworks,SG5 1HR,51.9481,-0.2780
 North Hertfordshire Museum Cafe,SG5 1JE,51.9492,-0.2793
 Costa Coffee Hitchin,SG5 1JQ,51.9493,-0.2780

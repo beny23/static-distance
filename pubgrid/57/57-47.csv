@@ -23,6 +23,7 @@ fourways cafe and grill,CW8 2HU,53.2164,-2.6589
 Abbeywood Estate ,CW8 2HW,53.2095,-2.6544
 Define Food & Wine,CW8 2NH,53.2319,-2.5946
 Hare & Hounds,CW8 2RN,53.2658,-2.6333
+Devonshire Bakery,CW8 3EU,53.2623,-2.5775
 CUMIN COTTAGE RESTAURANT,CW8 3HB,53.2635,-2.5824
 The Hanging Gate,CW8 3HG,53.2644,-2.5861
 The Topiary Coffee Shop,CW8 4EE,53.2633,-2.5364
@@ -64,6 +65,8 @@ MCD Manchester LTD (McDonald's),M23 9AA,53.4003,-2.2910
 Brooks Fish & Chips Ltd,M23 9EG,53.4046,-2.3041
 The Coffee House Partington,M31 4EL,53.4186,-2.4256
 The Hideaway,M31 4EL,53.4186,-2.4256
+FRENCH FEELING,M33 2DH,53.4242,-2.3170
+Milktray ,M33 2DH,53.4242,-2.3170
 Mustard,M33 2DH,53.4242,-2.3170
 Propeller Coffee,M33 2DH,53.4242,-2.3170
 Mellors Catering Services Ltd,M33 2GS,53.4245,-2.2941
@@ -89,6 +92,7 @@ Jenny's place café &eatery,M33 7WZ,53.4238,-2.3224
 Bar Bianco Ltd,M33 7XN,53.4246,-2.3233
 Massala Lounge,M33 7XY,53.4246,-2.3198
 VIDA (SALE) LTD,M33 7XY,53.4246,-2.3198
+Cafe Se7en Ltd,M33 7XZ,53.4245,-2.3224
 Café Balzar,M90 1QX,53.3619,-2.2708
 KFC,M90 1QX,53.3619,-2.2708
 Lion&Antelope,M90 1QX,53.3619,-2.2708
@@ -175,12 +179,14 @@ Porta,WA14 1RZ,53.3867,-2.3522
 The Con Club,WA14 1RZ,53.3867,-2.3522
 Chilli B - Alty,WA14 1SA,53.3875,-2.3519
 Market House Altrincham,WA14 1SA,53.3875,-2.3519
+RUBENS MED SHED,WA14 1SB,53.3862,-2.3515
 Oxford Road Cafe,WA14 2DP,53.3830,-2.3520
 Coffii 22,WA14 2DW,53.3837,-2.3526
 KATHMANDU KITCHEN,WA14 2DW,53.3837,-2.3526
 Nahm Prik Thai Cuisine,WA14 2DW,53.3837,-2.3526
 California Coffee and Wine Co.,WA14 2DY,53.3839,-2.3518
 S A S Catering Limited,WA14 2ED,53.3827,-2.3507
+Yara Altrincham ,WA14 2ED,53.3827,-2.3507
 Gonbay Chinese Restaurant,WA14 2QD,53.3840,-2.3529
 Rasassi Restaurant ,WA14 2QD,53.3840,-2.3529
 Batch Deli,WA14 2RD,53.3851,-2.3523
@@ -193,6 +199,7 @@ Da Noi Restaurant,WA14 4NP,53.3888,-2.3502
 Essence ,WA14 4RJ,53.3968,-2.3524
 ATLANTIC BOWL,WA14 5BW,53.3980,-2.3557
 McDonald's Restaurant,WA14 5GR,53.4008,-2.3561
+Spice Indian cuisine ,WA14 5NH,53.4066,-2.3466
 Subway Timperley,WA14 5NH,53.4066,-2.3466
 The Cafe Place Altrincham Limited ,WA14 5NS,53.3991,-2.3527
 Dunham Massey Farm Icecream ,WA14 5SG,53.3887,-2.4141
@@ -301,6 +308,7 @@ Cardamon Restaurant ,WA4 6LG,53.3695,-2.5802
 expedition,WA4 6LG,53.3695,-2.5802
 EGO Mediterranean Restaurant Stockton Heath,WA4 6NJ,53.3701,-2.5818
 Maison Fleur,WA4 6NJ,53.3701,-2.5818
+heaths26,WA4 6NL,53.3692,-2.5820
 Bus Stop Bistro & Bar,WA4 6SG,53.3720,-2.5814
 Rudra corporation limited T/A Wasabi Teppanyaki,WA4 6SG,53.3720,-2.5814
 Terrace Bistro,WA4 6SG,53.3720,-2.5814

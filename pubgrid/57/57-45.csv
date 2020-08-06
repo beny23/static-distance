@@ -5,6 +5,7 @@ Crabwall Manor Hotel & Spa ,CH1 6NE,53.2199,-2.9247
 Brook Mollington Banastre Hotel & Spa,CH1 6NN,53.2168,-2.9182
 Little Molly's Tea Rooms,CH1 6NY,53.2176,-2.9179
 The indian brasserie ,CH2 1JF,53.2190,-2.8783
+The Oakfield,CH2 1LH,53.2255,-2.8776
 Fish and Chips At Weston Grove,CH2 1QL,53.2142,-2.8806
 Village Cafe Upton,CH2 1QL,53.2142,-2.8806
 The Bears Paw,CH2 2BT,53.2063,-2.8893
@@ -22,6 +23,7 @@ Club 3000 Bingo Ellesmere Port,CH65 0AN,53.2782,-2.9018
 M & Ems ltd t/a Subway,CH65 0AN,53.2782,-2.9018
 Wok & Go,CH65 0AN,53.2782,-2.9018
 Costa Coffee,CH65 0AP,53.2776,-2.9001
+dominik cafe,CH65 0HW,53.2784,-2.8989
 Holiday Inn Ellesmere Port - Cheshire Oaks,CH65 2AL,53.2893,-2.8965
 Subway,CH65 3AA,53.2853,-2.9090
 Eco Truck Cafe Limited,CH65 4LB,53.2790,-2.8742
@@ -41,9 +43,12 @@ LEON,CH65 9JJ,53.2638,-2.8803
 McDonald's Cheshire Oaks,CH65 9JJ,53.2638,-2.8803
 Starbucks Cheshire Oaks Outlet Centre,CH65 9JJ,53.2638,-2.8803
 Blue Planet Aquarium,CH65 9LF,53.2603,-2.8904
+Pig N Cow Diner,CH66 1LG,53.2876,-2.9244
 Boulder Hut Limited,CH66 1ST,53.2922,-2.9154
+Saffron,CH66 1SW,53.2939,-2.9224
 Old Wirral Hundred,CH66 2BY,53.2616,-2.9297
 White Swan,CH66 3NZ,53.2769,-2.9364
+Holdi spice lounge ,CH66 3RF,53.2852,-2.9463
 Meanay's Cafe,CH66 3RQ,53.2838,-2.9450
 oak cheshire ltd,CW6 0RR,53.2072,-2.7202
 Pesto at Cabbage Hall,CW6 9ES,53.2038,-2.6274
@@ -58,6 +63,7 @@ fourways cafe and grill,CW8 2HU,53.2164,-2.6589
 Abbeywood Estate ,CW8 2HW,53.2095,-2.6544
 Define Food & Wine,CW8 2NH,53.2319,-2.5946
 Hare & Hounds,CW8 2RN,53.2658,-2.6333
+Devonshire Bakery,CW8 3EU,53.2623,-2.5775
 CUMIN COTTAGE RESTAURANT,CW8 3HB,53.2635,-2.5824
 The Hanging Gate,CW8 3HG,53.2644,-2.5861
 Barnton Cricket Club,CW8 4QL,53.2760,-2.5510
@@ -87,10 +93,12 @@ Cafe express deli,L15 4LL,53.3999,-2.9272
 TIGER ROCK LTD,L15 5AG,53.3892,-2.9165
 The Tavern Company,L15 5AG,53.3892,-2.9165
 GT Smith Liverpool Ltd,L15 5AH,53.3896,-2.9260
+Subway,L15 5AH,53.3896,-2.9260
 Meatless,L15 5AJ,53.3897,-2.9212
 Bean There Coffee Shop,L15 5AN,53.3888,-2.9169
 Leaf Tea Shop & Bar (Smithdown) Ltd,L15 5AN,53.3888,-2.9169
 Maggie Fu,L15 5AN,53.3888,-2.9169
+Portland Street 358,L15 5AN,53.3888,-2.9169
 TRIBECA BAR & PIZZERIA ,L15 5AN,53.3888,-2.9169
 Costa Coffee,L15 5AU,53.3903,-2.9263
 Canton Palace Chinese Restaurant,L15 6UY,53.3967,-2.8987
@@ -121,6 +129,7 @@ The Lark Bistro,L17 8UU,53.3822,-2.9442
 rhubarb cafe bar,L17 8UW,53.3808,-2.9466
 Maranto's,L17 8XT,53.3799,-2.9459
 Churrasco Steakhouse ,L17 8XW,53.3791,-2.9454
+Subway,L17 9PE,53.3783,-2.9481
 Catherine Braidy,L17 9PJ,53.3754,-2.9407
 Light Of Bengal Restaurant Ltd,L17 9PW,53.3746,-2.9383
 Dovedale Towers,L18 1DG,53.3866,-2.9198
@@ -143,9 +152,12 @@ Calderstones Mansion House,L18 3JB,53.3816,-2.8941
 Allerton Golf Trading Ltd,L18 3JT,53.3751,-2.8928
 Amakura Coffee shop,L18 4QY,53.3689,-2.9113
 Espresso Plus ,L18 5EA,53.3807,-2.9131
+Lolivetto Ltd,L18 5EA,53.3807,-2.9131
 The Rose of Mossley,L18 5EA,53.3807,-2.9131
 52 Rose Lane Bistro ,L18 5ED,53.3802,-2.9130
 Cocomo,L18 5EP,53.3832,-2.9132
+Subway,L18 5HU,53.3850,-2.9080
+Chaba Chaba Thai Restaurant,L18 6HG,53.3840,-2.9064
 HOPE AND SMOKE,L18 6HG,53.3840,-2.9064
 Istanbul Restaurant - Allerton,L18 6HG,53.3840,-2.9064
 Gustum bar and restaurant,L18 8AG,53.3786,-2.9160
@@ -167,6 +179,8 @@ Pepperwood Kitchen,L24 9LG,53.3545,-2.8547
 Subway,L24 9WA,53.3575,-2.8682
 Hunts cross supper bar ,L25 0NT,53.3596,-2.8531
 Costa Coffee,L25 1PD,53.3915,-2.8722
+Subway,L25 1PD,53.3915,-2.8722
+Subway,L25 2RF,53.3905,-2.8598
 McDonald's Restaurant Belle Vale,L25 2RJ,53.3910,-2.8564
 Sayers Cafe,L25 2RQ,53.3907,-2.8587
 The Elephant ,L25 5NH,53.3749,-2.8663
@@ -177,6 +191,7 @@ Coast Coffee Ltd,L25 7RA,53.3746,-2.8672
 Caveau,L25 7RE,53.3742,-2.8691
 Istanbul BBQ & Bistro ,L25 7RE,53.3742,-2.8691
 CookHouse Pub & Carvery,L25 9NQ,53.3734,-2.8530
+Subway,L26 0AD,53.3599,-2.8300
 Yew tree coffee barn ,L26 3UA,53.3630,-2.8106
 Liverpool Golf Centre Bistro,L27 0YB,53.3930,-2.8374
 Lakeside Bar & Grill LTD,L34 1PJ,53.4231,-2.8262
@@ -266,6 +281,7 @@ Cardamon Restaurant ,WA4 6LG,53.3695,-2.5802
 expedition,WA4 6LG,53.3695,-2.5802
 EGO Mediterranean Restaurant Stockton Heath,WA4 6NJ,53.3701,-2.5818
 Maison Fleur,WA4 6NJ,53.3701,-2.5818
+heaths26,WA4 6NL,53.3692,-2.5820
 Bus Stop Bistro & Bar,WA4 6SG,53.3720,-2.5814
 Rudra corporation limited T/A Wasabi Teppanyaki,WA4 6SG,53.3720,-2.5814
 Terrace Bistro,WA4 6SG,53.3720,-2.5814
@@ -292,16 +308,20 @@ Forest Hills Hotel,WA6 6HH,53.2869,-2.7246
 DELAMERE FORTUNE PALACE,WA6 6PB,53.2427,-2.6662
 Helter Skelter,WA6 6PN,53.2948,-2.7243
 Costa Coffee - Frodsham,WA6 6QL,53.2949,-2.7251
+Subway,WA6 6QS,53.2939,-2.7240
 Brew and Tucker Ltd,WA6 6QW,53.2945,-2.7244
 THE VINTAGE TEAROOM FAMILY ROOM AND BAR LTD,WA6 6SU,53.2762,-2.6981
 The Netherton Hall,WA6 6UL,53.2884,-2.7325
 Artisan Green,WA6 7AB,53.2955,-2.7273
+Devonshire Bakery Ltd,WA6 7AH,53.2966,-2.7252
 Slim India ,WA6 7AR,53.2953,-2.7266
 Whitmore & White Ltd,WA6 7AU,53.2945,-2.7285
 The Red Bull Inn,WA6 8AN,53.2680,-2.6730
 The White Lion,WA6 9DD,53.2603,-2.7543
 Tandoori Night ,WA7 1AP,53.3417,-2.7307
+Tekosta Caffe & Pizza Ltd,WA7 1LD,53.3428,-2.7343
 Costa Coffee,WA7 1LX,53.3422,-2.7327
+Devonshire Bakery ,WA7 1LX,53.3422,-2.7327
 The Norton Arms,WA7 2AD,53.3351,-2.6951
 Sayers Cafe,WA7 2BY,53.3270,-2.6988
 The Straw Hat,WA7 2EU,53.3275,-2.6978
@@ -327,6 +347,7 @@ Maplewood Restaurant,WA8 3UX,53.3981,-2.7038
 The Hayloft,WA8 3XP,53.3950,-2.6874
 Unicorn Inn,WA8 5QF,53.3884,-2.7642
 The Dandelion Tavern ,WA8 5QG,53.3893,-2.7609
+Bangal Spice ,WA8 6AD,53.3632,-2.7308
 McDonald's Asda Widnes,WA8 6AH,53.3644,-2.7310
 SAN MARINO ITALIAN BAR & RESTAURANT ,WA8 6AX,53.3665,-2.7286
 Tea For Two,WA8 6AX,53.3665,-2.7286

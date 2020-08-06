@@ -1,14 +1,17 @@
 name,postcode,lat,lon
 Duke of York,CM11 2PR,51.6127,0.4343
+copperfield bakeries ltd,CM11 2RB,51.6136,0.4302
 The magic mushroom restaurant ,CM11 2UD,51.6012,0.4454
 Tiptree Tea Rooms at Barleylands,CM11 2UF,51.5982,0.4461
 The shepherd and dog public house,CM11 2YA,51.6035,0.4731
 Gandhi Restaurant,CM12 9AP,51.6248,0.4162
+La Toscana Italian Restaurant,CM12 9BY,51.6240,0.4166
 Wimpy Billericay,CM12 9BY,51.6240,0.4166
 Pasha,CM12 9UN,51.5949,0.4285
 Bonnies cafe,CM13 1SN,51.6249,0.3834
 Essex quality food and wine ltd TA Masons Restaurant & Bar,CM13 2AA,51.6128,0.3189
 The Fat Turk,CM13 3AE,51.6011,0.2919
+Warley Park Ltd,CM13 3DX,51.5886,0.3072
 Virgin Active Clearview,CM13 3EN,51.5726,0.3156
 Thatchers Arms,CM13 3HU,51.5933,0.2842
 De Rougemont Manor,CM13 3JP,51.5880,0.2908
@@ -106,6 +109,7 @@ Rose & Crown Public House,DA12 3EA,51.4142,0.4307
 Inn on the Lake hotel,DA12 3HB,51.4030,0.4073
 Southern Valley Golf Course Ltd,DA12 4LT,51.4193,0.4045
 Best Western Manor Hotel,DA12 5UQ,51.4114,0.3769
+Kohinoor Restaurant ,DA13 9JF,51.4060,0.3529
 The Ship Inn Southfleet ,DA13 9NS,51.4159,0.3202
 Millbrook Garden Centre - The Mill,DA13 9PA,51.4208,0.3115
 Stone valley lodge Ltd,DA2 6PD,51.4466,0.2476
@@ -130,6 +134,7 @@ Comptoir Bluewater,DA9 9ST,51.4394,0.2729
 Gravity - Bluewater,DA9 9ST,51.4394,0.2729
 SPUDULIKE BLUEWATER,DA9 9ST,51.4394,0.2729
 Tapas Revolution Bluewater,DA9 9ST,51.4394,0.2729
+Wasabi Sushi & Bento,DA9 9ST,51.4394,0.2729
 Yangzte Blue Water,DA9 9ST,51.4394,0.2729
 Zabardast,DA9 9ST,51.4394,0.2729
 New Shad Restaurant,ME2 4HY,51.4011,0.5004
@@ -176,6 +181,7 @@ Fireaway Pizza ,RM12 6NB,51.5604,0.2204
 ONYX RESTAURANT & BAR ,RM12 6NB,51.5604,0.2204
 Pride Of Hornchurch Ltd,RM12 6NB,51.5604,0.2204
 SUBWAY,RM12 6NJ,51.5613,0.2205
+Mustard Rainham limited,RM12 6QP,51.5612,0.2228
 Taste of Bengal,RM12 6QP,51.5612,0.2228
 COSTA COFFEE - HORNCHURCH 2,RM12 6QX,51.5620,0.2200
 Starbucks Hornchurch,RM12 6QX,51.5620,0.2200
@@ -254,6 +260,7 @@ Chiktopia,RM20 2ZP,51.4871,0.2835
 German Doner Kebab (GDK),RM20 2ZP,51.4871,0.2835
 La Tasca - Lakeside,RM20 2ZP,51.4871,0.2835
 Rock Up Lakeside,RM20 2ZP,51.4871,0.2835
+Wasabi Sushi & Bento,RM20 2ZP,51.4871,0.2835
 Wimpy Lakeside ,RM20 2ZP,51.4871,0.2835
 Creams Cafe Intu Lakeside,RM20 2ZQ,51.4877,0.2832
 SPICY TOP LTD T/A SHAMPAAN,RM20 3HL,51.4760,0.2811
@@ -319,6 +326,7 @@ Green Palace Ltd T/A Panahar Restaurant  ,SS17 0HL,51.5152,0.4255
 railway tavern,SS17 0HL,51.5152,0.4255
 Subway,SS17 0LD,51.5143,0.4201
 Paulettes bakery,SS17 7NA,51.5247,0.4483
+STANFORD CURRY LTD,SS17 7NA,51.5247,0.4483
 The Springhouse,SS17 7QT,51.5244,0.4502
 Swan pub,SS17 8LD,51.5241,0.4060
 The Bell Inn & Ostlers,SS17 8LD,51.5241,0.4060
@@ -378,10 +386,12 @@ Rio Coffee,SS8 7AD,51.5224,0.5932
 SUBWAY,SS8 7AE,51.5221,0.5920
 kushi,SS8 7AG,51.5217,0.5927
 Douro Valley,SS8 7AJ,51.5212,0.5923
+MEZ Turkish ,SS8 7AJ,51.5212,0.5923
 THE HAYSTACK,SS8 7AJ,51.5212,0.5923
 Rio Bingo Canvey Island,SS8 7AL,51.5196,0.5926
 PARADISE INDIAN RESTAURANT ,SS8 7AT,51.5199,0.5932
 JIMMY MAC'S,SS8 7DN,51.5129,0.5982
+The Labworth Restaurant ,SS8 7DW,51.5118,0.5946
 Spice Lounge,SS8 7FJ,51.5126,0.5967
 oysterbay sports bar,SS8 7FJ,51.5126,0.5967
 KFC Canvey,SS8 7RD,51.5230,0.5960

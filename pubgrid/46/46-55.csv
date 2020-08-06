@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 Chatime ,CV1 1DL,52.4072,-1.5135
+Shenhe Lanzhou Noodle Bar,CV1 1DL,52.4072,-1.5135
 The Cat Lounge,CV1 1DL,52.4072,-1.5135
 Bean & Brunch,CV1 1DN,52.4076,-1.5142
 The Litten Tree,CV1 1EX,52.4052,-1.5137
@@ -12,6 +13,7 @@ ALATURKA DONER,CV1 1FY,52.4091,-1.5132
 Bagel Brunch,CV1 1FY,52.4091,-1.5132
 Nine Dragon Ltd/treading name-Alley food&mood,CV1 1FY,52.4091,-1.5132
 Restaurant du Liban,CV1 1FY,52.4091,-1.5132
+nicely noodle bar,CV1 1FY,52.4091,-1.5132
 Fork & Knife Foods Ltd T/A Steakout Coventry,CV1 1GF,52.4102,-1.5114
 Franzos,CV1 1GF,52.4102,-1.5114
 Rodizio Rico,CV1 1GF,52.4102,-1.5114
@@ -164,6 +166,7 @@ BALL HILL DINER ,CV2 4ED,52.4106,-1.4830
 Simmer Down Restaurant,CV2 4ED,52.4106,-1.4830
 Sri Sai Subs Ltd,CV2 4ED,52.4106,-1.4830
 Ms J Westwood TA Sawasdee Thai,CV2 4JZ,52.4127,-1.4770
+La parisienne ,CV2 4QH,52.4159,-1.4890
 The Millpool,CV2 5FR,52.4064,-1.4599
 Barley Mow,CV21 1HW,52.3911,-1.2830
 KFC - Junction One Retail Pk Rugby,CV21 1RW,52.3852,-1.2596
@@ -220,9 +223,11 @@ McDonald's Restaurant,CV5 8BW,52.4113,-1.5284
 New Spires,CV5 8HJ,52.4141,-1.5474
 The Jacobean Hotel,CV5 8HX,52.4196,-1.5521
 The good honest food company ,CV5 9BN,52.4237,-1.5676
+Hawkes Mill Sports and Social Club ,CV5 9FN,52.4423,-1.5577
 Rainbow Inn,CV5 9GT,52.4232,-1.5609
 Shefs food services ltd ,CV5 9GT,52.4232,-1.5609
 Britannia Coventry Hill Hotel,CV5 9PH,52.4261,-1.5730
+Suzy Mcs,CV5 9PS,52.4331,-1.5632
 Kausshik Limited,CV6 1AU,52.4174,-1.5327
 Dosa village,CV6 1DY,52.4168,-1.5259
 Lions Inn Indian Cuisine Ltd,CV6 1EJ,52.4203,-1.5331
@@ -240,8 +245,10 @@ SFC ,CV6 4HH,52.4503,-1.5111
 EASTERN DINER LTD,CV6 5AN,52.4287,-1.4989
 Nima’s Limited ,CV6 5AU,52.4289,-1.4994
 3 FIVE 1 RESTAURANT,CV6 5DS,52.4201,-1.4971
+chillibite bar & grill,CV6 5EL,52.4190,-1.4935
 The New Horseshoe Bar & Grill,CV6 5HN,52.4381,-1.4931
 Aachi Restaurant,CV6 5HP,52.4339,-1.4951
+STAG & PHEASANT BAR RESTAURANT,CV6 5PD,52.4279,-1.5034
 McDonald's Restaurant,CV6 5QE,52.4298,-1.4877
 Subway,CV6 5QG,52.4294,-1.4893
 Burger King,CV6 6AS,52.4444,-1.4925
@@ -273,6 +280,7 @@ the wine bar,CV9 1HA,52.5779,-1.5469
 Artigiano ,CV9 1JP,52.5774,-1.5445
 Blue Boar Inn,CV9 1NE,52.5717,-1.5273
 The Kings Head,CV9 2PA,52.5798,-1.5541
+UK MASSALA MIX LTD T/A MAYA BAR & RESTAURANT,CV9 3AD,52.5837,-1.5472
 Blue Lion,CV9 3NA,52.5735,-1.5210
 THE GATE INN,CV9 3NY,52.5927,-1.5210
 Buttercream Tearoom,LE10 0AD,52.5411,-1.3743
@@ -343,6 +351,7 @@ MAN AT ARMS,LE17 4SB,52.4677,-1.2124
 Chequers Country Inn,LE17 5BT,52.4850,-1.2566
 Ullesthorpe Court Hotel and Golf Club Limited,LE17 5BZ,52.4943,-1.2570
 PALMERS AT ULLESTHORPE LIMITED,LE17 5DR,52.4798,-1.2432
+The Holly Bush,LE17 5HS,52.4926,-1.2259
 Dunton Bassett arms restaurant limited,LE17 5JJ,52.5107,-1.1965
 The Chequers,LE17 6BL,52.4101,-1.1636
 Manor Farm shop and Farmhouse Kitchen,LE17 6DB,52.3982,-1.1894

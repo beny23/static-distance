@@ -27,6 +27,7 @@ Couch,S1 2EG,53.3832,-1.4712
 Sakushi Limited,S1 2EG,53.3832,-1.4712
 urbandeli,S1 2EG,53.3832,-1.4712
 Blue Moon Cafe Sheffield Ltd,S1 2EW,53.3830,-1.4703
+MACPOT LIMITED ,S1 2FB,53.3818,-1.4707
 Subway Orchard Square,S1 2FB,53.3818,-1.4707
 Cavells Cafe Bar,S1 2GA,53.3829,-1.4677
 Cara Restaurants Limited McDonalds 496,S1 2GE,53.3826,-1.4674
@@ -109,6 +110,7 @@ San Lorenzo,S10 1QU,53.3876,-1.5071
 The Crooked Cafe,S10 1TE,53.3857,-1.5084
 Casanova Pizzeria Ristorante,S10 1TG,53.3853,-1.5079
 Dana Cafe,S10 1TG,53.3853,-1.5079
+JAFLONG INDIAN RESTAURANT LIMITED,S10 1TG,53.3853,-1.5079
 The Punchbowl,S10 1TH,53.3867,-1.5072
 Zara’s ,S10 1TH,53.3867,-1.5072
 Old Grindstone,S10 1UA,53.3811,-1.5056
@@ -119,6 +121,7 @@ Maveli Restaurant and Bar ,S10 2GW,53.3799,-1.4816
 Appetito,S10 2GZ,53.3800,-1.4836
 Jinding Restaurant,S10 2GZ,53.3800,-1.4836
 Pepper Greenhouse,S10 2GZ,53.3800,-1.4836
+the potato oven,S10 2HP,53.3789,-1.4894
 Chong Qing Restaurant ,S10 2HS,53.3802,-1.4817
 New Pot Restaurant ltd / Jimmys Kitchen,S10 2HS,53.3802,-1.4817
 So Famous,S10 2HS,53.3802,-1.4817
@@ -142,6 +145,7 @@ The Coffee Rooms,S10 4GA,53.3638,-1.5456
 HALLAMSHIRE GOLF CLUB CATERING,S10 4LA,53.3744,-1.5415
 Hallamshire Golf Club Ltd,S10 4LA,53.3744,-1.5415
 The Steel Cauldron,S10 5BL,53.3785,-1.5023
+PAPA CICCOS ,S10 5NH,53.3797,-1.5200
 Cuore Siciliano,S10 5RY,53.3793,-1.5210
 Hudson's Kitchen,S10 5RY,53.3793,-1.5210
 Hudsons Kitchen,S10 5RY,53.3793,-1.5210
@@ -176,6 +180,7 @@ LA LUNA RESTAURANT,S11 8TN,53.3615,-1.5080
 Psalter Lane Hotel,S11 8US,53.3649,-1.5015
 Elly Joy,S11 8XX,53.3673,-1.4972
 Nam Song Sharrow Vale Limited,S11 8XX,53.3673,-1.4972
+TONCO,S11 8XX,53.3673,-1.4972
 The Stag's Head,S11 8YL,53.3659,-1.4912
 Made By Jonty,S11 8ZG,53.3671,-1.4999
 Otto's Restaurant Limited,S11 8ZP,53.3673,-1.5006
@@ -217,9 +222,11 @@ Jabbarwocky,S2 4NA,53.3669,-1.4755
 Wasabisabi ,S2 4NF,53.3672,-1.4752
 OISOI Gathering,S2 4QF,53.3719,-1.4748
 The Treehouse Board Game Cafe,S2 4QF,53.3719,-1.4748
+pbz,S2 4QF,53.3719,-1.4748
 Breeze Shisha lounge,S2 4QU,53.3705,-1.4740
 Smokey bar and grill,S2 4QU,53.3705,-1.4740
 Bramall Subway,S2 4QZ,53.3724,-1.4717
+South Street Kitchen,S2 5QX,53.3810,-1.4597
 Bengal tandoori,S25 2PN,53.3691,-1.2101
 the royal elephant ,S25 2PQ,53.3667,-1.2119
 Paulos Restaurant ,S25 2PS,53.3692,-1.2104
@@ -259,7 +266,8 @@ Pina,S3 8EF,53.3921,-1.4727
 The Riverside,S3 8EN,53.3902,-1.4713
 The Harlequin,S3 8GG,53.3875,-1.4654
 AU Village African Restaurant ,S3 8HT,53.3874,-1.4624
-Imrans diner,S3 8JD,53.3872,-1.4612
+Wicker Kebabish,S3 8HT,53.3874,-1.4624
+Agha Lounge ,S3 8JT,53.3862,-1.4620
 BETESEB ETHIOPIAN RESTAURANT ,S3 8LT,53.3844,-1.4652
 Trawlers catch,S3 8LT,53.3844,-1.4652
 7 Spices Balti,S3 8PP,53.3862,-1.4706
@@ -275,6 +283,7 @@ Shoulder of mutton,S35 0AQ,53.4243,-1.5411
 KONDAS TRADE LTD - (SUBWAY),S35 1SF,53.4621,-1.4687
 Crown & Cushion,S35 1SS,53.4591,-1.4847
 the barrel,S35 2UL,53.4673,-1.4745
+come a casa,S35 2UQ,53.4625,-1.4678
 oak house restaurant ,S35 2XH,53.4636,-1.4652
 Miners Arms,S35 2YD,53.4749,-1.4654
 Norfolk Arms Chapeltown LTD ,S35 2YG,53.4708,-1.4606
@@ -293,14 +302,20 @@ JUMERIAH SPICE LTD,S35 9WJ,53.4459,-1.4630
 Cerrones ,S35 9XD,53.4399,-1.4663
 Welbilt Staff Canteen,S35 9ZX,53.4498,-1.4584
 King and Miller,S36 2RD,53.4782,-1.5686
+SAL Desserts,S4 7BH,53.4008,-1.4550
 Nile Cafe,S4 7JB,53.3925,-1.4574
+Spital chippy,S4 7LF,53.3912,-1.4588
 mangla restaurant,S4 7LF,53.3912,-1.4588
+AROOJ MEGA BUFFET RESTAURANT LTD,S4 7WZ,53.3899,-1.4453
 The Quays Hotel,S4 7YA,53.3877,-1.4575
+MAHON EATERY,S4 8BJ,53.4074,-1.4337
+Capillies sandwich bar and cafe,S5 0QF,53.4227,-1.4556
 Costa Coffee,S5 0QG,53.4227,-1.4547
 KFC Lane Top,S5 0QG,53.4227,-1.4547
 Soowes coffee pot café ,S5 0QG,53.4227,-1.4547
 A TASTE OF ARABIA,S5 6HH,53.4174,-1.4457
 Henrys cafe ,S5 6HH,53.4174,-1.4457
+Subway,S5 6HL,53.4187,-1.4468
 Kebabish express ,S5 6HU,53.4226,-1.4537
 the potato oven,S5 7AB,53.4065,-1.4535
 Northern Perk,S5 7AU,53.4097,-1.4560
@@ -428,6 +443,7 @@ McDonald's Dalton - Rotherham Drive Thru,S65 3SR,53.4491,-1.3273
 earl of strafford,S65 4PF,53.4675,-1.2731
 Seven Seas Limited,S66 1AG,53.4199,-1.2874
 McDonald's Bramley - Bawtry Rd,S66 1YY,53.4220,-1.2542
+Chaudrys Restaurant Ltd,S66 2BW,53.4218,-1.2844
 Gas Lamp Wickersley Limited,S66 2BW,53.4218,-1.2844
 The Courtyard ,S66 2BW,53.4218,-1.2844
 The Olive Lounge Wickersley Limited,S66 2BW,53.4218,-1.2844
@@ -454,6 +470,7 @@ Mercure Sheffield Kenwoodhall Hotels and Spa,S7 1NQ,53.3646,-1.4909
 The vintage tearoom,S7 1TB,53.3561,-1.4844
 northtown kitchen ,S7 2BE,53.3549,-1.4854
 Kia’s Pastaria ,S7 2BG,53.3535,-1.4858
+Ajanta’s Vegetarian ,S7 2BL,53.3520,-1.4875
 Away We Go,S7 2EF,53.3528,-1.4996
 Coffee Boy,S70 1GW,53.5522,-1.4786
 Jar Bar,S70 1GW,53.5522,-1.4786
@@ -497,8 +514,10 @@ Dunkin Donuts Rockingham,S70 5TW,53.5014,-1.4758
 Taco Bell,S70 5TW,53.5014,-1.4758
 Travellers inn ,S70 5UX,53.5078,-1.4807
 Hadley’s ,S70 6AP,53.5492,-1.4897
+puccinis,S70 6HL,53.5523,-1.4943
 Shaw Lane Sports Club,S70 6HZ,53.5504,-1.4933
 Rob Royd Farm Shop Ltd,S70 6NW,53.5382,-1.4911
+Metrodome Leisure Complex,S71 1AN,53.5532,-1.4735
 Subway,S71 1JE,53.5575,-1.4702
 KFC Wakefield Road,S71 1NG,53.5681,-1.4718
 Barnsley Bowl Ltd,S71 2AZ,53.5734,-1.4628
@@ -507,10 +526,12 @@ Audreys coffee house ,S71 5EZ,53.5420,-1.4041
 The Mill of the Black Monks,S71 5QF,53.5529,-1.4405
 Squires Bar,S73 0DA,53.5218,-1.3978
 The Kitchen Witch Company,S73 0DA,53.5218,-1.3978
+Wombwell Hillies Golf Course,S73 0LA,53.5164,-1.3998
 The elephant and castle,S73 0NT,53.5064,-1.4062
 The Old Moor Tavern,S73 0YQ,53.5206,-1.3705
 The Ash Inn,S73 8EP,53.5368,-1.4220
 Coffee Thyme,S73 8HS,53.5235,-1.4006
+Palace Balti Hut Ltd,S73 8HS,53.5235,-1.4006
 The Courtyard ,S73 8HS,53.5235,-1.4006
 Thai 25 Street Food Ltd,S73 8HT,53.5250,-1.4036
 THAAL (SOUTH YORKSHIRE) LIMITED,S73 9HH,53.5361,-1.3684
@@ -520,6 +541,7 @@ Saville Square,S74 0DQ,53.4977,-1.4665
 The Keys,S74 0PY,53.4991,-1.4695
 The Milton Arms,S74 8ES,53.4948,-1.4250
 Elachi,S74 9AU,53.4996,-1.4386
+Your Space Hoyland,S74 9EH,53.5004,-1.4497
 Impeccable taste ,S75 1DL,53.5594,-1.4870
 The Crown & Anchor,S75 1LL,53.5716,-1.5290
 The Royal,S75 1LS,53.5738,-1.5268
@@ -572,4 +594,5 @@ La Vlad Restaurant,S9 3RA,53.3924,-1.4352
 Blast Snack Bar,S9 3RE,53.3947,-1.4316
 Big Baps Sandwich Shop ,S9 3RN,53.3934,-1.4325
 waverley road cafe,S9 4PJ,53.3852,-1.4083
+Subway,S9 5HZ,53.3873,-1.4084
 Cara Restaurants Limited McDonalds 1189,S9 5PA,53.3916,-1.4087

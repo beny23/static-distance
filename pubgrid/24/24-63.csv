@@ -84,6 +84,7 @@ The Black Lion,BN1 1ND,50.8211,-0.1415
 The Cricketers,BN1 1ND,50.8211,-0.1415
 Seasons Restaurant & Bar,BN1 1NF,50.8197,-0.1390
 The Old Ship Hotel,BN1 1NR,50.8207,-0.1415
+Queens Hotel Brighton,BN1 1NS,50.8197,-0.1395
 Royal Albion Hotel Brighton,BN1 1NT,50.8198,-0.1373
 Subway,BN1 1RE,50.8233,-0.1411
 Burger King,BN1 1RH,50.8232,-0.1426
@@ -91,6 +92,7 @@ KOKORO,BN1 1RH,50.8232,-0.1426
 Medaluk Ltd t/a foodilic,BN1 1RH,50.8232,-0.1426
 Smashburger,BN1 1RH,50.8232,-0.1426
 itsu Brighton North Street,BN1 1RH,50.8232,-0.1426
+Ye Olde King and Queen ,BN1 1UB,50.8246,-0.1371
 Pinocchio,BN1 1UF,50.8235,-0.1396
 Tinto Taperia,BN1 1UF,50.8235,-0.1396
 Mrs fitzherberts,BN1 1UG,50.8237,-0.1391
@@ -215,12 +217,14 @@ Caffe Aldo,BN1 4EB,50.8285,-0.1391
 Mange tout,BN1 4EB,50.8285,-0.1391
 Milk no sugar,BN1 4EB,50.8285,-0.1391
 Blend & Brew Brighton ,BN1 4ED,50.8283,-0.1393
+Brighton Cereal Cafe,BN1 4ED,50.8283,-0.1393
 COFFEEat33,BN1 4ED,50.8283,-0.1393
 The Laine Deli,BN1 4ED,50.8283,-0.1393
 The Roastery ,BN1 4EN,50.8275,-0.1380
 kitokito,BN1 4EQ,50.8279,-0.1370
 CoffeeTzar Limited,BN1 4ER,50.8281,-0.1369
 O'Shio Japanese & Korean Restaurant,BN1 4ER,50.8281,-0.1369
+Isaac At,BN1 4EW,50.8272,-0.1370
 L atelier du vin,BN1 4GB,50.8276,-0.1357
 MEATLiquor,BN1 4GE,50.8315,-0.1372
 C9 London Road Ltd,BN1 4GU,50.8286,-0.1359
@@ -231,6 +235,7 @@ Moksha Caffe,BN1 4GU,50.8286,-0.1359
 Subway,BN1 4GX,50.8303,-0.1382
 Cosy cottage cafe bar,BN1 4JB,50.8313,-0.1367
 Eastern Eye,BN1 4JE,50.8329,-0.1385
+YEFSIS OF GREECE,BN1 4JE,50.8329,-0.1385
 poppys sandwich bar,BN1 4JE,50.8329,-0.1385
 Fatto a Mano Brighton Limited,BN1 4JF,50.8326,-0.1374
 Nova cafe,BN1 4JG,50.8313,-0.1361
@@ -327,9 +332,12 @@ FINCH Bar and Eatery,BN11 3DQ,50.8119,-0.3683
 Giuseppes Lite,BN11 3DQ,50.8119,-0.3683
 Le Spice ,BN11 3DQ,50.8119,-0.3683
 Ardington hotel ,BN11 3DZ,50.8112,-0.3662
+CALCUTTA 16 WORTHING LTD,BN11 3ED,50.8119,-0.3654
 Egremont Pub,BN11 3ED,50.8119,-0.3654
 Cow & Oak,BN11 3EE,50.8123,-0.3650
 The Fish Factory,BN11 3EE,50.8123,-0.3650
+Siam Thai Cuisine,BN11 3EF,50.8122,-0.3659
+Spices Worthing Ltd,BN11 3EF,50.8122,-0.3659
 Rocking Horse ,BN11 3EG,50.8121,-0.3671
 Fioridilatte Worthing ltd,BN11 3EZ,50.8116,-0.3684
 Coffee Me,BN11 3HF,50.8102,-0.3753
@@ -369,6 +377,7 @@ The Pit Stop Cafe ,BN12 6JH,50.8231,-0.4237
 Highdown Garden Centre Limited,BN12 6PW,50.8200,-0.4587
 THE HENTY ARMS,BN12 6QY,50.8175,-0.4460
 The Park View,BN13 2JR,50.8356,-0.4121
+Subway,BN13 3FG,50.8320,-0.4254
 The Coach & Horses,BN13 3UA,50.8399,-0.4248
 coach and horses,BN13 3UA,50.8399,-0.4248
 The Fox at Patching,BN13 3UJ,50.8411,-0.4702
@@ -384,6 +393,7 @@ Le Deli  / Buzz Events and catering ltd,BN14 7AE,50.8197,-0.3787
 SMILEYS CAFE ,BN14 7AX,50.8246,-0.3799
 Worthing Mencap Buddys,BN14 7AX,50.8246,-0.3799
 South By West,BN14 7LH,50.8190,-0.3918
+Rincon de Pepe,BN14 7LS,50.8199,-0.3919
 George and Dragon,BN14 7NN,50.8254,-0.3934
 The Old Bakehouse,BN14 7NN,50.8254,-0.3934
 Zeera Bangladeshi Cuisine,BN14 8AG,50.8216,-0.3727
@@ -437,6 +447,7 @@ BOOM BIRD,BN2 1TH,50.8208,-0.1352
 Bella Bar,BN2 1TH,50.8208,-0.1352
 La Capannina (Brighton) Ltd,BN2 1TN,50.8204,-0.1343
 Little Miss Piggies,BN2 1TP,50.8206,-0.1332
+Sawadee Thai Restaurant ,BN2 1TP,50.8206,-0.1332
 The Camelford Arms,BN2 1TQ,50.8203,-0.1330
 Legends ,BN2 1TR,50.8197,-0.1325
 Horatios Bar,BN2 1TW,50.8191,-0.1365
@@ -543,6 +554,7 @@ Cafe Ninety 7,BN3 3YG,50.8313,-0.1739
 Honeypot cafe,BN3 3YG,50.8313,-0.1739
 Amici Restaurant,BN3 3YH,50.8312,-0.1746
 Ramsbottoms fish and chips ,BN3 3YH,50.8312,-0.1746
+Ethel’s Pantry ,BN3 3YJ,50.8316,-0.1752
 First Cup,BN3 3YN,50.8315,-0.1767
 IM Thai Food Factory,BN3 3YN,50.8315,-0.1767
 The Foragers,BN3 3YU,50.8300,-0.1767
@@ -567,6 +579,7 @@ Queensbury Coffee,BN3 7EX,50.8384,-0.1815
 Cafe an-an,BN3 7GB,50.8371,-0.2046
 Bankers Express Hangleton,BN3 7LP,50.8462,-0.1909
 Burger King,BN3 7PN,50.8379,-0.1744
+ARNIES KITCHEN ,BN3 8JG,50.8449,-0.1933
 Uncle Sams,BN3 8JG,50.8449,-0.1933
 THE BLUE ANCHOR,BN41 1DF,50.8310,-0.2085
 Small Batch Coffee Company Limited,BN41 1DU,50.8302,-0.2100
@@ -594,6 +607,7 @@ Ricardo Ltd.,BN43 5FG,50.8413,-0.2904
 The Harbour Club,BN43 5HG,50.8296,-0.2632
 Into The Blue Restaurant ,BN43 5RA,50.8291,-0.2720
 Brio Restaurant - Shoreham,BN43 5WB,50.8337,-0.2727
+Hectors shed ,BN43 5ZD,50.8329,-0.2735
 La Patisserie Shoreham Ltd,BN43 5ZE,50.8322,-0.2745
 THE TAP HOUSE,BN43 5ZE,50.8322,-0.2745
 Teddys,BN43 5ZE,50.8322,-0.2745

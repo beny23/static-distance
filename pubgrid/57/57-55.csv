@@ -16,6 +16,7 @@ Couch,S1 2EG,53.3832,-1.4712
 Sakushi Limited,S1 2EG,53.3832,-1.4712
 urbandeli,S1 2EG,53.3832,-1.4712
 Blue Moon Cafe Sheffield Ltd,S1 2EW,53.3830,-1.4703
+MACPOT LIMITED ,S1 2FB,53.3818,-1.4707
 Subway Orchard Square,S1 2FB,53.3818,-1.4707
 Cavells Cafe Bar,S1 2GA,53.3829,-1.4677
 Cara Restaurants Limited McDonalds 496,S1 2GE,53.3826,-1.4674
@@ -98,6 +99,7 @@ San Lorenzo,S10 1QU,53.3876,-1.5071
 The Crooked Cafe,S10 1TE,53.3857,-1.5084
 Casanova Pizzeria Ristorante,S10 1TG,53.3853,-1.5079
 Dana Cafe,S10 1TG,53.3853,-1.5079
+JAFLONG INDIAN RESTAURANT LIMITED,S10 1TG,53.3853,-1.5079
 The Punchbowl,S10 1TH,53.3867,-1.5072
 Zara’s ,S10 1TH,53.3867,-1.5072
 Old Grindstone,S10 1UA,53.3811,-1.5056
@@ -108,6 +110,7 @@ Maveli Restaurant and Bar ,S10 2GW,53.3799,-1.4816
 Appetito,S10 2GZ,53.3800,-1.4836
 Jinding Restaurant,S10 2GZ,53.3800,-1.4836
 Pepper Greenhouse,S10 2GZ,53.3800,-1.4836
+the potato oven,S10 2HP,53.3789,-1.4894
 Chong Qing Restaurant ,S10 2HS,53.3802,-1.4817
 New Pot Restaurant ltd / Jimmys Kitchen,S10 2HS,53.3802,-1.4817
 So Famous,S10 2HS,53.3802,-1.4817
@@ -131,6 +134,7 @@ The Coffee Rooms,S10 4GA,53.3638,-1.5456
 HALLAMSHIRE GOLF CLUB CATERING,S10 4LA,53.3744,-1.5415
 Hallamshire Golf Club Ltd,S10 4LA,53.3744,-1.5415
 The Steel Cauldron,S10 5BL,53.3785,-1.5023
+PAPA CICCOS ,S10 5NH,53.3797,-1.5200
 Cuore Siciliano,S10 5RY,53.3793,-1.5210
 Hudson's Kitchen,S10 5RY,53.3793,-1.5210
 Hudsons Kitchen,S10 5RY,53.3793,-1.5210
@@ -166,6 +170,7 @@ LA LUNA RESTAURANT,S11 8TN,53.3615,-1.5080
 Psalter Lane Hotel,S11 8US,53.3649,-1.5015
 Elly Joy,S11 8XX,53.3673,-1.4972
 Nam Song Sharrow Vale Limited,S11 8XX,53.3673,-1.4972
+TONCO,S11 8XX,53.3673,-1.4972
 The Stag's Head,S11 8YL,53.3659,-1.4912
 Made By Jonty,S11 8ZG,53.3671,-1.4999
 Otto's Restaurant Limited,S11 8ZP,53.3673,-1.5006
@@ -186,7 +191,7 @@ Everest Inn,S13 9HS,53.3704,-1.3759
 Ego at the Dore Moor,S17 3AB,53.3343,-1.5559
 The Crown Inn,S17 3AX,53.3177,-1.5419
 The Cricket Inn,S17 3AZ,53.3167,-1.5493
-HOSPITALITY DINERS LTD,S17 3GU,53.3269,-1.5395
+Almas Restaurant,S17 3GU,53.3269,-1.5395
 Rajdhani Express Ltd ,S17 3LB,53.3299,-1.5154
 THE SUMMERHOUSE,S17 3LB,53.3299,-1.5154
 Omega at Abbeydale ltd,S17 3LJ,53.3252,-1.5208
@@ -244,9 +249,11 @@ Jabbarwocky,S2 4NA,53.3669,-1.4755
 Wasabisabi ,S2 4NF,53.3672,-1.4752
 OISOI Gathering,S2 4QF,53.3719,-1.4748
 The Treehouse Board Game Cafe,S2 4QF,53.3719,-1.4748
+pbz,S2 4QF,53.3719,-1.4748
 Breeze Shisha lounge,S2 4QU,53.3705,-1.4740
 Smokey bar and grill,S2 4QU,53.3705,-1.4740
 Bramall Subway,S2 4QZ,53.3724,-1.4717
+South Street Kitchen,S2 5QX,53.3810,-1.4597
 The Meeting Place,S20 1EF,53.3488,-1.3361
 Pulpd Ltd,S20 3AB,53.3293,-1.3340
 The Royal Oak ,S20 5AF,53.3244,-1.3620
@@ -274,6 +281,7 @@ Greenbean Coffee Shop & Bistro,S26 1DJ,53.3613,-1.2666
 Ricardo's Cafe and Bistro,S26 2EB,53.3631,-1.2977
 ASTON  HALL HOTEL LIMITED,S26 2EE,53.3627,-1.2986
 The Cafe at the Corner,S26 4QA,53.3637,-1.3200
+The Duke of Leeds ,S26 5LQ,53.3389,-1.2850
 Aston’s restaurant ,S26 5PQ,53.3498,-1.3000
 Rother Valley Golf Centre Ltd,S26 5PQ,53.3498,-1.3000
 The Vintage Tack Room and Playbarn,S26 5PQ,53.3498,-1.3000
@@ -308,7 +316,8 @@ Pina,S3 8EF,53.3921,-1.4727
 The Riverside,S3 8EN,53.3902,-1.4713
 The Harlequin,S3 8GG,53.3875,-1.4654
 AU Village African Restaurant ,S3 8HT,53.3874,-1.4624
-Imrans diner,S3 8JD,53.3872,-1.4612
+Wicker Kebabish,S3 8HT,53.3874,-1.4624
+Agha Lounge ,S3 8JT,53.3862,-1.4620
 BETESEB ETHIOPIAN RESTAURANT ,S3 8LT,53.3844,-1.4652
 Trawlers catch,S3 8LT,53.3844,-1.4652
 7 Spices Balti,S3 8PP,53.3862,-1.4706
@@ -321,12 +330,17 @@ Stew & Oyster,S3 8SE,53.3897,-1.4766
 The Grind Cafe Kelham Island Limited,S3 8SJ,53.3883,-1.4734
 JORO RESTAURANT LIMITED,S3 8US,53.3883,-1.4758
 Shoulder of mutton,S35 0AQ,53.4243,-1.5411
+SAL Desserts,S4 7BH,53.4008,-1.4550
 Nile Cafe,S4 7JB,53.3925,-1.4574
+Spital chippy,S4 7LF,53.3912,-1.4588
 mangla restaurant,S4 7LF,53.3912,-1.4588
+AROOJ MEGA BUFFET RESTAURANT LTD,S4 7WZ,53.3899,-1.4453
 The Quays Hotel,S4 7YA,53.3877,-1.4575
+MAHON EATERY,S4 8BJ,53.4074,-1.4337
 Subway,S40 1AH,53.2357,-1.4309
 The Market Pub,S40 1AH,53.2357,-1.4309
 KFC,S40 1BA,53.2359,-1.4368
+Mutiara Chinese Restaurant,S40 1BA,53.2359,-1.4368
 the barley mow,S40 1JR,53.2374,-1.4304
 Cara Restaurants Limited McDonalds 142,S40 1PB,53.2351,-1.4296
 peacock coffee lounge ,S40 1PB,53.2351,-1.4296
@@ -381,6 +395,7 @@ Pomegranate,S41 7TJ,53.2356,-1.4244
 Aruba,S41 7TP,53.2368,-1.4230
 Bar Rumba,S41 7TP,53.2368,-1.4230
 Urban kitchen ,S41 7UG,53.2385,-1.4218
+Afats grill,S41 8LT,53.2586,-1.4280
 THE HUNLOKE ARMS,S42 6NB,53.2029,-1.4191
 Barley Mow,S42 6TX,53.2039,-1.4437
 THE PEACOCK (CUTTHORPE) LLP,S42 7AS,53.2556,-1.4937
@@ -400,11 +415,13 @@ The white hart,S44 5TE,53.2340,-1.3787
 Courtyard Kitchen,S44 6DB,53.2295,-1.2903
 Masons little cafe ,S44 6DT,53.2292,-1.2899
 The Pump Bolsover,S44 6PN,53.2293,-1.2921
+Capillies sandwich bar and cafe,S5 0QF,53.4227,-1.4556
 Costa Coffee,S5 0QG,53.4227,-1.4547
 KFC Lane Top,S5 0QG,53.4227,-1.4547
 Soowes coffee pot café ,S5 0QG,53.4227,-1.4547
 A TASTE OF ARABIA,S5 6HH,53.4174,-1.4457
 Henrys cafe ,S5 6HH,53.4174,-1.4457
+Subway,S5 6HL,53.4187,-1.4468
 Kebabish express ,S5 6HU,53.4226,-1.4537
 the potato oven,S5 7AB,53.4065,-1.4535
 Northern Perk,S5 7AU,53.4097,-1.4560
@@ -459,6 +476,7 @@ bay tree bistro ltd,S65 3HU,53.4234,-1.3059
 mark woodward t/a brecks social club,S65 3HZ,53.4215,-1.3069
 Seven Seas Limited,S66 1AG,53.4199,-1.2874
 McDonald's Bramley - Bawtry Rd,S66 1YY,53.4220,-1.2542
+Chaudrys Restaurant Ltd,S66 2BW,53.4218,-1.2844
 Gas Lamp Wickersley Limited,S66 2BW,53.4218,-1.2844
 The Courtyard ,S66 2BW,53.4218,-1.2844
 The Olive Lounge Wickersley Limited,S66 2BW,53.4218,-1.2844
@@ -481,6 +499,7 @@ Mercure Sheffield Kenwoodhall Hotels and Spa,S7 1NQ,53.3646,-1.4909
 The vintage tearoom,S7 1TB,53.3561,-1.4844
 northtown kitchen ,S7 2BE,53.3549,-1.4854
 Kia’s Pastaria ,S7 2BG,53.3535,-1.4858
+Ajanta’s Vegetarian ,S7 2BL,53.3520,-1.4875
 Away We Go,S7 2EF,53.3528,-1.4996
 Martha Heritage T/A Heritage Lifestyle ,S7 2LH,53.3436,-1.5015
 THE MILLHOUSES,S7 2QD,53.3467,-1.4956
@@ -548,4 +567,5 @@ La Vlad Restaurant,S9 3RA,53.3924,-1.4352
 Blast Snack Bar,S9 3RE,53.3947,-1.4316
 Big Baps Sandwich Shop ,S9 3RN,53.3934,-1.4325
 waverley road cafe,S9 4PJ,53.3852,-1.4083
+Subway,S9 5HZ,53.3873,-1.4084
 Cara Restaurants Limited McDonalds 1189,S9 5PA,53.3916,-1.4087

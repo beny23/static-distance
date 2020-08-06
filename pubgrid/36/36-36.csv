@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 Costa Coffee,SA1 1NU,51.6252,-3.9411
+uptown fun ltd,SA1 2BL,51.6306,-3.9413
 Toi Aroi Thai,SA1 2HL,51.6329,-3.9384
 In Meals Ltd T/A Rossi’s Original Fish and Chips ,SA1 2JG,51.6449,-3.9369
 Pizzeria Vesuvio,SA1 2JT,51.6412,-3.9381
@@ -53,6 +54,7 @@ The New Savoy ,SA15 1UU,51.6811,-4.1616
 marzano's caffe bar,SA15 1UU,51.6811,-4.1616
 Avo cafe,SA15 1YD,51.6826,-4.1590
 WILLOW CAFE,SA15 1YS,51.6745,-4.1600
+willowcafe,SA15 1YS,51.6745,-4.1600
 Ali Raj Brasserie,SA15 2AB,51.6727,-4.1563
 Machynys Peninsula Golf & Country Club Ltd,SA15 2DG,51.6599,-4.1484
 St Elli's Bay,SA15 2LF,51.6748,-4.1721
@@ -116,18 +118,22 @@ mcdonalds,SA5 8LJ,51.6354,-3.9658
 Haystack cafe,SA5 9EB,51.6447,-3.9458
 The Kings Head Hotel,SA5 9EL,51.6518,-3.9483
 The Manselton Hotel,SA5 9HX,51.6435,-3.9511
+Hiks,SA5 9LE,51.6362,-3.9441
 The roadhouse cafe ,SA6 5BB,51.6912,-3.9008
 SAM'N'BEN'S ,SA6 5ES,51.6991,-3.8980
 O'Sullivan's Riverbank Limited,SA6 5LG,51.6949,-3.8981
+Piccolo Bar,SA6 5LG,51.6949,-3.8981
 Chilli Too,SA6 5LH,51.6952,-3.8949
 Comic coffee ,SA6 5LH,51.6952,-3.8949
 Cwtch Corner ,SA6 5LP,51.6970,-3.8911
 Pantri,SA6 5LU,51.6982,-3.8944
 Cattle & Co at Brownsters ,SA6 5LW,51.6963,-3.8908
+The New Inn,SA6 5SU,51.7059,-3.9060
 Lilly’s ,SA6 7LW,51.6641,-3.9478
 SUBWAY MORRISTON,SA6 8AS,51.6647,-3.9260
 Castle Bingo Swansea,SA6 8DS,51.6652,-3.9228
 Burger King - Swansea 2,SA6 8PS,51.6644,-3.9131
+Fair Deal Cafe,SA6 8QE,51.6596,-3.9136
 STARBUCKS ,SA6 8QL,51.6611,-3.9166
 STARVIN' JACKS,SA6 8RJ,51.6507,-3.9215
 The Northey Lights Coffee Lounge,SA6 8RN,51.6565,-3.9155

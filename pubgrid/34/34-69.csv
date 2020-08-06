@@ -3,6 +3,7 @@ Downham Hall,CM11 1LG,51.6285,0.5008
 The White Horse,CM11 1NA,51.6359,0.4726
 Beauvoir Arms,CM11 1QH,51.6388,0.4875
 Duke of York,CM11 2PR,51.6127,0.4343
+copperfield bakeries ltd,CM11 2RB,51.6136,0.4302
 The magic mushroom restaurant ,CM11 2UD,51.6012,0.4454
 Tiptree Tea Rooms at Barleylands,CM11 2UF,51.5982,0.4461
 The shepherd and dog public house,CM11 2YA,51.6035,0.4731
@@ -20,6 +21,7 @@ Harry's Bar and Restaurant,CM12 9BQ,51.6270,0.4190
 the chequers,CM12 9BQ,51.6270,0.4190
 Fish 'n' Chick'n Billericay,CM12 9BS,51.6254,0.4179
 Flamingo,CM12 9BS,51.6254,0.4179
+La Toscana Italian Restaurant,CM12 9BY,51.6240,0.4166
 Wimpy Billericay,CM12 9BY,51.6240,0.4166
 The Coach & Horses,CM12 9LU,51.6251,0.4182
 Pasha,CM12 9UN,51.5949,0.4285
@@ -41,11 +43,11 @@ The Eatery,CM3 5TQ,51.6447,0.6184
 Marsh Farm,CM3 5WP,51.6352,0.6139
 Chillies Indian Fusion,CM3 5XF,51.6447,0.6190
 Fish 'n' Chick'n South Woodham Ferrers,CM3 5XF,51.6447,0.6190
+Passage To India,CM3 5XU,51.6448,0.6189
 Teds of Mayland Limited t/a Hardys,CM3 6AQ,51.6868,0.7573
 ON THE LATCH,CM3 6BL,51.6695,0.7513
 Hollys diner,CM3 6EX,51.6682,0.7269
 The Norton Pub,CM3 6JB,51.6717,0.6720
-Latchingdon Lion Ltd,CM3 6JR,51.6714,0.7204
 River Breeze cafe and bar Ltd,CM3 6LU,51.6431,0.6727
 The Bell,CM3 6QJ,51.6863,0.6625
 The Fox and Hounds Free House Limited ,CM3 6RF,51.6938,0.6262
@@ -108,10 +110,12 @@ The Captains Table ,SS0 7RR,51.5350,0.6938
 The Mermaid,SS0 7RR,51.5350,0.6938
 the estuary Archs,SS0 7RR,51.5350,0.6938
 the estuary seafood and grill,SS0 7RR,51.5350,0.6938
+Akropolis Restaurant Ltd,SS0 7SA,51.5368,0.6942
 lamb and lion,SS0 7SD,51.5376,0.6889
 Oyster Creek Kitchen,SS0 8FE,51.5358,0.6860
 TOULOUSE ,SS0 8FE,51.5358,0.6860
 The Beach Hut Bistro (WOS) Limited,SS0 8FJ,51.5356,0.6861
+Chalkwell Park Rooms,SS0 8NB,51.5442,0.6777
 Il Palazzo ,SS0 9AU,51.5442,0.6934
 Il palazzo ,SS0 9AU,51.5442,0.6934
 Oldhams of Westcliff ltd,SS0 9AU,51.5442,0.6934
@@ -166,6 +170,7 @@ Park Inn Palace Southend,SS1 2AL,51.5339,0.7160
 Istanbul Turkish BBQ,SS1 2BD,51.5361,0.7159
 Udom thai restaurant,SS1 2BD,51.5361,0.7159
 Crosby's Fish and Chips,SS1 2EH,51.5331,0.7156
+LENA'S CAFE,SS1 2EH,51.5331,0.7156
 Pebbles Two Limited trading as Beaches Cafe Bar Bistro,SS1 2EJ,51.5333,0.7193
 Pavilion ,SS1 2EL,51.5328,0.7199
 Pebbles One Ltd ,SS1 2EL,51.5328,0.7199
@@ -252,6 +257,7 @@ Green Palace Ltd T/A Panahar Restaurant  ,SS17 0HL,51.5152,0.4255
 railway tavern,SS17 0HL,51.5152,0.4255
 Subway,SS17 0LD,51.5143,0.4201
 Paulettes bakery,SS17 7NA,51.5247,0.4483
+STANFORD CURRY LTD,SS17 7NA,51.5247,0.4483
 The Springhouse,SS17 7QT,51.5244,0.4502
 Swan pub,SS17 8LD,51.5241,0.4060
 The Bell Inn & Ostlers,SS17 8LD,51.5241,0.4060
@@ -268,6 +274,7 @@ Channys Kitchen,SS2 6HH,51.5478,0.7035
 DIXON COMPANY AND SONS LIMITED t/a Subway ,SS2 6RL,51.5577,0.6990
 FAVORITE CHICKEN & RIBS 4U LTD,SS2 6RL,51.5577,0.6990
 Holiday Inn Southend - 1935 Restaurant,SS2 6XG,51.5658,0.6982
+Loyal Toast,SS2 6XY,51.5711,0.6697
 Antica Roma Restaurant,SS4 1AB,51.5831,0.7068
 Monsoon Indian Cuisine,SS4 1AB,51.5831,0.7068
 Skewer house rochford,SS4 1AJ,51.5824,0.7060
@@ -276,11 +283,13 @@ Kwikserve Ltd t/a Taste of raj,SS4 1DB,51.5826,0.7084
 FirstPort - Coachman Court,SS4 1FF,51.5843,0.7001
 KFC Rochford,SS4 1GP,51.5709,0.6794
 LOKENATH FOOD LTD,SS4 1ND,51.5768,0.7167
+The Rochford Hundred Golf Club Ltd,SS4 1NW,51.5809,0.6979
 Cafe 206,SS4 1TB,51.5939,0.6981
 The Cherry Tree,SS4 2AF,51.5845,0.7270
 The Lakes ,SS4 2AR,51.5903,0.7385
 The Royal Oak,SS4 2AX,51.5929,0.7407
 Shepherd and Dog ,SS4 2DA,51.6016,0.7479
+Anchor Inn,SS4 3QA,51.6175,0.7431
 Aimes Ltd t/a Costa Coffee Hockley,SS5 4AZ,51.6017,0.6554
 Potash Tearooms,SS5 4JN,51.5897,0.6671
 The White Hart Inn,SS5 4NS,51.5989,0.6608
@@ -344,10 +353,12 @@ Rio Coffee,SS8 7AD,51.5224,0.5932
 SUBWAY,SS8 7AE,51.5221,0.5920
 kushi,SS8 7AG,51.5217,0.5927
 Douro Valley,SS8 7AJ,51.5212,0.5923
+MEZ Turkish ,SS8 7AJ,51.5212,0.5923
 THE HAYSTACK,SS8 7AJ,51.5212,0.5923
 Rio Bingo Canvey Island,SS8 7AL,51.5196,0.5926
 PARADISE INDIAN RESTAURANT ,SS8 7AT,51.5199,0.5932
 JIMMY MAC'S,SS8 7DN,51.5129,0.5982
+The Labworth Restaurant ,SS8 7DW,51.5118,0.5946
 Spice Lounge,SS8 7FJ,51.5126,0.5967
 oysterbay sports bar,SS8 7FJ,51.5126,0.5967
 KFC Canvey,SS8 7RD,51.5230,0.5960
@@ -369,8 +380,10 @@ Thamesbreeze Bar & Restaurant,SS9 1JQ,51.5435,0.6658
 Cafe Hogar Del Mar,SS9 1PA,51.5417,0.6552
 Manolys Thai Restaurant,SS9 1PA,51.5417,0.6552
 The Gourmet Deli Co,SS9 1PA,51.5417,0.6552
+Wilmas Bakery,SS9 1PA,51.5417,0.6552
 the estuary in Leigh,SS9 1PA,51.5417,0.6552
 Kilkies Holdings Limited,SS9 1PE,51.5418,0.6573
+Subway,SS9 1PE,51.5418,0.6573
 Leigh Bistro ,SS9 1PG,51.5417,0.6593
 Mariners Court,SS9 1PG,51.5417,0.6593
 Wimpy Restaurant ,SS9 1PG,51.5417,0.6593
@@ -388,12 +401,14 @@ The Peterboat,SS9 2EN,51.5401,0.6500
 The Squeeze Cafe,SS9 2HB,51.5424,0.6539
 The Grove,SS9 2HP,51.5426,0.6485
 La Casetta ,SS9 2SQ,51.5480,0.6373
+Affinity Catering Ltd,SS9 2ST,51.5487,0.6299
 TUDOR HOUSE THAI RESTAURANT LTD,SS9 2ST,51.5487,0.6299
 GALLACHER'S SMOKEHOUSE,SS9 2SW,51.5485,0.6328
 Indiana,SS9 2UR,51.5481,0.6321
 Wakey Wakey Cafe Limited,SS9 2UR,51.5481,0.6321
 Hoppily HQ & Lounge,SS9 3JB,51.5481,0.6568
 Company name ,SS9 3JE,51.5479,0.6588
+LA FAMIGLIA LIMITED ,SS9 3JE,51.5479,0.6588
 Yak and Yeti,SS9 3ND,51.5476,0.6574
 The Oakleigh,SS9 3NE,51.5475,0.6593
 Continente cafe,SS9 3NF,51.5474,0.6615

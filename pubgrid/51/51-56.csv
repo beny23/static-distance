@@ -27,6 +27,7 @@ Anderson's,DE72 3DW,52.8977,-1.3170
 Hoggs Bistro ,DE72 3DX,52.8970,-1.3183
 PipTree Cafe at Collyers Nurseries,DE72 3FR,52.9060,-1.3682
 Caffe Torta,DE72 3JU,52.9063,-1.3810
+Katie's Kitchen,DE72 3JW,52.9066,-1.3819
 Pumpkinz Coffee House,DE72 3NB,52.8943,-1.3435
 Coach and Horses kitchen,DE72 3PS,52.8946,-1.3410
 THE WHITE SWAN,DE72 3RB,52.9171,-1.3720
@@ -35,6 +36,7 @@ The Risley Park,DE72 3SS,52.9172,-1.3223
 James’ coffee shop,DE72 3TT,52.9091,-1.3180
 Bay Leaf,DE73 6TB,52.8697,-1.4359
 No 61,DE73 6TB,52.8697,-1.4359
+The Lawns Hotel,DE73 6TB,52.8697,-1.4359
 Breedon Holdings Limited,DE73 8AP,52.8028,-1.3996
 Melbourne View Hotel & Events Ltd (Coffee shop),DE73 8BR,52.8290,-1.4006
 Hardinge Arms,DE73 8BX,52.8319,-1.4247
@@ -118,6 +120,7 @@ Swan In The Rushes,LE11 5BE,52.7735,-1.2090
 MUGAL E SHAHI,LE11 5BG,52.7734,-1.2087
 Indian ocean,LE11 5BJ,52.7725,-1.2081
 2 Monkeys Cafe,LE11 5BL,52.7726,-1.2077
+The Basin Restaurant and Bar,LE11 5BX,52.7754,-1.2134
 Doorstep Desserts,LE11 5DF,52.7747,-1.2242
 Royal Voluntary Service,LE11 5JY,52.7733,-1.2259
 The Greyhound,LE12 5AG,52.7855,-1.1251
@@ -147,6 +150,7 @@ Junction 23 Lorry Park Ltd,LE12 9BS,52.7596,-1.2872
 OUT OF INDIA ,LE12 9BS,52.7596,-1.2872
 Bull and Bush,LE12 9JF,52.7681,-1.2891
 Cafè Leo's ,LE12 9QE,52.7711,-1.2913
+The Queen's Head,LE12 9TP,52.7813,-1.3400
 The Horse Shepshed LTD,LE67 8AA,52.7572,-1.3654
 the George Inn,LE67 8HF,52.7527,-1.3914
 Gelsmoor Inns Ltd,LE67 8HP,52.7635,-1.3980
@@ -197,6 +201,7 @@ Petit Paris Limited,NG1 2AE,52.9554,-1.1494
 The Filthy Vegan,NG1 2AE,52.9554,-1.1494
 Route One,NG1 2AG,52.9553,-1.1499
 BARBURRITO,NG1 2AS,52.9543,-1.1492
+HiGuys,NG1 2AS,52.9543,-1.1492
 French Living,NG1 2AY,52.9547,-1.1497
 T4,NG1 2AY,52.9547,-1.1497
 The Alchemist Nottingham,NG1 2AY,52.9547,-1.1497
@@ -234,6 +239,7 @@ KAYAL RESTAURANT,NG1 3AL,52.9541,-1.1438
 Million Doner,NG1 3BA,52.9551,-1.1444
 Curious Tavern,NG1 3BE,52.9541,-1.1448
 PEGGYS SKYLIGHT LIMITED,NG1 3BH,52.9542,-1.1453
+Tarn Thai,NG1 3BH,52.9542,-1.1453
 subway,NG1 3DJ,52.9543,-1.1468
 The Nottingham catering ,NG1 3DL,52.9605,-1.1494
 MOJO Nottingham,NG1 3DR,52.9539,-1.1464
@@ -323,6 +329,7 @@ Persian Empire Ltd,NG1 6LD,52.9545,-1.1526
 May Sum Buffet Restaurant,NG1 6LF,52.9549,-1.1535
 Pan Asia BBQ,NG1 6LF,52.9549,-1.1535
 Starbucks Upper Parliament Street,NG1 6LF,52.9549,-1.1535
+Effy,NG1 7AA,52.9517,-1.1498
 Hounds Gate Teahouse,NG1 7AB,52.9519,-1.1512
 Cartwheel Cafe and Roastery,NG1 7DL,52.9514,-1.1478
 Esculent,NG1 7DL,52.9514,-1.1478
@@ -374,6 +381,7 @@ Clifton McDonalds,NG11 8NA,52.9055,-1.1883
 kfc,NG11 8NA,52.9055,-1.1883
 The Radcliffe,NG12 1AW,52.9527,-1.0314
 The Humble Cat ,NG12 2AE,52.9477,-1.0397
+YAADGAAR RADCLIFFE LIMITED,NG12 2AG,52.9482,-1.0386
 The Chestnut,NG12 2BE,52.9465,-1.0443
 Piano (Radcliffe on Trent),NG12 2FD,52.9464,-1.0397
 Mewar Haveli,NG12 2LF,52.9345,-1.0799
@@ -483,8 +491,10 @@ BOSPHORUS RESTAURANT,NG7 3JL,52.9572,-1.1648
 Baklava Bistro,NG7 3JL,52.9572,-1.1648
 Spice Hut,NG7 3JR,52.9589,-1.1676
 The Compatriot Ltd ,NG7 3JR,52.9589,-1.1676
+Nottingnam pizza and Kabab house,NG7 3NG,52.9566,-1.1628
 Sans Patrie LTD,NG7 3NG,52.9566,-1.1628
 Tipoo Turkish Restaurant ,NG7 3NN,52.9572,-1.1640
+Dixy Chicken,NG7 3NU,52.9593,-1.1677
 subway,NG7 3NY,52.9559,-1.1832
 crispy chicken,NG7 5DQ,52.9631,-1.1694
 Mahmoods ,NG7 5DU,52.9665,-1.1714
@@ -494,6 +504,8 @@ ALE BOSCO LTD,NG7 5GT,52.9681,-1.1728
 Chaiiwala Nottingham,NG7 5JD,52.9650,-1.1715
 Royal Sweet Centre,NG7 5JD,52.9650,-1.1715
 kfc,NG7 5NH,52.9641,-1.1789
+Wafflebox,NG7 6AU,52.9685,-1.1692
+Indulge in food ltd,NG7 6LU,52.9707,-1.1625
 Lion Inn,NG7 7FQ,52.9719,-1.1739
 The Wollaton,NG8 1GR,52.9586,-1.2112
 MR MAN'S RESTAURANT,NG8 2AD,52.9536,-1.2130

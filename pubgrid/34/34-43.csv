@@ -127,6 +127,7 @@ Quantum Cafe ,CF11 9EB,51.4827,-3.1992
 Kin Ilk Pontcanna,CF11 9HB,51.4836,-3.1918
 Cardiff Distillery,CF11 9HE,51.4849,-3.1939
 Cafe Brava,CF11 9HS,51.4882,-3.2003
+MILKWOOD,CF11 9HS,51.4882,-3.2003
 Brewhouse and Kitchen Cardiff,CF11 9HW,51.4852,-3.1915
 Elgano Restaurant ,CF11 9LL,51.4853,-3.1934
 The Cricketers,CF11 9LL,51.4853,-3.1934
@@ -145,7 +146,9 @@ Porter's Coffee Shop,CF14 2HU,51.5027,-3.2231
 McDonald’s ,CF14 3AT,51.4995,-3.2027
 Club 3000 Bingo Cardiff,CF14 3AX,51.5002,-3.2047
 Oz urfa,CF14 3BH,51.4986,-3.1931
+Panama Restaurant,CF14 3JN,51.5019,-3.1897
 The Crispy Duck Restaurant,CF14 3JN,51.5019,-3.1897
+La Pentola (The pot),CF14 3JP,51.5028,-3.1912
 Society Standard,CF14 3JP,51.5028,-3.1912
 Mint & Mustard,CF14 3LZ,51.5017,-3.1887
 Cegin Bodlon,CF14 3NB,51.5029,-3.1905
@@ -154,7 +157,9 @@ Longa Turkish Café,CF14 3NB,51.5029,-3.1905
 Ilili Limited,CF14 3QX,51.5037,-3.1821
 THE PARK COFFEE HOUSE ,CF14 3QX,51.5037,-3.1821
 Coffee & Cakes,CF14 4AE,51.5106,-3.2000
+JAMUNA,CF14 4AE,51.5106,-3.2000
 ORGANICAFE,CF14 4AG,51.5108,-3.1994
+Celebrities Indian Restaurant ,CF14 4QA,51.5119,-3.2001
 Cafe14 at CMC Sports & Social Club,CF14 4XW,51.5068,-3.1894
 McDonald’s ,CF14 5DX,51.5271,-3.1859
 Fintans Fish and Chips,CF14 5LS,51.5295,-3.1876
@@ -188,6 +193,7 @@ Amo's Cafe,CF24 3BQ,51.4899,-3.1697
 Mezza luna restaurant,CF24 3BQ,51.4899,-3.1697
 Steakout Cardiff,CF24 3BQ,51.4899,-3.1697
 Dusty Knuckle - Sticky Fingers,CF24 3BT,51.4918,-3.1729
+Al Wali Restaurant,CF24 3DD,51.4881,-3.1670
 AJ's coffeehouse ,CF24 3DL,51.4863,-3.1658
 Bombay Grill Indian Restaurant ,CF24 3DL,51.4863,-3.1658
 DRAGON FIRE BURGER CO. ,CF24 3DL,51.4863,-3.1658
@@ -210,6 +216,7 @@ TROY MEZE BAR,CF24 3NZ,51.4949,-3.1659
 Wok to Walk,CF24 3NZ,51.4949,-3.1659
 Green and Jenks,CF24 3PA,51.4957,-3.1654
 Waterloo Tea,CF24 3PA,51.4957,-3.1654
+Wine bar57 ,CF24 3PA,51.4957,-3.1654
 Jasmin restaurant ,CF24 3PB,51.4951,-3.1652
 The Four Elms,CF24 3QR,51.4880,-3.1616
 Albany fish bar,CF24 3RQ,51.4930,-3.1694
@@ -238,6 +245,7 @@ Frolics Cafe,CF3 0EF,51.5254,-3.1017
 What Cafe St Mellons,CF3 0SH,51.5246,-3.0914
 Y MAERUN PUB & DINING,CF3 2TU,51.5328,-3.0656
 The Masons Arms (Marshfield) Ltd,CF3 2TX,51.5316,-3.0689
+Seoul House Ltd,CF3 2WH,51.5375,-3.0931
 Food Glorious Food,CF3 4AJ,51.5090,-3.1325
 Thackeray Pub & Kitchen Ltd,CF3 4FB,51.5036,-3.1387
 The Monkstone Inn,CF3 4LL,51.5134,-3.1243
@@ -245,8 +253,10 @@ Ford Cafe,CF3 5SJ,51.5200,-3.1202
 The Blue Bell Inn,CF3 5UN,51.5249,-3.1127
 The poachers arms,CF3 5UP,51.5255,-3.1131
 Nook,CF5 1BE,51.4828,-3.2186
+The Dough Thrower,CF5 1BE,51.4828,-3.2186
 The Parc Deli,CF5 1BJ,51.4833,-3.2206
 Victoria Park Creperie,CF5 1EZ,51.4838,-3.2199
+Hard Lines ,CF5 1GX,51.4821,-3.2046
 Mugs and Momos,CF5 1GZ,51.4824,-3.2070
 Dino's cafe',CF5 1JD,51.4817,-3.2047
 JANATA PLACE CARDIFF LTD,CF5 1JD,51.4817,-3.2047
@@ -280,6 +290,7 @@ Miss B’s Pantry,CF83 8EA,51.5913,-3.1994
 The Rock,CF83 8EA,51.5913,-3.1994
 V’Nillapod Cafe Ltd,NP10 8BB,51.5596,-3.0362
 Friendly Fox,NP10 8LW,51.5789,-3.0610
+Rhiwderin Inn ,NP10 8RX,51.5801,-3.0684
 shipwreck cafe,NP10 8SH,51.5329,-3.0126
 Parc Golf Centre,NP10 8TU,51.5467,-3.0491
 mcdonalds,NP10 8XL,51.5567,-3.0211
@@ -289,6 +300,9 @@ MAMMA LINA'S,NP10 9EJ,51.5839,-3.0511
 Tiny Rebel,NP10 9FQ,51.5889,-3.0539
 J & N Catering,NP10 9FX,51.5966,-3.0566
 mcdonalds,NP10 9HZ,51.5972,-3.0777
+Sparkle Snack Bar,NP10 9LY,51.5888,-3.0393
+Marmajos cafe,NP11 3EH,51.6869,-3.1607
+Victorias Cafe,NP11 4ET,51.6654,-3.1445
 The Bank Post office and coffee shop,NP11 4EZ,51.6649,-3.1447
 The Newbridge Hotel,NP11 4FH,51.6645,-3.1469
 The Three Horseshoes Inn,NP11 4HN,51.6584,-3.1652
@@ -317,6 +331,7 @@ Woodies,NP12 1AG,51.6657,-3.1955
 Market place caffi,NP12 1AU,51.6663,-3.1961
 amelias diner,NP12 1AZ,51.6651,-3.1948
 The Rock Tavern,NP12 1DD,51.6807,-3.1887
+Brewers Lodge Limited,NP12 1DS,51.6625,-3.1998
 Le cafe,NP12 1PN,51.6680,-3.1955
 The Halfway House,NP12 2HT,51.6457,-3.1929
 Purchase & Hobby Catering,NP12 3JT,51.6711,-3.2093
@@ -343,6 +358,8 @@ The Rib,NP18 2LX,51.6031,-2.9197
 McDonald's,NP18 2NX,51.6024,-2.9223
 Holiday Inn Newport,NP18 2YG,51.5997,-2.9269
 The Pod,NP19 0AP,51.5875,-2.9882
+Ryson Cyf trading as Let Loose ,NP19 0BH,51.5881,-2.9861
+245 Lewis Diner,NP19 0EA,51.5853,-2.9787
 Restpoint cafe,NP19 0HT,51.5827,-2.9644
 Horton's Coffee House,NP19 0NU,51.5873,-2.9884
 Man of steel,NP19 4NW,51.5788,-2.9504
@@ -382,6 +399,7 @@ Subway,NP20 2ED,51.5818,-2.9933
 Jump Adventure Newport,NP20 2NS,51.5709,-3.0002
 Subway,NP20 3AE,51.5729,-3.0126
 McDonald's,NP20 3BA,51.5724,-3.0104
+Handpost Hotel ltd ,NP20 3EA,51.5825,-3.0127
 Just Perfect Catering Ltd,NP20 4AG,51.5884,-2.9992
 Vittorio's,NP20 4ED,51.5827,-2.9997
 BELLE VUE TEA ROOM,NP20 4FP,51.5785,-3.0049

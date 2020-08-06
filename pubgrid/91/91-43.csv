@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+Ondine Restaurant Ltd,EH1 1AD,55.9491,-3.1928
 Kitikorn Limited,EH1 1BN,55.9508,-3.1901
 Gurkha Cafe & Restaurant,EH1 1BP,55.9507,-3.1903
 Chopstix Edinburgh,EH1 1BQ,55.9526,-3.1913
@@ -108,6 +109,7 @@ Namaste Kathmandu,EH1 2QH,55.9463,-3.1913
 Subway ,EH1 2QH,55.9463,-3.1913
 Kauai Teviot Edinburgh,EH1 2QN,55.9458,-3.1908
 McSorleys,EH1 2QN,55.9458,-3.1908
+Mum Great Comfort Food,EH1 2QN,55.9458,-3.1908
 Union of Genius,EH1 2QN,55.9458,-3.1908
 Yu-Tzu Ltd,EH1 2QN,55.9458,-3.1908
 BARBURRITO,EH1 2QP,55.9457,-3.1915
@@ -152,6 +154,7 @@ Mclarens on the Corner,EH10 4DD,55.9345,-3.2105
 Cafe Grande,EH10 4DF,55.9361,-3.2096
 La Barantine Limited,EH10 4DF,55.9361,-3.2096
 Project Coffee,EH10 4DF,55.9361,-3.2096
+Decanter Winery & Dinery,EH10 4DG,55.9357,-3.2096
 Montpeliers,EH10 4DG,55.9357,-3.2096
 Seeds For The Soul ,EH10 4DG,55.9357,-3.2096
 Artisan Cheesecakes Edinburgh ,EH10 4ES,55.9372,-3.2074
@@ -239,6 +242,7 @@ Urban Angel,EH2 1DJ,55.9546,-3.1975
 Bar Soba (Edinburgh),EH2 1DR,55.9545,-3.1981
 The Perch Restaurant,EH2 1DR,55.9545,-3.1981
 Dusit Thai Restaurant,EH2 1DY,55.9541,-3.1995
+Noto Edinburgh,EH2 1DY,55.9541,-3.1995
 The Bon Vivant,EH2 1DY,55.9541,-3.1995
 LE CAFE ST HONORE LTD,EH2 1EA,55.9542,-3.2002
 83 Hanover Street,EH2 1EE,55.9540,-3.1973
@@ -309,16 +313,19 @@ HAKATA YA,EH2 4BB,55.9515,-3.2039
 Ryans Bar & Grill,EH2 4DB,55.9507,-3.2086
 Angel's Share,EH2 4EL,55.9509,-3.2079
 Whighams Wine Cellars Ltd,EH2 4EL,55.9509,-3.2079
+Aizle Edinburgh,EH2 4HQ,55.9524,-3.2064
 The Garden,EH2 4HQ,55.9524,-3.2064
 Lola's Sandwich Bar,EH2 4HR,55.9529,-3.2069
 Candy Bar,EH2 4JN,55.9525,-3.2046
 Tigerlily,EH2 4JN,55.9525,-3.2046
 Gusto Italian,EH2 4JS,55.9524,-3.2057
 Dirty Dicks Pub,EH2 4LS,55.9515,-3.2051
+The Chaumer,EH2 4NA,55.9535,-3.2048
 Yotel Edinburgh ,EH2 4NA,55.9535,-3.2048
 Umai,EH2 4PA,55.9503,-3.2089
 Vesta Bar & Kitchen,EH2 4PA,55.9503,-3.2089
 Edinburgh Rendezvous Chinese Restaurant,EH2 4PG,55.9505,-3.2095
+Noodlenrice express,EH2 4PG,55.9505,-3.2095
 Daneli’s Deli,EH2 4QS,55.9511,-3.2098
 Indigo Yard,EH2 4QZ,55.9512,-3.2096
 at pizza ,EH2 4QZ,55.9512,-3.2096
@@ -381,6 +388,7 @@ The Orchard Bar & Restaurant,EH3 5JZ,55.9638,-3.2012
 Loon Fung Chinese Restaurant Ltd.,EH3 5LE,55.9632,-3.2002
 Nira Caledonia Blackwood's Bar & Grill,EH3 6EF,55.9568,-3.2072
 NOKS KITCHEN,EH3 6EG,55.9574,-3.2078
+Wee Buddha,EH3 6HH,55.9559,-3.2028
 New Town Fox,EH3 6HZ,55.9565,-3.1992
 The ox edinburgh ltd,EH3 6LX,55.9590,-3.1912
 Stac Polly,EH3 6NL,55.9573,-3.1933
@@ -420,6 +428,7 @@ Navadhanya,EH3 9AP,55.9467,-3.2051
 Spirit of Thai,EH3 9AP,55.9467,-3.2051
 china red,EH3 9AP,55.9467,-3.2051
 Kanpai Sushi,EH3 9AS,55.9464,-3.2038
+Frizzante Prosecheria,EH3 9AW,55.9467,-3.2052
 GERMAN DONER KEBAB,EH3 9AW,55.9467,-3.2052
 Innis and Gunn Brewery Taproom Edinburgh,EH3 9AW,55.9467,-3.2052
 TOPO LA BAMBA (LOTHIAN ROAD) LIMITED,EH3 9AW,55.9467,-3.2052
@@ -438,6 +447,7 @@ Soderberg,EH3 9GG,55.9440,-3.1918
 CHINESE BUBBLE TEA,EH3 9GL,55.9438,-3.1935
 Nanyang Restaurant ,EH3 9GL,55.9438,-3.1935
 Soderberg,EH3 9GL,55.9438,-3.1935
+Bombay Bicycle Club,EH3 9HW,55.9426,-3.2009
 Nilgiri Spice,EH3 9JH,55.9435,-3.2024
 Peanut Press Cafe,EH3 9JH,55.9435,-3.2024
 1302 dessert cafe ,EH3 9JP,55.9425,-3.2033
@@ -451,6 +461,7 @@ Bennets Bar,EH3 9LG,55.9417,-3.2031
 INTERCONTINENTAL FOODS (SCOTLAND) LTD,EH3 9LH,55.9414,-3.2037
 Chaskaa Indian Restaurant ,EH3 9LJ,55.9413,-3.2032
 The Treehouse Cafe,EH3 9LJ,55.9413,-3.2032
+Thistles,EH3 9LY,55.9435,-3.2040
 subway,EH3 9LZ,55.9429,-3.2040
 DUMPLING OF CHINA,EH3 9NA,55.9423,-3.2038
 koshis ltd tradingf as The everest  restaurant,EH3 9NA,55.9423,-3.2038
@@ -528,6 +539,7 @@ Vittoria on the Walk ,EH7 5HR,55.9608,-3.1806
 Cafe Renroc,EH7 5HZ,55.9596,-3.1795
 No11 Brasserie and Boutique Hotel,EH7 5JB,55.9590,-3.1797
 Cairn hotel edinburgh,EH7 5JR,55.9584,-3.1825
+Montgomery Fish and Chips,EH7 5JU,55.9594,-3.1823
 Toranj Edinburgh Ltd ,EH7 5LB,55.9581,-3.1815
 Mash Tun,EH7 5RL,55.9600,-3.1713
 The Safari Lounge,EH7 5SN,55.9571,-3.1683
@@ -587,6 +599,7 @@ Victor Hugo,EH9 1LP,55.9393,-3.1874
 The Old Bell Inn,EH9 1PH,55.9357,-3.1795
 Pataka,EH9 1PN,55.9355,-3.1799
 The Urban Fox,EH9 1QF,55.9384,-3.1812
+Capital Coffee EH9 Ltd TA August_21,EH9 1QG,55.9377,-3.1807
 Southpour,EH9 1QR,55.9388,-3.1787
 Voujon Restaurant,EH9 1QW,55.9380,-3.1781
 Korean BBQ,EH9 1SH,55.9375,-3.1783

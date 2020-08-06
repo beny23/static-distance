@@ -1,6 +1,8 @@
 name,postcode,lat,lon
 Ego at the Punchbowl,L29 7WA,53.5065,-2.9825
 Costa Coffee,L31 0DQ,53.5166,-2.9418
+MAGHULL SQUARE BAR AND GRILL,L31 0DQ,53.5166,-2.9418
+Bay of Bengal Tanduri Ltd,L31 2HB,53.5133,-2.9450
 LAL QILA INDIAN RESTURANT,L31 2HB,53.5133,-2.9450
 Suzys Cafe,L31 2PH,53.5142,-2.9433
 MUGHAL DELIVERY LTD,L31 2PN,53.5130,-2.9441
@@ -37,12 +39,14 @@ Quattros,L39 0HF,53.5340,-2.8144
 The Cherry House Ltd.,L39 1NN,53.5745,-2.8873
 Costa Coffee,L39 2AN,53.5730,-2.8790
 M R (OMSKIRK)LTD TRADING AS PASSAGE TO INDIA,L39 2AQ,53.5669,-2.8844
+Shamraat 2,L39 2AQ,53.5669,-2.8844
 Starbucks Ormskirk,L39 2AQ,53.5669,-2.8844
 Ormskirk hospital restaurant,L39 2AZ,53.5645,-2.8713
 The Fat Italian Ormskirk,L39 2BW,53.5683,-2.8785
 AGA Catering Ltd,L39 2DN,53.5677,-2.8837
 Two Cents Pizza LTD,L39 2EG,53.5681,-2.8857
 Love to Eat ,L39 2ER,53.5677,-2.8856
+Tap Cafe,L39 2ER,53.5677,-2.8856
 Becks Sandwich Bar,L39 2ES,53.5684,-2.8850
 Il Padrino,L39 2ES,53.5684,-2.8850
 Barnyard Churrasco and grill,L39 2XA,53.5681,-2.8853
@@ -188,6 +192,7 @@ The Warwick Southport,PR9 0DP,53.6506,-3.0052
 Bliss Kitchen ,PR9 0DZ,53.6513,-3.0073
 The Windmill,PR9 0EL,53.6524,-3.0034
 Auberge brasserie,PR9 0EW,53.6518,-3.0011
+Cathay Garden,PR9 0HB,53.6525,-2.9987
 Rueters Bar and Grill,PR9 0PA,53.6483,-3.0009
 The Guesthouse,PR9 0QE,53.6505,-2.9993
 Lord Street Hotel,PR9 0QG,53.6512,-2.9990

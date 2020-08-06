@@ -2,6 +2,7 @@ name,postcode,lat,lon
 Blacksmiths Arms,DN11 8LB,53.4172,-1.0764
 Styrrup Hall Golf & Country Club ,DN11 8NB,53.4077,-1.0903
 Tea Cosy,NG20 0AA,53.2046,-1.1533
+THE BLACK MARKET,NG20 0AB,53.2038,-1.1543
 The Plough Inn,NG20 0AR,53.2080,-1.1508
 Subway,NG20 0JN,53.2047,-1.1519
 The Lemon Tree At Langwith,NG20 9BH,53.2274,-1.2089
@@ -55,15 +56,18 @@ Greenbean Coffee Shop & Bistro,S26 1DJ,53.3613,-1.2666
 Ricardo's Cafe and Bistro,S26 2EB,53.3631,-1.2977
 ASTON  HALL HOTEL LIMITED,S26 2EE,53.3627,-1.2986
 The Cafe at the Corner,S26 4QA,53.3637,-1.3200
+The Duke of Leeds ,S26 5LQ,53.3389,-1.2850
 Aston’s restaurant ,S26 5PQ,53.3498,-1.3000
 Rother Valley Golf Centre Ltd,S26 5PQ,53.3498,-1.3000
 The Vintage Tack Room and Playbarn,S26 5PQ,53.3498,-1.3000
 ASIA PALACE,S26 5QJ,53.3413,-1.2920
 The station pub,S26 6NP,53.3370,-1.2388
 The Beehive,S26 7YH,53.3222,-1.2607
+MAHON EATERY,S4 8BJ,53.4074,-1.4337
 Subway,S40 1AH,53.2357,-1.4309
 The Market Pub,S40 1AH,53.2357,-1.4309
 KFC,S40 1BA,53.2359,-1.4368
+Mutiara Chinese Restaurant,S40 1BA,53.2359,-1.4368
 the barley mow,S40 1JR,53.2374,-1.4304
 Cara Restaurants Limited McDonalds 142,S40 1PB,53.2351,-1.4296
 peacock coffee lounge ,S40 1PB,53.2351,-1.4296
@@ -105,6 +109,7 @@ Pomegranate,S41 7TJ,53.2356,-1.4244
 Aruba,S41 7TP,53.2368,-1.4230
 Bar Rumba,S41 7TP,53.2368,-1.4230
 Urban kitchen ,S41 7UG,53.2385,-1.4218
+Afats grill,S41 8LT,53.2586,-1.4280
 THE HUNLOKE ARMS,S42 6NB,53.2029,-1.4191
 Lyric Hotels Ltd t/a Ringwood Hall Hotel,S43 1DQ,53.2585,-1.3822
 Chutney Spice ,S43 1JG,53.2572,-1.3960
@@ -139,6 +144,7 @@ bay tree bistro ltd,S65 3HU,53.4234,-1.3059
 mark woodward t/a brecks social club,S65 3HZ,53.4215,-1.3069
 Seven Seas Limited,S66 1AG,53.4199,-1.2874
 McDonald's Bramley - Bawtry Rd,S66 1YY,53.4220,-1.2542
+Chaudrys Restaurant Ltd,S66 2BW,53.4218,-1.2844
 Gas Lamp Wickersley Limited,S66 2BW,53.4218,-1.2844
 The Courtyard ,S66 2BW,53.4218,-1.2844
 The Olive Lounge Wickersley Limited,S66 2BW,53.4218,-1.2844
@@ -157,6 +163,7 @@ Cypriana Coffee House,S80 1JA,53.3030,-1.1249
 Cafe Neo,S80 1JR,53.3058,-1.1251
 THE SHIREOAKS INN,S80 1LT,53.3026,-1.1283
 The Avenue Coffee House Ltd,S80 1NH,53.3032,-1.1314
+THE MILLHOUSE,S80 1NN,53.3031,-1.1359
 Chocolate Orange Tearooms,S80 1PH,53.3089,-1.1216
 THE STATION HOTEL,S80 1PS,53.3104,-1.1215
 Stop & Pour,S80 2AR,53.3041,-1.1224
@@ -176,9 +183,11 @@ The Harley Cafe,S80 3LW,53.2621,-1.1763
 S80 Coffee House,S80 4AA,53.2631,-1.2101
 Limestone House (Elmton and Creswell Village Company),S80 4JE,53.2624,-1.2176
 The Elm Tree Elmton ,S80 4LS,53.2537,-1.2440
+Kilton Forest Golf Clubhouse,S81 0TL,53.3209,-1.1078
 Gateford grill,S81 7BP,53.3206,-1.1316
 Three Legged Stool,S81 7DY,53.3259,-1.1305
 The turbine cafe,S81 8AP,53.3226,-1.1579
+The White Swan Inn,S81 8EQ,53.3761,-1.0611
 AASHA ,S81 8HB,53.3766,-1.0582
 The Angel inn blyth ltd,S81 8HG,53.3820,-1.0623
 The Red Hart Hotel,S81 8HG,53.3820,-1.0623
@@ -217,4 +226,5 @@ La Vlad Restaurant,S9 3RA,53.3924,-1.4352
 Blast Snack Bar,S9 3RE,53.3947,-1.4316
 Big Baps Sandwich Shop ,S9 3RN,53.3934,-1.4325
 waverley road cafe,S9 4PJ,53.3852,-1.4083
+Subway,S9 5HZ,53.3873,-1.4084
 Cara Restaurants Limited McDonalds 1189,S9 5PA,53.3916,-1.4087

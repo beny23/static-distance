@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 White Horse Inn,CH3 7HX,53.2103,-2.7946
 Cornichon,CH3 8JA,53.1991,-2.7621
+Pryors Hayes Golf & Leisure Ltd,CH3 8NL,53.1940,-2.7334
 Carriages,CH3 9AH,53.1345,-2.7852
 The Ice Cream Farm,CH3 9NE,53.1325,-2.7503
 Coach and horses,CW1 4QZ,53.1263,-2.4784
@@ -58,6 +59,7 @@ fourways cafe and grill,CW8 2HU,53.2164,-2.6589
 Abbeywood Estate ,CW8 2HW,53.2095,-2.6544
 Define Food & Wine,CW8 2NH,53.2319,-2.5946
 Hare & Hounds,CW8 2RN,53.2658,-2.6333
+Devonshire Bakery,CW8 3EU,53.2623,-2.5775
 CUMIN COTTAGE RESTAURANT,CW8 3HB,53.2635,-2.5824
 The Hanging Gate,CW8 3HG,53.2644,-2.5861
 The Topiary Coffee Shop,CW8 4EE,53.2633,-2.5364
@@ -112,16 +114,20 @@ Forest Hills Hotel,WA6 6HH,53.2869,-2.7246
 DELAMERE FORTUNE PALACE,WA6 6PB,53.2427,-2.6662
 Helter Skelter,WA6 6PN,53.2948,-2.7243
 Costa Coffee - Frodsham,WA6 6QL,53.2949,-2.7251
+Subway,WA6 6QS,53.2939,-2.7240
 Brew and Tucker Ltd,WA6 6QW,53.2945,-2.7244
 THE VINTAGE TEAROOM FAMILY ROOM AND BAR LTD,WA6 6SU,53.2762,-2.6981
 The Netherton Hall,WA6 6UL,53.2884,-2.7325
 Artisan Green,WA6 7AB,53.2955,-2.7273
+Devonshire Bakery Ltd,WA6 7AH,53.2966,-2.7252
 Slim India ,WA6 7AR,53.2953,-2.7266
 Whitmore & White Ltd,WA6 7AU,53.2945,-2.7285
 The Red Bull Inn,WA6 8AN,53.2680,-2.6730
 The White Lion,WA6 9DD,53.2603,-2.7543
 Tandoori Night ,WA7 1AP,53.3417,-2.7307
+Tekosta Caffe & Pizza Ltd,WA7 1LD,53.3428,-2.7343
 Costa Coffee,WA7 1LX,53.3422,-2.7327
+Devonshire Bakery ,WA7 1LX,53.3422,-2.7327
 The Norton Arms,WA7 2AD,53.3351,-2.6951
 Sayers Cafe,WA7 2BY,53.3270,-2.6988
 The Straw Hat,WA7 2EU,53.3275,-2.6978

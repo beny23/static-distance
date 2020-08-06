@@ -14,6 +14,7 @@ SUBWAY,BB3 1AU,53.6974,-2.4693
 Sweet Vintage Darwen,BB3 1BG,53.6954,-2.4672
 FLAMES GRILL AND BAR ,BB3 1BZ,53.6911,-2.4666
 The Alexandra hotel ,BB3 1NL,53.7007,-2.4765
+Eddie's Wood fired pizza,BB3 1PL,53.6952,-2.4688
 Akash Indian Brasserie,BB3 1PX,53.6979,-2.4705
 anaz restaurant,BB3 1QA,53.6987,-2.4714
 Artisan Cafe and Wine Bar ,BB3 2AA,53.6946,-2.4662
@@ -231,6 +232,7 @@ Rivington Hall Barn,BL6 7SB,53.6232,-2.5622
 Village green tearooms limited,BL6 7SD,53.6315,-2.5615
 The Rivington,BL6 7SE,53.6243,-2.5676
 The Black Bull,BL7 0AF,53.6422,-2.3970
+ROSE AND CROWN,BL7 0AR,53.6456,-2.3898
 Chetham Arms,BL7 0EW,53.6372,-2.4044
 Dalchini Indian Restaurant ,BL7 0HR,53.6289,-2.3849
 The Toby Inn Ltd,BL7 0JQ,53.6713,-2.3851
@@ -260,12 +262,14 @@ Bloom Coffee Co.,BL9 0AJ,53.5930,-2.2977
 Ground Up,BL9 0AJ,53.5930,-2.2977
 Subway,BL9 0AJ,53.5930,-2.2977
 Katsouris Delicatessen Ltd,BL9 0BD,53.5922,-2.2940
+The Bury Roast Co,BL9 0BD,53.5922,-2.2940
 Alisons fresh and tasty,BL9 0BJ,53.5910,-2.2953
 Big Jim’s Cafe,BL9 0BJ,53.5910,-2.2953
 Fresh Bites Cafe,BL9 0BJ,53.5910,-2.2953
 Jan's Kitchen,BL9 0BJ,53.5910,-2.2953
 Peters tea room,BL9 0BJ,53.5910,-2.2953
 The Coffee Pot,BL9 0BJ,53.5910,-2.2953
+Up Market Cafe,BL9 0BJ,53.5910,-2.2953
 Chicken cottage millgate ,BL9 0BL,53.5922,-2.2965
 Sky Bar,BL9 0BL,53.5922,-2.2965
 Bap,BL9 0BX,53.5930,-2.2959
@@ -298,7 +302,7 @@ Summerseat Garden Centre Limited,BL9 5QD,53.6273,-2.3178
 AL BOSCO RISTORANTE,BL9 5QP,53.6310,-2.3209
 Games Hub Bury ,BL9 6AS,53.5965,-2.2864
 H's Diner,BL9 7AJ,53.5960,-2.2855
-Chunks Steakbox (MCR) LTD,BL9 7BA,53.5931,-2.2859
+Chunks steakbox (mcr) LTD,BL9 7BA,53.5931,-2.2859
 Shazia's Street Food Limited,BL9 7BA,53.5931,-2.2859
 Ice Box,BL9 7DY,53.5918,-2.2855
 Queen Anne Inn ,BL9 8JH,53.5634,-2.2724
@@ -308,6 +312,7 @@ The Swan and Cemetery,BL9 9NS,53.5758,-2.2966
 Crowded House,BL9 9SU,53.5692,-2.2941
 RiMo at Maccabi,M25 0EG,53.5237,-2.2628
 Mozzarella,M25 0LE,53.5189,-2.2703
+Italian Eats,M25 0PD,53.5243,-2.2761
 The Coffee Sack,M25 0PD,53.5243,-2.2761
 babbo,M25 0PD,53.5243,-2.2761
 TAO'S,M25 0RP,53.5242,-2.2762
@@ -319,6 +324,7 @@ BNR Kitchen Ltd T/A Istanbul Grill ,M25 1AX,53.5332,-2.2850
 Breakfast at claires ,M25 1AY,53.5329,-2.2843
 CROMA PRESTWICH,M25 1AY,53.5329,-2.2843
 Prestwich Village - Costa Coffee,M25 1AY,53.5329,-2.2843
+Butter me up,M25 1HA,53.5295,-2.2681
 KRAVE COFFEE ,M25 1NL,53.5377,-2.2763
 Rios Gourmet Grill,M25 1NL,53.5377,-2.2763
 Park Life Café Lakeside - Heaton Park ,M25 2GT,53.5385,-2.2678
@@ -349,6 +355,7 @@ Swinton - Costa Coffee,M27 4BD,53.5119,-2.3379
 PARADE FISH BAR LTD,M27 4BH,53.5125,-2.3386
 Swinton Buffet,M27 4DL,53.5156,-2.3278
 Sykes fish and chips,M27 4ET,53.5176,-2.3310
+Agra Indian Cuisine,M27 4TT,53.5081,-2.3314
 DEURALI RESTAURANT,M27 5AF,53.5090,-2.3342
 Swinton Park Golf & Country Club 2017 LTD,M27 5LX,53.5020,-2.3262
 Siena Italian Ristorante,M27 5SQ,53.5059,-2.3412
@@ -362,6 +369,7 @@ Queens Subway,M28 1BT,53.5060,-2.4262
 The Tea Set,M28 1DN,53.5048,-2.4340
 Buffalo Bar and Grill Limited,M28 1FB,53.5030,-2.4161
 Shahbaaz Indian Restaurant Limited,M28 1FB,53.5030,-2.4161
+Vesuvio Restaurant ,M28 1FB,53.5030,-2.4161
 Coal and Cotton,M28 1LR,53.5021,-2.4184
 The Delph Restaurant & Bar,M28 2NL,53.5004,-2.3796
 Tempo,M28 2QT,53.5054,-2.3909
@@ -408,6 +416,7 @@ The Royal Oak at Riley Green,PR5 0SL,53.7245,-2.5747
 SUBWAY,PR5 6EJ,53.7226,-2.6619
 YE OLDE HOB INN,PR5 6EP,53.7210,-2.6613
 WA Bar and Bistro,PR5 6EQ,53.7223,-2.6620
+Dilnaz Indian restaurant ltd,PR5 6FN,53.7231,-2.6598
 Sagar Premier,PR5 8HZ,53.7173,-2.6380
 masons arms,PR6 0HU,53.6613,-2.6210
 the ley inn ,PR6 7EU,53.7001,-2.6525
@@ -416,12 +425,14 @@ The Red Cat,PR6 7HS,53.6896,-2.6377
 Mediterranean 3 at the bay horse,PR6 7HW,53.6884,-2.6387
 The HalfwayHouse,PR6 7JB,53.7028,-2.6393
 Whittle Vintage Tearoom,PR6 7LD,53.6887,-2.6364
+Lord Nelson,PR6 7RD,53.7041,-2.6365
 THE BEAUMONT,PR6 7TY,53.7067,-2.6450
 The Little Tiger ,PR6 8DA,53.7002,-2.5470
 Hare & Hounds,PR6 8DP,53.6982,-2.5440
 The Red Lion,PR6 8EU,53.6853,-2.6068
 The Village Tearoom at Wheelton Limited,PR6 8EY,53.6861,-2.6064
 The Dressers Arms,PR6 8HD,53.6859,-2.5992
+Whins green kitchen,PR6 8HN,53.6901,-2.6032
 golden lion hotel,PR6 8HP,53.6956,-2.5949
 The Top Lock,PR6 8LT,53.6885,-2.6149
 CAVENDISH ARMS,PR6 8NG,53.7129,-2.6101
@@ -510,6 +521,7 @@ The Cherry Gardens Hotel,WN1 2NT,53.5631,-2.6304
 Wigan Golf Club Limited,WN1 2UH,53.5908,-2.6214
 The Crown Hotel,WN1 2XF,53.5971,-2.6414
 The White Crow,WN1 2XL,53.6072,-2.6322
+Jks kitchen,WN1 3EU,53.5433,-2.6230
 The Mount cafe,WN2 1DA,53.5572,-2.6093
 Alexanders Coffee Shop ,WN2 1PE,53.5730,-2.6097
 Two Left Feet Tap,WN2 1PE,53.5730,-2.6097
@@ -526,6 +538,8 @@ The Bucks Head,WN2 5RQ,53.5103,-2.5940
 Fresh Choice Cafes Ltd,WN3 4AR,53.5425,-2.6429
 Power Kitchen Nutrition Limited,WN3 4DP,53.5449,-2.6376
 Hideout,WN3 4HX,53.5418,-2.6320
+Shimlar,WN3 4UG,53.5265,-2.6109
+Postcode Coffee House,WN3 5AB,53.5411,-2.6417
 Foodie Cafe & Resto,WN3 5BD,53.5396,-2.6403
 McDonalds ,WN3 6XA,53.5202,-2.6529
 Velocity Leisure Ltd Wigan,WN3 6XU,53.5176,-2.6545
