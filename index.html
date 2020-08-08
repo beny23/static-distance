@@ -204,6 +204,7 @@
 		if (d.fsa != -1) {
 
 		    fsa = "<img src='fsa/medium/" + d.fsa + ".jpg' alt='Food Standard Agency Score: " + d.fsa + "' />";
+                    fsa = "<a target='_blank' href='https://ratings.food.gov.uk/enhanced-search/en-GB/%5E/" + d.postcode + "/Relevance/0/^/^/0/1/10'>" + fsa + "</a>";
 		}
                 return [
                     makeDirectLink(d),
@@ -221,6 +222,7 @@
             let fsa = '';
 		if (d.fsa != -1) {
 			fsa = "<br><img src='fsa/small/" + d.fsa + ".jpg' alt='Food Standard Agency Score: " + d.fsa + "' /><br>" + d.cat;
+                        fsa = "<a target='_blank' href='https://ratings.food.gov.uk/enhanced-search/en-GB/%5E/" + d.postcode + "/Relevance/0/^/^/0/1/10'>" + fsa + "</a>";
 		}
             return L.marker([d.lat, d.lon], {"title": d.name})
                 .bindPopup(makeDirectLink(d) + "<br>" + d.postcode + fsa)
