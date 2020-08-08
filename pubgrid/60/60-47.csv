@@ -5,8 +5,10 @@ DRINC,BL0 9AB,53.6481,-2.3150
 Owens Restaurant & Bar,BL0 9AL,53.6467,-2.3153
 Baratxuri ,BL0 9AT,53.6482,-2.3181
 Levanter,BL0 9BE,53.6474,-2.3179
+The Lounge,BL0 9FN,53.6479,-2.3173
 Tre Ciccio Ramsbottom,BL0 9HT,53.6490,-2.3180
 Amelia's Ramsbottom,BL0 9HU,53.6476,-2.3185
+Indian Lounge UK LTD,BL0 9HU,53.6476,-2.3185
 SAN LEONARDO'S,BL0 9HU,53.6476,-2.3185
 The Mouse Trap,BL0 9HU,53.6476,-2.3185
 China Cottage Ltd,BL0 9HX,53.6470,-2.3189
@@ -25,6 +27,7 @@ ciao napoli,BL1 1LE,53.5775,-2.4283
 THE COURTHOUSE RESTAURANT & BAR,BL1 1LF,53.5772,-2.4283
 Subway Newport Street,BL1 1NB,53.5770,-2.4298
 Odessa cafe,BL1 1RS,53.5782,-2.4287
+THE FOOD CORNER LTD,BL1 1SN,53.5764,-2.4297
 OLYMPUS FISH AND CHIP RESTAURANT LIMITED,BL1 1SW,53.5761,-2.4296
 Istanbul’s kitchen,BL1 1TJ,53.5765,-2.4326
 cosy cafe,BL1 1TQ,53.5765,-2.4326
@@ -50,6 +53,7 @@ Cube Desserts Ltd,BL1 3QJ,53.5919,-2.4358
 MAMA'S GRILL (NORTH-WEST) LTD,BL1 3QN,53.5912,-2.4342
 Khanz Spicy Grill,BL1 4AZ,53.5813,-2.4409
 burgerum,BL1 4JE,53.5865,-2.4512
+Prime eatery,BL1 4QR,53.5819,-2.4417
 Queen's Park Café Bolton ,BL1 4RU,53.5775,-2.4449
 Victoria Inn,BL1 5AG,53.5830,-2.4772
 Retreat Grill Bar Restaurant,BL1 5BP,53.5794,-2.4655
@@ -88,7 +92,6 @@ Duke William Inn,BL2 5SQ,53.5887,-2.3604
 subway,BL2 6PY,53.5796,-2.3766
 Bradley Fold Garden Centre Ltd,BL2 6RE,53.5745,-2.3664
 The Jolly Carter,BL3 1BW,53.5619,-2.3812
-Unsy's Rotisserie Chicken Limited,BL3 1NP,53.5631,-2.3571
 subway,BL3 2NE,53.5690,-2.4156
 HAMZAH SWEETS & BAKERS,BL3 3NH,53.5658,-2.4465
 Mohammed Bilal Patel t/a Desi Brunch ,BL3 3PY,53.5622,-2.4528
@@ -101,26 +104,33 @@ A&A Desserts t/a Kaspas Bolton,BL3 5AH,53.5727,-2.4420
 Arizona Joe's,BL3 5AH,53.5727,-2.4420
 CHAIIWALA BOLTON,BL3 5AH,53.5727,-2.4420
 Chilli Flames,BL3 5AH,53.5727,-2.4420
+Somalian cafe,BL3 5BP,53.5712,-2.4429
 Aroma restaurant ,BL3 5HJ,53.5715,-2.4507
+Afghan Chopan,BL3 5HP,53.5727,-2.4463
 Hotbite,BL3 5QU,53.5675,-2.4635
 Yo'desi,BL3 5QU,53.5675,-2.4635
 Dixy chicken bolton,BL3 6AB,53.5748,-2.4282
+Achari Restaurant Ltd,BL3 6AS,53.5733,-2.4264
 BEST PERSIAN RESTAURANT LTD,BL3 6DS,53.5753,-2.4318
 KFC - BOLTON,BL3 6HE,53.5729,-2.4348
 Taj Mahal ,BL3 6HE,53.5729,-2.4348
+Doner's Empire,BL3 6HG,53.5718,-2.4369
 Jojos Chicken Restaurant,BL3 6HG,53.5718,-2.4369
 STEAKHOUSE GRILL DERBY STREET,BL3 6HG,53.5718,-2.4369
 McDonald's China Gardens,BL3 6HH,53.5716,-2.4365
 Kohinoor Bolton ltd,BL3 6JT,53.5697,-2.4391
 The Fig And The Olive ,BL3 6JT,53.5697,-2.4391
 Chunky Chicken Bolton,BL3 6LH,53.5674,-2.4424
+chunky chicken ,BL3 6LH,53.5674,-2.4424
 grillaz original limited,BL3 6LS,53.5667,-2.4446
+grillaz orignal,BL3 6LS,53.5667,-2.4446
 Cafe Pierre,BL3 6NF,53.5721,-2.4349
 Taste Bakery Limited t/a Taste,BL3 6SZ,53.5672,-2.4391
 unity catering ltd,BL4 0LQ,53.5522,-2.4415
 PERI HUT 3,BL4 7LE,53.5544,-2.4020
 Royal Balti House,BL4 7NY,53.5498,-2.3950
 Farnworth & Kearsley Events Team ,BL4 7ST,53.5518,-2.4063
+Zahra Authentic Cuisine ,BL4 8QX,53.5366,-2.3652
 The Atrium Cafe,BL4 8RU,53.5315,-2.3587
 Market Fish Bar,BL4 9DR,53.5479,-2.3946
 Ali & Sons Catering Ltd,BL4 9LU,53.5398,-2.3996
@@ -133,6 +143,7 @@ Subway Westhugton ,BL5 3JP,53.5515,-2.5020
 Amore coffee &Desserts ltd,BL5 3JT,53.5538,-2.5083
 India gate,BL5 3NB,53.5673,-2.5440
 Royal Oak Carvery,BL5 3ND,53.5704,-2.5491
+La Scala Westhoughton,BL5 3PD,53.5606,-2.5255
 Casa Nostra,BL5 3RS,53.5500,-2.5250
 Camerons Catering Ltd,BL5 3RZ,53.5514,-2.5244
 Airvault Trampoline Park,BL5 3XU,53.5560,-2.5337
@@ -172,6 +183,7 @@ Rivington Hall Barn,BL6 7SB,53.6232,-2.5622
 Village green tearooms limited,BL6 7SD,53.6315,-2.5615
 The Rivington,BL6 7SE,53.6243,-2.5676
 The Black Bull,BL7 0AF,53.6422,-2.3970
+The Reading Room Coffee Shop at The Barlow,BL7 0AP,53.6452,-2.3933
 ROSE AND CROWN,BL7 0AR,53.6456,-2.3898
 Chetham Arms,BL7 0EW,53.6372,-2.4044
 Dalchini Indian Restaurant ,BL7 0HR,53.6289,-2.3849
@@ -183,6 +195,7 @@ Hot Chilli,BL7 9PQ,53.6171,-2.4366
 Last Drop Village Hotel and Spa,BL7 9PZ,53.6220,-2.4210
 Lotties,BL7 9QT,53.6337,-2.4825
 San Marino bar and restaurant ,BL7 9QT,53.6337,-2.4825
+San Marino,BL7 9QT,53.6337,-2.4825
 AK Cafe,BL7 9SB,53.6259,-2.4382
 Baker's,BL7 9SN,53.6302,-2.4417
 The Thomas Egerton,BL7 9SR,53.6298,-2.4410
@@ -191,14 +204,18 @@ Stables Country Club,BL8 1PU,53.6020,-2.3262
 The Swan ,BL8 1SJ,53.6019,-2.3193
 ASHA TOTTINGTON LIMITED,BL8 1TA,53.6032,-2.3219
 The Black Bull Bury,BL8 2EY,53.5908,-2.3418
+Ruposhi Indian restaurant ,BL8 2QY,53.5963,-2.3156
+Rapallo Cucina Italiana,BL8 3AG,53.5992,-2.3395
 The Victoria Walshaw ,BL8 3BD,53.6025,-2.3402
 China Rose Restaurant,BL8 4AA,53.6143,-2.3407
 The Dungeon Inn,BL8 4AW,53.6151,-2.3430
 The Village Bistro Greenmount ,BL8 4DD,53.6249,-2.3317
 Waggon and Horses,BL8 4JL,53.6309,-2.3650
+Bloom Coffee Co Ltd,BL9 0AJ,53.5930,-2.2977
 Bloom Coffee Co.,BL9 0AJ,53.5930,-2.2977
 Ground Up,BL9 0AJ,53.5930,-2.2977
 Subway,BL9 0AJ,53.5930,-2.2977
+roccos desserts,BL9 0AY,53.5921,-2.2979
 Katsouris Delicatessen Ltd,BL9 0BD,53.5922,-2.2940
 The Bury Roast Co,BL9 0BD,53.5922,-2.2940
 Alisons fresh and tasty,BL9 0BJ,53.5910,-2.2953
@@ -221,10 +238,12 @@ Debenhams Restaurant Bury,BL9 0JL,53.5952,-2.2909
 Bake & Take ,BL9 0JN,53.5949,-2.2921
 Drip,BL9 0JS,53.5945,-2.2911
 West Ivy,BL9 0JX,53.5942,-2.2920
+Olive's Kitchen ,BL9 0LL,53.5938,-2.3007
 Zen Lounge,BL9 0LL,53.5938,-2.3007
 NEW JEWEL OF BURY LTD,BL9 0LP,53.5941,-2.3023
 Pizzeria bella italia,BL9 0LQ,53.5936,-2.2988
 Rozzzy's Fusion Cafe,BL9 0ND,53.5953,-2.2928
+Tompsons fish and chips,BL9 0ND,53.5953,-2.2928
 Tim Hortons,BL9 0NY,53.5938,-2.2954
 McDonalds The Rock. Bury,BL9 0PB,53.5941,-2.2948
 COFFEE CREATIONS,BL9 0QF,53.5932,-2.2943
@@ -238,7 +257,6 @@ THE RED HALL HOTEL ( BURY) LTD,BL9 5NA,53.6351,-2.3012
 Park Farm Tearooms,BL9 5NP,53.6416,-2.3030
 Summerseat Garden Centre Limited,BL9 5QD,53.6273,-2.3178
 AL BOSCO RISTORANTE,BL9 5QP,53.6310,-2.3209
-Games Hub Bury ,BL9 6AS,53.5965,-2.2864
 H's Diner,BL9 7AJ,53.5960,-2.2855
 Chunks steakbox (mcr) LTD,BL9 7BA,53.5931,-2.2859
 Shazia's Street Food Limited,BL9 7BA,53.5931,-2.2859
@@ -253,6 +271,7 @@ The Banyan Tree of Castlefield,M15 4JY,53.4710,-2.2641
 The crumb cake company,M16 0AY,53.4476,-2.2699
 Ashiana Takeaway,M16 0BN,53.4509,-2.2723
 Jerk Junction,M16 0DZ,53.4496,-2.2740
+BANDO BOXES,M16 0LH,53.4613,-2.2767
 1887 Sports Bar & Cafe,M16 0PE,53.4615,-2.2789
 Signature Steakhouse at Trafford Hall Hotel,M16 0PE,53.4615,-2.2789
 Club 3000 Bingo Old Trafford,M16 0QW,53.4624,-2.2766
@@ -260,6 +279,7 @@ KFC,M16 0SH,53.4507,-2.2793
 THE TOLLGATE ,M16 0TG,53.4619,-2.2762
 SPICES OF KASHMIR TRAFFORD LTD,M16 7GS,53.4584,-2.2676
 The Hungry Fish,M16 7GS,53.4584,-2.2676
+Emma’s cafe,M17 1JE,53.4660,-2.3102
 Haute Dolci,M17 8AA,53.4657,-2.3498
 Pesto at the Trafford Centre,M17 8AA,53.4657,-2.3498
 SPUDULIKE TRAFFORD CENTRE,M17 8AA,53.4657,-2.3498
@@ -284,6 +304,7 @@ Island Vibe,M21 0SD,53.4427,-2.2719
 North Star Deli Chorlton,M21 0SD,53.4427,-2.2719
 BREWSKI CHORLTON,M21 0UE,53.4422,-2.2737
 Amma’s Canteen ,M21 7GH,53.4302,-2.2671
+MAYURA FOODS LIMITED t/a SAI SPICE ,M21 7SP,53.4353,-2.2637
 Mayurafoods ltd t/a Sai spice ,M21 7SP,53.4353,-2.2637
 Olive & Thyme,M21 8AD,53.4417,-2.2761
 TUTKU CAFE,M21 8AD,53.4417,-2.2761
@@ -292,6 +313,7 @@ Jasmine Restaurant,M21 8AE,53.4415,-2.2767
 The Little Yeti,M21 8AG,53.4385,-2.2751
 coriander restautant 1 ltd,M21 8AG,53.4385,-2.2751
 Roti Food & Liquor,M21 8AN,53.4408,-2.2761
+FREDDYS CHICKEN AND PIZZA CHORLTON LTD,M21 8AU,53.4361,-2.2739
 KFC,M21 8AU,53.4361,-2.2739
 MCD Manchester LTD (McDonald's),M21 8AY,53.4368,-2.2728
 Globe Chorlton Ltd,M21 8AZ,53.4381,-2.2741
@@ -303,6 +325,7 @@ Subway Chorlton,M21 8ER,53.4347,-2.2736
 Yoga Cafe,M21 8HA,53.4320,-2.2687
 JJ's Desi Kitchen,M21 9AN,53.4424,-2.2805
 Jaipur Palace,M21 9AN,53.4424,-2.2805
+Saray restaurant ,M21 9AN,53.4424,-2.2805
 CROMA CHORLTON,M21 9AP,53.4428,-2.2802
 Chapati Cafe,M21 9AS,53.4427,-2.2789
 Cocoa Tree Ltd,M21 9AS,53.4427,-2.2789
@@ -328,6 +351,7 @@ The Coffee Sack,M25 0PD,53.5243,-2.2761
 babbo,M25 0PD,53.5243,-2.2761
 TAO'S,M25 0RP,53.5242,-2.2762
 folk Prestwich,M25 1AA,53.5311,-2.2839
+Remal Restaurant,M25 1AD,53.5332,-2.2858
 The Hideaway Coffee Bar Ltd,M25 1AD,53.5332,-2.2858
 Tito's Asian Grill,M25 1AF,53.5321,-2.2849
 Cuckoo,M25 1AW,53.5306,-2.2834
@@ -360,6 +384,7 @@ The Bridge Cafe,M26 2SX,53.5612,-2.3219
 McDonald's Store 671 Radcliffe,M26 3DA,53.5573,-2.3287
 Cuppaccino Bistro,M26 3PD,53.5670,-2.3373
 Shahbaaz curry cottage limited ,M26 3WL,53.5690,-2.3553
+Pranzo,M26 4NN,53.5712,-2.3441
 Alberts Bar and Restaurant ,M27 0AA,53.5052,-2.3465
 Subway,M27 0BE,53.5071,-2.3527
 Swinton - Costa Coffee,M27 4BD,53.5119,-2.3379
@@ -382,6 +407,7 @@ Buffalo Bar and Grill Limited,M28 1FB,53.5030,-2.4161
 Shahbaaz Indian Restaurant Limited,M28 1FB,53.5030,-2.4161
 Vesuvio Restaurant ,M28 1FB,53.5030,-2.4161
 Coal and Cotton,M28 1LR,53.5021,-2.4184
+TUNG FONG RESTAURANT,M28 2NL,53.5004,-2.3796
 The Delph Restaurant & Bar,M28 2NL,53.5004,-2.3796
 George's Dining Room and Bar,M28 2PD,53.4987,-2.3807
 Tempo,M28 2QT,53.5054,-2.3909
@@ -410,6 +436,7 @@ MRS. A'S KITCHEN LTD,M30 0DF,53.4847,-2.3351
 Mammazohra31 Ltd,M30 0LJ,53.4836,-2.3381
 Milton Manchester Hotel,M30 0NA,53.4843,-2.3391
 ECO FRESH LIMITED,M30 0QN,53.4815,-2.3570
+Balti brasserie ,M30 0WZ,53.4833,-2.3496
 Shop Sofia,M30 7BT,53.4776,-2.3668
 Gainz Manchester ,M30 7EY,53.4696,-2.3760
 Taste of east restaurant ,M30 7JA,53.4779,-2.3670
@@ -440,6 +467,7 @@ The Green Pepper,M33 5PN,53.4297,-2.3424
 The Orchard Cafe,M33 5PN,53.4297,-2.3424
 Mano a Bocca ,M33 7BS,53.4251,-2.3194
 VAO,M33 7BS,53.4251,-2.3194
+Jitrada Thai Restaurant,M33 7EB,53.4255,-2.3203
 Minikin Art Cafe,M33 7HF,53.4277,-2.3233
 The Perfect Match Bar & Restaurant,M33 7JN,53.4292,-2.3214
 The Bridge Pub & Dining,M33 7QH,53.4308,-2.3141
@@ -457,6 +485,7 @@ The Cheese Court,M41 0TS,53.4491,-2.3529
 Mulino ,M41 0TY,53.4496,-2.3521
 Astoria Bar and Restaurant ,M41 5AA,53.4486,-2.3546
 subway,M41 5AA,53.4486,-2.3546
+Deccan Manchester ltd,M41 5AB,53.4485,-2.3566
 ADRAK RESTAURANT ,M41 5AD,53.4484,-2.3582
 The Meadows Coffee Shop,M41 6HT,53.4421,-2.3849
 Brewchimp Flixton,M41 6QT,53.4445,-2.3844
@@ -504,6 +533,7 @@ Jigsaw Sandwich Bar & Coffee Shop,M46 0DF,53.5236,-2.4969
 Curiosity gin emporium,M46 0DP,53.5236,-2.4944
 BEFRESH LIMITED,M46 0DR,53.5241,-2.4914
 Curry Atherton limited T/a Tamarind Table,M46 0DR,53.5241,-2.4914
+RANI MA LTD,M46 0DT,53.5247,-2.4907
 The Lamp,M46 0DW,53.5238,-2.4911
 The royal ,M46 0LW,53.5251,-2.5038
 The Gardeners,M46 0PG,53.5171,-2.5098
@@ -583,7 +613,6 @@ Partridge Lakes Cafe,WA3 4AQ,53.4476,-2.5327
 Leigh Golf Club Limited,WA3 4BG,53.4579,-2.5354
 The Raj (WA3) ltd,WA3 4EG,53.4526,-2.5192
 Sundial Terrace Coffee House,WA3 4EH,53.4524,-2.5209
-Cafe Piccino ,WA3 4EJ,53.4525,-2.5212
 Mcdees,WA3 4ER,53.4537,-2.5213
 Quench Cafe Ltd,WA3 4ER,53.4537,-2.5213
 Culcheth Massala ,WA3 5DL,53.4515,-2.5169
@@ -623,6 +652,7 @@ New Day Bakery,WN1 1QH,53.5480,-2.6310
 New Day Cafe,WN1 1QH,53.5480,-2.6310
 Cafe Santos Ltd,WN1 1QP,53.5486,-2.6312
 Cassinellis Cafe,WN1 1QP,53.5486,-2.6312
+The Tudor House Hotel Ltd,WN1 1SE,53.5482,-2.6344
 Bap,WN1 1UE,53.5475,-2.6310
 McDonalds ,WN1 1UP,53.5485,-2.6297
 The Chinese Buffet,WN1 1UP,53.5485,-2.6297
@@ -648,6 +678,7 @@ KFC - WIGAN,WN2 2AT,53.5433,-2.6060
 Charlie's coffee factory,WN2 3AN,53.5362,-2.5775
 Summat To Ate,WN2 3AN,53.5362,-2.5775
 Alisons restaurant ,WN2 3AS,53.5360,-2.5780
+mahabharat restaurant,WN2 3AY,53.5345,-2.5802
 Gore's Sweet Shop Cafe,WN2 3EE,53.5319,-2.5761
 PNBD RESTAURANT LTD,WN2 3PR,53.5307,-2.5710
 McDonalds,WN2 5BD,53.5218,-2.5962
@@ -660,6 +691,7 @@ Postcode Coffee House,WN3 5AB,53.5411,-2.6417
 Foodie Cafe & Resto,WN3 5BD,53.5396,-2.6403
 McDonalds ,WN3 6XA,53.5202,-2.6529
 Velocity Leisure Ltd Wigan,WN3 6XU,53.5176,-2.6545
+Workin Lunch Ltd (Rustic Kitchen),WN4 0AR,53.5009,-2.6474
 Park Hotel,WN4 0BY,53.5094,-2.6506
 Blend n shake,WN4 9AE,53.4867,-2.6379
 The Bistro,WN4 9AE,53.4867,-2.6379
@@ -687,6 +719,7 @@ Secret garden coffee lounge,WN6 0JH,53.5877,-2.6657
 Alberts Bar and Restaurant ,WN6 0TD,53.5858,-2.6662
 THE OWLS AT STANDISH,WN6 0XD,53.5890,-2.6464
 The Raj ,WN6 7LW,53.5511,-2.6483
+Aster,WN6 7NQ,53.5534,-2.6568
 The Coal Room Ltd,WN7 1DR,53.4970,-2.5186
 The Bowling Green ,WN7 2LD,53.4942,-2.4955
 Leigh Cricket Tennis & Bowling Club,WN7 3LH,53.4850,-2.5227

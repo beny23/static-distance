@@ -5,6 +5,7 @@ The Daily Deli ,B62 9AA,52.4623,-2.0266
 BALTI TOWERS,B62 9DJ,52.4700,-2.0326
 Spice Fusion,B62 9DJ,52.4700,-2.0326
 FAIRFIELD INN,B62 9JA,52.4731,-2.0254
+Jaspers pizza ,B62 9LA,52.4696,-2.0330
 The Why Not Inn,B63 2JH,52.4542,-2.0906
 McDonald’s Lye,B63 2RG,52.4580,-2.0944
 ThinkFresh!,B63 3BG,52.4501,-2.0502
@@ -47,6 +48,7 @@ Subway,B68 0BZ,52.4635,-1.9969
 Saphari,B68 8LJ,52.4846,-2.0147
 The Phoenix Grill Ltd,B69 1DY,52.4943,-2.0339
 The pheonix bar & grill,B69 1DY,52.4943,-2.0339
+Bacaba cocktail bar and dinning ,B69 1QP,52.5068,-2.0406
 big singhs pizza,B69 1QS,52.5051,-2.0449
 FLIP OUT SANDWELL,B69 2AP,52.4991,-2.0174
 m s bar and grill ,B69 2AS,52.4978,-2.0199
@@ -62,12 +64,16 @@ McDonald's,B69 4RJ,52.4908,-2.0213
 Ramada Birmingham Oldbury,B69 4RJ,52.4908,-2.0213
 Crosswells Inn,B69 4SB,52.4918,-2.0112
 The Little Oven Limited,B69 4SN,52.4912,-2.0128
+Boulder Central,B70 0DG,52.5301,-2.0254
 King Arthur Grill,B70 0HG,52.5225,-2.0272
 midland leisure ltd trading as the new hen and chickens,B70 0RT,52.5378,-2.0118
 the Dovecote pub & carvery,B70 0SD,52.5406,-2.0131
+Old Bush Inn Ltd,B70 6AS,52.5107,-1.9925
+The Red Apple Grill Ltd,B70 6AS,52.5107,-1.9925
 NEW ISLAND INN LTD,B70 6BB,52.5090,-1.9907
 Sarbys Diner,B70 6BW,52.5069,-1.9910
 The cricketers arms limited,B70 6EA,52.5081,-1.9895
+Ye Olde Wine Shoppe,B70 6NZ,52.5151,-1.9877
 Windsor Castle Public House,B70 7ED,52.5123,-1.9928
 The Prince Albert,B70 7EG,52.5127,-1.9968
 The Railway Inn,B70 7JB,52.5094,-2.0117
@@ -84,6 +90,7 @@ THE LITTLE DESERT SHOP WEST BROMWICH,B70 7QZ,52.5178,-1.9921
 German Doner Kebab,B70 8EN,52.5196,-1.9964
 Subway West Bromwich,B70 8NS,52.5202,-1.9957
 Vujon Classical Indian Cuisine,B70 8NS,52.5202,-1.9957
+Malabar (Penn) Ltd,B70 8NT,52.5207,-2.0000
 The Soho Oak,B70 8PR,52.5190,-2.0061
 The Yew Tree Bar and Restaurant ,B70 8QX,52.5159,-2.0118
 Jolly Sailor,B70 9EF,52.5200,-2.0246
@@ -119,6 +126,7 @@ The Woodman,DY2 0BP,52.4802,-2.0863
 Railway Tavern,DY2 0ST,52.4958,-2.1046
 Joseph Dubliners,DY2 7AE,52.5107,-2.0804
 Birdcage Grill (Fish and Chips),DY2 7AG,52.5104,-2.0800
+Cottage Bakers Coffee ,DY2 7AG,52.5104,-2.0800
 Costa Coffee,DY2 7BL,52.5104,-2.0811
 D-cube Restobar (Restaurant & Bar),DY2 8NY,52.5092,-2.0823
 The Spring Cottage,DY2 9NA,52.4798,-2.0747
@@ -161,6 +169,7 @@ Little Dessert Shop Ltd,DY5 1QX,52.4821,-2.1105
 SOHO Coffee Shops Limited Merry Hill 2,DY5 1QX,52.4821,-2.1105
 Tasty plaice ,DY5 1QX,52.4821,-2.1105
 Yangtze Merry Hill,DY5 1QX,52.4821,-2.1105
+CAFFE DEL MONDO,DY5 1RU,52.4817,-2.1177
 Blue Ball Restaurant ,DY5 1SE,52.4730,-2.1087
 McDonald’s Merry Hill 4,DY5 1SH,52.4798,-2.1097
 Harper's British Classics,DY5 1SJ,52.4809,-2.1108
@@ -183,6 +192,7 @@ The Waggon & Horses,DY5 2AH,52.4690,-2.0973
 Manis Bar & Grill LTD trading as The White Horse,DY5 2BA,52.4701,-2.1014
 Saucy sausage cafe,DY5 2JW,52.4729,-2.1055
  The Koyla Kitchen,DY5 2JY,52.4657,-2.1155
+The Vine inn,DY5 2TN,52.4746,-2.1159
 The Tenth Lock,DY5 2TY,52.4754,-2.1215
 ESSENCE OF INDIA,DY5 3BP,52.4834,-2.1209
 The Brierley Sausage,DY5 3BU,52.4829,-2.1216
@@ -199,6 +209,7 @@ the new wall heath tandoori,DY6 0HA,52.5046,-2.1781
 Alam International Restaurant Limited,DY6 0NP,52.5058,-2.1787
 KFC,DY6 7AP,52.5044,-2.1664
 Alexander Greek Restaurant,DY6 8AA,52.4973,-2.1677
+Cross Balti Limited,DY6 8AA,52.4973,-2.1677
 the bell inn,DY6 8AJ,52.4979,-2.1646
 McDonald’s Kingswinford,DY6 8WT,52.5002,-2.1517
 Delightful Desserts,DY6 9EL,52.5000,-2.1735
@@ -225,6 +236,7 @@ The Talbot Hotel,DY8 1DW,52.4571,-2.1469
 Surantha patisserie,DY8 1ED,52.4553,-2.1437
 Cafe 105,DY8 1EE,52.4554,-2.1446
 Cock N Bull.Co,DY8 1EE,52.4554,-2.1446
+Ronnie's Real Wood-Fired Pizza Ltd.,DY8 1EE,52.4554,-2.1446
 Delightful Desserts,DY8 1EL,52.4557,-2.1437
 THE DUKE WILLIAM,DY8 1EP,52.4576,-2.1466
 COSTA COFFEE,DY8 1HJ,52.4559,-2.1463
@@ -236,6 +248,7 @@ BOMBAY PICKLES LTD,DY8 1TA,52.4582,-2.1477
 Cellars Indian Cuisine ltd,DY8 1TT,52.4586,-2.1487
 East One Curry House Limited,DY8 3NX,52.4601,-2.1644
 The Plough Inn,DY8 3PD,52.4597,-2.1700
+the kitchen at the foresters arms,DY8 3PL,52.4607,-2.1738
 Indus Express,DY8 3QG,52.4604,-2.1619
 Indiluxe,DY8 4AJ,52.4710,-2.1553
 Red Cone Coffee House,DY8 4AZ,52.4762,-2.1572
@@ -243,18 +256,23 @@ Khatri's ,DY8 4BA,52.4712,-2.1530
 Moons Cafe,DY8 4BS,52.4707,-2.1533
 Ruby Cantonese Restaurant,DY8 4HE,52.4674,-2.1537
 The Old Wharf Inn,DY8 4LY,52.4610,-2.1490
+Red chilli ,DY8 4NH,52.4612,-2.1624
 The Red Forte Indian Restaurant ,DY8 4NJ,52.4619,-2.1623
+DBR wordsley ltd,DY8 5PG,52.4809,-2.1625
 LITTLE TASTE OF HEAVEN ,DY8 5PG,52.4809,-2.1625
 Crystal Balti,DY8 5SE,52.4786,-2.1610
+Rainbow Palace,DY9 7BU,52.4575,-2.1244
 Sadlers Tap House Limited,DY9 7DG,52.4578,-2.1192
 Balti Bazaar,DY9 8DJ,52.4570,-2.1182
 Subway,DY9 8DU,52.4619,-2.1170
 TIFFINS RESTAURANT LTD,DY9 8EA,52.4618,-2.1176
+The Cafe,DY9 8EE,52.4612,-2.1174
 Maliks Restaurant Lye Ltd,DY9 8ET,52.4596,-2.1170
 D'luxe Desserts,DY9 8JT,52.4583,-2.1167
 Nans Cafe Bar,TF11 8AF,52.6663,-2.3740
 Cafe L’Marnie,TF11 8AU,52.6672,-2.3726
 Arty Catering,TF11 8AZ,52.6689,-2.3727
+SHIFNAL BALTI,TF11 8AZ,52.6689,-2.3727
 East end balti,TF11 8BN,52.6669,-2.3731
 Haughton Hall Limited,TF11 8HG,52.6707,-2.3786
 The Bell Shifnal,TF11 9AA,52.6650,-2.3740
@@ -274,6 +292,7 @@ D's Soulfood Kitchen,WS10 0ED,52.5510,-1.9953
 Le bakery ,WS10 0ED,52.5510,-1.9953
 The Village Inn,WS10 0QB,52.5541,-2.0063
 PARKHILL CAFE,WS10 0TJ,52.5578,-1.9963
+Kesar,WS10 7AL,52.5510,-2.0191
 island cafe and takeaway ltd,WS10 7AQ,52.5518,-2.0189
 seven Bar,WS10 7AQ,52.5518,-2.0189
 The Vintage Tea Room and Cafe,WS10 7HB,52.5527,-2.0214
@@ -291,7 +310,7 @@ Smashburger,WS10 9QY,52.5668,-2.0078
 OK Diner Cannock,WS11 0BN,52.6736,-2.0274
 Hungry Pigs Cafe,WS2 0DU,52.5853,-2.0245
 BB's Coffee Shop c/o Boundary Mill Stores,WS2 0LE,52.5817,-2.0179
-TJX Europe,WS2 7PT,52.6003,-1.9947
+TNS Catering_TJX Europe,WS2 7PT,52.6003,-1.9947
 Subway,WS2 8DH,52.5859,-1.9896
 parkbrook bar and grill ltd,WS2 8RJ,52.5875,-2.0069
 The Alma Inn ,WS2 8SP,52.5913,-2.0035
@@ -303,6 +322,7 @@ PREMIER DINER,WS2 9NT,52.5815,-1.9912
 Herolicious ,WS2 9QJ,52.5732,-1.9986
 olive Restaurant and Sweet,WS2 9QL,52.5735,-1.9964
 MAC'S DINER LTD,WS2 9QN,52.5735,-1.9972
+Yaadgaar,WS2 9QN,52.5735,-1.9972
 Zeera Authentic Eastern cuisine ,WS3 2HR,52.6161,-2.0055
 The Gulshan balti,WS3 2JE,52.6169,-2.0051
 Penguin cafe,WS3 2XA,52.6048,-1.9920
@@ -318,6 +338,7 @@ Olde Wyrley hall,WS6 6LL,52.6650,-2.0205
 Jessicas Catering and Vending Solutions Ltd,WS6 6NQ,52.6642,-2.0121
 the star inn,WS6 6NQ,52.6642,-2.0121
 The Royal Oak,WS6 6PE,52.6664,-2.0123
+Hawa Restaurant ,WS6 7AD,52.6600,-2.0342
 colliers arms,WS6 7AE,52.6601,-2.0371
 the malt at landywood,WS6 7AR,52.6499,-2.0246
 THE MARY ROSE,WS6 7AY,52.6561,-2.0349
@@ -349,6 +370,7 @@ Little Dessert Shop Ltd,WV1 3JW,52.5858,-2.1245
 The Queens,WV1 3JW,52.5858,-2.1245
 Central Cafe,WV1 3NN,52.5845,-2.1281
 Lindy Lou's coffee shop ltd,WV1 3NP,52.5847,-2.1292
+The Subcontinent,WV1 3NP,52.5847,-2.1292
 Nutmeg,WV1 3NU,52.5845,-2.1289
 Delhi 2 Bombay,WV1 4EP,52.5858,-2.1398
 Rosso E Nero Restaurant,WV1 4HW,52.5854,-2.1311
@@ -372,6 +394,7 @@ Three Hammers Bar & Bistro,WV10 7PP,52.6507,-2.1268
 K-Tea's Tearoom & Cakes,WV10 8EB,52.6224,-2.1151
 McDonald’s Fallings Park,WV10 8PN,52.6117,-2.1006
 SUBWAY,WV10 8PN,52.6117,-2.1006
+Our Rasoi,WV10 9DX,52.5986,-2.1139
 Mcbellas,WV10 9EZ,52.6190,-2.1239
 THE DINER LTD,WV10 9QY,52.6049,-2.1060
 Hungry hemmings cafe ,WV10 9UL,52.6167,-2.1174
@@ -477,6 +500,7 @@ Woodman restaurant limited,WV5 7DG,52.5488,-2.2823
 The Bell Inn ,WV5 7JB,52.5460,-2.2173
 ROUND OAK INN,WV5 8BU,52.5358,-2.2010
 Wombourne Tandoori Restaurant,WV5 9DN,52.5346,-2.1839
+Courtyard Wombourne,WV5 9DP,52.5350,-2.1833
 Fresh Coffee Shop,WV5 9EJ,52.5372,-2.1858
 The new inn,WV5 9EY,52.5375,-2.1879
 Farmer & Friends,WV5 9JB,52.5353,-2.1856
@@ -492,6 +516,7 @@ Farmer & Friends,WV6 7EZ,52.5666,-2.2447
 Perton Golf Club,WV6 7HL,52.5900,-2.2172
 The Dartmouth Arms,WV6 7HU,52.6032,-2.3143
 The Red Cow (Ackleton) Ltd,WV6 7JH,52.5874,-2.3370
+Flamingo Pink,WV6 7QH,52.5948,-2.2030
 Fiume Restaurant LTD,WV6 8AB,52.5867,-2.1741
 Fieldhouse Inn,WV6 8DP,52.5879,-2.1916
 vanilla,WV6 8EJ,52.5906,-2.1820
@@ -514,6 +539,7 @@ Osiria,WV7 3JX,52.6354,-2.2802
 Shrewsbury Arms,WV7 3LA,52.6361,-2.2824
 Medicine Bakery & Kitchen,WV8 1BX,52.6299,-2.2016
 Codsall Crown,WV8 1DB,52.6305,-2.2015
+Codsall Legionaires Club Ltd,WV8 1DB,52.6305,-2.2015
 Jungle Boogie Ltd,WV8 1EA,52.6315,-2.1999
 The Codsall Hive,WV8 1EA,52.6315,-2.1999
 Snakabyte,WV8 1EU,52.6286,-2.1798

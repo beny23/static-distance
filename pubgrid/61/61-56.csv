@@ -1,13 +1,16 @@
 name,postcode,lat,lon
 The Georgian Tearooms,DN1 1BB,53.5233,-1.1349
+Subway,DN1 1DE,53.5228,-1.1335
 Mercure Doncaster Danum Hotel,DN1 1DN,53.5226,-1.1330
 KFC,DN1 1DW,53.5231,-1.1330
 The grind,DN1 1DW,53.5231,-1.1330
 ZEST BAR AND GRILL,DN1 1DW,53.5231,-1.1330
 Bowers Coffee Shop,DN1 1HF,53.5235,-1.1323
 CHINESE CATERING LIMITED,DN1 1HT,53.5241,-1.1311
+lalezar,DN1 1JD,53.5236,-1.1297
 Legends desserts & burger,DN1 1JE,53.5232,-1.1292
 The Georgian Patisserie,DN1 1LA,53.5231,-1.1381
+Subway,DN1 1LB,53.5231,-1.1393
 Debenhams Restaurant Doncaster,DN1 1LH,53.5245,-1.1387
 C & P ROTHWELL LTD,DN1 1LQ,53.5250,-1.1333
 D & L Rothwell Ltd,DN1 1LQ,53.5250,-1.1333
@@ -40,10 +43,12 @@ Movida Bar & Restaurant ,DN1 1TS,53.5225,-1.1345
 Fish Bits,DN1 2BY,53.5160,-1.1281
 Salutation Doncaster Ltd ,DN1 2DR,53.5214,-1.1272
 The Regent Hotel LTD,DN1 2DS,53.5222,-1.1259
+Doncaster Tandoori ,DN1 2PE,53.5260,-1.1302
 El Boca Doncaster Ltd,DN1 2PH,53.5251,-1.1305
 La Rustica Doncaster Ltd,DN1 2PH,53.5251,-1.1305
 zammuto steak and grill house,DN1 2PH,53.5251,-1.1305
 EL TORERO DONCASTER LIMITED,DN1 2PW,53.5251,-1.1296
+KOZ TURKISH BARBECUE AND MEZZE BAR,DN1 2PW,53.5251,-1.1296
 Sarahs desserts snack bar ,DN1 2QP,53.5268,-1.1283
 SPICE AND ICE,DN1 2SD,53.5303,-1.1270
 The Leopard,DN1 3AA,53.5208,-1.1378
@@ -55,6 +60,7 @@ Java Cafe,DN1 3JU,53.5206,-1.1325
 Bake battle and roll ,DN1 3LW,53.5219,-1.1326
 Cactus Jacks,DN1 3NA,53.5225,-1.1301
 Poppadoms and Cream,DN1 3NL,53.5223,-1.1286
+poppadomsandcream,DN1 3NL,53.5223,-1.1286
 The bayhorse inn,DN14 0BQ,53.6823,-1.1098
 The Kings Head Pollington,DN14 0DN,53.6679,-1.0645
 Whitley bridge truck stop ,DN14 0HH,53.6989,-1.1602
@@ -135,6 +141,7 @@ The Old Hayloft Tearoom,DN6 0HH,53.6216,-1.1011
 Lakeside Cafe,DN6 0HZ,53.6155,-1.1489
 the happy cat cafe,DN6 0LE,53.6162,-1.1447
 McDonald's Restaurant,DN6 7FB,53.5744,-1.2104
+5 Flavours Cafe ,DN6 7HP,53.5631,-1.1946
 Aagrah Doncaster,DN6 7RA,53.5591,-1.1911
 Cafe Express,DN6 8DB,53.5810,-1.1777
 Jaffa and Cakes,DN6 8DL,53.5823,-1.1786
@@ -157,6 +164,7 @@ SUBWAY - BARNSLEY TRADE PARK,S70 3PB,53.5390,-1.4306
 Audreys coffee house ,S71 5EZ,53.5420,-1.4041
 Poppy's of Cudworth LTD,S72 8JN,53.5776,-1.4166
 Two Gates Fisheries,S72 8PZ,53.5897,-1.4070
+PRISSANA THAI RESTAURANT,S72 8QP,53.5894,-1.4058
 Burntwood Sports Ltd,S72 9ET,53.5916,-1.3640
 Squires Bar,S73 0DA,53.5218,-1.3978
 The Kitchen Witch Company,S73 0DA,53.5218,-1.3978
@@ -215,8 +223,10 @@ Mauds Cafe Bar,WF8 1AQ,53.6910,-1.3106
 Flavours Coffee Shops Ltd,WF8 1BA,53.6920,-1.3112
 KFC,WF8 1BJ,53.6920,-1.3139
 Coffee At The Court,WF8 1BP,53.6920,-1.3150
+AL JAMIL BALTI RESTAURANT ,WF8 1DA,53.6918,-1.3147
 KAYASAN YORKSHIRE LIMITED ,WF8 1HE,53.6927,-1.3102
 MAMMA MIA,WF8 1HJ,53.6945,-1.3080
+monkhill sandwiches ltd,WF8 1JD,53.7004,-1.3032
 Myxology Ltd ,WF8 1LG,53.6902,-1.3126
 Alleyc'zam cafe and bar,WF8 1LN,53.6898,-1.3125
 WF8 1LN,WF8 1LN,53.6898,-1.3125

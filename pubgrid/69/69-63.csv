@@ -1,6 +1,8 @@
 name,postcode,lat,lon
 LEZZET Mediterranean Bistro ,YO11 1BA,54.2821,-0.4020
+The Seafood Social,YO11 1BA,54.2821,-0.4020
 Florios Restaurant ,YO11 1BD,54.2831,-0.4034
+Pickering's Fish and chips,YO11 1BD,54.2831,-0.4034
 SABA THAI and CURRYLOUNGE,YO11 1DR,54.2832,-0.3997
 scarborough tandoori,YO11 1DR,54.2832,-0.3997
 Cowshed Burgers,YO11 1DU,54.2847,-0.4010
@@ -49,6 +51,7 @@ Mister Milos Limited,YO11 1UH,54.2818,-0.4014
 Mother Hubbards,YO11 1UN,54.2806,-0.4042
 INDIAN LOUNGE SCARBOROUGH,YO11 1XE,54.2850,-0.4027
 Roasters,YO11 1XP,54.2820,-0.4025
+HIGHLANDER HOTEL,YO11 2AF,54.2765,-0.3997
 Crown Spa Hotel,YO11 2AG,54.2768,-0.3996
 El Gringos,YO11 2AQ,54.2751,-0.3990
 The Cordelia,YO11 2AT,54.2718,-0.4012
@@ -76,6 +79,7 @@ George Michaels,YO11 2NP,54.2802,-0.4029
 Seven Coffee Shop & Eatery,YO11 2NP,54.2802,-0.4029
 The Crescent Hotel,YO11 2PP,54.2801,-0.4018
 Restaurant 28  The Chapel House  Hotel,YO11 2QF,54.2746,-0.4021
+Redcliffe Farm Shop ,YO11 3NT,54.2348,-0.3482
 Poachers Barn ,YO11 3QH,54.2462,-0.3819
 The Farrier,YO11 3RP,54.2342,-0.3811
 Stained Glass Centre Ltd,YO11 3TP,54.2277,-0.3658
@@ -132,7 +136,6 @@ Charlottes of Filey,YO14 9HY,54.2083,-0.2877
 The Lighthouse Tea Room,YO14 9HY,54.2083,-0.2877
 Honeypot Inn ,YO14 9TA,54.1545,-0.2552
 The North Star Hotel,YO15 1BL,54.1268,-0.1076
-Danes Dyke Inn & Restaurant,YO15 1DW,54.1057,-0.1511
 Martonian Inn,YO15 1DX,54.1122,-0.1717
 The Old Forge,YO15 1EQ,54.1016,-0.1659
 The Ship Inn Sewerby,YO15 1EW,54.1011,-0.1658

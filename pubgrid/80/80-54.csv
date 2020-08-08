@@ -51,6 +51,7 @@ Malmaison Newcastle,NE1 3DX,54.9710,-1.5993
 Babucho,NE1 3JA,54.9695,-1.6088
 PRIMA NOVA LTD,NE1 3JA,54.9695,-1.6088
 Prima Restaurant,NE1 3JA,54.9695,-1.6088
+Bangrak Thai,NE1 3JE,54.9692,-1.6084
 ROUTE,NE1 3JE,54.9692,-1.6084
 Simla Restaurant,NE1 3JE,54.9692,-1.6084
 Rasika Indian Restaurant,NE1 3JF,54.9688,-1.6082
@@ -203,6 +204,7 @@ Mark Toney,NE1 7RW,54.9764,-1.6158
 subway,NE1 7RW,54.9764,-1.6158
 The Hotspur,NE1 7RY,54.9772,-1.6151
 Totally Delicious Laing Art Gallery,NE1 8AG,54.9749,-1.6093
+Journey Cafe,NE1 8AN,54.9749,-1.6088
 Cafe at Newcastle City Library,NE1 8AX,54.9749,-1.6104
 Coffee Trader,NE1 8ED,54.9749,-1.6114
 City Tavern,NE1 8JF,54.9769,-1.6118
@@ -343,6 +345,7 @@ NVS Northumbria Specialist Emergency Care Hospital,NE23 6NZ,55.0741,-1.5695
 Northumbria Specialist Emergency Care Hospital,NE23 6NZ,55.0741,-1.5695
 Panuccis Restaurant ,NE23 6QL,55.0861,-1.5849
 BETTINI'S ICE CREAM LTD,NE23 6QW,55.0852,-1.5878
+Bay Leaf Indian Cuisine,NE23 6RF,55.0794,-1.5697
 Moti Jheel Restaurant,NE23 6RF,55.0794,-1.5697
 Kitchen Cafes,NE23 6UT,55.0854,-1.5903
 Muffin Break,NE23 6UT,55.0854,-1.5903
@@ -363,6 +366,7 @@ Cafe central,NE24 1LP,55.1275,-1.5094
 Once upon a tier ,NE24 1LP,55.1275,-1.5094
 Batty Dimples,NE24 1LQ,55.1278,-1.5104
 cafe one,NE24 1QP,55.1434,-1.5200
+Frameworks Art Cafe,NE24 2BP,55.1273,-1.5060
 Commissioner's Quay Inn,NE24 3AF,55.1268,-1.5007
 Caboose,NE24 3PA,55.1193,-1.4932
 SOUTHBEACH PUB,NE24 3RJ,55.1105,-1.5104
@@ -419,6 +423,7 @@ SAMBUCA BRAISE STATION LTD,NE27 0EP,55.0281,-1.5135
 ROBIN HOOD INN,NE27 0LR,55.0305,-1.4880
 Howdelicious,NE28 0PP,55.0012,-1.4976
 Tots Tea Rooms,NE28 6QY,54.9914,-1.5309
+Sambuca Restaurant,NE28 6ST,54.9907,-1.4821
 kl ne ltd,NE28 7RH,54.9916,-1.5296
 KFC,NE28 8HX,54.9906,-1.5352
 Costa Coffee - Wallsend,NE28 8JA,54.9909,-1.5356
@@ -440,8 +445,10 @@ J & J (NE) LTD,NE29 8NB,55.0148,-1.4722
 NVS North Tyneside General Hospital,NE29 8NH,55.0252,-1.4673
 North Tyneside General Hospital,NE29 8NH,55.0252,-1.4673
 The Spread Eagle,NE29 9LB,55.0200,-1.4516
+Deli espresso,NE3 1DH,55.0069,-1.6218
 Gosforth Palace Limited,NE3 1DJ,55.0072,-1.6220
 SanLorenzo,NE3 1HA,55.0044,-1.6206
+Adriano’s Restaurant & Deli,NE3 1HB,55.0044,-1.6199
 Ahad Tandoori Restaurant ,NE3 1HB,55.0044,-1.6199
 Barca Art Bar,NE3 1HD,55.0064,-1.6195
 Queen Victoria ,NE3 1HD,55.0064,-1.6195
@@ -477,7 +484,6 @@ Parklands Golf Course,NE3 5HQ,55.0339,-1.6224
 Parklands Mini Golf,NE3 5HQ,55.0339,-1.6224
 Lobo Rojo,NE30 1HB,55.0103,-1.4349
 Allard's on the Quay,NE30 1HJ,55.0093,-1.4357
-sambuca cafe ltd,NE30 1HJ,55.0093,-1.4357
 The Staith House,NE30 1JA,55.0096,-1.4341
 How do you do North Shields ,NE30 1JS,55.0100,-1.4352
 Low Lights Tavern,NE30 1LL,55.0110,-1.4350
@@ -501,6 +507,7 @@ robinson crusoes,NE30 4HH,55.0221,-1.4227
 the view tynemouth,NE30 4JA,55.0304,-1.4304
 Tynemouth Aquarium - Bay and Laurel,NE30 4JF,55.0277,-1.4304
 The Greenhouse,NE30 4JL,55.0255,-1.4299
+Dibbley’s ,NE30 4LP,55.0196,-1.4257
 Priory Coffee Shop,NE30 4LT,55.0188,-1.4251
 The Boatyard,NE30 4PL,55.0351,-1.4339
 cullercoats coffee,NE30 4PL,55.0351,-1.4339
@@ -516,6 +523,7 @@ Mariellie’s ,NE32 3JY,54.9812,-1.4898
 Tino’s Italian restaurant ,NE32 4LZ,54.9550,-1.4778
 The Lord Nelson,NE32 5NN,54.9666,-1.5013
 Cafe 42 Ltd,NE33 1BN,54.9973,-1.4369
+The smithy cafe ,NE33 1BT,54.9982,-1.4332
 McDonald's,NE33 1DA,54.9984,-1.4334
 Dame Bellas Green Room,NE33 1ES,54.9950,-1.4409
 Ristorante Bravi,NE33 1HD,54.9987,-1.4353
@@ -536,6 +544,7 @@ Italian Spanish,NE33 2JF,54.9997,-1.4270
 TANDOORI INTERNATIONAL,NE33 2JL,55.0005,-1.4253
 The Clifton Coffeeshop,NE33 2JL,55.0005,-1.4253
 Colmans Of South Shields,NE33 2JQ,55.0002,-1.4249
+ELTIO LATIN RESTAURANT,NE33 2JQ,55.0002,-1.4249
 Kuzey,NE33 2JQ,55.0002,-1.4249
 Shapla (South Shields) Ltd,NE33 2JQ,55.0002,-1.4249
 Spice garden ocean road ltd ,NE33 2JQ,55.0002,-1.4249
@@ -558,17 +567,20 @@ Tuscanos italian restaurant ,NE33 2PS,54.9966,-1.4295
 Fit Belli Deli,NE33 3PE,54.9943,-1.4189
 Mac N Alli,NE33 3PE,54.9943,-1.4189
 LASUN INDIAN CUISINE LTD,NE33 4DZ,54.9867,-1.4250
+Greek street food ,NE33 4EA,54.9860,-1.4249
 KFC,NE33 4HN,54.9899,-1.4294
 SOUTHSHIELDS INDIAN LIMITED,NE33 4SS,54.9775,-1.4343
 Aneesas Buffet Restaurant,NE33 5DU,54.9877,-1.4368
 Man Vs food Grill House,NE34 0AD,54.9780,-1.4448
 The Grey Hen,NE34 0EN,54.9751,-1.4216
 Cafe At The Corner,NE34 6AD,54.9775,-1.4131
+Spice One,NE34 6QZ,54.9722,-1.4119
 Caffé Mio,NE34 6RB,54.9722,-1.4102
 The Grotto,NE34 7BS,54.9770,-1.3776
 Marsden Inn,NE34 7HN,54.9788,-1.3868
 RAZZ LOUNGE LTD,NE34 8AQ,54.9640,-1.4137
 McDonald's ,NE34 9QD,54.9707,-1.4627
+Greek street food ,NE35 9HS,54.9537,-1.4652
 McDonald's ,NE35 9PB,54.9468,-1.4663
 Clarion Hotel Boldon,NE35 9PE,54.9437,-1.4708
 Beggar's Bridge pub and kitchen,NE36 0AB,54.9475,-1.4209
@@ -580,6 +592,7 @@ red lion inn,NE36 0PZ,54.9423,-1.4542
 The Black Horse,NE36 0QQ,54.9435,-1.4549
 Sambuca Boldon,NE36 0QR,54.9430,-1.4538
 Dibra Mediterranean Restaurant ,NE4 5AH,54.9793,-1.6391
+2575722472,NE4 5JT,54.9758,-1.6375
 Kamal Restaurant,NE4 5JU,54.9755,-1.6397
 AFGHAN GRILL HOUSE,NE4 5LH,54.9767,-1.6374
 Fujiyama Japanese Restaurant,NE4 5SP,54.9713,-1.6214
@@ -592,6 +605,7 @@ SHAWARMA FATTOUSH LTD,NE4 6PB,54.9733,-1.6395
 The Mealcastle,NE4 6QB,54.9733,-1.6404
 MOSOB RESTAURANT,NE4 7JB,54.9671,-1.6224
 Courtyard by Marriott Glasgow Airport Hotel,NE4 7LB,54.9685,-1.6318
+Triple 5 cafe,NE4 8BB,54.9703,-1.6589
 The Oven Door,NE4 9AX,54.9806,-1.6481
 Kilimanjaro Newcastle,NE4 9BL,54.9753,-1.6502
 Chaiiwala ,NE4 9PR,54.9749,-1.6504
@@ -609,6 +623,7 @@ KFC,NE5 3AJ,54.9898,-1.6531
 Oliandjoes Italian Resturant ,NE5 5HB,54.9992,-1.6931
 The Cycle Hub,NE6 1BU,54.9657,-1.5788
 Singin Hinny Cafe,NE6 1DQ,54.9779,-1.5767
+The Bake,NE6 1LA,54.9751,-1.5870
 KFC,NE6 1LL,54.9721,-1.5871
 Kiln,NE6 1LN,54.9732,-1.5895
 Brinkburn St Bar & Kitchen,NE6 1NW,54.9719,-1.5873
@@ -625,6 +640,7 @@ Boquerones Tapas and Cocktails ,NE6 5HP,54.9840,-1.5817
 Butterfly Cabinet,NE6 5HP,54.9840,-1.5817
 Khans,NE6 5HP,54.9840,-1.5817
 The Naked Deli,NE6 5LJ,54.9871,-1.5775
+L'ULIVO,NE6 5LL,54.9880,-1.5778
 Restaurant Bianco Nero ,NE6 5LL,54.9880,-1.5778
 206 Sushi & Sliders,NE6 5LN,54.9861,-1.5766
 Brew & Bite ,NE6 5LP,54.9871,-1.5769
@@ -632,6 +648,7 @@ The Northumberland Hussar,NE6 5SY,54.9905,-1.5769
 The Naked Foodie Ltd,NE6 5XA,54.9937,-1.5657
 cafe spice,NE6 5XL,54.9835,-1.5760
 The Whitehouse Centre Ltd,NE61 6AW,55.1307,-1.7022
+Char Mausum ltd,NE61 6DR,55.1255,-1.6716
 MOORHOUSE FARM,NE61 6DX,55.1276,-1.6655
 THE COFFEE HOUSE,NE7 7DN,55.0028,-1.5937
 Pizzeria Italia,NE7 7EZ,55.0087,-1.5791

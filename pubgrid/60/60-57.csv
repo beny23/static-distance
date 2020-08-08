@@ -1,13 +1,16 @@
 name,postcode,lat,lon
 The Georgian Tearooms,DN1 1BB,53.5233,-1.1349
+Subway,DN1 1DE,53.5228,-1.1335
 Mercure Doncaster Danum Hotel,DN1 1DN,53.5226,-1.1330
 KFC,DN1 1DW,53.5231,-1.1330
 The grind,DN1 1DW,53.5231,-1.1330
 ZEST BAR AND GRILL,DN1 1DW,53.5231,-1.1330
 Bowers Coffee Shop,DN1 1HF,53.5235,-1.1323
 CHINESE CATERING LIMITED,DN1 1HT,53.5241,-1.1311
+lalezar,DN1 1JD,53.5236,-1.1297
 Legends desserts & burger,DN1 1JE,53.5232,-1.1292
 The Georgian Patisserie,DN1 1LA,53.5231,-1.1381
+Subway,DN1 1LB,53.5231,-1.1393
 Debenhams Restaurant Doncaster,DN1 1LH,53.5245,-1.1387
 C & P ROTHWELL LTD,DN1 1LQ,53.5250,-1.1333
 D & L Rothwell Ltd,DN1 1LQ,53.5250,-1.1333
@@ -40,10 +43,12 @@ Movida Bar & Restaurant ,DN1 1TS,53.5225,-1.1345
 Fish Bits,DN1 2BY,53.5160,-1.1281
 Salutation Doncaster Ltd ,DN1 2DR,53.5214,-1.1272
 The Regent Hotel LTD,DN1 2DS,53.5222,-1.1259
+Doncaster Tandoori ,DN1 2PE,53.5260,-1.1302
 El Boca Doncaster Ltd,DN1 2PH,53.5251,-1.1305
 La Rustica Doncaster Ltd,DN1 2PH,53.5251,-1.1305
 zammuto steak and grill house,DN1 2PH,53.5251,-1.1305
 EL TORERO DONCASTER LIMITED,DN1 2PW,53.5251,-1.1296
+KOZ TURKISH BARBECUE AND MEZZE BAR,DN1 2PW,53.5251,-1.1296
 Sarahs desserts snack bar ,DN1 2QP,53.5268,-1.1283
 SPICE AND ICE,DN1 2SD,53.5303,-1.1270
 The Leopard,DN1 3AA,53.5208,-1.1378
@@ -55,6 +60,7 @@ Java Cafe,DN1 3JU,53.5206,-1.1325
 Bake battle and roll ,DN1 3LW,53.5219,-1.1326
 Cactus Jacks,DN1 3NA,53.5225,-1.1301
 Poppadoms and Cream,DN1 3NL,53.5223,-1.1286
+poppadomsandcream,DN1 3NL,53.5223,-1.1286
 The Classic & Contemporary Cake Co Coffee Shop ,DN10 6DG,53.4538,-1.0258
 The Ship Inn (Newington) Ltd,DN10 6DJ,53.4390,-0.9962
 The White Horse ,DN10 6ED,53.4459,-0.9628
@@ -73,6 +79,7 @@ Bawtry Golf Club,DN10 6RF,53.4478,-1.0040
 Rossington Hall Limited,DN11 0HR,53.4623,-1.0400
 Mount Pleasant Hotel,DN11 0HW,53.4713,-1.0368
 Nelson Coffee Shop Limited,DN11 0PE,53.4786,-1.0799
+Addu's Indian restaurant,DN11 0PG,53.4787,-1.0807
 Wellingtons Cafe,DN11 9EX,53.4321,-1.0909
 TAJ COTTAGE ,DN11 9HZ,53.4355,-1.1105
 Jamps Restaurant,DN11 9LX,53.4327,-1.1098
@@ -83,6 +90,7 @@ Robbo's Diner,DN12 1NP,53.4767,-1.1884
 The Topiary Coffee Shop,DN12 2AE,53.4811,-1.2151
 The Indus Restaurant & Bar ,DN12 2BT,53.4787,-1.2298
 Seafish Restaurant,DN12 3AG,53.4820,-1.2248
+Balti palace Conisbrough limited ,DN12 4DG,53.4910,-1.2417
 Urban Fresh Burgers & Fries,DN2 4BG,53.5407,-1.1092
 JJ's Cafe and Sandwich Bar,DN2 4PW,53.5432,-1.0954
 GO BOUNCE TRAMPOLINE PARK,DN2 4SQ,53.5433,-1.0795
@@ -133,7 +141,7 @@ Doncaster Golf Club,DN4 7PD,53.5143,-1.0968
 McDonald's Restaurant,DN4 7PD,53.5143,-1.0968
 The Dome,DN4 7PD,53.5143,-1.0968
 McDonald's Restaurant,DN4 8DD,53.5073,-1.1481
-Subway,DN4 8SN,53.4915,-1.1379
+SUBWAY,DN4 8SN,53.4915,-1.1379
 Lotus Indian restaurant ,DN4 9LU,53.4980,-1.1817
 Cafè L.A.,DN5 0AT,53.5461,-1.1468
 Moona Coffee,DN5 0AT,53.5461,-1.1468
@@ -158,6 +166,7 @@ The Old Hayloft Tearoom,DN6 0HH,53.6216,-1.1011
 Lakeside Cafe,DN6 0HZ,53.6155,-1.1489
 the happy cat cafe,DN6 0LE,53.6162,-1.1447
 McDonald's Restaurant,DN6 7FB,53.5744,-1.2104
+5 Flavours Cafe ,DN6 7HP,53.5631,-1.1946
 Aagrah Doncaster,DN6 7RA,53.5591,-1.1911
 Cafe Express,DN6 8DB,53.5810,-1.1777
 Jaffa and Cakes,DN6 8DL,53.5823,-1.1786
@@ -181,9 +190,11 @@ Canal Tavern,DN8 5DZ,53.6090,-0.9636
 Thorne Golf Club,DN8 5RJ,53.6053,-0.9721
 McDonald's,DN8 5UG,53.6171,-0.9779
 The station restaurant and bar ,DN9 3AA,53.4892,-0.9901
+the station restaurant and bar,DN9 3AA,53.4892,-0.9901
 Walkers Nurseries Ltd,DN9 3BA,53.4957,-0.9923
 THE HARVEY ARMS,DN9 3BY,53.4834,-0.9922
 Eagle & Child,DN9 3HS,53.5037,-1.0234
+Eagle and Child,DN9 3HS,53.5037,-1.0234
 Costa Coffee,DN9 3RH,53.4830,-1.0104
 KNEAD BAKERY,S64 0AJ,53.4977,-1.2834
 Pekish Cafe & Desserts ,S64 0DB,53.4946,-1.2810

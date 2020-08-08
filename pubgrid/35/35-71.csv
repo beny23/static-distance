@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 Bits’n’bobs tearoom,CM0 7AA,51.6624,0.8295
+Village tandoori,CM0 7AA,51.6624,0.8295
 The queens head ,CM0 7BB,51.6633,0.8201
 Wibblers Brewery Taproom & Kitchen,CM0 7JW,51.6592,0.8378
 the green man inn,CM0 7QX,51.7338,0.8887
@@ -40,7 +41,9 @@ HOUSE OF DELIGHT,CM9 5BX,51.7296,0.6839
 IL CAMINO RESTAURANT,CM9 5BX,51.7296,0.6839
 The borough arms,CM9 5DD,51.7265,0.6826
 Mrs Salisbury's Famous Tea Rooms,CM9 5EP,51.7312,0.6802
+Swan Hotel Bar & Grill,CM9 5EP,51.7312,0.6802
 El Guaca Mexican Grill,CM9 5ET,51.7309,0.6804
+Venice Gelato Coffee ,CM9 5ET,51.7309,0.6804
 sark restaurant,CM9 5ET,51.7309,0.6804
 THE QUEEN'S HEAD ,CM9 5HN,51.7295,0.6876
 The Barge Tearooms,CM9 5HN,51.7295,0.6876
@@ -70,6 +73,7 @@ DIXON COMPANY AND SONS LIMITED t/a Subway ,SS2 6RL,51.5577,0.6990
 FAVORITE CHICKEN & RIBS 4U LTD,SS2 6RL,51.5577,0.6990
 Holiday Inn Southend - 1935 Restaurant,SS2 6XG,51.5658,0.6982
 Loyal Toast,SS2 6XY,51.5711,0.6697
+The Navigator,SS2 6YF,51.5676,0.7008
 The White Hart,SS3 0ED,51.5528,0.8053
 The Waeccer,SS3 0EF,51.5529,0.8079
 The Exhibition Inn,SS3 0HZ,51.5535,0.7930

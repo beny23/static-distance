@@ -11,6 +11,7 @@ Shanghai Shanghai Restaurant,NG1 1FE,52.9539,-1.1427
 Yolk,NG1 1FE,52.9539,-1.1427
 Viva Street Food,NG1 1FF,52.9535,-1.1428
 DESI DOWN TOWN,NG1 1FH,52.9539,-1.1405
+THE NOTTINGHAM LEGEND,NG1 1GD,52.9511,-1.1390
 Paris Nottingham Limited,NG1 1HF,52.9513,-1.1449
 ROCKET (NOTTINGHAM) LTD,NG1 1HF,52.9513,-1.1449
 Deli-Cious Chocolate at The Robe Room,NG1 1HN,52.9508,-1.1449
@@ -91,9 +92,11 @@ Yamas Meze & Tapas,NG1 3DR,52.9539,-1.1464
 Chopstix Nottingham,NG1 3ED,52.9543,-1.1479
 Clumber Street McDonalds,NG1 3ED,52.9543,-1.1479
 BISTROT PIERRE - NOTTINGHAM,NG1 3EN,52.9562,-1.1486
+Bistrot Pierre - Nottingham,NG1 3EN,52.9562,-1.1486
 kfc,NG1 3EN,52.9562,-1.1486
 Mayfair Restaurant,NG1 3FN,52.9603,-1.1503
 The Golden Fleece,NG1 3FN,52.9603,-1.1503
+Oodles Chinese Nottingham ,NG1 3FQ,52.9612,-1.1508
 Prickly Pear,NG1 3FQ,52.9612,-1.1508
 Sarangbang Korean Food Cafe,NG1 3FQ,52.9612,-1.1508
 Lincolnshire Poacher,NG1 3FR,52.9621,-1.1513
@@ -111,6 +114,7 @@ Pokéwaves,NG1 3QN,52.9578,-1.1473
 subway,NG1 3QN,52.9578,-1.1473
 Alanya Catering Ltd,NG1 4AA,52.9554,-1.1498
 Glasshouse,NG1 4AF,52.9559,-1.1488
+Moulin Rouge,NG1 4AF,52.9559,-1.1488
 The Pudding Pantry,NG1 4AF,52.9559,-1.1488
 GINSECCO,NG1 4DB,52.9558,-1.1502
 SY101 Limited t/a Alto,NG1 4DB,52.9558,-1.1502
@@ -119,6 +123,7 @@ subway,NG1 4DB,52.9558,-1.1502
 tamatanga,NG1 4DB,52.9558,-1.1502
 The Playwright,NG1 4FQ,52.9578,-1.1508
 chunky chicken nottingham ltd,NG1 4FQ,52.9578,-1.1508
+Raglan Road Irish Bar,NG1 5BA,52.9554,-1.1602
 Dancing Dragon restaurant ,NG1 5BB,52.9556,-1.1612
 Tough Marys Bakehouse Ltd,NG1 5FD,52.9554,-1.1583
 The Strathdon Hotel,NG1 5FT,52.9553,-1.1572
@@ -207,11 +212,13 @@ Horse & Plough,NG13 8AF,52.9514,-0.9544
 Rose & May,NG13 8AF,52.9514,-0.9544
 COPPER,NG13 8AP,52.9527,-0.9520
 Number Sixteen,NG13 8AP,52.9527,-0.9520
+Pizza Pizza Plus Ltd,NG13 8AR,52.9525,-0.9533
 The White Lion,NG13 8AT,52.9505,-0.9595
 Costa Bingham,NG13 8BD,52.9522,-0.9535
 The Wheatsheaf Bingham,NG13 8BG,52.9512,-0.9543
 the royal oak,NG13 8JE,52.9768,-0.9299
 Caffe Velo Verde,NG13 8JL,52.9852,-0.9124
+INDIANNIGHTS ,NG13 8LA,52.9733,-0.9526
 Indian Nights,NG13 8LA,52.9733,-0.9526
 The Royal Oak,NG13 8PA,52.9802,-0.9695
 The Unicorns Head ,NG13 9HE,52.9041,-0.9255
@@ -239,6 +246,7 @@ The Bridge and Bayleaf,NG14 7FB,52.9867,-0.9825
 Tom Browns (Gunthorpe) limited,NG14 7FB,52.9867,-0.9825
 red lion ,NG14 7GP,53.0378,-0.9642
 The Reindeer Inn,NG14 7JR,53.0151,-0.9587
+Ve Raj Restaurant ,NG15 9DH,53.0841,-1.1555
 Vat & Fiddle,NG2 1NB,52.9456,-1.1485
 Embankment,NG2 2GR,52.9392,-1.1387
 Brewhouse and Kitchen Nottingham,NG2 2GS,52.9387,-1.1375
@@ -258,6 +266,7 @@ Scoops Express,NG2 4HJ,52.9538,-1.1225
 Papas Wok,NG2 4HU,52.9544,-1.1224
 The Dale’s Grill,NG2 4HU,52.9544,-1.1224
 Fei Xiang Ltd,NG2 4PB,52.9532,-1.1368
+Secret Pizza Nottingham,NG2 4RG,52.9531,-1.1367
 Cheff,NG2 5BL,52.9382,-1.1193
 Bread and Butterflies,NG2 5BN,52.9384,-1.1189
 Poppy & Pint,NG2 5DX,52.9365,-1.1192
@@ -331,6 +340,7 @@ Mad Hatter’s ,NG24 1JR,53.0770,-0.8065
 Thyme out cafe,NG24 1JR,53.0770,-0.8065
 Fox & Crown,NG24 1JY,53.0767,-0.8059
 Oscar's Inn,NG24 1RY,53.0722,-0.8035
+deincourt hotel,NG24 1TF,53.0721,-0.8064
 The Coffee Chain ,NG24 1TL,53.0820,-0.8048
 Beaumond Cross Inn,NG24 1TN,53.0741,-0.8085
 Caffrello Vietnam House,NG24 1TW,53.0734,-0.8092

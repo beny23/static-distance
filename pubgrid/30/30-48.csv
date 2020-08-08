@@ -16,6 +16,7 @@ Amarone Restaurant,BA1 1EU,51.3822,-2.3626
 The Raven of Bath Ltd,BA1 1HE,51.3828,-2.3621
 Wild Cafe,BA1 1HE,51.3828,-2.3621
 Pintxo de Bath,BA1 1HG,51.3825,-2.3628
+Thoughtful Bakery,BA1 1HG,51.3825,-2.3628
 Green Park Brasserie,BA1 1JB,51.3815,-2.3669
 Pizzas of Bath,BA1 1JB,51.3815,-2.3669
 The Royal Hotel,BA1 1JP,51.3782,-2.3567
@@ -34,6 +35,7 @@ hands Georgian Tearoom,BA1 1NN,51.3808,-2.3590
 The Colombian Company Ltd ,BA1 1NP,51.3803,-2.3591
 Bath bun tea shoppe,BA1 1NW,51.3803,-2.3587
 Sally Lunn's ,BA1 1NX,51.3808,-2.3585
+Chapel Arts Cafe,BA1 1QR,51.3797,-2.3604
 Sweet Little Things Limited,BA1 1QR,51.3797,-2.3604
 The Drawing Rooms,BA1 1RD,51.3820,-2.3601
 Cascara,BA1 1RG,51.3828,-2.3599
@@ -73,7 +75,9 @@ The Scallop Shell,BA1 2AY,51.3829,-2.3658
 Apex City of Bath,BA1 2DA,51.3808,-2.3634
 Goulash ,BA1 2DR,51.3812,-2.3685
 Adventure cafe,BA1 2ED,51.3852,-2.3613
+SAME SAME BUT DIFFERENT LTD,BA1 2ED,51.3852,-2.3613
 Sub 13,BA1 2EE,51.3852,-2.3619
+Chandos Deli,BA1 2EH,51.3845,-2.3628
 Charm Thai Restaurant,BA1 2EH,51.3845,-2.3628
 Champagne Plus Fromage- Bath,BA1 2EJ,51.3846,-2.3625
 Comptoir Cuisine,BA1 2EJ,51.3846,-2.3625
@@ -120,6 +124,8 @@ Walcot House,BA1 5BG,51.3876,-2.3588
 The Fine Cheese Co,BA1 5BN,51.3849,-2.3598
 Picnic Coffee,BA1 5BR,51.3846,-2.3600
 The Pig & Fiddle,BA1 5BR,51.3846,-2.3600
+CURRY MAHAL UK LTD,BA1 5HR,51.3883,-2.3613
+St Michaels Bath,BA1 5LJ,51.3844,-2.3606
 The Broad Street Townhouse,BA1 5LP,51.3841,-2.3601
 Mantra Progressive Indian,BA1 5LS,51.3854,-2.3603
 Lansdown Tennis Squash & Croquet Club Ltd,BA1 5TN,51.3959,-2.3646
@@ -136,13 +142,16 @@ Eight Stony Street,BA11 1BU,51.2309,-2.3224
 Castello,BA11 1DS,51.2302,-2.3223
 The High Pavement,BA11 1DS,51.2302,-2.3223
 The Old Bath Arms,BA11 1DS,51.2302,-2.3223
+palmer street bottle,BA11 1DS,51.2302,-2.3223
 The Artisan Frome,BA11 1EQ,51.2304,-2.3262
+Alfreds Bread ,BA11 1RE,51.2268,-2.3106
 Hesperian Fish,BA11 1RE,51.2268,-2.3106
 Station Approach,BA11 1RE,51.2268,-2.3106
 The Bell,BA11 2PR,51.2552,-2.2641
 The Standerwick Centre,BA11 2QB,51.2510,-2.2576
 The Bell Inn,BA11 2QT,51.2597,-2.3561
 Rye Bakery,BA11 3BY,51.2315,-2.3242
+The Griffin,BA11 3DB,51.2330,-2.3248
 The Talbot Inn,BA11 3PN,51.2414,-2.3911
 Babington House,BA11 3RW,51.2566,-2.4187
 McDonald's Restaurant,BA11 4DH,51.2171,-2.3320
@@ -168,6 +177,7 @@ Le cafe journal,BA12 9AE,51.2052,-2.1819
 The Old Fire Station,BA12 9AL,51.2061,-2.1824
 AGRA RESTAURANT,BA12 9BN,51.2039,-2.1781
 The Masons Arms Warminster,BA12 9BN,51.2039,-2.1781
+The Great Wall Chinese Restaurant ,BA12 9BW,51.2036,-2.1773
 Cornmarket Cafe,BA12 9BX,51.2051,-2.1790
 Bishopstrow Hotel & Spa,BA12 9HH,51.1962,-2.1477
 The Horse & Groom,BA13 3DY,51.2627,-2.1808
@@ -198,6 +208,7 @@ Free Range Cafe,BA14 8EQ,51.3202,-2.2069
 Namaste Trowbridge,BA14 8HA,51.3212,-2.2086
 Little Earth,BA14 8HQ,51.3215,-2.2099
 LITTLE DESSERT SHOP TROWBRIDGE,BA14 8TQ,51.3180,-2.2069
+The Moonraker Hotel,BA14 9BL,51.3284,-2.2285
 THE POPLARS,BA14 9LN,51.3103,-2.2587
 Hope Nature Centre Animal Park & Cafe,BA14 9QD,51.2999,-2.2310
 The Farmhouse Inn Southwick ,BA14 9QD,51.2999,-2.2310
@@ -229,6 +240,7 @@ The Seven Stars,BA15 2LQ,51.3468,-2.2893
 Cumberwell Park,BA15 2PQ,51.3671,-2.2603
 Leigh Park Hotel,BA15 2RA,51.3562,-2.2444
 Merkins Farm Cafe,BA15 2RW,51.3621,-2.2315
+The Butchers Arms,BA2 0AE,51.3431,-2.4825
 McDonalds,BA2 1EP,51.3806,-2.3900
 Hillier Garden Centre Bath,BA2 2RG,51.3690,-2.4004
 The Bear Hotel,BA2 3AQ,51.3741,-2.3668

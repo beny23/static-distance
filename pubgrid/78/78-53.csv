@@ -91,6 +91,7 @@ Mr Pickwicks cafe,DH3 3BB,54.8562,-1.5736
 Sambuca front street ltd,DH3 3BE,54.8580,-1.5736
 Cafe 91/Bar Utopia,DH3 3BJ,54.8561,-1.5742
 The Lambton Arms,DH3 3BJ,54.8561,-1.5742
+Sarahs Deli,DH3 3BQ,54.8584,-1.5748
 Ashley Cottage Tearoom,DH3 3EY,54.8582,-1.5753
 Hollathans,DH3 3PD,54.8518,-1.5730
 Cafe Neena’s ,DH3 3PZ,54.8555,-1.5723
@@ -177,6 +178,7 @@ ALA SPICERY LTD,DH9 6RN,54.8756,-1.6450
 il cancello ltd,DH9 6RN,54.8756,-1.6450
 The Ox Inn,DH9 7LR,54.8661,-1.7107
 Gorse Garden ,DH9 7XA,54.8577,-1.7380
+Gorse garden takeaway ,DH9 7XA,54.8577,-1.7380
 the waiting room ,DH9 8HN,54.8734,-1.7482
 Keeper's,DH9 9AB,54.8778,-1.7609
 The Burrow Licensed Tearoom,DH9 9JE,54.8841,-1.7459
@@ -234,6 +236,7 @@ Malmaison Newcastle,NE1 3DX,54.9710,-1.5993
 Babucho,NE1 3JA,54.9695,-1.6088
 PRIMA NOVA LTD,NE1 3JA,54.9695,-1.6088
 Prima Restaurant,NE1 3JA,54.9695,-1.6088
+Bangrak Thai,NE1 3JE,54.9692,-1.6084
 ROUTE,NE1 3JE,54.9692,-1.6084
 Simla Restaurant,NE1 3JE,54.9692,-1.6084
 Rasika Indian Restaurant,NE1 3JF,54.9688,-1.6082
@@ -386,6 +389,7 @@ Mark Toney,NE1 7RW,54.9764,-1.6158
 subway,NE1 7RW,54.9764,-1.6158
 The Hotspur,NE1 7RY,54.9772,-1.6151
 Totally Delicious Laing Art Gallery,NE1 8AG,54.9749,-1.6093
+Journey Cafe,NE1 8AN,54.9749,-1.6088
 Cafe at Newcastle City Library,NE1 8AX,54.9749,-1.6104
 Coffee Trader,NE1 8ED,54.9749,-1.6114
 City Tavern,NE1 8JF,54.9769,-1.6118
@@ -516,6 +520,7 @@ Pineapple and bears,NE21 6RT,54.9430,-1.7116
 Cafe Shrub,NE21 6RU,54.9416,-1.7119
 The Red Kite,NE21 6RU,54.9416,-1.7119
 Tots Tea Rooms,NE28 6QY,54.9914,-1.5309
+Sambuca Restaurant,NE28 6ST,54.9907,-1.4821
 kl ne ltd,NE28 7RH,54.9916,-1.5296
 KFC,NE28 8HX,54.9906,-1.5352
 Costa Coffee - Wallsend,NE28 8JA,54.9909,-1.5356
@@ -535,6 +540,7 @@ The Lord Nelson,NE32 5NN,54.9666,-1.5013
 Dame Bellas Green Room,NE33 1ES,54.9950,-1.4409
 Man Vs food Grill House,NE34 0AD,54.9780,-1.4448
 McDonald's ,NE34 9QD,54.9707,-1.4627
+Greek street food ,NE35 9HS,54.9537,-1.4652
 McDonald's ,NE35 9PB,54.9468,-1.4663
 Clarion Hotel Boldon,NE35 9PE,54.9437,-1.4708
 THE TRAVELLING MAN,NE36 0BQ,54.9419,-1.4639
@@ -572,11 +578,13 @@ The Havelock,NE38 8AJ,54.8801,-1.5167
 Teal Farm Pub,NE38 8FH,54.8932,-1.4924
 Miss Tina's Coffee Shop,NE38 8JA,54.9018,-1.5084
 FreshPrepare,NE38 8JH,54.8964,-1.5066
+WWT Washington Wetland Centre,NE38 8LE,54.9020,-1.4869
 The keelboat,NE38 8RU,54.8858,-1.5180
 San Lorenzo,NE38 9AT,54.8790,-1.5332
 M&M Woodlands ltd,NE38 9EJ,54.8796,-1.5483
 LINTZFORD GARDEN CENTRE,NE39 1DG,54.9139,-1.7568
 Dibra Mediterranean Restaurant ,NE4 5AH,54.9793,-1.6391
+2575722472,NE4 5JT,54.9758,-1.6375
 Kamal Restaurant,NE4 5JU,54.9755,-1.6397
 AFGHAN GRILL HOUSE,NE4 5LH,54.9767,-1.6374
 Fujiyama Japanese Restaurant,NE4 5SP,54.9713,-1.6214
@@ -589,6 +597,7 @@ SHAWARMA FATTOUSH LTD,NE4 6PB,54.9733,-1.6395
 The Mealcastle,NE4 6QB,54.9733,-1.6404
 MOSOB RESTAURANT,NE4 7JB,54.9671,-1.6224
 Courtyard by Marriott Glasgow Airport Hotel,NE4 7LB,54.9685,-1.6318
+Triple 5 cafe,NE4 8BB,54.9703,-1.6589
 The Oven Door,NE4 9AX,54.9806,-1.6481
 Kilimanjaro Newcastle,NE4 9BL,54.9753,-1.6502
 Chaiiwala ,NE4 9PR,54.9749,-1.6504
@@ -618,6 +627,7 @@ KFC,NE5 3AJ,54.9898,-1.6531
 Oliandjoes Italian Resturant ,NE5 5HB,54.9992,-1.6931
 The Cycle Hub,NE6 1BU,54.9657,-1.5788
 Singin Hinny Cafe,NE6 1DQ,54.9779,-1.5767
+The Bake,NE6 1LA,54.9751,-1.5870
 KFC,NE6 1LL,54.9721,-1.5871
 Kiln,NE6 1LN,54.9732,-1.5895
 Brinkburn St Bar & Kitchen,NE6 1NW,54.9719,-1.5873
@@ -634,6 +644,7 @@ Boquerones Tapas and Cocktails ,NE6 5HP,54.9840,-1.5817
 Butterfly Cabinet,NE6 5HP,54.9840,-1.5817
 Khans,NE6 5HP,54.9840,-1.5817
 The Naked Deli,NE6 5LJ,54.9871,-1.5775
+L'ULIVO,NE6 5LL,54.9880,-1.5778
 Restaurant Bianco Nero ,NE6 5LL,54.9880,-1.5778
 206 Sushi & Sliders,NE6 5LN,54.9861,-1.5766
 Brew & Bite ,NE6 5LP,54.9871,-1.5769

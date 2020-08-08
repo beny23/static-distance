@@ -75,6 +75,7 @@ Holiday Inn Glasgow Theatreland,G1 2RL,55.8657,-4.2541
 La Bonne Auberge,G1 2RL,55.8657,-4.2541
 AMALFI RASTAURANT,G1 2RQ,55.8639,-4.2539
 Döner Haus Glasgow,G1 2SH,55.8632,-4.2548
+Glaschu,G1 3AB,55.8605,-4.2525
 Di Maggio's Restaurant (Glasgow),G1 3AJ,55.8599,-4.2533
 The Social,G1 3AJ,55.8599,-4.2533
 La Vita Pizzeria,G1 3BJ,55.8607,-4.2521
@@ -109,6 +110,7 @@ Alston Bar & Beef,G1 3SQ,55.8601,-4.2580
 Gordon Street Coffee,G1 3SQ,55.8601,-4.2580
 Subway,G1 3TA,55.8602,-4.2572
 mcdonalds bakers,G1 3TA,55.8602,-4.2572
+BLUE LAGOON,G1 4BW,55.8569,-4.2532
 Debenhams Restaurant Glasgow,G1 4BW,55.8569,-4.2532
 Di Maggio's (St Enoch's),G1 4BW,55.8569,-4.2532
 KFC,G1 4BW,55.8569,-4.2532
@@ -131,14 +133,18 @@ MAGGIE MAYS,G1 5EP,55.8573,-4.2457
 Rose and Grants,G1 5EZ,55.8565,-4.2446
 McDonald's,G1 5HF,55.8572,-4.2483
 mcdonalds bakers,G1 5HF,55.8572,-4.2483
+Damasqino restaurant ,G1 5LD,55.8557,-4.2452
 Damasqino restaurant and cafe,G1 5LD,55.8557,-4.2452
 WEECOOK,G1 5PR,55.8546,-4.2441
+Cafe Cossachok,G1 5QP,55.8567,-4.2468
 Avant Garde,G1 5QT,55.8562,-4.2471
 The 13th Note,G1 5QT,55.8562,-4.2471
+Embargo,G11 5HN,55.8720,-4.2980
 The University Cafe,G11 5HN,55.8720,-4.2980
 Balbir's,G11 5JP,55.8706,-4.2975
 CAFEZIQUE,G11 5PT,55.8730,-4.3017
 Root Candy,G11 5PT,55.8730,-4.3017
+Cottiers,G11 5PU,55.8736,-4.3021
 BBQ.Wrap.Salad,G11 5QE,55.8712,-4.3029
 Partick Duck Club,G11 5QF,55.8718,-4.3027
 THE SPARKLE HORSE,G11 5QS,55.8712,-4.3003
@@ -156,15 +162,19 @@ Subway,G11 6BU,55.8705,-4.3087
 Bibi's,G11 6HY,55.8705,-4.3176
 Tribeca,G11 6NX,55.8703,-4.2978
 BiBimBap West,G11 6PL,55.8698,-4.2999
+Curry Pot,G11 6PR,55.8702,-4.2991
 Guan A Mo,G11 6PT,55.8705,-4.3001
 The Thornwood,G11 6RB,55.8711,-4.3210
 Six Degrees North Glasgow,G11 6RH,55.8709,-4.3160
+Space Speciality Coffee House,G11 6SW,55.8709,-4.3146
 Qing,G11 6UN,55.8710,-4.3012
+Bauhaus Partick,G11 6XE,55.8708,-4.3000
 The Square Bar and Restaurant,G11 7BN,55.8761,-4.3239
 Oscar & Holly's Coffee House,G11 7BU,55.8772,-4.3220
 Caffe Pieno,G11 7DR,55.8813,-4.3258
 CAFE CIRCA,G11 7HS,55.8776,-4.3218
 Kothel,G11 7HS,55.8776,-4.3218
+Wee Paree,G11 7LA,55.8762,-4.3198
 The Pavilion Cafe,G11 7PZ,55.8755,-4.3196
 McDonald's,G11 7SH,55.8727,-4.3139
 111 By Nico Limited,G12 0JU,55.8886,-4.3073
@@ -182,6 +192,7 @@ Hillhead Bookclub,G12 8BH,55.8767,-4.2899
 Atrium Coffee House,G12 8BY,55.8762,-4.2902
 Kothel,G12 8EL,55.8759,-4.2828
 NYC Express Ltd,G12 8EL,55.8759,-4.2828
+The Crafty Pig,G12 8EL,55.8759,-4.2828
 Inn Deep,G12 8HH,55.8749,-4.2810
 La Lanterna West End,G12 8HH,55.8749,-4.2810
 Paesano Pizza,G12 8HL,55.8753,-4.2821
@@ -232,6 +243,8 @@ The Prancing Stag ,G13 1NX,55.8834,-4.3249
 McDonalds Anniesland 952,G13 2UX,55.8913,-4.3295
 The Lincoln Inn,G13 2XX,55.8994,-4.3482
 Brazuca Cafe,G14 0AA,55.8763,-4.3452
+Jarvies Inn,G14 0LF,55.8895,-4.3768
+The Lovat Arms,G14 0PT,55.8910,-4.3854
 Flavour chasers ,G14 9XS,55.8767,-4.3452
 McDonalds Drumchapel 1504,G15 6SA,55.9029,-4.3766
 Subway Drumchapel,G15 7TG,55.9107,-4.3722
@@ -251,6 +264,7 @@ Gdk,G2 1NF,55.8627,-4.2559
 China Blue,G2 1NH,55.8640,-4.2555
 Double Tree 96 limited,G2 1NH,55.8640,-4.2555
 KFC,G2 1NH,55.8640,-4.2555
+Frango piri piri,G2 1NQ,55.8635,-4.2556
 The Raven,G2 1NQ,55.8635,-4.2556
 Nippon Kitchen,G2 1PB,55.8620,-4.2556
 Shilling Brewing Company,G2 1PJ,55.8624,-4.2551
@@ -258,6 +272,8 @@ Stack and Still Glasgow City,G2 1PJ,55.8624,-4.2551
 Cafe Wander,G2 1QJ,55.8624,-4.2558
 Absurd Bird,G2 1QY,55.8618,-4.2544
 Subway,G2 1QY,55.8618,-4.2544
+Bistro,G2 2AE,55.8630,-4.2569
+Cova,G2 2AE,55.8630,-4.2569
 Rishis Indian Aroma,G2 2DG,55.8637,-4.2569
 Apex City of Glasgow,G2 2EN,55.8643,-4.2585
 Howlin Wolf,G2 2EN,55.8643,-4.2585
@@ -286,6 +302,7 @@ Smashburger,G2 3EW,55.8646,-4.2581
 TACO BELL-Sauchiehall Street Glasgow,G2 3EZ,55.8651,-4.2625
 Cafe Antipasti,G2 3HQ,55.8653,-4.2639
 Deesserts,G2 3HQ,55.8653,-4.2639
+Pepes,G2 3HQ,55.8653,-4.2639
 Subway,G2 3HQ,55.8653,-4.2639
 Thairiffic Restaurant ,G2 3HQ,55.8653,-4.2639
  Broccoli Pizza & Pasta,G2 3HU,55.8657,-4.2670
@@ -295,6 +312,7 @@ Firewater,G2 3HW,55.8655,-4.2656
 Kamasutra Indian Restaurant Glasgow,G2 3HW,55.8655,-4.2656
 SICHUAN HOUSE,G2 3HW,55.8655,-4.2656
 AZURE GRAND LTD,G2 3JD,55.8660,-4.2667
+Bistro,G2 3JD,55.8660,-4.2667
 HI TEA PINK,G2 3JD,55.8660,-4.2667
 INDIAN GALLERY LTD,G2 3JD,55.8660,-4.2667
 Indian Gallery Tandoori Restaurant,G2 3JD,55.8660,-4.2667
@@ -340,11 +358,13 @@ Ad Lib,G2 6LL,55.8608,-4.2591
 BARBURRITO,G2 6LL,55.8608,-4.2591
 Temaki,G2 6LL,55.8608,-4.2591
 PANKO,G2 6NL,55.8609,-4.2600
+BAVARIA BRAUHAUS,G2 6NU,55.8614,-4.2598
 Gusto Italian,G2 6NU,55.8614,-4.2598
 Café Fame,G2 6PE,55.8615,-4.2587
 Viva Ristorante,G2 6TS,55.8610,-4.2615
 viva brazil Glasgow,G2 6TS,55.8610,-4.2615
 Hotel Indigo Glasgow - Marco Pierre White Steakhouse Bar & Grill,G2 7DA,55.8608,-4.2627
+Operetta,G2 7DA,55.8608,-4.2627
 Ibis Styles Glasgow Douglas House,G2 7DN,55.8609,-4.2641
 SLOANS,G2 8BG,55.8587,-4.2537
 KFC,G2 8BT,55.8585,-4.2563
@@ -358,6 +378,7 @@ Jules,G2 8LY,55.8590,-4.2618
 Piccolo Mondo,G2 8LY,55.8590,-4.2618
 thai orchid,G2 8LY,55.8590,-4.2618
 Killermont polo club,G20 0AB,55.8983,-4.3008
+The Rams Head,G20 0BT,55.8974,-4.3005
 Black Sheep Bistro Ltd,G20 7QD,55.8726,-4.2685
 The Botany,G20 7TL,55.8823,-4.2794
 The Brewhaus,G20 8NX,55.8816,-4.2826
@@ -413,9 +434,13 @@ Hilton Garden Inn Glasgow City Centre,G3 8HN,55.8579,-4.2829
 Hilton Glasgow,G3 8HT,55.8614,-4.2689
 Big Licks ,G3 8JU,55.8622,-4.2803
 Strip Joint,G3 8LU,55.8637,-4.2802
+Lebowskis Glasgow,G3 8LX,55.8642,-4.2820
 Locker1012 ,G3 8LX,55.8642,-4.2820
 Taphouse ,G3 8LY,55.8647,-4.2835
+The Italian Club Glasgow Ltd,G3 8LZ,55.8641,-4.2829
+Porter and Rye,G3 8ND,55.8643,-4.2838
 Subway,G3 8ND,55.8643,-4.2838
+The Finnieston Bar and Restaurant,G3 8ND,55.8643,-4.2838
 The Hidden Lane Tearoom,G3 8ND,55.8643,-4.2838
 Oaka supercity Kelvinhaugh street,G3 8PX,55.8640,-4.2910
 Elena's Spanish Bar & Restaurant,G3 8PZ,55.8676,-4.2936
@@ -437,6 +462,7 @@ Pickled Ginger,G3 8XZ,55.8632,-4.2773
 Rawnchy Cafe,G31 1AA,55.8577,-4.2243
 Akara Bakery,G31 1DL,55.8586,-4.2176
 Subway,G31 1DL,55.8586,-4.2176
+Foodie Bistro & Cafe,G31 1LZ,55.8580,-4.2039
 Pepe's Piri Piri,G31 1PZ,55.8586,-4.2151
 Shaikh Macleod trading as tibo,G31 1RY,55.8585,-4.2210
 EAST COFFEE ROASTERY,G31 2LF,55.8588,-4.2204
@@ -491,6 +517,7 @@ Wintersgills,G4 9EJ,55.8729,-4.2734
 Eusebi Restaurant and Deli,G4 9HB,55.8727,-4.2802
 The Herbidean,G4 9HS,55.8735,-4.2765
 te Seba,G4 9HY,55.8739,-4.2778
+Websters,G4 9HZ,55.8743,-4.2776
 Paradise Restaurant,G4 9JA,55.8742,-4.2789
 SHISH MAHAL,G4 9JF,55.8731,-4.2794
 Broken Clock,G4 9JG,55.8738,-4.2787
@@ -515,8 +542,10 @@ the bungo,G41 2AL,55.8366,-4.2715
 MANADIP LTD,G41 2AN,55.8368,-4.2713
 BRODIES ALE HOUSE ,G41 2AX,55.8353,-4.2717
 The McMillan Bar & Chop House,G41 2ET,55.8332,-4.2763
+buongiorno bistro,G41 2HG,55.8320,-4.2786
 Brooklyn Cafe,G41 2HR,55.8317,-4.2795
 Subway,G41 2JY,55.8415,-4.2752
+the five chai co ,G41 2NB,55.8421,-4.2737
 Cafe Coco,G41 2PE,55.8407,-4.2671
 McDonald's,G41 2PF,55.8395,-4.2670
 AMBALA GLASGOW LTD,G41 2SP,55.8432,-4.2696
@@ -559,14 +588,18 @@ Tinto Tapas Bar ,G42 9JT,55.8262,-4.2651
 Trevi ristorante ,G42 9JU,55.8255,-4.2652
 Cafe Salmagundi,G42 9XJ,55.8277,-4.2591
 Sapori D'Italia Glasgow Ltd,G42 9XJ,55.8277,-4.2591
+Garden cafe,G42 9XW,55.8265,-4.2582
 The Dapper Mongoose,G43 1TT,55.8254,-4.2862
 Kilmurry and Co. ,G43 1TY,55.8261,-4.2861
 Montford Bar and Kitchen,G44 4QD,55.8264,-4.2438
 Village Curry House,G5 8DZ,55.8529,-4.2623
 Sholeh restaurant ,G5 8EJ,55.8535,-4.2641
+Taste of Home,G5 8EJ,55.8535,-4.2641
 JG Scotland Ltd t/a creams cafe,G5 8NP,55.8553,-4.2748
 Manjaros Restaurant,G5 8NP,55.8553,-4.2748
 SYRIAN PIE LTD,G5 8NT,55.8524,-4.2674
+Chilo's Burgers,G5 8RE,55.8540,-4.2778
+Alsultan restaurant ,G5 9JB,55.8535,-4.2582
 Anns Fry Fish & Chip Shop,G5 9XS,55.8476,-4.2521
 GEORGIE PORGIES,G51 1AB,55.8534,-4.2983
 Park Bar Ibrox,G51 1BE,55.8518,-4.2975
@@ -596,6 +629,7 @@ Bella Fresca ,G52 3JH,55.8457,-4.3535
 Leonardo’s ,G52 3QB,55.8452,-4.3627
 Connors cafe ,G52 3SS,55.8455,-4.3424
 Subway,G52 3TW,55.8457,-4.3443
+Cafe Fifteen Ltd,G52 4JW,55.8612,-4.3775
 Cafe Fifteen,G52 4JW,55.8612,-4.3775
 The Glen Lusset,G60 5DA,55.9221,-4.4563
 the twisted thistle,G60 5JH,55.9257,-4.4585
@@ -648,6 +682,7 @@ Cawder Golf Club,G64 3QD,55.9270,-4.2329
 THE TORRANCE INN,G64 4EL,55.9382,-4.2126
 Rambler ,G64 4EX,55.9391,-4.2115
 KCC Trading Limited TA Cafe Refresh,G65 0AL,55.9775,-4.0569
+New gulistan tandoori restaurant ,G65 0BD,55.9759,-4.0554
 The Coachman Hotel,G65 0SP,55.9788,-4.0583
 The Boathouse,G65 9SG,55.9671,-4.0522
 Nonnas Kitchen,G66 1HF,55.9385,-4.1554
@@ -678,7 +713,6 @@ Glazert Country House Hotel,G66 7DJ,55.9701,-4.1966
 The Fells Coffee House,G66 8BQ,55.9646,-4.1616
 Kincaid House Hotel,G66 8BZ,55.9582,-4.1641
 Innoflate Cumbernauld,G68 9HX,55.9283,-4.0555
-SUBWAY,G69 6DP,55.8562,-4.1063
 Costa Coffee,G69 6JX,55.8506,-4.1165
 Kastriots  Med. Bar & Grill,G69 6SG,55.8504,-4.1136
 cd restaurant ltd,G69 7HL,55.8504,-4.1057
@@ -748,7 +782,9 @@ Subway,PA1 2EF,55.8442,-4.4340
 The Phat Bhuna,PA1 2HD,55.8413,-4.4251
 Little Steakhouse,PA1 2HG,55.8432,-4.4259
 Multan Restaurant Ltd,PA1 2JB,55.8427,-4.4253
+Mirage Indian Cuisine ,PA1 2NH,55.8420,-4.4435
 Food,PA1 2UF,55.8416,-4.4395
+Sengas cafe ,PA1 2UG,55.8418,-4.4405
 The Kitchen,PA1 3ES,55.8466,-4.3803
 harvies bar,PA1 3NU,55.8466,-4.4035
 Caffè Royale ,PA1 3PE,55.8469,-4.4062
@@ -761,6 +797,7 @@ Comicrazy Cafe,PA3 2AN,55.8478,-4.4233
 Zambretto Italian,PA3 2AP,55.8475,-4.4236
 1852 the diamond Ltd ,PA3 2AZ,55.8497,-4.4235
 MFG Subway Glasgow Airport,PA3 2TH,55.8623,-4.4256
+Frankie and Benny's,PA3 2TJ,55.8621,-4.4348
 William Beardmore & Co ,PA3 2TJ,55.8621,-4.4348
 Clean Foods UK Meal Prep Limited ,PA3 4AF,55.8484,-4.4200
 Tim Hortons,PA3 4BA,55.8493,-4.4205
@@ -773,6 +810,7 @@ Cafe Su Renfrew,PA4 8QE,55.8794,-4.3865
 LUNA ROSSA,PA4 8QE,55.8794,-4.3865
 Piccolo Mondo,PA4 8QU,55.8783,-4.3875
 Sweets n Treats,PA4 8QU,55.8783,-4.3875
+Green Gates Renfrew,PA4 8SH,55.8849,-4.3843
 Greengates,PA4 8SH,55.8849,-4.3843
 Glynhill Hotel Ltd,PA4 8XB,55.8652,-4.4042
 Certas Energy,PA4 8XD,55.8624,-4.4076
@@ -782,5 +820,6 @@ LITTLE DESSERT SHOP (Glasgow),PA4 8XQ,55.8790,-4.3714
 Normandy Hotel,PA4 9EJ,55.8804,-4.4074
 Braehead Revisted Ltd,PA4 9NH,55.8878,-4.4282
 BRACKEN,PA8 7AA,55.9039,-4.4486
+Dan'is Diner,PA8 7AA,55.9039,-4.4486
 Pandamonium Play Centre ,PA8 7AF,55.9052,-4.4485
 Grill in the Park,PA8 7AL,55.8986,-4.4508

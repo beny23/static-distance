@@ -16,6 +16,7 @@ Amarone Restaurant,BA1 1EU,51.3822,-2.3626
 The Raven of Bath Ltd,BA1 1HE,51.3828,-2.3621
 Wild Cafe,BA1 1HE,51.3828,-2.3621
 Pintxo de Bath,BA1 1HG,51.3825,-2.3628
+Thoughtful Bakery,BA1 1HG,51.3825,-2.3628
 Green Park Brasserie,BA1 1JB,51.3815,-2.3669
 Pizzas of Bath,BA1 1JB,51.3815,-2.3669
 The Royal Hotel,BA1 1JP,51.3782,-2.3567
@@ -34,6 +35,7 @@ hands Georgian Tearoom,BA1 1NN,51.3808,-2.3590
 The Colombian Company Ltd ,BA1 1NP,51.3803,-2.3591
 Bath bun tea shoppe,BA1 1NW,51.3803,-2.3587
 Sally Lunn's ,BA1 1NX,51.3808,-2.3585
+Chapel Arts Cafe,BA1 1QR,51.3797,-2.3604
 Sweet Little Things Limited,BA1 1QR,51.3797,-2.3604
 The Drawing Rooms,BA1 1RD,51.3820,-2.3601
 Cascara,BA1 1RG,51.3828,-2.3599
@@ -73,7 +75,9 @@ The Scallop Shell,BA1 2AY,51.3829,-2.3658
 Apex City of Bath,BA1 2DA,51.3808,-2.3634
 Goulash ,BA1 2DR,51.3812,-2.3685
 Adventure cafe,BA1 2ED,51.3852,-2.3613
+SAME SAME BUT DIFFERENT LTD,BA1 2ED,51.3852,-2.3613
 Sub 13,BA1 2EE,51.3852,-2.3619
+Chandos Deli,BA1 2EH,51.3845,-2.3628
 Charm Thai Restaurant,BA1 2EH,51.3845,-2.3628
 Champagne Plus Fromage- Bath,BA1 2EJ,51.3846,-2.3625
 Comptoir Cuisine,BA1 2EJ,51.3846,-2.3625
@@ -120,6 +124,8 @@ Walcot House,BA1 5BG,51.3876,-2.3588
 The Fine Cheese Co,BA1 5BN,51.3849,-2.3598
 Picnic Coffee,BA1 5BR,51.3846,-2.3600
 The Pig & Fiddle,BA1 5BR,51.3846,-2.3600
+CURRY MAHAL UK LTD,BA1 5HR,51.3883,-2.3613
+St Michaels Bath,BA1 5LJ,51.3844,-2.3606
 The Broad Street Townhouse,BA1 5LP,51.3841,-2.3601
 Mantra Progressive Indian,BA1 5LS,51.3854,-2.3603
 The Hare & Hounds,BA1 5TJ,51.4036,-2.3721
@@ -138,6 +144,7 @@ Pipley Barn Cafe,BA1 9BZ,51.4250,-2.4100
 The New Inn Westwood,BA15 2AE,51.3304,-2.2681
 Hartley Farm Shop & Kitchen,BA15 2JB,51.3567,-2.2877
 The Seven Stars,BA15 2LQ,51.3468,-2.2893
+The Butchers Arms,BA2 0AE,51.3431,-2.4825
 McDonalds,BA2 1EP,51.3806,-2.3900
 Hillier Garden Centre Bath,BA2 2RG,51.3690,-2.4004
 The Bear Hotel,BA2 3AQ,51.3741,-2.3668
@@ -211,6 +218,7 @@ Brooks Guesthouse Bristol,BS1 1UB,51.4539,-2.5936
 Hatter House Cafe ,BS1 1XH,51.4539,-2.5963
 dhamaka limited,BS1 1XH,51.4539,-2.5963
 Caffe Moka,BS1 1XR,51.4535,-2.5967
+La Grotta,BS1 2DD,51.4558,-2.5910
 Subway ,BS1 2DJ,51.4566,-2.5914
 Chatime Bristol,BS1 2DL,51.4574,-2.5920
 The Strawberry Thief ,BS1 2HG,51.4556,-2.5948
@@ -280,6 +288,7 @@ Adelina Yard,BS1 4SL,51.4504,-2.5925
 4500 miles from delhi,BS1 4ST,51.4541,-2.5967
 Bambalan,BS1 4XE,51.4546,-2.5976
 CHICK-IN BRISTOL LTD,BS1 4XG,51.4528,-2.5983
+Spoke and Stringer,BS1 5AT,51.4501,-2.6059
 Zerodegrees - Microbrewery & Restaurant,BS1 5BA,51.4564,-2.5977
 404 (Not Found),BS1 5BG,51.4567,-2.5979
 Chilli Daddy,BS1 5BG,51.4567,-2.5979
@@ -335,6 +344,7 @@ Doubletree by Hilton Bristol City Centre,BS1 6NJ,51.4482,-2.5877
 Don Giovannis Restaurant,BS1 6PW,51.4480,-2.5832
 Sandwi On The Go Ltd,BS1 6QH,51.4490,-2.5835
 Yurt Lush,BS1 6QH,51.4490,-2.5835
+THE COLOSSEUM,BS1 6SJ,51.4484,-2.5910
 Mercure Bristol Holland House Hotel,BS1 6SQ,51.4476,-2.5911
 The Ostrich,BS1 6TJ,51.4479,-2.5939
 The Louisiana,BS1 6UA,51.4468,-2.5964
@@ -353,6 +363,7 @@ Gambas,BS1 6ZA,51.4584,-2.5742
 Seven Lucky Gods,BS1 6ZA,51.4584,-2.5742
 Tare,BS1 6ZA,51.4584,-2.5742
 Woky Ko Roof Top,BS1 6ZA,51.4584,-2.5742
+Dee Wai Tamu Pvt Ltd,BS10 5LW,51.4979,-2.5967
 New Balti King Restaurant,BS10 5LZ,51.5008,-2.5930
 The Occasional kitchen ,BS10 5NB,51.4973,-2.5929
 Southmead Pizza Hut - A&A Capital Ltd,BS10 6AS,51.5033,-2.6029
@@ -376,6 +387,7 @@ COFFEE CUP (BRISTOL) LIMITED,BS15 1AF,51.4633,-2.5128
 Zest restaurant,BS15 3DG,51.4489,-2.5160
 Chilli Inn Ltd,BS15 3DP,51.4497,-2.5184
 The Italian Kitchen Hanham,BS15 3DQ,51.4493,-2.5170
+The Elm Tree,BS15 3NR,51.4355,-2.5134
 The Old Lock And Weir,BS15 3NU,51.4289,-2.5090
 The Horseshoe,BS15 4PA,51.4695,-2.4848
 RAVENNA COFFEE BAR,BS15 8LJ,51.4626,-2.5069
@@ -421,6 +433,7 @@ Pizza Bianchi,BS2 8QN,51.4614,-2.5889
 Milk Teeth,BS2 8SJ,51.4613,-2.5847
 The Phoenix,BS2 9DB,51.4580,-2.5827
 Better Food,BS2 9LB,51.4689,-2.5785
+Bloc Climbing,BS2 9SH,51.4686,-2.5702
 The Farm,BS2 9YL,51.4742,-2.5776
 The Climbing Academy - The Church,BS2 9YT,51.4721,-2.5754
 North Street Standard,BS3 1EN,51.4411,-2.6028
@@ -432,6 +445,7 @@ The Burger Joint,BS3 1JD,51.4411,-2.6115
 The Malago,BS3 1JD,51.4411,-2.6115
 Tincan Coffee Co,BS3 1JD,51.4411,-2.6115
 Hen and Chicken,BS3 1JF,51.4405,-2.6098
+Oowee Diner,BS3 1JF,51.4405,-2.6098
 Farahway Arts and Crafts Café,BS3 1JJ,51.4412,-2.6122
 Fishminster,BS3 1JN,51.4417,-2.6130
 Soukitchen,BS3 1JP,51.4422,-2.6143
@@ -445,6 +459,7 @@ Subway (Winterstoke Road),BS3 2NS,51.4347,-2.6184
 REDPOINT CAFE,BS3 2NW,51.4343,-2.6128
 The Robins,BS3 2PW,51.4344,-2.6205
 The clove ,BS3 3EL,51.4400,-2.6110
+The Fix at BV,BS3 3LL,51.4383,-2.6035
 Mezzaluna,BS3 3NU,51.4377,-2.6035
 Windmill Hill City Farm Cafe,BS3 4EA,51.4431,-2.5934
 McDonald's Restaurant,BS3 4EG,51.4387,-2.6006
@@ -456,6 +471,7 @@ the toast room,BS3 4HH,51.4428,-2.5949
 Grounded,BS3 4HL,51.4439,-2.5934
 GANESHA INDIAN RESTAURANT PRIVATE LIMITED,BS3 4HS,51.4444,-2.5929
 McDonald's Restaurant,BS3 4JY,51.4438,-2.5951
+the rising sun pub,BS3 4LE,51.4385,-2.5941
 Florence Restaurant,BS3 4RJ,51.4422,-2.5785
 FREEDOG BRISTOL,BS3 4RP,51.4449,-2.5822
 The Hollybush,BS30 5JP,51.4534,-2.4632
@@ -464,6 +480,7 @@ The Cross House,BS30 5TF,51.4645,-2.4060
 The Pine Tree Coffee Shop,BS30 6HX,51.4303,-2.4690
 The Swan in Swineford,BS30 6LN,51.4198,-2.4454
 The Upton Inn,BS30 6LY,51.4254,-2.4454
+Chief Trading Post Ltd,BS30 6QY,51.4362,-2.4723
 Flip Out Bristol,BS30 7DA,51.4445,-2.4977
 Subway (Longwell Green),BS30 7DA,51.4445,-2.4977
 FIRST CHOICE KEBAB,BS30 8DB,51.4488,-2.4790
@@ -484,9 +501,11 @@ BIRD IN HAND,BS31 3EJ,51.4049,-2.4524
 Jolly Sailor Inn,BS31 3ER,51.4109,-2.4430
 Riverside Inn,BS31 3EZ,51.3994,-2.4493
 Golden moments at 507 limited,BS31 3HQ,51.4018,-2.4563
+SAFFRON,BS32 4JT,51.5489,-2.5528
 Aztec Hotel & Spa,BS32 4TS,51.5420,-2.5687
 Lodge at Bristol,BS32 4TS,51.5420,-2.5687
 Subway-WillowBrook District Centre,BS32 8EF,51.5354,-2.5479
+Chandos Deli,BS34 5DG,51.5253,-2.5958
 Chopstix Bristol Cribbs Causeway,BS34 5DG,51.5253,-2.5958
 AirHop Bristol,BS34 5TA,51.5302,-2.5930
 McDonald's Restaurant ,BS34 5TQ,51.5297,-2.6012
@@ -502,7 +521,6 @@ Farm Shop Cafe,BS35 5RE,51.5408,-2.6205
 The Wave,BS35 5RE,51.5408,-2.6205
 Taj Brasserie,BS36 1JG,51.5259,-2.5062
 The Globe,BS36 2AB,51.5357,-2.4827
-Poplars Farm Cafe,BS36 2AR,51.5385,-2.4935
 The Rising Sun,BS36 2HN,51.5322,-2.4760
 The Gingerbread Man coffee shop ,BS36 2JX,51.5330,-2.4743
 Frampton Balti ,BS36 2LE,51.5314,-2.4719
@@ -577,6 +595,9 @@ Long Ashton Golf Club,BS41 9DW,51.4394,-2.6697
 Ashton Courtyard  Café,BS41 9JN,51.4437,-2.6381
 The Angel Inn,BS41 9LT,51.4349,-2.6474
 The Climbing Academy - The Mothership,BS5 0FD,51.4554,-2.5691
+Piri Piri Corner ,BS5 0NP,51.4661,-2.5692
+Piri Piri Corner ,BS5 0PU,51.4622,-2.5723
+Real Habesha Restaurant,BS5 0PU,51.4622,-2.5723
 Pepes piri piri,BS5 0PW,51.4609,-2.5739
 Pipal Tree Restaurant,BS5 6AF,51.4629,-2.5628
 Msala Library,BS5 6DL,51.4664,-2.5645
@@ -586,6 +607,7 @@ Swagatam Authentic Indian Restaurant,BS5 6JD,51.4689,-2.5645
 EASTERN TASTE,BS5 6JH,51.4677,-2.5643
 The Thali Cafe,BS5 6JH,51.4677,-2.5643
 The African  Village Barbecue,BS5 6NQ,51.4694,-2.5658
+Lick'n Chick'n,BS5 6PA,51.4704,-2.5641
 Bake Box,BS5 7AA,51.4612,-2.5512
 Fountain cafe,BS5 8AJ,51.4599,-2.5447
 The Lord Raglan Ltd,BS5 8LN,51.4569,-2.5291
@@ -608,10 +630,13 @@ At The Well,BS6 5RR,51.4650,-2.5905
 Elia Cafe Bar,BS6 6JX,51.4634,-2.6071
 Brewhouse and Kitchen Bristol,BS6 6JY,51.4636,-2.6079
 Crying Wolf,BS6 6JY,51.4636,-2.6079
+Juboraj,BS6 6JY,51.4636,-2.6079
 Muino,BS6 6LA,51.4640,-2.6078
 rock salt restaurant ,BS6 6LA,51.4640,-2.6078
 Bravas,BS6 6LD,51.4643,-2.6089
+Falafel King,BS6 6LF,51.4645,-2.6087
 Snobby’s ,BS6 6PE,51.4676,-2.6064
+REDLAND TANDOORI LTD,BS6 6PF,51.4679,-2.6047
 The Shakespeare,BS6 6SS,51.4703,-2.6068
 Koocha Mezze Bar Ltd,BS6 7AD,51.4702,-2.5950
 La CAMPAGNUOLA,BS6 7AG,51.4700,-2.5943
@@ -628,14 +653,17 @@ Suncraft,BS7 8AD,51.4715,-2.5923
 eat a pitta ,BS7 8AD,51.4715,-2.5923
 Spicer and Cole Gloucester Road,BS7 8AE,51.4713,-2.5932
 THE PROMANADE CAFE BAR LTD,BS7 8AE,51.4713,-2.5932
+reel soul ,BS7 8AE,51.4713,-2.5932
 Beat 2 The Soul,BS7 8AL,51.4720,-2.5923
 The Gallimaufrey,BS7 8AL,51.4720,-2.5923
 The Hobgoblin,BS7 8AS,51.4722,-2.5915
 Tincan Coffee Co,BS7 8BA,51.4739,-2.5911
 La Fiorentina ,BS7 8BE,51.4745,-2.5913
+nectar house,BS7 8BE,51.4745,-2.5913
 Atomic Burger ,BS7 8BG,51.4750,-2.5909
 Bakers & Co,BS7 8BG,51.4750,-2.5909
 Planet Pizza,BS7 8BG,51.4750,-2.5909
+mula lounge,BS7 8NT,51.4771,-2.5904
 LONA GRILL HOUSE LTD,BS7 8NY,51.4792,-2.5892
 Avanalounge limet,BS7 8PB,51.4806,-2.5889
 lazz lounge,BS7 8PB,51.4806,-2.5889
@@ -647,6 +675,7 @@ Deck Cafe,BS7 8TN,51.4831,-2.5869
 The Royal Oak,BS7 8TN,51.4831,-2.5869
 PER&KOR LTD,BS7 8TP,51.4834,-2.5873
 Cafe Jackalope,BS7 8TS,51.4840,-2.5864
+THE KANDYAN,BS7 8TS,51.4840,-2.5864
 Grounded,BS7 8TZ,51.4851,-2.5859
 The Wellington ,BS7 8UR,51.4889,-2.5853
 Sportsman & Annexe,BS7 9EQ,51.4799,-2.5875
@@ -667,6 +696,7 @@ Allstars Bristol,BS8 1QE,51.4557,-2.6052
 Eat a Pitta ,BS8 1QE,51.4557,-2.6052
 Queens Rd,BS8 1QE,51.4557,-2.6052
 SOHO Coffee Shops Limited Queens Rd,BS8 1QE,51.4557,-2.6052
+Illy caffe bristol,BS8 1QP,51.4567,-2.6076
 Bubbleology,BS8 1QQ,51.4562,-2.6066
 Subway (The Triangle),BS8 1QU,51.4571,-2.6073
 Cloakroom Cafe,BS8 1US,51.4558,-2.6020
@@ -676,6 +706,7 @@ Budapest Cafe,BS8 2HS,51.4631,-2.6135
 The Alma Tavern and Theatre,BS8 2HY,51.4625,-2.6148
 BBC Bristol Club,BS8 2LR,51.4602,-2.6081
 Bakesmiths,BS8 2LY,51.4623,-2.6083
+Spoke and Stringer,BS8 2NN,51.4640,-2.6107
 Bar Humbug,BS8 2NT,51.4633,-2.6088
 Thai Classic Restaurant Ltd,BS8 2NT,51.4633,-2.6088
 The Boston Tea Party Group Limited,BS8 2NT,51.4633,-2.6088
@@ -727,6 +758,7 @@ The White Horse,BS9 3DZ,51.4945,-2.6180
 Indian kitchen ,BS9 3ED,51.4945,-2.6185
 The British Raj,BS9 3HN,51.4953,-2.6173
 Hunters Cafe Bar,BS9 3RW,51.4882,-2.6246
+Salkaara,BS9 4HN,51.4806,-2.6124
 Westbury Park Pub,BS9 4HP,51.4816,-2.6123
 Kondi Brasserie,BS9 4JP,51.4858,-2.6113
 Cafe96,BS9 4JZ,51.4848,-2.6120
@@ -737,6 +769,7 @@ The Fox and Hounds Inn,GL9 1HW,51.5253,-2.2778
 The Compass Inn,GL9 1JB,51.5066,-2.3407
 The Northey Arms,SN13 8AE,51.4162,-2.2665
 The Old House At Home,SN14 7LT,51.5145,-2.2668
+The Bull at Hinton,SN14 8HG,51.4893,-2.3853
 Tollgate Catering LTD,SN14 8LF,51.4706,-2.3661
 Sweetapples Tea Shop ,SN14 8LR,51.4620,-2.3187
 The Catherine wheel,SN14 8LR,51.4620,-2.3187

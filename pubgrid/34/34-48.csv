@@ -31,7 +31,6 @@ SHELLYS cafe,BS35 2AT,51.6066,-2.5255
 The Wheatsheaf,BS35 2BJ,51.6065,-2.5255
 Taj Brasserie,BS36 1JG,51.5259,-2.5062
 The Globe,BS36 2AB,51.5357,-2.4827
-Poplars Farm Cafe,BS36 2AR,51.5385,-2.4935
 The Rising Sun,BS36 2HN,51.5322,-2.4760
 The Gingerbread Man coffee shop ,BS36 2JX,51.5330,-2.4743
 Frampton Balti ,BS36 2LE,51.5314,-2.4719
@@ -76,8 +75,10 @@ Dursley Town Sports Club Limited ,GL11 4BJ,51.6836,-2.3578
 The Hummingbird Cafe Bar And Restaurant  Limited ,GL11 4BP,51.6817,-2.3551
 Ranchers Steakhouse LTD Trading as Oak At Kingshill,GL11 4EJ,51.6886,-2.3616
 YE OLDE DURSLEY HOTEL,GL11 4HL,51.6818,-2.3531
+DIL RAJ Indian cuisine ,GL11 4HR,51.6821,-2.3524
 Old Spot Inn,GL11 4JQ,51.6807,-2.3585
 Hoggies,GL11 6DD,51.6666,-2.4202
+The Black Horse Inn,GL11 6DT,51.6613,-2.3747
 Leaf & Ground,GL11 6PP,51.6932,-2.3761
 SWAN HOTEL MARKET STREET LTD,GL12 7AE,51.6376,-2.3540
 THE ROYAL OAK,GL12 7AG,51.6378,-2.3554
@@ -109,7 +110,6 @@ Amalfi (nailsworth),GL6 0BX,51.6942,-2.2190
 Wild Garlic Bistro & Rooms,GL6 0DB,51.6940,-2.2202
 The Britannia Inn,GL6 0DG,51.6940,-2.2212
 Giuseppe's,GL6 0DU,51.6948,-2.2191
-Passage to India Restaurant,GL6 0DU,51.6948,-2.2191
 The Canteen,GL6 0DU,51.6948,-2.2191
 The Weighbridge Inn,GL6 9AL,51.6933,-2.1997
 Minchinhampton Golf Club Ltd,GL6 9BE,51.6868,-2.1638
@@ -119,7 +119,6 @@ Snooty Fox Hotel,GL8 8DD,51.6369,-2.1579
 Lyndseys Cafe,GL8 8JG,51.6362,-2.1600
 TETBURY PUB CO LIMITED,GL8 8JJ,51.6398,-2.1609
 GREYHOUND TETBURY LIMITED,GL8 8JN,51.6401,-2.1626
-LITTLE INDIA AT THE BELL LTD,GL8 8NF,51.6807,-2.1734
 The Bell,GL8 8NF,51.6807,-2.1734
 Queen Matilda Country Inn and rooms,GL8 8NT,51.6795,-2.1678
 CAT AND CUSTARD POT LTD,GL8 8PN,51.6046,-2.1601
@@ -140,6 +139,7 @@ The Bell Inn,SN14 7BG,51.4873,-2.1929
 Manor House Hotel (Castle Combe) Limited,SN14 7HR,51.4938,-2.2322
 The Salutation Inn,SN14 7LH,51.5107,-2.2347
 The Old House At Home,SN14 7LT,51.5145,-2.2668
+The Bull at Hinton,SN14 8HG,51.4893,-2.3853
 Chippenham Golf Club,SN15 5LT,51.4793,-2.1318
 The Rattlebone Inn,SN16 0LR,51.5729,-2.2114
 The Courtyard Cafe,SN16 0NA,51.5719,-2.2113

@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 Hampton by Hilton Edinburgh Airport,EH12 9GN,55.9449,-3.3642
 Fhior at Cafe Party,EH27 8BB,55.9083,-3.4161
+Dalmahoy Hotel and Country Club,EH27 8EB,55.9065,-3.3755
 Holiday Inn Express Edinburgh Airport ,EH28 8AU,55.9447,-3.3710
 McDonalds ,EH28 8LQ,55.9220,-3.4216
 Norton House Hotel & Spa,EH28 8LX,55.9327,-3.3841
@@ -57,9 +58,11 @@ Bo'ness Recreation Centre,EH51 9QB,56.0113,-3.5993
 Bakkavor Ltd,EH51 9SJ,56.0157,-3.5741
 chenzo restaurant ltd,EH52 5DW,55.9298,-3.5067
 THE DINE,EH52 5EE,55.9345,-3.4693
+Marios,EH52 5EQ,55.9340,-3.4672
 Starbucks,EH52 5FF,55.9351,-3.4470
 The Open Door,EH52 5HY,55.9306,-3.5020
 Williamson Design Florist Ltd,EH52 6PA,55.9216,-3.5180
+The Fat Pheasant,EH52 6QE,55.9835,-3.4564
 Tally Ho,EH52 6TP,55.9599,-3.4622
 Calderwood Cafe,EH53 0GH,55.9007,-3.4549
 Bayleaf,EH53 0LW,55.9073,-3.4927
@@ -122,6 +125,7 @@ The loch cafe,KY12 0HT,56.0866,-3.4484
 1703 Dunfermline,KY12 7AG,56.0720,-3.4638
 Incontri ,KY12 7AG,56.0720,-3.4638
 Basil Indian Restaurant,KY12 7AN,56.0729,-3.4625
+Koku Shi Dunfermline,KY12 7AN,56.0729,-3.4625
 cafe giacomo,KY12 7AP,56.0718,-3.4616
 Carlucci Restaurant,KY12 7AR,56.0714,-3.4635
 La Menta,KY12 7AT,56.0716,-3.4613
@@ -130,6 +134,7 @@ Casa Mia ,KY12 7DS,56.0667,-3.4583
 Tapas Ducal,KY12 7DS,56.0667,-3.4583
 Dhoom Streetery and Bar,KY12 7EA,56.0711,-3.4589
 Commercial Inn,KY12 7EB,56.0718,-3.4610
+Juniper Wine Cafe,KY12 7EF,56.0709,-3.4582
 THE ELIZABETHAN,KY12 7LX,56.0777,-3.4264
 The Old Inn,KY12 7NA,56.0706,-3.4642
 Fresh Coffee Shop,KY12 7NB,56.0709,-3.4635

@@ -27,6 +27,7 @@ tutbury tea room,DE13 9LP,52.8577,-1.6853
 Gorkha Palace,DE13 9LU,52.8587,-1.6845
 Marigold,DE13 9NR,52.8559,-1.6839
 Hilton at St George's Park Burton Upon Trent,DE13 9PD,52.8177,-1.7601
+Lancaster park cafe,DE13 9PD,52.8177,-1.7601
 The Bell Inn,DE13 9QD,52.8240,-1.6879
 The Topiary Coffee Shop,DE13 9RN,52.8080,-1.7444
 The Horseshoe Inn,DE13 9SD,52.7951,-1.6981
@@ -73,6 +74,7 @@ The Bridge Inn,DE14 3EZ,52.7883,-1.6778
 The Hub Cafe,DE14 3HD,52.7819,-1.6812
 Rivaj Restaurant,DE14 3HF,52.7867,-1.6713
 THE HIDEAWAY BURTON LIMITED,DE14 3QN,52.8009,-1.6321
+Verde ,DE14 3QN,52.8009,-1.6321
 CLAYPOT LOUNGE,DE14 3QW,52.8014,-1.6349
 Wing Wah Chinese Restaurant ,DE14 3QW,52.8014,-1.6349
 The Winery,DE14 3RW,52.8004,-1.6291
@@ -83,6 +85,7 @@ Anglesey Arms,DE15 0JW,52.8065,-1.6083
 The Sump,DE15 0TT,52.8125,-1.6126
 Urban Chef Burton,DE15 9SQ,52.7835,-1.6133
 The Gate Inn,DE15 9TH,52.7719,-1.5964
+Blue Burton Indian Restaurant,DE15 9TJ,52.7773,-1.6051
 Yeaveley Arms,DE6 2DT,52.9602,-1.7217
 The Aviator Restaurant ,DE6 2ET,52.9675,-1.7539
 The Crown Inn (Marston) Ltd,DE6 2FF,52.9389,-1.8003
@@ -92,6 +95,7 @@ The Red Lion,DE6 3HA,52.9542,-1.6618
 Hackwood Farm,DE6 4LZ,52.9175,-1.5754
 The Cow Inn Dalbury,DE6 5BE,52.9335,-1.6078
 The Horse Long Lane Ltd,DE6 5BJ,52.9397,-1.6292
+The Roebuck (Draycott) Limited,DE6 5BT,52.8600,-1.7715
 The Roebuck,DE6 5BT,52.8600,-1.7715
 THE BOARS HEAD HOTEL,DE6 5GX,52.8697,-1.7607
 Sweet Little Limited,DE6 5HS,52.8853,-1.7616
@@ -126,7 +130,6 @@ Divine ,ST14 8HL,52.8977,-1.8641
 Time,ST14 8HN,52.8980,-1.8631
 Be catered 4,ST14 8HP,52.8983,-1.8639
 Hohm Coffee & Bar Ltd,ST14 8HP,52.8983,-1.8639
-Miah Spice Limited,ST14 8HP,52.8983,-1.8639
 Vintage Tea Emporium ,ST14 8HP,52.8983,-1.8639
 Dog and partridge marchington,ST14 8LJ,52.8741,-1.7990
 The Shrewsbury Arms,ST14 8QH,52.8661,-1.9121

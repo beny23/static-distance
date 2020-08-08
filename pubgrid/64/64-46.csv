@@ -1,12 +1,14 @@
 name,postcode,lat,lon
 6 Burgerz,BB1 1BB,53.7429,-2.4793
 STEAKOUT,BB1 1BB,53.7429,-2.4793
+Steak out,BB1 1BB,53.7429,-2.4793
 subway,BB1 1EY,53.7464,-2.4795
 Chai Station,BB1 1NR,53.7478,-2.4587
 DD DINER,BB1 1RN,53.7430,-2.4702
 sahad blackburn ,BB1 1TD,53.7435,-2.4713
 Wright's Bites,BB1 2AL,53.7477,-2.4461
 FLIP OUT BLACKBURN,BB1 2EE,53.7307,-2.4526
+Zeddy's chicken  and pizza,BB1 2HR,53.7392,-2.4525
 The Burger Bros,BB1 3AN,53.7486,-2.4673
 HAWELI INDIAN CUISINE,BB1 3AZ,53.7486,-2.4701
 speedy steaks,BB1 3BD,53.7512,-2.4607
@@ -19,6 +21,7 @@ Exchange Coffee Company Blackburn Market,BB1 5AF,53.7483,-2.4832
 JW Chilli & Salt Blackburn ,BB1 5AF,53.7483,-2.4832
 KFC,BB1 5AF,53.7483,-2.4832
 Spindles Diner ltd,BB1 5AF,53.7483,-2.4832
+Thai noodle bar ,BB1 5AF,53.7483,-2.4832
 The Pepper Pot ,BB1 5AF,53.7483,-2.4832
 Wellbread,BB1 5AF,53.7483,-2.4832
 Zakros Greek Cuisine & Thai noodle bar,BB1 5AF,53.7483,-2.4832
@@ -27,9 +30,11 @@ Calypso Restaurant,BB1 5BY,53.7492,-2.4742
 TCK DELI MARKET LTD,BB1 5DP,53.7522,-2.4699
 Marhaba sweets,BB1 6DS,53.7526,-2.4813
 Naafiah GrillHouse ,BB1 6DS,53.7526,-2.4813
+Pepe's Piri Piri,BB1 6DS,53.7526,-2.4813
 Chaiiwala,BB1 6EE,53.7559,-2.4773
 Kebabish Original,BB1 6JZ,53.7589,-2.4711
 Dipz Donut & Gelato,BB1 6LB,53.7591,-2.4704
+Sliders ,BB1 6LR,53.7579,-2.4699
 Roberto's Bar & Bistro,BB1 7AR,53.7505,-2.4857
  McDonald's,BB1 7DJ,53.7491,-2.4843
 WAHEED'S BUFFET,BB1 7EG,53.7518,-2.4849
@@ -47,12 +52,14 @@ Tiggis,BB1 9EX,53.7951,-2.5071
 The Bonny Inn Limited,BB1 9HQ,53.7912,-2.4891
 Wilpshire Golf Club,BB1 9LF,53.7885,-2.4740
 LAHORE QILA LTD,BB1 9TL,53.7609,-2.4718
+Lahore qila ltd,BB1 9TL,53.7609,-2.4718
 Mad Hatters Cupcakes & Tea Room,BB2 1AG,53.7497,-2.4850
 muffins tea shop ,BB2 1AG,53.7497,-2.4850
 Heavenly Desserts Blackburn Ltd,BB2 1AN,53.7504,-2.4864
 The Tawa & Grill Hut,BB2 1EH,53.7498,-2.4927
 Roomali,BB2 1JD,53.7482,-2.4857
 The Refreshment Bar,BB2 1JU,53.7484,-2.4851
+Achari ,BB2 1XB,53.7414,-2.5063
 Witton Inn,BB2 1XQ,53.7416,-2.5068
 Taste Of India ,BB2 2AD,53.7459,-2.4829
 Crust,BB2 2BH,53.7463,-2.4827
@@ -79,6 +86,7 @@ Traders Arms,BB2 7EW,53.7739,-2.5255
 The Bay Horse Inn,BB2 7HX,53.7805,-2.5368
 Hawkshaw Farm Visitor Centre,BB2 7JA,53.7872,-2.5245
 The Millstone,BB2 7JR,53.7736,-2.5291
+Stanley House Hotel & Spa,BB2 7NP,53.7629,-2.5300
 feildens arms,BB2 7PR,53.7759,-2.5467
 The White Bull Oswaldtwistle,BB5 3QW,53.7374,-2.4058
 Britannia,BB5 3RJ,53.7296,-2.4148
@@ -96,6 +104,7 @@ Pendle catering ltd,BB6 8AF,53.8025,-2.4731
 Black Bull Inn,BB6 8AW,53.8175,-2.4553
 The Avenue Hotel Ltd,BB6 8AY,53.8241,-2.4526
 Northcote Hotel,BB6 8BE,53.8093,-2.4476
+Royal Taj,BB6 8DD,53.8045,-2.4475
 THE INN AT WHITEWELL,BB7 3AT,53.9172,-2.5204
 The Red Pump Inn,BB7 3DA,53.8839,-2.4642
 The Parkersarms,BB7 3DY,53.9494,-2.4624
@@ -129,6 +138,7 @@ Booths,PR1 0XW,53.7360,-2.7310
 The Stanley Arms,PR1 1DA,53.7589,-2.6973
 Home Bakery ,PR1 1FB,53.7609,-2.6977
 Level,PR1 1HT,53.7596,-2.6975
+House of Gelato,PR1 1NA,53.7699,-2.7048
 house of gelato,PR1 1NA,53.7699,-2.7048
 mastersons,PR1 1NA,53.7699,-2.7048
 BURGER HUT,PR1 1TS,53.7643,-2.6937
@@ -145,10 +155,12 @@ Cool Panda,PR1 2ED,53.7618,-2.7059
 A Taste of Thailand,PR1 2EE,53.7609,-2.7041
 AASEM & NOOR LTD,PR1 2EE,53.7609,-2.7041
 AZUMA RESTAURANT,PR1 2EE,53.7609,-2.7041
+Food savour ltd,PR1 2EE,53.7609,-2.7041
 Grillaz ,PR1 2EE,53.7609,-2.7041
 Plau,PR1 2EE,53.7609,-2.7041
 McDonald's Restaurants Ltd,PR1 2EJ,53.7598,-2.7011
 BISTROT PIERRE - PRESTON,PR1 2NJ,53.7578,-2.7047
+Bistrot Pierre - Preston,PR1 2NJ,53.7578,-2.7047
 KFC,PR1 2NJ,53.7578,-2.7047
 Laviva Café ,PR1 2NJ,53.7578,-2.7047
 Moka cafe bar and restaurant,PR1 2NJ,53.7578,-2.7047
@@ -195,6 +207,7 @@ The Destination ,PR1 4LQ,53.7607,-2.6826
 new hall lane cafe,PR1 4ST,53.7637,-2.6741
 top cafe,PR1 5EB,53.7664,-2.6794
 THE VENUE PRESTON LTD,PR1 5LG,53.7634,-2.6886
+Firdous Limited,PR1 5UT,53.7664,-2.6767
 Rosemary on the Park,PR1 6AU,53.7750,-2.6959
 Fiza Foods Ltd,PR1 6PZ,53.7652,-2.6925
 Marco & Carl ,PR1 6PZ,53.7652,-2.6925
@@ -221,8 +234,10 @@ Tap and Vine,PR1 9XD,53.7494,-2.7321
 Ignite Cafe,PR2 1AU,53.7630,-2.7279
 Lyn's Lunch Box,PR2 1UL,53.7693,-2.7550
 Lillybetts,PR2 1XL,53.7673,-2.7631
+Delicachix ,PR2 2LP,53.7716,-2.7284
 Pitstop Cafe,PR2 2NE,53.7654,-2.7167
 Tang Restaurant,PR2 2NH,53.7648,-2.7189
+Taboosh ,PR2 2NJ,53.7651,-2.7189
 MAHARANI SOUTH INDIAN RESTAURANT LTD,PR2 2NN,53.7638,-2.7235
 gusto italia ashton,PR2 2NN,53.7638,-2.7235
 Take 5 coffee shop ,PR2 2PD,53.7604,-2.7518
@@ -282,6 +297,7 @@ CROMWELLS,PR3 3JA,53.8306,-2.6014
 Tayah’s Cafe,PR3 3JJ,53.8314,-2.6025
 Old Station cafe,PR3 3JP,53.8322,-2.6042
 the towneley arms,PR3 3JP,53.8322,-2.6042
+65s Cafe,PR3 3NH,53.8324,-2.6055
 Fullaloves Wines,PR3 3NJ,53.8324,-2.6058
 The Forrest Arms,PR3 3NP,53.8328,-2.6071
 The Dog Inn,PR3 3RR,53.8294,-2.5999

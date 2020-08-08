@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 Kingfisher Caravan Park,PO13 9BE,50.7902,-1.1710
 castle inn newport ,PO30 1BQ,50.6996,-1.2977
+Bengal palace ,PO30 1HS,50.6910,-1.2891
 Subway,PO30 1JU,50.6990,-1.2929
 Town Choice Cafe ,PO30 1JU,50.6990,-1.2929
 Cornerstop Cafe Ltd,PO30 1JZ,50.6977,-1.2943
@@ -39,6 +40,7 @@ Hong Kong Express,PO30 5EP,50.7005,-1.2939
 Hewitt's Restaurant ,PO30 5ET,50.7002,-1.2967
 Ambassador freehouse limited,PO30 5LE,50.6960,-1.3216
 Forest View Cafe,PO30 5NB,50.7071,-1.3104
+The Blacksmiths Arms,PO30 5SS,50.6892,-1.3432
 THE STAG,PO30 5TW,50.7242,-1.3046
 The Cafe,PO30 5UX,50.7065,-1.2936
 MURRAYS,PO31 7AT,50.7622,-1.2978
@@ -75,6 +77,7 @@ The Lifeboat,PO32 6UB,50.7509,-1.2906
 So Yummy,PO33 2HT,50.7277,-1.1628
 slice of life cafe,PO33 2HW,50.7288,-1.1631
 Blacksheep Bar and Club Lounge ,PO33 2LF,50.7305,-1.1628
+Thekebabhouse ,PO33 2PN,50.7295,-1.1631
 Kevars,PO33 2RE,50.7270,-1.1630
 The White Hart Inn,PO33 4DP,50.7097,-1.2084
 The Fishbourne,PO33 4EU,50.7332,-1.2121
@@ -124,6 +127,7 @@ Carnaby Tea Rooms,PO38 1LU,50.5956,-1.2029
 The Bonchurch Inn,PO38 1NU,50.6011,-1.1867
 The Blenheim,PO38 1RY,50.5953,-1.2059
 T & D kitchen Ventnor ,PO38 1RZ,50.5953,-1.2048
+The Hambrough,PO38 1SQ,50.5939,-1.2057
 Masala Bay,PO38 1ST,50.5948,-1.2052
 Ventnor Botanic Garden C I C,PO38 1UL,50.5897,-1.2300
 THE WHITE LION,PO38 2AT,50.5881,-1.2849
@@ -162,6 +166,7 @@ Otter Nursery,SO41 0JD,50.7470,-1.5719
 Keyhaven Yacht Club Ltd,SO41 0TR,50.7231,-1.5633
 The Mayflower,SO41 3QD,50.7510,-1.5308
 Lymington Town Sailing Club,SO41 3SE,50.7544,-1.5301
+ROYAL LYMINGTON YACHT CLUB,SO41 3SE,50.7544,-1.5301
 Walhampton Arms,SO41 5RE,50.7712,-1.5286
 THE EAST END ARMS LTD,SO41 5SY,50.7692,-1.4881
 THE CHEQUERS INN,SO41 8AH,50.7414,-1.5454

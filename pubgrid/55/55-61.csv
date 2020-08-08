@@ -2,6 +2,7 @@ name,postcode,lat,lon
 La Trattoria da Vincenzo ,LN1 1JT,53.2312,-0.5415
 QUEEN IN THE WEST,LN1 1PR,53.2338,-0.5536
 The Horse and Groom,LN1 1RH,53.2305,-0.5478
+teetime catering,LN1 1SE,53.2339,-0.5602
 COFFEE AROMA,LN1 1TR,53.2293,-0.5410
 Cicchetti,LN1 1TT,53.2292,-0.5414
 Age UK Lincoln & South Lincolnshire,LN1 1UQ,53.2306,-0.5418
@@ -63,12 +64,14 @@ THE LINCOLN HOTEL,LN2 1PN,53.2357,-0.5352
 KFC,LN2 1RE,53.2383,-0.5319
 Lincolnshire Police Headquarters,LN2 2LT,53.2686,-0.4914
 GREEK2ME LTD,LN2 2NR,53.2657,-0.4887
+The Plant Pot Cafe,LN2 2NR,53.2657,-0.4887
 Mamma’s italian Bistro ,LN2 4FN,53.2417,-0.5074
 Starbucks,LN2 4GR,53.2519,-0.5175
 mach restaurant,LN2 4RA,53.2521,-0.4814
 Darkside Training,LN2 4SY,53.2378,-0.5101
 Moonraker floating tearoom,LN2 5DQ,53.2284,-0.5376
 Witch and Wardrobe Lincoln ,LN2 5DQ,53.2284,-0.5376
+CHERRY TREE INN,LN3 4AS,53.2360,-0.4589
 Fox and Hounds Reepham,LN3 4DN,53.2510,-0.4423
 WISHING WELL,LN3 4JL,53.2422,-0.4552
 Woodside Falconry LTD,LN3 5DQ,53.2693,-0.3807
@@ -121,6 +124,7 @@ McDonald's,LN6 7JL,53.2033,-0.5802
 The Elite Fish and Chip Company,LN6 7JW,53.2034,-0.5831
 Boultham Park Cafe,LN6 7PH,53.2086,-0.5615
 Curtis of Lincoln,LN6 7PH,53.2086,-0.5615
+Smiths Tea Room,LN6 7ST,53.2105,-0.5613
 Jump INC Lincoln,LN6 7UB,53.2186,-0.5562
 Lincoln green pub limited ,LN6 8DL,53.1905,-0.5768
 Coffee Culture,LN6 8HW,53.1941,-0.5803

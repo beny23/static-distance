@@ -34,6 +34,7 @@ the wine bar,CV9 1HA,52.5779,-1.5469
 Artigiano ,CV9 1JP,52.5774,-1.5445
 Blue Boar Inn,CV9 1NE,52.5717,-1.5273
 The Kings Head,CV9 2PA,52.5798,-1.5541
+Holly lane Café ,CV9 2QZ,52.5833,-1.5530
 UK MASSALA MIX LTD T/A MAYA BAR & RESTAURANT,CV9 3AD,52.5837,-1.5472
 Cobwebs (Austrey) Ltd t/a Bird in Hand Inn,CV9 3EB,52.6522,-1.5624
 Blue Lion,CV9 3NA,52.5735,-1.5210
@@ -43,6 +44,7 @@ The Hub Cafe,DE12 6AT,52.7336,-1.5360
 YHA National Forest,DE12 6BD,52.7380,-1.5488
 Lakeside Bistro,DE12 6BW,52.7331,-1.5439
 Artisan Deli Digbeth Limited,DE12 7AJ,52.6820,-1.5238
+Saffron Event & Venue Caterers Limited,DE12 7AJ,52.6820,-1.5238
 Appleby Inn,DE12 7AP,52.6722,-1.5406
 McLean Restaurants Ltd,DE12 7AP,52.6722,-1.5406
 Alpaca Park Farm,DE12 7DB,52.6810,-1.4902
@@ -54,6 +56,7 @@ THE CRICKETTS INN,DE12 8AP,52.7174,-1.5611
 Buttercream Tearoom,LE10 0AD,52.5411,-1.3743
 New Baron of Hinckley,LE10 0AZ,52.5409,-1.3742
 Rusiana Cafe Bar Hinckley,LE10 0BB,52.5408,-1.3739
+Sumac Grill,LE10 0BL,52.5412,-1.3749
 Rendezvous ,LE10 0DP,52.5474,-1.3716
 7H SPICES,LE10 0JT,52.5391,-1.3784
 THE WHITE BEAR,LE10 0JT,52.5391,-1.3784
@@ -84,6 +87,7 @@ Millennium Balti LTD,LE10 1QD,52.5450,-1.3682
 RANN BUSINESS LTD,LE10 1QU,52.5434,-1.3739
 Everest Dine,LE10 1QW,52.5442,-1.3696
 Ashby Tavern,LE10 1SL,52.5493,-1.3679
+Charlotte's Cafe Bar Ltd,LE10 1YG,52.5557,-1.3764
 McDonald's Restaurants Ltd,LE10 1YG,52.5557,-1.3764
 HOUSE KITCHEN ,LE10 2AF,52.5317,-1.3502
 Windsor Tiffin,LE10 2EE,52.5266,-1.3503
@@ -119,9 +123,9 @@ Gilly's Sandwich Bar,LE3 2XQ,52.6049,-1.1818
 Daljinder singh,LE3 8BD,52.6515,-1.1991
 Shant Restaurant,LE3 8BQ,52.6514,-1.2040
 Sameeha Restaurant ,LE3 8ED,52.6505,-1.1941
-Subway,LE4 1DF,52.6655,-1.1672
 Fish & Chips (leicester) Ltd,LE4 1DG,52.6660,-1.1669
 McDonald's Restaurants Ltd,LE4 1DG,52.6660,-1.1669
+SUBWAY,LE4 1DS,52.6663,-1.1665
 The Bradgate,LE6 0AE,52.6852,-1.2342
 THE GREY LADY,LE6 0AH,52.6976,-1.2321
 The Stamford Arms,LE6 0DJ,52.6623,-1.2241
@@ -137,7 +141,6 @@ The Courtyard Cafe,LE65 1AG,52.7474,-1.4716
 Zamanis,LE65 1AL,52.7465,-1.4726
 Amino Food,LE65 1AN,52.7470,-1.4708
 Dolce cafe,LE65 1AN,52.7470,-1.4708
-Subway,LE65 1AN,52.7470,-1.4708
 De la zouch bangladeshi cuisine,LE65 1AP,52.7476,-1.4692
 Taste of Thai Restaurant,LE65 1AP,52.7476,-1.4692
 Rose Cottage Tearooms,LE65 1HP,52.7477,-1.4711
@@ -173,7 +176,6 @@ Bombay Bistro Restaurant ,LE67 6LG,52.6881,-1.3970
 ANGEL INN,LE67 8GB,52.7465,-1.4064
 Robin Hood Public House,LE67 8QQ,52.7390,-1.3856
 Ai & co Ltd ,LE67 9PP,52.6981,-1.2970
-Subway,LE67 9PU,52.7007,-1.3053
 Ulversroft Grange Tearoom,LE67 9QB,52.7060,-1.2872
 Welby Hospitality Ltd. ,LE67 9RF,52.6848,-1.2670
 The old Thatched inn,LE67 9TQ,52.6884,-1.3111
@@ -188,6 +190,7 @@ Clara's Cafe,LE7 7BW,52.6782,-1.1834
 The Pumping Station,LE7 7GB,52.6977,-1.1877
 The Bradgate Arms,LE7 7HG,52.6941,-1.1781
 Wheatsheaf Inn,LE7 7JN,52.6951,-1.1631
+Dipali Cuisine Limited,LE8 4DW,52.5735,-1.1649
 COFFEE BEAN,LE8 4FZ,52.5761,-1.1638
 The Lime Tree,LE8 6LF,52.5665,-1.1785
 The Cook in the Nook,LE9 1RQ,52.5475,-1.1950
@@ -200,6 +203,7 @@ Nemo's Bar and Restaurant,LE9 4DW,52.5454,-1.2760
 The Red Lion Sapcote,LE9 4FG,52.5355,-1.2811
 Coombs Catering at Calor Gas,LE9 4JJ,52.5594,-1.2789
 Star Inn,LE9 4LQ,52.5482,-1.2788
+The Cafe at Stoney Stanton,LE9 4TH,52.5489,-1.2788
 Broughton Astley Leisure Centre,LE9 6AZ,52.5322,-1.2217
 Fourwards at ashfields ,LE9 7DG,52.5780,-1.3102
 ritaroshani limited,LE9 7NE,52.5753,-1.3184

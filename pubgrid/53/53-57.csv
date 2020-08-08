@@ -11,6 +11,7 @@ Shanghai Shanghai Restaurant,NG1 1FE,52.9539,-1.1427
 Yolk,NG1 1FE,52.9539,-1.1427
 Viva Street Food,NG1 1FF,52.9535,-1.1428
 DESI DOWN TOWN,NG1 1FH,52.9539,-1.1405
+THE NOTTINGHAM LEGEND,NG1 1GD,52.9511,-1.1390
 Paris Nottingham Limited,NG1 1HF,52.9513,-1.1449
 ROCKET (NOTTINGHAM) LTD,NG1 1HF,52.9513,-1.1449
 Deli-Cious Chocolate at The Robe Room,NG1 1HN,52.9508,-1.1449
@@ -91,9 +92,11 @@ Yamas Meze & Tapas,NG1 3DR,52.9539,-1.1464
 Chopstix Nottingham,NG1 3ED,52.9543,-1.1479
 Clumber Street McDonalds,NG1 3ED,52.9543,-1.1479
 BISTROT PIERRE - NOTTINGHAM,NG1 3EN,52.9562,-1.1486
+Bistrot Pierre - Nottingham,NG1 3EN,52.9562,-1.1486
 kfc,NG1 3EN,52.9562,-1.1486
 Mayfair Restaurant,NG1 3FN,52.9603,-1.1503
 The Golden Fleece,NG1 3FN,52.9603,-1.1503
+Oodles Chinese Nottingham ,NG1 3FQ,52.9612,-1.1508
 Prickly Pear,NG1 3FQ,52.9612,-1.1508
 Sarangbang Korean Food Cafe,NG1 3FQ,52.9612,-1.1508
 Lincolnshire Poacher,NG1 3FR,52.9621,-1.1513
@@ -111,6 +114,7 @@ Pokéwaves,NG1 3QN,52.9578,-1.1473
 subway,NG1 3QN,52.9578,-1.1473
 Alanya Catering Ltd,NG1 4AA,52.9554,-1.1498
 Glasshouse,NG1 4AF,52.9559,-1.1488
+Moulin Rouge,NG1 4AF,52.9559,-1.1488
 The Pudding Pantry,NG1 4AF,52.9559,-1.1488
 GINSECCO,NG1 4DB,52.9558,-1.1502
 SY101 Limited t/a Alto,NG1 4DB,52.9558,-1.1502
@@ -119,6 +123,7 @@ subway,NG1 4DB,52.9558,-1.1502
 tamatanga,NG1 4DB,52.9558,-1.1502
 The Playwright,NG1 4FQ,52.9578,-1.1508
 chunky chicken nottingham ltd,NG1 4FQ,52.9578,-1.1508
+Raglan Road Irish Bar,NG1 5BA,52.9554,-1.1602
 Dancing Dragon restaurant ,NG1 5BB,52.9556,-1.1612
 Tough Marys Bakehouse Ltd,NG1 5FD,52.9554,-1.1583
 The Strathdon Hotel,NG1 5FT,52.9553,-1.1572
@@ -192,6 +197,7 @@ Buonissima Aperitivo bar,NG10 5BG,52.9227,-1.2871
 Appertize Sandwich Bar ,NG10 5HL,52.9218,-1.2963
 Bridge Inn,NG10 5LW,52.9154,-1.2900
 The Tailors Arms,NG11 7AX,52.9254,-1.1573
+Ayushi Indian Street Food Limited ,NG11 7FH,52.9150,-1.1640
 Clifton McDonalds,NG11 8NA,52.9055,-1.1883
 kfc,NG11 8NA,52.9055,-1.1883
 The Radcliffe,NG12 1AW,52.9527,-1.0314
@@ -213,11 +219,13 @@ Horse & Plough,NG13 8AF,52.9514,-0.9544
 Rose & May,NG13 8AF,52.9514,-0.9544
 COPPER,NG13 8AP,52.9527,-0.9520
 Number Sixteen,NG13 8AP,52.9527,-0.9520
+Pizza Pizza Plus Ltd,NG13 8AR,52.9525,-0.9533
 The White Lion,NG13 8AT,52.9505,-0.9595
 Costa Bingham,NG13 8BD,52.9522,-0.9535
 The Wheatsheaf Bingham,NG13 8BG,52.9512,-0.9543
 the royal oak,NG13 8JE,52.9768,-0.9299
 Caffe Velo Verde,NG13 8JL,52.9852,-0.9124
+INDIANNIGHTS ,NG13 8LA,52.9733,-0.9526
 Indian Nights,NG13 8LA,52.9733,-0.9526
 The Royal Oak,NG13 8PA,52.9802,-0.9695
 The Unicorns Head ,NG13 9HE,52.9041,-0.9255
@@ -258,6 +266,7 @@ McDonald's Hucknall,NG15 7UQ,53.0358,-1.1963
 THE HORSE AND GROOM,NG15 8AE,53.0542,-1.2034
 Bella Mia Restaurant,NG15 8AY,53.0481,-1.2153
 Roses Pantry,NG15 9BD,53.0855,-1.1658
+Ve Raj Restaurant ,NG15 9DH,53.0841,-1.1555
 The Larch Farm,NG15 9HA,53.0931,-1.1788
 Santini,NG15 9HG,53.0892,-1.1737
 Nawaab Saab,NG16 1DP,52.9948,-1.2309
@@ -273,6 +282,7 @@ Cricketers Rest,NG16 2NP,52.9980,-1.2576
 HOGS HEAD HOTEL LTD,NG16 2RN,52.9946,-1.2805
 Starbucks Giltbrook,NG16 2RP,53.0029,-1.2819
 Subway Giltbrook,NG16 2RP,53.0029,-1.2819
+Olive Tree Grill,NG16 3GR,53.0141,-1.2942
 The Dog and Quayle pub,NG16 5FF,53.0531,-1.2906
 1958 Coffee  House,NG16 5FX,53.0551,-1.2892
 Red Lion,NG16 5HD,53.0577,-1.2948
@@ -289,8 +299,8 @@ Through The Looking Glass,NG17 7AS,53.0990,-1.2464
 Subway,NG17 7BQ,53.0994,-1.2439
 Ribbons tea room,NG17 7DR,53.0972,-1.2436
 FullerFlavour,NG17 7LJ,53.1056,-1.2474
+Notts Golf Club Ltd,NG17 7QR,53.0843,-1.2227
 EGO at the Old Ashfield,NG17 8HX,53.1141,-1.2681
-Porterhouse (By Barlows) Ltd,NG17 9JB,53.0765,-1.2560
 The Countryman Pub,NG17 9LE,53.0915,-1.2748
 Vat & Fiddle,NG2 1NB,52.9456,-1.1485
 Embankment,NG2 2GR,52.9392,-1.1387
@@ -311,6 +321,7 @@ Scoops Express,NG2 4HJ,52.9538,-1.1225
 Papas Wok,NG2 4HU,52.9544,-1.1224
 The Dale’s Grill,NG2 4HU,52.9544,-1.1224
 Fei Xiang Ltd,NG2 4PB,52.9532,-1.1368
+Secret Pizza Nottingham,NG2 4RG,52.9531,-1.1367
 Cheff,NG2 5BL,52.9382,-1.1193
 Bread and Butterflies,NG2 5BN,52.9384,-1.1189
 Poppy & Pint,NG2 5DX,52.9365,-1.1192
@@ -472,14 +483,17 @@ Buns Burgers Shakes Fries Nottingham,NG7 3HE,52.9556,-1.1715
 The Falcon Inn,NG7 3JE,52.9565,-1.1632
 BOSPHORUS RESTAURANT,NG7 3JL,52.9572,-1.1648
 Baklava Bistro,NG7 3JL,52.9572,-1.1648
+Istanbul Restaurant,NG7 3JL,52.9572,-1.1648
 Spice Hut,NG7 3JR,52.9589,-1.1676
 The Compatriot Ltd ,NG7 3JR,52.9589,-1.1676
 Nottingnam pizza and Kabab house,NG7 3NG,52.9566,-1.1628
 Sans Patrie LTD,NG7 3NG,52.9566,-1.1628
 Tipoo Turkish Restaurant ,NG7 3NN,52.9572,-1.1640
+hukka lounge ltd,NG7 3NS,52.9585,-1.1665
 Dixy Chicken,NG7 3NU,52.9593,-1.1677
 subway,NG7 3NY,52.9559,-1.1832
 crispy chicken,NG7 5DQ,52.9631,-1.1694
+Kabul express ,NG7 5DR,52.9641,-1.1699
 Mahmoods ,NG7 5DU,52.9665,-1.1714
 Royal chicken and pizza ,NG7 5FW,52.9658,-1.1702
 Yumi Ice Cream Parlour Limited ,NG7 5FW,52.9658,-1.1702
@@ -546,6 +560,7 @@ Haveli ,NG9 5JW,52.9116,-1.2376
 The Manor,NG9 6EF,52.9038,-1.2494
 CINNAMON,NG9 7AY,52.9255,-1.2806
 VIVO Restaurant Ltd,NG9 7AY,52.9255,-1.2806
+Spice & Suave Ltd,NG9 7AZ,52.9242,-1.2805
 The Sanctuary Coffee House,NG9 7HA,52.9288,-1.2741
 Lady Jayne's Tearoom,NG9 7JA,52.9196,-1.2636
 Gurkha Curry Nights ,NG9 8AA,52.9304,-1.2717

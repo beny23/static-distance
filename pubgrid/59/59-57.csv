@@ -1,13 +1,16 @@
 name,postcode,lat,lon
 The Georgian Tearooms,DN1 1BB,53.5233,-1.1349
+Subway,DN1 1DE,53.5228,-1.1335
 Mercure Doncaster Danum Hotel,DN1 1DN,53.5226,-1.1330
 KFC,DN1 1DW,53.5231,-1.1330
 The grind,DN1 1DW,53.5231,-1.1330
 ZEST BAR AND GRILL,DN1 1DW,53.5231,-1.1330
 Bowers Coffee Shop,DN1 1HF,53.5235,-1.1323
 CHINESE CATERING LIMITED,DN1 1HT,53.5241,-1.1311
+lalezar,DN1 1JD,53.5236,-1.1297
 Legends desserts & burger,DN1 1JE,53.5232,-1.1292
 The Georgian Patisserie,DN1 1LA,53.5231,-1.1381
+Subway,DN1 1LB,53.5231,-1.1393
 Debenhams Restaurant Doncaster,DN1 1LH,53.5245,-1.1387
 C & P ROTHWELL LTD,DN1 1LQ,53.5250,-1.1333
 D & L Rothwell Ltd,DN1 1LQ,53.5250,-1.1333
@@ -40,10 +43,12 @@ Movida Bar & Restaurant ,DN1 1TS,53.5225,-1.1345
 Fish Bits,DN1 2BY,53.5160,-1.1281
 Salutation Doncaster Ltd ,DN1 2DR,53.5214,-1.1272
 The Regent Hotel LTD,DN1 2DS,53.5222,-1.1259
+Doncaster Tandoori ,DN1 2PE,53.5260,-1.1302
 El Boca Doncaster Ltd,DN1 2PH,53.5251,-1.1305
 La Rustica Doncaster Ltd,DN1 2PH,53.5251,-1.1305
 zammuto steak and grill house,DN1 2PH,53.5251,-1.1305
 EL TORERO DONCASTER LIMITED,DN1 2PW,53.5251,-1.1296
+KOZ TURKISH BARBECUE AND MEZZE BAR,DN1 2PW,53.5251,-1.1296
 Sarahs desserts snack bar ,DN1 2QP,53.5268,-1.1283
 SPICE AND ICE,DN1 2SD,53.5303,-1.1270
 The Leopard,DN1 3AA,53.5208,-1.1378
@@ -55,8 +60,10 @@ Java Cafe,DN1 3JU,53.5206,-1.1325
 Bake battle and roll ,DN1 3LW,53.5219,-1.1326
 Cactus Jacks,DN1 3NA,53.5225,-1.1301
 Poppadoms and Cream,DN1 3NL,53.5223,-1.1286
+poppadomsandcream,DN1 3NL,53.5223,-1.1286
 BLUE BELL INN,DN10 4RF,53.4080,-0.8926
 So Good It Yurts,DN10 5BP,53.4111,-0.9623
+Blacksmiths arm everton,DN10 5BQ,53.4139,-0.9627
 Blacksmiths arms,DN10 5BQ,53.4139,-0.9627
 Sun Inn - Everton,DN10 5BW,53.4103,-0.9577
 The Pilgrim Fathers,DN10 6AT,53.4076,-1.0213
@@ -79,6 +86,7 @@ Bawtry Golf Club,DN10 6RF,53.4478,-1.0040
 Rossington Hall Limited,DN11 0HR,53.4623,-1.0400
 Mount Pleasant Hotel,DN11 0HW,53.4713,-1.0368
 Nelson Coffee Shop Limited,DN11 0PE,53.4786,-1.0799
+Addu's Indian restaurant,DN11 0PG,53.4787,-1.0807
 Blacksmiths Arms,DN11 8LB,53.4172,-1.0764
 Styrrup Hall Golf & Country Club ,DN11 8NB,53.4077,-1.0903
 Wellingtons Cafe,DN11 9EX,53.4321,-1.0909
@@ -91,6 +99,7 @@ Robbo's Diner,DN12 1NP,53.4767,-1.1884
 The Topiary Coffee Shop,DN12 2AE,53.4811,-1.2151
 The Indus Restaurant & Bar ,DN12 2BT,53.4787,-1.2298
 Seafish Restaurant,DN12 3AG,53.4820,-1.2248
+Balti palace Conisbrough limited ,DN12 4DG,53.4910,-1.2417
 Urban Fresh Burgers & Fries,DN2 4BG,53.5407,-1.1092
 JJ's Cafe and Sandwich Bar,DN2 4PW,53.5432,-1.0954
 GO BOUNCE TRAMPOLINE PARK,DN2 4SQ,53.5433,-1.0795
@@ -148,7 +157,7 @@ Doncaster Golf Club,DN4 7PD,53.5143,-1.0968
 McDonald's Restaurant,DN4 7PD,53.5143,-1.0968
 The Dome,DN4 7PD,53.5143,-1.0968
 McDonald's Restaurant,DN4 8DD,53.5073,-1.1481
-Subway,DN4 8SN,53.4915,-1.1379
+SUBWAY,DN4 8SN,53.4915,-1.1379
 Lotus Indian restaurant ,DN4 9LU,53.4980,-1.1817
 Cafè L.A.,DN5 0AT,53.5461,-1.1468
 Moona Coffee,DN5 0AT,53.5461,-1.1468
@@ -168,13 +177,16 @@ The Sun Inn,DN5 8QE,53.5370,-1.1684
 NAAZ INDIAN RESTAURANT & TAKE-AWAY,DN5 9BG,53.5341,-1.1545
 McDonald's Restaurant,DN5 9TP,53.5315,-1.1463
 McDonald's Restaurant,DN6 7FB,53.5744,-1.2104
+5 Flavours Cafe ,DN6 7HP,53.5631,-1.1946
 Aagrah Doncaster,DN6 7RA,53.5591,-1.1911
 Sarah-janes tearooms and coffee lounge,DN7 4BY,53.5625,-1.0278
 Boston Park Farm,DN7 6DS,53.5322,-0.9797
 The station restaurant and bar ,DN9 3AA,53.4892,-0.9901
+the station restaurant and bar,DN9 3AA,53.4892,-0.9901
 Walkers Nurseries Ltd,DN9 3BA,53.4957,-0.9923
 THE HARVEY ARMS,DN9 3BY,53.4834,-0.9922
 Eagle & Child,DN9 3HS,53.5037,-1.0234
+Eagle and Child,DN9 3HS,53.5037,-1.0234
 Costa Coffee,DN9 3RH,53.4830,-1.0104
 Bengal tandoori,S25 2PN,53.3691,-1.2101
 the royal elephant ,S25 2PQ,53.3667,-1.2119
@@ -203,6 +215,7 @@ The Old College Coffee Shop and dining room,S64 9JP,53.4954,-1.2848
 Casper’s Coffee House ,S64 9LL,53.4928,-1.2841
 earl of strafford,S65 4PF,53.4675,-1.2731
 Seven Seas Limited,S66 1AG,53.4199,-1.2874
+Ewans,S66 1DY,53.4105,-1.2746
 McDonald's Bramley - Bawtry Rd,S66 1YY,53.4220,-1.2542
 Chaudrys Restaurant Ltd,S66 2BW,53.4218,-1.2844
 Gas Lamp Wickersley Limited,S66 2BW,53.4218,-1.2844

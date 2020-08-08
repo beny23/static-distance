@@ -2,6 +2,7 @@ name,postcode,lat,lon
 McDonald's Riverside Retails Park,CM1 1AN,51.7380,0.4787
 McDonald's Chelmsford High Street,CM1 1BE,51.7336,0.4739
 Middletons Steakhouse & Grill Chelmsford,CM1 1BE,51.7336,0.4739
+Venice Gelato Coffee ,CM1 1BE,51.7336,0.4739
 The Steaming Mug Limited Iocated in Debenhams,CM1 1DA,51.7329,0.4744
 Stewart’s Tea Rooms,CM1 1ER,51.7340,0.4728
 Jamaica blue ,CM1 1GD,51.7346,0.4759
@@ -14,6 +15,7 @@ Live Dosa,CM1 1JA,51.7370,0.4664
 Mojo,CM1 1LN,51.7355,0.4692
 Central Park Cafe,CM1 1LQ,51.7326,0.4642
 Back Inn Time,CM1 1NY,51.7370,0.4726
+ZIYARET RESTAURANT,CM1 1NY,51.7370,0.4726
 Ziyaret Restaurant ,CM1 1NY,51.7370,0.4726
 MI PIACE LIMITED,CM1 1NZ,51.7372,0.4729
 INDIAN CHEF,CM1 1PH,51.7401,0.4737
@@ -44,6 +46,7 @@ The White Horse,CM11 1NA,51.6359,0.4726
 Helen Arber Performing Arts Ltd,CM12 0DX,51.6303,0.4140
 Peapod Cafe,CM12 0DX,51.6303,0.4140
 Players Lounge,CM12 0DX,51.6303,0.4140
+peapod cafe ltd,CM12 0DX,51.6303,0.4140
 AMICO,CM12 9AX,51.6264,0.4181
 Kosthuree,CM12 9AX,51.6264,0.4181
 Slipprd discs brown sugar,CM12 9AX,51.6264,0.4181
@@ -76,6 +79,7 @@ Vault,CM15 8YX,51.6303,0.3289
 The Barnyard cafe,CM15 9HS,51.6274,0.2860
 ROYAL ROSE ,CM15 9JH,51.6359,0.2817
 DUSK,CM15 9SS,51.6545,0.2683
+PIYA BAR&KITCHEN,CM16 4AE,51.6966,0.1082
 Fred and Dougs,CM16 4AG,51.6982,0.1107
 Pivaz Epping / Roza by Pivaz,CM16 4AP,51.7007,0.1141
 Epping Sandwich Bar and Bakery,CM16 4AQ,51.6992,0.1120
@@ -85,15 +89,16 @@ SPEAKEASY BAR,CM16 4BL,51.6992,0.1111
 Starbucks Epping,CM16 4BL,51.6992,0.1111
 Zaikaa,CM16 4BL,51.6992,0.1111
 Cinnamon,CM16 6BY,51.7150,0.1666
+Wings Cafe Ltd,CM16 6HR,51.7136,0.1544
 Indian Ocean,CM16 7ES,51.6719,0.1000
 KUZINE,CM16 7EX,51.6722,0.1011
 bonhomie,CM16 7EY,51.6720,0.1017
 The Bull,CM16 7HR,51.6716,0.1019
 The Merry Fiddler’s ,CM16 7PY,51.6886,0.1309
+the theydon oak village pub & eating,CM16 7QJ,51.6953,0.1311
 Ermans kitchen ,CM17 0AA,51.7832,0.1323
 The Crown Public House,CM17 0AQ,51.7833,0.1303
 Blue Cafe Harlow Ltd,CM17 0DN,51.7837,0.1337
-raj lodge,CM17 0DW,51.7834,0.1340
 COHO Brasserie,CM17 0HQ,51.7935,0.1351
 The Balts at Whitehorse,CM17 0HQ,51.7935,0.1351
 The Fox Inn,CM17 0QS,51.7793,0.1951
@@ -101,7 +106,6 @@ NEW GROUND CAFE,CM17 9FG,51.7731,0.1381
 McDonald’s Harlow Hastingwood ,CM17 9LH,51.7396,0.1266
 Coffee Base,CM17 9TW,51.7754,0.1337
 Cafe Pizzeria,CM18 6PA,51.7577,0.1127
-garden of india,CM18 6PA,51.7577,0.1127
 Proark UK Hotels Ltd t/a The Harlow Hotel ,CM18 7BA,51.7559,0.1261
 Moonlight tandoori ,CM18 7NW,51.7530,0.0903
 McDonald’s Harlow Staple Tye,CM18 7PJ,51.7532,0.0920
@@ -174,6 +178,7 @@ Queens head,CM21 9AT,51.8139,0.1518
 PEKING PALACE RESTAURANT,CM21 9AX,51.8127,0.1511
 New Mexico Restaurant,CM21 9JG,51.8130,0.1471
 STAR OF INDIA,CM21 9JH,51.8130,0.1471
+The craft cabin CM21 ltd ,CM21 9QE,51.8132,0.1479
 Tea on the Heath,CM22 7AB,51.8119,0.2051
 Down Hall Hotel Ltd.,CM22 7AS,51.7960,0.2125
 Hunters Meet Ltd,CM22 7BQ,51.8125,0.2156
@@ -210,6 +215,7 @@ Smiths of Ongar Ltd,CM5 0AL,51.7168,0.2463
 Vojan,CM5 0DE,51.7162,0.2293
 The White Hart,CM5 0LF,51.7407,0.2201
 The Black Bull,CM5 0NN,51.7422,0.2764
+The Queens Head,CM5 0RY,51.7386,0.2729
 The Cock Pub & Kitchen ,CM5 9AB,51.7064,0.2454
 Fratelli Bites and Coffee Ltd,CM5 9EE,51.6996,0.2441
 Nerissa and Claire's Coffee Bar & Restaurant,CM5 9JG,51.7047,0.2453
@@ -222,6 +228,7 @@ Axe and Compasses,CM6 1PP,51.8128,0.3082
 Brett's Country Restaurant,CM6 1RF,51.7991,0.2686
 Bretts Country Restaurant,CM6 1RF,51.7991,0.2686
 Hive cafe,IG10 3NY,51.6442,0.0821
+Almera Restaurants Limited T/A Cafe Bengal,IG10 3SP,51.6484,0.0841
 Cafelicious,IG10 3SP,51.6484,0.0841
 Subway,IG10 3SP,51.6484,0.0841
 Efezade Mezze Grill Restaurant,IG10 3ST,51.6475,0.0840

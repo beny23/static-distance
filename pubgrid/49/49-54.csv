@@ -49,6 +49,7 @@ THE MILL WHEEL,DE11 7AS,52.7885,-1.5187
 Bombay Spice,DE11 7EA,52.7672,-1.5314
 The Jennings Rooms ,DE11 7EH,52.7689,-1.5335
 The Bulls Head,DE11 7ET,52.7822,-1.5195
+bullshead hartshorne ltd,DE11 7ET,52.7822,-1.5195
 The midway inn,DE11 7ND,52.7813,-1.5450
 Cafe espresso limited,DE11 8HY,52.7733,-1.5560
 Bodell's,DE11 8JU,52.7747,-1.5551
@@ -61,6 +62,7 @@ The Hub Cafe,DE12 6AT,52.7336,-1.5360
 YHA National Forest,DE12 6BD,52.7380,-1.5488
 Lakeside Bistro,DE12 6BW,52.7331,-1.5439
 Artisan Deli Digbeth Limited,DE12 7AJ,52.6820,-1.5238
+Saffron Event & Venue Caterers Limited,DE12 7AJ,52.6820,-1.5238
 Appleby Inn,DE12 7AP,52.6722,-1.5406
 McLean Restaurants Ltd,DE12 7AP,52.6722,-1.5406
 Alpaca Park Farm,DE12 7DB,52.6810,-1.4902
@@ -124,6 +126,7 @@ The Bridge Inn,DE14 3EZ,52.7883,-1.6778
 The Hub Cafe,DE14 3HD,52.7819,-1.6812
 Rivaj Restaurant,DE14 3HF,52.7867,-1.6713
 THE HIDEAWAY BURTON LIMITED,DE14 3QN,52.8009,-1.6321
+Verde ,DE14 3QN,52.8009,-1.6321
 CLAYPOT LOUNGE,DE14 3QW,52.8014,-1.6349
 Wing Wah Chinese Restaurant ,DE14 3QW,52.8014,-1.6349
 The Winery,DE14 3RW,52.8004,-1.6291
@@ -135,8 +138,8 @@ Planters at Bretby,DE15 0QS,52.8102,-1.5736
 The Sump,DE15 0TT,52.8125,-1.6126
 Urban Chef Burton,DE15 9SQ,52.7835,-1.6133
 The Gate Inn,DE15 9TH,52.7719,-1.5964
+Blue Burton Indian Restaurant,DE15 9TJ,52.7773,-1.6051
 The Staff of Life,DE73 7JH,52.8095,-1.4819
-Breedon Holdings Limited,DE73 8AP,52.8028,-1.3996
 Forteys ,DE73 8DS,52.8230,-1.4287
 Harpur's,DE73 8FE,52.8247,-1.4292
 Zeerah ,DE73 8FE,52.8247,-1.4292
@@ -147,7 +150,6 @@ The Courtyard Cafe,LE65 1AG,52.7474,-1.4716
 Zamanis,LE65 1AL,52.7465,-1.4726
 Amino Food,LE65 1AN,52.7470,-1.4708
 Dolce cafe,LE65 1AN,52.7470,-1.4708
-Subway,LE65 1AN,52.7470,-1.4708
 De la zouch bangladeshi cuisine,LE65 1AP,52.7476,-1.4692
 Taste of Thai Restaurant,LE65 1AP,52.7476,-1.4692
 Rose Cottage Tearooms,LE65 1HP,52.7477,-1.4711
@@ -192,7 +194,6 @@ Gelsmoor Inns Ltd,LE67 8HP,52.7635,-1.3980
 The Cross Keys,LE67 8PJ,52.7707,-1.4063
 Robin Hood Public House,LE67 8QQ,52.7390,-1.3856
 The George and Dragon,LE67 8UH,52.7597,-1.3747
-Subway,LE67 9PU,52.7007,-1.3053
 The old Thatched inn,LE67 9TQ,52.6884,-1.3111
 kirkby house hotel limited,LE9 7QE,52.6012,-1.3308
 Little India ,LE9 7RE,52.6057,-1.3067

@@ -32,10 +32,10 @@ Bean & Leaf Coffee House,CV1 1LB,52.4068,-1.5110
 China Red,CV1 1LB,52.4068,-1.5110
 Fratelli Coventry,CV1 1LB,52.4068,-1.5110
 MH fmaily ltd,CV1 1LF,52.4068,-1.5117
-nicely noodle bar,CV1 1LF,52.4068,-1.5117
 NOODLE BAR,CV1 1LH,52.4062,-1.5131
 The Yard Coventry limited,CV1 1LH,52.4062,-1.5131
 BISTROT PIERRE - COVENTRY,CV1 1LL,52.4078,-1.5098
+Bistrot Pierre - Coventry,CV1 1LL,52.4078,-1.5098
 treading name-T4,CV1 1NF,52.4078,-1.5112
 The Town Crier,CV1 1PB,52.4080,-1.5159
 Chopstix Coventry,CV1 1QX,52.4092,-1.5122
@@ -54,6 +54,7 @@ Turmeric Gold,CV1 3BB,52.4085,-1.5178
 Ramada Hotel & Suites by Wyndham Coventry City Centre,CV1 3GG,52.4053,-1.5215
 Akbars,CV1 3GJ,52.4046,-1.5216
 Arco Bar & Ristorante,CV1 3GJ,52.4046,-1.5216
+Chicken and pizza Express ,CV1 3GJ,52.4046,-1.5216
 Shimlaspice ,CV1 3GJ,52.4046,-1.5216
 Blue orchid,CV1 3GR,52.4051,-1.5208
 aqua food & mood,CV1 3GR,52.4051,-1.5208
@@ -66,6 +67,7 @@ Royal Voluntary Service,CV1 4FS,52.4151,-1.5042
 Taksim Restaurant ,CV1 4FT,52.4176,-1.5004
 Dumpling King,CV1 5DW,52.4077,-1.4968
 Sweet spot,CV1 5DW,52.4077,-1.4968
+sweet spot ,CV1 5DW,52.4077,-1.4968
 SHAWARMA KING,CV1 5DY,52.4075,-1.4967
 Slovianka Polish & Ukrainian Cuisine,CV1 5DZ,52.4081,-1.4945
 TANG CHINESE Restaurant ,CV1 5EA,52.4079,-1.4945
@@ -116,6 +118,7 @@ Ivys cafe,CV11 4PR,52.5136,-1.4539
 Desserts.Nuneaton Ltd,CV11 5BP,52.5231,-1.4688
 Hannah's cafe,CV11 5BS,52.5230,-1.4691
 Toppers,CV11 5BS,52.5230,-1.4691
+Amrita Limited T/A Crossed Khukris Gurkha Restaurant ,CV11 5BX,52.5240,-1.4704
 Cream on the Green Ltd,CV11 5DN,52.5268,-1.4746
 Agra Palace ,CV11 5DR,52.5272,-1.4751
 FrannieAnnies,CV11 5HY,52.5272,-1.4758
@@ -162,6 +165,7 @@ Foodworx ltd,CV2 4BA,52.4114,-1.4814
 Get stuffed cafe,CV2 4BA,52.4114,-1.4814
 Dhaka Dynasty Tandoori Restaurant ,CV2 4BL,52.4111,-1.4735
 KFC WALSGRAVE ROAD,CV2 4BL,52.4111,-1.4735
+Sarkawt Abay,CV2 4EB,52.4100,-1.4856
 BALL HILL DINER ,CV2 4ED,52.4106,-1.4830
 Simmer Down Restaurant,CV2 4ED,52.4106,-1.4830
 Sri Sai Subs Ltd,CV2 4ED,52.4106,-1.4830
@@ -185,6 +189,7 @@ FRESH IN FOOD LTD,CV23 0UX,52.4018,-1.2452
 OLD SMITHY,CV23 9EF,52.3834,-1.3400
 B'S Batches ,CV3 1AT,52.4033,-1.4866
 PIZZA HOT LTD,CV3 1BA,52.4025,-1.4870
+Peri peri original ,CV3 1BX,52.3974,-1.4810
 Biggin Hall Public house,CV3 1HG,52.4070,-1.4715
 Coombe Abbey Hotel,CV3 2AB,52.4121,-1.4091
 McDonald's Restaurant,CV3 2EA,52.3978,-1.4424
@@ -195,6 +200,7 @@ Ibis Coventry South,CV3 4LF,52.3837,-1.4914
 Subway ,CV3 5HW,52.3940,-1.5074
 The Festival Public House,CV3 5QJ,52.3789,-1.5031
 Indigo Indian Cuisine,CV3 6AU,52.3978,-1.5162
+Ginger Orange ,CV3 6BP,52.3850,-1.5321
 Everyday Fresh Cafe,CV4 7BX,52.3882,-1.5465
 Subway,CV4 7EH,52.3878,-1.5549
 McDonald's Restaurant,CV4 9BJ,52.4015,-1.5550
@@ -203,6 +209,7 @@ wing wah coventry,CV4 9EL,52.4056,-1.5596
 Coventry Hearsall Golf Club,CV5 6DF,52.3940,-1.5317
 Millsy's Cafe Bar Bistro Ltd,CV5 6EG,52.3995,-1.5315
 Allys Balti House Ltd ,CV5 6EJ,52.3987,-1.5331
+Angelito coffee & Tapas bar,CV5 6EJ,52.3987,-1.5331
 BOMBAY PALACE,CV5 6EJ,52.3987,-1.5331
 Cafe Bravo,CV5 6EJ,52.3987,-1.5331
 Emily's Cafe,CV5 6EJ,52.3987,-1.5331
@@ -211,6 +218,7 @@ Subway,CV5 6EL,52.3982,-1.5332
 SAGE,CV5 6EP,52.3989,-1.5319
 The Cottage,CV5 6ET,52.3992,-1.5339
 O'Tool's Café,CV5 6GD,52.4019,-1.5302
+JYOTIRAJ ,CV5 6JU,52.4030,-1.5268
 Richards kitchen Ltd,CV5 6NF,52.4002,-1.5292
 Myrtles Coffee,CV5 6NG,52.4008,-1.5284
 The Royal Bengal,CV5 6NG,52.4008,-1.5284
@@ -242,6 +250,8 @@ Masala jacks restaurant ,CV6 4BY,52.4390,-1.5076
 Hollybush 2017 ltd,CV6 4DD,52.4410,-1.5083
 Asiana Restaurant ,CV6 4DG,52.4449,-1.5100
 SFC ,CV6 4HH,52.4503,-1.5111
+SIZZLORD LTD T/A Khusi Grill ,CV6 4HH,52.4503,-1.5111
+SWEET TOOTH(COVENTRY)LTD,CV6 4HN,52.4488,-1.5114
 EASTERN DINER LTD,CV6 5AN,52.4287,-1.4989
 Nima’s Limited ,CV6 5AU,52.4289,-1.4994
 3 FIVE 1 RESTAURANT,CV6 5DS,52.4201,-1.4971
@@ -280,12 +290,14 @@ the wine bar,CV9 1HA,52.5779,-1.5469
 Artigiano ,CV9 1JP,52.5774,-1.5445
 Blue Boar Inn,CV9 1NE,52.5717,-1.5273
 The Kings Head,CV9 2PA,52.5798,-1.5541
+Holly lane Café ,CV9 2QZ,52.5833,-1.5530
 UK MASSALA MIX LTD T/A MAYA BAR & RESTAURANT,CV9 3AD,52.5837,-1.5472
 Blue Lion,CV9 3NA,52.5735,-1.5210
 THE GATE INN,CV9 3NY,52.5927,-1.5210
 Buttercream Tearoom,LE10 0AD,52.5411,-1.3743
 New Baron of Hinckley,LE10 0AZ,52.5409,-1.3742
 Rusiana Cafe Bar Hinckley,LE10 0BB,52.5408,-1.3739
+Sumac Grill,LE10 0BL,52.5412,-1.3749
 Rendezvous ,LE10 0DP,52.5474,-1.3716
 7H SPICES,LE10 0JT,52.5391,-1.3784
 THE WHITE BEAR,LE10 0JT,52.5391,-1.3784
@@ -316,6 +328,7 @@ Millennium Balti LTD,LE10 1QD,52.5450,-1.3682
 RANN BUSINESS LTD,LE10 1QU,52.5434,-1.3739
 Everest Dine,LE10 1QW,52.5442,-1.3696
 Ashby Tavern,LE10 1SL,52.5493,-1.3679
+Charlotte's Cafe Bar Ltd,LE10 1YG,52.5557,-1.3764
 McDonald's Restaurants Ltd,LE10 1YG,52.5557,-1.3764
 HOUSE KITCHEN ,LE10 2AF,52.5317,-1.3502
 Windsor Tiffin,LE10 2EE,52.5266,-1.3503
@@ -363,6 +376,7 @@ Aspects at the Plough,LE19 4AL,52.5932,-1.2128
 Gran Jefe Ltd,LE19 4NJ,52.5890,-1.2100
 The Dog & Gun,LE19 4NJ,52.5890,-1.2100
 Zen Kitchen,LE19 4QF,52.5855,-1.2180
+Dipali Cuisine Limited,LE8 4DW,52.5735,-1.1649
 COFFEE BEAN,LE8 4FZ,52.5761,-1.1638
 The Lime Tree,LE8 6LF,52.5665,-1.1785
 The Cook in the Nook,LE9 1RQ,52.5475,-1.1950
@@ -374,6 +388,7 @@ Nemo's Bar and Restaurant,LE9 4DW,52.5454,-1.2760
 The Red Lion Sapcote,LE9 4FG,52.5355,-1.2811
 Coombs Catering at Calor Gas,LE9 4JJ,52.5594,-1.2789
 Star Inn,LE9 4LQ,52.5482,-1.2788
+The Cafe at Stoney Stanton,LE9 4TH,52.5489,-1.2788
 Broughton Astley Leisure Centre,LE9 6AZ,52.5322,-1.2217
 Fourwards at ashfields ,LE9 7DG,52.5780,-1.3102
 ritaroshani limited,LE9 7NE,52.5753,-1.3184

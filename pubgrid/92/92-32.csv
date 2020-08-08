@@ -4,6 +4,8 @@ Little SoHo Jordanhill,G13 1NU,55.8839,-4.3257
 McDonalds Anniesland 952,G13 2UX,55.8913,-4.3295
 The Lincoln Inn,G13 2XX,55.8994,-4.3482
 Brazuca Cafe,G14 0AA,55.8763,-4.3452
+Jarvies Inn,G14 0LF,55.8895,-4.3768
+The Lovat Arms,G14 0PT,55.8910,-4.3854
 Flavour chasers ,G14 9XS,55.8767,-4.3452
 McDonalds Drumchapel 1504,G15 6SA,55.9029,-4.3766
 Subway Drumchapel,G15 7TG,55.9107,-4.3722
@@ -23,6 +25,7 @@ Bella Fresca ,G52 3JH,55.8457,-4.3535
 Leonardo’s ,G52 3QB,55.8452,-4.3627
 Connors cafe ,G52 3SS,55.8455,-4.3424
 Subway,G52 3TW,55.8457,-4.3443
+Cafe Fifteen Ltd,G52 4JW,55.8612,-4.3775
 Cafe Fifteen,G52 4JW,55.8612,-4.3775
 The Glen Lusset,G60 5DA,55.9221,-4.4563
 the twisted thistle,G60 5JH,55.9257,-4.4585
@@ -135,7 +138,9 @@ Subway,PA1 2EF,55.8442,-4.4340
 The Phat Bhuna,PA1 2HD,55.8413,-4.4251
 Little Steakhouse,PA1 2HG,55.8432,-4.4259
 Multan Restaurant Ltd,PA1 2JB,55.8427,-4.4253
+Mirage Indian Cuisine ,PA1 2NH,55.8420,-4.4435
 Food,PA1 2UF,55.8416,-4.4395
+Sengas cafe ,PA1 2UG,55.8418,-4.4405
 The Kitchen,PA1 3ES,55.8466,-4.3803
 harvies bar,PA1 3NU,55.8466,-4.4035
 Caffè Royale ,PA1 3PE,55.8469,-4.4062
@@ -165,6 +170,7 @@ Comicrazy Cafe,PA3 2AN,55.8478,-4.4233
 Zambretto Italian,PA3 2AP,55.8475,-4.4236
 1852 the diamond Ltd ,PA3 2AZ,55.8497,-4.4235
 MFG Subway Glasgow Airport,PA3 2TH,55.8623,-4.4256
+Frankie and Benny's,PA3 2TJ,55.8621,-4.4348
 William Beardmore & Co ,PA3 2TJ,55.8621,-4.4348
 Tim Hortons,PA3 3AT,55.8436,-4.4755
 Subway ,PA3 3DB,55.8481,-4.4893
@@ -179,6 +185,7 @@ Cafe Su Renfrew,PA4 8QE,55.8794,-4.3865
 LUNA ROSSA,PA4 8QE,55.8794,-4.3865
 Piccolo Mondo,PA4 8QU,55.8783,-4.3875
 Sweets n Treats,PA4 8QU,55.8783,-4.3875
+Green Gates Renfrew,PA4 8SH,55.8849,-4.3843
 Greengates,PA4 8SH,55.8849,-4.3843
 Glynhill Hotel Ltd,PA4 8XB,55.8652,-4.4042
 Certas Energy,PA4 8XD,55.8624,-4.4076
@@ -210,5 +217,6 @@ Caulders Erskine,PA7 5PU,55.9209,-4.4788
 ERISKYNE BAR,PA8 6BS,55.9084,-4.4651
 Sweet Retreat,PA8 6BS,55.9084,-4.4651
 BRACKEN,PA8 7AA,55.9039,-4.4486
+Dan'is Diner,PA8 7AA,55.9039,-4.4486
 Pandamonium Play Centre ,PA8 7AF,55.9052,-4.4485
 Grill in the Park,PA8 7AL,55.8986,-4.4508

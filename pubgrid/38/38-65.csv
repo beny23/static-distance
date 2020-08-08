@@ -2,6 +2,8 @@ name,postcode,lat,lon
 Tewin Bury Farm Hotel LLP,AL6 0JB,51.8109,-0.1648
 Rose and Crown Tewin Ltd,AL6 0LE,51.8193,-0.1563
 Couzens Bakery and Coffee Lounge,AL7 1DD,51.8124,-0.1901
+Raj Garden,AL7 1DD,51.8124,-0.1901
+Roche Products Limited,AL7 1TW,51.8079,-0.1973
 The View Bar & Kitchen,AL7 2ED,51.8085,-0.1736
 BIPASH TANDOORI,AL7 3PP,51.7917,-0.1942
 Poppins Restaurant ,AL7 3PP,51.7917,-0.1942
@@ -16,7 +18,6 @@ The Cricketers,CB11 4QT,51.9736,0.1585
 Ermans kitchen ,CM17 0AA,51.7832,0.1323
 The Crown Public House,CM17 0AQ,51.7833,0.1303
 Blue Cafe Harlow Ltd,CM17 0DN,51.7837,0.1337
-raj lodge,CM17 0DW,51.7834,0.1340
 COHO Brasserie,CM17 0HQ,51.7935,0.1351
 The Balts at Whitehorse,CM17 0HQ,51.7935,0.1351
 The Fox Inn,CM17 0QS,51.7793,0.1951
@@ -35,6 +36,7 @@ Queens head,CM21 9AT,51.8139,0.1518
 PEKING PALACE RESTAURANT,CM21 9AX,51.8127,0.1511
 New Mexico Restaurant,CM21 9JG,51.8130,0.1471
 STAR OF INDIA,CM21 9JH,51.8130,0.1471
+The craft cabin CM21 ltd ,CM21 9QE,51.8132,0.1479
 Tea on the Heath,CM22 7AB,51.8119,0.2051
 the thatchers,CM22 7DU,51.8146,0.2035
 Anwars Restaurants Ltd,CM22 7EB,51.8130,0.2087
@@ -42,8 +44,10 @@ The Village Tearoom,CM22 7EB,51.8130,0.2087
 The Cock Inn,CM22 7LT,51.8040,0.1865
 Great Hallingbury Manor Hotel,CM22 7TJ,51.8687,0.2078
 Yew Tree Inn,CM23 1DJ,51.9192,0.1662
+Rosey Lea Ltd,CM23 1JG,51.8864,0.1407
 Ruby’s Restaurant,CM23 2DH,51.8699,0.1658
 smoke bbq kitchen,CM23 2DH,51.8699,0.1658
+Luso Flavours,CM23 2DW,51.8698,0.1653
 Mountbatten Restaurant,CM23 2FN,51.8853,0.1686
 Atkins Restaurant,CM23 2JZ,51.8725,0.1593
 Water Lane Bar & Restaurant,CM23 2JZ,51.8725,0.1593
@@ -55,6 +59,7 @@ Home & Eat,CM23 2TH,51.8846,0.1738
 SKEW,CM23 3AE,51.8692,0.1623
 Cafe Riverside,CM23 3AG,51.8683,0.1611
 Coffee House,CM23 3AG,51.8683,0.1611
+Coffee house ,CM23 3AG,51.8683,0.1611
 SHADHONA,CM23 3AL,51.8669,0.1610
 Chateau Cafe,CM23 3AT,51.8692,0.1601
 Rindio Cafe Deli,CM23 3AT,51.8692,0.1601
@@ -74,6 +79,7 @@ Eat17 ,CM23 3UH,51.8702,0.1601
 nostimo delicatessen ltd,CM23 3UP,51.8711,0.1591
 Host Grill,CM23 3UU,51.8708,0.1588
 Pircio Restaurant,CM23 3UU,51.8708,0.1588
+Rosey Lea Ltd,CM23 3UU,51.8708,0.1588
 Hayter,CM23 4BU,51.8347,0.1523
 Ell Tacos,CM23 4EG,51.8586,0.1444
 The Marne Inn,CM23 4EG,51.8586,0.1444
@@ -93,6 +99,7 @@ CRIMSON 8 RESTAURANT,CM24 8LY,51.9028,0.2004
 CAFE DE PIERRE - STEVENAGE,SG1 1XN,51.8920,-0.1979
 Creams Cafe Stevenage Debenhams,SG1 1XN,51.8920,-0.1979
 Partyman World Stevenage,SG1 1XN,51.8920,-0.1979
+Daisy's Kitchen,SG1 5RA,51.9185,-0.1795
 Daisy's kitchen,SG1 5RA,51.9185,-0.1795
 Great Hadham Country Cluib Ltd,SG10 6JE,51.8562,0.1053
 The White Hart,SG11 1RR,51.8930,0.0139
@@ -133,6 +140,7 @@ The Goat,SG13 7RT,51.7874,-0.0443
 McDonald’s Hertford Rush Green,SG13 7SH,51.7997,-0.0448
 Ginger Bar and Restaurant,SG13 8HJ,51.7862,-0.0869
 Compass Leisure Limited,SG14 1AB,51.7964,-0.0753
+The Dog and Whistle ,SG14 1AB,51.7964,-0.0753
 The Hummingbird,SG14 1AJ,51.7967,-0.0747
 rezin limited T/A Veysos Brasserie,SG14 1AS,51.7969,-0.0749
 Hertford Bell,SG14 1BA,51.7971,-0.0761
@@ -143,6 +151,7 @@ Ilvino bar cafe ,SG14 1BY,51.7961,-0.0766
 Lussmanns Hertford,SG14 1BY,51.7961,-0.0766
 The Mudlarks Community,SG14 1BY,51.7961,-0.0766
 Dinnio Restaurant,SG14 1BZ,51.7958,-0.0778
+EQUISITE INDIAN CUISINE LTD,SG14 1BZ,51.7958,-0.0778
 hertford House Hotel,SG14 1DA,51.7960,-0.0781
 The Hertford Club,SG14 1DT,51.7971,-0.0778
 Spice Hut,SG14 1DW,51.7963,-0.0784
@@ -152,6 +161,7 @@ The White Horse Hertford,SG14 1HH,51.7943,-0.0798
 Ilvino ,SG14 1HZ,51.7963,-0.0817
 LOMO Restaurant Ltd,SG14 1HZ,51.7963,-0.0817
 Ruby ,SG14 1HZ,51.7963,-0.0817
+Baan Thitiya Thai Cuisine,SG14 1JA,51.7967,-0.0823
 Subway Hertford,SG14 1PX,51.7966,-0.0792
 The Old Barge,SG14 1QD,51.7984,-0.0779
 Leaf Cafe Limited,SG14 1RB,51.7973,-0.0801
@@ -159,12 +169,15 @@ The White Horse,SG14 2LB,51.7925,-0.1063
 The Grandison,SG14 2QL,51.8249,-0.1286
 The Millstream,SG14 3AF,51.8000,-0.0869
 The Bull,SG14 3SB,51.8566,-0.1095
+GATE OF INDIA RESTAURANT LTD,SG2 0DJ,51.9087,-0.1700
 Gangnam Restaurant,SG2 0DJ,51.9087,-0.1700
 Church Farm Ardeley CIC,SG2 7AH,51.9276,-0.0970
 The Crown,SG2 7HD,51.9015,-0.1510
 The White Lion,SG2 7PA,51.9218,-0.1259
 RoebuckInn(Nirvana),SG2 8DS,51.8835,-0.1903
 Odyssey Knebworth Ltd,SG2 8DU,51.8815,-0.1928
+The Willows,SG2 8ET,51.8819,-0.1786
+The Pear Tree,SG2 9DG,51.8927,-0.1839
 Grill Hut Peri Peri,SG2 9SB,51.8930,-0.1688
 The Station,SG3 6AT,51.8664,-0.1875
 Raja Tandoori Restaurant ,SG3 6EX,51.8661,-0.1831
@@ -186,9 +199,11 @@ Il forno,SG7 6BJ,51.9875,-0.1870
 The White Lion,SG7 6BJ,51.9875,-0.1870
 KNKN limited,SG7 6EB,51.9872,-0.1873
 DB Herts Ltd,SG7 6QB,51.9905,-0.1881
+Tapp's Garden Centre,SG7 6RS,51.9869,-0.1777
 Woodman Inn,SG8 8NB,51.9912,0.0547
 Black Horse,SG9 0AP,51.9598,0.0836
 The Three Tuns,SG9 0NT,51.9514,0.0405
+VICEROY (HERTS) LTD,SG9 9AD,51.9474,-0.0196
 The Buntingford Coffee Shop Ltd,SG9 9AE,51.9487,-0.0205
 The Falcon Restaurant Limited,SG9 9AE,51.9487,-0.0205
 Delissimo,SG9 9AG,51.9465,-0.0185

@@ -34,6 +34,7 @@ Morellis,CT10 1QS,51.3576,1.4419
 THE CHARLES DICKENS,CT10 1QS,51.3576,1.4419
 Subway,CT10 2AL,51.3608,1.4143
 Coffee corner ltd,CT10 2BF,51.3595,1.3926
+Burger King,CT10 2PR,51.3625,1.3952
 P A Crocker Ltd t/a McDonalds,CT10 2QG,51.3576,1.3966
 Lanthorne,CT10 3AE,51.3671,1.4302
 The White Swan ( Broadstairs ) limited,CT10 3AZ,51.3743,1.4316
@@ -99,7 +100,6 @@ The Fleur De Lis,CT13 9BZ,51.2752,1.3391
 The Crispin Inn,CT13 9EA,51.2758,1.3418
 George and dragon sandwich,CT13 9EJ,51.2742,1.3426
 Luigis Italian restaurant,CT13 9EN,51.2752,1.3431
-Pizza Giovanni,CT13 9EN,51.2752,1.3431
 NEW INN,CT13 9ES,51.2760,1.3391
 beach hut cafe,CT13 9EU,51.2767,1.3399
 The Kings Arms Hotel(Sandwich)ltd. ,CT13 9HN,51.2779,1.3382
@@ -112,6 +112,7 @@ St Crispin inn ,CT14 0DF,51.2574,1.3491
 Chequers Kitchen,CT14 6RG,51.2505,1.3910
 Salma Restaurant ,CT3 1AB,51.2720,1.2150
 The Dog at Wingham,CT3 1BB,51.2716,1.2134
+THE ANCHOR INN (WINGHAM) LTD,CT3 1BJ,51.2736,1.2148
 The Anchor Inn (Wingham) Ltd,CT3 1BJ,51.2736,1.2148
 half moon and seven stars,CT3 1EB,51.3051,1.2274
 Preston Garden Centre Bistro,CT3 1ED,51.3047,1.2280
@@ -124,6 +125,7 @@ The Rose Inn,CT3 1RQ,51.2842,1.1828
 juliets farm shop and cafe,CT3 2BA,51.2821,1.2797
 Chequer Inn,CT3 2ET,51.2799,1.2762
 The Gate Inn,CT3 4EB,51.3454,1.1874
+Hathats Coffee Community Spaces Limited,CT6 6SS,51.3771,1.1940
 Quex Barn,CT7 0BB,51.3671,1.3113
 Felicity's Cafe at Quex,CT7 0BH,51.3667,1.3157
 QUEX ADVENTURE GOLF LTD,CT7 0BH,51.3667,1.3157
@@ -162,7 +164,9 @@ Dory's,CT9 1DS,51.3888,1.3799
 Proper Coffee House Margate ,CT9 1DX,51.3881,1.3807
 Mama Jinny Thai kitchen ,CT9 1EG,51.3885,1.3810
 Mullins Brasserie ,CT9 1EN,51.3895,1.3824
+Ralphs Margate,CT9 1EN,51.3895,1.3824
 Wig & Pen,CT9 1EN,51.3895,1.3824
+The Greedy Cow Kent ltd,CT9 1ER,51.3895,1.3815
 Angela's,CT9 1EX,51.3893,1.3806
 Charlie’s ,CT9 1EY,51.3896,1.3811
 The Margate Coffee Shed,CT9 1EY,51.3896,1.3811
@@ -170,7 +174,6 @@ Woodys,CT9 1EY,51.3896,1.3811
 The Harbour Cafe ( Margate ) Limited,CT9 1EZ,51.3899,1.3813
 BBs Cafe and Bar,CT9 1HD,51.3908,1.3824
 Subway Margate ,CT9 1JL,51.3871,1.3812
-Margate fried chicken ,CT9 1JT,51.3863,1.3816
 P A Crocker Ltd t/a McDonalds,CT9 1JT,51.3863,1.3816
 COSTA COFFEE - MARGATE,CT9 1JW,51.3864,1.3811
 Storeroom by Curve,CT9 1PP,51.3878,1.3843
@@ -191,6 +194,7 @@ COSTA COFFEE - CLIFTONVILLE ,CT9 2PQ,51.3874,1.3997
 Batchelor's Patisserie Ltd,CT9 2PX,51.3870,1.3998
 Cliffs,CT9 2QN,51.3882,1.3947
 THE COFFEE HOUSE,CT9 4AN,51.3781,1.3894
+Secret spices,CT9 4BH,51.3780,1.3840
 LESTERS PUB & RESTAURANT LIMITED,CT9 4EZ,51.3768,1.3857
 Pizza2night Kent Ltd,CT9 5AS,51.3854,1.3688
 The Hussar,CT9 5JP,51.3796,1.3541

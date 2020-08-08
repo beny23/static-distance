@@ -9,6 +9,7 @@ BUTLERS TEA ROOM,DN5 7TU,53.5290,-1.1771
 The Old Brewhouse,DN5 7TU,53.5290,-1.1771
 The Sun Inn,DN5 8QE,53.5370,-1.1684
 McDonald's Restaurant,DN6 7FB,53.5744,-1.2104
+5 Flavours Cafe ,DN6 7HP,53.5631,-1.1946
 Aagrah Doncaster,DN6 7RA,53.5591,-1.1911
 Cafe Express,DN6 8DB,53.5810,-1.1777
 Jaffa and Cakes,DN6 8DL,53.5823,-1.1786
@@ -83,6 +84,7 @@ Audreys coffee house ,S71 5EZ,53.5420,-1.4041
 The Mill of the Black Monks,S71 5QF,53.5529,-1.4405
 Poppy's of Cudworth LTD,S72 8JN,53.5776,-1.4166
 Two Gates Fisheries,S72 8PZ,53.5897,-1.4070
+PRISSANA THAI RESTAURANT,S72 8QP,53.5894,-1.4058
 Burntwood Sports Ltd,S72 9ET,53.5916,-1.3640
 Squires Bar,S73 0DA,53.5218,-1.3978
 The Kitchen Witch Company,S73 0DA,53.5218,-1.3978
@@ -107,6 +109,7 @@ The Strafford Arms,S75 3EW,53.5302,-1.5103
 Holiday Inn Barnsley,S75 3JT,53.5461,-1.5234
 Dil Raj Restaurant,S75 3RF,53.5424,-1.5248
 Locked in time antiques and vintage tea rooms ,S75 3RG,53.5416,-1.5233
+Curry Mahal,S75 3RN,53.5433,-1.5262
 Hotel ibis Styles Barnsley,S75 3TX,53.5493,-1.5178
 The Spencer Arms,S75 4HL,53.5682,-1.5706
 Beatson House Restaurant,S75 4HR,53.5690,-1.5701
@@ -122,6 +125,7 @@ tandoori hut restaurant,S75 6DJ,53.5832,-1.4872
 Mezzaluna Ristorante,S75 6FW,53.5856,-1.5019
 Subway,WF1 1BW,53.6821,-1.5009
 Union Bank,WF1 1BW,53.6821,-1.5009
+Now Serving ,WF1 1DH,53.6807,-1.5001
 Mr Juice Fresh Smoothie Bar,WF1 1DS,53.6818,-1.4961
 Bengal Palace,WF1 1ED,53.6805,-1.5025
 DUE AMICI YORKS LIMITED T/A DOLCE VITA,WF1 1ED,53.6805,-1.5025
@@ -134,6 +138,7 @@ Al's Tea and coffee Shop ,WF1 1HX,53.6824,-1.4938
 Harry's Fish & Chip Restaurant,WF1 1HX,53.6824,-1.4938
 Sweet Sensation Creamery Limited,WF1 1JG,53.6811,-1.4925
 Holiday Inn Express Wakefield,WF1 1JU,53.6819,-1.4994
+Syhiba restaurant ,WF1 1NE,53.6808,-1.4951
 Montys,WF1 1PJ,53.6832,-1.4967
 Break-Fast,WF1 1PN,53.6836,-1.4970
 neptune diner,WF1 1PN,53.6836,-1.4970
@@ -156,6 +161,7 @@ Wetherby Whaler,WF1 2DX,53.7097,-1.5019
 Create Cafe,WF1 2EB,53.6842,-1.5037
 KRAFT ,WF1 2ED,53.6834,-1.4996
 Smokehouse Real BBQ Limited,WF1 2ED,53.6834,-1.4996
+The Golden Pineapple,WF1 2ED,53.6834,-1.4996
 damelio,WF1 2ED,53.6834,-1.4996
 QUBANA ,WF1 2EL,53.6835,-1.5005
 Festive Fusion,WF1 2HB,53.6838,-1.5003
@@ -178,8 +184,10 @@ Felice’s Bella Roma ,WF1 3BP,53.6845,-1.4999
 fino pizzeria & cicchetti Ltd,WF1 3BP,53.6845,-1.4999
 Corarima LTD,WF1 3BW,53.6839,-1.5000
 The Yorkshire Deli & Pizza Bar,WF1 3BX,53.6853,-1.5004
+Fryday,WF1 3NA,53.6872,-1.4968
 Abduls,WF1 3NR,53.6868,-1.4939
 Taste Buds At The Station,WF1 4EL,53.6787,-1.4893
+Kashmiri Posh Nosh,WF1 5DY,53.6720,-1.4824
 RAJA'S DESI GRILL,WF1 5DY,53.6720,-1.4824
 Aagrah Sandal ,WF1 5NX,53.6661,-1.4867
 Thornes Lane Cafe,WF1 5RS,53.6743,-1.4966
@@ -227,6 +235,7 @@ The Queens Arms ,WF2 8ED,53.6706,-1.5037
 Mother Hubbards,WF2 8TU,53.6777,-1.5158
 coffeeboy,WF2 9BL,53.6788,-1.5163
 Ronnies Limited t/a McDonalds 569,WF2 9BY,53.6784,-1.5252
+Smokie joes,WF2 9RG,53.6801,-1.5091
 KFC,WF2 9SE,53.6780,-1.5026
 Ronnies Limited t/a McDonalds 668,WF2 9SE,53.6780,-1.5026
 Subway,WF2 9SH,53.6770,-1.5058
@@ -241,6 +250,7 @@ Kingfisher Fish and Chips,WF4 3DA,53.6471,-1.5385
 Blackerhall Farm Shop Limited,WF4 3DN,53.6347,-1.5456
 STATION PUB,WF4 3ER,53.6342,-1.5437
 Cedar Court Hotel Wakefield,WF4 3QZ,53.6490,-1.5316
+Shans Restaurant ,WF4 5AB,53.6592,-1.5547
 Caffe Capri,WF4 5AG,53.6592,-1.5525
 EGO at the Bulls Head,WF4 5AS,53.6564,-1.5533
 Nostalgic Kitchen,WF4 5DA,53.6593,-1.5503
@@ -248,6 +258,7 @@ The CoffeeStop At The Junction Horbury Ltd,WF4 5FH,53.6530,-1.5402
 Bistro 42 Horbury,WF4 5LE,53.6599,-1.5561
 The Quarry Restaurant and Grill,WF4 5NF,53.6590,-1.5665
 Cinnamon Lounge,WF4 5NN,53.6581,-1.5708
+Rich and Fancy ,WF4 6LP,53.6602,-1.5551
 The Cherry Tree Horbury Limited,WF4 6LT,53.6607,-1.5544
 Malagor,WF5 0NH,53.6776,-1.5636
 Corner Kitchen,WF6 2AD,53.6998,-1.4196
@@ -270,8 +281,10 @@ Mauds Cafe Bar,WF8 1AQ,53.6910,-1.3106
 Flavours Coffee Shops Ltd,WF8 1BA,53.6920,-1.3112
 KFC,WF8 1BJ,53.6920,-1.3139
 Coffee At The Court,WF8 1BP,53.6920,-1.3150
+AL JAMIL BALTI RESTAURANT ,WF8 1DA,53.6918,-1.3147
 KAYASAN YORKSHIRE LIMITED ,WF8 1HE,53.6927,-1.3102
 MAMMA MIA,WF8 1HJ,53.6945,-1.3080
+monkhill sandwiches ltd,WF8 1JD,53.7004,-1.3032
 Myxology Ltd ,WF8 1LG,53.6902,-1.3126
 Alleyc'zam cafe and bar,WF8 1LN,53.6898,-1.3125
 WF8 1LN,WF8 1LN,53.6898,-1.3125

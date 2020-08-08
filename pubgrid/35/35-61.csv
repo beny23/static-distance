@@ -22,6 +22,7 @@ Starbucks St Albans - High Street,AL3 4ED,51.7508,-0.3405
 Dylans Craft Beer Co Ltd,AL3 4ER,51.7514,-0.3421
 George Street Canteen,AL3 4ER,51.7514,-0.3421
 MUST ST A LIMITED,AL3 4ER,51.7514,-0.3421
+THAI RACK (ST ALBANS) Restaurant ,AL3 4ER,51.7514,-0.3421
 Locanda Bagutta,AL3 4ES,51.7517,-0.3422
 Loft Stalbans,AL3 4ES,51.7517,-0.3422
 Thai Square St.Albans,AL3 4ES,51.7517,-0.3422
@@ -101,6 +102,7 @@ SARAVANAA BHAVAN,HA2 9SG,51.5731,-0.3717
 Ruby M's,HA2 9TL,51.5744,-0.3705
 Bamboo House,HA2 9TW,51.5735,-0.3709
 RASA BOJUN LIMITED,HA2 9TW,51.5735,-0.3709
+Fancy&lovely Food Ltd (T/A - Miorita Bar & Restaurant) ,HA3 5EE,51.6018,-0.3388
 Kemps BBQ Restaurant,HA3 6EL,51.6049,-0.3403
 Bombay Central,HA3 6HS,51.6045,-0.3395
 The Hare,HA3 6SD,51.6206,-0.3430
@@ -153,6 +155,7 @@ Subway Reading Station,HA5 2HR,51.5923,-0.4015
 Jungle Monkeyz,HA5 2PZ,51.5868,-0.4065
 K5 Tandoori Ltd,HA5 3EE,51.5951,-0.3822
 Zaza Pinner,HA5 3EF,51.5950,-0.3828
+caffe amici,HA5 3HR,51.5947,-0.3838
 AHIMSA THE VEGAN CAFE,HA5 3JD,51.5945,-0.3826
 Nayaways Ltd,HA5 3JE,51.5942,-0.3823
 BrOOK'S,HA5 3JF,51.5952,-0.3838
@@ -206,6 +209,7 @@ Village Express,HA6 2QF,51.6115,-0.4254
 Northwood Golf Club,HA6 2QW,51.6087,-0.4307
 Mahi Restaurant,HA6 2XN,51.6109,-0.4233
 Taylor Made Northwood Ltd,HA6 2XW,51.6112,-0.4233
+Tai Pan Chinese Restaurant ,HA6 2XY,51.6112,-0.4249
 lomito,HA6 3AE,51.6119,-0.4250
 Squire's Garden Centre Stanmore,HA7 3JF,51.6225,-0.3460
 Opuz Kitchen,HP1 1BA,51.7519,-0.4727
@@ -221,12 +225,16 @@ Muffin Break,HP1 1DX,51.7492,-0.4717
 Starburger ,HP1 1DX,51.7492,-0.4717
 alfrescos hemel hempstead ltd,HP1 1DX,51.7492,-0.4717
 Bengal spice,HP1 1EA,51.7514,-0.4735
+Di Capri pizza ltd,HP1 1ED,51.7507,-0.4735
 Riverside Fish And Chips ,HP1 1EF,51.7513,-0.4732
+Yami Emir Hifa,HP1 1EF,51.7513,-0.4732
 KFC ,HP1 1EZ,51.7531,-0.4726
 KFC HEMEL HEMPSTEAD,HP1 1EZ,51.7531,-0.4726
 Peri peri original ,HP1 1EZ,51.7531,-0.4726
+the marlowes cafe,HP1 1EZ,51.7531,-0.4726
 Boxmoor Steakhouse,HP1 1JR,51.7448,-0.4762
 fat roosters,HP1 1LA,51.7567,-0.4726
+Mazza Indian Restaurant ,HP1 1LD,51.7549,-0.4724
 fishery wharf cafe,HP1 1NA,51.7449,-0.4909
 The Steam Coach,HP1 1NP,51.7458,-0.4809
 Boxmoor Social Club,HP1 1PY,51.7457,-0.4887
@@ -299,6 +307,7 @@ pure foods of london,HP2 4SE,51.7597,-0.4391
 McDonald's 1552,HP2 4SN,51.7577,-0.4363
 Holiday Inn Hemel Hempstead,HP2 4UA,51.7554,-0.4283
 CAFE DECORUM,HP2 7BN,51.7604,-0.4408
+Cafe Dacorum,HP2 7BN,51.7604,-0.4408
 Deshi Spice,HP2 7BN,51.7604,-0.4408
 Istanbul Wendover Ltd t/a Istanbul Meze and Grill Bar,HP22 6DU,51.7623,-0.7426
 Lady Grey Tea Room ,HP22 6DU,51.7623,-0.7426
@@ -341,6 +350,7 @@ The Highwayman,HP4 1AQ,51.7615,-0.5675
 The Olive Tree,HP4 1AQ,51.7615,-0.5675
 FAT BUDDHA ,HP4 1HU,51.7633,-0.5726
 Here Cafe (Berkhamsted) Ltd,HP4 2AB,51.7614,-0.5647
+Jester,HP4 2AB,51.7614,-0.5647
 Zaza Berkhamsted,HP4 2AB,51.7614,-0.5647
 Rosannas Sicilian Resturant,HP4 2AE,51.7610,-0.5650
 Make Believe Ideas Ltd,HP4 2AZ,51.7606,-0.5626
@@ -361,6 +371,7 @@ The Kings Arms,HP4 3HL,51.7598,-0.5634
 Poppins Cafe Restaurant/Chesham,HP5 1BG,51.7044,-0.6128
 Wotnot Vintage Cafe Ltd,HP5 1BG,51.7044,-0.6128
 COSTA COFFEE CHESHAM,HP5 1BW,51.7053,-0.6123
+Jasmine Thai Kitchen,HP5 1BW,51.7053,-0.6123
 FILO FILO LTD,HP5 1BX,51.7061,-0.6119
 The General's Arms,HP5 1BX,51.7061,-0.6119
 Pizzeria Liri,HP5 1EB,51.7068,-0.6119
@@ -395,6 +406,7 @@ Mughal Palace ,HP7 0HP,51.6660,-0.6153
 Zaza Old Amersham,HP7 0HT,51.6658,-0.6161
 The Saracens Head Inn ,HP7 0HU,51.6653,-0.6171
 The Red Lion,HP7 0LH,51.6464,-0.6314
+The Plough,HP7 0PA,51.6458,-0.6528
 The Potters Arms (Amersham),HP7 0PH,51.6449,-0.6529
 The Hit or Miss,HP7 0PX,51.6528,-0.6669
 Red Lion Little Missenden,HP7 0QZ,51.6818,-0.6672
@@ -480,6 +492,7 @@ The White Oak,SL9 8NL,51.5975,-0.5569
 lomito,SL9 8PE,51.5878,-0.5542
 one4six coffee,SL9 8PQ,51.5892,-0.5524
 Crumbs Cafe shop,SL9 9DX,51.6073,-0.5575
+Chef Zhu Authentic Chinese Restaurant ,SL9 9EA,51.6069,-0.5587
 Spice ,SL9 9EA,51.6069,-0.5587
 Delhi Spice,SL9 9EH,51.6069,-0.5574
 The Jolly Farmer,SL9 9HH,51.6032,-0.5656
@@ -492,6 +505,7 @@ DARJEELING TANDOORI,UB10 8LH,51.5689,-0.4399
 PANGS CHINESE RESTAURANT,UB10 9JY,51.5509,-0.4494
 Swallow Tavern Ltd.,UB10 9NR,51.5538,-0.4488
 The codfather,UB5 4RU,51.5512,-0.3505
+chicken palace greenford ltd,UB6 0HL,51.5513,-0.3390
 Caffe Kix The Clubhouse,UB8 1DH,51.5559,-0.4803
 KFC Uxbridge,UB9 4DW,51.5582,-0.4920
 The King Denham,UB9 5AE,51.5686,-0.5012
@@ -515,6 +529,7 @@ NINE HOSPITALITY 4 LIMITED,WD17 1DS,51.6627,-0.3974
 NINE READING HOTEL LIMITED,WD17 1DS,51.6627,-0.3974
 Nine Estates Limited,WD17 1DS,51.6627,-0.3974
 Nine Hospitality 3 Limited,WD17 1DS,51.6627,-0.3974
+Maeme's Piri Piri,WD17 1DY,51.6569,-0.3974
 puccinos,WD17 1ET,51.6640,-0.3976
 Barracuda ,WD17 1LJ,51.6579,-0.3992
 Fireaway Pizza,WD17 1LJ,51.6579,-0.3992
@@ -540,13 +555,17 @@ Rock Up Watford,WD17 2UB,51.6541,-0.3929
 Daisys in the Park Cassiobury,WD17 3AR,51.6620,-0.4219
 Opuz Kitchen,WD18 0BW,51.6534,-0.3946
 SUBWAY WATFORD,WD18 0BW,51.6534,-0.3946
+By Vito Galiano,WD18 0EJ,51.6523,-0.4000
 Papa Johns - WATFORD,WD18 0PD,51.6553,-0.3980
+Terra Brazil  Brazilian Rodízio ,WD18 0PD,51.6553,-0.3980
 Tarboush,WD18 0PR,51.6541,-0.3993
 Cafe latino ,WD18 0PY,51.6544,-0.3996
 VGB Catering LTD,WD18 0PY,51.6544,-0.3996
+Zara BBQ,WD18 0PY,51.6544,-0.3996
 RAHMAN LTD,WD18 7LY,51.6547,-0.4044
 Homepizza original,WD18 7NS,51.6516,-0.4121
 The Village Kitchen at The Rifle Volunteer,WD19 4AJ,51.6439,-0.3810
+Lalbagh Tandoori Restaurant,WD19 4BL,51.6463,-0.3835
 Taaza London,WD19 4BL,51.6463,-0.3835
 Load of Hay,WD19 4ET,51.6382,-0.3832
 The Royal Oak,WD19 4EU,51.6383,-0.3849
@@ -563,6 +582,9 @@ MezeMangal.co,WD23 1EL,51.6328,-0.3403
 Olivios ,WD23 1GE,51.6352,-0.3426
 Toulous,WD23 1GE,51.6352,-0.3426
 Par 3 Cafe Limited,WD23 1TT,51.6434,-0.3623
+VU Lounge,WD23 1TT,51.6434,-0.3623
+View Lounge Limited,WD23 1TT,51.6434,-0.3623
+RAJ GARDEN ,WD23 2DQ,51.6623,-0.3803
 Metropolitan Police Bushey Sports Club,WD23 2TR,51.6586,-0.3666
 Blue Check,WD23 3DH,51.6442,-0.3619
 The King Stag,WD23 3EH,51.6454,-0.3630
@@ -626,6 +648,7 @@ The Bedford Arms,WD3 6EQ,51.6734,-0.5272
 The Cock Inn,WD3 6HH,51.6777,-0.4956
 DOLCE CAFFÈ & RESTAURANT ,WD3 7BE,51.6362,-0.4843
 Subway ,WD3 7BQ,51.6365,-0.4836
+Cara a limited,WD3 7DW,51.6356,-0.4846
 KFC RICKMANSWORTH,WD3 7DW,51.6356,-0.4846
 Mill end cafe,WD3 7DW,51.6356,-0.4846
 Pepes Piri Piri Rickmansworth,WD3 7DW,51.6356,-0.4846
@@ -638,6 +661,7 @@ LANGLEY SPICE LIMITED,WD4 8BH,51.7135,-0.4504
 HUNTON PARK HOTEL,WD4 8PN,51.6937,-0.4251
 The Kings Head,WD4 8RE,51.6932,-0.4358
 cart and horses ,WD4 9BA,51.6919,-0.4874
+Spice Village,WD4 9BH,51.7048,-0.4922
 The Windmill Public House,WD4 9BU,51.7018,-0.4954
 Fred & Ginger Coffee,WD4 9HT,51.7119,-0.4498
 Chipperfield Garden Centre,WD4 9LH,51.7121,-0.5040

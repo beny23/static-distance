@@ -18,6 +18,8 @@ Seafarers ,ST1 1HL,53.0248,-2.1761
 The Quarter Cafe,ST1 1HR,53.0239,-2.1776
 The Slamwich Club,ST1 1HR,53.0239,-2.1776
 The Corner,ST1 1HX,53.0241,-2.1780
+PORTOFINO (HANLEY) LTD,ST1 1JD,53.0252,-2.1786
+Potteries Pantry,ST1 1JQ,53.0248,-2.1754
 Subway Tontine Street,ST1 1NQ,53.0255,-2.1749
 Esquires Coffee Hanley,ST1 1PF,53.0265,-2.1758
 Mrs B's Market Kitchen,ST1 1PS,53.0275,-2.1758
@@ -31,6 +33,7 @@ Emma Bridgewater Limited,ST1 3EJ,53.0177,-2.1702
 NutriBox Health ,ST1 4AF,53.0231,-2.1872
 The Boat House,ST1 4DX,53.0173,-2.1778
 The Pavilion Cafe,ST1 4DX,53.0173,-2.1778
+LOKANTA TURKISH STREET FOOD,ST1 4EJ,53.0211,-2.1815
 Restaurant Family,ST1 4EU,53.0228,-2.1798
 CHICINOS STOKE LIMITED,ST1 4LU,53.0184,-2.1830
 MIRCHI RESTAUANT ,ST1 4LY,53.0174,-2.1842
@@ -80,6 +83,7 @@ Lawtons Pies Ltd,ST13 5AJ,53.1056,-2.0221
 Pabna Staffordshire LTD,ST13 5AS,53.1049,-2.0192
 Silk House Leek,ST13 5DL,53.1046,-2.0264
 Domino's Pizza - Leek,ST13 5DR,53.1062,-2.0267
+The Rajah Tandoori Restaurant ,ST13 5DZ,53.1058,-2.0272
 The napoli,ST13 5DZ,53.1058,-2.0272
 the red lion leek,ST13 5HH,53.1062,-2.0251
 Costa Coffee,ST13 5HJ,53.1063,-2.0257
@@ -112,6 +116,7 @@ BEAR Stone,ST15 8AD,52.9029,-2.1474
 Thai Lanna -  Stone,ST15 8AJ,52.9018,-2.1458
 The lounge,ST15 8AU,52.9026,-2.1480
 PASTA DI PIAZZA,ST15 8AW,52.9020,-2.1468
+Stonebaked Café ,ST15 8AW,52.9020,-2.1468
 Subway Restaurant ,ST15 8BA,52.9029,-2.1441
 The Mill Restaurant ,ST15 8BA,52.9029,-2.1441
 Little Seeds Bar & Kitchen,ST15 8DA,52.9041,-2.1485
@@ -128,6 +133,7 @@ Moddershall Oaks,ST15 8TG,52.9276,-2.1111
 C & J INSPIRED ACTION LIMITED trading as The Wheatsheaf,ST15 8UW,52.9188,-2.1376
 The Secret Tea Room ,ST15 8YQ,52.9018,-2.1468
 Spice Exchange,ST2 7AF,53.0481,-2.1402
+Spice exchange ,ST2 7AF,53.0481,-2.1402
 The Teapot at Milton,ST2 7BW,53.0496,-2.1418
 Sanjeev’s,ST2 7HQ,53.0584,-2.1392
 The Glost House,ST3 1EZ,52.9906,-2.1379
@@ -147,11 +153,11 @@ KFC MEIR 02040,ST3 7DX,52.9770,-2.1061
 The Black Lake Inn Ltd,ST3 7NT,52.9486,-2.1008
 Swynnerton Arms,ST3 7PL,52.9559,-2.1109
 Tandoori knights,ST4 1BL,53.0037,-2.1838
+Sangam Restaurant ,ST4 1HL,53.0039,-2.1826
 Sangam restaurant ,ST4 1HL,53.0039,-2.1826
 Planet Bollywood,ST4 1HP,53.0037,-2.1829
 WHITE STAR,ST4 1JB,53.0039,-2.1843
 Sangam Balti Restaurant,ST4 1JH,53.0043,-2.1842
-Works Canteen,ST4 1QQ,53.0057,-2.1857
 BOD STOKE,ST4 2AA,53.0081,-2.1808
 Subway Winton Sq,ST4 2AD,53.0080,-2.1800
 North Stafford Hotel,ST4 2AE,53.0084,-2.1798
@@ -170,6 +176,7 @@ LONDON ROAD ALE HOUSE,ST4 5AA,52.9985,-2.1897
 The Stage Door,ST4 5AB,52.9976,-2.1899
 Jollees,ST4 5AG,52.9974,-2.1905
 The West End centre and Cafe West End ,ST4 5AW,52.9944,-2.1926
+penkhull sandwich shop by cookies catering,ST4 5DW,53.0007,-2.1969
 Black Lion Pub ,ST4 5NZ,52.9877,-2.2020
 Kismet Restaurant (stoke) Ltd,ST4 6AF,53.0108,-2.2109
 McDonald’s Restaurants 501 t/a LEMACA Ltd,ST4 6PD,52.9956,-2.2085
@@ -194,6 +201,7 @@ Max Tan Restaurant Ltd t/a The Arch,ST5 1HF,53.0128,-2.2222
 Borough Arms Hotel,ST5 1HX,53.0140,-2.2191
 THE GREYHOUND,ST5 1JT,53.0124,-2.2154
 Marloes Restaurant,ST5 1LQ,53.0088,-2.2239
+Gostos ,ST5 1NB,53.0061,-2.2209
 Amore Italian Restaurant & Cafe,ST5 1PR,53.0112,-2.2290
 PASTA DI PIAZZA,ST5 1PS,53.0098,-2.2252
 SHAWS,ST5 1PS,53.0098,-2.2252
@@ -209,6 +217,7 @@ McDonald’s Restaurants 086 t/a LEMACA Ltd,ST5 1QQ,53.0104,-2.2272
 STREAT ASIAN STREET FOOD ,ST5 1QS,53.0113,-2.2294
 Oscars Restaurant,ST5 1RF,53.0118,-2.2273
 Caffe Java,ST5 1RH,53.0122,-2.2264
+Koh-I-Noor ,ST5 2AU,53.0130,-2.2297
 newcastle under lyme golf club limited,ST5 2QB,53.0000,-2.2416
 Pizza Triangle,ST5 2RR,53.0106,-2.2308
 Peaches Restaurant,ST5 2TB,53.0104,-2.2322
@@ -217,6 +226,7 @@ Bilash Restaurant,ST5 2TL,53.0083,-2.2328
 The Westbury Tavern,ST5 4JW,52.9841,-2.2251
 Sneyd Arms,ST5 5AD,53.0043,-2.2878
 The Sheet Anchor,ST5 5BU,52.9604,-2.3039
+Slater's Club Ltd,ST5 5ED,52.9495,-2.3078
 Slater's Country Inn,ST5 5ED,52.9495,-2.3078
 The Swan With Two Necks,ST5 5EH,52.9473,-2.3469
 The Bush,ST5 6JZ,53.0155,-2.2773
@@ -228,8 +238,10 @@ kfc,ST5 9ER,53.0182,-2.2307
 GG’s Cafe and Grill,ST5 9JJ,53.0210,-2.2314
 coffee cup,ST6 1JQ,53.0464,-2.1906
 Totally Delicious Autonet,ST6 2BA,53.0430,-2.1907
+Agie and Katie Restaurant,ST6 3AJ,53.0446,-2.1993
 THE BULLS HEAD,ST6 3AJ,53.0446,-2.1993
 agie and katie ltd,ST6 3AJ,53.0446,-2.1993
+SAPPHIRE FINE DINING,ST6 3AW,53.0443,-2.1987
 SPICY LANKA,ST6 3EA,53.0453,-2.1966
 Kismet Restaurant (Burslem) Ltd ,ST6 3EL,53.0447,-2.1964
 Totally Delicious Middleport Pottery,ST6 3PE,53.0402,-2.2095
@@ -244,6 +256,7 @@ The Bistro,ST6 7QS,53.0578,-2.1786
 The Top Pub,ST6 8TX,53.0859,-2.1375
 The swan inn,ST7 1PS,53.0766,-2.2624
 Caster's ,ST7 2AF,53.0963,-2.3026
+The Bank Corner,ST7 2AF,53.0963,-2.3026
 The Wilbraham Arms,ST7 2AX,53.1021,-2.3110
 The Porterhous,ST7 2ET,53.0955,-2.3089
 Ey up duck,ST7 2HA,53.0955,-2.3107
@@ -269,6 +282,7 @@ Gardners Arms ,ST8 6PH,53.1010,-2.1859
 Roaring Meg,ST8 7EA,53.1211,-2.1608
 black lion,ST9 0AJ,53.0359,-2.0004
 MANTRA RESTAURANT,ST9 0DQ,53.0230,-2.0674
+SPICE OF WERRINGTON LTD,ST9 0JS,53.0217,-2.0980
 MR MF ALLEN T/A BLACK HORSE,ST9 9BA,53.0826,-2.1028
 Stafford Arms,ST9 9JR,53.0548,-2.1076
 N & J Hospitality Ltd ,ST9 9LL,53.0651,-2.1134
@@ -277,4 +291,5 @@ EGO at the Hollybush,ST9 9NL,53.0653,-2.1244
 The Willoughbridge Garden Trust,TF9 4EU,52.9566,-2.3697
 Chetwode Arms,TF9 4HD,52.9613,-2.3918
 The Peel Arms,TF9 4JY,52.9249,-2.3606
+Spice Lounge tf9,TF9 4LG,52.9256,-2.3542
 LODGE INDIA,TF9 4PB,52.9210,-2.3877

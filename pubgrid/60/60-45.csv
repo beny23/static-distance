@@ -53,12 +53,14 @@ Bernie's Deli Too,L31 3HF,53.5068,-2.9328
 Subway,L31 6DG,53.5158,-2.9311
 McDonald's,L32 1TS,53.4895,-2.8880
 Bernie's Sandwich & deli bar,L32 2AE,53.4875,-2.9011
+Community Cafe,L32 5TH,53.4838,-2.8921
 Fryer tucks cafe,L32 6QP,53.4745,-2.8765
 Costa Coffee,L32 8RD,53.4817,-2.8872
 The Cafe,L32 8UG,53.4822,-2.8885
 Workman FM,L33 7RX,53.4708,-2.8670
 Subway Kirkby ,L33 7SE,53.4810,-2.8631
 Kirkby Bank Butty Bar,L33 7SY,53.4804,-2.8551
+Cafe at the conservatory limited,L33 7TW,53.4855,-2.8529
 knowsley trade cafe,L33 7UY,53.4898,-2.8504
 AMC (LIVERPOOL) LTD,L34 0EZ,53.4543,-2.8512
 Lavender Cafe,L34 2QT,53.4334,-2.7779
@@ -69,6 +71,7 @@ The Oven Pizzeria & Bar,L34 5QE,53.4287,-2.8048
 CHINA CHINA TRADING LTD t/a BEIJING CHINESE RESTAURANT,L34 5QH,53.4296,-2.8027
 Poco Bar and Cafe,L34 5QJ,53.4292,-2.8034
 Ho’s restaurant ,L34 5RB,53.4300,-2.8010
+The Derby Arms,L34 9EA,53.4526,-2.8550
 Suites Hotel Knowsley ,L34 9HA,53.4640,-2.8758
 Mossock Hall Golf Club,L39 0EE,53.5238,-2.8832
 Quattros,L39 0HF,53.5340,-2.8144
@@ -85,6 +88,7 @@ Love to Eat ,L39 2ER,53.5677,-2.8856
 Tap Cafe,L39 2ER,53.5677,-2.8856
 Becks Sandwich Bar,L39 2ES,53.5684,-2.8850
 Il Padrino,L39 2ES,53.5684,-2.8850
+Left Bank Brasserie,L39 2ES,53.5684,-2.8850
 Barnyard Churrasco and grill,L39 2XA,53.5681,-2.8853
 McDonalds,L39 3AE,53.5676,-2.8866
 Dinky Dory,L39 3AG,53.5682,-2.8872
@@ -109,6 +113,7 @@ Fu Hong,L4 8TT,53.4358,-2.9360
 McDonald's,L4 8UU,53.4391,-2.9398
 The Farm Burscough Ltd,L40 0RT,53.6086,-2.8873
 Eden ,L40 0SQ,53.6037,-2.8444
+WWT Martin Mere Wetland Centre,L40 0TA,53.6226,-2.8650
 Hesketh Arms,L40 1SB,53.6337,-2.8159
 Tastebuds at the Wharf,L40 1TB,53.6345,-2.8084
 The Boathouse Rufford Ltd,L40 1TD,53.6347,-2.8128
@@ -122,6 +127,7 @@ The Ship at Lathom LTD,L40 4BX,53.5970,-2.8300
 HOP VINE,L40 4BY,53.6036,-2.8418
 Hugo's,L40 5RZ,53.6027,-2.8425
 The Blue Mallard,L40 5RZ,53.6027,-2.8425
+Briars Hall Hotel,L40 5TH,53.5925,-2.8236
 The Old Packet House,L40 5TN,53.6017,-2.8440
 the plough inn ,L40 6JG,53.5652,-2.8230
 Warbreck Garden Centre,L40 6JW,53.5555,-2.8341
@@ -189,7 +195,6 @@ The Chinese Buffet,WA10 1NU,53.4515,-2.7386
 The Nelson ,WA10 1NU,53.4515,-2.7386
 Kaspa's,WA10 1NW,53.4520,-2.7388
 Subway,WA10 1NW,53.4520,-2.7388
-Cafe Laziz,WA10 1QF,53.4536,-2.7402
 Superbowl UK St Helens Ltd ,WA10 1QT,53.4519,-2.7437
 MILLON RESTAURANT (SH) LTD,WA10 2JE,53.4555,-2.7406
 AKESG,WA10 2JF,53.4556,-2.7419
@@ -198,8 +203,10 @@ C&L (NW) Limited T/A Yang Xing Restaurant ,WA10 2JG,53.4563,-2.7435
 The sheesh restaurant,WA10 2JG,53.4563,-2.7435
 Brunos Steak House,WA10 2JX,53.4553,-2.7410
 Miami Fast Food (Air Nation),WA10 2QS,53.4553,-2.7430
+Halabala2,WA10 2RS,53.4544,-2.7389
 Limassol Restaurant,WA10 2RS,53.4544,-2.7389
 Cake bake,WA10 2SY,53.4543,-2.7395
+THE NEW ERA GREEKS,WA10 2TW,53.4564,-2.7395
 Subway,WA10 3BD,53.4396,-2.7724
 The Bird I'Th Hand,WA10 3HE,53.4470,-2.7583
 Sunflower cafe,WA10 3RN,53.4477,-2.7512
@@ -279,6 +286,7 @@ New Day Bakery,WN1 1QH,53.5480,-2.6310
 New Day Cafe,WN1 1QH,53.5480,-2.6310
 Cafe Santos Ltd,WN1 1QP,53.5486,-2.6312
 Cassinellis Cafe,WN1 1QP,53.5486,-2.6312
+The Tudor House Hotel Ltd,WN1 1SE,53.5482,-2.6344
 Bap,WN1 1UE,53.5475,-2.6310
 McDonalds ,WN1 1UP,53.5485,-2.6297
 The Chinese Buffet,WN1 1UP,53.5485,-2.6297
@@ -304,6 +312,7 @@ KFC - WIGAN,WN2 2AT,53.5433,-2.6060
 Charlie's coffee factory,WN2 3AN,53.5362,-2.5775
 Summat To Ate,WN2 3AN,53.5362,-2.5775
 Alisons restaurant ,WN2 3AS,53.5360,-2.5780
+mahabharat restaurant,WN2 3AY,53.5345,-2.5802
 Gore's Sweet Shop Cafe,WN2 3EE,53.5319,-2.5761
 PNBD RESTAURANT LTD,WN2 3PR,53.5307,-2.5710
 McDonalds,WN2 5BD,53.5218,-2.5962
@@ -316,6 +325,7 @@ Postcode Coffee House,WN3 5AB,53.5411,-2.6417
 Foodie Cafe & Resto,WN3 5BD,53.5396,-2.6403
 McDonalds ,WN3 6XA,53.5202,-2.6529
 Velocity Leisure Ltd Wigan,WN3 6XU,53.5176,-2.6545
+Workin Lunch Ltd (Rustic Kitchen),WN4 0AR,53.5009,-2.6474
 Park Hotel,WN4 0BY,53.5094,-2.6506
 Blend n shake,WN4 9AE,53.4867,-2.6379
 The Bistro,WN4 9AE,53.4867,-2.6379
@@ -359,6 +369,7 @@ DISH BAR & RESTAURANT,WN6 0SS,53.5888,-2.6803
 Alberts Bar and Restaurant ,WN6 0TD,53.5858,-2.6662
 THE OWLS AT STANDISH,WN6 0XD,53.5890,-2.6464
 The Raj ,WN6 7LW,53.5511,-2.6483
+Aster,WN6 7NQ,53.5534,-2.6568
 Gathurst golf club,WN6 8EW,53.5714,-2.7012
 Crooke Hall Inn Limited,WN6 8LR,53.5608,-2.6779
 The Boathouse Pub & Kitchen,WN6 9DA,53.5779,-2.7202

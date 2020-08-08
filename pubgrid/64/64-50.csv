@@ -1,4 +1,9 @@
 name,postcode,lat,lon
+Romanesc Traditional,BB10 1DY,53.8032,-2.2352
+Europa,BB10 1DZ,53.8048,-2.2344
+Pepe's Piri Piri,BB10 1DZ,53.8048,-2.2344
+Varna Bulgaria,BB10 1DZ,53.8048,-2.2344
+Chilli Master,BB10 1ED,53.8068,-2.2343
 Samosa chaat ,BB10 1QX,53.7998,-2.2397
 Subway,BB10 2AR,53.8024,-2.2233
 Simply Classic BooHoo,BB10 2BQ,53.8058,-2.2171
@@ -50,10 +55,12 @@ Bertram's restaurant,BB12 0RT,53.8013,-2.2535
 The Lounge restaurant,BB12 0RT,53.8013,-2.2535
 Wilfred's restaurant,BB12 0RT,53.8013,-2.2535
 Holiday Inn Express Burnley M65 J10,BB12 0TJ,53.7939,-2.2564
+Forest,BB12 9PA,53.8296,-2.2608
 The White Swan,BB12 9QA,53.8377,-2.2535
 The Sparrowhawk Pub ,BB12 9QG,53.8425,-2.2464
 THE CAFE ON THE SQUARE LIMITED,BB18 5AA,53.9165,-2.1870
 Victoria's Tearooms,BB18 5AA,53.9165,-2.1870
+Mcculloughs,BB18 5AF,53.9157,-2.1869
 The Green Play House,BB18 5DH,53.9214,-2.1852
 Barlick Raj Balti ,BB18 5NA,53.9165,-2.1875
 The Anchor Inn,BB18 5TT,53.9041,-2.1718
@@ -102,6 +109,7 @@ Subway,BB9 7YL,53.8423,-2.2172
 M I FOODS LTD,BB9 8EP,53.8428,-2.2032
 S R Desserts Ltd,BB9 8EP,53.8428,-2.2032
 Samsons cafe/sandwich shop ,BB9 9HL,53.8393,-2.2042
+Ranchos Steak,BB9 9SG,53.8354,-2.2137
 Costa Coffee,BB9 9SL,53.8363,-2.2137
 Europa Bar & Club ,BB9 9TL,53.8389,-2.2102
 Caths Cafe,BB9 9UA,53.8392,-2.2089
@@ -119,6 +127,7 @@ Bingley St Ives Golf Club Limited,BD16 1AT,53.8474,-1.8607
 ACW GARDEN SERVICE LTD T/AS WOODBANK NURSERIES,BD16 1BE,53.8405,-1.8615
 The Malt,BD16 1BG,53.8349,-1.8663
 The Robin Hood,BD20 0AJ,53.9125,-1.9379
+jelains ,BD20 0JY,53.9157,-1.9358
 marquis of Granby,BD20 5EP,53.8774,-1.8789
 the airedale heifer,BD20 5LY,53.8687,-1.8631
 pizza giardino,BD20 5NH,53.8670,-1.8583
@@ -138,10 +147,12 @@ White Lion,BD20 9BH,53.9087,-1.9832
 The Slaters Arms,BD20 9DE,53.9296,-1.9955
 Crumbs ,BD20 9JS,53.9148,-1.9388
 Azeem's Restaurant Limited,BD21 1AD,53.8634,-1.9112
+Fatjoes in Keighley Limited,BD21 1AD,53.8634,-1.9112
 Shimla spice ,BD21 1NR,53.8642,-1.9115
 Lemon Tree Cafe Bistro,BD21 1QT,53.8631,-1.9166
 PONTE VECCHIO (KEIGHLEY) LIMITED,BD21 2AA,53.8658,-1.9104
 BALTI HOUSE (KEIGHLEY) LTD,BD21 2AT,53.8686,-1.9110
+Aroush Cafe,BD21 2SR,53.8693,-1.9101
 Wilsons Fish Restaurant,BD21 3DX,53.8684,-1.9074
 KFC,BD21 3JN,53.8734,-1.9010
 McDonald's Restaurant,BD21 3NB,53.8749,-1.9032
@@ -189,6 +200,7 @@ Cobbles Guest House,BD22 8DU,53.8320,-1.9570
 The Old White Lion Hotel,BD22 8DU,53.8320,-1.9570
 Haworth Tandoori Restaurant Ltd ,BD22 8NQ,53.8318,-1.9471
 Mill Hey Brew House Limited,BD22 8NQ,53.8318,-1.9471
+Crossroads Indian ,BD22 9DL,53.8352,-1.9349
 The Kitchen Cafe,BD22 9DL,53.8352,-1.9349
 The Waggon and Horses ,BD22 9QE,53.8016,-1.9703
 The Dog and Gun Bar and Restaurant Ltd,BD22 9SN,53.8050,-1.9321
@@ -227,6 +239,7 @@ The Coffee station ,HX7 6JE,53.7377,-2.0085
 The Stubbing Wharf,HX7 6LU,53.7408,-2.0278
 The Town Hall Cafe Ltd,HX7 7BY,53.7425,-2.0132
 La Perla,HX7 7DD,53.7438,-2.0127
+Vocation & Co,HX7 8AD,53.7406,-2.0113
 Rim Nam Thai Restaurant,HX7 8AF,53.7403,-2.0123
 Cinnamon at the bridge Ltd,HX7 8AH,53.7413,-2.0114
 Leila's Kitchen,HX7 8AH,53.7413,-2.0114

@@ -3,9 +3,12 @@ Rios Piri Piri,B11 4AT,52.4478,-1.8606
 Petits Fours Patisserie Ltd,B11 4BP,52.4466,-1.8598
 CRESCENT FOOD SERVICES LTD,B11 4BS,52.4451,-1.8590
 Treatz Sparkhill,B11 4DX,52.4472,-1.8608
+FUTA CAFE,B11 4HE,52.4454,-1.8688
 Sarehole Mill ,B13 0BD,52.4344,-1.8561
 SWEET CHILLIES RESTAURANT LIMITED,B13 0JE,52.4222,-1.8733
+Shiraz Hair Cafe,B13 0RF,52.4227,-1.8776
 JAQK'S,B13 8DD,52.4472,-1.8885
+LA BRIOCHE LIMITED ,B13 8DD,52.4472,-1.8885
 LA PLANCHA,B13 8DD,52.4472,-1.8885
 Cafephilia,B13 8EE,52.4489,-1.8876
 Prince of Wales,B13 8EE,52.4489,-1.8876
@@ -20,6 +23,7 @@ I&M Cafe Deli,B13 8HW,52.4467,-1.8875
 LK Hopitality Ltd T/A Coach House,B13 8HW,52.4467,-1.8875
 PALMYRA MEDITERRANEAN LTD,B13 8HW,52.4467,-1.8875
 The Cuban Embassy at The Bulls Head,B13 8HW,52.4467,-1.8875
+Priya lounge,B13 8JG,52.4461,-1.8872
 Tubule Kitchen ,B13 8JG,52.4461,-1.8872
 Damascena Coffee House,B13 8JP,52.4459,-1.8893
 Little Blackwood,B13 8JP,52.4459,-1.8893
@@ -74,12 +78,14 @@ blue ocean cafe restaurant,B27 7RR,52.4436,-1.8344
 Acocks Green Bowl,B27 7UH,52.4457,-1.8260
 The Westley Hotel,B27 7UJ,52.4454,-1.8271
 Billsedge Cafe,B28 0BX,52.4220,-1.8561
-Pops Grill,B28 0HT,52.4247,-1.8474
 Alfresco fusion ,B28 0LG,52.4239,-1.8482
 HALL GREEN H G CLUB LTD,B28 0LS,52.4207,-1.8472
 Alborz ,B28 8AD,52.4399,-1.8482
+Fat chicken ltd,B28 8AD,52.4399,-1.8482
 KARAK CHAII,B28 8AE,52.4389,-1.8477
+Karak chaii ,B28 8AE,52.4389,-1.8477
 Marrakech Restaurant ,B28 8AE,52.4389,-1.8477
+Ziafet,B28 8AE,52.4389,-1.8477
 Bun and Steak,B28 8AF,52.4380,-1.8472
 Burgere ,B28 8AF,52.4380,-1.8472
 Chopan Kabab,B28 8AS,52.4395,-1.8490
@@ -99,7 +105,6 @@ IB ENTERPRISES LTD T/A PEPE'S PIRI PIRI,B29 6BQ,52.4447,-1.9346
 Creative Coffee Hub,B29 6HJ,52.4366,-1.9299
 Sliced N Diced,B29 6HW,52.4385,-1.9407
 Bohemia Restaurant,B29 6JE,52.4388,-1.9397
-BBC Drama Village,B29 6LT,52.4329,-1.9495
 Kimchi,B29 7AE,52.4446,-1.9325
 Watan Kashmiri Restaurant Ltd,B29 7HQ,52.4472,-1.9134
 Hungrydo,B29 7PX,52.4368,-1.9169
@@ -135,7 +140,10 @@ Trader Cafe Ltd,B31 2NS,52.4137,-1.9719
 KFC,B31 2PA,52.4135,-1.9726
 Maya’s cafe,B31 2PA,52.4135,-1.9726
 Rumana's,B31 2QT,52.4106,-1.9739
+7Spices Restaurant ,B31 2SL,52.4052,-1.9792
+JZee Foods Ltd,B31 2SL,52.4052,-1.9792
 CafeSol,B31 2SP,52.4025,-1.9820
+Stone Papas Kitchen,B31 2UQ,52.3950,-1.9842
 Subway,B31 2UQ,52.3950,-1.9842
 KFC,B31 2US,52.3952,-1.9849
 M and D Court Catering,B31 4BY,52.3975,-1.9730
@@ -156,6 +164,7 @@ Lailing restaurant,B45 8UT,52.3849,-2.0014
 BANOPHOOL,B45 9HY,52.3923,-2.0223
 Subway,B45 9JA,52.3933,-2.0175
 The Rafter's Cafe,B45 9JA,52.3933,-2.0175
+CURRY AFFAIRS LTD,B45 9JR,52.3930,-2.0211
 Himalaya Restaurant Est 1974 Limited,B45 9QD,52.3956,-1.9980
 McDonald’s Longbridge,B45 9UA,52.3959,-1.9943
 Bean 47 ,B47 5HD,52.3853,-1.8837
@@ -236,6 +245,7 @@ The Little Lark,B80 7NP,52.2681,-1.8930
 The jubilee inn,B80 7PQ,52.2630,-1.8975
 Akamba Venue,B90 1PH,52.3901,-1.8469
 Coffee Cloud,B90 1UA,52.3850,-1.8368
+Persia Restaurant,B90 1UA,52.3850,-1.8368
 Costa Coffee,B90 1UB,52.3851,-1.8365
 Janaki Indian Cuisine,B90 1UB,52.3851,-1.8365
 Mortons Bar & Grill Ltd,B90 1UB,52.3851,-1.8365
@@ -254,8 +264,11 @@ The coffee roaster ,B90 3AY,52.4145,-1.8281
 Oasis Tandoori Restaurant,B90 3BB,52.4145,-1.8288
 IceGem Gelato,B90 3BD,52.4138,-1.8284
 Kairos Coffee,B90 3BD,52.4138,-1.8284
+bella milano,B90 3BD,52.4138,-1.8284
+turkish restaurant shirleyltd,B90 3BD,52.4138,-1.8284
 Darjeeling Indian Cuisine,B90 3DN,52.4068,-1.8246
 Dhanmondi Ltd (TA Karma Restaurant),B90 3DN,52.4068,-1.8246
+Fortune Inn Restaurant,B90 3DN,52.4068,-1.8246
 INDICO,B90 3GG,52.4131,-1.8290
 JAQK'S,B90 3GG,52.4131,-1.8290
 PERIOS,B90 3GG,52.4131,-1.8290
@@ -292,6 +305,7 @@ Crowne Plaza Solihull,B91 3QD,52.4106,-1.7805
 The Boston Tea Party Group Limited,B91 3QE,52.4137,-1.7811
 Asha's Restaurant & Cocktail Bar,B91 3QW,52.4115,-1.7789
 Jamaya,B91 3QW,52.4115,-1.7789
+COFFEE LOUNGE,B91 3QZ,52.4109,-1.7784
 Big Bitez,B91 3RX,52.4146,-1.7819
 Indian Brewery Solihull Ltd,B91 3RX,52.4146,-1.7819
 Jade Wok Restaurant,B91 3RX,52.4146,-1.7819
@@ -301,6 +315,8 @@ Arden Hotel,B92 0EH,52.4452,-1.7213
 Platform Three Restaurant,B92 7AR,52.4380,-1.8057
 Rajasthan Restaurant     ,B92 7AR,52.4380,-1.8057
 Harvey's Golf Limited,B92 7DJ,52.4249,-1.8124
+Buongiorno,B92 7HS,52.4421,-1.8111
+Munchies cafe bistro,B92 7HS,52.4421,-1.8111
 McDonald's,B92 7HX,52.4416,-1.8113
 Changes Coffee,B92 7QW,52.4486,-1.7942
 Rajnagar International Restaurant,B92 7QW,52.4486,-1.7942
@@ -346,12 +362,14 @@ Navigation Inn Lapworth,B94 6NA,52.3362,-1.7216
 MIDLAND FOOD BAKERY  LTD,B94 6RP,52.3644,-1.8053
 Curry republic,B95 5AA,52.2958,-1.7783
 La dolce piazza ltd,B95 5AN,52.2948,-1.7792
+B D Westmacott Sandwiches ,B95 5AT,52.2942,-1.7789
 The Bluebell,B95 5AT,52.2942,-1.7789
 The Butchers' Social Ltd,B95 5AT,52.2942,-1.7789
 Arden Tandoori Restaurant,B95 5AU,52.2927,-1.7796
 The Nags Head,B95 5BA,52.2909,-1.7800
 Naya Restaurant ,B95 5BS,52.2912,-1.7804
 Dolce Caffe,B95 5BY,52.2925,-1.7805
+Henley Kitchen & Bakery,B95 5BY,52.2925,-1.7805
 THE WHITE SWAN,B95 5BY,52.2925,-1.7805
 Fleur De Lys,B95 5HJ,52.3092,-1.7273
 The Winged Spur,B95 5PA,52.3042,-1.8227

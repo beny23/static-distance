@@ -1,11 +1,11 @@
 name,postcode,lat,lon
 Dog and Muffler Inn,GL16 7AS,51.8171,-2.6094
 The Globe Inn,GL16 7BB,51.8112,-2.6159
-Beechenhurst Cafe,GL16 7EG,51.8024,-2.5866
 Speech House Hotel,GL16 7EL,51.8065,-2.5524
 New Inn Shortstanding Limited,GL16 7NT,51.8181,-2.6224
 Kaplan's Cafe (Coleford) Limited,GL16 8AA,51.7935,-2.6168
 The Angel Hotel,GL16 8AE,51.7939,-2.6168
+the angel hotel ,GL16 8AE,51.7939,-2.6168
 the angel hotel,GL16 8AE,51.7939,-2.6168
 Amici Restaurant,GL16 8BD,51.7933,-2.6155
 Bells Hotel and Forest of Dean Golf Club,GL16 8BE,51.7924,-2.6113
@@ -33,6 +33,7 @@ GLEWSTONE COURT HOTEL,HR9 6AW,51.8972,-2.6378
 The Paddocks Hotel,HR9 6BL,51.8429,-2.6432
 Ye Old Ferrie Inn,HR9 6BL,51.8429,-2.6432
 Old Court Hotel,HR9 6DA,51.8539,-2.6517
+SYMONDS YAT SERVICES,HR9 6DP,51.8517,-2.6647
 Subway,HR9 6DP,51.8517,-2.6647
 Royal Arms Pub,HR9 6EZ,51.8705,-2.6911
 HOSTELRIE AT GOODRICH,HR9 6HX,51.8720,-2.6192

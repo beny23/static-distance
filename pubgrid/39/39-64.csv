@@ -14,6 +14,7 @@ Bar&Beyond Stevenage,SG1 2UA,51.8999,-0.2083
 Mr Mulligan's Lost World Stevenage,SG1 2UA,51.8999,-0.2083
 SUBWAY ,SG1 3AH,51.9115,-0.2080
 El Bar De Tapas,SG1 3AN,51.9115,-0.2078
+The Broken Seal Tap Room,SG1 3AU,51.9121,-0.2079
 TARLA RESTAURANT,SG1 3AW,51.9111,-0.2076
 Rump & Wade,SG1 3AZ,51.9127,-0.2079
 The Cromwell Hotel,SG1 3AZ,51.9127,-0.2079
@@ -27,6 +28,7 @@ Bombay restaurant ,SG1 3HR,51.9102,-0.2072
 MISYA (EAST) LTD,SG1 3HS,51.9094,-0.2068
 Stevenage Garden Centre,SG1 4AH,51.9293,-0.2121
 The Marquis of Granby,SG1 4BS,51.9211,-0.2084
+Daisy's Kitchen,SG1 5RA,51.9185,-0.1795
 Daisy's kitchen,SG1 5RA,51.9185,-0.1795
 The White Hart,SG11 1RR,51.8930,0.0139
 the golden fleece public house ,SG11 2PG,51.9086,0.0242
@@ -38,7 +40,6 @@ The Five Bells Henlow,SG16 6AE,52.0364,-0.2862
 The Crown,SG16 6BS,52.0289,-0.2859
 Champneys Henlow,SG16 6BT,52.0300,-0.2840
 Mount Pleasant Golf Club,SG16 6JL,52.0020,-0.3186
-RAILWAY STEAMER,SG17 5AH,52.0373,-0.3202
 Dalchini Spice Ltd,SG17 5DB,52.0384,-0.3335
 Rose Buds Duck Lane,SG17 5DG,52.0383,-0.3353
 The Bridge,SG17 5DG,52.0383,-0.3353
@@ -46,6 +47,7 @@ shefford tandoori ,SG17 5DG,52.0383,-0.3353
 Bangkok Lounge Shefford,SG17 5DJ,52.0414,-0.3356
 the loft,SG17 5DQ,52.0396,-0.3347
 Golden Lion,SG17 5ES,52.0365,-0.3026
+Clifton cuisine,SG17 5RL,52.0351,-0.3003
 MCDONALD'S,SG18 8QB,52.0748,-0.2411
 SOUTHILL VILLAGE STORE & TEA ROOM,SG18 9JB,52.0644,-0.3184
 The Green Man,SG18 9JD,52.0555,-0.3113
@@ -53,12 +55,15 @@ White Horse,SG18 9LD,52.0630,-0.3269
 Spice Lounge,SG18 9NX,52.0559,-0.2719
 The Langford hideaway ,SG18 9RR,52.0537,-0.2719
 Ivel Valley Coffee Shop,SG18 9SD,52.0472,-0.2780
+GATE OF INDIA RESTAURANT LTD,SG2 0DJ,51.9087,-0.1700
 Gangnam Restaurant,SG2 0DJ,51.9087,-0.1700
 Church Farm Ardeley CIC,SG2 7AH,51.9276,-0.0970
 The Crown,SG2 7HD,51.9015,-0.1510
 The White Lion,SG2 7PA,51.9218,-0.1259
 RoebuckInn(Nirvana),SG2 8DS,51.8835,-0.1903
 Odyssey Knebworth Ltd,SG2 8DU,51.8815,-0.1928
+The Willows,SG2 8ET,51.8819,-0.1786
+The Pear Tree,SG2 9DG,51.8927,-0.1839
 Grill Hut Peri Peri,SG2 9SB,51.8930,-0.1688
 The Station,SG3 6AT,51.8664,-0.1875
 Raja Tandoori Restaurant ,SG3 6EX,51.8661,-0.1831
@@ -123,6 +128,7 @@ Stotfold Conservative Club,SG5 4DZ,52.0199,-0.2271
 Box of Cakes Cafe,SG5 4HP,52.0149,-0.2341
 The Orchard at Fairfield Park,SG5 4HP,52.0149,-0.2341
 The Stag,SG5 4LA,52.0139,-0.2311
+India Lodge,SG5 4LD,52.0140,-0.2269
 Three Horseshoes,SG6 1AG,51.9930,-0.2100
 Teamworks Karting Letchworth,SG6 1JS,51.9814,-0.2166
 The Fox,SG6 2AE,51.9614,-0.2189
@@ -164,6 +170,7 @@ Il forno,SG7 6BJ,51.9875,-0.1870
 The White Lion,SG7 6BJ,51.9875,-0.1870
 KNKN limited,SG7 6EB,51.9872,-0.1873
 DB Herts Ltd,SG7 6QB,51.9905,-0.1881
+Tapp's Garden Centre,SG7 6RS,51.9869,-0.1777
 NO 41,SG8 5AB,52.0498,-0.0252
 Thai Rack Glass House,SG8 5AB,52.0498,-0.0252
 Ashiana Spice ,SG8 5AY,52.0483,-0.0252
@@ -181,6 +188,7 @@ Lounge India,SG8 9JU,52.0459,-0.0214
 MCDONALD'S,SG8 9NT,52.0457,-0.0545
 The Fox and Duck,SG8 9PN,52.0175,-0.0543
 The Three Tuns,SG9 0NT,51.9514,0.0405
+VICEROY (HERTS) LTD,SG9 9AD,51.9474,-0.0196
 The Buntingford Coffee Shop Ltd,SG9 9AE,51.9487,-0.0205
 The Falcon Restaurant Limited,SG9 9AE,51.9487,-0.0205
 Delissimo,SG9 9AG,51.9465,-0.0185

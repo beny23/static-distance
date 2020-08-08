@@ -32,7 +32,6 @@ Fuel,TR11 3JG,50.1524,-5.0662
 Balti Curries,TR11 3JH,50.1521,-5.0658
 Oggies Cornish Kitchen,TR11 3JH,50.1521,-5.0658
 The Falmouth Stable,TR11 3JT,50.1522,-5.0652
-Asha Restaurant ( falmouth ) Ltd,TR11 3PL,50.1542,-5.0740
 Phoenix Bar & Restaurant,TR11 3PL,50.1542,-5.0740
 Pennycomequick,TR11 3PN,50.1547,-5.0722
 Boo Koos LTD,TR11 3QA,50.1549,-5.0729
@@ -57,6 +56,7 @@ Hooked on the Rocks,TR11 5BG,50.1400,-5.0790
 DC Hughes Falmouth Ltd,TR11 5BQ,50.1396,-5.0871
 Trelowarren Arms,TR11 5DR,50.1470,-5.1033
 red lion pub,TR11 5EP,50.1171,-5.1094
+the red lion pub,TR11 5EP,50.1171,-5.1094
 Trelawne Hotel,TR11 5HT,50.1162,-5.0987
 Budock Vean Hotel Ltd,TR11 5LG,50.1069,-5.1320
 The Lemon Arms,TR11 5NA,50.1855,-5.0766
@@ -67,6 +67,7 @@ Cafe Mylor Cornwall Ltd,TR11 5UF,50.1770,-5.0520
 Castaways,TR11 5UF,50.1770,-5.0520
 The New Inn ,TR12 6HA,50.0822,-5.1269
 The Shipwrights Arms,TR12 6JX,50.0926,-5.1359
+Helford River Sailing Club,TR12 6LB,50.0938,-5.1297
 Three Tuns,TR12 6NA,50.0507,-5.0875
 The White Hart Hotel,TR12 6ND,50.0504,-5.0879
 Roskilly's Croust House,TR12 6NX,50.0448,-5.0823
@@ -80,7 +81,6 @@ THE OLD INN,TR12 7HN,50.0272,-5.2432
 The Star Inn Porkellis,TR13 0JR,50.1557,-5.2315
 Wheal Dream Restaurant,TR13 0LR,50.1196,-5.2633
 Flambards Theme Park ,TR13 0QA,50.0912,-5.2593
-The Stables Cafe,TR13 0RD,50.0851,-5.2987
 Lakeside Cafe,TR13 0SR,50.0997,-5.2794
 The Bell Inn,TR13 8AA,50.1005,-5.2736
 Boo Koos,TR13 8AB,50.1006,-5.2733
@@ -97,10 +97,11 @@ Twisted Currant Tea Room,TR13 9HJ,50.0854,-5.3156
 The Square at Porthleven,TR13 9HQ,50.0857,-5.3158
 Kota restaurant,TR13 9JA,50.0854,-5.3161
 Harbour Inn,TR13 9JB,50.0846,-5.3159
-Nauti But Ice,TR13 9JE,50.0837,-5.3155
+Nauti But Ice ,TR13 9JE,50.0837,-5.3155
 Amelies Porthleven,TR13 9JS,50.0833,-5.3173
 Harbour View Cafe,TR13 9JS,50.0833,-5.3173
 Kota Kai Kitchen and Bar,TR13 9JS,50.0833,-5.3173
+Clementine’s,TR13 9LH,50.0893,-5.3165
 Queen's Arms,TR13 9PD,50.1082,-5.3323
 The Garden Kitchen Cafe  ,TR13 9PY,50.1074,-5.3392
 Lion & Lamb,TR13 9RW,50.1083,-5.3520
@@ -124,6 +125,7 @@ Balti king tandoori restaurant ,TR27 4DX,50.1908,-5.4106
 The Cornubia Inn,TR27 4DX,50.1908,-5.4106
 Salt Kitchen Bar,TR27 4HH,50.1838,-5.4215
 The White Hart Hotel,TR27 4HQ,50.1840,-5.4206
+The Bird in Hand Hayle,TR27 4HY,50.1779,-5.4249
 The bird in hand bar and grill,TR27 4HY,50.1779,-5.4249
 Copperhouse Cafe,TR27 4PQ,50.1950,-5.4050
 Phillack Catering Ltd (The Bucket of Blood pub),TR27 5AE,50.1952,-5.4147

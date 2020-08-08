@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 BLUE BELL INN,DN10 4RF,53.4080,-0.8926
 So Good It Yurts,DN10 5BP,53.4111,-0.9623
+Blacksmiths arm everton,DN10 5BQ,53.4139,-0.9627
 Blacksmiths arms,DN10 5BQ,53.4139,-0.9627
 Sun Inn - Everton,DN10 5BW,53.4103,-0.9577
 The Pilgrim Fathers,DN10 6AT,53.4076,-1.0213
@@ -23,6 +24,7 @@ Bawtry Golf Club,DN10 6RF,53.4478,-1.0040
 Rossington Hall Limited,DN11 0HR,53.4623,-1.0400
 Mount Pleasant Hotel,DN11 0HW,53.4713,-1.0368
 Nelson Coffee Shop Limited,DN11 0PE,53.4786,-1.0799
+Addu's Indian restaurant,DN11 0PG,53.4787,-1.0807
 Blacksmiths Arms,DN11 8LB,53.4172,-1.0764
 Styrrup Hall Golf & Country Club ,DN11 8NB,53.4077,-1.0903
 Wellingtons Cafe,DN11 9EX,53.4321,-1.0909
@@ -35,6 +37,7 @@ Robbo's Diner,DN12 1NP,53.4767,-1.1884
 The Topiary Coffee Shop,DN12 2AE,53.4811,-1.2151
 The Indus Restaurant & Bar ,DN12 2BT,53.4787,-1.2298
 Seafish Restaurant,DN12 3AG,53.4820,-1.2248
+Balti palace Conisbrough limited ,DN12 4DG,53.4910,-1.2417
 MADAM YAKS LTD T/A DANTES ITALIAN,DN22 6AE,53.3235,-0.9437
 MADAM YAKS LTD T/A THE HERBALIST,DN22 6AE,53.3235,-0.9437
 The Hideaway,DN22 6AJ,53.3235,-0.9441
@@ -73,9 +76,10 @@ White Horse Inn,DN22 8QS,53.3526,-1.0047
 Idle Valley Rural Learning Centre,DN22 8SG,53.3520,-0.9680
 Brewers Arms,DN22 9AD,53.3853,-0.9056
 Clam & Cork,DN4 6ST,53.4947,-1.0582
-Subway,DN4 8SN,53.4915,-1.1379
+SUBWAY,DN4 8SN,53.4915,-1.1379
 Lotus Indian restaurant ,DN4 9LU,53.4980,-1.1817
 The station restaurant and bar ,DN9 3AA,53.4892,-0.9901
+the station restaurant and bar,DN9 3AA,53.4892,-0.9901
 Walkers Nurseries Ltd,DN9 3BA,53.4957,-0.9923
 THE HARVEY ARMS,DN9 3BY,53.4834,-0.9922
 Costa Coffee,DN9 3RH,53.4830,-1.0104
@@ -96,6 +100,7 @@ Rother Valley Golf Centre Ltd,S26 5PQ,53.3498,-1.3000
 The Vintage Tack Room and Playbarn,S26 5PQ,53.3498,-1.3000
 ASIA PALACE,S26 5QJ,53.3413,-1.2920
 The station pub,S26 6NP,53.3370,-1.2388
+Traditionals of Kiveton Park,S26 6RD,53.3409,-1.2708
 The Beehive,S26 7YH,53.3222,-1.2607
 The Royal Oak,S43 4EU,53.2901,-1.2901
 Van Dyk By Wildes ,S43 4TD,53.2878,-1.2549
@@ -117,6 +122,7 @@ The Old College Coffee Shop and dining room,S64 9JP,53.4954,-1.2848
 Casper’s Coffee House ,S64 9LL,53.4928,-1.2841
 earl of strafford,S65 4PF,53.4675,-1.2731
 Seven Seas Limited,S66 1AG,53.4199,-1.2874
+Ewans,S66 1DY,53.4105,-1.2746
 McDonald's Bramley - Bawtry Rd,S66 1YY,53.4220,-1.2542
 Chaudrys Restaurant Ltd,S66 2BW,53.4218,-1.2844
 Gas Lamp Wickersley Limited,S66 2BW,53.4218,-1.2844

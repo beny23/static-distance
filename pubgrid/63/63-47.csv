@@ -1,12 +1,14 @@
 name,postcode,lat,lon
 6 Burgerz,BB1 1BB,53.7429,-2.4793
 STEAKOUT,BB1 1BB,53.7429,-2.4793
+Steak out,BB1 1BB,53.7429,-2.4793
 subway,BB1 1EY,53.7464,-2.4795
 Chai Station,BB1 1NR,53.7478,-2.4587
 DD DINER,BB1 1RN,53.7430,-2.4702
 sahad blackburn ,BB1 1TD,53.7435,-2.4713
 Wright's Bites,BB1 2AL,53.7477,-2.4461
 FLIP OUT BLACKBURN,BB1 2EE,53.7307,-2.4526
+Zeddy's chicken  and pizza,BB1 2HR,53.7392,-2.4525
 The Dog Inn,BB1 2NN,53.7188,-2.4321
 The grey mare,BB1 2PG,53.7118,-2.4080
 The Pack,BB1 2PL,53.7186,-2.4253
@@ -22,6 +24,7 @@ Exchange Coffee Company Blackburn Market,BB1 5AF,53.7483,-2.4832
 JW Chilli & Salt Blackburn ,BB1 5AF,53.7483,-2.4832
 KFC,BB1 5AF,53.7483,-2.4832
 Spindles Diner ltd,BB1 5AF,53.7483,-2.4832
+Thai noodle bar ,BB1 5AF,53.7483,-2.4832
 The Pepper Pot ,BB1 5AF,53.7483,-2.4832
 Wellbread,BB1 5AF,53.7483,-2.4832
 Zakros Greek Cuisine & Thai noodle bar,BB1 5AF,53.7483,-2.4832
@@ -30,9 +33,11 @@ Calypso Restaurant,BB1 5BY,53.7492,-2.4742
 TCK DELI MARKET LTD,BB1 5DP,53.7522,-2.4699
 Marhaba sweets,BB1 6DS,53.7526,-2.4813
 Naafiah GrillHouse ,BB1 6DS,53.7526,-2.4813
+Pepe's Piri Piri,BB1 6DS,53.7526,-2.4813
 Chaiiwala,BB1 6EE,53.7559,-2.4773
 Kebabish Original,BB1 6JZ,53.7589,-2.4711
 Dipz Donut & Gelato,BB1 6LB,53.7591,-2.4704
+Sliders ,BB1 6LR,53.7579,-2.4699
 Roberto's Bar & Bistro,BB1 7AR,53.7505,-2.4857
  McDonald's,BB1 7DJ,53.7491,-2.4843
 WAHEED'S BUFFET,BB1 7EG,53.7518,-2.4849
@@ -50,9 +55,11 @@ Tiggis,BB1 9EX,53.7951,-2.5071
 The Bonny Inn Limited,BB1 9HQ,53.7912,-2.4891
 Wilpshire Golf Club,BB1 9LF,53.7885,-2.4740
 LAHORE QILA LTD,BB1 9TL,53.7609,-2.4718
+Lahore qila ltd,BB1 9TL,53.7609,-2.4718
 Usha Limited,BB11 5BZ,53.7779,-2.2686
 Subway,BB11 5DB,53.7810,-2.2774
 Beijing cantonese restaurant ,BB11 5PB,53.7494,-2.2691
+Birchall Foodservice TED,BB12 7BF,53.7891,-2.3037
 Simply Classic Exertis,BB12 7BF,53.7891,-2.3037
 Simply classic,BB12 7NG,53.7953,-2.3290
 The Stork Hotel,BB12 7NZ,53.8068,-2.3504
@@ -73,6 +80,7 @@ Heavenly Desserts Blackburn Ltd,BB2 1AN,53.7504,-2.4864
 The Tawa & Grill Hut,BB2 1EH,53.7498,-2.4927
 Roomali,BB2 1JD,53.7482,-2.4857
 The Refreshment Bar,BB2 1JU,53.7484,-2.4851
+Achari ,BB2 1XB,53.7414,-2.5063
 Witton Inn,BB2 1XQ,53.7416,-2.5068
 Taste Of India ,BB2 2AD,53.7459,-2.4829
 Crust,BB2 2BH,53.7463,-2.4827
@@ -100,6 +108,7 @@ Traders Arms,BB2 7EW,53.7739,-2.5255
 The Bay Horse Inn,BB2 7HX,53.7805,-2.5368
 Hawkshaw Farm Visitor Centre,BB2 7JA,53.7872,-2.5245
 The Millstone,BB2 7JR,53.7736,-2.5291
+Stanley House Hotel & Spa,BB2 7NP,53.7629,-2.5300
 feildens arms,BB2 7PR,53.7759,-2.5467
 The golden cup,BB3 0AJ,53.7140,-2.4827
 Chopstix Blackburn,BB3 0AT,53.7136,-2.4815
@@ -113,6 +122,7 @@ Sweet Vintage Darwen,BB3 1BG,53.6954,-2.4672
 FLAMES GRILL AND BAR ,BB3 1BZ,53.6911,-2.4666
 The Alexandra hotel ,BB3 1NL,53.7007,-2.4765
 Eddie's Wood fired pizza,BB3 1PL,53.6952,-2.4688
+Cjs cafe,BB3 1PS,53.6958,-2.4684
 Akash Indian Brasserie,BB3 1PX,53.6979,-2.4705
 anaz restaurant,BB3 1QA,53.6987,-2.4714
 Artisan Cafe and Wine Bar ,BB3 2AA,53.6946,-2.4662
@@ -120,11 +130,13 @@ The Bridge cafe,BB3 2AA,53.6946,-2.4662
 The Whitehall Hotel,BB3 2JU,53.6813,-2.4654
 Zest cafe lounge,BB3 2PR,53.6860,-2.4619
 DOLLYS TEAROOM AND RESTAURANT,BB3 2PS,53.6857,-2.4626
+Astley Bank Hotel Ltd,BB3 2QB,53.6861,-2.4670
 Craven Heifer Inn,BB3 3LD,53.6908,-2.4483
 The Ranken Arms ,BB3 3LY,53.6959,-2.4307
 The Crown & Thistle,BB3 3PP,53.6792,-2.4271
 Holden Wood Tea Rooms,BB4 4AT,53.7029,-2.3575
 Pearsons,BB4 4HD,53.6900,-2.3282
+THE VILLAGE STORES,BB4 4LX,53.6836,-2.3335
 The Robin Hood Inn,BB4 4NP,53.6894,-2.3382
 The mill cafe,BB4 4NP,53.6894,-2.3382
 Holden Arms,BB4 4PD,53.6994,-2.3400
@@ -144,6 +156,7 @@ MR FITZPATRICK'S TEMPERANCE BAR LIMITED,BB4 6QS,53.7014,-2.2867
 McDonald's,BB4 6QX,53.6995,-2.2924
 North Street Restaurant Limited,BB4 7LX,53.7021,-2.2841
 BLOSSOM RESTAURANT,BB4 7NG,53.7005,-2.2872
+Nila Fine Indian Dining,BB4 7NG,53.7005,-2.2872
 Ashoka Restaurant,BB4 7PA,53.7001,-2.2754
 Nino's Restaurant,BB4 7PA,53.7001,-2.2754
 A Vucciria,BB4 7QN,53.7033,-2.2845
@@ -159,8 +172,8 @@ MONDELLOS,BB4 8NE,53.7233,-2.2876
 Los Pollos Hermanos,BB5 1AS,53.7559,-2.3653
 Coffee beanz,BB5 1DZ,53.7535,-2.3630
 Infant St Chip Shop,BB5 1DZ,53.7535,-2.3630
+Black Horse Food Emporium,BB5 1EE,53.7518,-2.3618
 Boardwalk ,BB5 1EE,53.7518,-2.3618
-Rileys ,BB5 1EH,53.7520,-2.3611
 Tiger Lounge Accrington,BB5 1EH,53.7520,-2.3611
 Yankeez ,BB5 1EH,53.7520,-2.3611
 Frankies Cafe,BB5 1ER,53.7534,-2.3644
@@ -207,6 +220,7 @@ Pendle catering ltd,BB6 8AF,53.8025,-2.4731
 Black Bull Inn,BB6 8AW,53.8175,-2.4553
 The Avenue Hotel Ltd,BB6 8AY,53.8241,-2.4526
 Northcote Hotel,BB6 8BE,53.8093,-2.4476
+Royal Taj,BB6 8DD,53.8045,-2.4475
 Café Emporia Ltd,BB7 1BE,53.8704,-2.3918
 1823 Spinning Block Bistro,BB7 1EB,53.8678,-2.3949
 Boilerhouse Cafe,BB7 1EB,53.8678,-2.3949
@@ -263,6 +277,7 @@ CROMWELLS,PR3 3JA,53.8306,-2.6014
 Tayah’s Cafe,PR3 3JJ,53.8314,-2.6025
 Old Station cafe,PR3 3JP,53.8322,-2.6042
 the towneley arms,PR3 3JP,53.8322,-2.6042
+65s Cafe,PR3 3NH,53.8324,-2.6055
 Fullaloves Wines,PR3 3NJ,53.8324,-2.6058
 The Forrest Arms,PR3 3NP,53.8328,-2.6071
 The Dog Inn,PR3 3RR,53.8294,-2.5999

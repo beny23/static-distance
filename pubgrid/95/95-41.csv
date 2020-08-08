@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 CAFE CONTINENTAL,KY1 1BB,56.1127,-3.1563
+Styx kirkcaldy,KY1 1DS,56.1169,-3.1594
 VICTORIA HOTEL,KY1 1DS,56.1169,-3.1594
 Greens n Beans coffee shop and takeaway ,KY1 1ED,56.1109,-3.1607
 Pane e Vino,KY1 1ED,56.1109,-3.1607
@@ -9,6 +10,7 @@ Koku Shi Kirkcaldy,KY1 1JD,56.1115,-3.1582
 Betty Nicols Bar and Bistro,KY1 1JL,56.1133,-3.1549
 The Golden Bite,KY1 1LN,56.1087,-3.1603
 Bob & Berts Kirkcaldy   ,KY1 1LR,56.1103,-3.1592
+Oconnells,KY1 1LU,56.1075,-3.1595
 bb's coffee & muffins,KY1 1NG,56.1099,-3.1573
 Novar Bar,KY1 1NY,56.1066,-3.1644
 Society,KY1 1RN,56.1084,-3.1588
@@ -21,6 +23,7 @@ The Path Tavern ,KY1 2PE,56.1199,-3.1487
 LA GONDOLA RESTAURANT,KY1 2SG,56.1151,-3.1533
 Dysart Coffee Cabin,KY1 2UG,56.1256,-3.1215
 The Hug A Mug Coffee Shop,KY1 3AB,56.1318,-3.1335
+Caira's coffee shop,KY1 3HT,56.1340,-3.1323
 The Elbow Room,KY1 3HT,56.1340,-3.1323
 Fala Foods LTD T/A McDonalds,KY1 3NG,56.1349,-3.1445
 Club 3000 Bingo Kirkcaldy,KY1 3NQ,56.1357,-3.1454
@@ -42,6 +45,7 @@ The loch cafe,KY12 0HT,56.0866,-3.4484
 1703 Dunfermline,KY12 7AG,56.0720,-3.4638
 Incontri ,KY12 7AG,56.0720,-3.4638
 Basil Indian Restaurant,KY12 7AN,56.0729,-3.4625
+Koku Shi Dunfermline,KY12 7AN,56.0729,-3.4625
 cafe giacomo,KY12 7AP,56.0718,-3.4616
 Carlucci Restaurant,KY12 7AR,56.0714,-3.4635
 La Menta,KY12 7AT,56.0716,-3.4613
@@ -50,6 +54,7 @@ Casa Mia ,KY12 7DS,56.0667,-3.4583
 Tapas Ducal,KY12 7DS,56.0667,-3.4583
 Dhoom Streetery and Bar,KY12 7EA,56.0711,-3.4589
 Commercial Inn,KY12 7EB,56.0718,-3.4610
+Juniper Wine Cafe,KY12 7EF,56.0709,-3.4582
 THE ELIZABETHAN,KY12 7LX,56.0777,-3.4264
 The Old Inn,KY12 7NA,56.0706,-3.4642
 Fresh Coffee Shop,KY12 7NB,56.0709,-3.4635
@@ -84,6 +89,7 @@ Balgedie Toll Tavern,KY13 9HE,56.2225,-3.3467
 THE WELL COUNTRY INN,KY13 9JA,56.2005,-3.3148
 Lochend Farm Shop,KY13 9JQ,56.1917,-3.3180
 Dunmilkin Ltd,KY13 9LY,56.1767,-3.3311
+Heaven Scent Coffee Shop,KY13 9XA,56.2257,-3.4208
 Milnathort Golf Club,KY13 9XA,56.2257,-3.4208
 thistle hotel ltd,KY13 9XT,56.2270,-3.4178
 Falkland Stewardship Trust,KY15 7AF,56.2541,-3.2174
@@ -91,6 +97,7 @@ The Stag Inn,KY15 7BT,56.2532,-3.2091
 Campbell's coffee house and eatery,KY15 7BU,56.2530,-3.2077
 The Hayloft Tearoom,KY15 7BX,56.2526,-3.2068
 Lomond Hills Hotel,KY15 7EY,56.2484,-3.1590
+The Gardeners Rest,KY15 7HY,56.2523,-3.1428
 The Kettlebridge Inn Bar & Italian Restaurant Ltd ,KY15 7QD,56.2555,-3.1168
 Muddy Boots,KY15 7TJ,56.2630,-3.0998
 The Bothy at Boglily,KY2 5XY,56.1068,-3.1999
@@ -100,6 +107,7 @@ KFC,KY2 6QL,56.1354,-3.1986
 McTaggart's,KY3 0SH,56.0538,-3.3011
 Aberdour Hotel ,KY3 0SW,56.0534,-3.3031
 Oui Chef Catering Company Ltd,KY3 0TX,56.0510,-3.2991
+Topkapi,KY3 9AE,56.0595,-3.2328
 The Roasting Project,KY3 9AQ,56.0600,-3.2312
 Burntisland Sands Hotel,KY3 9JX,56.0630,-3.2214
 Kingswood Hotel,KY3 9LL,56.0652,-3.2035

@@ -24,6 +24,7 @@ the children's discovery zone ltd,L13 1EH,53.4056,-2.9270
 Jos cafe,L13 3DN,53.4159,-2.9143
 derby lane sandwich bar,L13 3DW,53.4176,-2.9149
 Murrys Diner,L13 4AH,53.4067,-2.9142
+Franky’z ,L13 5SD,53.4125,-2.9117
 Costa Coffee,L13 5XE,53.4135,-2.9110
 VANILLA,L13 5XE,53.4135,-2.9110
 KFC TUEBROOK 02026,L13 8AA,53.4243,-2.9345
@@ -34,7 +35,9 @@ Rocket Pub & Kitchen Ltd,L14 3PA,53.4062,-2.8997
 JUMBO,L14 8XG,53.4305,-2.8770
 Streats waffle bar & bistro ,L15 3JJ,53.3918,-2.9322
 Loaded Burgers,L15 3JL,53.3904,-2.9296
+REYHOON ,L15 3JL,53.3904,-2.9296
 Evil eye burrito ltd ,L15 3JT,53.3906,-2.9311
+Halabala Bistro,L15 4LF,53.4002,-2.9274
 Something else,L15 4LG,53.3996,-2.9241
 Cafe express deli,L15 4LL,53.3999,-2.9272
 TIGER ROCK LTD,L15 5AG,53.3892,-2.9165
@@ -50,17 +53,22 @@ TRIBECA BAR & PIZZERIA ,L15 5AN,53.3888,-2.9169
 Costa Coffee,L15 5AU,53.3903,-2.9263
 Canton Palace Chinese Restaurant,L15 6UY,53.3967,-2.8987
 Wavertree Town Hall,L15 8HF,53.3986,-2.9179
+spire restaurant,L15 9EA,53.3904,-2.9151
 Costa Coffee,L15 9EB,53.3901,-2.9168
 Macello meathouse ,L16 0JN,53.3943,-2.8910
+Zara’s Hub ,L16 0JN,53.3943,-2.8910
+khalisha restaurant,L16 5EU,53.4016,-2.8890
 Calisa,L16 7PF,53.3949,-2.8923
 Neighbourhood Bistro,L16 8NA,53.3910,-2.9004
 Cucina di Vincenzo,L16 8NE,53.3903,-2.9007
 EL  NIDO,L16 8NE,53.3903,-2.9007
 Eton Place,L16 8NE,53.3903,-2.9007
 Press Bros Coffee,L17 0BD,53.3728,-2.9288
+Sefton Park Palm House,L17 1AP,53.3834,-2.9392
 Otterspool Adventure Centre Ltd,L17 5AL,53.3634,-2.9331
 Coopers Coffee Shop,L17 6AE,53.3673,-2.9259
 Justino's Restaurant and Bar,L17 6AE,53.3673,-2.9259
+Justino's Ristorante and Bar,L17 6AE,53.3673,-2.9259
 Domino's Pizza - Liverpool - Aigburth Road,L17 7BR,53.3790,-2.9498
 Al Dente restaurant & bar,L17 8UN,53.3796,-2.9482
 Hexagon Events t/a Hafla Hafla,L17 8UP,53.3813,-2.9459
@@ -113,10 +121,12 @@ Funtown,L19 2PA,53.3532,-2.8951
 KFC GARSTON 02073,L19 2PA,53.3532,-2.8951
 The Climbing Hangar Matchworks,L19 2RF,53.3504,-2.8860
 Space coffee & restaurant,L19 3QD,53.3663,-2.9236
+Madhari Restaurant ltd,L19 3QG,53.3632,-2.9164
 Costa Coffee,L19 5PQ,53.3577,-2.8909
 McDonalds ,L24 8QB,53.3507,-2.8793
 McDonald's Restaurant Hunts Cross,L24 9GB,53.3580,-2.8670
 Tilly Mint Nutrition,L24 9GQ,53.3560,-2.8723
+Go Fresh Cafe ,L24 9HJ,53.3546,-2.8697
 Pepperwood Kitchen,L24 9LG,53.3545,-2.8547
 Subway,L24 9WA,53.3575,-2.8682
 Hunts cross supper bar ,L25 0NT,53.3596,-2.8531
@@ -136,6 +146,7 @@ CookHouse Pub & Carvery,L25 9NQ,53.3734,-2.8530
 Subway,L26 0AD,53.3599,-2.8300
 Yew tree coffee barn ,L26 3UA,53.3630,-2.8106
 Liverpool Golf Centre Bistro,L27 0YB,53.3930,-2.8374
+TNS Catering_Childwall Golf Club,L27 2YA,53.3976,-2.8431
 Subway,L28 1NR,53.4356,-2.8686
 Costa Coffee,L31 0DQ,53.5166,-2.9418
 MAGHULL SQUARE BAR AND GRILL,L31 0DQ,53.5166,-2.9418
@@ -149,12 +160,14 @@ Bernie's Deli Too,L31 3HF,53.5068,-2.9328
 Subway,L31 6DG,53.5158,-2.9311
 McDonald's,L32 1TS,53.4895,-2.8880
 Bernie's Sandwich & deli bar,L32 2AE,53.4875,-2.9011
+Community Cafe,L32 5TH,53.4838,-2.8921
 Fryer tucks cafe,L32 6QP,53.4745,-2.8765
 Costa Coffee,L32 8RD,53.4817,-2.8872
 The Cafe,L32 8UG,53.4822,-2.8885
 Workman FM,L33 7RX,53.4708,-2.8670
 Subway Kirkby ,L33 7SE,53.4810,-2.8631
 Kirkby Bank Butty Bar,L33 7SY,53.4804,-2.8551
+Cafe at the conservatory limited,L33 7TW,53.4855,-2.8529
 knowsley trade cafe,L33 7UY,53.4898,-2.8504
 AMC (LIVERPOOL) LTD,L34 0EZ,53.4543,-2.8512
 Lakeside Bar & Grill LTD,L34 1PJ,53.4231,-2.8262
@@ -167,16 +180,19 @@ The Oven Pizzeria & Bar,L34 5QE,53.4287,-2.8048
 CHINA CHINA TRADING LTD t/a BEIJING CHINESE RESTAURANT,L34 5QH,53.4296,-2.8027
 Poco Bar and Cafe,L34 5QJ,53.4292,-2.8034
 Ho’s restaurant ,L34 5RB,53.4300,-2.8010
+The Derby Arms,L34 9EA,53.4526,-2.8550
 Suites Hotel Knowsley ,L34 9HA,53.4640,-2.8758
 Kozi limited,L35 0LL,53.4169,-2.7667
 galleria restaurant & art gallery,L35 0LR,53.4166,-2.7662
 Subway Whiston,L35 2UF,53.4205,-2.7882
+Blue mango Indian restaurant ,L35 4LU,53.4163,-2.7667
 Caffe & Co. Ltd,L35 4LU,53.4163,-2.7667
 The Wine Club,L35 4LU,53.4163,-2.7667
 Manor Farm,L35 6NE,53.4068,-2.7594
 Harefield Coffee Barn Limited,L35 6PG,53.4017,-2.7418
 McDonald's,L36 3YB,53.4219,-2.8621
 McDonald's,L36 5RT,53.4103,-2.8389
+COFFEE WAGON ,L36 6EG,53.4148,-2.8250
 The Cafe,L36 9UG,53.4123,-2.8393
 The Coffee House Huyton,L36 9UJ,53.4118,-2.8398
 El pueblo,L36 9UL,53.4110,-2.8395
@@ -199,6 +215,7 @@ Love to Eat ,L39 2ER,53.5677,-2.8856
 Tap Cafe,L39 2ER,53.5677,-2.8856
 Becks Sandwich Bar,L39 2ES,53.5684,-2.8850
 Il Padrino,L39 2ES,53.5684,-2.8850
+Left Bank Brasserie,L39 2ES,53.5684,-2.8850
 Barnyard Churrasco and grill,L39 2XA,53.5681,-2.8853
 McDonalds,L39 3AE,53.5676,-2.8866
 Dinky Dory,L39 3AG,53.5682,-2.8872
@@ -224,10 +241,15 @@ Warbreck Garden Centre,L40 6JW,53.5555,-2.8341
 The Scanary Cafe ,L6 0AX,53.4290,-2.9480
 Townsend Kitchen,L6 0BB,53.4295,-2.9449
 Harmans On Site Services Ltd,L7 0HA,53.4096,-2.9434
+CornerCafe Prescot Road Liverpool,L7 0LB,53.4131,-2.9406
 McDonald's,L7 2RN,53.4119,-2.9465
+FAJITA’s,L7 9LQ,53.4105,-2.9294
 QVC,L70 2QA,53.4725,-2.8583
+RED SEA LIVERPOOL LTD ,L8 0QD,53.3978,-2.9495
+Broaster ,L8 0QE,53.3958,-2.9494
 GRU,L8 0QF,53.3941,-2.9491
 Kebabish Original,L8 0QL,53.3954,-2.9498
+Sakoon cafe,L8 0QL,53.3954,-2.9498
 McDonald's,L9 5AN,53.4812,-2.9497
 AED coffee shop,L9 7AL,53.4663,-2.9311
 ECC coffee shop,L9 7AL,53.4663,-2.9311
@@ -282,7 +304,6 @@ The Chinese Buffet,WA10 1NU,53.4515,-2.7386
 The Nelson ,WA10 1NU,53.4515,-2.7386
 Kaspa's,WA10 1NW,53.4520,-2.7388
 Subway,WA10 1NW,53.4520,-2.7388
-Cafe Laziz,WA10 1QF,53.4536,-2.7402
 Superbowl UK St Helens Ltd ,WA10 1QT,53.4519,-2.7437
 MILLON RESTAURANT (SH) LTD,WA10 2JE,53.4555,-2.7406
 AKESG,WA10 2JF,53.4556,-2.7419
@@ -291,8 +312,10 @@ C&L (NW) Limited T/A Yang Xing Restaurant ,WA10 2JG,53.4563,-2.7435
 The sheesh restaurant,WA10 2JG,53.4563,-2.7435
 Brunos Steak House,WA10 2JX,53.4553,-2.7410
 Miami Fast Food (Air Nation),WA10 2QS,53.4553,-2.7430
+Halabala2,WA10 2RS,53.4544,-2.7389
 Limassol Restaurant,WA10 2RS,53.4544,-2.7389
 Cake bake,WA10 2SY,53.4543,-2.7395
+THE NEW ERA GREEKS,WA10 2TW,53.4564,-2.7395
 Subway,WA10 3BD,53.4396,-2.7724
 The Bird I'Th Hand,WA10 3HE,53.4470,-2.7583
 Sunflower cafe,WA10 3RN,53.4477,-2.7512
@@ -385,6 +408,7 @@ THE ANMOL,WA5 2JP,53.3845,-2.6469
 Spice of India ,WA5 2XD,53.3773,-2.6924
 Subway Sankey,WA5 3LX,53.3930,-2.6645
 McDonald's Gemini,WA5 7TY,53.4155,-2.6284
+ATHELIS,WA5 7YA,53.4159,-2.6396
 Starbucks Warrington Gemini (Apollo Park),WA5 7YA,53.4159,-2.6396
 Subway Gemini,WA5 7YA,53.4159,-2.6396
 Subway Westbrook,WA5 8UG,53.4080,-2.6305
@@ -426,6 +450,7 @@ Subway Ravenhead Retail Park ,WA9 1JF,53.4441,-2.7333
 Junction Inn,WA9 3JL,53.4345,-2.6996
 Cafe express,WA9 3JN,53.4352,-2.7016
 Station House Cafe,WA9 3LA,53.4339,-2.7000
+Algrante coffee shop cafe,WA9 4BZ,53.4200,-2.7242
 Bull & Dog Hotel ,WA9 4JY,53.4264,-2.7248
 Mellors Catering Services Ltd,WA9 4PR,53.4179,-2.7362
 Clock Face Hotel    ,WA9 4QS,53.4175,-2.7115
@@ -454,6 +479,7 @@ New Day Bakery,WN1 1QH,53.5480,-2.6310
 New Day Cafe,WN1 1QH,53.5480,-2.6310
 Cafe Santos Ltd,WN1 1QP,53.5486,-2.6312
 Cassinellis Cafe,WN1 1QP,53.5486,-2.6312
+The Tudor House Hotel Ltd,WN1 1SE,53.5482,-2.6344
 Bap,WN1 1UE,53.5475,-2.6310
 McDonalds ,WN1 1UP,53.5485,-2.6297
 The Chinese Buffet,WN1 1UP,53.5485,-2.6297
@@ -476,6 +502,7 @@ KFC - WIGAN,WN2 2AT,53.5433,-2.6060
 Charlie's coffee factory,WN2 3AN,53.5362,-2.5775
 Summat To Ate,WN2 3AN,53.5362,-2.5775
 Alisons restaurant ,WN2 3AS,53.5360,-2.5780
+mahabharat restaurant,WN2 3AY,53.5345,-2.5802
 Gore's Sweet Shop Cafe,WN2 3EE,53.5319,-2.5761
 PNBD RESTAURANT LTD,WN2 3PR,53.5307,-2.5710
 McDonalds,WN2 5BD,53.5218,-2.5962
@@ -488,6 +515,7 @@ Postcode Coffee House,WN3 5AB,53.5411,-2.6417
 Foodie Cafe & Resto,WN3 5BD,53.5396,-2.6403
 McDonalds ,WN3 6XA,53.5202,-2.6529
 Velocity Leisure Ltd Wigan,WN3 6XU,53.5176,-2.6545
+Workin Lunch Ltd (Rustic Kitchen),WN4 0AR,53.5009,-2.6474
 Park Hotel,WN4 0BY,53.5094,-2.6506
 Blend n shake,WN4 9AE,53.4867,-2.6379
 The Bistro,WN4 9AE,53.4867,-2.6379
@@ -520,6 +548,7 @@ The old bank coffee and wine bar,WN5 8TG,53.5328,-2.7113
 Gelato House,WN5 8TQ,53.5311,-2.7098
 Boars head,WN6 0AD,53.5734,-2.6446
 The Raj ,WN6 7LW,53.5511,-2.6483
+Aster,WN6 7NQ,53.5534,-2.6568
 Gathurst golf club,WN6 8EW,53.5714,-2.7012
 Crooke Hall Inn Limited,WN6 8LR,53.5608,-2.6779
 Robin Hood,WN7 3PA,53.4798,-2.5390

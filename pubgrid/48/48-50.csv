@@ -13,8 +13,10 @@ Pigeons Parlour,B43 7QP,52.5533,-1.9104
 McDonald's,B44 0AA,52.5417,-1.8693
 DIXY KINGSTANDING LTD,B44 0HU,52.5400,-1.8707
 The Mount Tavern ,B44 0SH,52.5501,-1.8672
+Marlboro Cafe,B44 8HL,52.5355,-1.8936
 CAFE HOUSE,B44 8QT,52.5379,-1.8791
 Moonlight Cuisine,B44 9RH,52.5546,-1.8834
+Boulder Central,B70 0DG,52.5301,-2.0254
 midland leisure ltd trading as the new hen and chickens,B70 0RT,52.5378,-2.0118
 the Dovecote pub & carvery,B70 0SD,52.5406,-2.0131
 Big Johns West Brom,B70 9RL,52.5254,-2.0071
@@ -28,6 +30,7 @@ Subway,B71 4DL,52.5309,-1.9875
 The Lewisham at Dartmouth Golf Course,B71 4DW,52.5305,-1.9829
 Hallam Restaurant Sandwell Hospital,B71 4HJ,52.5274,-1.9879
 De Everest Dine,B73 5AB,52.5483,-1.8610
+IMANI'S RESTAURANT LIMITED,B73 5AB,52.5483,-1.8610
 THE GARDEN ROOM,B73 5BD,52.5444,-1.8512
 Chutney ,B73 6RG,52.5489,-1.8605
 Indian Nights,B74 2JR,52.5720,-1.8855
@@ -68,6 +71,7 @@ Halfpenny Green Wine Estate,DY7 5EP,52.5311,-2.2514
 Littleton Arms,ST19 5AL,52.7248,-2.1168
 Bridgehouse restaurant,ST19 5AS,52.7263,-2.1162
 Corner spice limited ,ST19 5AY,52.7261,-2.1143
+Edgars Restaurant,ST19 5LH,52.7219,-2.1154
 Honeypots Cafe,ST19 5RE,52.7395,-2.1016
 Cabin cafe,ST19 5RP,52.7363,-2.0505
 THE BOAT INN,ST19 5RP,52.7363,-2.0505
@@ -97,10 +101,12 @@ Shimla Peppers at Balloons,WS1 2EU,52.5834,-1.9758
 oliver leisure ltd trading as lyndon house ,WS1 2HA,52.5833,-1.9777
 Walsall Golf Club Limited,WS1 3EY,52.5699,-1.9646
 Five Rivers A la Carte,WS1 3NA,52.5809,-1.9831
+Lal Haveli Restaurant ,WS1 3QD,52.5813,-1.9849
 Rendezvous Walsall ltd,WS1 3QQ,52.5817,-1.9854
 Sultan’s restaurant and takeaway limited,WS1 3RB,52.5782,-1.9818
 Caldmore Restaurant,WS1 3RF,52.5775,-1.9821
 Dera Walsall Ltd,WS1 3RF,52.5775,-1.9821
+CHICKEN BITES,WS1 4BP,52.5755,-1.9812
 Sweet treat ,WS1 4LN,52.5730,-1.9889
 Walsall FC Ltd,WS1 4SA,52.5655,-1.9912
 McDonald's,WS1 4SB,52.5664,-1.9923
@@ -111,6 +117,7 @@ D's Soulfood Kitchen,WS10 0ED,52.5510,-1.9953
 Le bakery ,WS10 0ED,52.5510,-1.9953
 The Village Inn,WS10 0QB,52.5541,-2.0063
 PARKHILL CAFE,WS10 0TJ,52.5578,-1.9963
+Kesar,WS10 7AL,52.5510,-2.0191
 island cafe and takeaway ltd,WS10 7AQ,52.5518,-2.0189
 seven Bar,WS10 7AQ,52.5518,-2.0189
 The Vintage Tea Room and Cafe,WS10 7HB,52.5527,-2.0214
@@ -127,6 +134,7 @@ Jamaica Blue Next (Wednesbury) ,WS10 9QY,52.5668,-2.0078
 Smashburger,WS10 9QY,52.5668,-2.0078
 Eastern Memories,WS11 0BB,52.6757,-2.0301
 OK Diner Cannock,WS11 0BN,52.6736,-2.0274
+Radhunicannock,WS11 0DL,52.6882,-2.0282
 Shabab restaurant & takeaway ltd,WS11 0DR,52.6880,-2.0254
 Aydan spice ltd,WS11 0JB,52.6805,-2.0269
 Subway Cannock,WS11 1AH,52.6876,-2.0319
@@ -145,6 +153,7 @@ Longford McDonald's Restaurant,WS11 1TD,52.6781,-2.0478
 Holy Smoke Bar & Grill Ltd,WS11 1UE,52.6904,-2.0320
 Indulge ,WS11 5DB,52.7029,-2.0147
 BakeAway ,WS11 5DD,52.7029,-2.0155
+Chadsmoor Balti limited,WS11 5DD,52.7029,-2.0155
 Dilshad Restaurant,WS11 5DZ,52.7024,-2.0155
 Garam masala ,WS11 5QJ,52.6993,-2.0221
 Snack Shack Midlands LTD ,WS11 7GA,52.6962,-2.0076
@@ -185,7 +194,7 @@ The Swan with two necks,WS15 4PN,52.7287,-1.8831
 The Park Gate,WS15 4RN,52.7094,-1.9330
 Hungry Pigs Cafe,WS2 0DU,52.5853,-2.0245
 BB's Coffee Shop c/o Boundary Mill Stores,WS2 0LE,52.5817,-2.0179
-TJX Europe,WS2 7PT,52.6003,-1.9947
+TNS Catering_TJX Europe,WS2 7PT,52.6003,-1.9947
 Subway,WS2 8DH,52.5859,-1.9896
 DODO Pizza,WS2 8EJ,52.5893,-1.9843
 Subway Restaurant,WS2 8EJ,52.5893,-1.9843
@@ -210,6 +219,7 @@ PREMIER DINER,WS2 9NT,52.5815,-1.9912
 Herolicious ,WS2 9QJ,52.5732,-1.9986
 olive Restaurant and Sweet,WS2 9QL,52.5735,-1.9964
 MAC'S DINER LTD,WS2 9QN,52.5735,-1.9972
+Yaadgaar,WS2 9QN,52.5735,-1.9972
 Full Flavourz ,WS3 1EG,52.6116,-1.9796
 Zeera Authentic Eastern cuisine ,WS3 2HR,52.6161,-2.0055
 The Gulshan balti,WS3 2JE,52.6169,-2.0051
@@ -234,6 +244,7 @@ Olde Wyrley hall,WS6 6LL,52.6650,-2.0205
 Jessicas Catering and Vending Solutions Ltd,WS6 6NQ,52.6642,-2.0121
 the star inn,WS6 6NQ,52.6642,-2.0121
 The Royal Oak,WS6 6PE,52.6664,-2.0123
+Hawa Restaurant ,WS6 7AD,52.6600,-2.0342
 colliers arms,WS6 7AE,52.6601,-2.0371
 the malt at landywood,WS6 7AR,52.6499,-2.0246
 THE MARY ROSE,WS6 7AY,52.6561,-2.0349
@@ -244,9 +255,11 @@ Costa Coffee,WS7 1JS,52.6816,-1.9348
 The Hazelwood House Club,WS7 1LY,52.6857,-1.9405
 Bradshaw Bros Ltd,WS7 1YL,52.6926,-1.9426
 The Wych Elm,WS7 2BU,52.6814,-1.9308
+Bridge Cross Ltd T/A Khan’s Kitchen ,WS7 2BX,52.6813,-1.9328
 The Bakery Chase Park,WS7 3JQ,52.6807,-1.9432
 McDonald's,WS7 3XA,52.6789,-1.9385
 The Bakery Chasetown,WS7 3XE,52.6715,-1.9343
+The Miners Rest,WS7 4QS,52.6685,-1.9287
 THE DRILL INN,WS7 9HD,52.6891,-1.9110
 The Little Burntwood Pub Company Ltd T.A The Nelson Inn,WS7 9HL,52.6913,-1.8934
 Silver Court Cafe,WS8 6HA,52.6444,-1.9298
@@ -270,7 +283,11 @@ Sweet. Aldridge,WS9 8LX,52.6050,-1.9170
 Simply Delicious ,WS9 8LZ,52.6051,-1.9156
 khimuk,WS9 8NL,52.6048,-1.9149
 AURA,WS9 8PT,52.6040,-1.9193
+Aura ,WS9 8PT,52.6040,-1.9193
 Faz Spice LTD,WS9 8PT,52.6040,-1.9193
+Oriental Leisure Ltd,WS9 8PT,52.6040,-1.9193
+ Jabin - Laboni Restaurants Ltd,WS9 8QP,52.6043,-1.9177
+Cafe in the Square,WS9 8QP,52.6043,-1.9177
 Costa Coffee,WS9 8QP,52.6043,-1.9177
 Davinci Restaurant Limited,WS9 8QP,52.6043,-1.9177
 HORSE & JOCKEY,WS9 9AJ,52.6228,-1.9386
@@ -307,6 +324,7 @@ Little Dessert Shop Ltd,WV1 3JW,52.5858,-2.1245
 The Queens,WV1 3JW,52.5858,-2.1245
 Central Cafe,WV1 3NN,52.5845,-2.1281
 Lindy Lou's coffee shop ltd,WV1 3NP,52.5847,-2.1292
+The Subcontinent,WV1 3NP,52.5847,-2.1292
 Nutmeg,WV1 3NU,52.5845,-2.1289
 Delhi 2 Bombay,WV1 4EP,52.5858,-2.1398
 Rosso E Nero Restaurant,WV1 4HW,52.5854,-2.1311
@@ -331,6 +349,7 @@ Three Hammers Bar & Bistro,WV10 7PP,52.6507,-2.1268
 K-Tea's Tearoom & Cakes,WV10 8EB,52.6224,-2.1151
 McDonald’s Fallings Park,WV10 8PN,52.6117,-2.1006
 SUBWAY,WV10 8PN,52.6117,-2.1006
+Our Rasoi,WV10 9DX,52.5986,-2.1139
 Mcbellas,WV10 9EZ,52.6190,-2.1239
 THE DINER LTD,WV10 9QY,52.6049,-2.1060
 Hungry hemmings cafe ,WV10 9UL,52.6167,-2.1174
@@ -428,6 +447,7 @@ The Red Lion Wombourne Limited,WV5 0JJ,52.5353,-2.1784
 The Bell Inn ,WV5 7JB,52.5460,-2.2173
 ROUND OAK INN,WV5 8BU,52.5358,-2.2010
 Wombourne Tandoori Restaurant,WV5 9DN,52.5346,-2.1839
+Courtyard Wombourne,WV5 9DP,52.5350,-2.1833
 Fresh Coffee Shop,WV5 9EJ,52.5372,-2.1858
 The new inn,WV5 9EY,52.5375,-2.1879
 Farmer & Friends,WV5 9JB,52.5353,-2.1856
@@ -437,6 +457,7 @@ Pegasus ,WV6 0QQ,52.5966,-2.1404
 Kebab House,WV6 0QW,52.5941,-2.1428
 Farmer & Friends,WV6 7EZ,52.5666,-2.2447
 Perton Golf Club,WV6 7HL,52.5900,-2.2172
+Flamingo Pink,WV6 7QH,52.5948,-2.2030
 Fiume Restaurant LTD,WV6 8AB,52.5867,-2.1741
 Fieldhouse Inn,WV6 8DP,52.5879,-2.1916
 vanilla,WV6 8EJ,52.5906,-2.1820
@@ -451,6 +472,7 @@ The South Staffordshire Golf Club Ltd,WV6 9BQ,52.6039,-2.1711
 THE SUMMER HOUSE,WV7 3AT,52.6204,-2.2605
 Medicine Bakery & Kitchen,WV8 1BX,52.6299,-2.2016
 Codsall Crown,WV8 1DB,52.6305,-2.2015
+Codsall Legionaires Club Ltd,WV8 1DB,52.6305,-2.2015
 Jungle Boogie Ltd,WV8 1EA,52.6315,-2.1999
 The Codsall Hive,WV8 1EA,52.6315,-2.1999
 Snakabyte,WV8 1EU,52.6286,-2.1798

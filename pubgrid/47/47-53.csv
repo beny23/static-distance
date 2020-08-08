@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+The Big Fish,B10 0TX,52.4660,-1.8452
 The Big Pizza,B10 0TX,52.4660,-1.8452
 This is bedders,B10 0UA,52.4647,-1.8396
 BLU'S KEBAB HOUSE ,B10 9HH,52.4715,-1.8305
@@ -21,12 +22,14 @@ FBS Business Ltd T/a Raj Mahal,B24 0LL,52.5251,-1.8102
 McDonald's,B24 0QY,52.5203,-1.8032
 Brittons at GKN Driveline,B24 0RB,52.5196,-1.8073
 subway,B24 0TJ,52.5176,-1.8169
+India Garden,B24 0TL,52.5180,-1.8175
 Kingsbury cafe,B24 0TL,52.5180,-1.8175
 McDonald's,B24 9FP,52.5087,-1.8237
 Scallywags soft play,B24 9FP,52.5087,-1.8237
 Cafe’ 600,B24 9PJ,52.5173,-1.8213
 Holiday Inn Express Birmingham South,B25 8BS,52.4630,-1.8256
 KFC,B25 8DL,52.4630,-1.8395
+Ten 60 Cafe,B25 8DP,52.4639,-1.8364
 Stockfield chippy ,B25 8JP,52.4581,-1.8220
 Marshall's Mobile Catering,B25 8LS,52.4592,-1.8149
 Yew Tree Cottage Restaurant and Takeaway,B25 8RE,52.4687,-1.8104
@@ -37,6 +40,7 @@ Little Bengal Indian & Bangladeshi restaurant ,B26 1AY,52.4664,-1.8091
 McDonald's Yardley,B26 1DS,52.4596,-1.8023
 Peachy Keens Buffet Ltd,B26 1DS,52.4596,-1.8023
 Subway ,B26 1PB,52.4604,-1.8022
+Roar Peri Peri And Grill,B26 2RR,52.4635,-1.7781
 Jilabi Birmingham Casual Dining Ltd,B26 3DY,52.4538,-1.7913
 Gorkha Lounge,B26 3EJ,52.4525,-1.7814
 B26 food of India,B26 3JH,52.4519,-1.7805
@@ -53,6 +57,7 @@ slice of new york ,B27 6LR,52.4547,-1.8177
 McDonald's,B33 0HX,52.4725,-1.7584
 BJs Bingo,B33 0LE,52.4783,-1.7727
 Jolpai limited,B33 8BA,52.4842,-1.8104
+Fast track pizza limited,B33 8QB,52.4778,-1.8132
 McDonald's,B33 9AN,52.4867,-1.8078
 Need For Feed Cafe,B33 9NY,52.4870,-1.7922
 TIKKA TOWN LIMITED,B36 0DG,52.5031,-1.7711
@@ -64,6 +69,7 @@ Clock Subway,B36 8BQ,52.5008,-1.8002
 Rio’s Piri Piri,B36 8DT,52.4942,-1.8174
 Hickory's Smokehouse,B36 9AR,52.5025,-1.7826
 Castle Bromwich Hall Hotel,B36 9DE,52.5059,-1.7910
+Saffron Restaurant,B36 9EJ,52.5093,-1.7758
 rumours bar and grill,B37 5AY,52.4833,-1.7550
 McDonald's,B37 5EX,52.4791,-1.7410
 KFC CHEMSLEY WOOD,B37 5TD,52.4794,-1.7381
@@ -113,12 +119,14 @@ Halloumi Express,B72 1XX,52.5627,-1.8232
 McDonald's,B72 1XX,52.5627,-1.8232
 Costa Coffee,B72 1YG,52.5373,-1.8276
 Dolce Desserts LTD,B72 1YG,52.5373,-1.8276
+zengh fine indian dining,B72 1YH,52.5363,-1.8273
 Atlantis Fish Bar,B72 1YJ,52.5351,-1.8279
 Piri Fino,B72 1YJ,52.5351,-1.8279
 Sweet The Dessert Shop Limited,B72 1YJ,52.5351,-1.8279
 Windowbox Cafe,B72 1YJ,52.5351,-1.8279
 The Boldmere Tap,B73 5HE,52.5384,-1.8362
 Boldmere Restaurant Limited,B73 5TD,52.5499,-1.8419
+KRM Sutton Ltd  T/A Karma Lounge,B73 5TD,52.5499,-1.8419
 Shaban Ltd,B73 5TD,52.5499,-1.8419
 AURA,B73 5TJ,52.5488,-1.8416
 Communitea Cafe,B73 5TJ,52.5488,-1.8416
@@ -134,6 +142,7 @@ Costa Coffee,B73 6EB,52.5628,-1.8300
 Polar bear Media,B73 6EJ,52.5606,-1.8258
 FARIAN ,B73 6HN,52.5546,-1.8283
 Sushido,B73 6HN,52.5546,-1.8283
+turk nazz sutton coldfioeld,B73 6HN,52.5546,-1.8283
 Bashundora Restaurant,B74 2NJ,52.5684,-1.8222
 Bhujon Dining,B74 2UG,52.5858,-1.8292
 Cock N Bull,B74 2UG,52.5858,-1.8292
@@ -147,6 +156,7 @@ chennai Indian restaurant,B74 4LT,52.5989,-1.8475
 OLDP CIO,B74 4YF,52.6053,-1.8430
 OLIVE GARDEN-TURKISH MEDITERRANEAN CUISINE,B75 5BA,52.5885,-1.8293
 BISTROT PIERRE - MERE GREEN,B75 5BP,52.5870,-1.8292
+Bistrot Pierre - Mere Green,B75 5BP,52.5870,-1.8292
 Gusto Italian,B75 5BS,52.5873,-1.8279
 Little Dessert Shop Ltd,B75 5BS,52.5873,-1.8279
 The Funky Bear,B75 5HL,52.5926,-1.8326
@@ -220,6 +230,8 @@ Little Dessert Shop,B8 2EP,52.4937,-1.8198
 The Cheesecake Shop Birmingham ,B8 2EP,52.4937,-1.8198
 Da Fabiano ,B8 2HB,52.4938,-1.8346
 Daanyaal Kebab House ,B8 2HJ,52.4931,-1.8326
+Kashmiri King Karahi ,B8 2HJ,52.4931,-1.8326
+AL-OMDA LTD,B8 2NA,52.4930,-1.8187
 dough and bun ,B8 2SD,52.5022,-1.8289
 Desi Dera ,B8 2TX,52.4901,-1.8282
 AR BIRMINGHAM LTD,B8 3BJ,52.4882,-1.8471
@@ -228,6 +240,7 @@ Platters Est. 2017 Ltd,B8 3EA,52.4870,-1.8382
 Meshwiat ,B8 3PP,52.4884,-1.8314
 Shamas Restaurant Ltd,B8 3PP,52.4884,-1.8314
 GINOS SQUARE PIZZA LTD,B8 3PX,52.4886,-1.8305
+Roqitoz Urban Diner,B8 3PX,52.4886,-1.8305
 Albela ,B9 5NB,52.4781,-1.8478
 Al-Assala Moroccan Restaurant,B9 5PT,52.4754,-1.8430
 Avenue Kebab House,B9 5PT,52.4754,-1.8430
@@ -265,6 +278,7 @@ Ivys cafe,CV11 4PR,52.5136,-1.4539
 Desserts.Nuneaton Ltd,CV11 5BP,52.5231,-1.4688
 Hannah's cafe,CV11 5BS,52.5230,-1.4691
 Toppers,CV11 5BS,52.5230,-1.4691
+Amrita Limited T/A Crossed Khukris Gurkha Restaurant ,CV11 5BX,52.5240,-1.4704
 Cream on the Green Ltd,CV11 5DN,52.5268,-1.4746
 Agra Palace ,CV11 5DR,52.5272,-1.4751
 FrannieAnnies,CV11 5HY,52.5272,-1.4758
@@ -291,6 +305,7 @@ Bedworth Civic Hall High Street Coffee Bar,CV12 8NF,52.4789,-1.4718
 COSTA COFFEE,CV12 8SX,52.4815,-1.4736
 The Old Crown,CV2 1NP,52.4532,-1.4637
 SFC ,CV6 4HH,52.4503,-1.5111
+SIZZLORD LTD T/A Khusi Grill ,CV6 4HH,52.4503,-1.5111
 the longford engine,CV6 6BP,52.4544,-1.4848
 the greyhound inn,CV6 6DF,52.4573,-1.4695
 Spice Sensation ,CV6 6EE,52.4500,-1.4861
@@ -316,6 +331,7 @@ Horse & Jockey,CV9 2HL,52.5570,-1.5861
 Rose Inn,CV9 2LE,52.5692,-1.5899
 The Anchor Inn,CV9 2LR,52.5707,-1.6447
 The Kings Head,CV9 2PA,52.5798,-1.5541
+Holly lane Café ,CV9 2QZ,52.5833,-1.5530
 UK MASSALA MIX LTD T/A MAYA BAR & RESTAURANT,CV9 3AD,52.5837,-1.5472
 Cobwebs (Austrey) Ltd t/a Bird in Hand Inn,CV9 3EB,52.6522,-1.5624
 Blue Lion,CV9 3NA,52.5735,-1.5210
@@ -332,6 +348,7 @@ The Old School House Restaurant Ltd,WS14 0PW,52.6326,-1.7934
 McDonald's,WS14 0QP,52.6526,-1.8348
 The Bell Inn Public House (Whittington) Ltd,WS14 9JR,52.6739,-1.7615
 Thedoginn,WS14 9JU,52.6727,-1.7632
+Whittington Heath Golf Club,WS14 9PW,52.6621,-1.7827
 The Owl at Lichfield,WS14 9QH,52.6683,-1.8196
 PEAR TREE CREPERIE LTD,WS14 9QR,52.6498,-1.8083
 THE BARN AT SWINFEN,WS14 9QR,52.6498,-1.8083

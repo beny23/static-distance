@@ -9,6 +9,7 @@ MUMBAI CENTRAL,BR2 7EH,51.3772,0.0104
 ELACHI (HAYES) LIMITED,BR2 7EJ,51.3766,0.0109
 Elachi (Hayes) ltd t/a Ginger,BR2 7EJ,51.3766,0.0109
 tugra restaurant ltd,BR2 7EJ,51.3766,0.0109
+Hayes Street Kitchen ,BR2 7LD,51.3790,0.0176
 Hello Burger Hayes,BR2 7LD,51.3790,0.0176
 McDonalds,BR2 8NH,51.3751,0.0450
 The darjeeling,BR2 9HT,51.3971,0.0233
@@ -22,10 +23,12 @@ The Langley Quarter ,BR3 3DE,51.3907,-0.0277
 The Amber Fort,BR3 3DY,51.3915,-0.0389
 Baturello Cafe Pizzeria,BR3 3HG,51.3908,-0.0289
 Lugana ,BR3 3HN,51.3987,-0.0404
+Beckenham Curry Club,BR3 3QZ,51.3985,-0.0430
 Goodfella Vapes Limited,BR3 3RA,51.3988,-0.0423
 Kemer Ltd,BR3 3RB,51.3988,-0.0416
 Our Kitchen,BR3 3RB,51.3988,-0.0416
 Spice Society,BR3 3RB,51.3988,-0.0416
+Zi Teresa Ristorante Italiano Ltd,BR3 3RB,51.3988,-0.0416
 Langley Park Golf Club Limited,BR3 6SZ,51.3876,-0.0085
 PRIMA DONNAS,BR4 0EL,51.3805,-0.0139
 RAIFE'S LTD,BR4 0EL,51.3805,-0.0139
@@ -59,6 +62,7 @@ Atlas Restaurant,BR5 1LA,51.3901,0.0739
 saigon bar and grill,BR5 1LA,51.3901,0.0739
 INDIAN ESSENCE,BR5 1LG,51.3905,0.0753
 The Village Fish & Chips,BR5 1LG,51.3905,0.0753
+CYPRIANIS PETTSWOOD,BR5 1LY,51.3897,0.0756
 SMT FOOD LIMITED,BR5 1LY,51.3897,0.0756
 The Brasserie Petts Wood Ltd,BR5 1LZ,51.3890,0.0752
 Cafe Maz,BR5 1NA,51.3898,0.0741
@@ -79,6 +83,7 @@ Artisan Coffee Bar & Restaurant Ltd t/a A Mano Coffee Bar & Kitchen,BR6 0ND,51.3
 Star Cafe,BR6 0ND,51.3751,0.0986
 Masala Dabbas,BR6 0NF,51.3746,0.0981
 JOY KITCHEN,BR6 0NG,51.3741,0.0978
+Shimla Pink Restaurant ,BR6 0NG,51.3741,0.0978
 McDonalds,BR6 0NN,51.3738,0.0983
 Cafe Medi,BR6 0NQ,51.3737,0.0975
 The Palace8 ltd  t/a  King Palace,BR6 0NQ,51.3737,0.0975
@@ -103,8 +108,12 @@ The Five Bells,BR6 7RE,51.3571,0.1276
 Dakshin Indian Cuisine,BR6 7US,51.3367,0.0538
 The Queens Head,BR6 7US,51.3367,0.0538
 George and Dragon,BR6 7UT,51.3362,0.0537
+Santuary Brassiere,BR6 8ND,51.3662,0.0591
 Chapter One,BR6 8NF,51.3658,0.0530
 The British Queen,BR6 8NL,51.3668,0.0545
+CYPRIANIS LOCKBOTTOM ,BR6 8NN,51.3674,0.0548
+CYPRIANIS LOCKS BOTTOM,BR6 8NN,51.3674,0.0548
+KOYANA,BR6 8NN,51.3674,0.0548
 The Bank Restaurant,BR6 8NN,51.3674,0.0548
 Chelsfield Lakes Golf Centre,BR6 9BX,51.3617,0.1158
 Piccalilly’s cafe limited,BR8 7AE,51.3968,0.1729
@@ -125,6 +134,7 @@ Goodfella Vapes Limited,CR0 8TE,51.3747,-0.0503
 Q Kitchen,CR0 8TE,51.3747,-0.0503
 Addington Court Golf Club,CR0 9AA,51.3461,-0.0340
 Fatboyz cafe,CR2 8JJ,51.3514,-0.0397
+Planet Spice,CR2 8JT,51.3516,-0.0380
 Favorite Chicken & Ribs,CR2 8LB,51.3436,-0.0619
 KFC SELSDON,CR2 8LB,51.3436,-0.0619
 Royal Tandoori,CR2 8LD,51.3444,-0.0604
@@ -143,6 +153,7 @@ COSTA COFFEE - LONGFIELD ,DA3 7QD,51.3978,0.3003
 Hartley Country Club Ltd,DA3 8BS,51.3842,0.3035
 Lyns breakfast bar ltd ,DA3 8JB,51.3660,0.3049
 Spice Village ,DA3 8JB,51.3660,0.3049
+The Rising Sun Inn ,DA3 8NL,51.3671,0.2763
 Brandshatch Place Hotel & Spa,DA3 8NQ,51.3604,0.2709
 The Castle Hotel (Eynsford) Ltd,DA4 0AB,51.3695,0.2145
 Pied Bull,DA4 0DG,51.3811,0.2195
@@ -240,6 +251,7 @@ The Green Man,TN15 7LE,51.3427,0.3329
 The Black Horse Stansted ,TN15 7PR,51.3330,0.3044
 The Bull Hotel,TN15 7RF,51.3087,0.3125
 HOLIDAY INN MAIDSTONE SEVENOAKS,TN15 7RS,51.3005,0.3388
+ming restaurant,TN15 7RX,51.2978,0.3417
 Great Comp Garden Old Dairy tearoom,TN15 8QS,51.2871,0.3372
 Perfetto Restaurant,TN15 9AQ,51.2872,0.2817
 T N Leisure ltd,TN15 9HH,51.2868,0.2860
@@ -262,7 +274,6 @@ The Minstrel,TN8 5AR,51.1956,0.0652
 KING & QUEEN EDENBRIDGE,TN8 5AU,51.1953,0.0657
 The Old Eden,TN8 5AX,51.1938,0.0662
 FirstPort - Roman Court,TN8 5LU,51.2005,0.0623
-Pronto Bistro Limited,TN8 6ND,51.2113,0.1079
 Castle Inn,TN8 7AH,51.1859,0.1465
 The Tulip Tree,TN8 7AH,51.1859,0.1465
 The Greyhound Inn,TN8 7LJ,51.1759,0.1068

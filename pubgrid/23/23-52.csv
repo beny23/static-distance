@@ -5,6 +5,7 @@ W2 Bubble,BH1 1BA,50.7204,-1.8784
 Creams Cafe Bournemouth,BH1 1BZ,50.7211,-1.8777
 Del Marco coffee ltd,BH1 1DF,50.7214,-1.8770
 Real Eating Company Ltd,BH1 1DF,50.7214,-1.8770
+bentos,BH1 1DF,50.7214,-1.8770
 McDonald's,BH1 1DS,50.7205,-1.8776
 KOKORO,BH1 1DT,50.7210,-1.8769
 simit chai,BH1 1DT,50.7210,-1.8769
@@ -15,13 +16,17 @@ Frieda's tearoom Ltd,BH1 1JH,50.7231,-1.8689
 The Coconut Tree,BH1 1JU,50.7223,-1.8701
 Zorbas Greek Restaurant,BH1 1JU,50.7223,-1.8701
 Smokin Rooster,BH1 1JZ,50.7224,-1.8679
+churros and paella,BH1 1LL,50.7211,-1.8763
+Doner kebab uk,BH1 1NL,50.7223,-1.8734
 Taco Bell,BH1 1NL,50.7223,-1.8734
 subway,BH1 1NU,50.7220,-1.8721
 The Mandarin Fusion Restaurant,BH1 1PD,50.7220,-1.8709
 Halabway restaurant ,BH1 1PF,50.7222,-1.8686
 Little India restaurant,BH1 1PF,50.7222,-1.8686
 Roosters Piri Piri Bournemouth,BH1 1PF,50.7222,-1.8686
+Mega Kebab Bournemouth Ltd,BH1 1PH,50.7220,-1.8677
 Nativ restaurant,BH1 1PH,50.7220,-1.8677
+Pepe's Piri Piri ,BH1 1PH,50.7220,-1.8677
 Eaters Pizza,BH1 1RU,50.7223,-1.8669
 FULL PLATE RESTAURANT LIMITED,BH1 1RZ,50.7233,-1.8668
 KAZOKU NOODLE BAR ,BH1 1RZ,50.7233,-1.8668
@@ -127,7 +132,9 @@ Jenkins  & Sons Ltd,BH14 9NB,50.7232,-1.9259
 NICK THE FISH LTD,BH14 9NB,50.7232,-1.9259
 Penn Central,BH14 9NB,50.7232,-1.9259
 Subway,BH15 1AE,50.7135,-1.9870
+Hortons of Poole,BH15 1AF,50.7141,-1.9857
 Ginalis ,BH15 1AH,50.7145,-1.9852
+Aroma Poole ,BH15 1AS,50.7163,-1.9834
 Taco Bell,BH15 1AS,50.7163,-1.9834
 Quay Spice Dorset Ltd,BH15 1BT,50.7140,-1.9867
 Tandoori nights,BH15 1BT,50.7140,-1.9867
@@ -141,6 +148,7 @@ Oriel on the Quay,BH15 1HJ,50.7124,-1.9864
 Poole quay fish bar LTD ,BH15 1HJ,50.7124,-1.9864
 ROCKFISH POOLE,BH15 1HJ,50.7124,-1.9864
 The Lord Nelson,BH15 1HJ,50.7124,-1.9864
+quay grill,BH15 1HJ,50.7124,-1.9864
 quay roast,BH15 1HJ,50.7124,-1.9864
 Deli on the Quay,BH15 1HU,50.7123,-1.9842
 Rancho South American Steak House,BH15 1HU,50.7123,-1.9842
@@ -192,6 +200,7 @@ Schpoons & Forx ,BH2 5EL,50.7190,-1.8810
 1805,BH2 5ER,50.7168,-1.8824
 SURAHH LIMITED ,BH2 5ES,50.7168,-1.8837
 Indian Ocean,BH2 5EY,50.7166,-1.8831
+Miso Asian Market,BH2 5EY,50.7166,-1.8831
 Durley Dene Limited ,BH2 5HE,50.7162,-1.8879
 Bournemouth West Cliff Hotel,BH2 5JS,50.7188,-1.8905
 Brewhouse and Kitchen Bournemouth,BH2 5LU,50.7196,-1.8858
@@ -244,6 +253,7 @@ The Old Thatch,BH21 7NW,50.8053,-1.9213
 Remedy Oak ,BH21 8ND,50.8725,-1.9358
 Elephant and castle ,BH22 0JB,50.8242,-1.8881
 Ozill penn ltd,BH22 0JJ,50.8240,-1.8887
+Penn Court Cafe,BH22 0JJ,50.8240,-1.8887
 Ferndown Golf Club,BH22 8BU,50.7992,-1.8818
 Ferndown golf club,BH22 8BU,50.7992,-1.8818
 The Pear at Parley,BH22 8SS,50.7817,-1.8894
@@ -278,10 +288,12 @@ The Smugglers Run - Grass and Grill,BH23 1EH,50.7355,-1.7656
 The Rising Sun (Poole) Ltd,BH23 1EJ,50.7358,-1.7615
 Sidmouth Harbour Hotel,BH23 1ES,50.7360,-1.7638
 Captain's Club Hotel & Spa,BH23 1HU,50.7304,-1.7804
+The Spectator Cafe at Two Riversmeet Leisure Centre,BH23 1HW,50.7347,-1.7671
 Thomas Tripp,BH23 1HX,50.7325,-1.7779
 Captain Cod Christchurch Ltd,BH23 1JP,50.7336,-1.7865
 Homelands Hall Lunch Club,BH23 1NA,50.7354,-1.7905
 Costa Coffee,BH23 1QB,50.7352,-1.7769
+Christchurch Conservative Club,BH23 1QL,50.7370,-1.7807
 The Coffee Pot and Kitchen,BH23 1QL,50.7370,-1.7807
 Charcoal Chicken Company ,BH23 2AP,50.7410,-1.7947
 Water Lily Cafe ,BH23 2AW,50.7403,-1.7930
@@ -337,6 +349,7 @@ V & G (RINGWOOD) LTD,BH24 1DZ,50.8468,-1.7961
 The Inn On The Furlong,BH24 1EY,50.8468,-1.7918
 Aroma,BH24 1HB,50.8467,-1.7910
 The Crown Tap,BH24 1HY,50.8464,-1.7906
+The Railway ,BH24 1NQ,50.8424,-1.7862
 Lamb Inn ,BH24 1NW,50.8424,-1.7868
 The London Tavern,BH24 1TY,50.8546,-1.7676
 Avon Heath Cafe,BH24 2DH,50.8252,-1.8295
@@ -459,25 +472,30 @@ Pamir BBQ express Ltd,BH8 8UT,50.7358,-1.8662
 Anatolia Take Away,BH8 8UU,50.7362,-1.8654
 Wonderful Kitchen & Lounge,BH8 9QJ,50.7396,-1.8639
 Roxy’s Bistro Bar,BH8 9QP,50.7411,-1.8632
+ETNA PIZZERIA,BH8 9QQ,50.7380,-1.8646
 bates restaurant,BH8 9RX,50.7419,-1.8612
 subway,BH8 9UA,50.7509,-1.8431
 McDonald's,BH8 9UP,50.7513,-1.8443
+Chicken Cottage Charminster Ltd,BH9 1AJ,50.7373,-1.8662
 Maru Korean & Japanese Restaurant,BH9 1AJ,50.7373,-1.8662
 Winton Park Cafe,BH9 1BX,50.7389,-1.8674
 The Ice Chef,BH9 1SE,50.7488,-1.8658
 Bellaggio Pizzeria,BH9 2AA,50.7395,-1.8793
+Butlers Baguettes,BH9 2AB,50.7400,-1.8791
 Roosters Piri Piri Winton,BH9 2AJ,50.7429,-1.8785
 Binnies cafe,BH9 2AU,50.7495,-1.8771
 Riff Raff Cafe limited,BH9 2AW,50.7449,-1.8780
 Pamir BBQ express Ltd,BH9 2DT,50.7517,-1.8769
 Naan,BH9 2DX,50.7511,-1.8772
+Ali's Brasserie,BH9 2DZ,50.7505,-1.8773
+Winton tandoori,BH9 2EG,50.7486,-1.8778
 Ristorante Barolo,BH9 2ER,50.7455,-1.8784
 Leaves and Beans,BH9 2EX,50.7445,-1.8787
 Chicken & Blues Winton,BH9 2HB,50.7426,-1.8792
 Forno Pizza,BH9 2HB,50.7426,-1.8792
 Tastebuds,BH9 2HB,50.7426,-1.8792
 Wistmans cafe ltd,BH9 2HN,50.7396,-1.8799
-The Fox Café,BH9 2SW,50.7528,-1.8836
+The Fox Café Redhill Bowls club,BH9 2SW,50.7528,-1.8836
 Kingfisher Barn Visitor Centre,BH9 3NZ,50.7630,-1.8674
 Camellias Restaurant,SO41 0BF,50.7451,-1.5992
 Crown Inn,SO41 0JJ,50.7455,-1.5885
@@ -506,6 +524,7 @@ DYNASTY INDIAN CUISINE LTD,SO42 7RB,50.8191,-1.5780
 The Cloud Hotel ,SO42 7TD,50.8236,-1.5781
 Forest Park Hotel,SO42 7ZG,50.8225,-1.5858
 Enzee Lyndhurst Ltd,SO43 7AA,50.8732,-1.5764
+Passage To India ,SO43 7AA,50.8732,-1.5764
 Imperial China,SO43 7BD,50.8724,-1.5771
 Mad Hatter Tea Room,SO43 7BD,50.8724,-1.5771
 Surfing Moo Moo,SO43 7BD,50.8724,-1.5771

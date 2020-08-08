@@ -20,6 +20,7 @@ The Pickled Pheasant,HD9 2NQ,53.5567,-1.8199
 Catch Holmfirth Limited,HD9 2PR,53.5659,-1.8004
 Holmfirth Vineyard Ltd,HD9 2QR,53.5545,-1.8094
 TRUEGOAL LTD,HD9 2RD,53.5567,-1.7859
+D&E's,HD9 2TH,53.5458,-1.8072
 En route cafe,HD9 3JH,53.5699,-1.7883
 Shimla Lounge,HD9 3JH,53.5699,-1.7883
 The Old Bridge Inn,HD9 7DA,53.5701,-1.7865
@@ -51,6 +52,7 @@ RHODE ISLAND COFFEE LTD,OL1 1HD,53.5411,-2.1149
 Rollers Cafe Oldham,OL1 1HD,53.5411,-2.1149
 subway,OL1 1HE,53.5411,-2.1149
 Piri Piri,OL1 1HH,53.5401,-2.1143
+TORONTO 57 LTD,OL1 1HH,53.5401,-2.1143
 Clean Plate Kitchen,OL1 1HU,53.5401,-2.1148
 DDLP LTD,OL1 1JA,53.5418,-2.1128
 square cafe and deli ltd,OL1 1JA,53.5418,-2.1128
@@ -71,6 +73,7 @@ The Smokehouse (Oldham) Limited t/as Smoke Yard,OL1 3AT,53.5423,-2.1116
 greenroom catering ltd,OL1 3BB,53.5430,-2.1140
 LEVERS FISH AND CHIPS,OL1 3BG,53.5430,-2.1142
 Pepes Piri Piri,OL1 3ST,53.5424,-2.1077
+THE DARK KITCHEN,OL1 3SW,53.5427,-2.1085
 Stocco Restaurant,OL1 3TQ,53.5423,-2.1060
 Grains Bar Hotel limited,OL1 4SX,53.5739,-2.0573
 SIMLA INN TANDOORI LIMITED,OL2 5PA,53.5650,-2.1226
@@ -107,7 +110,7 @@ Kobe Coffee ltd,OL3 6HR,53.5467,-2.0070
 Sorella Restaurant Limited,OL3 6HR,53.5467,-2.0070
 THE WAGGON INN,OL3 6HR,53.5467,-2.0070
 Weaver and Wilde,OL3 6HR,53.5467,-2.0070
-Muse,OL3 6HS,53.5472,-2.0070
+MUSE,OL3 6HS,53.5472,-2.0070
 The Old Library Garden Cafe and Bar,OL3 6HS,53.5472,-2.0070
 Saddleworth golf club,OL3 6LT,53.5470,-2.0105
 Church Inn Limited,OL3 6LW,53.5541,-1.9882
@@ -127,6 +130,7 @@ THE ROEBUCK RESTAURANT AND INN LIMITED,OL4 3RB,53.5579,-2.0613
 The Old Original,OL4 3RX,53.5540,-2.0419
 The three crowns at scouthead,OL4 4AT,53.5474,-2.0548
 The Spinners Arms,OL4 4BS,53.5448,-2.0532
+THE FARRARS ARMS,OL4 4HL,53.5379,-2.0214
 The White Hart ,OL4 4JJ,53.5350,-2.0409
 Red Lion,OL4 4LY,53.5377,-2.0710
 Peels Arms,OL4 4RE,53.5431,-2.0603
@@ -149,6 +153,7 @@ Cafe 10,OL6 6BX,53.4890,-2.0917
 Carribean kitchen ,OL6 6BZ,53.4892,-2.0925
 Detox Juice Bar,OL6 6BZ,53.4892,-2.0925
 Florence Italian Cafe ,OL6 6BZ,53.4892,-2.0925
+JJs Little Kitchen  (Stall 74),OL6 6BZ,53.4892,-2.0925
 Nat's Bombay Kitchen,OL6 6BZ,53.4892,-2.0925
 Tarps Filipino Street Food,OL6 6BZ,53.4892,-2.0925
 The Fusion Wok,OL6 6BZ,53.4892,-2.0925
@@ -170,15 +175,18 @@ PINOCCHIOS RESTAURANT,OL6 7SQ,53.4869,-2.0976
 Notcutts Ashton Park,OL6 7UB,53.4827,-2.1237
 Cockfields Farm Park,OL6 8AR,53.5175,-2.0789
 AMAANI RESTAURANT ,OL6 8BQ,53.5052,-2.0776
+The Junction Inn,OL6 9BX,53.5036,-2.0579
 Heroes Restaurant & Bar,OL6 9DQ,53.4979,-2.0661
 Ashton Golf Club,OL6 9HT,53.5041,-2.0718
 Smith's Cafe and takeaway ,OL7 0AU,53.4880,-2.1087
 Subway Maynestone,OL7 0DA,53.4829,-2.1106
 McDonalds Snipe Retail Park,OL7 0DN,53.4774,-2.1247
 Pasta&Basta ,OL7 0LD,53.4819,-2.1068
+Serrano's,OL7 0LD,53.4819,-2.1068
 McDonalds Ashton Moss,OL7 0PG,53.4890,-2.1116
 Zing & Zest Indian Restaurant ,OL7 9AH,53.4921,-2.0993
 Dog & Pheasant.,OL7 9PQ,53.5052,-2.1056
+Georgia Fried Chicken ,OL8 1DP,53.5400,-2.1168
 Shimlas Restaurant,OL8 1DP,53.5400,-2.1168
 Koffee Kingdom,OL8 1FR,53.5307,-2.1098
 Oldham Greenhill Community Sports & recreation Club,OL8 1JR,53.5346,-2.1130
@@ -187,7 +195,6 @@ Aminah Catering (UK) Ltd,OL8 1QN,53.5291,-2.1125
 MaliK Brothers Caterers Ltd,OL8 1QN,53.5291,-2.1125
 The famous king George ,OL8 3AA,53.5248,-2.1201
 Kilroy's Kitchen,OL8 3AB,53.5235,-2.1212
-Samir Ahmed,OL8 3BD,53.5229,-2.1226
 Smokies Park Hotel,OL8 3HX,53.5115,-2.1071
 kpp oldham ltd  T/A KEBABISH PERI PERI ,OL9 6EJ,53.5417,-2.1198
 Losehill House Hotel & Spa,S33 6AF,53.3609,-1.7544
@@ -224,6 +231,7 @@ Ayubowan Restaurant,SK13 8BH,53.4436,-1.9519
 Costa Coffee,SK13 8BP,53.4436,-1.9504
 Napoli ristorante limited ,SK13 8BP,53.4436,-1.9504
 Twig Coffee Glossop,SK13 8BS,53.4438,-1.9484
+olive and gin bar,SK13 8BS,53.4438,-1.9484
 Kwei Ping Restaurant,SK13 8BW,53.4440,-1.9500
 Pepino Deli,SK13 8BW,53.4440,-1.9500
 The Globe Inn and Lift Limited,SK13 8HJ,53.4433,-1.9566
@@ -238,11 +246,13 @@ Gracie’s Bar and Kitchen Ltd ,SK14 2EL,53.4521,-2.0790
 Maha Restaurant Ltd,SK14 2ND,53.4516,-2.0762
 Hyde - Costa Coffee,SK14 2QU,53.4514,-2.0777
 Matteos catering ltd at Oaklands Hall,SK14 3DE,53.4507,-2.0590
+Oaklands Masonic Club,SK14 3DE,53.4507,-2.0590
 Aqua Nurture,SK14 5BS,53.4398,-2.0788
 The Buxton Inn,SK14 5NG,53.4393,-2.0677
 The Grapes Restaurant ,SK14 5RU,53.4364,-2.0733
 Lymefield Garden Centre & Tea Rooms,SK14 6AG,53.4383,-2.0072
 DUE AMICI,SK14 8JA,53.4635,-1.9904
+Cosy Cafe,SK14 8LN,53.4619,-1.9945
 spice bistro ,SK14 8LN,53.4619,-1.9945
 Gladstone bistro,SK15 1AP,53.4830,-2.0594
 La Lupa,SK15 1JP,53.4838,-2.0542
@@ -277,11 +287,13 @@ The Shrub Club,SK22 3HS,53.3634,-2.0042
 BELE BAKERY LTD,SK22 4AA,53.3663,-2.0020
 simply nw ltd,SK22 4AA,53.3663,-2.0020
 clockwork cafe,SK22 4AE,53.3675,-2.0018
+New Mills Cuisine,SK22 4JG,53.3674,-1.9880
 Pack Horse Inn,SK22 4QQ,53.3787,-1.9978
 The Lamb Inn (Asquith) Ltd,SK23 6AL,53.3542,-1.9272
 Startpoint,SK6 1RJ,53.4262,-2.1012
 Taylors,SK6 1RJ,53.4262,-2.1012
 Duke of York ,SK6 3AN,53.4136,-2.0961
+Qurashi Romiley LTD,SK6 3AN,53.4136,-2.0961
 SPOILT 4 CHOICE,SK6 3AU,53.4158,-2.1042
 Spread Eagle Pub Ltd,SK6 3DR,53.4112,-2.1000
 Platform One,SK6 4BN,53.4139,-2.0904
@@ -307,6 +319,7 @@ La Dolce Vita Restaurant (Marple) Ltd,SK6 6BD,53.3944,-2.0620
 Angkor Soul (Marple),SK6 6BJ,53.3948,-2.0614
 The Railway marple limited,SK6 6EN,53.3963,-2.0791
 The Fisherman’s Table ,SK6 7AR,53.3927,-2.0643
+Purple pakora,SK6 7DA,53.3998,-2.0575
 The Crown (Hawk Green) Ltd,SK6 7HU,53.3832,-2.0610
 The Bulls Head,SK6 8BH,53.3647,-2.0753
 Blueberries,SK6 8DR,53.3650,-2.0753
@@ -318,7 +331,10 @@ Topkapi Palace,SK7 4DF,53.3794,-2.1207
 The Three Tunnes,SK7 4DQ,53.3798,-2.1219
 Bean and baguette ,SK7 4HH,53.3810,-2.1229
 Gnammy Italy,SK7 4HH,53.3810,-2.1229
+Pasha restaurant ,SK7 4HJ,53.3801,-2.1218
 zayaans stockport ,SK7 4HJ,53.3801,-2.1218
 Ristorante Benvenuti,SK7 4RF,53.3755,-2.1142
+BLUE NILE RESTAURANT ,SK7 6AA,53.3759,-2.1141
 The Rising Sun,SK7 6AD,53.3749,-2.1126
 Peking Garden Hazel Grove,SK7 6DT,53.3668,-2.1141
+The Hazel Grove Golf Club Limited,SK7 6LU,53.3742,-2.0965

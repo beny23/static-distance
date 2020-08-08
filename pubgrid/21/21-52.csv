@@ -5,6 +5,7 @@ W2 Bubble,BH1 1BA,50.7204,-1.8784
 Creams Cafe Bournemouth,BH1 1BZ,50.7211,-1.8777
 Del Marco coffee ltd,BH1 1DF,50.7214,-1.8770
 Real Eating Company Ltd,BH1 1DF,50.7214,-1.8770
+bentos,BH1 1DF,50.7214,-1.8770
 McDonald's,BH1 1DS,50.7205,-1.8776
 KOKORO,BH1 1DT,50.7210,-1.8769
 simit chai,BH1 1DT,50.7210,-1.8769
@@ -15,13 +16,17 @@ Frieda's tearoom Ltd,BH1 1JH,50.7231,-1.8689
 The Coconut Tree,BH1 1JU,50.7223,-1.8701
 Zorbas Greek Restaurant,BH1 1JU,50.7223,-1.8701
 Smokin Rooster,BH1 1JZ,50.7224,-1.8679
+churros and paella,BH1 1LL,50.7211,-1.8763
+Doner kebab uk,BH1 1NL,50.7223,-1.8734
 Taco Bell,BH1 1NL,50.7223,-1.8734
 subway,BH1 1NU,50.7220,-1.8721
 The Mandarin Fusion Restaurant,BH1 1PD,50.7220,-1.8709
 Halabway restaurant ,BH1 1PF,50.7222,-1.8686
 Little India restaurant,BH1 1PF,50.7222,-1.8686
 Roosters Piri Piri Bournemouth,BH1 1PF,50.7222,-1.8686
+Mega Kebab Bournemouth Ltd,BH1 1PH,50.7220,-1.8677
 Nativ restaurant,BH1 1PH,50.7220,-1.8677
+Pepe's Piri Piri ,BH1 1PH,50.7220,-1.8677
 Eaters Pizza,BH1 1RU,50.7223,-1.8669
 FULL PLATE RESTAURANT LIMITED,BH1 1RZ,50.7233,-1.8668
 KAZOKU NOODLE BAR ,BH1 1RZ,50.7233,-1.8668
@@ -88,7 +93,9 @@ Jenkins  & Sons Ltd,BH14 9NB,50.7232,-1.9259
 NICK THE FISH LTD,BH14 9NB,50.7232,-1.9259
 Penn Central,BH14 9NB,50.7232,-1.9259
 Subway,BH15 1AE,50.7135,-1.9870
+Hortons of Poole,BH15 1AF,50.7141,-1.9857
 Ginalis ,BH15 1AH,50.7145,-1.9852
+Aroma Poole ,BH15 1AS,50.7163,-1.9834
 Taco Bell,BH15 1AS,50.7163,-1.9834
 Quay Spice Dorset Ltd,BH15 1BT,50.7140,-1.9867
 Tandoori nights,BH15 1BT,50.7140,-1.9867
@@ -102,6 +109,7 @@ Oriel on the Quay,BH15 1HJ,50.7124,-1.9864
 Poole quay fish bar LTD ,BH15 1HJ,50.7124,-1.9864
 ROCKFISH POOLE,BH15 1HJ,50.7124,-1.9864
 The Lord Nelson,BH15 1HJ,50.7124,-1.9864
+quay grill,BH15 1HJ,50.7124,-1.9864
 quay roast,BH15 1HJ,50.7124,-1.9864
 Deli on the Quay,BH15 1HU,50.7123,-1.9842
 Rancho South American Steak House,BH15 1HU,50.7123,-1.9842
@@ -177,6 +185,7 @@ Schpoons & Forx ,BH2 5EL,50.7190,-1.8810
 1805,BH2 5ER,50.7168,-1.8824
 SURAHH LIMITED ,BH2 5ES,50.7168,-1.8837
 Indian Ocean,BH2 5EY,50.7166,-1.8831
+Miso Asian Market,BH2 5EY,50.7166,-1.8831
 Durley Dene Limited ,BH2 5HE,50.7162,-1.8879
 Bournemouth West Cliff Hotel,BH2 5JS,50.7188,-1.8905
 Brewhouse and Kitchen Bournemouth,BH2 5LU,50.7196,-1.8858

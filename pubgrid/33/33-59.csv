@@ -89,6 +89,7 @@ Reading Smash,RG1 2JR,51.4539,-0.9730
 Coffee Under Pressure,RG1 2LG,51.4550,-0.9745
 Zerodegrees - Microbrewery & Restaurant,RG1 2LR,51.4539,-0.9730
 CURA CATERING LIMITED,RG1 2QU,51.4495,-0.9691
+La’De Kitchen Pangbourne,RG1 2QU,51.4495,-0.9691
 Pau Brasil Ltd,RG1 2TF,51.4477,-0.9660
 House Of Flavours,RG1 3AA,51.4547,-0.9670
 AR FOODS LTD,RG1 3BJ,51.4546,-0.9648
@@ -96,6 +97,7 @@ The Thirsty Bear,RG1 3BY,51.4546,-0.9637
 The jolly anglers ,RG1 3EA,51.4569,-0.9517
 The Reading Room,RG1 3EJ,51.4562,-0.9691
 KFC - Reading Forbury,RG1 3JD,51.4579,-0.9633
+la romani,RG1 3NY,51.4535,-0.9472
 Lyndhurst Arms,RG1 4DG,51.4537,-0.9603
 London Street Brasserie,RG1 4PN,51.4539,-0.9682
 Great expectations ,RG1 4PS,51.4527,-0.9681
@@ -152,6 +154,7 @@ Maxis,RG12 1RF,51.4168,-0.7674
 SAMBAVI PETROLEUM LIMITED,RG12 2TB,51.4150,-0.7333
 Balti King,RG12 7BN,51.4047,-0.7561
 COPPID BEECH HOTEL,RG12 8TF,51.4152,-0.7901
+SUBWAY,RG12 9TZ,51.4091,-0.7270
 BJs Bingo,RG2 0BS,51.4323,-0.9718
 Gooi Nara,RG2 0EG,51.4454,-0.9653
 Dhaulagiri Kitchen Cafe and Restaurant,RG2 0ER,51.4398,-0.9670
@@ -165,9 +168,11 @@ Holiday Inn Reading South,RG2 0SL,51.4213,-0.9705
 Wolf Italian Street Food,RG2 6UG,51.4202,-0.9876
 Zest at Lime Square,RG2 6UP,51.4199,-0.9871
 KungFu Kitchen / UK Yipin LTD,RG2 7AZ,51.4428,-0.9558
+SIZZLING SPICE,RG2 7AZ,51.4428,-0.9558
 The Queens Head,RG2 7AZ,51.4428,-0.9558
 Dilwar Pindi Express,RG2 7PT,51.4385,-0.9623
 China Garden,RG2 8EY,51.4263,-0.9471
+COSTA SHINFIELD,RG2 8HA,51.4280,-0.9458
 KFC - READING Shinfield Road,RG2 8HA,51.4280,-0.9458
 L'Ortolan Restaurant,RG2 9BY,51.4080,-0.9528
 the six bells shinfield,RG2 9DA,51.4110,-0.9574
@@ -201,6 +206,7 @@ The Baron Cadogan ,RG4 8JG,51.4680,-0.9729
 Tipsy Bean,RG4 8JG,51.4680,-0.9729
 The Last Crumb,RG4 8JN,51.4691,-0.9712
 Raj Tandoori,RG4 8XU,51.4831,-0.9624
+the bite sandwich coffee bar,RG4 8XU,51.4831,-0.9624
 The New Inn,RG4 9AU,51.5071,-0.9920
 The Barn at The Herb Farm,RG4 9NJ,51.5121,-0.9760
 Bird in Hand ,RG4 9NP,51.5072,-0.9701
@@ -240,6 +246,7 @@ WInnersh Garden Centre,RG41 5HG,51.4362,-0.8989
 MERIDIAN READING LTD,RG41 5TS,51.4382,-0.8875
 The Admiral Cunningham Hotel ,RG42 1TU,51.4210,-0.7639
 Koh I Noor Restaurant,RG42 1UD,51.4216,-0.7643
+Daruchini Restaurant,RG42 4AJ,51.4257,-0.7870
 The Stag & Hounds,RG42 4HA,51.4327,-0.7812
 Amir Restaurant,RG42 4JF,51.4308,-0.7906
 A1 Spices Ltd T/A Spice Lounge,RG42 6AE,51.4342,-0.7470
@@ -247,6 +254,7 @@ The Yorkshire Rose,RG42 6AE,51.4342,-0.7470
 Plough & Harrow,RG42 6AU,51.4319,-0.7372
 Robyn's Nest Cafe,RG42 6EJ,51.4458,-0.7511
 Stirrups Hotel,RG42 6LD,51.4445,-0.7119
+Don Beni Winkfield,RG42 6NH,51.4316,-0.7090
 The Waterside,RG5 3EZ,51.4440,-0.9084
 Cozze Restaurant,RG5 3JP,51.4527,-0.9060
 Crumbs,RG5 3LX,51.4529,-0.9047
@@ -290,6 +298,7 @@ The Farm Kitchen ,RG9 2HY,51.5461,-0.9052
 Menza Cafe,RG9 2JA,51.5422,-0.9051
 Henley Restaurants Limited,RG9 2LJ,51.5385,-0.9013
 The Baskerville Shiplake Limited,RG9 3NY,51.5115,-0.8834
+The Henley Golf Club Ltd,RG9 4HG,51.5210,-0.9045
 The Bottle & Glass Inn,RG9 4JT,51.5071,-0.9312
 The Maltsters Arms,RG9 4QD,51.5359,-0.9560
 The Field Kitchen (UK) Ltd,RG9 5DA,51.5754,-0.9920
@@ -321,11 +330,13 @@ tummies limited,SL1 6JJ,51.5211,-0.6450
 Akash Indian Restaurant & Bar,SL1 7JD,51.5328,-0.6584
 Lunchbox ,SL1 7JP,51.5338,-0.6584
 Woodstocks tea and coffee house,SL1 7JP,51.5338,-0.6584
+PRIDE OF BURNHAM,SL1 7JZ,51.5351,-0.6590
 Laura Ashley - The Tea Room Burnham Beeches,SL1 8DP,51.5413,-0.6477
 M&D Catering,SL1 8EG,51.5451,-0.6525
 The Lambourne Club,SL1 8NF,51.5620,-0.6582
 Jolly Woodman,SL1 8PF,51.5692,-0.6543
 THE BLACKWOOD ARMS,SL1 8PP,51.5660,-0.6505
+Perigano's,SL2 1DE,51.5273,-0.6167
 Dixy Chicken,SL2 1JD,51.5285,-0.6163
 The Emperor Pub,SL2 3EG,51.5485,-0.6183
 MOI RED FARNHAM LTD,SL2 3PQ,51.5551,-0.6157
@@ -385,6 +396,7 @@ Star Spice and Grill Limited,SL6 1LT,51.5209,-0.7201
 15 Queen Street,SL6 1NB,51.5222,-0.7199
 bistro story,SL6 1NB,51.5222,-0.7199
 Flavio’s,SL6 1PT,51.5227,-0.7233
+SHEESH,SL6 1PT,51.5227,-0.7233
 RIO DELI MAIDENHEAD LIBRARY LIMITED,SL6 1QU,51.5222,-0.7177
 Coppa Club,SL6 1RR,51.5219,-0.7160
 TUCKIN CATERERS LTD t/a KFC,SL6 1RS,51.5229,-0.7160
@@ -441,6 +453,7 @@ The Marlow Club,SL7 1LU,51.5709,-0.7597
 PRINCE OF WALES,SL7 1PX,51.5698,-0.7705
 The Bull Inn Bisham Limited,SL7 1RR,51.5581,-0.7751
 Hand and Flowers ,SL7 2BP,51.5704,-0.7809
+Danesfield House Hotel Ltd,SL7 2EY,51.5520,-0.8287
 The Dog and Badger,SL7 2HE,51.5540,-0.8424
 The Royal Oak,SL7 2JF,51.5756,-0.7958
 The Coach,SL7 2LS,51.5710,-0.7780

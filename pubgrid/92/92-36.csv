@@ -4,6 +4,7 @@ Costa Coffee,FK1 1HG,55.9986,-3.7863
 THE ALLOTMENT CAFE,FK1 1HG,55.9986,-3.7863
 Antonio's Deli,FK1 1HR,56.0035,-3.7842
 cafe corvina,FK1 1HR,56.0035,-3.7842
+Central Perk Falkirk,FK1 1HS,56.0027,-3.7844
 The Fork & Mustard,FK1 1HX,56.0009,-3.7858
 Behind the Wall,FK1 1HZ,56.0011,-3.7854
 Sumo Noodle Cafe,FK1 1HZ,56.0011,-3.7854
@@ -40,6 +41,7 @@ The Croft & Creel,FK2 7BZ,56.0067,-3.7847
 The Creamery,FK2 7NZ,56.0128,-3.7876
 Carronbridge Inn,FK2 7SR,56.0203,-3.7937
 Wonder World Falkirk,FK2 7XF,56.0124,-3.7809
+The Shore Restaurant,FK2 8ES,56.0276,-3.7844
 Mango the Restaurant ,FK4 1QP,55.9918,-3.9292
 Railway Inn & Platform Lounge,FK4 1QS,55.9982,-3.9124
 Gulnar Tandoori Restaurant,FK5 3AR,56.0203,-3.8329
@@ -77,6 +79,7 @@ Stack and Still Glasgow Fort,G34 9DL,55.8717,-4.1384
 wee betty’s ,G34 9DT,55.8685,-4.1219
 milkwood food company ltd t/a Coffee Boy Glasgow,G34 9JJ,55.8683,-4.1273
 KCC Trading Limited TA Cafe Refresh,G65 0AL,55.9775,-4.0569
+New gulistan tandoori restaurant ,G65 0BD,55.9759,-4.0554
 The Coachman Hotel,G65 0SP,55.9788,-4.0583
 The Boathouse,G65 9SG,55.9671,-4.0522
 Nonnas Kitchen,G66 1HF,55.9385,-4.1554
@@ -117,6 +120,7 @@ Giuliano's,G67 2SU,55.9628,-3.9749
 OASIS FISH & CHIPS,G67 2UQ,55.9435,-3.9792
 The Buffet Box Cafe,G67 3EN,55.9697,-3.9580
 Subway ,G67 3PD,55.9530,-3.9540
+Dalshannon Farm ,G67 4AY,55.9293,-4.0382
 Broden's Bar & Kitchen,G67 4BS,55.9367,-4.0265
 Cafe Vanilla,G67 4BS,55.9367,-4.0265
 The Weavers Condorrat ,G67 4DN,55.9329,-4.0267
@@ -130,7 +134,6 @@ DoubleTree by Hilton Hotel Glasgow Westerwood Spa & Golf Resort,G68 0EW,55.9683,
 Castlecary Hotel,G68 0HD,55.9801,-3.9475
 Innoflate Cumbernauld,G68 9HX,55.9283,-4.0555
 Tim Hortons,G68 9NE,55.9453,-4.0371
-SUBWAY,G69 6DP,55.8562,-4.1063
 Costa Coffee,G69 6JX,55.8506,-4.1165
 Kastriots  Med. Bar & Grill,G69 6SG,55.8504,-4.1136
 cd restaurant ltd,G69 7HL,55.8504,-4.1057
@@ -153,6 +156,8 @@ Mondo,ML5 3BJ,55.8614,-4.0233
 Firehouse Grill Ltd ,ML5 3BQ,55.8621,-4.0259
 Subway,ML5 3BQ,55.8621,-4.0259
 The Big Coffee Cup,ML5 3EG,55.8621,-4.0236
+Shimla cottage ,ML5 3HR,55.8669,-4.0269
+Shimla cottage,ML5 3HR,55.8669,-4.0269
 Big Owens Bar Limited,ML5 3RS,55.8598,-4.0092
 Club 3000 Bingo Coatbridge,ML5 3RT,55.8592,-4.0042
 McDonalds Coatbridge,ML5 3SP,55.8579,-4.0198
@@ -167,11 +172,13 @@ The Treasury Bar ,ML6 6AB,55.8663,-3.9797
 Robert Hamilton,ML6 6AF,55.8665,-3.9812
 Agnes Place,ML6 6AH,55.8671,-3.9800
 Weanz World Play Cafe,ML6 6AH,55.8671,-3.9800
+ILCAPO LIMITED,ML6 6AW,55.8670,-3.9767
 Costa Coffee,ML6 6BU,55.8659,-3.9798
 ZANTE FOOD,ML6 6DB,55.8658,-3.9785
 Cafe Alba,ML6 6DD,55.8664,-3.9784
 FOOD BAR (AIRDRIE) LTD,ML6 6DD,55.8664,-3.9784
 BLT,ML6 6DH,55.8668,-3.9720
+Baxters Cafe,ML6 6JA,55.8674,-3.9817
 Baxter’s cafe ,ML6 6JA,55.8674,-3.9817
 Fourways,ML6 6LX,55.8765,-3.9674
 THE BISTRO AIRDRIE,ML6 7AG,55.8675,-3.9534

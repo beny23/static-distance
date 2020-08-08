@@ -1,9 +1,9 @@
 name,postcode,lat,lon
-Corner cafe,DY10 1AE,52.3846,-2.2482
 Love Food Italia,DY10 1AF,52.3846,-2.2477
 Delightful Desserts,DY10 1BL,52.3866,-2.2482
 Rees Cafe,DY10 1BT,52.3865,-2.2484
 BISTROT PIERRE - KIDDERMINSTER,DY10 1BY,52.3864,-2.2496
+Bistrot Pierre - Kidderminster,DY10 1BY,52.3864,-2.2496
 WALL 2 WALL,DY10 1BY,52.3864,-2.2496
 The Swan,DY10 1DE,52.3873,-2.2487
 Cafe pacifico Kidderminster limited,DY10 1EJ,52.3874,-2.2481
@@ -65,6 +65,7 @@ severn tandoori,DY13 8UX,52.3387,-2.2821
 Gingers Cafe ,DY13 9EA,52.3400,-2.2782
 Fidoras bistro bar,DY13 9EQ,52.3392,-2.2800
 The Angel Inn,DY13 9EW,52.3365,-2.2791
+The bayhorse ,DY13 9JA,52.3415,-2.2595
 the rock tavern,DY13 9LR,52.3439,-2.2603
 The Old Rose and Crown ,DY13 9PA,52.3346,-2.2673
 FLAVOUR E AZOM,DY13 9PZ,52.3296,-2.2631
@@ -76,9 +77,11 @@ The Royal Fountain Inn ,DY14 8BS,52.3789,-2.4799
 Balti Bar,DY14 8DG,52.3784,-2.4825
 The Lamp Restaurant ,DY14 8DG,52.3784,-2.4825
 The Spice Empire,DY14 8DG,52.3784,-2.4825
+Cleobury Cafe,DY14 8DQ,52.3787,-2.4826
 The Talbot Hotel,DY14 8DQ,52.3787,-2.4826
 The Larch Barn Cafe and Plant Centre ,DY14 8JF,52.3950,-2.4618
 The Fighting Cocks,DY14 8TZ,52.4417,-2.4848
+Colliers arms,DY14 9HA,52.3484,-2.4040
 colliers arms,DY14 9HA,52.3484,-2.4040
 The Sun and Slipper ,DY14 9JL,52.3412,-2.4566
 PLOUGH AT FAR FOREST,DY14 9TE,52.3677,-2.3988
@@ -98,6 +101,7 @@ the new wall heath tandoori,DY6 0HA,52.5046,-2.1781
 Alam International Restaurant Limited,DY6 0NP,52.5058,-2.1787
 KFC,DY6 7AP,52.5044,-2.1664
 Alexander Greek Restaurant,DY6 8AA,52.4973,-2.1677
+Cross Balti Limited,DY6 8AA,52.4973,-2.1677
 the bell inn,DY6 8AJ,52.4979,-2.1646
 McDonald’s Kingswinford,DY6 8WT,52.5002,-2.1517
 Delightful Desserts,DY6 9EL,52.5000,-2.1735
@@ -128,6 +132,7 @@ The Talbot Hotel,DY8 1DW,52.4571,-2.1469
 Surantha patisserie,DY8 1ED,52.4553,-2.1437
 Cafe 105,DY8 1EE,52.4554,-2.1446
 Cock N Bull.Co,DY8 1EE,52.4554,-2.1446
+Ronnie's Real Wood-Fired Pizza Ltd.,DY8 1EE,52.4554,-2.1446
 Delightful Desserts,DY8 1EL,52.4557,-2.1437
 THE DUKE WILLIAM,DY8 1EP,52.4576,-2.1466
 COSTA COFFEE,DY8 1HJ,52.4559,-2.1463
@@ -148,6 +153,7 @@ Crown Inn,DY8 2RX,52.4323,-2.1704
 The Greyhound,DY8 2TA,52.4441,-2.1595
 East One Curry House Limited,DY8 3NX,52.4601,-2.1644
 The Plough Inn,DY8 3PD,52.4597,-2.1700
+the kitchen at the foresters arms,DY8 3PL,52.4607,-2.1738
 Indus Express,DY8 3QG,52.4604,-2.1619
 Indiluxe,DY8 4AJ,52.4710,-2.1553
 Red Cone Coffee House,DY8 4AZ,52.4762,-2.1572
@@ -155,7 +161,9 @@ Khatri's ,DY8 4BA,52.4712,-2.1530
 Moons Cafe,DY8 4BS,52.4707,-2.1533
 Ruby Cantonese Restaurant,DY8 4HE,52.4674,-2.1537
 The Old Wharf Inn,DY8 4LY,52.4610,-2.1490
+Red chilli ,DY8 4NH,52.4612,-2.1624
 The Red Forte Indian Restaurant ,DY8 4NJ,52.4619,-2.1623
+DBR wordsley ltd,DY8 5PG,52.4809,-2.1625
 LITTLE TASTE OF HEAVEN ,DY8 5PG,52.4809,-2.1625
 Crystal Balti,DY8 5SE,52.4786,-2.1610
 The Robin Hood Inn,DY9 0BW,52.3810,-2.1417

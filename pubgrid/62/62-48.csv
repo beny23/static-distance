@@ -1,12 +1,14 @@
 name,postcode,lat,lon
 6 Burgerz,BB1 1BB,53.7429,-2.4793
 STEAKOUT,BB1 1BB,53.7429,-2.4793
+Steak out,BB1 1BB,53.7429,-2.4793
 subway,BB1 1EY,53.7464,-2.4795
 Chai Station,BB1 1NR,53.7478,-2.4587
 DD DINER,BB1 1RN,53.7430,-2.4702
 sahad blackburn ,BB1 1TD,53.7435,-2.4713
 Wright's Bites,BB1 2AL,53.7477,-2.4461
 FLIP OUT BLACKBURN,BB1 2EE,53.7307,-2.4526
+Zeddy's chicken  and pizza,BB1 2HR,53.7392,-2.4525
 The Dog Inn,BB1 2NN,53.7188,-2.4321
 The grey mare,BB1 2PG,53.7118,-2.4080
 The Pack,BB1 2PL,53.7186,-2.4253
@@ -22,6 +24,7 @@ Exchange Coffee Company Blackburn Market,BB1 5AF,53.7483,-2.4832
 JW Chilli & Salt Blackburn ,BB1 5AF,53.7483,-2.4832
 KFC,BB1 5AF,53.7483,-2.4832
 Spindles Diner ltd,BB1 5AF,53.7483,-2.4832
+Thai noodle bar ,BB1 5AF,53.7483,-2.4832
 The Pepper Pot ,BB1 5AF,53.7483,-2.4832
 Wellbread,BB1 5AF,53.7483,-2.4832
 Zakros Greek Cuisine & Thai noodle bar,BB1 5AF,53.7483,-2.4832
@@ -30,9 +33,11 @@ Calypso Restaurant,BB1 5BY,53.7492,-2.4742
 TCK DELI MARKET LTD,BB1 5DP,53.7522,-2.4699
 Marhaba sweets,BB1 6DS,53.7526,-2.4813
 Naafiah GrillHouse ,BB1 6DS,53.7526,-2.4813
+Pepe's Piri Piri,BB1 6DS,53.7526,-2.4813
 Chaiiwala,BB1 6EE,53.7559,-2.4773
 Kebabish Original,BB1 6JZ,53.7589,-2.4711
 Dipz Donut & Gelato,BB1 6LB,53.7591,-2.4704
+Sliders ,BB1 6LR,53.7579,-2.4699
 Roberto's Bar & Bistro,BB1 7AR,53.7505,-2.4857
  McDonald's,BB1 7DJ,53.7491,-2.4843
 WAHEED'S BUFFET,BB1 7EG,53.7518,-2.4849
@@ -50,6 +55,7 @@ Tiggis,BB1 9EX,53.7951,-2.5071
 The Bonny Inn Limited,BB1 9HQ,53.7912,-2.4891
 Wilpshire Golf Club,BB1 9LF,53.7885,-2.4740
 LAHORE QILA LTD,BB1 9TL,53.7609,-2.4718
+Lahore qila ltd,BB1 9TL,53.7609,-2.4718
 Samosa chaat ,BB10 1QX,53.7998,-2.2397
 The Thornton,BB10 3JS,53.7877,-2.2076
 Burnley Football CLub,BB10 4BX,53.7885,-2.2303
@@ -94,6 +100,7 @@ Subway,BB11 5DB,53.7810,-2.2774
 New Waggonners ltd,BB11 5NS,53.7621,-2.2613
 Beijing cantonese restaurant ,BB11 5PB,53.7494,-2.2691
 Holiday Inn Express Burnley M65 J10,BB12 0TJ,53.7939,-2.2564
+Birchall Foodservice TED,BB12 7BF,53.7891,-2.3037
 Simply Classic Exertis,BB12 7BF,53.7891,-2.3037
 Simply classic,BB12 7NG,53.7953,-2.3290
 Jaipur restaurant Padiham ,BB12 8QN,53.7990,-2.3102
@@ -103,6 +110,7 @@ Heavenly Desserts Blackburn Ltd,BB2 1AN,53.7504,-2.4864
 The Tawa & Grill Hut,BB2 1EH,53.7498,-2.4927
 Roomali,BB2 1JD,53.7482,-2.4857
 The Refreshment Bar,BB2 1JU,53.7484,-2.4851
+Achari ,BB2 1XB,53.7414,-2.5063
 Witton Inn,BB2 1XQ,53.7416,-2.5068
 Taste Of India ,BB2 2AD,53.7459,-2.4829
 Crust,BB2 2BH,53.7463,-2.4827
@@ -127,6 +135,7 @@ Traders Arms,BB2 7EW,53.7739,-2.5255
 The Bay Horse Inn,BB2 7HX,53.7805,-2.5368
 Hawkshaw Farm Visitor Centre,BB2 7JA,53.7872,-2.5245
 The Millstone,BB2 7JR,53.7736,-2.5291
+Stanley House Hotel & Spa,BB2 7NP,53.7629,-2.5300
 The golden cup,BB3 0AJ,53.7140,-2.4827
 Chopstix Blackburn,BB3 0AT,53.7136,-2.4815
 McDonald's,BB3 0AT,53.7136,-2.4815
@@ -139,6 +148,7 @@ Sweet Vintage Darwen,BB3 1BG,53.6954,-2.4672
 FLAMES GRILL AND BAR ,BB3 1BZ,53.6911,-2.4666
 The Alexandra hotel ,BB3 1NL,53.7007,-2.4765
 Eddie's Wood fired pizza,BB3 1PL,53.6952,-2.4688
+Cjs cafe,BB3 1PS,53.6958,-2.4684
 Akash Indian Brasserie,BB3 1PX,53.6979,-2.4705
 anaz restaurant,BB3 1QA,53.6987,-2.4714
 Artisan Cafe and Wine Bar ,BB3 2AA,53.6946,-2.4662
@@ -146,11 +156,13 @@ The Bridge cafe,BB3 2AA,53.6946,-2.4662
 The Whitehall Hotel,BB3 2JU,53.6813,-2.4654
 Zest cafe lounge,BB3 2PR,53.6860,-2.4619
 DOLLYS TEAROOM AND RESTAURANT,BB3 2PS,53.6857,-2.4626
+Astley Bank Hotel Ltd,BB3 2QB,53.6861,-2.4670
 Craven Heifer Inn,BB3 3LD,53.6908,-2.4483
 The Ranken Arms ,BB3 3LY,53.6959,-2.4307
 The Crown & Thistle,BB3 3PP,53.6792,-2.4271
 Holden Wood Tea Rooms,BB4 4AT,53.7029,-2.3575
 Pearsons,BB4 4HD,53.6900,-2.3282
+THE VILLAGE STORES,BB4 4LX,53.6836,-2.3335
 The Robin Hood Inn,BB4 4NP,53.6894,-2.3382
 The mill cafe,BB4 4NP,53.6894,-2.3382
 Holden Arms,BB4 4PD,53.6994,-2.3400
@@ -171,6 +183,7 @@ McDonald's,BB4 6QX,53.6995,-2.2924
 The Old Library Waterfoot ,BB4 7AW,53.6920,-2.2501
 North Street Restaurant Limited,BB4 7LX,53.7021,-2.2841
 BLOSSOM RESTAURANT,BB4 7NG,53.7005,-2.2872
+Nila Fine Indian Dining,BB4 7NG,53.7005,-2.2872
 Ashoka Restaurant,BB4 7PA,53.7001,-2.2754
 Nino's Restaurant,BB4 7PA,53.7001,-2.2754
 A Vucciria,BB4 7QN,53.7033,-2.2845
@@ -187,8 +200,8 @@ The Hargreaves Arms Pub & Restaurant ,BB4 9PQ,53.7193,-2.2479
 Los Pollos Hermanos,BB5 1AS,53.7559,-2.3653
 Coffee beanz,BB5 1DZ,53.7535,-2.3630
 Infant St Chip Shop,BB5 1DZ,53.7535,-2.3630
+Black Horse Food Emporium,BB5 1EE,53.7518,-2.3618
 Boardwalk ,BB5 1EE,53.7518,-2.3618
-Rileys ,BB5 1EH,53.7520,-2.3611
 Tiger Lounge Accrington,BB5 1EH,53.7520,-2.3611
 Yankeez ,BB5 1EH,53.7520,-2.3611
 Frankies Cafe,BB5 1ER,53.7534,-2.3644
@@ -239,8 +252,10 @@ Owens Restaurant & Bar,BL0 9AL,53.6467,-2.3153
 Baratxuri ,BL0 9AT,53.6482,-2.3181
 Levanter,BL0 9BE,53.6474,-2.3179
 Old Mill Hotel,BL0 9DS,53.6503,-2.3233
+The Lounge,BL0 9FN,53.6479,-2.3173
 Tre Ciccio Ramsbottom,BL0 9HT,53.6490,-2.3180
 Amelia's Ramsbottom,BL0 9HU,53.6476,-2.3185
+Indian Lounge UK LTD,BL0 9HU,53.6476,-2.3185
 SAN LEONARDO'S,BL0 9HU,53.6476,-2.3185
 The Mouse Trap,BL0 9HU,53.6476,-2.3185
 China Cottage Ltd,BL0 9HX,53.6470,-2.3189
@@ -259,6 +274,7 @@ ciao napoli,BL1 1LE,53.5775,-2.4283
 THE COURTHOUSE RESTAURANT & BAR,BL1 1LF,53.5772,-2.4283
 Subway Newport Street,BL1 1NB,53.5770,-2.4298
 Odessa cafe,BL1 1RS,53.5782,-2.4287
+THE FOOD CORNER LTD,BL1 1SN,53.5764,-2.4297
 OLYMPUS FISH AND CHIP RESTAURANT LIMITED,BL1 1SW,53.5761,-2.4296
 Istanbul’s kitchen,BL1 1TJ,53.5765,-2.4326
 cosy cafe,BL1 1TQ,53.5765,-2.4326
@@ -284,6 +300,7 @@ Cube Desserts Ltd,BL1 3QJ,53.5919,-2.4358
 MAMA'S GRILL (NORTH-WEST) LTD,BL1 3QN,53.5912,-2.4342
 Khanz Spicy Grill,BL1 4AZ,53.5813,-2.4409
 burgerum,BL1 4JE,53.5865,-2.4512
+Prime eatery,BL1 4QR,53.5819,-2.4417
 Queen's Park Café Bolton ,BL1 4RU,53.5775,-2.4449
 Victoria Inn,BL1 5AG,53.5830,-2.4772
 Retreat Grill Bar Restaurant,BL1 5BP,53.5794,-2.4655
@@ -332,6 +349,7 @@ Curley’s dining room ltd,BL6 6PP,53.5999,-2.5196
 Ye Jolly Crofters ,BL6 6RE,53.5977,-2.5193
 Boltom Whites Hotel,BL6 6SF,53.5799,-2.5344
 The Black Bull,BL7 0AF,53.6422,-2.3970
+The Reading Room Coffee Shop at The Barlow,BL7 0AP,53.6452,-2.3933
 ROSE AND CROWN,BL7 0AR,53.6456,-2.3898
 Chetham Arms,BL7 0EW,53.6372,-2.4044
 Dalchini Indian Restaurant ,BL7 0HR,53.6289,-2.3849
@@ -345,6 +363,7 @@ Hot Chilli,BL7 9PQ,53.6171,-2.4366
 Last Drop Village Hotel and Spa,BL7 9PZ,53.6220,-2.4210
 Lotties,BL7 9QT,53.6337,-2.4825
 San Marino bar and restaurant ,BL7 9QT,53.6337,-2.4825
+San Marino,BL7 9QT,53.6337,-2.4825
 AK Cafe,BL7 9SB,53.6259,-2.4382
 Baker's,BL7 9SN,53.6302,-2.4417
 The Thomas Egerton,BL7 9SR,53.6298,-2.4410
@@ -353,14 +372,18 @@ Stables Country Club,BL8 1PU,53.6020,-2.3262
 The Swan ,BL8 1SJ,53.6019,-2.3193
 ASHA TOTTINGTON LIMITED,BL8 1TA,53.6032,-2.3219
 The Black Bull Bury,BL8 2EY,53.5908,-2.3418
+Ruposhi Indian restaurant ,BL8 2QY,53.5963,-2.3156
+Rapallo Cucina Italiana,BL8 3AG,53.5992,-2.3395
 The Victoria Walshaw ,BL8 3BD,53.6025,-2.3402
 China Rose Restaurant,BL8 4AA,53.6143,-2.3407
 The Dungeon Inn,BL8 4AW,53.6151,-2.3430
 The Village Bistro Greenmount ,BL8 4DD,53.6249,-2.3317
 Waggon and Horses,BL8 4JL,53.6309,-2.3650
+Bloom Coffee Co Ltd,BL9 0AJ,53.5930,-2.2977
 Bloom Coffee Co.,BL9 0AJ,53.5930,-2.2977
 Ground Up,BL9 0AJ,53.5930,-2.2977
 Subway,BL9 0AJ,53.5930,-2.2977
+roccos desserts,BL9 0AY,53.5921,-2.2979
 Katsouris Delicatessen Ltd,BL9 0BD,53.5922,-2.2940
 The Bury Roast Co,BL9 0BD,53.5922,-2.2940
 Alisons fresh and tasty,BL9 0BJ,53.5910,-2.2953
@@ -383,10 +406,12 @@ Debenhams Restaurant Bury,BL9 0JL,53.5952,-2.2909
 Bake & Take ,BL9 0JN,53.5949,-2.2921
 Drip,BL9 0JS,53.5945,-2.2911
 West Ivy,BL9 0JX,53.5942,-2.2920
+Olive's Kitchen ,BL9 0LL,53.5938,-2.3007
 Zen Lounge,BL9 0LL,53.5938,-2.3007
 NEW JEWEL OF BURY LTD,BL9 0LP,53.5941,-2.3023
 Pizzeria bella italia,BL9 0LQ,53.5936,-2.2988
 Rozzzy's Fusion Cafe,BL9 0ND,53.5953,-2.2928
+Tompsons fish and chips,BL9 0ND,53.5953,-2.2928
 Tim Hortons,BL9 0NY,53.5938,-2.2954
 McDonalds The Rock. Bury,BL9 0PB,53.5941,-2.2948
 COFFEE CREATIONS,BL9 0QF,53.5932,-2.2943
@@ -400,7 +425,6 @@ THE RED HALL HOTEL ( BURY) LTD,BL9 5NA,53.6351,-2.3012
 Park Farm Tearooms,BL9 5NP,53.6416,-2.3030
 Summerseat Garden Centre Limited,BL9 5QD,53.6273,-2.3178
 AL BOSCO RISTORANTE,BL9 5QP,53.6310,-2.3209
-Games Hub Bury ,BL9 6AS,53.5965,-2.2864
 The Waggon at Birtle,BL9 6UE,53.6048,-2.2389
 The Church Inn,BL9 6UH,53.6060,-2.2600
 H's Diner,BL9 7AJ,53.5960,-2.2855
@@ -419,6 +443,7 @@ Possabilities Social Lounge,OL10 4SY,53.5961,-2.2332
 Le Latte ,OL11 1DN,53.6117,-2.1543
 Chaiiwala Rochdale,OL11 1EB,53.6104,-2.1568
 Cuckoos Cafe & Grill,OL11 1EB,53.6104,-2.1568
+NEW YORK CHICKEN LIMITED,OL11 1EB,53.6104,-2.1568
 Jungle Grill,OL11 1EF,53.6119,-2.1597
 Shish cafe ,OL11 1HH,53.6100,-2.1583
 McDonalds Sandbrook Park,OL11 1RY,53.6024,-2.1634
@@ -433,16 +458,19 @@ The Royal Toby Hotel,OL11 3HF,53.5984,-2.1802
 THE PLOUGH,OL11 3LW,53.6025,-2.1876
 The Hare and Hounds,OL11 4AA,53.6073,-2.2079
 The Elephant & Castle,OL11 4AU,53.6106,-2.1969
+Platos Y Bebidas,OL11 4DQ,53.6126,-2.1883
 Suburb cafe,OL11 4DQ,53.6126,-2.1883
 Sweet coffee ,OL11 5AQ,53.6223,-2.1887
 The Grapes,OL11 5PN,53.6131,-2.2090
 La Dolce Vita,OL11 5QY,53.6147,-2.2072
+Spicy kitchen,OL12 0JJ,53.6243,-2.1556
 TREE & TOAD LTD,OL12 0NU,53.6195,-2.1603
 Ruchi Indian Restaurant ,OL12 0RD,53.6246,-2.1561
 THE OXFORD(ROCHDALE)LTD,OL12 0TB,53.6368,-2.1690
 Pepe's Piri Piri Rochdale,OL12 0UW,53.6223,-2.1526
 The Healey ,OL12 6LW,53.6311,-2.1732
 Eastern Restaurant & Takeaway,OL12 6PE,53.6191,-2.1635
+alis chippy ,OL12 6PJ,53.6203,-2.1675
 Subway Aldi Rochdale,OL12 6XD,53.6147,-2.1674
 NUTTERS RESTAURANT,OL12 7TT,53.6319,-2.2327
 Owd Betts,OL12 7TY,53.6406,-2.2590
@@ -473,6 +501,7 @@ Vicolos Ltd,OL16 1JG,53.6175,-2.1576
 Knockout Kitchen Ltd,OL16 1JJ,53.6177,-2.1579
 Russells of Rochdale,OL16 1JZ,53.6185,-2.1556
 Gumboo Hotels Limited,OL16 1NJ,53.6158,-2.1574
+Rajas chicken grill rochdale limited ,OL16 1PN,53.6139,-2.1543
 Funkie Fusion Limited,OL16 1RE,53.6167,-2.1560
 the castle cafe,OL16 1SR,53.6156,-2.1509
 PLAYERS ROCHDALE,OL16 1UA,53.6146,-2.1530

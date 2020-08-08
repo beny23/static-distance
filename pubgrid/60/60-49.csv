@@ -5,8 +5,10 @@ DRINC,BL0 9AB,53.6481,-2.3150
 Owens Restaurant & Bar,BL0 9AL,53.6467,-2.3153
 Baratxuri ,BL0 9AT,53.6482,-2.3181
 Levanter,BL0 9BE,53.6474,-2.3179
+The Lounge,BL0 9FN,53.6479,-2.3173
 Tre Ciccio Ramsbottom,BL0 9HT,53.6490,-2.3180
 Amelia's Ramsbottom,BL0 9HU,53.6476,-2.3185
+Indian Lounge UK LTD,BL0 9HU,53.6476,-2.3185
 SAN LEONARDO'S,BL0 9HU,53.6476,-2.3185
 The Mouse Trap,BL0 9HU,53.6476,-2.3185
 China Cottage Ltd,BL0 9HX,53.6470,-2.3189
@@ -18,13 +20,14 @@ Duke William Inn,BL2 5SQ,53.5887,-2.3604
 subway,BL2 6PY,53.5796,-2.3766
 Bradley Fold Garden Centre Ltd,BL2 6RE,53.5745,-2.3664
 The Jolly Carter,BL3 1BW,53.5619,-2.3812
-Unsy's Rotisserie Chicken Limited,BL3 1NP,53.5631,-2.3571
 Royal Balti House,BL4 7NY,53.5498,-2.3950
+Zahra Authentic Cuisine ,BL4 8QX,53.5366,-2.3652
 The Atrium Cafe,BL4 8RU,53.5315,-2.3587
 Market Fish Bar,BL4 9DR,53.5479,-2.3946
 Ali & Sons Catering Ltd,BL4 9LU,53.5398,-2.3996
 Royal Monal Restaurant,BL4 9LU,53.5398,-2.3996
 The Black Bull,BL7 0AF,53.6422,-2.3970
+The Reading Room Coffee Shop at The Barlow,BL7 0AP,53.6452,-2.3933
 ROSE AND CROWN,BL7 0AR,53.6456,-2.3898
 Dalchini Indian Restaurant ,BL7 0HR,53.6289,-2.3849
 Bolholt Residential Club Limited,BL8 1PU,53.6020,-2.3262
@@ -32,14 +35,18 @@ Stables Country Club,BL8 1PU,53.6020,-2.3262
 The Swan ,BL8 1SJ,53.6019,-2.3193
 ASHA TOTTINGTON LIMITED,BL8 1TA,53.6032,-2.3219
 The Black Bull Bury,BL8 2EY,53.5908,-2.3418
+Ruposhi Indian restaurant ,BL8 2QY,53.5963,-2.3156
+Rapallo Cucina Italiana,BL8 3AG,53.5992,-2.3395
 The Victoria Walshaw ,BL8 3BD,53.6025,-2.3402
 China Rose Restaurant,BL8 4AA,53.6143,-2.3407
 The Dungeon Inn,BL8 4AW,53.6151,-2.3430
 The Village Bistro Greenmount ,BL8 4DD,53.6249,-2.3317
 Waggon and Horses,BL8 4JL,53.6309,-2.3650
+Bloom Coffee Co Ltd,BL9 0AJ,53.5930,-2.2977
 Bloom Coffee Co.,BL9 0AJ,53.5930,-2.2977
 Ground Up,BL9 0AJ,53.5930,-2.2977
 Subway,BL9 0AJ,53.5930,-2.2977
+roccos desserts,BL9 0AY,53.5921,-2.2979
 Katsouris Delicatessen Ltd,BL9 0BD,53.5922,-2.2940
 The Bury Roast Co,BL9 0BD,53.5922,-2.2940
 Alisons fresh and tasty,BL9 0BJ,53.5910,-2.2953
@@ -62,10 +69,12 @@ Debenhams Restaurant Bury,BL9 0JL,53.5952,-2.2909
 Bake & Take ,BL9 0JN,53.5949,-2.2921
 Drip,BL9 0JS,53.5945,-2.2911
 West Ivy,BL9 0JX,53.5942,-2.2920
+Olive's Kitchen ,BL9 0LL,53.5938,-2.3007
 Zen Lounge,BL9 0LL,53.5938,-2.3007
 NEW JEWEL OF BURY LTD,BL9 0LP,53.5941,-2.3023
 Pizzeria bella italia,BL9 0LQ,53.5936,-2.2988
 Rozzzy's Fusion Cafe,BL9 0ND,53.5953,-2.2928
+Tompsons fish and chips,BL9 0ND,53.5953,-2.2928
 Tim Hortons,BL9 0NY,53.5938,-2.2954
 McDonalds The Rock. Bury,BL9 0PB,53.5941,-2.2948
 COFFEE CREATIONS,BL9 0QF,53.5932,-2.2943
@@ -79,7 +88,6 @@ THE RED HALL HOTEL ( BURY) LTD,BL9 5NA,53.6351,-2.3012
 Park Farm Tearooms,BL9 5NP,53.6416,-2.3030
 Summerseat Garden Centre Limited,BL9 5QD,53.6273,-2.3178
 AL BOSCO RISTORANTE,BL9 5QP,53.6310,-2.3209
-Games Hub Bury ,BL9 6AS,53.5965,-2.2864
 The Waggon at Birtle,BL9 6UE,53.6048,-2.2389
 The Church Inn,BL9 6UH,53.6060,-2.2600
 H's Diner,BL9 7AJ,53.5960,-2.2855
@@ -105,6 +113,7 @@ Bem Brasil,M1 1FJ,53.4837,-2.2317
 Ezra & Gil ,M1 1FR,53.4821,-2.2330
 Allotment Bar & Restaurant,M1 1FY,53.4815,-2.2340
 Herd NQ,M1 1FY,53.4815,-2.2340
+The merchants hotel,M1 1HP,53.4814,-2.2348
 Bab,M1 1HR,53.4820,-2.2334
 Another Heart to Feed,M1 1JF,53.4828,-2.2346
 33 oldham street,M1 1JG,53.4823,-2.2361
@@ -182,6 +191,7 @@ OHAYO TEA,M1 4HT,53.4780,-2.2406
 Giovannis,M1 4JB,53.4797,-2.2389
 yang sing ltd,M1 4JY,53.4776,-2.2407
 Pin Wei Chinese Restaurant,M1 4LB,53.4779,-2.2415
+MERCURE MANCHESTER PICCADILLY HOTEL,M1 4PH,53.4798,-2.2378
 Giorgio,M1 4PY,53.4761,-2.2421
 New Yorker Diner,M1 4QU,53.4783,-2.2391
 Tops Restaurant Limited (T/A Tops restaurant),M1 4RJ,53.4769,-2.2417
@@ -200,6 +210,8 @@ Manchester Lola,M1 5LH,53.4747,-2.2504
 Archie's ,M1 5NH,53.4742,-2.2410
 Brickhouse Social,M1 5NP,53.4735,-2.2426
 FONT BAR,M1 5NP,53.4735,-2.2426
+Ensco 1160 Ltd,M1 5QA,53.4729,-2.2399
+Oodles Chinese,M1 5QA,53.4729,-2.2399
 Subway,M1 5QA,53.4729,-2.2399
 Casa Mexica,M1 5QS,53.4724,-2.2404
 Etci mehmet steak housse ,M1 5QS,53.4724,-2.2404
@@ -220,7 +232,6 @@ Abeja Tapas Bar,M1 7ED,53.4722,-2.2369
 Chatime MCR Ltd,M1 7ED,53.4722,-2.2369
 FUKU FOOD,M1 7ED,53.4722,-2.2369
 Golden Nugget,M1 7ED,53.4722,-2.2369
-Grandads sausages ,M1 7ED,53.4722,-2.2369
 Herbivorous,M1 7ED,53.4722,-2.2369
 Kbom Street Food ,M1 7ED,53.4722,-2.2369
 Mezze Bar & Kitchen,M1 7ED,53.4722,-2.2369
@@ -248,10 +259,10 @@ Hungery House,M12 4NN,53.4585,-2.2020
 Club 3000 Bingo Hyde Road,M12 5FL,53.4652,-2.1948
 Teppanyaki chinatown,M12 5GH,53.4579,-2.1910
 Universal Restaurant,M12 6JH,53.4707,-2.2143
-LOST OUT DESSERTS LTD ,M12 6LP,53.4749,-2.2125
 Safire Restaurant,M13 0HR,53.4608,-2.2216
 Seoul Kimchi Limited,M13 0HR,53.4608,-2.2216
 Subway,M13 0HR,53.4608,-2.2216
+Zeytoon Restaurant,M13 0HR,53.4608,-2.2216
 Subway,M13 0JN,53.4590,-2.2266
 Dixy Chicken,M13 0RQ,53.4558,-2.1996
 AL-AQSA TAKEAWAY LTD,M13 0RX,53.4556,-2.1983
@@ -285,8 +296,11 @@ Sanam Sweet House & Restaurant,M14 5AW,53.4544,-2.2242
 VENUS FOODS  LIMITED,M14 5DE,53.4542,-2.2116
 Oodles Noodles ,M14 5FT,53.4581,-2.2266
 Hadramout Restaurant ,M14 5SS,53.4553,-2.2246
+Hekayat limited ,M14 5SS,53.4553,-2.2246
+Camel One,M14 5SU,53.4554,-2.2249
 New York Eatery Ltd,M14 5SU,53.4554,-2.2249
 SA KOFTE LTD,M14 5SU,53.4554,-2.2249
+jacks steak house,M14 5SU,53.4554,-2.2249
 Al Taiba Bukhari,M14 5TB,53.4565,-2.2255
 Falafel House Ltd,M14 5TB,53.4565,-2.2255
 ICEBURG,M14 5TB,53.4565,-2.2255
@@ -298,6 +312,7 @@ moonlight,M14 5TB,53.4565,-2.2255
 Fresh Almalaky,M14 5TP,53.4570,-2.2265
 AL-JAZERA LIMITED,M14 5TQ,53.4558,-2.2257
 Adam Snacks Ltd,M14 5TQ,53.4558,-2.2257
+Falafel,M14 5TQ,53.4558,-2.2257
 Mughli Restaurat,M14 5TQ,53.4558,-2.2257
 Mylahore,M14 5TQ,53.4558,-2.2257
 SHERE KHAN ,M14 5TQ,53.4558,-2.2257
@@ -332,12 +347,14 @@ SNS Business Limited,M15 4RL,53.4733,-2.2480
 The Hideout Bar & Grill,M15 4RP,53.4736,-2.2475
 MCD Manchester LTD (McDonald's),M15 5AS,53.4612,-2.2474
 SALAD BOX,M15 5JP,53.4609,-2.2485
+Dixy Chicken ( Old Trafford),M15 5PQ,53.4597,-2.2561
 hulme subway ltd,M15 5TL,53.4676,-2.2491
 Hyatt Regency Manchester,M15 6PQ,53.4670,-2.2394
 The Old Abbey Taphouse,M15 6SY,53.4616,-2.2384
 The crumb cake company,M16 0AY,53.4476,-2.2699
 Ashiana Takeaway,M16 0BN,53.4509,-2.2723
 Jerk Junction,M16 0DZ,53.4496,-2.2740
+BANDO BOXES,M16 0LH,53.4613,-2.2767
 1887 Sports Bar & Cafe,M16 0PE,53.4615,-2.2789
 Signature Steakhouse at Trafford Hall Hotel,M16 0PE,53.4615,-2.2789
 Club 3000 Bingo Old Trafford,M16 0QW,53.4624,-2.2766
@@ -348,6 +365,7 @@ The Hungry Fish,M16 7GS,53.4584,-2.2676
 Noodle House,M16 8FA,53.4531,-2.2577
 Subway Whalley Range,M16 8FA,53.4531,-2.2577
 WaffleAway ,M16 8FA,53.4531,-2.2577
+Emma’s cafe,M17 1JE,53.4660,-2.3102
 Haute Dolci,M17 8AA,53.4657,-2.3498
 Pesto at the Trafford Centre,M17 8AA,53.4657,-2.3498
 SPUDULIKE TRAFFORD CENTRE,M17 8AA,53.4657,-2.3498
@@ -433,7 +451,9 @@ Michaels Coffee House,M2 7EA,53.4826,-2.2450
 Remedy Kitchen,M2 7EA,53.4826,-2.2450
 MCD Manchester LTD (McDonald's),M2 7HQ,53.4822,-2.2462
 Annies Restaurant,M2 7PE,53.4825,-2.2449
+Sandinista,M2 7PF,53.4822,-2.2450
 The Great Kathmandu,M20 1JQ,53.4286,-2.2409
+yasmin lebanese restaurant,M20 1JQ,53.4286,-2.2409
 Cocoa Cabana Limited ,M20 1LH,53.4277,-2.2420
 Namaste Nepal,M20 1LH,53.4277,-2.2420
 Proove ,M20 1LH,53.4277,-2.2420
@@ -472,6 +492,7 @@ Island Vibe,M21 0SD,53.4427,-2.2719
 North Star Deli Chorlton,M21 0SD,53.4427,-2.2719
 BREWSKI CHORLTON,M21 0UE,53.4422,-2.2737
 Amma’s Canteen ,M21 7GH,53.4302,-2.2671
+MAYURA FOODS LIMITED t/a SAI SPICE ,M21 7SP,53.4353,-2.2637
 Mayurafoods ltd t/a Sai spice ,M21 7SP,53.4353,-2.2637
 Olive & Thyme,M21 8AD,53.4417,-2.2761
 TUTKU CAFE,M21 8AD,53.4417,-2.2761
@@ -480,6 +501,7 @@ Jasmine Restaurant,M21 8AE,53.4415,-2.2767
 The Little Yeti,M21 8AG,53.4385,-2.2751
 coriander restautant 1 ltd,M21 8AG,53.4385,-2.2751
 Roti Food & Liquor,M21 8AN,53.4408,-2.2761
+FREDDYS CHICKEN AND PIZZA CHORLTON LTD,M21 8AU,53.4361,-2.2739
 KFC,M21 8AU,53.4361,-2.2739
 MCD Manchester LTD (McDonald's),M21 8AY,53.4368,-2.2728
 Globe Chorlton Ltd,M21 8AZ,53.4381,-2.2741
@@ -491,6 +513,7 @@ Subway Chorlton,M21 8ER,53.4347,-2.2736
 Yoga Cafe,M21 8HA,53.4320,-2.2687
 JJ's Desi Kitchen,M21 9AN,53.4424,-2.2805
 Jaipur Palace,M21 9AN,53.4424,-2.2805
+Saray restaurant ,M21 9AN,53.4424,-2.2805
 CROMA CHORLTON,M21 9AP,53.4428,-2.2802
 Chapati Cafe,M21 9AS,53.4427,-2.2789
 Cocoa Tree Ltd,M21 9AS,53.4427,-2.2789
@@ -513,6 +536,7 @@ The Middleton Cafe ,M24 1AJ,53.5494,-2.1984
 Cafe Meridia ,M24 1LS,53.5405,-2.1989
 Ocean Treasure Restaurant,M24 1SW,53.5349,-2.1777
 gingers food bar,M24 2EB,53.5509,-2.1743
+Lena's Kitchen,M24 2LY,53.5553,-2.1856
 Substation ltd,M24 4DB,53.5484,-2.1994
 McDonalds Middleton Gardens,M24 4DF,53.5493,-2.1993
 Subway Middleton Gardens,M24 4DF,53.5493,-2.1993
@@ -530,6 +554,7 @@ The Coffee Sack,M25 0PD,53.5243,-2.2761
 babbo,M25 0PD,53.5243,-2.2761
 TAO'S,M25 0RP,53.5242,-2.2762
 folk Prestwich,M25 1AA,53.5311,-2.2839
+Remal Restaurant,M25 1AD,53.5332,-2.2858
 The Hideaway Coffee Bar Ltd,M25 1AD,53.5332,-2.2858
 Tito's Asian Grill,M25 1AF,53.5321,-2.2849
 Cuckoo,M25 1AW,53.5306,-2.2834
@@ -563,6 +588,7 @@ The Bridge Cafe,M26 2SX,53.5612,-2.3219
 McDonald's Store 671 Radcliffe,M26 3DA,53.5573,-2.3287
 Cuppaccino Bistro,M26 3PD,53.5670,-2.3373
 Shahbaaz curry cottage limited ,M26 3WL,53.5690,-2.3553
+Pranzo,M26 4NN,53.5712,-2.3441
 Alberts Bar and Restaurant ,M27 0AA,53.5052,-2.3465
 Subway,M27 0BE,53.5071,-2.3527
 Swinton - Costa Coffee,M27 4BD,53.5119,-2.3379
@@ -578,6 +604,7 @@ Deli 654,M27 8FH,53.5184,-2.3325
 Bounce Central,M27 8SE,53.5150,-2.3247
 Balti Night Restaurant,M27 9LD,53.5111,-2.3541
 Moorside Farm,M27 9LD,53.5111,-2.3541
+TUNG FONG RESTAURANT,M28 2NL,53.5004,-2.3796
 The Delph Restaurant & Bar,M28 2NL,53.5004,-2.3796
 George's Dining Room and Bar,M28 2PD,53.4987,-2.3807
 Tempo,M28 2QT,53.5054,-2.3909
@@ -664,6 +691,7 @@ MRS. A'S KITCHEN LTD,M30 0DF,53.4847,-2.3351
 Mammazohra31 Ltd,M30 0LJ,53.4836,-2.3381
 Milton Manchester Hotel,M30 0NA,53.4843,-2.3391
 ECO FRESH LIMITED,M30 0QN,53.4815,-2.3570
+Balti brasserie ,M30 0WZ,53.4833,-2.3496
 Shop Sofia,M30 7BT,53.4776,-2.3668
 Gainz Manchester ,M30 7EY,53.4696,-2.3760
 Taste of east restaurant ,M30 7JA,53.4779,-2.3670
@@ -694,6 +722,7 @@ The Green Pepper,M33 5PN,53.4297,-2.3424
 The Orchard Cafe,M33 5PN,53.4297,-2.3424
 Mano a Bocca ,M33 7BS,53.4251,-2.3194
 VAO,M33 7BS,53.4251,-2.3194
+Jitrada Thai Restaurant,M33 7EB,53.4255,-2.3203
 Minikin Art Cafe,M33 7HF,53.4277,-2.3233
 The Perfect Match Bar & Restaurant,M33 7JN,53.4292,-2.3214
 The Bridge Pub & Dining,M33 7QH,53.4308,-2.3141
@@ -725,6 +754,7 @@ SUHAG (NW)LTD ,M34 7GR,53.4415,-2.0977
 Spice inn restaurant ,M34 7GR,53.4415,-2.0977
 DESI LOUNGE UK LIMITED,M35 0HB,53.5072,-2.1652
 Housing Units Limited,M35 9BA,53.5171,-2.1510
+M Ayaz t/a Sugar Shack,M35 9DQ,53.5139,-2.1518
 Daisy Nook Garden Centre Limited,M35 9WJ,53.5013,-2.1228
 Woodhouse Gardens,M35 9WN,53.5035,-2.1377
 Crazy Pedro's NQ,M4 1AA,53.4853,-2.2352
@@ -769,6 +799,7 @@ Cane & Grain  ,M4 1NA,53.4841,-2.2365
 Evelyn's Cafe Bar,M4 1NB,53.4832,-2.2354
 Oke Poke,M4 1PD,53.4828,-2.2359
 Pieminister Manchester - Church Street,M4 1PD,53.4828,-2.2359
+Jerk Shack,M4 1PN,53.4828,-2.2379
 SEED & CHERRY,M4 1PN,53.4828,-2.2379
 GINGER'S COMFORT EMPORIUM,M4 1PW,53.4825,-2.2362
 Cafe Metro,M4 1QB,53.4828,-2.2387
@@ -776,6 +807,7 @@ Britannia Sachas Hotel,M4 1SH,53.4822,-2.2369
 Hard Rock Café Manchester ,M4 2BS,53.4852,-2.2407
 PATEL FOODS LIMITED,M4 2BS,53.4852,-2.2407
 PEACHY KEENS,M4 2BS,53.4852,-2.2407
+Patel Foods Limited,M4 2BS,53.4852,-2.2407
 Wasabi Sushi (Printworks) Ltd,M4 2BS,53.4852,-2.2407
 eden Manchester,M4 2BS,53.4852,-2.2407
 Rollers Cafe Manchester Arndale,M4 2HU,53.4829,-2.2428
@@ -806,6 +838,7 @@ Döner Haus Manchester,M4 3TR,53.4851,-2.2430
 Gino D'acampo My Restaurant ,M4 3TR,53.4851,-2.2430
 Mowgli Street Food - Corn Exchange Manchester,M4 3TR,53.4851,-2.2430
 Tampopo,M4 3TR,53.4851,-2.2430
+Vapiano,M4 3TR,53.4851,-2.2430
 Cafe North,M4 4AA,53.4852,-2.2375
 Spice Lounge,M4 4AA,53.4852,-2.2375
 Shudehill Hotel Company Limited,M4 4AF,53.4858,-2.2362
@@ -813,6 +846,7 @@ The Pasta Factory,M4 4AN,53.4859,-2.2370
 Bun & Slice,M4 4ES,53.4921,-2.2409
 Park Inn by Radisson Manchester,M4 4EW,53.4895,-2.2411
 GRUB,M4 4HF,53.4898,-2.2383
+thesparrows,M4 4HF,53.4898,-2.2383
 KBK Stores Ltd ,M4 5AB,53.4836,-2.2312
 Soul Coffee,M4 5AB,53.4836,-2.2312
 Viet Shack Restaurant,M4 5AB,53.4836,-2.2312
@@ -848,7 +882,6 @@ Blueeyedpanda,M4 6JA,53.4835,-2.2286
 Just Between Friends Ancoats,M4 6JG,53.4850,-2.2261
 Ancoats - Costa Coffee,M4 7DB,53.4792,-2.2228
 Hetherington's Cafe Bar,M4 7DS,53.4798,-2.2213
-Prime Pizza,M40 0JA,53.5234,-2.1699
 Papu’s Deli,M40 0JB,53.5239,-2.1698
 McDonalds Failsworth Oldham Rd,M40 2FU,53.5035,-2.1796
 Gossip,M40 3LN,53.5205,-2.1672
@@ -857,6 +890,7 @@ Vermilion,M40 8AD,53.4934,-2.2042
 MMTV Diner,M40 8EF,53.4920,-2.2110
 Billy's Butties,M40 8NQ,53.5051,-2.2088
 TK's Chicken &Pizza,M40 8RE,53.5004,-2.2155
+Alayna Trading Ltd t/a The Sheridan,M40 8RR,53.4955,-2.2128
 IFEOMA AFRICAN RESTAURANT,M40 9JG,53.5129,-2.1963
 Lilys at Eden ,M41 0NA,53.4491,-2.3547
 Urmston - Costa Coffee,M41 0NA,53.4491,-2.3547
@@ -867,6 +901,7 @@ The Cheese Court,M41 0TS,53.4491,-2.3529
 Mulino ,M41 0TY,53.4496,-2.3521
 Astoria Bar and Restaurant ,M41 5AA,53.4486,-2.3546
 subway,M41 5AA,53.4486,-2.3546
+Deccan Manchester ltd,M41 5AB,53.4485,-2.3566
 ADRAK RESTAURANT ,M41 5AD,53.4484,-2.3582
 The Meadows Coffee Shop,M41 6HT,53.4421,-2.3849
 Brewchimp Flixton,M41 6QT,53.4445,-2.3844
@@ -973,6 +1008,7 @@ The cafe,M9 0RA,53.5338,-2.2224
 McDonalds Harpurhey,M9 4DH,53.5126,-2.2119
 Subway,M9 4DH,53.5126,-2.2119
 easycoffee,M9 4DH,53.5126,-2.2119
+The Moston,M9 4PD,53.5081,-2.2021
 Spice Cabin,M9 5RD,53.5059,-2.2162
 Baytree Indian Restaurant ,M9 6FQ,53.5308,-2.2092
 Fresh fuel bar,M9 7FW,53.5231,-2.2160
@@ -985,6 +1021,7 @@ RHODE ISLAND COFFEE LTD,OL1 1HD,53.5411,-2.1149
 Rollers Cafe Oldham,OL1 1HD,53.5411,-2.1149
 subway,OL1 1HE,53.5411,-2.1149
 Piri Piri,OL1 1HH,53.5401,-2.1143
+TORONTO 57 LTD,OL1 1HH,53.5401,-2.1143
 Clean Plate Kitchen,OL1 1HU,53.5401,-2.1148
 DDLP LTD,OL1 1JA,53.5418,-2.1128
 square cafe and deli ltd,OL1 1JA,53.5418,-2.1128
@@ -1006,6 +1043,7 @@ The Smokehouse (Oldham) Limited t/as Smoke Yard,OL1 3AT,53.5423,-2.1116
 greenroom catering ltd,OL1 3BB,53.5430,-2.1140
 LEVERS FISH AND CHIPS,OL1 3BG,53.5430,-2.1142
 Pepes Piri Piri,OL1 3ST,53.5424,-2.1077
+THE DARK KITCHEN,OL1 3SW,53.5427,-2.1085
 Stocco Restaurant,OL1 3TQ,53.5423,-2.1060
 The Black Ladd,OL1 4ST,53.5774,-2.0641
 Grains Bar Hotel limited,OL1 4SX,53.5739,-2.0573
@@ -1017,6 +1055,7 @@ Possabilities Social Lounge,OL10 4SY,53.5961,-2.2332
 Le Latte ,OL11 1DN,53.6117,-2.1543
 Chaiiwala Rochdale,OL11 1EB,53.6104,-2.1568
 Cuckoos Cafe & Grill,OL11 1EB,53.6104,-2.1568
+NEW YORK CHICKEN LIMITED,OL11 1EB,53.6104,-2.1568
 Jungle Grill,OL11 1EF,53.6119,-2.1597
 Shish cafe ,OL11 1HH,53.6100,-2.1583
 McDonalds Sandbrook Park,OL11 1RY,53.6024,-2.1634
@@ -1031,16 +1070,19 @@ The Royal Toby Hotel,OL11 3HF,53.5984,-2.1802
 THE PLOUGH,OL11 3LW,53.6025,-2.1876
 The Hare and Hounds,OL11 4AA,53.6073,-2.2079
 The Elephant & Castle,OL11 4AU,53.6106,-2.1969
+Platos Y Bebidas,OL11 4DQ,53.6126,-2.1883
 Suburb cafe,OL11 4DQ,53.6126,-2.1883
 Sweet coffee ,OL11 5AQ,53.6223,-2.1887
 The Grapes,OL11 5PN,53.6131,-2.2090
 La Dolce Vita,OL11 5QY,53.6147,-2.2072
+Spicy kitchen,OL12 0JJ,53.6243,-2.1556
 TREE & TOAD LTD,OL12 0NU,53.6195,-2.1603
 Ruchi Indian Restaurant ,OL12 0RD,53.6246,-2.1561
 THE OXFORD(ROCHDALE)LTD,OL12 0TB,53.6368,-2.1690
 Pepe's Piri Piri Rochdale,OL12 0UW,53.6223,-2.1526
 The Healey ,OL12 6LW,53.6311,-2.1732
 Eastern Restaurant & Takeaway,OL12 6PE,53.6191,-2.1635
+alis chippy ,OL12 6PJ,53.6203,-2.1675
 Subway Aldi Rochdale,OL12 6XD,53.6147,-2.1674
 NUTTERS RESTAURANT,OL12 7TT,53.6319,-2.2327
 Owd Betts,OL12 7TY,53.6406,-2.2590
@@ -1052,9 +1094,11 @@ Riva Italian Limited,OL15 0DQ,53.6315,-2.1028
 The Olive & Pickle,OL15 0DQ,53.6315,-2.1028
 Back2Work Kitchen Downstairs,OL15 8AU,53.6437,-2.0978
 Back2Work Kitchen,OL15 8AU,53.6437,-2.0978
+Toppo’s Bar & Kitchen ,OL15 8DA,53.6438,-2.0944
 Autumn Holdings Limited ,OL15 8NL,53.6391,-2.1168
 Rebecca's coffee shop,OL15 9AB,53.6442,-2.0965
 The Cherry tree cafe ,OL15 9AE,53.6442,-2.0952
+Bay of bengal(Rochdale LTD),OL15 9DQ,53.6451,-2.0931
 The Hairy Bear Beer Co Limited,OL15 9HL,53.6484,-2.1005
 LITTLEBOROUGH CRICKET CLUB,OL15 9LD,53.6492,-2.0989
 Cuppaccino Littleborough Ltd,OL15 9RP,53.6474,-2.0993
@@ -1069,6 +1113,7 @@ Vicolos Ltd,OL16 1JG,53.6175,-2.1576
 Knockout Kitchen Ltd,OL16 1JJ,53.6177,-2.1579
 Russells of Rochdale,OL16 1JZ,53.6185,-2.1556
 Gumboo Hotels Limited,OL16 1NJ,53.6158,-2.1574
+Rajas chicken grill rochdale limited ,OL16 1PN,53.6139,-2.1543
 Funkie Fusion Limited,OL16 1RE,53.6167,-2.1560
 the castle cafe,OL16 1SR,53.6156,-2.1509
 PLAYERS ROCHDALE,OL16 1UA,53.6146,-2.1530
@@ -1132,7 +1177,7 @@ Kobe Coffee ltd,OL3 6HR,53.5467,-2.0070
 Sorella Restaurant Limited,OL3 6HR,53.5467,-2.0070
 THE WAGGON INN,OL3 6HR,53.5467,-2.0070
 Weaver and Wilde,OL3 6HR,53.5467,-2.0070
-Muse,OL3 6HS,53.5472,-2.0070
+MUSE,OL3 6HS,53.5472,-2.0070
 The Old Library Garden Cafe and Bar,OL3 6HS,53.5472,-2.0070
 Saddleworth golf club,OL3 6LT,53.5470,-2.0105
 Church Inn Limited,OL3 6LW,53.5541,-1.9882
@@ -1152,6 +1197,7 @@ THE ROEBUCK RESTAURANT AND INN LIMITED,OL4 3RB,53.5579,-2.0613
 The Old Original,OL4 3RX,53.5540,-2.0419
 The three crowns at scouthead,OL4 4AT,53.5474,-2.0548
 The Spinners Arms,OL4 4BS,53.5448,-2.0532
+THE FARRARS ARMS,OL4 4HL,53.5379,-2.0214
 The White Hart ,OL4 4JJ,53.5350,-2.0409
 Red Lion,OL4 4LY,53.5377,-2.0710
 Peels Arms,OL4 4RE,53.5431,-2.0603
@@ -1174,6 +1220,7 @@ Cafe 10,OL6 6BX,53.4890,-2.0917
 Carribean kitchen ,OL6 6BZ,53.4892,-2.0925
 Detox Juice Bar,OL6 6BZ,53.4892,-2.0925
 Florence Italian Cafe ,OL6 6BZ,53.4892,-2.0925
+JJs Little Kitchen  (Stall 74),OL6 6BZ,53.4892,-2.0925
 Nat's Bombay Kitchen,OL6 6BZ,53.4892,-2.0925
 Tarps Filipino Street Food,OL6 6BZ,53.4892,-2.0925
 The Fusion Wok,OL6 6BZ,53.4892,-2.0925
@@ -1195,15 +1242,18 @@ PINOCCHIOS RESTAURANT,OL6 7SQ,53.4869,-2.0976
 Notcutts Ashton Park,OL6 7UB,53.4827,-2.1237
 Cockfields Farm Park,OL6 8AR,53.5175,-2.0789
 AMAANI RESTAURANT ,OL6 8BQ,53.5052,-2.0776
+The Junction Inn,OL6 9BX,53.5036,-2.0579
 Heroes Restaurant & Bar,OL6 9DQ,53.4979,-2.0661
 Ashton Golf Club,OL6 9HT,53.5041,-2.0718
 Smith's Cafe and takeaway ,OL7 0AU,53.4880,-2.1087
 Subway Maynestone,OL7 0DA,53.4829,-2.1106
 McDonalds Snipe Retail Park,OL7 0DN,53.4774,-2.1247
 Pasta&Basta ,OL7 0LD,53.4819,-2.1068
+Serrano's,OL7 0LD,53.4819,-2.1068
 McDonalds Ashton Moss,OL7 0PG,53.4890,-2.1116
 Zing & Zest Indian Restaurant ,OL7 9AH,53.4921,-2.0993
 Dog & Pheasant.,OL7 9PQ,53.5052,-2.1056
+Georgia Fried Chicken ,OL8 1DP,53.5400,-2.1168
 Shimlas Restaurant,OL8 1DP,53.5400,-2.1168
 Koffee Kingdom,OL8 1FR,53.5307,-2.1098
 Oldham Greenhill Community Sports & recreation Club,OL8 1JR,53.5346,-2.1130
@@ -1212,7 +1262,6 @@ Aminah Catering (UK) Ltd,OL8 1QN,53.5291,-2.1125
 MaliK Brothers Caterers Ltd,OL8 1QN,53.5291,-2.1125
 The famous king George ,OL8 3AA,53.5248,-2.1201
 Kilroy's Kitchen,OL8 3AB,53.5235,-2.1212
-Samir Ahmed,OL8 3BD,53.5229,-2.1226
 Smokies Park Hotel,OL8 3HX,53.5115,-2.1071
 Sul Lago Restaurant Ltd,OL8 3NZ,53.5078,-2.1291
 247Hotel.com,OL8 4AS,53.5367,-2.1283
@@ -1230,6 +1279,7 @@ FOOD JUNKIE,OL9 6QA,53.5436,-2.1289
 Subway,OL9 6QB,53.5447,-2.1288
 the grill,OL9 6QB,53.5447,-2.1288
 Indian Ocean Restaurant Oldham,OL9 6QJ,53.5472,-2.1291
+Dini Catering,OL9 7ES,53.5268,-2.1357
 THE COLLIERS ARMS,OL9 7JQ,53.5310,-2.1404
 ECO FRESH LIMITED,OL9 8AP,53.5286,-2.1572
 The Victoria Hotel,OL9 8DE,53.5222,-2.1580
@@ -1248,11 +1298,13 @@ Gracie’s Bar and Kitchen Ltd ,SK14 2EL,53.4521,-2.0790
 Maha Restaurant Ltd,SK14 2ND,53.4516,-2.0762
 Hyde - Costa Coffee,SK14 2QU,53.4514,-2.0777
 Matteos catering ltd at Oaklands Hall,SK14 3DE,53.4507,-2.0590
+Oaklands Masonic Club,SK14 3DE,53.4507,-2.0590
 Aqua Nurture,SK14 5BS,53.4398,-2.0788
 The Buxton Inn,SK14 5NG,53.4393,-2.0677
 The Grapes Restaurant ,SK14 5RU,53.4364,-2.0733
 Lymefield Garden Centre & Tea Rooms,SK14 6AG,53.4383,-2.0072
 DUE AMICI,SK14 8JA,53.4635,-1.9904
+Cosy Cafe,SK14 8LN,53.4619,-1.9945
 spice bistro ,SK14 8LN,53.4619,-1.9945
 Gladstone bistro,SK15 1AP,53.4830,-2.0594
 La Lupa,SK15 1JP,53.4838,-2.0542

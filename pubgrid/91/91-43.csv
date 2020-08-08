@@ -27,11 +27,13 @@ Hotel du Vin & Bistro Edinburgh,EH1 1EZ,55.9459,-3.1898
 Boteco do Brasil,EH1 1HB,55.9463,-3.1892
 Paradise Palms,EH1 1HB,55.9463,-3.1892
 BURRITO N SHAKE,EH1 1HN,55.9489,-3.1872
+Mono Restaurant,EH1 1HN,55.9489,-3.1872
 BIBLOS,EH1 1HR,55.9482,-3.1871
 OX 184,EH1 1JJ,55.9488,-3.1881
 Stramash,EH1 1JQ,55.9486,-3.1873
 The Three Sisters,EH1 1JS,55.9484,-3.1893
 Let Me Eat Too ,EH1 1JY,55.9477,-3.1938
+Carnivore,EH1 1LL,55.9489,-3.1867
 Currynrice,EH1 1LL,55.9489,-3.1867
 Noodle n rice,EH1 1LL,55.9489,-3.1867
 Roti Edinburgh,EH1 1LL,55.9489,-3.1867
@@ -74,6 +76,7 @@ Terra Marique ,EH1 2EL,55.9471,-3.2026
 Berties Restaurant & Bar ,EH1 2HE,55.9485,-3.1939
 Mariachi Restaurant,EH1 2HE,55.9485,-3.1939
 Howies Restaurant,EH1 2HG,55.9488,-3.1933
+Auldjock Kitchen ,EH1 2HH,55.9482,-3.1943
 Apex City of Edinburgh,EH1 2HJ,55.9475,-3.1948
 Pirlous,EH1 2HJ,55.9475,-3.1948
 Apex Grassmarket,EH1 2HS,55.9471,-3.1966
@@ -146,6 +149,7 @@ New Town Deli,EH1 3SA,55.9587,-3.1905
 Pickles of Broughton Street,EH1 3SA,55.9587,-3.1905
 The Broughton,EH1 3SA,55.9587,-3.1905
 EDENS KITCHEN,EH1 3SB,55.9580,-3.1896
+Fhior,EH1 3SB,55.9580,-3.1896
 La'Telve limited ,EH10 4AX,55.9294,-3.2093
 Khotang ltd T/A as Gurkha ,EH10 4BX,55.9310,-3.2102
 NICE CURRIES LTD,EH10 4BY,55.9320,-3.2103
@@ -156,7 +160,6 @@ La Barantine Limited,EH10 4DF,55.9361,-3.2096
 Project Coffee,EH10 4DF,55.9361,-3.2096
 Decanter Winery & Dinery,EH10 4DG,55.9357,-3.2096
 Montpeliers,EH10 4DG,55.9357,-3.2096
-Seeds For The Soul ,EH10 4DG,55.9357,-3.2096
 Artisan Cheesecakes Edinburgh ,EH10 4ES,55.9372,-3.2074
 Cuckoo's Bakery,EH10 4ES,55.9372,-3.2074
 Chop House Bruntsfield ,EH10 4HG,55.9377,-3.2066
@@ -165,6 +168,7 @@ Bruntsfield Hotel,EH10 4HH,55.9383,-3.2058
 Thai Lemongrass Restaurant,EH10 4HJ,55.9394,-3.2050
 Castello Coffee,EH10 4HP,55.9396,-3.2042
 The Golf Tavern,EH10 4HR,55.9399,-3.2038
+Berger & Stak,EH10 4HS,55.9409,-3.2039
 Harajuku Kitchen,EH10 4HS,55.9409,-3.2039
 Honeycomb & Co ,EH10 4NP,55.9359,-3.2105
 Hummus Edinburgh ltd,EH10 4QN,55.9266,-3.2095
@@ -176,6 +180,8 @@ Mia Italian Kitchen,EH10 5HX,55.9259,-3.2095
 The Hermitage,EH10 6AA,55.9245,-3.2097
 Miao's Kitchen,EH10 6AQ,55.9219,-3.2110
 pie not bistro ,EH10 6AQ,55.9219,-3.2110
+LM Edinburgh 1 Limited t/a Braid Hills Hotel,EH10 6JD,55.9169,-3.2126
+Mortonhall golf club,EH10 6PB,55.9104,-3.2092
 CHARWOOD,EH10 6QJ,55.9047,-3.2068
 Cobbs Cafe Craigdon Mountain Sports,EH10 7BJ,55.8973,-3.2041
 Swanston Farm Ltd,EH10 7DS,55.8944,-3.2176
@@ -194,6 +200,7 @@ First Coast Ltd,EH11 2AB,55.9435,-3.2192
 La Casa Tapas & Mezze,EH11 2AB,55.9435,-3.2192
 Edinburgh River Life Limited You ,EH11 2AX,55.9440,-3.2190
 Mia Italian Kitchen Dalry,EH11 2AX,55.9440,-3.2190
+Los Amigos,EH11 2BQ,55.9452,-3.2172
 Xiangbala hotpot,EH11 2BZ,55.9442,-3.2179
 Locanda De Gusti,EH11 2DW,55.9437,-3.2198
 B&D's Kitchen,EH11 2ES,55.9406,-3.2246
@@ -220,6 +227,7 @@ St. Andrews Restaurant ,EH15 2AT,55.9520,-3.1104
 Kings Manor Hotel,EH15 2NP,55.9444,-3.0958
 NA Edinburgh Ltd T/A Subway,EH15 3AR,55.9388,-3.1032
 Cafe-42,EH15 3DZ,55.9419,-3.1085
+cafe-42,EH15 3DZ,55.9419,-3.1085
 Cobbs Cafe Fort Kinnaird,EH15 3HR,55.9320,-3.1054
 KFC,EH15 3HR,55.9320,-3.1054
 JEDCO Ltd T/A Subway,EH15 3RD,55.9351,-3.1057
@@ -235,6 +243,7 @@ Laird & Dog,EH18 1NA,55.8833,-3.1151
 Luci's Restaurant and Cocktail bar ,EH18 1ND,55.8840,-3.1150
 Beetroot Bar and Grill,EH19 3HB,55.8747,-3.1065
 Dalhousie Castle,EH19 3JB,55.8608,-3.0825
+ibis Styles Edinburgh St Andrew Square,EH2 1AU,55.9546,-3.1948
 99 Hanover Street,EH2 1DJ,55.9546,-3.1975
 Six By Nico (Edinburgh) Limited,EH2 1DJ,55.9546,-3.1975
 Tani Modi,EH2 1DJ,55.9546,-3.1975
@@ -265,12 +274,13 @@ The Voodoo Rooms,EH2 2AA,55.9537,-3.1905
 Harvey Nichols Edinburgh,EH2 2AD,55.9542,-3.1915
 Amarone Restaurant (Edinburgh),EH2 2AF,55.9537,-3.1943
 Hotel Indigo Edinburgh Princes Street,EH2 2AN,55.9533,-3.1911
+fountain cafe,EH2 2AN,55.9533,-3.1911
 KFC,EH2 2AU,55.9535,-3.1913
 Saigon Saigon ,EH2 2AZ,55.9534,-3.1919
 Dishoom Edinburgh,EH2 2BD,55.9535,-3.1922
 GAUCHO Edinburgh,EH2 2BD,55.9535,-3.1922
 THE REFINERY - ST ANDREW SQUARE,EH2 2BD,55.9535,-3.1922
-Mercure Edinburgh Princes Street Hotel,EH2 2DG,55.9527,-3.1945
+MERCURE EDINBURGH CITY PRINCES STREET HOTEL,EH2 2DG,55.9527,-3.1945
 Scott's on Princes Street,EH2 2DG,55.9527,-3.1945
 Sir Walter's Cafe in the Gardens,EH2 2EJ,55.9523,-3.1933
 The Scottish Cafe and Restaurant,EH2 2EL,55.9518,-3.1964
@@ -292,6 +302,7 @@ The Dome Bar & Grill,EH2 2PF,55.9535,-3.1960
 Cuckoo's Bakery,EH2 3AA,55.9517,-3.2010
 Hibiki Japanese Bar & Restaurant,EH2 3BG,55.9531,-3.2034
 Time 4 Thai,EH2 3BG,55.9531,-3.2034
+Tonic,EH2 3BN,55.9529,-3.2040
 Fazenda Rodizio Bar & Grill,EH2 3DF,55.9523,-3.2023
 Chaophraya,EH2 3DN,55.9521,-3.2029
 Golden Dragon Restaurant Ltd,EH2 3DN,55.9521,-3.2029
@@ -329,6 +340,7 @@ Noodlenrice express,EH2 4PG,55.9505,-3.2095
 Daneli’s Deli,EH2 4QS,55.9511,-3.2098
 Indigo Yard,EH2 4QZ,55.9512,-3.2096
 at pizza ,EH2 4QZ,55.9512,-3.2096
+QuattroZero,EH2 4RA,55.9507,-3.2090
 Cityroomz ,EH2 4RG,55.9497,-3.2085
 BARBURRITO,EH2 4RN,55.9501,-3.2092
 Starbucks,EH2 4RT,55.9497,-3.2099
@@ -344,12 +356,14 @@ LOANHEAD RESTAURANT LTD T/A The Radhuni,EH20 9RE,55.8783,-3.1493
 Bistro at the Brunton,EH21 6AF,55.9439,-3.0571
 lanna thai,EH21 6AG,55.9426,-3.0557
 East Coast ,EH21 6AN,55.9441,-3.0604
+Gurkha Bar & Restaurant,EH21 6AS,55.9437,-3.0603
 Ravelston House,EH21 6BH,55.9438,-3.0641
 Ship Inn,EH21 6BH,55.9438,-3.0641
 The Musselburgh Golf Club Limited,EH21 6SA,55.9311,-3.0597
 Jumpin Edinburgh,EH21 6SY,55.9383,-3.0780
 S. Luca Dairy Ice Cream Musselburgh,EH21 7AG,55.9431,-3.0465
 BUENOS AIRES CAFE & GRILL,EH21 7BX,55.9428,-3.0484
+shish mahal tandori,EH21 7BZ,55.9431,-3.0490
 Muss Bar & Kitchen,EH21 7DA,55.9429,-3.0502
 Miros Village,EH21 7DD,55.9425,-3.0518
 SUBWAY MUSSELBURGH,EH21 7DD,55.9425,-3.0518
@@ -365,6 +379,7 @@ Beijing Banquet,EH22 1PJ,55.9105,-3.1093
 Restoration Yard Limited,EH22 1ST,55.8976,-3.0857
 The Dean Tavern,EH22 4NA,55.8691,-3.0688
 The Sun Inn,EH22 4TR,55.8728,-3.0782
+Memories of India,EH23 4LZ,55.8569,-3.0650
 Coronation Restaurant,EH23 4TT,55.8452,-3.0505
 The Original Rosslyn Inn,EH25 9LE,55.8572,-3.1640
 Chapel Cross Guesthouse,EH25 9LH,55.8561,-3.1667
@@ -379,6 +394,7 @@ Kenji Sushi,EH3 5AL,55.9577,-3.2067
 The stockbridge restaurant ,EH3 5AL,55.9577,-3.2067
 Bells Diner,EH3 5AN,55.9576,-3.2074
 The Antiquary,EH3 5AQ,55.9582,-3.2056
+Fortitude Stockbridge Ltd,EH3 5AZ,55.9591,-3.2070
 New Town Deli,EH3 5DH,55.9604,-3.2015
 Cuckoo's Bakery,EH3 5DQ,55.9600,-3.2011
 Blue Bear Cafe Ltd,EH3 5EA,55.9621,-3.2000
@@ -419,6 +435,7 @@ Froth and flame,EH3 8EB,55.9463,-3.2120
 Mumbai Diners Club,EH3 8HP,55.9474,-3.2140
 NoodlenRice,EH3 9AA,55.9452,-3.2049
 Doubletree By Hilton Edinburgh City Centre,EH3 9AF,55.9457,-3.2044
+Tasty Buns Bakery,EH3 9AH,55.9460,-3.2025
 Taza in Town,EH3 9AH,55.9460,-3.2025
 Bentoya,EH3 9AL,55.9460,-3.2044
 Fatty Owls,EH3 9AL,55.9460,-3.2044
@@ -462,6 +479,7 @@ INTERCONTINENTAL FOODS (SCOTLAND) LTD,EH3 9LH,55.9414,-3.2037
 Chaskaa Indian Restaurant ,EH3 9LJ,55.9413,-3.2032
 The Treehouse Cafe,EH3 9LJ,55.9413,-3.2032
 Thistles,EH3 9LY,55.9435,-3.2040
+nutans,EH3 9LZ,55.9429,-3.2040
 subway,EH3 9LZ,55.9429,-3.2040
 DUMPLING OF CHINA,EH3 9NA,55.9423,-3.2038
 koshis ltd tradingf as The everest  restaurant,EH3 9NA,55.9423,-3.2038
@@ -478,8 +496,10 @@ Cadell's Cafe Cockenzie House and Gardens,EH32 0HY,55.9695,-2.9637
 Longniddry Inn,EH32 0NF,55.9746,-2.8945
 PRESTOUNGRANGE GOTHENBURG ,EH32 9BE,55.9573,-2.9913
 Brig Inn,EH33 1AL,55.9448,-2.9575
+Giancarlo's Italian Restaurant,EH33 1LW,55.9433,-2.9508
 the juniperlea inn,EH37 5TE,55.8324,-2.8884
 The House of Soutra,EH37 5TF,55.8241,-2.8743
+The Stair Arms Hotel,EH37 5TX,55.8715,-2.9798
 Pure Gray Cafe,EH4 1BQ,55.9587,-3.2235
 The Raeburn,EH4 1HG,55.9595,-3.2147
 BAR ROLLO Stockbridge,EH4 1HH,55.9593,-3.2138
@@ -491,6 +511,7 @@ THE KILTED KITCHEN,EH4 1HX,55.9589,-3.2123
 The Scran and Scallie Limited,EH4 1JH,55.9590,-3.2141
 No 33,EH4 1LR,55.9587,-3.2095
 Soderberg,EH4 1LU,55.9583,-3.2091
+Sabor Criollo,EH4 1LY,55.9581,-3.2095
 Britannia Edinburgh Hotel,EH4 3DG,55.9498,-3.2230
 Herringbone Goldenacre,EH5 3NP,55.9715,-3.2065
 The Bonnington,EH6 5BE,55.9694,-3.1842
@@ -520,6 +541,7 @@ Drill Hall Arts Cafe,EH6 8RG,55.9646,-3.1739
 305.kitchen,EH6 8SA,55.9647,-3.1764
 La Casa,EH6 8SA,55.9647,-3.1764
 La Favorita Restaurant ,EH6 8SA,55.9647,-3.1764
+Elmrow cafe ltd,EH7 4AA,55.9585,-3.1835
 Joseph Pearces Bar,EH7 4AA,55.9585,-3.1835
 The Elm Bar Limited T/A Jeremiah's Tap Room,EH7 4AA,55.9585,-3.1835
 Valvona & Crolla Ltd,EH7 4AA,55.9585,-3.1835
@@ -554,11 +576,14 @@ The White Horse,EH8 8AA,55.9505,-3.1835
 Smoov Gelato Coffee,EH8 8AB,55.9506,-3.1830
 Holyrood 9A,EH8 8AE,55.9494,-3.1827
 Luscious Edinburgh,EH8 8BQ,55.9510,-3.1829
+Wedgwood The Restaurant,EH8 8BQ,55.9510,-3.1829
 Kilderkin,EH8 8BT,55.9522,-3.1771
 The Canongate Coffee Company,EH8 8DD,55.9515,-3.1789
 Baskin Robbins,EH8 8FQ,55.9496,-3.1813
+Chop House Market Street,EH8 8FS,55.9513,-3.1845
 Loudons Ltd,EH8 8FT,55.9512,-3.1822
 Union Brew Lab,EH8 9AA,55.9470,-3.1866
+Teviot Row House,EH8 9AJ,55.9449,-3.1886
 CITY RESTAURANT,EH8 9BE,55.9470,-3.1862
 Ransacked Loaded,EH8 9BJ,55.9459,-3.1866
 BEIRUT ,EH8 9BU,55.9457,-3.1864
@@ -590,6 +615,7 @@ The Abbey Bar,EH8 9PP,55.9397,-3.1796
 The Southern,EH8 9PR,55.9406,-3.1810
 Los Argentinos,EH8 9PZ,55.9389,-3.1800
 Blonde Restaurant,EH8 9QR,55.9427,-3.1796
+the high dive,EH8 9QY,55.9420,-3.1791
 Thai2Go,EH8 9RU,55.9446,-3.1814
 Kamasutra Indian Restaurant Edinburgh,EH8 9TX,55.9473,-3.1849
 The Birchwood,EH9 1AQ,55.9351,-3.1945
@@ -598,10 +624,13 @@ Black Ivy,EH9 1DU,55.9377,-3.2029
 Victor Hugo,EH9 1LP,55.9393,-3.1874
 The Old Bell Inn,EH9 1PH,55.9357,-3.1795
 Pataka,EH9 1PN,55.9355,-3.1799
+Indaba Deli,EH9 1QF,55.9384,-3.1812
 The Urban Fox,EH9 1QF,55.9384,-3.1812
 Capital Coffee EH9 Ltd TA August_21,EH9 1QG,55.9377,-3.1807
 Southpour,EH9 1QR,55.9388,-3.1787
 Voujon Restaurant,EH9 1QW,55.9380,-3.1781
 Korean BBQ,EH9 1SH,55.9375,-3.1783
+Beetroot Sauvage,EH9 1SX,55.9346,-3.1787
 Number 1 The Grange,EH9 1UH,55.9367,-3.1811
+Earl grange cafe,EH9 2NN,55.9330,-3.1787
 smith's deli,EH9 3AA,55.9304,-3.1760

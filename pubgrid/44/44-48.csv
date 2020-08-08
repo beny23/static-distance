@@ -1,9 +1,9 @@
 name,postcode,lat,lon
-Corner cafe,DY10 1AE,52.3846,-2.2482
 Love Food Italia,DY10 1AF,52.3846,-2.2477
 Delightful Desserts,DY10 1BL,52.3866,-2.2482
 Rees Cafe,DY10 1BT,52.3865,-2.2484
 BISTROT PIERRE - KIDDERMINSTER,DY10 1BY,52.3864,-2.2496
+Bistrot Pierre - Kidderminster,DY10 1BY,52.3864,-2.2496
 WALL 2 WALL,DY10 1BY,52.3864,-2.2496
 The Swan,DY10 1DE,52.3873,-2.2487
 Cafe pacifico Kidderminster limited,DY10 1EJ,52.3874,-2.2481
@@ -65,6 +65,7 @@ severn tandoori,DY13 8UX,52.3387,-2.2821
 Gingers Cafe ,DY13 9EA,52.3400,-2.2782
 Fidoras bistro bar,DY13 9EQ,52.3392,-2.2800
 The Angel Inn,DY13 9EW,52.3365,-2.2791
+The bayhorse ,DY13 9JA,52.3415,-2.2595
 the rock tavern,DY13 9LR,52.3439,-2.2603
 The Old Rose and Crown ,DY13 9PA,52.3346,-2.2673
 FLAVOUR E AZOM,DY13 9PZ,52.3296,-2.2631
@@ -78,9 +79,11 @@ The Royal Fountain Inn ,DY14 8BS,52.3789,-2.4799
 Balti Bar,DY14 8DG,52.3784,-2.4825
 The Lamp Restaurant ,DY14 8DG,52.3784,-2.4825
 The Spice Empire,DY14 8DG,52.3784,-2.4825
+Cleobury Cafe,DY14 8DQ,52.3787,-2.4826
 The Talbot Hotel,DY14 8DQ,52.3787,-2.4826
 The Larch Barn Cafe and Plant Centre ,DY14 8JF,52.3950,-2.4618
 The Fighting Cocks,DY14 8TZ,52.4417,-2.4848
+Colliers arms,DY14 9HA,52.3484,-2.4040
 colliers arms,DY14 9HA,52.3484,-2.4040
 The Sun and Slipper ,DY14 9JL,52.3412,-2.4566
 PLOUGH AT FAR FOREST,DY14 9TE,52.3677,-2.3988
@@ -145,5 +148,4 @@ Spats coffee house,WR9 8ES,52.2681,-2.1468
 Thai at Bullocks Ltd,WR9 8ES,52.2681,-2.1468
 CAFE MORSO DROITWICH LTD,WR9 8HE,52.2679,-2.1504
 Muffin Break,WR9 8HE,52.2679,-2.1504
-Gardeners Arms,WR9 8LU,52.2705,-2.1483
 King Kebab,WR9 8QS,52.2673,-2.1521

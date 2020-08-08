@@ -82,6 +82,7 @@ Maxis,RG12 1RF,51.4168,-0.7674
 SAMBAVI PETROLEUM LIMITED,RG12 2TB,51.4150,-0.7333
 Balti King,RG12 7BN,51.4047,-0.7561
 COPPID BEECH HOTEL,RG12 8TF,51.4152,-0.7901
+SUBWAY,RG12 9TZ,51.4091,-0.7270
 Sultan Balti Palace,RG40 1AL,51.4101,-0.8345
 PAD THAI/ RED LION,RG40 1AP,51.4098,-0.8337
 Piccolo Arco ltd,RG40 1AS,51.4103,-0.8338
@@ -110,6 +111,7 @@ Walter Arms,RG41 5BP,51.4183,-0.8824
 MERIDIAN READING LTD,RG41 5TS,51.4382,-0.8875
 The Admiral Cunningham Hotel ,RG42 1TU,51.4210,-0.7639
 Koh I Noor Restaurant,RG42 1UD,51.4216,-0.7643
+Daruchini Restaurant,RG42 4AJ,51.4257,-0.7870
 The Stag & Hounds,RG42 4HA,51.4327,-0.7812
 Amir Restaurant,RG42 4JF,51.4308,-0.7906
 A1 Spices Ltd T/A Spice Lounge,RG42 6AE,51.4342,-0.7470
@@ -117,13 +119,16 @@ The Yorkshire Rose,RG42 6AE,51.4342,-0.7470
 Plough & Harrow,RG42 6AU,51.4319,-0.7372
 Robyn's Nest Cafe,RG42 6EJ,51.4458,-0.7511
 Stirrups Hotel,RG42 6LD,51.4445,-0.7119
+Don Beni Winkfield,RG42 6NH,51.4316,-0.7090
 The Baskerville Shiplake Limited,RG9 3NY,51.5115,-0.8834
 The Yew Tree Frieth,RG9 6PJ,51.6056,-0.8516
 Chequers Inn,RG9 6QD,51.6134,-0.8780
 The Stag and Huntsman ltd,RG9 6RP,51.5725,-0.8694
+Langley Park Tea Rooms,SL0 0LS,51.5329,-0.5373
 Spice Paradise Iver ltd ,SL0 9AE,51.5053,-0.5024
 the tower arms,SL0 9AE,51.5053,-0.5024
 north star restaurant,SL0 9AH,51.5041,-0.4915
+Favourites Dessert Limited,SL1 1BD,51.5074,-0.5852
 HSA Takeaway Ltd,SL1 1BD,51.5074,-0.5852
 Kabul palace ,SL1 1BD,51.5074,-0.5852
 STEAKHOUSE ,SL1 1BD,51.5074,-0.5852
@@ -137,12 +142,15 @@ Starbucks Slough High Street,SL1 1JP,51.5085,-0.5923
 The Brickhouse,SL1 1JU,51.5075,-0.5884
 Treatz Slough,SL1 1JU,51.5075,-0.5884
 Cafe Lava,SL1 1LE,51.5086,-0.5889
+BRINDHAVAN LIMITED,SL1 1PS,51.5070,-0.5918
 Biryani Nation,SL1 1PS,51.5070,-0.5918
+Alpha Arms,SL1 1RB,51.5069,-0.5891
 SKVP (SLOUGH) LIMITED,SL1 1RB,51.5069,-0.5891
 Milkshake World ,SL1 1XW,51.5109,-0.5907
 Caffe Kix The Urban Building,SL1 2BE,51.5048,-0.5922
 Creams Cafe Slough,SL1 2EJ,51.5086,-0.5962
 Champinos Pizza,SL1 2LX,51.5062,-0.6032
+Shabir Catering Limited ,SL1 2LX,51.5062,-0.6032
 Three Tuns Bar & Grill,SL1 3XL,51.5130,-0.6143
 priestley bakers ltd,SL1 4HY,51.5194,-0.6170
 HFAA FOODS LTD t/a WOKHEI,SL1 4QA,51.5224,-0.6260
@@ -160,11 +168,13 @@ tummies limited,SL1 6JJ,51.5211,-0.6450
 Akash Indian Restaurant & Bar,SL1 7JD,51.5328,-0.6584
 Lunchbox ,SL1 7JP,51.5338,-0.6584
 Woodstocks tea and coffee house,SL1 7JP,51.5338,-0.6584
+PRIDE OF BURNHAM,SL1 7JZ,51.5351,-0.6590
 Laura Ashley - The Tea Room Burnham Beeches,SL1 8DP,51.5413,-0.6477
 M&D Catering,SL1 8EG,51.5451,-0.6525
 The Lambourne Club,SL1 8NF,51.5620,-0.6582
 Jolly Woodman,SL1 8PF,51.5692,-0.6543
 THE BLACKWOOD ARMS,SL1 8PP,51.5660,-0.6505
+Perigano's,SL2 1DE,51.5273,-0.6167
 Dixy Chicken,SL2 1JD,51.5285,-0.6163
 The Emperor Pub,SL2 3EG,51.5485,-0.6183
 MOI RED FARNHAM LTD,SL2 3PQ,51.5551,-0.6157
@@ -184,6 +194,7 @@ Black Horse    ,SL3 6HD,51.5607,-0.5614
 Prop House Coffee Shop,SL3 6NB,51.5389,-0.5763
 Wexham Park Golf and Leisure Centre Limited,SL3 6ND,51.5400,-0.5738
 Panjab Restaurant,SL3 7HS,51.4997,-0.5631
+The Lounge,SL3 7RL,51.5045,-0.5717
 Reds Cafe,SL3 8HF,51.5040,-0.5426
 HOLIDAY INN EXPRESS LONDON HEATHROW T5,SL3 8QB,51.4891,-0.5365
 COSTA COFFEE DATCHET,SL3 9BJ,51.4839,-0.5806
@@ -304,6 +315,7 @@ Star Spice and Grill Limited,SL6 1LT,51.5209,-0.7201
 15 Queen Street,SL6 1NB,51.5222,-0.7199
 bistro story,SL6 1NB,51.5222,-0.7199
 Flavio’s,SL6 1PT,51.5227,-0.7233
+SHEESH,SL6 1PT,51.5227,-0.7233
 RIO DELI MAIDENHEAD LIBRARY LIMITED,SL6 1QU,51.5222,-0.7177
 Coppa Club,SL6 1RR,51.5219,-0.7160
 TUCKIN CATERERS LTD t/a KFC,SL6 1RS,51.5229,-0.7160
@@ -360,6 +372,7 @@ The Marlow Club,SL7 1LU,51.5709,-0.7597
 PRINCE OF WALES,SL7 1PX,51.5698,-0.7705
 The Bull Inn Bisham Limited,SL7 1RR,51.5581,-0.7751
 Hand and Flowers ,SL7 2BP,51.5704,-0.7809
+Danesfield House Hotel Ltd,SL7 2EY,51.5520,-0.8287
 The Dog and Badger,SL7 2HE,51.5540,-0.8424
 The Royal Oak,SL7 2JF,51.5756,-0.7958
 The Coach,SL7 2LS,51.5710,-0.7780
@@ -396,6 +409,7 @@ The White Oak,SL9 8NL,51.5975,-0.5569
 lomito,SL9 8PE,51.5878,-0.5542
 one4six coffee,SL9 8PQ,51.5892,-0.5524
 Crumbs Cafe shop,SL9 9DX,51.6073,-0.5575
+Chef Zhu Authentic Chinese Restaurant ,SL9 9EA,51.6069,-0.5587
 Spice ,SL9 9EA,51.6069,-0.5587
 Delhi Spice,SL9 9EH,51.6069,-0.5574
 The Jolly Farmer,SL9 9HH,51.6032,-0.5656
@@ -409,6 +423,7 @@ The Three Horseshoes,TW18 1SE,51.4082,-0.4892
 Wheatsheaf & Pigeon,TW18 2LL,51.4210,-0.5083
 The Retreat ,TW18 2RT,51.4195,-0.4974
 Notcutts Staines,TW18 2SF,51.4163,-0.4948
+Saffron,TW18 3JD,51.4322,-0.5163
 Caffe Gusto,TW18 4BJ,51.4344,-0.5120
 Purple lounge ,TW18 4BY,51.4353,-0.5087
 MLS Operations Limited t/a McDonald's,TW18 4DY,51.4342,-0.5115
@@ -438,6 +453,7 @@ The Perseverance,TW19 5DB,51.4568,-0.5549
 The George Inn,TW19 5DE,51.4572,-0.5591
 The Anchor,TW19 6AQ,51.4618,-0.5015
 The Stanwell Heathrow Hotel,TW19 7PW,51.4553,-0.4826
+ITALIAN CONCEPT RESTAURANT,TW20 0AE,51.4411,-0.5494
 The Runnymede on Thames Hotel and Spa,TW20 0AG,51.4375,-0.5375
 Megna Tandoori restaurant ,TW20 0DB,51.4293,-0.5726
 The Holly Tree,TW20 0DB,51.4293,-0.5726
@@ -463,6 +479,7 @@ Crown Harmondsworth,UB7 0AJ,51.4886,-0.4780
 Kitchen Palace Limited,UB7 0DH,51.4820,-0.4754
 Riverside Hotel,UB7 7RT,51.5146,-0.4818
 Martins Place,UB8 1AB,51.5454,-0.4806
+Roosters Piri Piri ,UB8 1AB,51.5454,-0.4806
 The Raj Restaurant ,UB8 1AB,51.5454,-0.4806
 windsor cafe,UB8 1AB,51.5454,-0.4806
 Caffe Kix The Clubhouse,UB8 1DH,51.5559,-0.4803
@@ -481,7 +498,6 @@ Gooey Waffle,UB8 1QS,51.5477,-0.4793
 Creams Cafe Uxbridge,UB8 1QT,51.5480,-0.4785
 NABRASA Limited,UB8 1RG,51.5468,-0.4788
 The 3 Steps ,UB8 2DX,51.5299,-0.4824
-Herbies Pizza & Burgers,UB8 2EN,51.5279,-0.4812
 Lady Marmalade Cafe,UB8 2HL,51.5226,-0.4812
 The WatersEdge Restaurant,UB8 2JS,51.5200,-0.4831
 MJ’s Fish Bar,UB8 2LX,51.5395,-0.4814

@@ -23,7 +23,6 @@ BREAD MEATS BREAD GLASGOW FORT,G34 9DL,55.8717,-4.1384
 Stack and Still Glasgow Fort,G34 9DL,55.8717,-4.1384
 wee betty’s ,G34 9DT,55.8685,-4.1219
 milkwood food company ltd t/a Coffee Boy Glasgow,G34 9JJ,55.8683,-4.1273
-SUBWAY,G69 6DP,55.8562,-4.1063
 Costa Coffee,G69 6JX,55.8506,-4.1165
 Kastriots  Med. Bar & Grill,G69 6SG,55.8504,-4.1136
 cd restaurant ltd,G69 7HL,55.8504,-4.1057
@@ -89,6 +88,7 @@ Mata Hari Asian Fusion Restaurant,G74 4JH,55.7662,-4.1748
 BAROCCO BAR & BISTRO,G74 4JS,55.7653,-4.1765
 Lodge St Andrew 524,G74 4JW,55.7659,-4.1769
 Torrance Hotel,G74 4LN,55.7673,-4.1765
+Arigo Restaurant,G74 4LZ,55.7652,-4.1750
 Oii Shi Cuisine Japanese,G74 4LZ,55.7652,-4.1750
 Tinto Tapas Bar ,G74 4LZ,55.7652,-4.1750
 Wee Gurkha Curry House,G74 4LZ,55.7652,-4.1750
@@ -155,12 +155,15 @@ Subway,ML3 6BB,55.7775,-4.0331
 Cadzow Street Deli,ML3 6EE,55.7761,-4.0345
 Crema,ML3 6EE,55.7761,-4.0345
 Rocca Ristorante & Bar,ML3 6HG,55.7774,-4.0393
+GC Bar & Bistro ,ML3 6HW,55.7780,-4.0394
+chapter house  at the beech tree cafe,ML3 6JT,55.7767,-4.0430
 Fat Yankees,ML3 6QS,55.7736,-4.0375
 Belles Tearoom,ML3 7AH,55.7750,-4.0348
 D'NISI COFFEE COMPANY (FRANCHISE) LIMITED,ML3 7AU,55.7754,-4.0350
 Subway,ML3 7AX,55.7748,-4.0360
 Gusti D'Italia,ML3 7BQ,55.7757,-4.0329
 Avonbridge Hotel,ML3 7DB,55.7713,-4.0251
+Ronzio,ML3 7DR,55.7737,-4.0367
 Amoreish,ML3 7JG,55.7717,-4.0379
 Monterey Jacks Hamilton Ltd,ML3 7JQ,55.7711,-4.0385
 The Chatelherault Inn,ML3 7TX,55.7672,-4.0105
@@ -170,6 +173,7 @@ John Carrigans Eating House,ML3 8BG,55.7561,-4.0488
 Pepes Piri Piri - Hamilton,ML3 8HU,55.7619,-4.0475
 The Peacock and Ivy ,ML3 9AA,55.7779,-4.0549
 The Villa Hotel,ML3 9AQ,55.7789,-4.0575
+Hakeem Retail Ltd,ML4 1AA,55.8187,-4.0230
 The Food Crate Cafe,ML4 1AE,55.8186,-4.0247
 CAFE HEPBURN,ML4 1AH,55.8189,-4.0247
 Orbiston Neighbourhood Centre,ML4 2BW,55.8116,-4.0294
@@ -184,6 +188,8 @@ Mondo,ML5 3BJ,55.8614,-4.0233
 Firehouse Grill Ltd ,ML5 3BQ,55.8621,-4.0259
 Subway,ML5 3BQ,55.8621,-4.0259
 The Big Coffee Cup,ML5 3EG,55.8621,-4.0236
+Shimla cottage ,ML5 3HR,55.8669,-4.0269
+Shimla cottage,ML5 3HR,55.8669,-4.0269
 Big Owens Bar Limited,ML5 3RS,55.8598,-4.0092
 Club 3000 Bingo Coatbridge,ML5 3RT,55.8592,-4.0042
 McDonalds Coatbridge,ML5 3SP,55.8579,-4.0198
@@ -198,11 +204,13 @@ The Treasury Bar ,ML6 6AB,55.8663,-3.9797
 Robert Hamilton,ML6 6AF,55.8665,-3.9812
 Agnes Place,ML6 6AH,55.8671,-3.9800
 Weanz World Play Cafe,ML6 6AH,55.8671,-3.9800
+ILCAPO LIMITED,ML6 6AW,55.8670,-3.9767
 Costa Coffee,ML6 6BU,55.8659,-3.9798
 ZANTE FOOD,ML6 6DB,55.8658,-3.9785
 Cafe Alba,ML6 6DD,55.8664,-3.9784
 FOOD BAR (AIRDRIE) LTD,ML6 6DD,55.8664,-3.9784
 BLT,ML6 6DH,55.8668,-3.9720
+Baxters Cafe,ML6 6JA,55.8674,-3.9817
 Baxter’s cafe ,ML6 6JA,55.8674,-3.9817
 Fourways,ML6 6LX,55.8765,-3.9674
 THE BISTRO AIRDRIE,ML6 7AG,55.8675,-3.9534
@@ -227,6 +235,7 @@ Popinjay Hotel and Spa,ML8 5QB,55.7262,-3.9035
 Silverbirch Garden Centre Ltd,ML8 5QQ,55.6913,-3.8618
 Costa Coffee,ML9 1DZ,55.7403,-3.9740
 Leo’s grill ,ML9 1EF,55.7382,-3.9731
+The Old School Guest House Limited,ML9 2TX,55.7161,-3.9545
 The Old Schoolhouse Hotel & Toll Bar,ML9 2TX,55.7161,-3.9545
 Radstone Hotel,ML9 2TZ,55.7298,-3.9474
  Brookside Garden Centre,ML9 2UG,55.7551,-3.9890

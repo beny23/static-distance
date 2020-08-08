@@ -1,4 +1,9 @@
 name,postcode,lat,lon
+Romanesc Traditional,BB10 1DY,53.8032,-2.2352
+Europa,BB10 1DZ,53.8048,-2.2344
+Pepe's Piri Piri,BB10 1DZ,53.8048,-2.2344
+Varna Bulgaria,BB10 1DZ,53.8048,-2.2344
+Chilli Master,BB10 1ED,53.8068,-2.2343
 Samosa chaat ,BB10 1QX,53.7998,-2.2397
 Subway,BB10 2AR,53.8024,-2.2233
 Simply Classic BooHoo,BB10 2BQ,53.8058,-2.2171
@@ -53,6 +58,7 @@ Bertram's restaurant,BB12 0RT,53.8013,-2.2535
 The Lounge restaurant,BB12 0RT,53.8013,-2.2535
 Wilfred's restaurant,BB12 0RT,53.8013,-2.2535
 Holiday Inn Express Burnley M65 J10,BB12 0TJ,53.7939,-2.2564
+Birchall Foodservice TED,BB12 7BF,53.7891,-2.3037
 Simply Classic Exertis,BB12 7BF,53.7891,-2.3037
 Simply classic,BB12 7NG,53.7953,-2.3290
 The Stork Hotel,BB12 7NZ,53.8068,-2.3504
@@ -67,10 +73,12 @@ Fence Gate Lodge Ltd,BB12 9EP,53.8296,-2.2697
 porkys,BB12 9ER,53.8288,-2.2758
 Four Alls ,BB12 9EZ,53.8245,-2.2932
 The Pendle Inn,BB12 9JX,53.8586,-2.2720
+Forest,BB12 9PA,53.8296,-2.2608
 The White Swan,BB12 9QA,53.8377,-2.2535
 The Sparrowhawk Pub ,BB12 9QG,53.8425,-2.2464
 Holden Wood Tea Rooms,BB4 4AT,53.7029,-2.3575
 Pearsons,BB4 4HD,53.6900,-2.3282
+THE VILLAGE STORES,BB4 4LX,53.6836,-2.3335
 The Robin Hood Inn,BB4 4NP,53.6894,-2.3382
 The mill cafe,BB4 4NP,53.6894,-2.3382
 Holden Arms,BB4 4PD,53.6994,-2.3400
@@ -91,6 +99,7 @@ McDonald's,BB4 6QX,53.6995,-2.2924
 The Old Library Waterfoot ,BB4 7AW,53.6920,-2.2501
 North Street Restaurant Limited,BB4 7LX,53.7021,-2.2841
 BLOSSOM RESTAURANT,BB4 7NG,53.7005,-2.2872
+Nila Fine Indian Dining,BB4 7NG,53.7005,-2.2872
 Ashoka Restaurant,BB4 7PA,53.7001,-2.2754
 Nino's Restaurant,BB4 7PA,53.7001,-2.2754
 A Vucciria,BB4 7QN,53.7033,-2.2845
@@ -107,8 +116,8 @@ The Hargreaves Arms Pub & Restaurant ,BB4 9PQ,53.7193,-2.2479
 Los Pollos Hermanos,BB5 1AS,53.7559,-2.3653
 Coffee beanz,BB5 1DZ,53.7535,-2.3630
 Infant St Chip Shop,BB5 1DZ,53.7535,-2.3630
+Black Horse Food Emporium,BB5 1EE,53.7518,-2.3618
 Boardwalk ,BB5 1EE,53.7518,-2.3618
-Rileys ,BB5 1EH,53.7520,-2.3611
 Tiger Lounge Accrington,BB5 1EH,53.7520,-2.3611
 Yankeez ,BB5 1EH,53.7520,-2.3611
 Frankies Cafe,BB5 1ER,53.7534,-2.3644
@@ -196,6 +205,7 @@ Subway,BB9 7YL,53.8423,-2.2172
 M I FOODS LTD,BB9 8EP,53.8428,-2.2032
 S R Desserts Ltd,BB9 8EP,53.8428,-2.2032
 Samsons cafe/sandwich shop ,BB9 9HL,53.8393,-2.2042
+Ranchos Steak,BB9 9SG,53.8354,-2.2137
 Costa Coffee,BB9 9SL,53.8363,-2.2137
 Europa Bar & Club ,BB9 9TL,53.8389,-2.2102
 Caths Cafe,BB9 9UA,53.8392,-2.2089
@@ -210,6 +220,7 @@ The Coffee station ,HX7 6JE,53.7377,-2.0085
 The Stubbing Wharf,HX7 6LU,53.7408,-2.0278
 The Town Hall Cafe Ltd,HX7 7BY,53.7425,-2.0132
 La Perla,HX7 7DD,53.7438,-2.0127
+Vocation & Co,HX7 8AD,53.7406,-2.0113
 Rim Nam Thai Restaurant,HX7 8AF,53.7403,-2.0123
 Cinnamon at the bridge Ltd,HX7 8AH,53.7413,-2.0114
 Leila's Kitchen,HX7 8AH,53.7413,-2.0114

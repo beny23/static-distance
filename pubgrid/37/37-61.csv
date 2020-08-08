@@ -22,6 +22,7 @@ Starbucks St Albans - High Street,AL3 4ED,51.7508,-0.3405
 Dylans Craft Beer Co Ltd,AL3 4ER,51.7514,-0.3421
 George Street Canteen,AL3 4ER,51.7514,-0.3421
 MUST ST A LIMITED,AL3 4ER,51.7514,-0.3421
+THAI RACK (ST ALBANS) Restaurant ,AL3 4ER,51.7514,-0.3421
 Locanda Bagutta,AL3 4ES,51.7517,-0.3422
 Loft Stalbans,AL3 4ES,51.7517,-0.3422
 Thai Square St.Albans,AL3 4ES,51.7517,-0.3422
@@ -70,7 +71,9 @@ OKKA CAFE EATERY,AL5 2SP,51.8178,-0.3581
 Old Cock Inn,AL5 2SP,51.8178,-0.3581
 Tahini,AL5 2SP,51.8178,-0.3581
 Chef Peking ,AL5 2TP,51.8166,-0.3586
+Chefpeking ,AL5 2TP,51.8166,-0.3586
 Tay Tar Thai (Harpenden) Ltd,AL5 4EF,51.8155,-0.3545
+Cinnamon,AL5 4ES,51.8168,-0.3560
 silver palate,AL5 4HU,51.8155,-0.3548
 The Red Cow,AL5 4ND,51.8302,-0.3484
 Spicerack,AL5 4SA,51.8145,-0.3543
@@ -91,12 +94,16 @@ Muffin Break,HP1 1DX,51.7492,-0.4717
 Starburger ,HP1 1DX,51.7492,-0.4717
 alfrescos hemel hempstead ltd,HP1 1DX,51.7492,-0.4717
 Bengal spice,HP1 1EA,51.7514,-0.4735
+Di Capri pizza ltd,HP1 1ED,51.7507,-0.4735
 Riverside Fish And Chips ,HP1 1EF,51.7513,-0.4732
+Yami Emir Hifa,HP1 1EF,51.7513,-0.4732
 KFC ,HP1 1EZ,51.7531,-0.4726
 KFC HEMEL HEMPSTEAD,HP1 1EZ,51.7531,-0.4726
 Peri peri original ,HP1 1EZ,51.7531,-0.4726
+the marlowes cafe,HP1 1EZ,51.7531,-0.4726
 Boxmoor Steakhouse,HP1 1JR,51.7448,-0.4762
 fat roosters,HP1 1LA,51.7567,-0.4726
+Mazza Indian Restaurant ,HP1 1LD,51.7549,-0.4724
 fishery wharf cafe,HP1 1NA,51.7449,-0.4909
 The Steam Coach,HP1 1NP,51.7458,-0.4809
 Boxmoor Social Club,HP1 1PY,51.7457,-0.4887
@@ -133,6 +140,7 @@ pure foods of london,HP2 4SE,51.7597,-0.4391
 McDonald's 1552,HP2 4SN,51.7577,-0.4363
 Holiday Inn Hemel Hempstead,HP2 4UA,51.7554,-0.4283
 CAFE DECORUM,HP2 7BN,51.7604,-0.4408
+Cafe Dacorum,HP2 7BN,51.7604,-0.4408
 Deshi Spice,HP2 7BN,51.7604,-0.4408
 Alibaran Ltd ,HP2 7QH,51.7804,-0.4359
 The Rose and Crown,HP22 4PD,51.8631,-0.7376
@@ -196,6 +204,7 @@ The Olive Tree,HP4 1AQ,51.7615,-0.5675
 FAT BUDDHA ,HP4 1HU,51.7633,-0.5726
 THE RED LION DAGNALL,HP4 1QZ,51.8375,-0.5651
 Here Cafe (Berkhamsted) Ltd,HP4 2AB,51.7614,-0.5647
+Jester,HP4 2AB,51.7614,-0.5647
 Zaza Berkhamsted,HP4 2AB,51.7614,-0.5647
 Rosannas Sicilian Resturant,HP4 2AE,51.7610,-0.5650
 Make Believe Ideas Ltd,HP4 2AZ,51.7606,-0.5626
@@ -216,6 +225,7 @@ The Kings Arms,HP4 3HL,51.7598,-0.5634
 Poppins Cafe Restaurant/Chesham,HP5 1BG,51.7044,-0.6128
 Wotnot Vintage Cafe Ltd,HP5 1BG,51.7044,-0.6128
 COSTA COFFEE CHESHAM,HP5 1BW,51.7053,-0.6123
+Jasmine Thai Kitchen,HP5 1BW,51.7053,-0.6123
 FILO FILO LTD,HP5 1BX,51.7061,-0.6119
 The General's Arms,HP5 1BX,51.7061,-0.6119
 Pizzeria Liri,HP5 1EB,51.7068,-0.6119
@@ -234,6 +244,7 @@ oodles chinese,LU1 1BT,51.8852,-0.4286
 Shahi nan kabab,LU1 1DD,51.8857,-0.4294
 CAFE 1,LU1 1DQ,51.8845,-0.4294
 Man ho restaurant ,LU1 1EH,51.8844,-0.4268
+A 1 Lahori Zaiqa LTD ,LU1 1EW,51.8856,-0.4283
 Tiagos,LU1 1HE,51.8862,-0.4277
 subway,LU1 1SE,51.8827,-0.4199
 German Doner Kebab (GDK),LU1 2AL,51.8789,-0.4164
@@ -251,11 +262,14 @@ Cookies and Cream,LU1 2NB,51.8817,-0.4180
 Subway Galaxy Luton,LU1 2NF,51.8813,-0.4172
 Villa Ada Restaurant,LU1 2NQ,51.8805,-0.4127
 Tastys Chicken Limited,LU1 2QB,51.8804,-0.4180
+W.O HALL FOOD LTD,LU1 2QB,51.8804,-0.4180
 G's Gourmet Burgers,LU1 2QH,51.8788,-0.4181
+Pades Restaurant ltd,LU1 2QH,51.8788,-0.4181
 Papa J's Indian Tapas Restaurant ,LU1 2QH,51.8788,-0.4181
 STEAKOUT LUTON,LU1 2QH,51.8788,-0.4181
 Downtown ,LU1 2QP,51.8806,-0.4185
 Treatz Luton Dessert Parlour,LU1 2QX,51.8795,-0.4185
+cafe zandras,LU1 2RD,51.8797,-0.4198
 Charcoal House,LU1 2SE,51.8777,-0.4160
 Gospoda Ltd,LU1 2SE,51.8777,-0.4160
 PEPES PIRI PIRI,LU1 2SE,51.8777,-0.4160
@@ -280,6 +294,7 @@ Frog & Rhubarb,LU1 4BJ,51.8556,-0.4321
 The Rising Sun Pub,LU1 4BP,51.8538,-0.4316
 The Plough ,LU1 4LU,51.8594,-0.4380
 CAFE SHIMLA,LU1 5AA,51.8779,-0.4196
+CARIBSPICE LTD,LU1 5AA,51.8779,-0.4196
 Jill Jenkins Court,LU1 5QY,51.8763,-0.4383
 Vault Lounge (Taste of Africa) ,LU2 0BW,51.8843,-0.4126
 Waffles N Jerk,LU2 0BW,51.8843,-0.4126
@@ -294,6 +309,7 @@ KING WILLIAM,LU2 8QE,51.9017,-0.3674
 Courtyard by Marriott Luton Airport,LU2 9LF,51.8763,-0.3836
 Holiday Inn Luton Airport,LU2 9LF,51.8763,-0.3836
 I'AMME UK LIMITED,LU2 9LU,51.8798,-0.3772
+Frankie and Benny's,LU2 9LY,51.8778,-0.3764
 The Smithfield ,LU2 9LY,51.8778,-0.3764
 Wasabi Sushi & Bento,LU2 9LY,51.8778,-0.3764
 Ace Sandwich Bar LTD,LU2 9PA,51.8801,-0.3818
@@ -318,6 +334,7 @@ Arabella lounge,LU4 8FG,51.8864,-0.4300
 Coffeepot ,LU4 8FG,51.8864,-0.4300
 CAFE LUTON ,LU4 8HX,51.8883,-0.4318
 Luton tawa house,LU4 8HX,51.8883,-0.4318
+Peri Peri Original,LU4 8JJ,51.8869,-0.4313
 Alankar,LU4 8JL,51.8870,-0.4338
 pepes piri piri,LU4 8JS,51.8894,-0.4398
 The Coffee Tree,LU4 9ND,51.9010,-0.4710
@@ -337,12 +354,13 @@ KHAM LTD T/A ROYMAI THAI RESTAURANT,LU6 1LN,51.8907,-0.5272
 CAFEMASALA ,LU6 1RB,51.8724,-0.5804
 The Old Farm Inn,LU6 1RE,51.8793,-0.5635
 White Lion Pub ,LU6 1RS,51.9019,-0.5455
+SPICE LOUNGE,LU6 1SL,51.8854,-0.5220
 The Way Coffee House,LU6 1SX,51.8858,-0.5221
 Costa Coffee Dunstable,LU6 1TD,51.8868,-0.5214
 The Cross Keys ,LU6 2DA,51.8868,-0.5782
 The White Horse,LU6 2DG,51.8786,-0.5935
 The Swan,LU6 2EY,51.8696,-0.6065
-OLD HUNTERS LODGE (WHIPSNADE) LIMITED,LU6 2LN,51.8524,-0.5337
+trevor carey,LU6 2JP,51.8715,-0.5473
 The Farmers Boy,LU6 2PJ,51.8530,-0.5080
 Zeera ,LU6 2PX,51.8796,-0.5424
 Jaccs coffee,LU6 3AH,51.8832,-0.5225
@@ -389,6 +407,7 @@ Kl tandoori ltd,WD4 8AB,51.7133,-0.4498
 Oscars Pizza Company Limited,WD4 8AB,51.7133,-0.4498
 Cinnamon Lounge,WD4 8BH,51.7135,-0.4504
 LANGLEY SPICE LIMITED,WD4 8BH,51.7135,-0.4504
+Spice Village,WD4 9BH,51.7048,-0.4922
 The Windmill Public House,WD4 9BU,51.7018,-0.4954
 Fred & Ginger Coffee,WD4 9HT,51.7119,-0.4498
 Chipperfield Garden Centre,WD4 9LH,51.7121,-0.5040

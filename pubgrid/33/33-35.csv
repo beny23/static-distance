@@ -2,6 +2,7 @@ name,postcode,lat,lon
 Peppermint Swansea,SA1 1DP,51.6198,-3.9394
 Brewdog Swansea,SA1 1DY,51.6194,-3.9391
 FWTL LTD,SA1 1DZ,51.6193,-3.9388
+La Braseria,SA1 1DZ,51.6193,-3.9388
 Bunkers Swansea,SA1 1ED,51.6186,-3.9385
 The Smoke Haus,SA1 1EE,51.6189,-3.9389
 No Sign Wine Bar,SA1 1EG,51.6193,-3.9407
@@ -60,6 +61,7 @@ Reyhan Restaurant,SA1 4AP,51.6182,-3.9522
 Vojon ,SA1 4AW,51.6188,-3.9510
 Pepe's Piri Piri,SA1 4AY,51.6177,-3.9533
 Anarkali,SA1 4BQ,51.6157,-3.9570
+Maharani ,SA1 4BQ,51.6157,-3.9570
 Takumi Sushi & Noodle Bar,SA1 4BQ,51.6157,-3.9570
 Crazy Baker,SA1 4HS,51.6187,-3.9563
 The Brunswick,SA1 4HS,51.6187,-3.9563
@@ -95,6 +97,7 @@ Jack Murphy's Uplands,SA2 0NP,51.6179,-3.9660
 MAISIES,SA2 0NP,51.6179,-3.9660
 Verve 37 bar & restaurant,SA2 0NP,51.6179,-3.9660
 Subway Uplands,SA2 0PG,51.6184,-3.9669
+Killay Cafe,SA2 7BA,51.6181,-4.0182
 village inn (killay) ltd,SA2 7BA,51.6181,-4.0182
 THE TERRACE COFFEE SHOP & RESTAURANT,SA2 8HQ,51.6172,-3.9957
 The Bistro,SA2 9BN,51.6231,-3.9920
@@ -111,13 +114,16 @@ Three Cliffs Coffee Shop,SA3 2DH,51.5680,-4.0877
 parc le breos house,SA3 2HA,51.5847,-4.1246
 Surfside Cafe Caswell Bay,SA3 3BS,51.5706,-4.0350
 Unit 2,SA3 3BS,51.5706,-4.0350
+The Plough & Harrow,SA3 3DJ,51.5808,-4.0441
 Gower Hotel,SA3 3JT,51.5856,-4.0539
 Boo's Kitchen,SA3 4AD,51.5739,-4.0011
 Cakes & Ale,SA3 4AS,51.5754,-4.0000
+Cafe Play Mumbles,SA3 4AX,51.5756,-4.0003
 Suwad Limited T/A Golden Curry,SA3 4BN,51.5752,-4.0037
 Cha-ty,SA3 4BQ,51.5756,-4.0023
 Mumtaz Indian Haute Cuisine ,SA3 4BX,51.5770,-3.9993
 BISTROT PIERRE - MUMBLES,SA3 4DN,51.5748,-3.9979
+Bistrot Pierre - Mumbles,SA3 4DN,51.5748,-3.9979
 Mediterranean Turkish restaurant ,SA3 4EA,51.5726,-3.9932
 Patricks with Rooms Ltd,SA3 4EA,51.5726,-3.9932
 The mumbles Carlton hotel,SA3 4EA,51.5726,-3.9932

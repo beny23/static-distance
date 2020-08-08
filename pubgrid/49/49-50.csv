@@ -9,6 +9,7 @@ The Grove Coffee House,ST16 2AT,52.8067,-2.1183
 THE SOUP KITCHEN (STAFFORD) LIMITED,ST16 2AW,52.8056,-2.1182
 The Chef's Café ,ST16 2DJ,52.8060,-2.1200
 Simply Bilash LTD,ST16 2EW,52.8078,-2.1257
+Simply Bilash Ltd,ST16 2EW,52.8078,-2.1257
 The Play Shed Stafford ,ST16 2EX,52.8028,-2.1196
 Thawa bridge Indian restaurant ,ST16 2HJ,52.8043,-2.1154
 Subway Stafford Town ,ST16 2HL,52.8042,-2.1160
@@ -29,6 +30,7 @@ HS STAFFORD LTD,ST16 2QT,52.8049,-2.1173
 Little dessert shop,ST16 2QZ,52.8048,-2.1165
 McLean Restaurants Ltd,ST16 2RA,52.8165,-2.1239
 Subway Stone rd,ST16 2RS,52.8173,-2.1235
+Fuller's clubhouse kitchens ltd ,ST16 2TT,52.8090,-2.1295
 Stafford Rugby Union Football Club Ltd,ST16 2TT,52.8090,-2.1295
 The Burger Priest Stafford,ST16 3AA,52.8058,-2.1129
 Cup A Cha,ST16 3AD,52.8074,-2.1147
@@ -61,6 +63,7 @@ THE HOLLYBUSH INN,ST18 9PQ,52.8223,-2.1794
 Littleton Arms,ST19 5AL,52.7248,-2.1168
 Bridgehouse restaurant,ST19 5AS,52.7263,-2.1162
 Corner spice limited ,ST19 5AY,52.7261,-2.1143
+Edgars Restaurant,ST19 5LH,52.7219,-2.1154
 Honeypots Cafe,ST19 5RE,52.7395,-2.1016
 Cabin cafe,ST19 5RP,52.7363,-2.0505
 THE BOAT INN,ST19 5RP,52.7363,-2.0505
@@ -74,6 +77,7 @@ Bradford Arms,ST19 9QT,52.6942,-2.2343
 Cafe India ,ST19 9QT,52.6942,-2.2343
 Eastern Memories,WS11 0BB,52.6757,-2.0301
 OK Diner Cannock,WS11 0BN,52.6736,-2.0274
+Radhunicannock,WS11 0DL,52.6882,-2.0282
 Shabab restaurant & takeaway ltd,WS11 0DR,52.6880,-2.0254
 Aydan spice ltd,WS11 0JB,52.6805,-2.0269
 Subway Cannock,WS11 1AH,52.6876,-2.0319
@@ -92,6 +96,7 @@ Longford McDonald's Restaurant,WS11 1TD,52.6781,-2.0478
 Holy Smoke Bar & Grill Ltd,WS11 1UE,52.6904,-2.0320
 Indulge ,WS11 5DB,52.7029,-2.0147
 BakeAway ,WS11 5DD,52.7029,-2.0155
+Chadsmoor Balti limited,WS11 5DD,52.7029,-2.0155
 Dilshad Restaurant,WS11 5DZ,52.7024,-2.0155
 Garam masala ,WS11 5QJ,52.6993,-2.0221
 Snack Shack Midlands LTD ,WS11 7GA,52.6962,-2.0076
@@ -144,7 +149,7 @@ The Olde Peculiar,WS15 4DP,52.7426,-1.8673
 Ye Olde windmill Inn ,WS15 4NF,52.7030,-1.9239
 The Swan with two necks,WS15 4PN,52.7287,-1.8831
 The Park Gate,WS15 4RN,52.7094,-1.9330
-TJX Europe,WS2 7PT,52.6003,-1.9947
+TNS Catering_TJX Europe,WS2 7PT,52.6003,-1.9947
 Full Flavourz ,WS3 1EG,52.6116,-1.9796
 Zeera Authentic Eastern cuisine ,WS3 2HR,52.6161,-2.0055
 The Gulshan balti,WS3 2JE,52.6169,-2.0051
@@ -164,6 +169,7 @@ Olde Wyrley hall,WS6 6LL,52.6650,-2.0205
 Jessicas Catering and Vending Solutions Ltd,WS6 6NQ,52.6642,-2.0121
 the star inn,WS6 6NQ,52.6642,-2.0121
 The Royal Oak,WS6 6PE,52.6664,-2.0123
+Hawa Restaurant ,WS6 7AD,52.6600,-2.0342
 colliers arms,WS6 7AE,52.6601,-2.0371
 the malt at landywood,WS6 7AR,52.6499,-2.0246
 THE MARY ROSE,WS6 7AY,52.6561,-2.0349
@@ -174,9 +180,11 @@ Costa Coffee,WS7 1JS,52.6816,-1.9348
 The Hazelwood House Club,WS7 1LY,52.6857,-1.9405
 Bradshaw Bros Ltd,WS7 1YL,52.6926,-1.9426
 The Wych Elm,WS7 2BU,52.6814,-1.9308
+Bridge Cross Ltd T/A Khan’s Kitchen ,WS7 2BX,52.6813,-1.9328
 The Bakery Chase Park,WS7 3JQ,52.6807,-1.9432
 McDonald's,WS7 3XA,52.6789,-1.9385
 The Bakery Chasetown,WS7 3XE,52.6715,-1.9343
+The Miners Rest,WS7 4QS,52.6685,-1.9287
 THE DRILL INN,WS7 9HD,52.6891,-1.9110
 The Little Burntwood Pub Company Ltd T.A The Nelson Inn,WS7 9HL,52.6913,-1.8934
 Silver Court Cafe,WS8 6HA,52.6444,-1.9298
@@ -197,7 +205,11 @@ Sweet. Aldridge,WS9 8LX,52.6050,-1.9170
 Simply Delicious ,WS9 8LZ,52.6051,-1.9156
 khimuk,WS9 8NL,52.6048,-1.9149
 AURA,WS9 8PT,52.6040,-1.9193
+Aura ,WS9 8PT,52.6040,-1.9193
 Faz Spice LTD,WS9 8PT,52.6040,-1.9193
+Oriental Leisure Ltd,WS9 8PT,52.6040,-1.9193
+ Jabin - Laboni Restaurants Ltd,WS9 8QP,52.6043,-1.9177
+Cafe in the Square,WS9 8QP,52.6043,-1.9177
 Costa Coffee,WS9 8QP,52.6043,-1.9177
 Davinci Restaurant Limited,WS9 8QP,52.6043,-1.9177
 HORSE & JOCKEY,WS9 9AJ,52.6228,-1.9386
@@ -242,6 +254,7 @@ The South Staffordshire Golf Club Ltd,WV6 9BQ,52.6039,-2.1711
 THE SUMMER HOUSE,WV7 3AT,52.6204,-2.2605
 Medicine Bakery & Kitchen,WV8 1BX,52.6299,-2.2016
 Codsall Crown,WV8 1DB,52.6305,-2.2015
+Codsall Legionaires Club Ltd,WV8 1DB,52.6305,-2.2015
 Jungle Boogie Ltd,WV8 1EA,52.6315,-2.1999
 The Codsall Hive,WV8 1EA,52.6315,-2.1999
 Snakabyte,WV8 1EU,52.6286,-2.1798

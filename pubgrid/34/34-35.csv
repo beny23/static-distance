@@ -2,6 +2,7 @@ name,postcode,lat,lon
 Peppermint Swansea,SA1 1DP,51.6198,-3.9394
 Brewdog Swansea,SA1 1DY,51.6194,-3.9391
 FWTL LTD,SA1 1DZ,51.6193,-3.9388
+La Braseria,SA1 1DZ,51.6193,-3.9388
 Bunkers Swansea,SA1 1ED,51.6186,-3.9385
 The Smoke Haus,SA1 1EE,51.6189,-3.9389
 No Sign Wine Bar,SA1 1EG,51.6193,-3.9407
@@ -67,6 +68,7 @@ Reyhan Restaurant,SA1 4AP,51.6182,-3.9522
 Vojon ,SA1 4AW,51.6188,-3.9510
 Pepe's Piri Piri,SA1 4AY,51.6177,-3.9533
 Anarkali,SA1 4BQ,51.6157,-3.9570
+Maharani ,SA1 4BQ,51.6157,-3.9570
 Takumi Sushi & Noodle Bar,SA1 4BQ,51.6157,-3.9570
 Crazy Baker,SA1 4HS,51.6187,-3.9563
 The Brunswick,SA1 4HS,51.6187,-3.9563
@@ -94,10 +96,12 @@ Marco Pierre White,SA1 8PL,51.6197,-3.9311
 Positanos Swansea,SA1 8PL,51.6197,-3.9311
 rasoi waterfront,SA1 8PL,51.6197,-3.9311
 DIABLOS INCORPORATED LIMITED,SA1 8PP,51.6188,-3.9302
+HARRY WATKINS,SA14 8HY,51.6997,-4.1440
 Harry Watkins ,SA14 8HY,51.6997,-4.1440
 The Bridge ,SA14 8TW,51.6950,-4.0843
 jollies on the hilltop limited,SA14 9AA,51.6846,-4.1216
 STARBUCKS ,SA14 9DR,51.6808,-4.1330
+WWT National Wetland Centre Wales ,SA14 9SH,51.6650,-4.1253
 Gateway Resort Limited ,SA14 9SN,51.6643,-4.1047
 Burger King - Trostre ,SA14 9UY,51.6763,-4.1389
 Subway,SA14 9UY,51.6763,-4.1389
@@ -147,6 +151,7 @@ Jack Murphy's Uplands,SA2 0NP,51.6179,-3.9660
 MAISIES,SA2 0NP,51.6179,-3.9660
 Verve 37 bar & restaurant,SA2 0NP,51.6179,-3.9660
 Subway Uplands,SA2 0PG,51.6184,-3.9669
+Killay Cafe,SA2 7BA,51.6181,-4.0182
 village inn (killay) ltd,SA2 7BA,51.6181,-4.0182
 THE TERRACE COFFEE SHOP & RESTAURANT,SA2 8HQ,51.6172,-3.9957
 The Bistro,SA2 9BN,51.6231,-3.9920
@@ -163,13 +168,16 @@ Three Cliffs Coffee Shop,SA3 2DH,51.5680,-4.0877
 parc le breos house,SA3 2HA,51.5847,-4.1246
 Surfside Cafe Caswell Bay,SA3 3BS,51.5706,-4.0350
 Unit 2,SA3 3BS,51.5706,-4.0350
+The Plough & Harrow,SA3 3DJ,51.5808,-4.0441
 Gower Hotel,SA3 3JT,51.5856,-4.0539
 Boo's Kitchen,SA3 4AD,51.5739,-4.0011
 Cakes & Ale,SA3 4AS,51.5754,-4.0000
+Cafe Play Mumbles,SA3 4AX,51.5756,-4.0003
 Suwad Limited T/A Golden Curry,SA3 4BN,51.5752,-4.0037
 Cha-ty,SA3 4BQ,51.5756,-4.0023
 Mumtaz Indian Haute Cuisine ,SA3 4BX,51.5770,-3.9993
 BISTROT PIERRE - MUMBLES,SA3 4DN,51.5748,-3.9979
+Bistrot Pierre - Mumbles,SA3 4DN,51.5748,-3.9979
 Mediterranean Turkish restaurant ,SA3 4EA,51.5726,-3.9932
 Patricks with Rooms Ltd,SA3 4EA,51.5726,-3.9932
 The mumbles Carlton hotel,SA3 4EA,51.5726,-3.9932
@@ -202,6 +210,7 @@ roma 2000 ltd,SA4 4BP,51.6690,-4.0397
 THE ROMA FISH BAR,SA4 4BT,51.6688,-4.0376
 SGR Gorseinon Ltd,SA4 4BX,51.6681,-4.0352
 Gingers Cafe,SA4 4DQ,51.6681,-4.0257
+Globe Inn ,SA4 6QD,51.6632,-4.0567
 THE REVEREND JAMES,SA4 6RZ,51.6675,-4.0638
 Pontardulais Garden Centre Ltd,SA4 8DS,51.6994,-4.0245
 The Clubhouse at Pontardulais Golf Club,SA4 9DT,51.6972,-4.0210
@@ -211,6 +220,7 @@ mcdonalds,SA4 9GT,51.6792,-3.9953
 Lezzet Cafe&Restaurant ,SA4 9HL,51.6742,-3.9849
 Bizzie Lizzies Cafe,SA4 9WF,51.6648,-4.0186
 SUBWAY FFORESTFACH,SA5 4AA,51.6411,-3.9780
+The Green Room Cafe,SA5 4AE,51.6435,-3.9804
 lezzet cafe,SA5 4DL,51.6454,-3.9910
 SGR Grill Ltd,SA5 4TR,51.6398,-4.0067
 mcdonalds,SA5 8LJ,51.6354,-3.9658

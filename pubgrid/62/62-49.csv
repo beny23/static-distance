@@ -43,11 +43,13 @@ Subway,BB11 5DB,53.7810,-2.2774
 New Waggonners ltd,BB11 5NS,53.7621,-2.2613
 Beijing cantonese restaurant ,BB11 5PB,53.7494,-2.2691
 Holiday Inn Express Burnley M65 J10,BB12 0TJ,53.7939,-2.2564
+Birchall Foodservice TED,BB12 7BF,53.7891,-2.3037
 Simply Classic Exertis,BB12 7BF,53.7891,-2.3037
 Simply classic,BB12 7NG,53.7953,-2.3290
 Jaipur restaurant Padiham ,BB12 8QN,53.7990,-2.3102
 Holden Wood Tea Rooms,BB4 4AT,53.7029,-2.3575
 Pearsons,BB4 4HD,53.6900,-2.3282
+THE VILLAGE STORES,BB4 4LX,53.6836,-2.3335
 The Robin Hood Inn,BB4 4NP,53.6894,-2.3382
 The mill cafe,BB4 4NP,53.6894,-2.3382
 Holden Arms,BB4 4PD,53.6994,-2.3400
@@ -68,6 +70,7 @@ McDonald's,BB4 6QX,53.6995,-2.2924
 The Old Library Waterfoot ,BB4 7AW,53.6920,-2.2501
 North Street Restaurant Limited,BB4 7LX,53.7021,-2.2841
 BLOSSOM RESTAURANT,BB4 7NG,53.7005,-2.2872
+Nila Fine Indian Dining,BB4 7NG,53.7005,-2.2872
 Ashoka Restaurant,BB4 7PA,53.7001,-2.2754
 Nino's Restaurant,BB4 7PA,53.7001,-2.2754
 A Vucciria,BB4 7QN,53.7033,-2.2845
@@ -84,8 +87,8 @@ The Hargreaves Arms Pub & Restaurant ,BB4 9PQ,53.7193,-2.2479
 Los Pollos Hermanos,BB5 1AS,53.7559,-2.3653
 Coffee beanz,BB5 1DZ,53.7535,-2.3630
 Infant St Chip Shop,BB5 1DZ,53.7535,-2.3630
+Black Horse Food Emporium,BB5 1EE,53.7518,-2.3618
 Boardwalk ,BB5 1EE,53.7518,-2.3618
-Rileys ,BB5 1EH,53.7520,-2.3611
 Tiger Lounge Accrington,BB5 1EH,53.7520,-2.3611
 Yankeez ,BB5 1EH,53.7520,-2.3611
 Frankies Cafe,BB5 1ER,53.7534,-2.3644
@@ -124,8 +127,10 @@ Owens Restaurant & Bar,BL0 9AL,53.6467,-2.3153
 Baratxuri ,BL0 9AT,53.6482,-2.3181
 Levanter,BL0 9BE,53.6474,-2.3179
 Old Mill Hotel,BL0 9DS,53.6503,-2.3233
+The Lounge,BL0 9FN,53.6479,-2.3173
 Tre Ciccio Ramsbottom,BL0 9HT,53.6490,-2.3180
 Amelia's Ramsbottom,BL0 9HU,53.6476,-2.3185
+Indian Lounge UK LTD,BL0 9HU,53.6476,-2.3185
 SAN LEONARDO'S,BL0 9HU,53.6476,-2.3185
 The Mouse Trap,BL0 9HU,53.6476,-2.3185
 China Cottage Ltd,BL0 9HX,53.6470,-2.3189
@@ -136,6 +141,7 @@ Casalingo Italian Restaurant ,BL2 5RA,53.5881,-2.3578
 Duke William Inn,BL2 5SQ,53.5887,-2.3604
 subway,BL2 6PY,53.5796,-2.3766
 The Black Bull,BL7 0AF,53.6422,-2.3970
+The Reading Room Coffee Shop at The Barlow,BL7 0AP,53.6452,-2.3933
 ROSE AND CROWN,BL7 0AR,53.6456,-2.3898
 Dalchini Indian Restaurant ,BL7 0HR,53.6289,-2.3849
 The Toby Inn Ltd,BL7 0JQ,53.6713,-2.3851
@@ -144,14 +150,18 @@ Stables Country Club,BL8 1PU,53.6020,-2.3262
 The Swan ,BL8 1SJ,53.6019,-2.3193
 ASHA TOTTINGTON LIMITED,BL8 1TA,53.6032,-2.3219
 The Black Bull Bury,BL8 2EY,53.5908,-2.3418
+Ruposhi Indian restaurant ,BL8 2QY,53.5963,-2.3156
+Rapallo Cucina Italiana,BL8 3AG,53.5992,-2.3395
 The Victoria Walshaw ,BL8 3BD,53.6025,-2.3402
 China Rose Restaurant,BL8 4AA,53.6143,-2.3407
 The Dungeon Inn,BL8 4AW,53.6151,-2.3430
 The Village Bistro Greenmount ,BL8 4DD,53.6249,-2.3317
 Waggon and Horses,BL8 4JL,53.6309,-2.3650
+Bloom Coffee Co Ltd,BL9 0AJ,53.5930,-2.2977
 Bloom Coffee Co.,BL9 0AJ,53.5930,-2.2977
 Ground Up,BL9 0AJ,53.5930,-2.2977
 Subway,BL9 0AJ,53.5930,-2.2977
+roccos desserts,BL9 0AY,53.5921,-2.2979
 Katsouris Delicatessen Ltd,BL9 0BD,53.5922,-2.2940
 The Bury Roast Co,BL9 0BD,53.5922,-2.2940
 Alisons fresh and tasty,BL9 0BJ,53.5910,-2.2953
@@ -174,10 +184,12 @@ Debenhams Restaurant Bury,BL9 0JL,53.5952,-2.2909
 Bake & Take ,BL9 0JN,53.5949,-2.2921
 Drip,BL9 0JS,53.5945,-2.2911
 West Ivy,BL9 0JX,53.5942,-2.2920
+Olive's Kitchen ,BL9 0LL,53.5938,-2.3007
 Zen Lounge,BL9 0LL,53.5938,-2.3007
 NEW JEWEL OF BURY LTD,BL9 0LP,53.5941,-2.3023
 Pizzeria bella italia,BL9 0LQ,53.5936,-2.2988
 Rozzzy's Fusion Cafe,BL9 0ND,53.5953,-2.2928
+Tompsons fish and chips,BL9 0ND,53.5953,-2.2928
 Tim Hortons,BL9 0NY,53.5938,-2.2954
 McDonalds The Rock. Bury,BL9 0PB,53.5941,-2.2948
 COFFEE CREATIONS,BL9 0QF,53.5932,-2.2943
@@ -191,7 +203,6 @@ THE RED HALL HOTEL ( BURY) LTD,BL9 5NA,53.6351,-2.3012
 Park Farm Tearooms,BL9 5NP,53.6416,-2.3030
 Summerseat Garden Centre Limited,BL9 5QD,53.6273,-2.3178
 AL BOSCO RISTORANTE,BL9 5QP,53.6310,-2.3209
-Games Hub Bury ,BL9 6AS,53.5965,-2.2864
 The Waggon at Birtle,BL9 6UE,53.6048,-2.2389
 The Church Inn,BL9 6UH,53.6060,-2.2600
 H's Diner,BL9 7AJ,53.5960,-2.2855
@@ -210,6 +221,7 @@ The Coffee station ,HX7 6JE,53.7377,-2.0085
 The Stubbing Wharf,HX7 6LU,53.7408,-2.0278
 The Town Hall Cafe Ltd,HX7 7BY,53.7425,-2.0132
 La Perla,HX7 7DD,53.7438,-2.0127
+Vocation & Co,HX7 8AD,53.7406,-2.0113
 Rim Nam Thai Restaurant,HX7 8AF,53.7403,-2.0123
 Cinnamon at the bridge Ltd,HX7 8AH,53.7413,-2.0114
 Leila's Kitchen,HX7 8AH,53.7413,-2.0114
@@ -236,6 +248,7 @@ Possabilities Social Lounge,OL10 4SY,53.5961,-2.2332
 Le Latte ,OL11 1DN,53.6117,-2.1543
 Chaiiwala Rochdale,OL11 1EB,53.6104,-2.1568
 Cuckoos Cafe & Grill,OL11 1EB,53.6104,-2.1568
+NEW YORK CHICKEN LIMITED,OL11 1EB,53.6104,-2.1568
 Jungle Grill,OL11 1EF,53.6119,-2.1597
 Shish cafe ,OL11 1HH,53.6100,-2.1583
 McDonalds Sandbrook Park,OL11 1RY,53.6024,-2.1634
@@ -250,16 +263,19 @@ The Royal Toby Hotel,OL11 3HF,53.5984,-2.1802
 THE PLOUGH,OL11 3LW,53.6025,-2.1876
 The Hare and Hounds,OL11 4AA,53.6073,-2.2079
 The Elephant & Castle,OL11 4AU,53.6106,-2.1969
+Platos Y Bebidas,OL11 4DQ,53.6126,-2.1883
 Suburb cafe,OL11 4DQ,53.6126,-2.1883
 Sweet coffee ,OL11 5AQ,53.6223,-2.1887
 The Grapes,OL11 5PN,53.6131,-2.2090
 La Dolce Vita,OL11 5QY,53.6147,-2.2072
+Spicy kitchen,OL12 0JJ,53.6243,-2.1556
 TREE & TOAD LTD,OL12 0NU,53.6195,-2.1603
 Ruchi Indian Restaurant ,OL12 0RD,53.6246,-2.1561
 THE OXFORD(ROCHDALE)LTD,OL12 0TB,53.6368,-2.1690
 Pepe's Piri Piri Rochdale,OL12 0UW,53.6223,-2.1526
 The Healey ,OL12 6LW,53.6311,-2.1732
 Eastern Restaurant & Takeaway,OL12 6PE,53.6191,-2.1635
+alis chippy ,OL12 6PJ,53.6203,-2.1675
 Subway Aldi Rochdale,OL12 6XD,53.6147,-2.1674
 NUTTERS RESTAURANT,OL12 7TT,53.6319,-2.2327
 Owd Betts,OL12 7TY,53.6406,-2.2590
@@ -304,9 +320,11 @@ The Moorcock Inn,OL15 0LD,53.6513,-2.0734
 The White House,OL15 0LG,53.6564,-2.0495
 Back2Work Kitchen Downstairs,OL15 8AU,53.6437,-2.0978
 Back2Work Kitchen,OL15 8AU,53.6437,-2.0978
+Toppo’s Bar & Kitchen ,OL15 8DA,53.6438,-2.0944
 Autumn Holdings Limited ,OL15 8NL,53.6391,-2.1168
 Rebecca's coffee shop,OL15 9AB,53.6442,-2.0965
 The Cherry tree cafe ,OL15 9AE,53.6442,-2.0952
+Bay of bengal(Rochdale LTD),OL15 9DQ,53.6451,-2.0931
 The Hairy Bear Beer Co Limited,OL15 9HL,53.6484,-2.1005
 LITTLEBOROUGH CRICKET CLUB,OL15 9LD,53.6492,-2.0989
 Waterfall Tea Rooms,OL15 9LZ,53.6695,-2.0836
@@ -323,6 +341,7 @@ Vicolos Ltd,OL16 1JG,53.6175,-2.1576
 Knockout Kitchen Ltd,OL16 1JJ,53.6177,-2.1579
 Russells of Rochdale,OL16 1JZ,53.6185,-2.1556
 Gumboo Hotels Limited,OL16 1NJ,53.6158,-2.1574
+Rajas chicken grill rochdale limited ,OL16 1PN,53.6139,-2.1543
 Funkie Fusion Limited,OL16 1RE,53.6167,-2.1560
 the castle cafe,OL16 1SR,53.6156,-2.1509
 PLAYERS ROCHDALE,OL16 1UA,53.6146,-2.1530

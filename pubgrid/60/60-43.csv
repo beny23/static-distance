@@ -7,6 +7,7 @@ Habibi,CH45 2JD,53.4379,-3.0426
 James Atherton,CH45 2JD,53.4379,-3.0426
 Rock Point Records,CH45 2JF,53.4382,-3.0420
 Floral Pavilion,CH45 2JS,53.4400,-3.0422
+Bistro 115,CH45 2LZ,53.4385,-3.0436
 Caffe Cream of New Brighton,CH45 2PB,53.4402,-3.0463
 Marine Point Restaurants Ltd t/a Ella restaurant,CH45 2PB,53.4402,-3.0463
 Remember When Tea Rooms Limited,CH45 2PH,53.4387,-3.0387
@@ -52,6 +53,7 @@ Chicago Style Ltd,L22 5PE,53.4742,-3.0279
 SULTAN TURKISH MEDITERRANEAN BAR & GRILL,L22 5PE,53.4742,-3.0279
 Taverna Tasty Food Ltd,L22 5PE,53.4742,-3.0279
 rancho steakhouse,L22 5PE,53.4742,-3.0279
+Adana BBQ,L22 5PQ,53.4738,-3.0279
 Nicolas Restaurant,L22 5PQ,53.4738,-3.0279
 Si la parella ,L22 5PQ,53.4738,-3.0279
 Tapas Tapas,L22 5PQ,53.4738,-3.0279
@@ -76,8 +78,10 @@ rock salt,L23 5RQ,53.4903,-3.0277
 Churches Together in Great Crosby Charitable Trust,L23 5SE,53.4911,-3.0247
 Ayuthaya Thai restaurant ,L23 5SF,53.4921,-3.0261
 Franchettis,L23 5SF,53.4921,-3.0261
+StoryHouse,L23 5SF,53.4921,-3.0261
 Pioneer Bar and Brasserie,L23 5TD,53.4893,-3.0237
 Crosby Leisure Centre,L23 6SX,53.4831,-3.0433
+Kinsleys,L23 7XJ,53.4941,-3.0292
 The West Lancashire Golf Club Ltd,L23 8SZ,53.4980,-3.0520
 Subway,L28 1NR,53.4356,-2.8686
 Ego at the Punchbowl,L29 7WA,53.5065,-2.9825
@@ -99,15 +103,18 @@ Subway,L31 6DG,53.5158,-2.9311
 Sefton Meadows Ltd,L31 8BT,53.5077,-2.9626
 McDonald's,L32 1TS,53.4895,-2.8880
 Bernie's Sandwich & deli bar,L32 2AE,53.4875,-2.9011
+Community Cafe,L32 5TH,53.4838,-2.8921
 Fryer tucks cafe,L32 6QP,53.4745,-2.8765
 Costa Coffee,L32 8RD,53.4817,-2.8872
 The Cafe,L32 8UG,53.4822,-2.8885
 Workman FM,L33 7RX,53.4708,-2.8670
 Subway Kirkby ,L33 7SE,53.4810,-2.8631
 Kirkby Bank Butty Bar,L33 7SY,53.4804,-2.8551
+Cafe at the conservatory limited,L33 7TW,53.4855,-2.8529
 knowsley trade cafe,L33 7UY,53.4898,-2.8504
 AMC (LIVERPOOL) LTD,L34 0EZ,53.4543,-2.8512
 Knowsley Safari,L34 4AN,53.4363,-2.8149
+The Derby Arms,L34 9EA,53.4526,-2.8550
 Suites Hotel Knowsley ,L34 9HA,53.4640,-2.8758
 Formby Golf Club,L37 1LQ,53.5676,-3.0744
 FCD COFFEE LOUNGE,L37 1NU,53.5621,-3.0813
@@ -147,6 +154,7 @@ Love to Eat ,L39 2ER,53.5677,-2.8856
 Tap Cafe,L39 2ER,53.5677,-2.8856
 Becks Sandwich Bar,L39 2ES,53.5684,-2.8850
 Il Padrino,L39 2ES,53.5684,-2.8850
+Left Bank Brasserie,L39 2ES,53.5684,-2.8850
 Barnyard Churrasco and grill,L39 2XA,53.5681,-2.8853
 McDonalds,L39 3AE,53.5676,-2.8866
 Dinky Dory,L39 3AG,53.5682,-2.8872
@@ -185,6 +193,7 @@ Fu Hong,L4 8TT,53.4358,-2.9360
 McDonald's,L4 8UU,53.4391,-2.9398
 The Farm Burscough Ltd,L40 0RT,53.6086,-2.8873
 Eden ,L40 0SQ,53.6037,-2.8444
+WWT Martin Mere Wetland Centre,L40 0TA,53.6226,-2.8650
 Hesketh Arms,L40 1SB,53.6337,-2.8159
 The Boathouse Rufford Ltd,L40 1TD,53.6347,-2.8128
 Ormskirk pubco limited t/a The Fat Italian burscough,L40 4AY,53.6120,-2.8295
@@ -192,6 +201,7 @@ The Ship at Lathom LTD,L40 4BX,53.5970,-2.8300
 HOP VINE,L40 4BY,53.6036,-2.8418
 Hugo's,L40 5RZ,53.6027,-2.8425
 The Blue Mallard,L40 5RZ,53.6027,-2.8425
+Briars Hall Hotel,L40 5TH,53.5925,-2.8236
 The Old Packet House,L40 5TN,53.6017,-2.8440
 the plough inn ,L40 6JG,53.5652,-2.8230
 Warbreck Garden Centre,L40 6JW,53.5555,-2.8341
@@ -229,12 +239,14 @@ The coffe shop,L9 7AL,53.4663,-2.9311
 Torino,L9 7AL,53.4663,-2.9311
 the dining room ,L9 7AL,53.4663,-2.9311
 the sandwich shop,L9 7AL,53.4663,-2.9311
+McCools Creamery,L9 8AP,53.4607,-2.9621
 The Edge Joey orrs,L9 8AP,53.4607,-2.9621
 Pizzeria Mamma Mia ,PR8 1AA,53.6482,-3.0043
 LE BOULEVARD BISTRO,PR8 1AS,53.6473,-3.0054
 Megafauna,PR8 1BN,53.6453,-3.0040
 WALKERS ON WESLEY STREET,PR8 1BN,53.6453,-3.0040
 A Great Little Place,PR8 1DB,53.6473,-3.0058
+To die for Coffee bistro,PR8 1DF,53.6463,-3.0047
 THE GALLARY LIMITED,PR8 1DL,53.6468,-3.0063
 KFC - SOUTHPORT,PR8 1DT,53.6456,-3.0054
 Subway,PR8 1DW,53.6466,-3.0067
@@ -289,11 +301,13 @@ Bostons Sandwich Bar ,PR8 6DG,53.6428,-2.9763
 THATCH AND THISTLE,PR8 6EF,53.6395,-2.9728
 Southport Hospital Russets Restaurant,PR8 6PN,53.6337,-2.9782
 BISTROT PIERRE - SOUTHPORT,PR9 0AG,53.6494,-3.0043
+Bistrot Pierre - Southport,PR9 0AG,53.6494,-3.0043
 Caffe Dolce,PR9 0AG,53.6494,-3.0043
 Skylight,PR9 0AQ,53.6498,-3.0035
 SILCOCK'S EMBASSY RESTAURANT,PR9 0BX,53.6494,-3.0052
 Fuegos,PR9 0BY,53.6499,-3.0040
 Shamraat Limited,PR9 0BY,53.6499,-3.0040
+Empire Restaurant Southport Ltd,PR9 0DE,53.6493,-3.0058
 Rueters Bar and Grill,PR9 0PA,53.6483,-3.0009
 The Office Bar and Restaurant,PR9 0TE,53.6482,-3.0026
 The Whistle Stop Cafe ,PR9 0TH,53.6473,-3.0015

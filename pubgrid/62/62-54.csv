@@ -20,6 +20,7 @@ Cafe de Akbar,BD3 7AE,53.7978,-1.7103
 Aagrah Midpoint,BD3 7AY,53.7987,-1.7049
 Bollywood Brasserie,BD4 0RP,53.7710,-1.6662
 Tong Garden Centre,BD4 0RY,53.7622,-1.6766
+Nawaab Tong,BD4 0SB,53.7615,-1.6839
 The 6 Acres,BD4 0SF,53.7619,-1.6846
 Top of the range cafe,BD4 6LY,53.7679,-1.7101
 Gap Cafe,BD4 8JH,53.7910,-1.7112
@@ -47,6 +48,7 @@ La Bottega Milanese,LS1 2JZ,53.7975,-1.5476
 Moose Coffee (UK) Ltd,LS1 2JZ,53.7975,-1.5476
 Sesame Healthy Food Limited ,LS1 2LE,53.7982,-1.5507
 Bagel Nash St Paul,LS1 2QB,53.7987,-1.5541
+Delicious Enterprises UK,LS1 2QH,53.7985,-1.5505
 Town Hall Tavern,LS1 2RA,53.7993,-1.5524
 The Cosmopolitan Hotel,LS1 4AE,53.7945,-1.5425
 Bibis Restaurant Ltd,LS1 4AG,53.7943,-1.5435
@@ -67,6 +69,7 @@ Appetite Deli,LS1 4EA,53.7962,-1.5516
 Little Bao Boy,LS1 4ER,53.7961,-1.5506
 Fazenda Rodizio Bar & Grill,LS1 4GL,53.7935,-1.5488
 Out of the Woods,LS1 4GL,53.7935,-1.5488
+The Brew Society,LS1 4HT,53.7957,-1.5507
 Mans Market,LS1 4JJ,53.7962,-1.5533
 Lazy Lounge,LS1 4JY,53.7959,-1.5533
 The Whitehall Restaurant and Bar Limited,LS1 4JY,53.7959,-1.5533
@@ -164,9 +167,11 @@ North Star Coffee Shop & General Store,LS10 1PZ,53.7905,-1.5319
 MUMTAZ LEEDS LTD,LS10 1QD,53.7914,-1.5340
 Ronnies Ltd t/a McDonalds 672,LS10 1QR,53.7816,-1.5270
 Subway,LS10 1QR,53.7816,-1.5270
+Parnaby Tavern,LS10 2AB,53.7706,-1.5233
 KFC HUNSLET 02031,LS10 2AG,53.7784,-1.5317
 Costa Coffee,LS10 2AP,53.7788,-1.5286
 The Crooked Clock,LS10 2LF,53.7755,-1.5173
+Grille & Co Ltd,LS10 4AX,53.7486,-1.5355
 Starbucks Leeds Bridgewater Place,LS11 5BZ,53.7915,-1.5478
 John Charles Centre for Sport Flavour Café,LS11 5DJ,53.7642,-1.5420
 Casa Das Fransecinha ,LS11 5EG,53.7781,-1.5445
@@ -199,7 +204,9 @@ Clayton Hotel Leeds,LS11 9AT,53.7884,-1.5477
 VENUS FOODS (LEEDS) LIMITED,LS11 9NS,53.7858,-1.5603
 Gazzas Cafe,LS12 1DX,53.7909,-1.5721
 Leeds Bar & Grill,LS12 1HQ,53.7918,-1.5791
+The sugar suite ,LS12 1TZ,53.7951,-1.5888
 Resolute Leeds Limited,LS12 2DS,53.7962,-1.5667
+The Grand Valley Bar & Kitchen ,LS12 2LS,53.7987,-1.5856
 Divine gelato factory,LS12 2ND,53.7995,-1.5848
 Legends Desserts and Burger Bar Ltd,LS12 3AQ,53.7977,-1.5879
 Sambuca (Leeds) Ltd,LS12 3HB,53.7959,-1.5924
@@ -215,6 +222,7 @@ New spice house Ltd ,LS15 7JR,53.7963,-1.4701
 Bengal lounge leeds,LS15 7RN,53.7972,-1.4678
 Franco's at Thorpe Park,LS15 8GB,53.7986,-1.4281
 Skyliner Fish Restaurant ,LS15 8NN,53.7983,-1.4409
+Skyliner fish restaurant,LS15 8NN,53.7983,-1.4409
 Gino D'acampo My Restaurant ,LS15 8ZB,53.7968,-1.4265
 Thorpe Park Hotel & Spa,LS15 8ZB,53.7968,-1.4265
 KFC COLTON MILL 02023,LS15 9JH,53.7919,-1.4319
@@ -237,6 +245,7 @@ Manjit's Kitchen ,LS2 7HY,53.7976,-1.5386
 khao gaeng thai ,LS2 7HY,53.7976,-1.5386
 Akbar's Restaurant,LS2 7LY,53.7990,-1.5384
 Pizza Fella Pizzeria Ltd,LS2 7NL,53.7997,-1.5393
+The Old Red Bus Station,LS2 7NL,53.7997,-1.5393
 The Owl,LS2 7RQ,53.7968,-1.5399
 Turkish Delight,LS2 7RQ,53.7968,-1.5399
 Forum Leisure Centre,LS2 7UA,53.7982,-1.5310
@@ -287,7 +296,9 @@ EIGHTEEN90 LTD,LS27 8HE,53.7440,-1.5999
 Sambuca Lounge,LS27 8HG,53.7440,-1.5996
 The Miners Arms,LS27 8LG,53.7480,-1.5932
 The Full Monty,LS27 8LL,53.7541,-1.5979
+Red brick cafe,LS27 8PW,53.7496,-1.5717
 Cafe Nicoles,LS27 8QH,53.7452,-1.5981
+Sportsman inn,LS27 9AD,53.7426,-1.6010
 Lime Tree Bistro,LS27 9BR,53.7465,-1.6023
 Cucina Cafe Bar & Restaurant,LS27 9EB,53.7437,-1.6003
 Carriers Arms,LS27 9HG,53.7399,-1.5947
@@ -306,6 +317,7 @@ Cafe 164,LS9 8AG,53.7968,-1.5339
 Sarto Leeds ltd,LS9 8AG,53.7968,-1.5339
 Aagrah Restaurant Leeds,LS9 8AH,53.7971,-1.5332
 Kendells Bistro,LS9 8AH,53.7971,-1.5332
+The Wardrobe,LS9 8AH,53.7971,-1.5332
 Casa Peri Peri,LS9 8AQ,53.7971,-1.5331
 The Gateway Bar & Grill,LS9 8BZ,53.7950,-1.5327
 Blukku Ltd,LS9 8HB,53.7963,-1.5286
@@ -313,6 +325,7 @@ The New Captains Table,LS9 8LH,53.7900,-1.5233
 Ruby's Ice Cream,S71 4QU,53.5979,-1.4537
 Poppy's of Cudworth LTD,S72 8JN,53.5776,-1.4166
 Two Gates Fisheries,S72 8PZ,53.5897,-1.4070
+PRISSANA THAI RESTAURANT,S72 8QP,53.5894,-1.4058
 Burntwood Sports Ltd,S72 9ET,53.5916,-1.3640
 Millers Inn,S75 1LX,53.5758,-1.5228
 The cherry tree inn,S75 4BE,53.5866,-1.5886
@@ -325,6 +338,7 @@ tandoori hut restaurant,S75 6DJ,53.5832,-1.4872
 Mezzaluna Ristorante,S75 6FW,53.5856,-1.5019
 Subway,WF1 1BW,53.6821,-1.5009
 Union Bank,WF1 1BW,53.6821,-1.5009
+Now Serving ,WF1 1DH,53.6807,-1.5001
 Mr Juice Fresh Smoothie Bar,WF1 1DS,53.6818,-1.4961
 Bengal Palace,WF1 1ED,53.6805,-1.5025
 DUE AMICI YORKS LIMITED T/A DOLCE VITA,WF1 1ED,53.6805,-1.5025
@@ -337,6 +351,7 @@ Al's Tea and coffee Shop ,WF1 1HX,53.6824,-1.4938
 Harry's Fish & Chip Restaurant,WF1 1HX,53.6824,-1.4938
 Sweet Sensation Creamery Limited,WF1 1JG,53.6811,-1.4925
 Holiday Inn Express Wakefield,WF1 1JU,53.6819,-1.4994
+Syhiba restaurant ,WF1 1NE,53.6808,-1.4951
 Montys,WF1 1PJ,53.6832,-1.4967
 Break-Fast,WF1 1PN,53.6836,-1.4970
 neptune diner,WF1 1PN,53.6836,-1.4970
@@ -359,6 +374,7 @@ Wetherby Whaler,WF1 2DX,53.7097,-1.5019
 Create Cafe,WF1 2EB,53.6842,-1.5037
 KRAFT ,WF1 2ED,53.6834,-1.4996
 Smokehouse Real BBQ Limited,WF1 2ED,53.6834,-1.4996
+The Golden Pineapple,WF1 2ED,53.6834,-1.4996
 damelio,WF1 2ED,53.6834,-1.4996
 QUBANA ,WF1 2EL,53.6835,-1.5005
 Festive Fusion,WF1 2HB,53.6838,-1.5003
@@ -381,8 +397,10 @@ Felice’s Bella Roma ,WF1 3BP,53.6845,-1.4999
 fino pizzeria & cicchetti Ltd,WF1 3BP,53.6845,-1.4999
 Corarima LTD,WF1 3BW,53.6839,-1.5000
 The Yorkshire Deli & Pizza Bar,WF1 3BX,53.6853,-1.5004
+Fryday,WF1 3NA,53.6872,-1.4968
 Abduls,WF1 3NR,53.6868,-1.4939
 Taste Buds At The Station,WF1 4EL,53.6787,-1.4893
+Kashmiri Posh Nosh,WF1 5DY,53.6720,-1.4824
 RAJA'S DESI GRILL,WF1 5DY,53.6720,-1.4824
 Aagrah Sandal ,WF1 5NX,53.6661,-1.4867
 Thornes Lane Cafe,WF1 5RS,53.6743,-1.4966
@@ -392,6 +410,7 @@ Blue cup cafe,WF10 1AG,53.7268,-1.3514
 Judys cafe,WF10 1AG,53.7268,-1.3514
 Cafe vida ,WF10 1AX,53.7265,-1.3494
 Revs Coffee House,WF10 1AY,53.7269,-1.3496
+Carvery Cafe,WF10 1BE,53.7257,-1.3520
 Tartan Coffee Lounge Ltd,WF10 1DG,53.7257,-1.3524
 Plan Bee,WF10 1DX,53.7255,-1.3546
 Ritz Bingo Castleford,WF10 1EG,53.7254,-1.3564
@@ -400,6 +419,7 @@ Chefs cafe,WF10 1QR,53.7250,-1.3791
 WHITE HORSE,WF10 2AB,53.7531,-1.3437
 Samuel Valentine - The Urban Food Hall,WF10 2BP,53.7437,-1.3653
 Victoria Hotel,WF10 2BZ,53.7440,-1.3687
+SMITHS FOOD BAR,WF10 2DL,53.7456,-1.3690
 Faye's Sandwich Bar ,WF10 2SE,53.7297,-1.3441
 Michelle’s cafe ,WF10 3JJ,53.7235,-1.3146
 Bake n sarnie,WF10 3SG,53.7270,-1.3112
@@ -430,6 +450,7 @@ Chillichicks,WF12 9PJ,53.6860,-1.6313
 The Timepiece,WF13 1DS,53.6924,-1.6296
 THE COCOA LOUNGE,WF13 1DT,53.6926,-1.6293
 Blazed Wood Fired Pizza,WF13 1DX,53.6932,-1.6296
+PFC Dewsbury,WF13 1DX,53.6932,-1.6296
 Pops,WF13 1DX,53.6932,-1.6296
 Royal King Grill Restaurant,WF13 1JS,53.6903,-1.6310
 Costa Coffee,WF13 1NH,53.6904,-1.6287
@@ -440,6 +461,7 @@ Fortune Cookie,WF13 2DU,53.6958,-1.6312
 TTH Dewsbury LTD,WF13 2DU,53.6958,-1.6312
 grilled and filtered,WF13 2DU,53.6958,-1.6312
 MOONLIGHT,WF13 2JN,53.6951,-1.6351
+cafe express,WF13 3ET,53.6800,-1.6592
 Wenjo’s health bar,WF13 3LD,53.6785,-1.6651
 chill and chat cafe ,WF13 3NT,53.6939,-1.6568
 The Pie Shed,WF13 4DH,53.6982,-1.6511
@@ -455,13 +477,13 @@ Taylors,WF14 8AT,53.6743,-1.6955
 The al nawab limited,WF14 8LN,53.6732,-1.6925
 Cupushi,WF14 8NR,53.6702,-1.6967
 The Sandwich Shop,WF14 8PJ,53.6716,-1.6979
+The Pear Tree Inn,WF14 9DL,53.6797,-1.7122
 Salvia Restaurant,WF14 9DQ,53.6784,-1.7079
 VELVET LOUNGE LIMITED,WF14 9DQ,53.6784,-1.7079
 the dusty miller public house and restaurant,WF14 9JJ,53.6824,-1.6861
 The Liversedge,WF15 6HX,53.7117,-1.6835
 MR T HARRINGTON T/A HEALDS HALL,WF15 6JA,53.7118,-1.6849
 The Golden Fish,WF15 7DQ,53.7065,-1.6907
-Food For Thought Cafe,WF15 7LE,53.6995,-1.7045
 Reids ,WF15 7LE,53.6995,-1.7045
 The Star,WF15 7LQ,53.6982,-1.7065
 The Gallery,WF16 0EX,53.7065,-1.6748
@@ -476,8 +498,10 @@ icestone gelato,WF17 5EP,53.7131,-1.6309
 Yorem Turkish Restaurant Ltd,WF17 5EY,53.7132,-1.6300
 Desi Dhaba ,WF17 5HJ,53.7127,-1.6298
 brew batley ltd,WF17 5HU,53.7122,-1.6329
+Indian Nights,WF17 5JE,53.7120,-1.6332
 Mr T's,WF17 5LZ,53.7126,-1.6263
 CEYLON DOSA LTD,WF17 5PN,53.7105,-1.6272
+Lalas Restaurant ,WF17 5PQ,53.7095,-1.6273
 Kake Temptations Yorkshire Ltd ,WF17 5PS,53.7099,-1.6274
 tiffin by loonat,WF17 5PW,53.7109,-1.6268
 The Corner Cafe,WF17 5RY,53.7150,-1.6338
@@ -485,6 +509,7 @@ Dixxi Pizza Bar Ltd ,WF17 5SA,53.7151,-1.6338
 Oasis Restaurant ,WF17 6HT,53.7091,-1.6262
 Snowcold Creamery ,WF17 6HY,53.7078,-1.6270
 Zucchini Restaurant Ltd,WF17 6JD,53.7045,-1.6278
+Oaktree cafe,WF17 6JL,53.7028,-1.6300
 HSL Manufacturing Limited (Workforce canteen),WF17 6LN,53.7085,-1.6181
 Oasis sandwich &Coffee  Bar,WF17 7BA,53.7053,-1.6501
 Jems Pit Stop,WF17 8ND,53.7262,-1.6530
@@ -513,6 +538,7 @@ The Queens Arms ,WF2 8ED,53.6706,-1.5037
 Mother Hubbards,WF2 8TU,53.6777,-1.5158
 coffeeboy,WF2 9BL,53.6788,-1.5163
 Ronnies Limited t/a McDonalds 569,WF2 9BY,53.6784,-1.5252
+Smokie joes,WF2 9RG,53.6801,-1.5091
 KFC,WF2 9SE,53.6780,-1.5026
 Ronnies Limited t/a McDonalds 668,WF2 9SE,53.6780,-1.5026
 Subway,WF2 9SH,53.6770,-1.5058
@@ -539,6 +565,7 @@ The Sun Inn ,WF4 4DW,53.6301,-1.6452
 The Spiced Mango,WF4 4NS,53.6509,-1.5962
 SeedRoom,WF4 4RG,53.6491,-1.6096
 Reindeer Inn (OVERTON) Ltd,WF4 4RL,53.6446,-1.6149
+Shans Restaurant ,WF4 5AB,53.6592,-1.5547
 Caffe Capri,WF4 5AG,53.6592,-1.5525
 EGO at the Bulls Head,WF4 5AS,53.6564,-1.5533
 Nostalgic Kitchen,WF4 5DA,53.6593,-1.5503
@@ -548,6 +575,7 @@ The Quarry Restaurant and Grill,WF4 5NF,53.6590,-1.5665
 Cinnamon Lounge,WF4 5NN,53.6581,-1.5708
 Di bosco (retail) LTD,WF4 5PR,53.6578,-1.5769
 Capri Horbury,WF4 5QA,53.6560,-1.5787
+Rich and Fancy ,WF4 6LP,53.6602,-1.5551
 The Cherry Tree Horbury Limited,WF4 6LT,53.6607,-1.5544
 Malagor,WF5 0NH,53.6776,-1.5636
 Eller Coffee,WF5 8AD,53.6790,-1.5795
@@ -581,8 +609,10 @@ Mauds Cafe Bar,WF8 1AQ,53.6910,-1.3106
 Flavours Coffee Shops Ltd,WF8 1BA,53.6920,-1.3112
 KFC,WF8 1BJ,53.6920,-1.3139
 Coffee At The Court,WF8 1BP,53.6920,-1.3150
+AL JAMIL BALTI RESTAURANT ,WF8 1DA,53.6918,-1.3147
 KAYASAN YORKSHIRE LIMITED ,WF8 1HE,53.6927,-1.3102
 MAMMA MIA,WF8 1HJ,53.6945,-1.3080
+monkhill sandwiches ltd,WF8 1JD,53.7004,-1.3032
 Myxology Ltd ,WF8 1LG,53.6902,-1.3126
 Alleyc'zam cafe and bar,WF8 1LN,53.6898,-1.3125
 WF8 1LN,WF8 1LN,53.6898,-1.3125

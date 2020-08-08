@@ -33,6 +33,7 @@ Four Seasons Restaurant,LE1 3FG,52.6367,-1.1300
 Mums coffee shop,LE1 3FS,52.6375,-1.1303
 FOOD DINERS LTD,LE1 3GP,52.6375,-1.1327
 mcindians,LE1 3GP,52.6375,-1.1327
+NAV MAX LTD,LE1 3GQ,52.6387,-1.1319
 Everest Dine Leicester,LE1 3HR,52.6390,-1.1308
 Cafe Daniel Ltd,LE1 3HS,52.6405,-1.1296
 Al Jumeirah,LE1 3HT,52.6420,-1.1283
@@ -50,8 +51,10 @@ Tim Hortons,LE1 4FB,52.6362,-1.1337
 1573 bar and grill,LE1 4FY,52.6359,-1.1382
 The Queen of Bradgate,LE1 4JB,52.6356,-1.1379
 The Tree,LE1 4JB,52.6356,-1.1379
+Novotel Leicester,LE1 4JS,52.6371,-1.1404
 subway,LE1 4LD,52.6353,-1.1393
 Grosvenor Casino Leicester,LE1 4NN,52.6357,-1.1392
+Tandem Restaurants Ltd,LE1 4PG,52.6363,-1.1391
 Esquires Coffee,LE1 4SG,52.6363,-1.1405
 KOKORO,LE1 5AD,52.6355,-1.1327
 Bonzai Sushi Bar,LE1 5AW,52.6341,-1.1350
@@ -74,11 +77,14 @@ Cafe Mbriki,LE1 5FL,52.6352,-1.1364
 Almeida coffee & Juice Bar,LE1 5FQ,52.6350,-1.1372
 CAFE RIALTO,LE1 5FT,52.6352,-1.1349
 ORSO Leicester,LE1 5GF,52.6348,-1.1342
+Chloe Gourmet,LE1 5GW,52.6352,-1.1341
+33 Cank Street,LE1 5GX,52.6352,-1.1345
 Wygston’s house,LE1 5LD,52.6345,-1.1386
 Holiday Inn Leicester,LE1 5LX,52.6340,-1.1409
 Fernandez grillhouse,LE1 5RA,52.6328,-1.1366
 REDS TRUE BARBECUE AT BREWDOG,LE1 5RA,52.6328,-1.1366
 SPICY STYLE (LEICESTER) LTD,LE1 5SP,52.6319,-1.1372
+Chinese Snack Box,LE1 5YP,52.6353,-1.1373
 Shanghai Moon,LE1 5YP,52.6353,-1.1373
 Wakaze,LE1 5YP,52.6353,-1.1373
 chinese snack box,LE1 5YP,52.6353,-1.1373
@@ -141,6 +147,7 @@ Coco cafe,LE13 1BU,52.7649,-0.8851
 Cafe Smiles,LE13 1JY,52.7692,-0.8882
 The Market Tavern,LE13 1JY,52.7692,-0.8882
 AMICI,LE13 1NN,52.7659,-0.8882
+All things nice cafe,LE13 1NN,52.7659,-0.8882
 TRUT LTD (trading as Spice Club),LE13 1NW,52.7658,-0.8877
 Time Out,LE13 1PJ,52.7654,-0.8872
 CM Restaurants (Holdings) Ltd,LE13 1RB,52.7645,-0.8809
@@ -162,7 +169,9 @@ Blue Bell Inn,LE14 3DT,52.7507,-1.0085
 The Anchor Inn,LE14 3HB,52.8237,-0.9714
 The Crown Inn,LE14 3LF,52.8083,-1.0061
 J & L Sysonby Holdings Limited,LE14 3QU,52.7634,-0.9233
+The Empress Of India ,LE14 3RZ,52.7642,-0.9482
 The Kings Arms,LE14 4DW,52.8096,-0.8710
+Wookies ,LE15 7ES,52.7195,-0.7725
 The White Lion Inn,LE15 7ET,52.7197,-0.7726
 The Wheatsheaf Langham ,LE15 7HY,52.6913,-0.7507
 Gates Garden Centre,LE15 7QB,52.6807,-0.8046
@@ -205,14 +214,17 @@ Saints of Mokha,LE2 1HF,52.6269,-1.1173
 Brgr Bro,LE2 1HL,52.6257,-1.1086
 Lokma bbq ltd,LE2 1HL,52.6257,-1.1086
 The Old Horse,LE2 1NE,52.6242,-1.1149
+Cafe la Blanche ,LE2 1PA,52.6247,-1.1081
 Mubarak's indo Chinese ,LE2 1PP,52.6252,-1.1102
 Coffee Maison,LE2 1QH,52.6262,-1.1123
 Al-Barakah Foods ,LE2 1QL,52.6252,-1.1080
 Marhaba Steak & Grill,LE2 1QL,52.6252,-1.1080
+kortoba,LE2 1QL,52.6252,-1.1080
 Chaiiwala,LE2 1QN,52.6247,-1.1061
 Qbaraz Restaurant ,LE2 1QN,52.6247,-1.1061
 The Clarendon ,LE2 1TS,52.6185,-1.1159
 Coffee Ethic,LE2 1TT,52.6180,-1.1176
+Fingerprints Deli Café,LE2 1TT,52.6180,-1.1176
 Halcyon Kitchen,LE2 1TT,52.6180,-1.1176
 COSTA COFFEE,LE2 1TU,52.6180,-1.1171
 Subway,LE2 1TU,52.6180,-1.1171
@@ -225,10 +237,12 @@ Deli Flavour,LE2 2DA,52.6168,-1.1000
 Timo restaurant ltd,LE2 2DA,52.6168,-1.1000
 The Cow and Plough,LE2 2FB,52.6131,-1.0717
 Leicestersire Aero Club Ltd,LE2 2FG,52.6057,-1.0380
+100&six,LE2 3FL,52.6164,-1.1160
 LEICESTERSHIRE LAWN TENNIS CLUB LIMITED(THE),LE2 3HF,52.6129,-1.1110
 The Cradock Arms,LE2 3TT,52.6093,-1.1169
 Zak's Cafe Limited,LE2 4LA,52.6002,-1.0814
 COSTA COFFEE,LE2 5BB,52.6000,-1.0836
+Leeja Palace ,LE2 5BB,52.6000,-1.0836
 Cidade'de Leicester,LE2 6BH,52.6157,-1.1258
 Heritage India,LE2 6EH,52.6120,-1.1234
 SPICE BAZZAR ,LE2 6EH,52.6120,-1.1234
@@ -246,6 +260,7 @@ Vape Cafe,LE2 8PE,52.6016,-1.1560
 STARBUCKS,LE3 0BG,52.6257,-1.1485
 LOOQMA,LE3 0BL,52.6292,-1.1481
 Rockin Diner,LE3 0BL,52.6292,-1.1481
+La Dolce Vita,LE3 0BQ,52.6299,-1.1480
 cedars lebanese restaurant ,LE3 0BQ,52.6299,-1.1480
 Bronkos Restaurant,LE3 0BR,52.6289,-1.1487
 Lahore Chicken and Pizza Limited,LE3 0BR,52.6289,-1.1487
@@ -263,12 +278,15 @@ Mithaas Limited ,LE3 0PA,52.6273,-1.1506
 MIYAKI RESTAURANT AND BAR,LE3 0PE,52.6244,-1.1535
 ABC Food Private Limited T/A The Tamarind Indian Restaurant,LE3 0RA,52.6308,-1.1485
 NAMASTE INDIAN RESTAURANT ,LE3 0TB,52.6315,-1.1500
+Express Chicken and Pizza,LE3 2AN,52.6230,-1.1540
+Curry Palace,LE3 2BE,52.6178,-1.1565
 Lyn's Cafe,LE3 2QR,52.6230,-1.1548
 Oporto Galo ,LE3 5EZ,52.6407,-1.1520
 Embassy Shisha Lounge LTD,LE3 5GH,52.6437,-1.1452
 96 Degrees,LE3 5LG,52.6310,-1.1456
 Braunstone Foods Ltd,LE3 5LG,52.6310,-1.1456
 Efes Leicester Ltd,LE3 5LG,52.6310,-1.1456
+Natterjacks ,LE3 5LG,52.6310,-1.1456
 Subway,LE3 5LG,52.6310,-1.1456
 Braunstonefryer limited,LE3 5LH,52.6313,-1.1457
 royalchicken&pizza,LE3 5LH,52.6313,-1.1457
@@ -304,9 +322,11 @@ Paddy's Marten Inn,LE4 6EU,52.6477,-1.1075
 Jaan Cafe Restaurant,LE4 6GD,52.6519,-1.1083
 Tadka restaurant,LE4 6GE,52.6512,-1.1088
 Vishal Restaurant,LE4 6GG,52.6528,-1.1058
+VICTORIA JUBILEE PUBLIC HOUSE,LE4 6NT,52.6547,-1.1166
 Bhaijaanz Restaurant ,LE4 6PN,52.6529,-1.1197
 Bombay Street Kitchen,LE4 6PN,52.6529,-1.1197
 Café Delhi ,LE4 6PN,52.6529,-1.1197
+Royal Bites ,LE4 6PN,52.6529,-1.1197
 Indian Rooster Ltd,LE4 6QS,52.6550,-1.1182
 S P Rana & Sons Ltd T/A The Royal Indian ,LE4 6QS,52.6550,-1.1182
 TIRANGA RESTAURANT LIMTED,LE4 6QS,52.6550,-1.1182
@@ -326,9 +346,11 @@ The Harrow Inn,LE4 8EB,52.6757,-1.1010
 McDonald's Restaurants Ltd,LE4 8GP,52.6840,-1.0895
 BBQ ISTANBUL,LE4 9DB,52.6520,-1.0943
 The Canteen,LE4 9HU,52.6621,-1.0822
+the willow,LE4 9JR,52.6671,-1.0896
 Altro Mondo Restaurant,LE5 0AR,52.6372,-1.1261
 BILLY'S FISH BAR (P P) LTD,LE5 0DQ,52.6441,-1.1054
 FUSIC Restaurant ,LE5 0DQ,52.6441,-1.1054
+Fusic,LE5 0DQ,52.6441,-1.1054
 EXIT LOUNGE - Huqqa Garden,LE5 0HL,52.6458,-1.1028
 Chai chaska ltd,LE5 0QD,52.6423,-1.1024
 McDonald's,LE5 1DL,52.6474,-1.0677
@@ -337,16 +359,20 @@ Moghul Express,LE5 3EE,52.6370,-1.1123
 BUKHOOR EXPRESS LTD,LE5 3FG,52.6401,-1.1140
 BUKHOOR LTD,LE5 3FG,52.6401,-1.1140
 The CHARNY pub n dining,LE5 3GH,52.6411,-1.1088
+goldpepper,LE5 3TA,52.6419,-1.1019
 Big corner ,LE5 3TB,52.6419,-1.0995
 Gallus ,LE5 3TB,52.6419,-1.0995
 Lariwala,LE5 3TJ,52.6392,-1.1033
 Milans Dhosa Express ,LE5 3TJ,52.6392,-1.1033
+Euro Cafe,LE5 4DG,52.6419,-1.0892
 Himalayan Mountain ltd,LE5 4FF,52.6350,-1.0935
 Chaiiwala,LE5 4GH,52.6352,-1.1010
+Khana Khazana ,LE5 4HG,52.6341,-1.1011
 NN food ltd t/a Apna pizza,LE5 4HG,52.6341,-1.1011
 imran's kitchen,LE5 4HG,52.6341,-1.1011
 Indian Spices Restaurant and Takeaway ,LE5 4PA,52.6373,-1.0985
 NEW TASTE OF CEYLON LIMITED,LE5 4PA,52.6373,-1.0985
+Masala Hut & Grill,LE5 4QB,52.6357,-1.1024
 THYME,LE5 5DN,52.6333,-1.1066
 VIP BOX LTD,LE5 5FN,52.6298,-1.0967
 Cafe Portugal,LE5 5LN,52.6286,-1.1006
@@ -361,6 +387,7 @@ Queen Victoria Public House,LE7 1GQ,52.7004,-1.0778
 The bay tree Syston Limited,LE7 1GZ,52.6992,-1.0738
 the gate hangs well,LE7 1NH,52.6959,-1.0877
 Saffron Ivy,LE7 2HA,52.6950,-1.0793
+the red rose ,LE7 2HA,52.6950,-1.0793
 The New World Cafe,LE7 2HB,52.6972,-1.0758
 subway,LE7 2HD,52.6985,-1.0740
 Mumbai Wok Limited,LE7 2JS,52.6948,-1.0789

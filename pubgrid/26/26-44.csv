@@ -14,9 +14,8 @@ The Flintlock Inn ,EX14 9AJ,50.8899,-3.0604
 THE SPICE LOVER LTD,TA1 2EL,51.0182,-3.0821
 554 Taunton DT McDonalds -  Lambtrad Ltd T/A McDonalds,TA1 2LP,51.0242,-3.0669
 Tiffin ,TA1 2LP,51.0242,-3.0669
-Red Chilli Shop,TA1 2PD,51.0135,-3.0773
 The Master Thatcher,TA1 2PD,51.0135,-3.0773
-Western Provident Association,TA1 2PE,51.0152,-3.0677
+TNS Catering_WPA,TA1 2PE,51.0152,-3.0677
 Subway taunton deane service,TA1 2UH,51.0200,-3.0661
 Lamb and Lion,TA10 0AT,50.9903,-2.8639
 Hambridge Village Stores and Coffee Shop,TA10 0AU,50.9886,-2.8635
@@ -25,6 +24,7 @@ The Firehouse Somerset,TA10 0HE,51.0235,-2.8695
 The Old Pound Inn,TA10 0RA,51.0609,-2.8577
 THE HALFWAY HOUSE,TA10 9AB,51.0469,-2.7849
 The Pitney farm cafe,TA10 9AP,51.0576,-2.7947
+ABP Langport,TA10 9HG,51.0325,-2.8161
 The Lime Kiln,TA10 9JH,51.0311,-2.7417
 Devonshire Arms,TA10 9LP,51.0256,-2.7582
 Kitchen at the Wharf,TA10 9PN,51.0368,-2.8341
@@ -89,6 +89,7 @@ The Haymaker Inn ,TA20 3AP,50.8900,-2.9798
 Hornsbury Mill,TA20 3AQ,50.8935,-2.9502
 LA CAMPAGNA CHARD LTD,TA20 3JE,50.9139,-3.0221
 THE GREEN DRAGON,TA20 3NG,50.8964,-2.9929
+the green dragon,TA20 3NG,50.8964,-2.9929
 BARLEYMOWS FARM SHOP & RESTAURANT,TA20 3PS,50.8770,-2.9891
 Candlelight Inn,TA20 3RS,50.9096,-3.0589
 The Cafe Chard Equestrian ,TA20 4BP,50.8750,-2.9277

@@ -1,13 +1,16 @@
 name,postcode,lat,lon
 The Georgian Tearooms,DN1 1BB,53.5233,-1.1349
+Subway,DN1 1DE,53.5228,-1.1335
 Mercure Doncaster Danum Hotel,DN1 1DN,53.5226,-1.1330
 KFC,DN1 1DW,53.5231,-1.1330
 The grind,DN1 1DW,53.5231,-1.1330
 ZEST BAR AND GRILL,DN1 1DW,53.5231,-1.1330
 Bowers Coffee Shop,DN1 1HF,53.5235,-1.1323
 CHINESE CATERING LIMITED,DN1 1HT,53.5241,-1.1311
+lalezar,DN1 1JD,53.5236,-1.1297
 Legends desserts & burger,DN1 1JE,53.5232,-1.1292
 The Georgian Patisserie,DN1 1LA,53.5231,-1.1381
+Subway,DN1 1LB,53.5231,-1.1393
 Debenhams Restaurant Doncaster,DN1 1LH,53.5245,-1.1387
 C & P ROTHWELL LTD,DN1 1LQ,53.5250,-1.1333
 D & L Rothwell Ltd,DN1 1LQ,53.5250,-1.1333
@@ -40,10 +43,12 @@ Movida Bar & Restaurant ,DN1 1TS,53.5225,-1.1345
 Fish Bits,DN1 2BY,53.5160,-1.1281
 Salutation Doncaster Ltd ,DN1 2DR,53.5214,-1.1272
 The Regent Hotel LTD,DN1 2DS,53.5222,-1.1259
+Doncaster Tandoori ,DN1 2PE,53.5260,-1.1302
 El Boca Doncaster Ltd,DN1 2PH,53.5251,-1.1305
 La Rustica Doncaster Ltd,DN1 2PH,53.5251,-1.1305
 zammuto steak and grill house,DN1 2PH,53.5251,-1.1305
 EL TORERO DONCASTER LIMITED,DN1 2PW,53.5251,-1.1296
+KOZ TURKISH BARBECUE AND MEZZE BAR,DN1 2PW,53.5251,-1.1296
 Sarahs desserts snack bar ,DN1 2QP,53.5268,-1.1283
 SPICE AND ICE,DN1 2SD,53.5303,-1.1270
 The Leopard,DN1 3AA,53.5208,-1.1378
@@ -55,10 +60,12 @@ Java Cafe,DN1 3JU,53.5206,-1.1325
 Bake battle and roll ,DN1 3LW,53.5219,-1.1326
 Cactus Jacks,DN1 3NA,53.5225,-1.1301
 Poppadoms and Cream,DN1 3NL,53.5223,-1.1286
+poppadomsandcream,DN1 3NL,53.5223,-1.1286
 The Classic & Contemporary Cake Co Coffee Shop ,DN10 6DG,53.4538,-1.0258
 Rossington Hall Limited,DN11 0HR,53.4623,-1.0400
 Mount Pleasant Hotel,DN11 0HW,53.4713,-1.0368
 Nelson Coffee Shop Limited,DN11 0PE,53.4786,-1.0799
+Addu's Indian restaurant,DN11 0PG,53.4787,-1.0807
 Blacksmiths Arms,DN11 8LB,53.4172,-1.0764
 Styrrup Hall Golf & Country Club ,DN11 8NB,53.4077,-1.0903
 Wellingtons Cafe,DN11 9EX,53.4321,-1.0909
@@ -71,6 +78,7 @@ Robbo's Diner,DN12 1NP,53.4767,-1.1884
 The Topiary Coffee Shop,DN12 2AE,53.4811,-1.2151
 The Indus Restaurant & Bar ,DN12 2BT,53.4787,-1.2298
 Seafish Restaurant,DN12 3AG,53.4820,-1.2248
+Balti palace Conisbrough limited ,DN12 4DG,53.4910,-1.2417
 Urban Fresh Burgers & Fries,DN2 4BG,53.5407,-1.1092
 JJ's Cafe and Sandwich Bar,DN2 4PW,53.5432,-1.0954
 GO BOUNCE TRAMPOLINE PARK,DN2 4SQ,53.5433,-1.0795
@@ -120,7 +128,7 @@ Doncaster Golf Club,DN4 7PD,53.5143,-1.0968
 McDonald's Restaurant,DN4 7PD,53.5143,-1.0968
 The Dome,DN4 7PD,53.5143,-1.0968
 McDonald's Restaurant,DN4 8DD,53.5073,-1.1481
-Subway,DN4 8SN,53.4915,-1.1379
+SUBWAY,DN4 8SN,53.4915,-1.1379
 Lotus Indian restaurant ,DN4 9LU,53.4980,-1.1817
 Cafè L.A.,DN5 0AT,53.5461,-1.1468
 Moona Coffee,DN5 0AT,53.5461,-1.1468
@@ -140,6 +148,7 @@ The Sun Inn,DN5 8QE,53.5370,-1.1684
 NAAZ INDIAN RESTAURANT & TAKE-AWAY,DN5 9BG,53.5341,-1.1545
 McDonald's Restaurant,DN5 9TP,53.5315,-1.1463
 McDonald's Restaurant,DN6 7FB,53.5744,-1.2104
+5 Flavours Cafe ,DN6 7HP,53.5631,-1.1946
 Aagrah Doncaster,DN6 7RA,53.5591,-1.1911
 Sarah-janes tearooms and coffee lounge,DN7 4BY,53.5625,-1.0278
 Punch Bowl,S12 2SF,53.3573,-1.4322
@@ -179,7 +188,7 @@ Tings Thai Kitchen,S60 1QA,53.4299,-1.3581
 Interchange Cafe Limited,S60 1QB,53.4332,-1.3564
 Caffe Cristinacce,S60 1RZ,53.4397,-1.3522
 McDonald's Parkgate Retail Park,S60 1SG,53.4417,-1.3483
-Subway,S60 1TG,53.4444,-1.3450
+SUBWAY,S60 1TG,53.4444,-1.3450
 Carlton Park Hotel,S60 2BG,53.4190,-1.3480
 KFC Canklow,S60 2JH,53.4178,-1.3608
 Zaika kebabs and sweets ,S60 2LR,53.4295,-1.3542
@@ -203,12 +212,15 @@ The Masons Arms Thorpe Hesley,S61 2RP,53.4612,-1.4340
 The Bay Horse,S61 2RQ,53.4547,-1.4152
 kimberworth park rotherham,S61 3AX,53.4494,-1.4011
 Tuck In Cafe,S61 3QY,53.4437,-1.3923
+THE MILTON ARMS,S61 4DY,53.4567,-1.3744
 The Mill Dam,S61 4HH,53.4544,-1.3789
 WJ CAFE,S61 4RN,53.4457,-1.3525
+Parkgate Fisheries ,S62 6DX,53.4520,-1.3438
 The Fitzwilliam Arms Hotel,S62 6EE,53.4501,-1.3473
 Starbucks Rotherham DT,S62 6EJ,53.4494,-1.3414
 Greetings cafe,S62 6EQ,53.4511,-1.3446
 Urban Fresh Burgers & Fries,S62 6FP,53.4485,-1.3471
+George's 2019 Ltd,S62 6HG,53.4526,-1.3491
 Jump INCflated,S62 6JQ,53.4471,-1.3451
 earl grey,S62 6NE,53.4591,-1.3441
 Big bs,S62 7JW,53.4688,-1.3446
@@ -255,6 +267,7 @@ mark woodward t/a brecks social club,S65 3HZ,53.4215,-1.3069
 McDonald's Dalton - Rotherham Drive Thru,S65 3SR,53.4491,-1.3273
 earl of strafford,S65 4PF,53.4675,-1.2731
 Seven Seas Limited,S66 1AG,53.4199,-1.2874
+Ewans,S66 1DY,53.4105,-1.2746
 McDonald's Bramley - Bawtry Rd,S66 1YY,53.4220,-1.2542
 Chaudrys Restaurant Ltd,S66 2BW,53.4218,-1.2844
 Gas Lamp Wickersley Limited,S66 2BW,53.4218,-1.2844
@@ -315,10 +328,12 @@ big filla ltd,S9 2DE,53.4012,-1.4172
 Subway Centretainment,S9 2EP,53.4011,-1.4143
 tinsley subway,S9 2YL,53.4099,-1.4068
 McDonald's Meadowhall Retail Park near Valley Centertainment,S9 2YZ,53.4052,-1.4126
+BAIG COFFEE N CREAM,S9 3FR,53.3882,-1.4205
+BAIG DESSERTS PARLOUR,S9 3FR,53.3882,-1.4205
 Courtyard Cafe-Bar,S9 3QS,53.3927,-1.4334
 La Vlad Restaurant,S9 3RA,53.3924,-1.4352
-Blast Snack Bar,S9 3RE,53.3947,-1.4316
 Big Baps Sandwich Shop ,S9 3RN,53.3934,-1.4325
+PRIY EATERY,S9 4AD,53.3813,-1.4001
 waverley road cafe,S9 4PJ,53.3852,-1.4083
 Subway,S9 5HZ,53.3873,-1.4084
 Cara Restaurants Limited McDonalds 1189,S9 5PA,53.3916,-1.4087

@@ -1,7 +1,6 @@
 name,postcode,lat,lon
 Lobo Rojo,NE30 1HB,55.0103,-1.4349
 Allard's on the Quay,NE30 1HJ,55.0093,-1.4357
-sambuca cafe ltd,NE30 1HJ,55.0093,-1.4357
 The Staith House,NE30 1JA,55.0096,-1.4341
 How do you do North Shields ,NE30 1JS,55.0100,-1.4352
 Low Lights Tavern,NE30 1LL,55.0110,-1.4350
@@ -20,6 +19,7 @@ robinson crusoes,NE30 4HH,55.0221,-1.4227
 the view tynemouth,NE30 4JA,55.0304,-1.4304
 Tynemouth Aquarium - Bay and Laurel,NE30 4JF,55.0277,-1.4304
 The Greenhouse,NE30 4JL,55.0255,-1.4299
+Dibbley’s ,NE30 4LP,55.0196,-1.4257
 Priory Coffee Shop,NE30 4LT,55.0188,-1.4251
 The Boatyard,NE30 4PL,55.0351,-1.4339
 cullercoats coffee,NE30 4PL,55.0351,-1.4339
@@ -32,6 +32,7 @@ Little Haven Hotel,NE33 1LH,55.0065,-1.4282
 TANDOORI INTERNATIONAL,NE33 2JL,55.0005,-1.4253
 The Clifton Coffeeshop,NE33 2JL,55.0005,-1.4253
 Colmans Of South Shields,NE33 2JQ,55.0002,-1.4249
+ELTIO LATIN RESTAURANT,NE33 2JQ,55.0002,-1.4249
 Kuzey,NE33 2JQ,55.0002,-1.4249
 Shapla (South Shields) Ltd,NE33 2JQ,55.0002,-1.4249
 Spice garden ocean road ltd ,NE33 2JQ,55.0002,-1.4249

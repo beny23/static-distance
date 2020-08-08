@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+Dee Wai Tamu Pvt Ltd,BS10 5LW,51.4979,-2.5967
 New Balti King Restaurant,BS10 5LZ,51.5008,-2.5930
 The Occasional kitchen ,BS10 5NB,51.4973,-2.5929
 Southmead Pizza Hut - A&A Capital Ltd,BS10 6AS,51.5033,-2.6029
@@ -33,9 +34,11 @@ Little Nannie's Cafe and Sunshine Glade Softplay,BS16 9SJ,51.4895,-2.4187
 Almondsbury Creative,BS32 4AA,51.5517,-2.5697
 The Swan Hotel ,BS32 4AA,51.5517,-2.5697
 The Bowl Inn,BS32 4DT,51.5551,-2.5726
+SAFFRON,BS32 4JT,51.5489,-2.5528
 Aztec Hotel & Spa,BS32 4TS,51.5420,-2.5687
 Lodge at Bristol,BS32 4TS,51.5420,-2.5687
 Subway-WillowBrook District Centre,BS32 8EF,51.5354,-2.5479
+Chandos Deli,BS34 5DG,51.5253,-2.5958
 Chopstix Bristol Cribbs Causeway,BS34 5DG,51.5253,-2.5958
 AirHop Bristol,BS34 5TA,51.5302,-2.5930
 McDonald's Restaurant ,BS34 5TQ,51.5297,-2.6012
@@ -58,6 +61,7 @@ White Lion,BS35 2AQ,51.6085,-2.5264
 SHELLYS cafe,BS35 2AT,51.6066,-2.5255
 The Wheatsheaf,BS35 2BJ,51.6065,-2.5255
 Thornbury Golf Centre,BS35 3XL,51.6005,-2.5378
+BOARS HEAD AUST,BS35 4AX,51.5981,-2.6139
 Boars Head Aust,BS35 4AX,51.5981,-2.6139
 Just as You are Tea Cottage LTD,BS35 4PQ,51.5609,-2.6660
 Fox Inn,BS35 5RA,51.5416,-2.6226
@@ -65,7 +69,6 @@ Farm Shop Cafe,BS35 5RE,51.5408,-2.6205
 The Wave,BS35 5RE,51.5408,-2.6205
 Taj Brasserie,BS36 1JG,51.5259,-2.5062
 The Globe,BS36 2AB,51.5357,-2.4827
-Poplars Farm Cafe,BS36 2AR,51.5385,-2.4935
 The Rising Sun,BS36 2HN,51.5322,-2.4760
 The Gingerbread Man coffee shop ,BS36 2JX,51.5330,-2.4743
 Frampton Balti ,BS36 2LE,51.5314,-2.4719
@@ -114,6 +117,7 @@ Raj Pavillions,BS7 0PA,51.4954,-2.5814
 Atomic Burger ,BS7 8BG,51.4750,-2.5909
 Bakers & Co,BS7 8BG,51.4750,-2.5909
 Planet Pizza,BS7 8BG,51.4750,-2.5909
+mula lounge,BS7 8NT,51.4771,-2.5904
 LONA GRILL HOUSE LTD,BS7 8NY,51.4792,-2.5892
 Avanalounge limet,BS7 8PB,51.4806,-2.5889
 lazz lounge,BS7 8PB,51.4806,-2.5889
@@ -125,6 +129,7 @@ Deck Cafe,BS7 8TN,51.4831,-2.5869
 The Royal Oak,BS7 8TN,51.4831,-2.5869
 PER&KOR LTD,BS7 8TP,51.4834,-2.5873
 Cafe Jackalope,BS7 8TS,51.4840,-2.5864
+THE KANDYAN,BS7 8TS,51.4840,-2.5864
 Grounded,BS7 8TZ,51.4851,-2.5859
 The Wellington ,BS7 8UR,51.4889,-2.5853
 Sportsman & Annexe,BS7 9EQ,51.4799,-2.5875
@@ -138,6 +143,7 @@ The White Horse,BS9 3DZ,51.4945,-2.6180
 Indian kitchen ,BS9 3ED,51.4945,-2.6185
 The British Raj,BS9 3HN,51.4953,-2.6173
 Hunters Cafe Bar,BS9 3RW,51.4882,-2.6246
+Salkaara,BS9 4HN,51.4806,-2.6124
 Westbury Park Pub,BS9 4HP,51.4816,-2.6123
 Kondi Brasserie,BS9 4JP,51.4858,-2.6113
 Cafe96,BS9 4JZ,51.4848,-2.6120
@@ -149,8 +155,10 @@ Dursley Town Sports Club Limited ,GL11 4BJ,51.6836,-2.3578
 The Hummingbird Cafe Bar And Restaurant  Limited ,GL11 4BP,51.6817,-2.3551
 Ranchers Steakhouse LTD Trading as Oak At Kingshill,GL11 4EJ,51.6886,-2.3616
 YE OLDE DURSLEY HOTEL,GL11 4HL,51.6818,-2.3531
+DIL RAJ Indian cuisine ,GL11 4HR,51.6821,-2.3524
 Old Spot Inn,GL11 4JQ,51.6807,-2.3585
 Hoggies,GL11 6DD,51.6666,-2.4202
+The Black Horse Inn,GL11 6DT,51.6613,-2.3747
 Leaf & Ground,GL11 6PP,51.6932,-2.3761
 SWAN HOTEL MARKET STREET LTD,GL12 7AE,51.6376,-2.3540
 THE ROYAL OAK,GL12 7AG,51.6378,-2.3554
@@ -187,3 +195,4 @@ Chatterbox Coffee Shop,NP16 5JW,51.6313,-2.6744
 The Two Brewers,NP16 5NS,51.6269,-2.6713
 The Village Inn,NP16 7AA,51.6403,-2.6590
 The Old House At Home,SN14 7LT,51.5145,-2.2668
+The Bull at Hinton,SN14 8HG,51.4893,-2.3853

@@ -43,6 +43,7 @@ THE MILL WHEEL,DE11 7AS,52.7885,-1.5187
 Bombay Spice,DE11 7EA,52.7672,-1.5314
 The Jennings Rooms ,DE11 7EH,52.7689,-1.5335
 The Bulls Head,DE11 7ET,52.7822,-1.5195
+bullshead hartshorne ltd,DE11 7ET,52.7822,-1.5195
 The midway inn,DE11 7ND,52.7813,-1.5450
 Cafe espresso limited,DE11 8HY,52.7733,-1.5560
 Bodell's,DE11 8JU,52.7747,-1.5551
@@ -55,6 +56,7 @@ The Hub Cafe,DE12 6AT,52.7336,-1.5360
 YHA National Forest,DE12 6BD,52.7380,-1.5488
 Lakeside Bistro,DE12 6BW,52.7331,-1.5439
 Artisan Deli Digbeth Limited,DE12 7AJ,52.6820,-1.5238
+Saffron Event & Venue Caterers Limited,DE12 7AJ,52.6820,-1.5238
 Appleby Inn,DE12 7AP,52.6722,-1.5406
 McLean Restaurants Ltd,DE12 7AP,52.6722,-1.5406
 Alpaca Park Farm,DE12 7DB,52.6810,-1.4902
@@ -71,6 +73,7 @@ George and Dragon Alrewas,DE13 7AE,52.7325,-1.7471
 The Bank Coffeehouse,DE13 7AE,52.7325,-1.7471
 NMA Enterprises LTD,DE13 7AR,52.7276,-1.7313
 The Crown,DE13 7BS,52.7339,-1.7493
+Delhi Divan Indian Restaurant & Bar,DE13 7DB,52.7322,-1.7556
 canalside cafe fradley ltd,DE13 7DN,52.7238,-1.7934
 The Royal Oak,DE13 7HZ,52.7490,-1.8232
 Skinny kitten ,DE13 8AA,52.7648,-1.7237
@@ -89,6 +92,7 @@ Crown inn yoxall ,DE13 8NQ,52.7677,-1.7906
 The Golden Cup,DE13 8NQ,52.7677,-1.7906
 The Meynell Ingram Arms,DE13 8RB,52.8074,-1.8090
 Hilton at St George's Park Burton Upon Trent,DE13 9PD,52.8177,-1.7601
+Lancaster park cafe,DE13 9PD,52.8177,-1.7601
 The Bell Inn,DE13 9QD,52.8240,-1.6879
 The Topiary Coffee Shop,DE13 9RN,52.8080,-1.7444
 The Horseshoe Inn,DE13 9SD,52.7951,-1.6981
@@ -135,6 +139,7 @@ The Bridge Inn,DE14 3EZ,52.7883,-1.6778
 The Hub Cafe,DE14 3HD,52.7819,-1.6812
 Rivaj Restaurant,DE14 3HF,52.7867,-1.6713
 THE HIDEAWAY BURTON LIMITED,DE14 3QN,52.8009,-1.6321
+Verde ,DE14 3QN,52.8009,-1.6321
 CLAYPOT LOUNGE,DE14 3QW,52.8014,-1.6349
 Wing Wah Chinese Restaurant ,DE14 3QW,52.8014,-1.6349
 The Winery,DE14 3RW,52.8004,-1.6291
@@ -146,13 +151,13 @@ Planters at Bretby,DE15 0QS,52.8102,-1.5736
 The Sump,DE15 0TT,52.8125,-1.6126
 Urban Chef Burton,DE15 9SQ,52.7835,-1.6133
 The Gate Inn,DE15 9TH,52.7719,-1.5964
+Blue Burton Indian Restaurant,DE15 9TJ,52.7773,-1.6051
 The Staff of Life,DE73 7JH,52.8095,-1.4819
 COSTA COFFEE,LE65 1AF,52.7469,-1.4726
 The Courtyard Cafe,LE65 1AG,52.7474,-1.4716
 Zamanis,LE65 1AL,52.7465,-1.4726
 Amino Food,LE65 1AN,52.7470,-1.4708
 Dolce cafe,LE65 1AN,52.7470,-1.4708
-Subway,LE65 1AN,52.7470,-1.4708
 De la zouch bangladeshi cuisine,LE65 1AP,52.7476,-1.4692
 Taste of Thai Restaurant,LE65 1AP,52.7476,-1.4692
 Rose Cottage Tearooms,LE65 1HP,52.7477,-1.4711
@@ -226,6 +231,7 @@ McDonald's,WS14 0QP,52.6526,-1.8348
 Swingers Golf Shop Limited,WS14 9JG,52.6756,-1.7978
 The Bell Inn Public House (Whittington) Ltd,WS14 9JR,52.6739,-1.7615
 Thedoginn,WS14 9JU,52.6727,-1.7632
+Whittington Heath Golf Club,WS14 9PW,52.6621,-1.7827
 The Owl at Lichfield,WS14 9QH,52.6683,-1.8196
 PEAR TREE CREPERIE LTD,WS14 9QR,52.6498,-1.8083
 THE BARN AT SWINFEN,WS14 9QR,52.6498,-1.8083

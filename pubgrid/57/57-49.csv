@@ -34,10 +34,10 @@ APPLEBYS HEARTY REFRESHMENT,M20 6TN,53.4178,-2.2326
 Nueve,M20 6TN,53.4178,-2.2326
 OKITCHEN,M20 6TW,53.4181,-2.2336
 The Art of Tea,M20 6TW,53.4181,-2.2336
-CARAMELLO LTD,M20 6UB,53.4164,-2.2329
 ANCHORS FISH AND CHIPS DIDSBURY,M20 6UH,53.4148,-2.2325
 Anchors Fish and Chips Didsbury,M20 6UH,53.4148,-2.2325
 Jarern Kitchen,M20 6UH,53.4148,-2.2325
+Great British Pizza,M20 6UR,53.4249,-2.2355
 Nagoya sushi and noodle bar,M20 6UR,53.4249,-2.2355
 Wine and Wallop LTD,M20 6UR,53.4249,-2.2355
 ZUMUSUSHI,M20 6UR,53.4249,-2.2355
@@ -53,6 +53,7 @@ mi & pho,M22 4FZ,53.4078,-2.2586
 Costa Coffee,M22 4HE,53.4090,-2.2571
 Viet Guy ,M22 4HE,53.4090,-2.2571
 Didsbury Golf Club,M22 4NQ,53.4075,-2.2520
+TNS Catering_Hellermann Tyton,M22 4TY,53.3953,-2.2477
 Tatton Arms,M22 5LZ,53.3653,-2.2438
 Wythenshawe - Costa Coffee,M22 5RF,53.3801,-2.2619
 McDonald's Restaurant,M22 5RG,53.3793,-2.2606
@@ -81,6 +82,7 @@ The Brooklands Tap,M33 3YA,53.4186,-2.3241
 CHATIME LEEDS LIMITED,M33 4HQ,53.4109,-2.3503
 Sunshine Community Cafe ,M33 4QJ,53.4196,-2.3583
 Eskdale Lodge,M33 5AN,53.4222,-2.3386
+New Mughal Balti House (NW) ltd,M33 7AB,53.4234,-2.3273
 SUB FNH LTD- SUBWAY,M33 7RE,53.4232,-2.3284
 VENEZIA RESTAURANT MANCHESTER,M33 7RE,53.4232,-2.3284
 Cowtown Grill,M33 7TQ,53.4216,-2.3293
@@ -91,8 +93,11 @@ Jenny's place café &eatery,M33 7WZ,53.4238,-2.3224
 Bar Bianco Ltd,M33 7XN,53.4246,-2.3233
 Massala Lounge,M33 7XY,53.4246,-2.3198
 VIDA (SALE) LTD,M33 7XY,53.4246,-2.3198
+borrello italian restaurant,M33 7XY,53.4246,-2.3198
 Cafe Se7en Ltd,M33 7XZ,53.4245,-2.3224
+Bar MCR,M90 1QX,53.3619,-2.2708
 Café Balzar,M90 1QX,53.3619,-2.2708
+Giraffe ,M90 1QX,53.3619,-2.2708
 KFC,M90 1QX,53.3619,-2.2708
 Lion&Antelope,M90 1QX,53.3619,-2.2708
 PORK&PICKLE,M90 1QX,53.3619,-2.2708
@@ -106,9 +111,12 @@ Lou’s brew’s,SK1 1EB,53.4099,-2.1581
 Rozafa Restaurant,SK1 1EB,53.4099,-2.1581
 Blackshaws Kitchen,SK1 1ES,53.4118,-2.1566
 Angkor Soul (Produce Hall),SK1 1EU,53.4116,-2.1575
+Bakers Vaults,SK1 1EU,53.4116,-2.1575
+Black Market Espresso,SK1 1EU,53.4116,-2.1575
 Chaat Cart,SK1 1EU,53.4116,-2.1575
 Produce Hall,SK1 1EU,53.4116,-2.1575
 Project 53 Stockport Limited,SK1 1EU,53.4116,-2.1575
+Aquila Nera Ristorante,SK1 1HD,53.4104,-2.1581
 RHODE ISLAND COFFEE LTD,SK1 1JT,53.4109,-2.1573
 Enterfries Limited t/a McDonalds 076,SK1 1PN,53.4118,-2.1588
 COFFEE ISLAND ,SK1 1PR,53.4111,-2.1595
@@ -140,6 +148,7 @@ McDonald’s Restaurants 723 t/a LEMACA Ltd,SK10 2SF,53.2721,-2.1189
 West Park Café ,SK10 3BJ,53.2643,-2.1342
 SUBWAY MACCLESFIELD HOPE PARK,SK10 3GR,53.2618,-2.1364
 The Cock Inn,SK10 3LH,53.2590,-2.1737
+Bacchus Restaurant,SK10 4DG,53.2891,-2.1516
 Legh Arms,SK10 4DG,53.2891,-2.1516
 The Bridge Cheshire LTD,SK10 4DQ,53.2897,-2.1507
 McCann Manchester,SK10 4EF,53.3075,-2.1469
@@ -177,10 +186,12 @@ Simply Scrummy Limited,SK11 6BA,53.2607,-2.1269
 Amy’s Courtyard Limited,SK11 6BX,53.2608,-2.1267
 Gastown Cafe LTD,SK11 6BX,53.2608,-2.1267
 LORD OF THE PIES,SK11 6BX,53.2608,-2.1267
+La Caldera ,SK11 6DG,53.2611,-2.1288
 Jin’s Oriental LTD,SK11 6DP,53.2610,-2.1309
 FrenJabi Restaurant & Bar,SK11 6DU,53.2607,-2.1312
 Picturedrome,SK11 6DU,53.2607,-2.1312
 The Shalimar Restaurant,SK11 6DU,53.2607,-2.1312
+LAZEEZ RESTAURANT & TAKEAWAY ,SK11 6HN,53.2571,-2.1228
 Maliwan Thai Restaurant,SK11 6HN,53.2571,-2.1228
 The Elbow Room,SK11 6JQ,53.2575,-2.1248
 De Jour Bar & Kitchen,SK11 6LB,53.2598,-2.1244
@@ -190,6 +201,8 @@ KIRWAN & SONS LTD,SK11 6NN,53.2572,-2.1256
 Kandy Sri Lankan Restaurant ,SK11 6NR,53.2574,-2.1252
 GURKHA DINING,SK11 6UW,53.2566,-2.1255
 Macclesfield Golf Club Trading Ltd,SK11 7EA,53.2521,-2.1131
+Samira (nw)ltd t/a balti kitchen,SK11 7NA,53.2566,-2.1236
+Paprika indian dining ltd,SK11 7NE,53.2563,-2.1221
 Flower Pot,SK11 7UF,53.2489,-2.1431
 The Weaver,SK11 7XZ,53.2476,-2.1484
 Crompton road chippy,SK11 8EZ,53.2549,-2.1358
@@ -212,6 +225,7 @@ The Snap Tin Bar Ltd,SK12 1RD,53.3489,-2.1197
 ciao restaurant,SK12 1RD,53.3489,-2.1197
 Farmers Arms,SK12 1RE,53.3486,-2.1197
 Il Borgo Antico ,SK12 1RE,53.3486,-2.1197
+The Acoustic Lounge,SK12 1RE,53.3486,-2.1197
 Davenport Golf Club,SK12 1TS,53.3532,-2.0907
 Eat out to help out ,SK12 2AA,53.3591,-2.0384
 The Dandy Cock,SK12 2AA,53.3591,-2.0384
@@ -223,6 +237,7 @@ Britannia Hotel ,SK2 6AG,53.3989,-2.1346
 Puss in Boots,SK2 6DG,53.3963,-2.1397
 203 the lane,SK2 6JA,53.3938,-2.1525
 The Funky Monkey Coffee Co LTD,SK2 6JA,53.3938,-2.1525
+indian spice stockport ltd,SK2 6LS,53.3980,-2.1516
 Jasmine House,SK2 6NG,53.4007,-2.1549
 The Dog and Partridge,SK2 7AN,53.3893,-2.1398
 Zulaika Indian Restaurant ,SK2 7EY,53.3880,-2.1342
@@ -233,6 +248,7 @@ The Shrub Club,SK22 3HS,53.3634,-2.0042
 BELE BAKERY LTD,SK22 4AA,53.3663,-2.0020
 simply nw ltd,SK22 4AA,53.3663,-2.0020
 clockwork cafe,SK22 4AE,53.3675,-2.0018
+New Mills Cuisine,SK22 4JG,53.3674,-1.9880
 Pack Horse Inn,SK22 4QQ,53.3787,-1.9978
 Swan Inn ,SK23 7QU,53.3142,-2.0191
 Saffron’s Spice,SK3 0RH,53.4003,-2.1937
@@ -258,6 +274,7 @@ The Moor Club,SK4 4PB,53.4235,-2.1821
 Enterfries Limited t/a McDonalds 1202,SK5 7NZ,53.4199,-2.1594
 Stockport Nerf Centre,SK6 2BP,53.4140,-2.1339
 Duke of York ,SK6 3AN,53.4136,-2.0961
+Qurashi Romiley LTD,SK6 3AN,53.4136,-2.0961
 SPOILT 4 CHOICE,SK6 3AU,53.4158,-2.1042
 Spread Eagle Pub Ltd,SK6 3DR,53.4112,-2.1000
 Platform One,SK6 4BN,53.4139,-2.0904
@@ -283,6 +300,7 @@ La Dolce Vita Restaurant (Marple) Ltd,SK6 6BD,53.3944,-2.0620
 Angkor Soul (Marple),SK6 6BJ,53.3948,-2.0614
 The Railway marple limited,SK6 6EN,53.3963,-2.0791
 The Fisherman’s Table ,SK6 7AR,53.3927,-2.0643
+Purple pakora,SK6 7DA,53.3998,-2.0575
 The Crown (Hawk Green) Ltd,SK6 7HU,53.3832,-2.0610
 The Bulls Head,SK6 8BH,53.3647,-2.0753
 Blueberries,SK6 8DR,53.3650,-2.0753
@@ -304,22 +322,25 @@ Bombay to Mumbai,SK7 2NP,53.3715,-2.1589
 Spice Room Bramhall ,SK7 2QW,53.3657,-2.1571
 The Little Hideout Cafe ,SK7 3LQ,53.3806,-2.1648
 The Bramall Park Golf Club Ltd,SK7 3LY,53.3711,-2.1746
-The Stables Kitchen,SK7 3NX,53.3741,-2.1666
 Jack’s bar and grill Ltd ,SK7 4AX,53.3823,-2.1242
 Topkapi Palace,SK7 4DF,53.3794,-2.1207
 The Three Tunnes,SK7 4DQ,53.3798,-2.1219
 Bean and baguette ,SK7 4HH,53.3810,-2.1229
 Gnammy Italy,SK7 4HH,53.3810,-2.1229
+Pasha restaurant ,SK7 4HJ,53.3801,-2.1218
 zayaans stockport ,SK7 4HJ,53.3801,-2.1218
 Ristorante Benvenuti,SK7 4RF,53.3755,-2.1142
 Jump Heaven Ltd,SK7 5BW,53.3780,-2.1397
 COPPER LOUNGE ,SK7 5HA,53.3718,-2.1401
 Three Bears Ltd,SK7 5JH,53.3717,-2.1410
 NORBURY FLOWER CENTRE LTD,SK7 5JS,53.3698,-2.1370
+BLUE NILE RESTAURANT ,SK7 6AA,53.3759,-2.1141
 The Rising Sun,SK7 6AD,53.3749,-2.1126
 Peking Garden Hazel Grove,SK7 6DT,53.3668,-2.1141
+The Hazel Grove Golf Club Limited,SK7 6LU,53.3742,-2.0965
 Cocoon Vegetarian Cafe,SK8 1AL,53.3952,-2.2144
 Costa Coffee - Cheadle Village,SK8 1AL,53.3952,-2.2144
+Hitchki,SK8 1AX,53.3948,-2.2142
 Turkuaz limited,SK8 1BJ,53.3944,-2.2158
 S S Venture Ltd,SK8 1BR,53.3929,-2.2164
 LA PETITE BIJOU CAFE,SK8 1BW,53.3942,-2.2150
@@ -383,6 +404,7 @@ Brewhouse and Kitchen Wilmslow,SK9 1HE,53.3274,-2.2294
 PEKING GARDEN,SK9 1HT,53.3261,-2.2306
 Casa Italia,SK9 1JX,53.3255,-2.2336
 Cibo,SK9 1LD,53.3264,-2.2308
+La Fabrica Wilmslow,SK9 1NY,53.3247,-2.2348
 The Topiary Coffee Shop,SK9 2JN,53.3408,-2.2217
 Jathra Restaurant,SK9 3ES,53.3491,-2.2147
 Mr GUO JIE ZHANG T/A HANDFORTH CANTONESE RESTAURANT,SK9 3HG,53.3498,-2.2161
@@ -426,6 +448,7 @@ Common Ground,WA14 1QU,53.3875,-2.3512
 Treehouse,WA14 1RF,53.3866,-2.3513
 Unagi,WA14 1RF,53.3866,-2.3513
 BISTROT PIERRE - ALTRINCHAM,WA14 1RJ,53.3878,-2.3493
+Bistrot Pierre - Altrincham,WA14 1RJ,53.3878,-2.3493
 Bap,WA14 1RN,53.3864,-2.3508
 Pita Box,WA14 1RN,53.3864,-2.3508
 RHODE ISLAND COFFEE LTD,WA14 1RN,53.3864,-2.3508
@@ -455,6 +478,7 @@ Cinnamon Restaurant,WA14 2UN,53.3785,-2.3490
 Cresta Court Hotel,WA14 4DP,53.3910,-2.3498
 Da Noi Restaurant,WA14 4NP,53.3888,-2.3502
 Essence ,WA14 4RJ,53.3968,-2.3524
+Just the ticket cafe,WA14 5AD,53.4046,-2.3410
 ATLANTIC BOWL,WA14 5BW,53.3980,-2.3557
 McDonald's Restaurant,WA14 5GR,53.4008,-2.3561
 Spice Indian cuisine ,WA14 5NH,53.4066,-2.3466
@@ -466,6 +490,8 @@ Jolly’S Kafe ,WA15 6TE,53.4033,-2.3367
 G-Force Cafe,WA15 7DD,53.3924,-2.3116
 Old Hall Timperley Ltd,WA15 7LP,53.3899,-2.3363
 Zafraan Restaurant,WA15 7UG,53.3975,-2.3189
+Darjeeling Restaurant ltd,WA15 7UN,53.3970,-2.3191
+Little Italy Ltd,WA15 7UR,53.3980,-2.3172
  The King George,WA15 8BA,53.3821,-2.3316
 Syriana,WA15 8SP,53.3693,-2.3149
 Brasserie Blanc Hale Barns,WA15 8XW,53.3642,-2.2978
@@ -484,6 +510,7 @@ KAMPAI Sushi Bar & Grill,WA15 9SQ,53.3768,-2.3452
 village cafe hale,WA15 9SZ,53.3762,-2.3438
 Booths 1847,WA16 0BS,53.3024,-2.3772
 Booths,WA16 0BS,53.3024,-2.3772
+Curzon Knutsford,WA16 0PE,53.3023,-2.3732
 Cottons Hotel & Spa,WA16 0SU,53.3196,-2.3929
 Pastiche,WA16 6AB,53.3052,-2.3751
 Cranford Cafe & Sandwich Bar,WA16 6BH,53.3048,-2.3760

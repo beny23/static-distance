@@ -43,7 +43,7 @@ The Devonshire Arms,DE45 1UL,53.2360,-1.6421
 Hotel ibis Sheffield City,S1 2AR,53.3832,-1.4630
 Extra Life Gaming Lounge,S1 2AT,53.3832,-1.4636
 KFC Haymarket,S1 2AW,53.3838,-1.4645
-Subway,S1 2AW,53.3838,-1.4645
+SUBWAY,S1 2AW,53.3838,-1.4645
 Hygge Coffee shop,S1 2AZ,53.3827,-1.4650
 Old Queens Head,S1 2BG,53.3809,-1.4630
 Kollective Coffee & Kitchen ,S1 2BS,53.3768,-1.4669
@@ -67,6 +67,7 @@ Head of Steam (Sheffield),S1 2JE,53.3801,-1.4685
 Mamas and Leonies,S1 2JE,53.3801,-1.4685
 Aagrah Leopold ,S1 2JG,53.3816,-1.4721
 Cubana Tapas Bar & Restaurant,S1 2JG,53.3816,-1.4721
+Lisboa Patisserie,S1 2JL,53.3793,-1.4700
 Starbucks Tudor Square,S1 2LA,53.3808,-1.4676
 Lynne's Pantry Limited,S1 2LG,53.3807,-1.4691
 EGO Mediterranean Restaurant Sheffield,S1 2LH,53.3799,-1.4675
@@ -115,7 +116,7 @@ han restaurant,S1 4JB,53.3795,-1.4804
 China Red Restaurant,S1 4JD,53.3767,-1.4743
 The Cabin Pancake and Waffle House Ltd,S1 4JH,53.3754,-1.4754
 Wildwood Artisan Gifts and Coffee Shop Ltd,S1 4JH,53.3754,-1.4754
-Subway,S1 4PB,53.3755,-1.4745
+SUBWAY,S1 4PB,53.3755,-1.4745
 AUNTIE ANNES SHEFFIELD,S1 4PF,53.3763,-1.4731
 Bitz & bitez ,S1 4PF,53.3763,-1.4731
 Lemongrass thai street food,S1 4PF,53.3763,-1.4731
@@ -127,6 +128,7 @@ Fresh Choice Noodles,S1 4QB,53.3767,-1.4712
 Wongting,S1 4QD,53.3767,-1.4720
 Dashu bakery and cafe ,S1 4QP,53.3773,-1.4707
 ALS Gongcha,S1 4QY,53.3769,-1.4707
+Birdhouse Tea Bar & Kitchen,S1 4RG,53.3753,-1.4689
 Twisted Burger Company,S1 4SQ,53.3743,-1.4684
 Chez Lahlou,S10 1GB,53.3873,-1.4978
 cinque terre restuarant ltd,S10 1GB,53.3873,-1.4978
@@ -141,14 +143,15 @@ The Punchbowl,S10 1TH,53.3867,-1.5072
 Zara’s ,S10 1TH,53.3867,-1.5072
 Old Grindstone,S10 1UA,53.3811,-1.5056
 Dandelion Cocoa,S10 1UH,53.3837,-1.5078
+INDAIN CHEF,S10 1UH,53.3837,-1.5078
 The Masons ,S10 1UR,53.3825,-1.5079
 Big foodie Ltd ,S10 2GW,53.3799,-1.4816
 Maveli Restaurant and Bar ,S10 2GW,53.3799,-1.4816
 Appetito,S10 2GZ,53.3800,-1.4836
 Jinding Restaurant,S10 2GZ,53.3800,-1.4836
 Pepper Greenhouse,S10 2GZ,53.3800,-1.4836
+Napoli Centro Pizzeria,S10 2HP,53.3789,-1.4894
 the potato oven,S10 2HP,53.3789,-1.4894
-Chong Qing Restaurant ,S10 2HS,53.3802,-1.4817
 New Pot Restaurant ltd / Jimmys Kitchen,S10 2HS,53.3802,-1.4817
 So Famous,S10 2HS,53.3802,-1.4817
 Lokanta,S10 2QA,53.3768,-1.5004
@@ -158,6 +161,7 @@ Butcher and Catch,S10 2SP,53.3777,-1.4998
 Bar One ,S10 2TG,53.3806,-1.4878
 Starbucks Broomhill,S10 2TJ,53.3809,-1.4927
 The York,S10 3BA,53.3774,-1.5009
+Balti King,S10 3BB,53.3776,-1.5016
 Bambukat,S10 3BD,53.3768,-1.5027
 Cawa Coffee,S10 3BD,53.3768,-1.5027
 Proove,S10 3BD,53.3768,-1.5027
@@ -185,7 +189,6 @@ Oakbrook Coffee Co Limited,S11 7EB,53.3681,-1.5230
 The Norfolk Arms Hotel,S11 7TS,53.3497,-1.5651
 The Grouse Inn,S11 7TZ,53.3153,-1.6047
 Rossi’s Italian Restaurant ,S11 8AE,53.3671,-1.4772
-Vestry Hall,S11 8FP,53.3719,-1.4797
 Ashoka Restaurant ,S11 8NX,53.3714,-1.4880
 Graze Inn,S11 8NX,53.3714,-1.4880
 Uncle Sams Diner ltd,S11 8PE,53.3714,-1.4893
@@ -231,6 +234,7 @@ Castle Inn,S17 4PT,53.3214,-1.5105
 Dronfield Hall Barn,S18 1PX,53.3023,-1.4743
 Samad Cottage,S18 1PX,53.3023,-1.4743
 The Blue Stoops,S18 1PX,53.3023,-1.4743
+Coffee Central,S18 1PY,53.3024,-1.4750
 Manor House (Dronfield) Ltd,S18 1PY,53.3024,-1.4750
 The Atrium Cafe,S18 1QX,53.3015,-1.4709
 Hyde Park Inn,S18 1UH,53.2938,-1.4736
@@ -255,12 +259,15 @@ Olam-D Kitchen ,S2 4HT,53.3597,-1.4741
 Pour,S2 4HT,53.3597,-1.4741
 China Town Restaurant,S2 4LA,53.3721,-1.4765
 The Clubhouse,S2 4LA,53.3721,-1.4765
+Zs bistro,S2 4LE,53.3704,-1.4774
 stack lounge,S2 4LE,53.3704,-1.4774
 Pepe's Piri Piri,S2 4LH,53.3694,-1.4768
 Saigon68 Vietnamese cafe,S2 4LH,53.3694,-1.4768
+Tin Tin Chinese Restaurant,S2 4LN,53.3726,-1.4770
 Rassams Creamery,S2 4LP,53.3722,-1.4772
 La Romantica,S2 4LR,53.3711,-1.4776
 Taco Mex Mexican food LTD,S2 4LR,53.3711,-1.4776
+Taco mex Mexican chef ltd,S2 4LR,53.3711,-1.4776
 Yama Sushi,S2 4LR,53.3711,-1.4776
 kebab,S2 4LR,53.3711,-1.4776
 kebabish express,S2 4LR,53.3711,-1.4776
@@ -269,8 +276,10 @@ the potato oven,S2 4LR,53.3711,-1.4776
 Middle East shawarma ,S2 4LT,53.3694,-1.4773
 Amigos Mexican Kitchen ,S2 4LW,53.3682,-1.4763
 Imrans diner,S2 4LW,53.3682,-1.4763
+Little Istanbul 2,S2 4LW,53.3682,-1.4763
 Treatz Sheffield,S2 4LW,53.3682,-1.4763
 Jabbarwocky,S2 4NA,53.3669,-1.4755
+Golden Taste,S2 4NF,53.3672,-1.4752
 Wasabisabi ,S2 4NF,53.3672,-1.4752
 OISOI Gathering,S2 4QF,53.3719,-1.4748
 The Treehouse Board Game Cafe,S2 4QF,53.3719,-1.4748
@@ -280,6 +289,7 @@ Smokey bar and grill,S2 4QU,53.3705,-1.4740
 Bramall Subway,S2 4QZ,53.3724,-1.4717
 South Street Kitchen,S2 5QX,53.3810,-1.4597
 The copper kettle,S3 7AG,53.3868,-1.4733
+Bugby diner,S3 7HE,53.3821,-1.4826
 Piccolos,S3 7RX,53.3799,-1.4806
 BB's Italian Restaurant Ltd,S3 7SB,53.3794,-1.4771
 Forum Kitchen & Bar,S3 7SB,53.3794,-1.4771
@@ -311,6 +321,7 @@ Wicker Kebabish,S3 8HT,53.3874,-1.4624
 Agha Lounge ,S3 8JT,53.3862,-1.4620
 BETESEB ETHIOPIAN RESTAURANT ,S3 8LT,53.3844,-1.4652
 Trawlers catch,S3 8LT,53.3844,-1.4652
+Albies Coffee Ltd,S3 8NB,53.3851,-1.4665
 7 Spices Balti,S3 8PP,53.3862,-1.4706
 Island Cafe,S3 8RY,53.3888,-1.4708
 Millowners Arms,S3 8RY,53.3888,-1.4708
@@ -338,6 +349,7 @@ Calver garden centre ,S32 3XH,53.2711,-1.6435
 Insomnia Coffee Shop,S32 3XH,53.2711,-1.6435
 The Eyre Arms,S32 3XH,53.2711,-1.6435
 The Derwentwater Arms ,S32 3XQ,53.2681,-1.6417
+The Chequers In,S32 3ZJ,53.2854,-1.6313
 The Chequers Inn,S32 3ZJ,53.2854,-1.6313
 the moon inn,S32 4TL,53.2753,-1.6588
 The Barrel Inn,S32 5QD,53.2980,-1.7008
@@ -375,13 +387,16 @@ Johnson Inns Limited T/A The Samuel Fox Country Inn,S33 9JT,53.3351,-1.7361
 Shoulder of mutton,S35 0AQ,53.4243,-1.5411
 SAL Desserts,S4 7BH,53.4008,-1.4550
 Nile Cafe,S4 7JB,53.3925,-1.4574
+ALNASIM RESTAURANT,S4 7LF,53.3912,-1.4588
 Spital chippy,S4 7LF,53.3912,-1.4588
 mangla restaurant,S4 7LF,53.3912,-1.4588
 AROOJ MEGA BUFFET RESTAURANT LTD,S4 7WZ,53.3899,-1.4453
 The Quays Hotel,S4 7YA,53.3877,-1.4575
+My chicken 2 Nite,S4 8GS,53.4092,-1.4476
 New Dynasty restaurant ,S40 2AB,53.2340,-1.4396
 Junction Bar,S40 2AH,53.2356,-1.4393
 Teresa Lambarelli's Italian Caffe and Pasta Bar,S40 2AH,53.2356,-1.4393
+Limetree North Ltd,S40 2AL,53.2353,-1.4408
 Nonnas,S40 2AP,53.2350,-1.4423
 GA.S Bar ,S40 2AQ,53.2352,-1.4396
 Gulab Tandoori,S40 2BA,53.2341,-1.4460
@@ -403,6 +418,7 @@ KFC Lane Top,S5 0QG,53.4227,-1.4547
 Soowes coffee pot café ,S5 0QG,53.4227,-1.4547
 A TASTE OF ARABIA,S5 6HH,53.4174,-1.4457
 Henrys cafe ,S5 6HH,53.4174,-1.4457
+SUGAR XPRESS,S5 6HH,53.4174,-1.4457
 Subway,S5 6HL,53.4187,-1.4468
 Kebabish express ,S5 6HU,53.4226,-1.4537
 the potato oven,S5 7AB,53.4065,-1.4535
@@ -454,6 +470,7 @@ Meraki Restaurant,S7 1FS,53.3600,-1.4793
 Picture House Social ,S7 1FS,53.3600,-1.4793
 Casa mia,S7 1LJ,53.3669,-1.4807
 Mercure Sheffield Kenwoodhall Hotels and Spa,S7 1NQ,53.3646,-1.4909
+Homemade by Thelmas Ltd,S7 1RU,53.3587,-1.4880
 The vintage tearoom,S7 1TB,53.3561,-1.4844
 northtown kitchen ,S7 2BE,53.3549,-1.4854
 Kia’s Pastaria ,S7 2BG,53.3535,-1.4858

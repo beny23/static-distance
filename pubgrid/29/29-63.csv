@@ -1,7 +1,6 @@
 name,postcode,lat,lon
 RAJEEV’S indian fine dinning ,CR2 9BX,51.3198,-0.0652
 Rajbhavan Ltd T/A Panahar,CR2 9BX,51.3198,-0.0652
-WHYTELEAFE PIZZA & GRILL LTD,CR3 0EF,51.3079,-0.0799
 Royal Tandoori,CR3 0EL,51.3092,-0.0796
 MAMMA MIA LONDON LTD at Caterham Arms,CR3 5NF,51.2878,-0.0980
 La Fiaba del Mediterraneo,CR3 5UA,51.2867,-0.0890
@@ -21,6 +20,7 @@ Bella Art Caffe,CR5 2NF,51.3196,-0.1394
 Mirch masala coulsdon,CR5 2NF,51.3196,-0.1394
 La Scarpetta ,CR5 2NG,51.3226,-0.1355
 Los Arcos,CR5 2NH,51.3200,-0.1387
+Valley Cafe,CR5 2RA,51.3208,-0.1393
 Dottys Tea Garden,CR5 3DR,51.3133,-0.1544
 CHIPSTEAD GOLF CLUB,CR5 3LN,51.3081,-0.1630
 The White Hart,CR5 3QW,51.3000,-0.1684
@@ -54,6 +54,7 @@ The Grumpy Mole Tadworth,KT20 5RX,51.2916,-0.2254
 The Chalet Bakery Coffee Shop,KT20 5SD,51.2880,-0.2313
 The Bridge ,KT20 5SP,51.2917,-0.2353
 The Coffee House  ,KT20 5SR,51.2913,-0.2351
+New Khyber,KT20 6EB,51.2954,-0.2143
 No 12 Restaurant,KT20 6EB,51.2954,-0.2143
 Waterhouse Cafe,KT20 6EB,51.2954,-0.2143
 SURREY DOWNS GOLF CLUB,KT20 6JS,51.2903,-0.1875
@@ -89,7 +90,7 @@ Clarks Cafe,KT22 9AL,51.2920,-0.3373
 Zen garden cuisine limited ,KT22 9AL,51.2920,-0.3373
 Raj Bangladeshi restaurant ltd trading as fetcham tandoori,KT22 9JF,51.2972,-0.3566
 Greenwise,KT22 9JQ,51.2963,-0.3554
-vahid nowkandi,KT23 3PF,51.2795,-0.3752
+DEL FUOCO.ITALIAN,KT23 3PG,51.2797,-0.3755
 THE GREAT BOOKHAM TANDOORI RESTAURANT,KT23 3PG,51.2797,-0.3755
 Chocolaterie by Ildiko s Chocolate,KT23 4AA,51.2788,-0.3735
 Subway Bookham,KT23 4RQ,51.2780,-0.3651
@@ -115,6 +116,7 @@ Muffin Break,RH1 1SA,51.2395,-0.1695
 The Coffee Cup,RH1 1SA,51.2395,-0.1695
 Wacky Kingdom,RH1 1SE,51.2399,-0.1696
 FirstPort - Linters Court,RH1 2JN,51.2482,-0.1670
+Quality cafe ,RH1 3EF,51.2635,-0.1515
 Nutfield Priory Hotel & Spa,RH1 4EL,51.2357,-0.1418
 IOTP LTD (INN ON THE POND),RH1 4EU,51.2496,-0.1353
 Nutfield site,RH1 4HY,51.2295,-0.1201
@@ -139,6 +141,8 @@ TAJ MAHAL RESTAURANT,RH10 1BJ,51.1133,-0.1909
 Lemongrass,RH10 1BN,51.1134,-0.1908
 Blue India,RH10 1BQ,51.1147,-0.1901
 The White Hart,RH10 1BQ,51.1147,-0.1901
+Royal Thai Taste,RH10 1BT,51.1147,-0.1909
+reds piri piri,RH10 1BU,51.1154,-0.1906
 Sage,RH10 1BW,51.1141,-0.1908
 KFC,RH10 1BZ,51.1164,-0.1902
 creams cafe ,RH10 1BZ,51.1164,-0.1902
@@ -243,6 +247,7 @@ Subway Dorking,RH4 1QR,51.2331,-0.3289
 The Surrey Yeoman,RH4 1QR,51.2331,-0.3289
 Deepdene Dorking,RH4 1RL,51.2345,-0.3273
 Tandoori Nights,RH4 1RQ,51.2349,-0.3267
+Dorking kebab House ,RH4 1RU,51.2333,-0.3293
 Wimpy,RH4 1RU,51.2333,-0.3293
 Lincoln Arms Limited,RH4 1TF,51.2404,-0.3240
 Burgundy and Black,RH4 1UT,51.2331,-0.3313

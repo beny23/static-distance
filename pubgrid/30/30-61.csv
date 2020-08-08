@@ -22,6 +22,7 @@ Maloncho Tandoori,GU1 3JT,51.2378,-0.5654
 Love Brownies Guildford,GU1 3QT,51.2352,-0.5716
 BLUE SARDINIA RESTAURANT,GU1 3RT,51.2350,-0.5707
 Robin Hood,GU1 3RT,51.2350,-0.5707
+The Robin Hood,GU1 3RT,51.2350,-0.5707
 Thai Terrace,GU1 3RW,51.2352,-0.5710
 The Albany,GU1 3SA,51.2369,-0.5670
 The March Hare,GU1 3SY,51.2339,-0.5702
@@ -29,6 +30,7 @@ OLIVO RESTAURANT,GU1 3UA,51.2346,-0.5741
 La Casita,GU1 3UH,51.2349,-0.5736
 Theion,GU1 3UH,51.2349,-0.5736
 MEAT THE GREEK,GU1 3UL,51.2349,-0.5734
+The Keep,GU1 3UW,51.2347,-0.5730
 Kings Head,GU1 3XQ,51.2323,-0.5727
 Creams Cafe Guildford,GU1 4AA,51.2370,-0.5710
 SUSHI NARA LTD,GU1 4AA,51.2370,-0.5710
@@ -83,6 +85,7 @@ Poppins Restaurant & Cafe,GU15 3RB,51.3381,-0.7439
 Soho Caffe Camberley Limited,GU15 3RB,51.3381,-0.7439
 Jenny's Restaurant & Cafe ,GU15 3RS,51.3380,-0.7446
 Frenchies Dessert Parlour,GU15 3SG,51.3386,-0.7474
+Sorelles Bar,GU15 3SG,51.3386,-0.7474
 Kokoro Camberley,GU15 3SN,51.3383,-0.7456
 W&AZ Coffee Ltd,GU15 3SN,51.3383,-0.7456
 ERTURK68 LTD,GU15 4DQ,51.3484,-0.7262
@@ -101,10 +104,12 @@ Randalls Coffee & Wine ,GU18 5SS,51.3505,-0.6648
 Roost Bagshot,GU19 5AH,51.3620,-0.6922
 roka the square ltd,GU19 5AX,51.3616,-0.6920
 Pennyhiill Park Limited,GU19 5EU,51.3567,-0.7092
+The Mogul,GU19 5HJ,51.3626,-0.6938
 Jack's Fish & Chips,GU19 5HL,51.3622,-0.6928
 Windlesham Golf Club,GU19 5HY,51.3670,-0.6831
 CAFFE AMORE ,GU19 5JB,51.3731,-0.6823
 White Hart,GU19 5JW,51.3613,-0.6883
+The Cannon ,GU2 4BL,51.2345,-0.5779
 YE OLDE SHIP INN,GU2 4EB,51.2264,-0.5795
 Young's Kitchen,GU2 7XH,51.2426,-0.5879
 The Holroyd Arms,GU2 8AF,51.2500,-0.5901
@@ -259,9 +264,11 @@ Nepali Kitchen Ltd t/a Sherpa Kitchen,KT10 9QJ,51.3684,-0.3673
 Panahar Tandoori,KT10 9QJ,51.3684,-0.3673
 Bombay Social,KT10 9QY,51.3701,-0.3653
 SUBWAY ,KT10 9RL,51.3704,-0.3634
+HUMMINGS BAR,KT10 9RQ,51.3697,-0.3648
 The Good Earth,KT10 9RT,51.3710,-0.3636
 SILVERMERE GOLF & LEISURE LIMITED,KT11 1EF,51.3351,-0.4523
 Cobham Spice Oven ,KT11 1HZ,51.3322,-0.4188
+BELLA ROMA EUROPE LTD,KT11 1JR,51.3370,-0.4061
 Fego Restaurant Cobham,KT11 2JZ,51.3294,-0.4108
 The Tea Terrace Restaurant and Tea Room - Cobham Branch,KT11 2LR,51.3298,-0.4112
 The Old Plough,KT11 3BN,51.3195,-0.3888
@@ -276,6 +283,7 @@ The Cricketers,KT11 3NX,51.3117,-0.4118
 Squire's Garden Centre Cobham,KT11 3PU,51.3176,-0.3809
 Woodlands Park Hotel,KT11 3QB,51.3168,-0.3626
 Le Petit Cafe,KT12 1AA,51.3867,-0.4204
+Prima fila,KT12 1AA,51.3867,-0.4204
 Rosewood of Walton T/A Babucci,KT12 1AA,51.3867,-0.4204
 Chair and Chai ,KT12 1AF,51.3868,-0.4218
 Morts Wine Bar,KT12 1AF,51.3868,-0.4218
@@ -288,7 +296,6 @@ KFC Walton on Thames,KT12 1DG,51.3856,-0.4185
 OSQS T/A McDonald's Walton on Thames,KT12 1DG,51.3856,-0.4185
 The Walton Village,KT12 1DG,51.3856,-0.4185
 OLIVE,KT12 1DN,51.3841,-0.4170
-Kia Motors UK Limited,KT12 1FJ,51.3753,-0.4097
 Buenasado Argentine Steakhouse,KT12 1GH,51.3851,-0.4201
 The 1955 Club,KT12 1GH,51.3851,-0.4201
 La Terraza Tapas Bar ,KT12 1JE,51.3757,-0.4092
@@ -307,6 +314,7 @@ Moondrop Cafe,KT12 4JZ,51.3681,-0.3964
 Full Moon Chinese Restaurant,KT12 4RG,51.3674,-0.3968
 The Barley Mow,KT12 4RS,51.3677,-0.3986
 BRICKLAYERS ARMS,KT12 5LS,51.3663,-0.4024
+The Watermans Arms ,KT12 5LT,51.3659,-0.3995
 St Georges Hill Lawn Tennis Club ,KT13 0LL,51.3575,-0.4385
 Brooklands Hotel,KT13 0SL,51.3531,-0.4707
 Mercedes-Benz World,KT13 0SL,51.3531,-0.4707
@@ -319,6 +327,7 @@ Best Western Ship Hotel,KT13 8BQ,51.3739,-0.4563
 Aromas Artisan Kitchen & Coffee,KT13 8DE,51.3722,-0.4600
 Starbucks Weybridge Church Street,KT13 8DE,51.3722,-0.4600
 ossobuco,KT13 8DE,51.3722,-0.4600
+Meejana,KT13 8DG,51.3711,-0.4622
 The Great Gurkhas ,KT13 8DG,51.3711,-0.4622
 cantina41,KT13 8DG,51.3711,-0.4622
 SOYA RESTAURANT,KT13 8DX,51.3726,-0.4599
@@ -346,6 +355,7 @@ Bell Amico Limited,KT14 6NF,51.3390,-0.5054
 New Haweli,KT14 6NF,51.3390,-0.5054
 FirstPort - Barnes Wallis Court,KT14 7HJ,51.3403,-0.4739
 Rajput ,KT14 7QL,51.3387,-0.4770
+Lal Rose Ltd,KT14 7RG,51.3380,-0.4706
 Blue Anchor Byfleet Limited,KT14 7RL,51.3381,-0.4699
 LD Kent Row Ltd,KT14 7TF,51.3304,-0.4717
 LD My Food,KT14 7TF,51.3304,-0.4717
@@ -373,6 +383,7 @@ The Olde Swan,KT16 8AY,51.3923,-0.5044
 BENGAL DYNASTY Fine Indian Cuisine,KT16 9AD,51.3910,-0.5045
 Chertsey Cafe,KT16 9AG,51.3910,-0.5039
 Just Relish,KT16 9AL,51.3918,-0.5041
+Revive,KT16 9AS,51.3909,-0.5048
 Chertsey Restaurant,KT16 9BE,51.3883,-0.5073
 Thann Thai,KT16 9BE,51.3883,-0.5073
 The Golden Grove,KT16 9EN,51.3944,-0.5188
@@ -381,7 +392,7 @@ Munch and Wiggles Limited,KT22 0JN,51.3316,-0.3567
 The Victoria,KT22 0JR,51.3320,-0.3564
 Raj Bangladeshi restaurant ltd trading as fetcham tandoori,KT22 9JF,51.2972,-0.3566
 Greenwise,KT22 9JQ,51.2963,-0.3554
-vahid nowkandi,KT23 3PF,51.2795,-0.3752
+DEL FUOCO.ITALIAN,KT23 3PG,51.2797,-0.3755
 THE GREAT BOOKHAM TANDOORI RESTAURANT,KT23 3PG,51.2797,-0.3755
 Chocolaterie by Ildiko s Chocolate,KT23 4AA,51.2788,-0.3735
 Subway Bookham,KT23 4RQ,51.2780,-0.3651
@@ -413,6 +424,7 @@ Sunningdale Heath Golf Club,SL5 9RX,51.3879,-0.6377
 Mumbai Square Restaurant Ltd,TW17 8AR,51.3963,-0.4472
 Holiday Inn Shepperton,TW17 8NP,51.3918,-0.4247
 Squire's Garden Centre Shepperton,TW17 8SG,51.3996,-0.4293
+THAI BITE,TW17 9AJ,51.3955,-0.4492
 Costa Coffee,TW17 9AR,51.3951,-0.4483
 The Red Lion,TW17 9HX,51.3902,-0.4438
 The Ferry Coffee Shop,TW17 9LQ,51.3834,-0.4564

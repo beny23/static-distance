@@ -75,6 +75,7 @@ Himalayan Spice,PL1 2NA,50.3668,-4.1353
 Kapadokya Restaurant ,PL1 2NA,50.3668,-4.1353
 The Mad Merchant Coffee House,PL1 2NA,50.3668,-4.1353
 B Bar Sw Ltd,PL1 2NJ,50.3663,-4.1352
+THE FISHERMANS ARMS,PL1 2NN,50.3659,-4.1351
 Duttons Cafe,PL1 2NU,50.3635,-4.1342
 Boathouse Cafe,PL1 2NX,50.3643,-4.1341
 The Corinthian ,PL1 2NY,50.3631,-4.1363
@@ -97,6 +98,7 @@ Knead Pizza,PL1 3PE,50.3685,-4.1601
 Hook & Line,PL1 3QQ,50.3616,-4.1661
 Artillery Tower restaurant,PL1 3QR,50.3628,-4.1607
 BISTROT PIERRE - PLYMOUTH,PL1 3RP,50.3619,-4.1641
+Bistrot Pierre - Plymouth,PL1 3RP,50.3619,-4.1641
 Le Vignoble Plymouth,PL1 3RP,50.3619,-4.1641
 The Fig Tree at 36,PL1 3RU,50.3643,-4.1605
 The Park Pavillion Cafe Devonport Park,PL1 4BU,50.3739,-4.1709
@@ -122,6 +124,7 @@ Finnygook Inn,PL11 3BQ,50.3653,-4.2987
 The Halfway House Pub & Kitchen ,PL11 3EY,50.3882,-4.3250
 The Copley Arms,PL11 3HJ,50.3918,-4.3819
 The Smugglers Inn,PL11 3JD,50.3645,-4.3844
+Blueplate bar restaurant deli ltd,PL11 3LD,50.3620,-4.3693
 Caffe Corradi,PL12 4EE,50.4082,-4.2159
 The Crooked Inn,PL12 4RZ,50.4217,-4.2660
 Heskyn Mill Restaurant,PL12 5BG,50.4108,-4.3353
@@ -223,12 +226,13 @@ The Prince Maurice,PL6 5RJ,50.4003,-4.1149
 Future Inns Plymouth,PL6 5ZD,50.4125,-4.1240
 The lockdown bar & grill ,PL6 6QW,50.4295,-4.1240
 The Lopes Arms,PL6 7BD,50.4428,-4.1084
-Becton Dickinson UK Ltd,PL6 7BP,50.4419,-4.1154
-Plessey Semiconductors Ltd,PL6 7BQ,50.4475,-4.1108
+TNS Catering_BD,PL6 7BP,50.4419,-4.1154
+TNS Catering_Plessey,PL6 7BQ,50.4475,-4.1108
 The Dartmoor Diner ,PL6 7BQ,50.4475,-4.1108
-Rittal CSM Limited,PL6 7EZ,50.4458,-4.1195
+TNS Catering_Rittal CSM Ltd,PL6 7EZ,50.4458,-4.1195
 Hive Cafe,PL6 7FB,50.4225,-4.0981
 Al's Catering Ltd,PL6 7PP,50.4182,-4.0965
+PUB SOLUTIONS (SOUTH WEST) LIMITED,PL6 7PS,50.4177,-4.0896
 Domino's Pizza,PL6 7RF,50.4354,-4.1096
 The Woolwell Centre Cafe,PL6 7TR,50.4354,-4.1014
 Costa Coffee,PL6 8DH,50.4167,-4.1137
@@ -250,7 +254,9 @@ THE WHITE THORN INN ,PL7 5HA,50.4499,-4.0571
 Cliff edge cafe ,PL9 0AD,50.3371,-4.1238
 Cafe Bovisands,PL9 0AE,50.3336,-4.1061
 The Eddystone ,PL9 0BN,50.3216,-4.1128
+Rowes Bakery,PL9 7AF,50.3602,-4.0912
 McDonalds,PL9 7BH,50.3654,-4.1003
+Super Tramp Plymouth,PL9 7HJ,50.3659,-4.1071
 The Morley Bar & Eatery,PL9 7HP,50.3673,-4.1058
 The Elburton inn,PL9 8HX,50.3609,-4.0645
 GT MOTORCYCLES 2012 LTD,PL9 8JQ,50.3647,-4.0796

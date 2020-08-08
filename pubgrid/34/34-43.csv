@@ -24,6 +24,7 @@ Subway Duke St,CF10 1AY,51.4812,-3.1796
 Barker Tea House,CF10 1BB,51.4808,-3.1794
 MOTHER NATURE,CF10 1BB,51.4808,-3.1794
 The Arcade Vaults,CF10 1BB,51.4808,-3.1794
+KERALAN KARAVAN -BUBS BAR,CF10 1BG,51.4805,-3.1793
 Mowgli Street Food - Cardiff,CF10 1BG,51.4805,-3.1793
 The Head of Steam,CF10 1BG,51.4805,-3.1793
 The Real Italian Pizza Company,CF10 1BH,51.4804,-3.1786
@@ -90,6 +91,7 @@ Shake Shack Cardiff,CF10 2EL,51.4792,-3.1748
 The Smoke Haus,CF10 2EN,51.4790,-3.1734
 Citrus Hotel Cardiff,CF10 2FE,51.4777,-3.1719
 Got No Beef,CF10 2FR,51.4802,-3.1738
+Magic Wrap,CF10 2FR,51.4802,-3.1738
 The Grazing Shed,CF10 2FR,51.4802,-3.1738
 Cornerstone,CF10 2GA,51.4811,-3.1734
 Subway,CF10 2GP,51.4828,-3.1709
@@ -106,6 +108,7 @@ Valentino's Restaurant,CF10 3BX,51.4832,-3.1733
 Bellinis Italiano,CF10 3DP,51.4835,-3.1747
 Doblay Cardiff Limited ,CF10 3DP,51.4835,-3.1747
 Steinbeck & Shaw Cardiff,CF10 3DP,51.4835,-3.1747
+faburgers ,CF10 3DQ,51.4848,-3.1754
 The Live Lounge,CF10 3FA,51.4825,-3.1777
 summerhill properties limited,CF10 3HH,51.4830,-3.1785
 Kin Ilk Capital Quarter,CF10 4BZ,51.4772,-3.1688
@@ -118,10 +121,12 @@ Bread and Salt ltd,CF11 9AH,51.4814,-3.1969
 INDOCYMRU RESTAURANT,CF11 9AH,51.4814,-3.1969
 Mira ,CF11 9AH,51.4814,-3.1969
 Vivo Latino,CF11 9AH,51.4814,-3.1969
+Happy Gathering,CF11 9AL,51.4813,-3.1992
 The cinnamon tree,CF11 9DE,51.4851,-3.1987
 Canna Deli,CF11 9DF,51.4859,-3.2001
 The Lazy Leek,CF11 9DF,51.4859,-3.2001
 EURASIAN TANDOORI ,CF11 9DU,51.4815,-3.1951
+old sichuan,CF11 9DU,51.4815,-3.1951
 Subway 42500-0,CF11 9DX,51.4817,-3.1978
 Quantum Cafe ,CF11 9EB,51.4827,-3.1992
 Kin Ilk Pontcanna,CF11 9HB,51.4836,-3.1918
@@ -132,6 +137,7 @@ Brewhouse and Kitchen Cardiff,CF11 9HW,51.4852,-3.1915
 Elgano Restaurant ,CF11 9LL,51.4853,-3.1934
 The Cricketers,CF11 9LL,51.4853,-3.1934
 calabrisella canton,CF11 9ND,51.4816,-3.2000
+St Canna's Ale House,CF11 9NJ,51.4823,-3.2019
 The Apothecary ,CF11 9NJ,51.4823,-3.2019
 STEFANOS,CF11 9NR,51.4854,-3.2019
 The Conway,CF11 9NW,51.4884,-3.2039
@@ -142,6 +148,7 @@ Ve Wild Cafe,CF14 1DH,51.5123,-3.2194
 THE BROOK BISTRO,CF14 1DJ,51.5116,-3.2181
 Deli a Go Go,CF14 2AA,51.5139,-3.2210
 The India gate restaurant ,CF14 2AA,51.5139,-3.2210
+mowglis indian restaurant,CF14 2AA,51.5139,-3.2210
 Porter's Coffee Shop,CF14 2HU,51.5027,-3.2231
 McDonald’s ,CF14 3AT,51.4995,-3.2027
 Club 3000 Bingo Cardiff,CF14 3AX,51.5002,-3.2047
@@ -201,10 +208,13 @@ Giardini di Sorrento Italian Restaurant,CF24 3DL,51.4863,-3.1658
 Subway,CF24 3DL,51.4863,-3.1658
 Shaam nights restaurant,CF24 3DQ,51.4890,-3.1678
 Sweetbox,CF24 3DQ,51.4890,-3.1678
+Saray Express Restaurant,CF24 3JB,51.4905,-3.1706
 Saray Restaurant,CF24 3JE,51.4903,-3.1696
+Al-sham sweets,CF24 3JF,51.4908,-3.1701
 CHAIIWALA,CF24 3JF,51.4908,-3.1701
 Chunky chicken,CF24 3JH,51.4918,-3.1709
 German Doner Kebab,CF24 3JH,51.4918,-3.1709
+KBS ,CF24 3JJ,51.4923,-3.1713
 Tenkaichi,CF24 3JJ,51.4923,-3.1713
 POOJA SWEETS & SAVOURIES,CF24 3LH,51.4929,-3.1710
 ROJ CAFE RESTAURANT,CF24 3LH,51.4929,-3.1710
@@ -231,6 +241,7 @@ Noodlebox ,CF24 4BS,51.4904,-3.1743
 The Balti Cuisine,CF24 4DY,51.4936,-3.1775
 wiwo,CF24 4DY,51.4936,-3.1775
 Poutin Box,CF24 4ED,51.4928,-3.1777
+Irie Shack,CF24 4EE,51.4937,-3.1768
 Alfies Cardiff,CF24 4GG,51.4990,-3.1750
 Metchys cafe ,CF24 4HS,51.4917,-3.1813
 calabrisella cathays,CF24 4HS,51.4917,-3.1813
@@ -239,6 +250,8 @@ Mina Restaurant ,CF24 4ND,51.4948,-3.1772
 Stag Coffee,CF24 4NF,51.4956,-3.1793
 Jashaan Indian Restaurant & Takeaway,CF24 4NG,51.4960,-3.1801
 Svago,CF24 4NH,51.4965,-3.1812
+mowglis restaurants ltd,CF24 4NH,51.4965,-3.1812
+TukTuk ,CF24 4NL,51.4945,-3.1758
 The Royal George,CF24 4RJ,51.4934,-3.1724
 Subway,CF24 5TG,51.4759,-3.1595
 Frolics Cafe,CF3 0EF,51.5254,-3.1017
@@ -289,6 +302,7 @@ the box cafe,CF83 8BY,51.5918,-3.1833
 Miss B’s Pantry,CF83 8EA,51.5913,-3.1994
 The Rock,CF83 8EA,51.5913,-3.1994
 V’Nillapod Cafe Ltd,NP10 8BB,51.5596,-3.0362
+Junction 28,NP10 8LD,51.5786,-3.0449
 Friendly Fox,NP10 8LW,51.5789,-3.0610
 Rhiwderin Inn ,NP10 8RX,51.5801,-3.0684
 shipwreck cafe,NP10 8SH,51.5329,-3.0126
@@ -365,6 +379,8 @@ Horton's Coffee House,NP19 0NU,51.5873,-2.9884
 Man of steel,NP19 4NW,51.5788,-2.9504
 Burger King - Newport 2,NP19 4QQ,51.5776,-2.9441
 McDonald's,NP19 4QR,51.5747,-2.9439
+Tawa Indian Buffet,NP19 4QR,51.5747,-2.9439
+Funky Monkeys Softplay Newport Ltd,NP19 4TX,51.5757,-2.9460
 Riverside Bar And Kitchen,NP19 7AB,51.5913,-2.9912
 Pasha Balti,NP19 7DB,51.5962,-2.9838
 The Lunchbox,NP19 7EH,51.5923,-2.9854
@@ -376,6 +392,7 @@ The Potters ,NP20 1DL,51.5874,-2.9947
 BISTROT PIERRE - NEWPORT,NP20 1DR,51.5871,-2.9945
 Muffin Break,NP20 1DR,51.5871,-2.9945
 Superbowl UK Newport Ltd ,NP20 1DR,51.5871,-2.9945
+Bistrot Pierre - Newport,NP20 1DS,51.5862,-2.9925
 Boswells Cafe,NP20 1EB,51.5851,-2.9933
 NEW LAHORE ,NP20 1EE,51.5841,-2.9913
 STARBUCKS ,NP20 1EW,51.5845,-2.9933
@@ -395,6 +412,7 @@ Subway,NP20 1PX,51.5862,-2.9943
 Burger King - Newport ,NP20 1YD,51.5866,-2.9951
 The Health Hut,NP20 2BL,51.5806,-2.9855
 Castle Bingo Newport,NP20 2BP,51.5838,-2.9867
+New Ole,NP20 2ED,51.5818,-2.9933
 Subway,NP20 2ED,51.5818,-2.9933
 Jump Adventure Newport,NP20 2NS,51.5709,-3.0002
 Subway,NP20 3AE,51.5729,-3.0126
@@ -437,4 +455,5 @@ T J'S Catering,NP44 3AX,51.6365,-3.0196
 Page's Fish & Chips Restaurant,NP44 3EW,51.6549,-3.0259
 Lizzy's Cafe Limited,NP44 3JN,51.6468,-3.0219
 The Parkway Hotel and Ravellos Restaurant,NP44 3UW,51.6320,-3.0172
+Tamarind ,NP44 4SY,51.6490,-3.0393
 The Bush Inn,NP44 5AN,51.6655,-3.0497

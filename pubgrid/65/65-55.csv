@@ -128,7 +128,9 @@ The Mitre,HG5 9AA,54.0091,-1.4703
 Dower House Hotel and Spa,HG5 9AL,54.0112,-1.4728
 The Tiled Hall Café,LS1 3AB,53.8001,-1.5487
 ALMOST FAMOUS LEEDS,LS1 3AL,53.8007,-1.5483
+Deli kitchen ,LS1 3BB,53.8010,-1.5516
 El’s Gourmet ,LS1 3BB,53.8010,-1.5516
+Line thai oriental ,LS1 3BB,53.8010,-1.5516
 Stage Espresso & Brewbar,LS1 3BB,53.8010,-1.5516
 The George,LS1 3BB,53.8010,-1.5516
 Bun Mese,LS1 3BR,53.8011,-1.5535
@@ -181,6 +183,7 @@ The GREENHOUSE CAFE BAR LTD T/A THE BANK ,LS17 6DN,53.8461,-1.5334
 Catch Street Lane Limited,LS17 6HQ,53.8432,-1.5294
 T2Go Ltd T/a El Bareto,LS17 6LX,53.8362,-1.5390
 The greenhouse cafe bar ltd t/a Ikes ,LS17 6PX,53.8443,-1.5334
+CORNER HOUSE COFFEE BAR AND KITCHEN,LS17 6PY,53.8435,-1.5333
 St Gemma's Hospice,LS17 6QD,53.8423,-1.5342
 Cafe Espresso ,LS17 7BD,53.8573,-1.5616
 the olive branch alwoodley ,LS17 7BE,53.8570,-1.5610
@@ -193,6 +196,7 @@ Harewood House Trust Ltd,LS17 9LG,53.8969,-1.5273
 Terrace Tea Rooms at Harewood House,LS17 9LG,53.8969,-1.5273
 Muddy Boots Cafe,LS17 9LJ,53.9022,-1.5128
 Catering at Moor Allerton golf Club,LS17 9NH,53.8699,-1.4804
+Leeds Bridge Street Hotel Ltd,LS2 7BP,53.8004,-1.5353
 The Fishermans third wife ltd,LS2 7BR,53.8004,-1.5353
 THE RELIANCE,LS2 7PN,53.8017,-1.5379
 WENS RESTAURANT,LS2 7PN,53.8017,-1.5379
@@ -220,6 +224,7 @@ Ibis Styles Leeds City Centre Arena,LS2 8NJ,53.8015,-1.5433
 My Thai Leeds Ltd,LS2 8NJ,53.8015,-1.5433
 The Eldon,LS2 9DX,53.8102,-1.5553
 Hu Nan Chinese Food Service Limited,LS2 9DZ,53.8109,-1.5560
+TECH FOODS LEEDS LTD,LS2 9HB,53.8084,-1.5520
 brunch leeds,LS2 9HB,53.8084,-1.5520
 Mr Su’s,LS2 9HD,53.8075,-1.5514
 Opposite Cafe,LS2 9HD,53.8075,-1.5514
@@ -233,7 +238,9 @@ The Bay Horse,LS22 4DZ,53.9465,-1.3935
 Windmill Inn Linton,LS22 4HT,53.9150,-1.4078
 Wood Hall Hotel & Spa,LS22 4JA,53.9160,-1.4403
 CROMWELLS BAR & KITCHEN,LS22 5BL,53.9081,-1.4133
+MERCURE WETHERBY HOTEL,LS22 5HE,53.9243,-1.3873
 BENGAL BRASSERIE (YORKSHIRE) LIMITED,LS22 6JA,53.9281,-1.3844
+Bengal brasserie (yorkshire) Limited,LS22 6JA,53.9281,-1.3844
 New Inns,LS22 6LL,53.9288,-1.3877
 The Black Bull,LS22 6LN,53.9286,-1.3865
 Bar Three,LS22 6LQ,53.9279,-1.3871
@@ -251,12 +258,16 @@ Don’t tell the duke ,LS22 6NQ,53.9289,-1.3866
 Mango Vegetarian cafe and Restaurant,LS22 6NQ,53.9289,-1.3866
 The Mews,LS22 6NQ,53.9289,-1.3866
 the wetherby,LS22 7DN,53.9366,-1.3783
+Tom Foolery,LS23 6AA,53.9041,-1.3439
 Stew & Oyster,LS23 6BH,53.9068,-1.3511
+alis kitchen,LS23 6BT,53.9041,-1.3456
+Joon Wetherby Ltd,LS23 6BW,53.9053,-1.3478
 La Casita Boston Spa ,LS23 6BW,53.9053,-1.3478
 Restaurant L'Aquila ,LS23 6BW,53.9053,-1.3478
 southbank,LS23 6BW,53.9053,-1.3478
 The Albion,LS23 6HU,53.8946,-1.3480
 Bowcliffe Hall ,LS23 6LP,53.8746,-1.3546
+Pax Inn Spice Ltd,LS23 7AR,53.9095,-1.3423
 Fox & Hounds,LS23 7DQ,53.9253,-1.3248
 Aagrah Tadcaster ,LS24 8EG,53.8995,-1.2003
 ROAST COFFEE SHOP,LS24 9HJ,53.8758,-1.2719
@@ -285,6 +296,7 @@ Jerk Express Ltd,LS6 1LJ,53.8096,-1.5744
 Left Bank Leeds CIC,LS6 1LJ,53.8096,-1.5744
 brudenell social club ltd,LS6 1NY,53.8096,-1.5701
 AL-KHALEEJ,LS6 1PY,53.8057,-1.5691
+SAPORI (74) LTD,LS6 1PY,53.8057,-1.5691
 TJ'S BAR & GRILL,LS6 2JH,53.8145,-1.5568
 La Cafetiere,LS6 2NW,53.8147,-1.5612
 Oranasie Cafe,LS6 2NW,53.8147,-1.5612
@@ -293,6 +305,8 @@ Sushi Bar Hana Matsuri,LS6 4AZ,53.8277,-1.5664
 junction,LS6 4HZ,53.8299,-1.5649
 MYRTLE TAVERN LTD,LS6 4NE,53.8361,-1.5704
 Milk & Honey Cafe ,LS6 4PU,53.8379,-1.5540
+bob's bar and restaurant,LS7 1AD,53.8066,-1.5334
+GD RESTAURANT LIMITED,LS7 1BL,53.8056,-1.5319
 The Cheese Yard,LS7 1JW,53.8111,-1.5421
 EL BAHJA ,LS7 2EG,53.8251,-1.5489
 Our Place Leeds,LS7 2HG,53.8151,-1.5437
@@ -324,11 +338,13 @@ Tropical World ,LS8 2ER,53.8400,-1.5038
 Starbucks Leeds Street Lane,LS8 2ET,53.8429,-1.5048
 Chophaus,LS8 2FA,53.8279,-1.5060
 Grön Kafé,LS8 2HU,53.8267,-1.5058
+Pizza Loco,LS8 2HU,53.8267,-1.5058
 Stew & Oyster,LS8 2HU,53.8267,-1.5058
 Tasty Kitchen & Coffee,LS8 2HU,53.8267,-1.5058
 ricos restaurant,LS8 2HU,53.8267,-1.5058
 The Lakeside Cafe,LS8 2JL,53.8348,-1.4965
 Ronnies Ltd t/a McDonalds 866,LS8 2RB,53.8209,-1.4977
+Chai Walay,LS8 2SH,53.8187,-1.5144
 ICE SCOOP (HAREHILLS) LTD,LS8 3AA,53.8173,-1.5129
 La Tranquillity ,LS8 3RG,53.8113,-1.5114
 Soosi Restaurant,LS8 4AR,53.8250,-1.5081
@@ -344,9 +360,12 @@ Opaa,LS8 5DR,53.8085,-1.5276
 Singh's indian street food,LS8 5DR,53.8085,-1.5276
 Tastys karahi restaurant ,LS8 5NA,53.8109,-1.5250
 Mother Hubbards,LS8 5PB,53.8141,-1.5175
+RAJAS DOUGHNUTS,LS8 5PL,53.8138,-1.5200
 KFC HAREHILLS 02003,LS8 5RL,53.8171,-1.5164
+Safis food ,LS9 6LG,53.8034,-1.5011
 Gipton old Fire station,LS9 6NL,53.8023,-1.4942
 African Bar & Restaurant ,LS9 7LY,53.8039,-1.5290
+lincoln green internet cafe,LS9 7SU,53.8021,-1.5261
 McDonalds Bilbrough A64,YO23 3PP,53.9064,-1.1846
 The Tickled Trout,YO26 7NN,53.9440,-1.2749
 19th Hole (Otley) Ltd,YO26 7QY,53.9646,-1.2938

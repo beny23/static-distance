@@ -36,6 +36,9 @@ Koffee,HD1 2LR,53.6449,-1.7846
 chickenhut (hudd) LTD,HD1 2PT,53.6466,-1.7805
 88 NOODLE BAR,HD1 2PY,53.6463,-1.7809
 Chicken Village,HD1 2PY,53.6463,-1.7809
+Chicken village ,HD1 2PY,53.6463,-1.7809
+Dixy Chicken,HD1 2PY,53.6463,-1.7809
+Grillish,HD1 2PY,53.6463,-1.7809
 Malaika Huddersfield Ltd,HD1 2PY,53.6463,-1.7809
 Cafe Mandalay,HD1 2PZ,53.6459,-1.7808
 The Chinese Buffet,HD1 2PZ,53.6459,-1.7808
@@ -56,6 +59,7 @@ Wrapik Fast Food,HD1 2UJ,53.6435,-1.7815
 Snootys pizza bar ,HD1 3AJ,53.6438,-1.7740
 MANJAROS,HD1 3BB,53.6398,-1.7816
 Jerk House ,HD1 3JA,53.6421,-1.7950
+Eat in ,HD1 3JQ,53.6397,-1.7974
 Centre Coffee Shop,HD1 3LG,53.6402,-1.7939
 PINOS,HD1 3TG,53.6339,-1.7943
 H&Z FOOD LTD /TRADE AS  QFC,HD1 4DA,53.6468,-1.7867
@@ -68,6 +72,7 @@ thirsty gardener cafe,HD3 4QA,53.6399,-1.8380
 Guest Dining ,HD4 6BS,53.6122,-1.7508
 Grappolo,HD4 6EJ,53.6328,-1.7945
 Flavours trap kitchen ,HD4 6EL,53.6325,-1.7952
+The Victoria Hotel ,HD4 6RB,53.6281,-1.7794
 Rose & Crown ,HD4 6XU,53.5903,-1.7516
 Bulls Head Bistro,HD4 7AE,53.6266,-1.8266
 The sands House,HD4 7AE,53.6266,-1.8266
@@ -120,11 +125,13 @@ The Pickled Pheasant,HD9 2NQ,53.5567,-1.8199
 Catch Holmfirth Limited,HD9 2PR,53.5659,-1.8004
 Holmfirth Vineyard Ltd,HD9 2QR,53.5545,-1.8094
 TRUEGOAL LTD,HD9 2RD,53.5567,-1.7859
+D&E's,HD9 2TH,53.5458,-1.8072
 En route cafe,HD9 3JH,53.5699,-1.7883
 Shimla Lounge,HD9 3JH,53.5699,-1.7883
 Cider Press Café,HD9 3TD,53.5867,-1.7906
 Liesl’s Kitchen,HD9 4AP,53.5975,-1.8335
 Cafe Plus,HD9 6AA,53.6036,-1.7927
+Cafe loom Dixon &franks,HD9 6AA,53.6036,-1.7927
 The Gallery Cafe,HD9 6AD,53.6034,-1.7928
 SAVARO BAR AND KITCHEN LTD,HD9 6AH,53.6045,-1.7927
 The Foresters Arms,HD9 6DW,53.6008,-1.7956
@@ -134,6 +141,7 @@ The Travellers Rest,HD9 7AZ,53.5987,-1.7773
 The Old Bridge Inn,HD9 7DA,53.5701,-1.7865
 POPPA PICCOLINOS,HD9 7DF,53.5700,-1.7873
 Holme Coffee House,HD9 7EQ,53.5717,-1.7859
+Julio's Pizzeria Restaurante,S35 0GY,53.4335,-1.5364
 KONDAS TRADE LTD - (SUBWAY),S35 1SF,53.4621,-1.4687
 Crown & Cushion,S35 1SS,53.4591,-1.4847
 the barrel,S35 2UL,53.4673,-1.4745
@@ -159,9 +167,11 @@ McGilverays Restaurant & Bar,S36 2AE,53.4829,-1.5893
 Ponti’s Italian Kitchen,S36 2AE,53.4829,-1.5893
 The workslunchbox ltd T/a Samuels Kitchen,S36 2BU,53.4836,-1.5899
 Domino's Pizza - Sheffield - Fox Valley,S36 2JA,53.4838,-1.5921
+PEN NOOK,S36 2QH,53.4730,-1.5754
 King and Miller,S36 2RD,53.4782,-1.5686
 Ye Olde Mustard Pot,S36 4GW,53.4931,-1.6451
 Cafe Creme,S36 6BR,53.5236,-1.6307
+SYLHET CINNAMON SPICE LTD,S36 6BZ,53.5255,-1.6307
 Vault,S36 6DT,53.5263,-1.6316
 Cafe 121,S36 6HF,53.5222,-1.6140
 lord nelson,S36 7JA,53.5385,-1.6034
@@ -240,6 +250,7 @@ The Strafford Arms,S75 3EW,53.5302,-1.5103
 Holiday Inn Barnsley,S75 3JT,53.5461,-1.5234
 Dil Raj Restaurant,S75 3RF,53.5424,-1.5248
 Locked in time antiques and vintage tea rooms ,S75 3RG,53.5416,-1.5233
+Curry Mahal,S75 3RN,53.5433,-1.5262
 Hotel ibis Styles Barnsley,S75 3TX,53.5493,-1.5178
 CANNON HALL FARM LTD ,S75 4AT,53.5710,-1.5902
 The Pavilion Cafe (Cawthorne) Ltd,S75 4AT,53.5710,-1.5902

@@ -1,7 +1,6 @@
 name,postcode,lat,lon
 Lobo Rojo,NE30 1HB,55.0103,-1.4349
 Allard's on the Quay,NE30 1HJ,55.0093,-1.4357
-sambuca cafe ltd,NE30 1HJ,55.0093,-1.4357
 The Staith House,NE30 1JA,55.0096,-1.4341
 How do you do North Shields ,NE30 1JS,55.0100,-1.4352
 Low Lights Tavern,NE30 1LL,55.0110,-1.4350
@@ -20,6 +19,7 @@ robinson crusoes,NE30 4HH,55.0221,-1.4227
 the view tynemouth,NE30 4JA,55.0304,-1.4304
 Tynemouth Aquarium - Bay and Laurel,NE30 4JF,55.0277,-1.4304
 The Greenhouse,NE30 4JL,55.0255,-1.4299
+Dibbley’s ,NE30 4LP,55.0196,-1.4257
 Priory Coffee Shop,NE30 4LT,55.0188,-1.4251
 The Boatyard,NE30 4PL,55.0351,-1.4339
 cullercoats coffee,NE30 4PL,55.0351,-1.4339
@@ -29,6 +29,7 @@ Sea you there,NE30 4PN,55.0355,-1.4330
 Cullercoats Tandoori LTD,NE30 4PQ,55.0355,-1.4352
 The Queens Head,NE30 4QB,55.0358,-1.4320
 Cafe 42 Ltd,NE33 1BN,54.9973,-1.4369
+The smithy cafe ,NE33 1BT,54.9982,-1.4332
 McDonald's,NE33 1DA,54.9984,-1.4334
 Ristorante Bravi,NE33 1HD,54.9987,-1.4353
 Little Haven Hotel,NE33 1LH,55.0065,-1.4282
@@ -48,6 +49,7 @@ Italian Spanish,NE33 2JF,54.9997,-1.4270
 TANDOORI INTERNATIONAL,NE33 2JL,55.0005,-1.4253
 The Clifton Coffeeshop,NE33 2JL,55.0005,-1.4253
 Colmans Of South Shields,NE33 2JQ,55.0002,-1.4249
+ELTIO LATIN RESTAURANT,NE33 2JQ,55.0002,-1.4249
 Kuzey,NE33 2JQ,55.0002,-1.4249
 Shapla (South Shields) Ltd,NE33 2JQ,55.0002,-1.4249
 Spice garden ocean road ltd ,NE33 2JQ,55.0002,-1.4249
@@ -70,11 +72,13 @@ Tuscanos italian restaurant ,NE33 2PS,54.9966,-1.4295
 Fit Belli Deli,NE33 3PE,54.9943,-1.4189
 Mac N Alli,NE33 3PE,54.9943,-1.4189
 LASUN INDIAN CUISINE LTD,NE33 4DZ,54.9867,-1.4250
+Greek street food ,NE33 4EA,54.9860,-1.4249
 KFC,NE33 4HN,54.9899,-1.4294
 SOUTHSHIELDS INDIAN LIMITED,NE33 4SS,54.9775,-1.4343
 Aneesas Buffet Restaurant,NE33 5DU,54.9877,-1.4368
 The Grey Hen,NE34 0EN,54.9751,-1.4216
 Cafe At The Corner,NE34 6AD,54.9775,-1.4131
+Spice One,NE34 6QZ,54.9722,-1.4119
 Caffé Mio,NE34 6RB,54.9722,-1.4102
 The Grotto,NE34 7BS,54.9770,-1.3776
 Marsden Inn,NE34 7HN,54.9788,-1.3868
@@ -95,11 +99,13 @@ Sunderland Bowl,SR1 1TR,54.9079,-1.3793
 Infinity pizza Rd ltd,SR1 1TX,54.9078,-1.3813
 Kaspas Sunderland,SR1 1TZ,54.9073,-1.3812
 Baba-Ghanoush ,SR1 1UB,54.9075,-1.3789
+tabbouleh ,SR1 1UN,54.9081,-1.3775
 Asiana Fusion Restaurant,SR1 1XD,54.9090,-1.3814
 sambuca sunderland ltd,SR1 2JR,54.9095,-1.3737
 subway,SR1 3BT,54.9069,-1.3832
 Barista,SR1 3DE,54.9072,-1.3836
 McDonald's Restaurants,SR1 3DE,54.9072,-1.3836
+SUNDERLAND 3 DP LTD,SR1 3DP,54.9074,-1.3855
 ESQUIRES COFFEE HOUSES SUNDERLAND,SR1 3DR,54.9064,-1.3855
 Luciano Ristorante ,SR1 3DZ,54.9069,-1.3865
 Aperitif,SR1 3EX,54.9063,-1.3894
@@ -145,6 +151,7 @@ Tastebuds,SR4 6AH,54.9092,-1.3954
 Hanover Place,SR4 6BY,54.9133,-1.3943
 Dixy Chicken Sunderland,SR4 6NF,54.9075,-1.4144
 Sunderland wall ,SR4 6TQ,54.9146,-1.4152
+Goodfillas,SR4 7AA,54.9071,-1.3960
 NEW HONG KONG,SR4 7AA,54.9071,-1.3960
 san marino restaurant,SR4 7HS,54.9015,-1.4033
 Royal Voluntary Service,SR4 7TP,54.9031,-1.4110

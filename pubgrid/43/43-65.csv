@@ -10,6 +10,7 @@ Coeur de France & Shanghai Family ,CB1 1DG,52.2061,0.1329
 Subway,CB1 1DG,52.2061,0.1329
 The Catch Fish and Chips,CB1 1DG,52.2061,0.1329
 signrorelli's deli,CB1 1DG,52.2061,0.1329
+The Free Press,CB1 1DU,52.2049,0.1301
 The Tram Depot,CB1 1DY,52.2046,0.1328
 LukThai at The Cricketers,CB1 1EQ,52.2044,0.1292
 Nanna Mexico,CB1 1EW,52.2066,0.1306
@@ -59,6 +60,7 @@ Wasabi Sushi & Bento,CB1 2GA,52.1949,0.1366
 NORFOLK STREET BAKERY AT STATION ROAD,CB1 2JB,52.1952,0.1315
 Smokeworks Station Road,CB1 2JB,52.1952,0.1315
 Tawa Kitchen,CB1 2JH,52.1944,0.1346
+Al Chile Gourmet,CB1 2JW,52.1941,0.1373
 The Box Cafe ,CB1 2LD,52.2045,0.1367
 Thrive plant-based Cafe & Bistro,CB1 2LD,52.2045,0.1367
 Zhong Hua Snacks,CB1 2LD,52.2045,0.1367
@@ -81,6 +83,7 @@ THE BROOK PUB ,CB1 3NW,52.1961,0.1551
 The Dumpling Tree Bar & Restaurant,CB1 3RX,52.1884,0.1529
 Costa Coffee,CB1 7AA,52.1887,0.1388
 Rock of virtue EAT out ,CB1 7AA,52.1887,0.1388
+Tradizioni at Sorrento,CB1 7AN,52.1877,0.1455
 Hot Spot Cambridge Limited,CB1 7DY,52.1914,0.1370
 Nines Global Buffet,CB1 7DY,52.1914,0.1370
 Pizza 1889 Cambridge Leisure Park,CB1 7DY,52.1914,0.1370
@@ -92,10 +95,12 @@ The coffee house ,CB1 8QJ,52.1809,0.1519
 The Queen Edith Pub,CB1 8QN,52.1814,0.1530
 The Queen Edith Public House,CB1 8QN,52.1814,0.1530
 INDISH,CB1 9HX,52.1867,0.1730
+Indian Palace Restaurant,CB1 9HX,52.1867,0.1730
 The Red Lion ,CB1 9JP,52.1869,0.1713
 AZ Cambridge ,CB2 0AA,52.1744,0.1351
 Abcam,CB2 0AX,52.1732,0.1363
 Royal Voluntary Service,CB2 0QQ,52.1737,0.1391
+Sta catering limited,CB2 0SN,52.1757,0.1377
 Cambridge Institute of Medical research,CB2 0XY,52.1764,0.1426
 The Hutchinson Research Centre,CB2 0XY,52.1764,0.1426
 Doppleganger,CB2 1AB,52.2010,0.1260
@@ -119,6 +124,7 @@ The Snug Bar Lensfield Road,CB2 1EN,52.1979,0.1237
 The Alma,CB2 1HW,52.1962,0.1260
 Cambridge Blues Sandwitches ,CB2 1LA,52.1969,0.1292
 Costa Coffee,CB2 1LA,52.1969,0.1292
+The Flying Pig,CB2 1LQ,52.1941,0.1313
 La Maison du Steak,CB2 1PG,52.1934,0.1332
 The Earl of Derby,CB2 1PG,52.1934,0.1332
 Hot Numbers Coffee - Trumpington Street,CB2 1QA,52.1992,0.1216
@@ -133,11 +139,14 @@ Trinity Restaurant,CB2 1TB,52.2067,0.1181
 Hong Kong Fusion Restaurant ,CB2 1TW,52.2080,0.1184
 Le Patissier ltd,CB2 1TW,52.2080,0.1184
 Bridges Cambridge,CB2 1UF,52.2090,0.1181
+Bridges,CB2 1UF,52.2090,0.1181
 Chinese Canteen,CB2 1UJ,52.2096,0.1172
 CrepeAffaire Cambridge,CB2 1UR,52.2080,0.1187
 Fitzbillies,CB2 1UW,52.2095,0.1165
 Galleria,CB2 1UW,52.2095,0.1165
+The Castle Bar,CB2 3AR,52.2028,0.1236
 Varsity Restaurant,CB2 3AR,52.2028,0.1236
+CAFE MILANO,CB2 3BZ,52.2047,0.1229
 Jamaica Blue Cambridge,CB2 3ET,52.2047,0.1212
 itsu Cambridge,CB2 3HG,52.2063,0.1210
 Harriets Cafe Tearooms,CB2 3JU,52.2068,0.1192
@@ -194,7 +203,7 @@ blue lion (hardwick) limited,CB23 7QU,52.2066,0.0059
 Three Horseshoes,CB23 8AB,52.2259,0.0431
 Fox Inn,CB23 8DY,52.2532,0.0216
 BAR HILL SPORTS AND SOCIAL CLUB,CB23 8SU,52.2489,0.0159
-Domino Printing Sciences,CB23 8TU,52.2581,0.0182
+TNS Catering_Domino,CB23 8TU,52.2581,0.0182
 The White Horse,CB24 3AB,52.2609,0.0632
 The Olive Tree Cafe,CB24 3BD,52.2571,0.0640
 black bull ,CB24 3BS,52.2818,0.0450
@@ -207,6 +216,7 @@ Lion and Lamb,CB24 6DF,52.2441,0.1627
 The Black Horse,CB24 8QE,52.2925,0.0872
 Curry Palace,CB24 8QP,52.2872,0.1258
 Rose & Crown,CB24 9JB,52.2516,0.1091
+Barley mow,CB24 9JD,52.2524,0.1055
 THE INDIAN OCEAN,CB24 9JE,52.2532,0.1047
 The Boot,CB24 9LG,52.2519,0.1066
 The Railway Vue,CB24 9NP,52.2455,0.1100
@@ -235,9 +245,12 @@ Polonia Club Cambridge,CB4 1AS,52.2158,0.1314
 Stir Cambridge Ltd,CB4 1BG,52.2161,0.1332
 Royal Spice Indian & Bangladeshi cuisine ,CB4 1EH,52.2139,0.1255
 The Old Spring,CB4 1HB,52.2138,0.1277
+Cafe Bread and Butter,CB4 1JY,52.2153,0.1259
 SUBWAY STORE (60278),CB4 1JY,52.2153,0.1259
 The Haymakers,CB4 1NG,52.2170,0.1388
 Cafe 121,CB4 1XE,52.2205,0.1334
+The Carlton Arms,CB4 2BY,52.2218,0.1185
+Cafe Camtown,CB4 2XF,52.2321,0.1227
 The Portland Arms,CB4 3BA,52.2145,0.1247
 Carpenters Arms,CB4 3DZ,52.2158,0.1164
 IAA NOODLE BAR,CB4 3EF,52.2157,0.1214

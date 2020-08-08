@@ -4,6 +4,7 @@ THE MILL WHEEL,DE11 7AS,52.7885,-1.5187
 Bombay Spice,DE11 7EA,52.7672,-1.5314
 The Jennings Rooms ,DE11 7EH,52.7689,-1.5335
 The Bulls Head,DE11 7ET,52.7822,-1.5195
+bullshead hartshorne ltd,DE11 7ET,52.7822,-1.5195
 The midway inn,DE11 7ND,52.7813,-1.5450
 Cafe espresso limited,DE11 8HY,52.7733,-1.5560
 Bodell's,DE11 8JU,52.7747,-1.5551
@@ -16,6 +17,7 @@ The Hub Cafe,DE12 6AT,52.7336,-1.5360
 YHA National Forest,DE12 6BD,52.7380,-1.5488
 Lakeside Bistro,DE12 6BW,52.7331,-1.5439
 Artisan Deli Digbeth Limited,DE12 7AJ,52.6820,-1.5238
+Saffron Event & Venue Caterers Limited,DE12 7AJ,52.6820,-1.5238
 Alpaca Park Farm,DE12 7DB,52.6810,-1.4902
 The Globe Inn Snarestone ,DE12 7DB,52.6810,-1.4902
 HongKong Restaurant ,DE12 7HR,52.7048,-1.5092
@@ -48,6 +50,7 @@ THE BULLS HEAD,DE65 6GF,52.8364,-1.5470
 The Malt Shovel,DE72 2AA,52.8613,-1.3849
 The Coopers Arms,DE72 2BJ,52.8507,-1.4005
 The Boathouse,DE72 2GL,52.8672,-1.3463
+TANDOORI NIGHTS,DE72 2GP,52.8690,-1.3529
 LYNCH INNS LTD (NEW INN),DE72 2HG,52.8705,-1.3412
 Malt Shovel,DE72 2HG,52.8705,-1.3412
 Old crown inn,DE72 2HL,52.8642,-1.3370
@@ -67,7 +70,6 @@ The Brookfield,DE73 7HF,52.8537,-1.4713
 Stenson Lock Coffee Shop,DE73 7HL,52.8670,-1.5171
 The Bubble Inn Stenson,DE73 7HL,52.8670,-1.5171
 The Staff of Life,DE73 7JH,52.8095,-1.4819
-Breedon Holdings Limited,DE73 8AP,52.8028,-1.3996
 Melbourne View Hotel & Events Ltd (Coffee shop),DE73 8BR,52.8290,-1.4006
 Hardinge Arms,DE73 8BX,52.8319,-1.4247
 Forteys ,DE73 8DS,52.8230,-1.4287
@@ -80,6 +82,7 @@ Best Western Premier Yew Lodge Hotel,DE74 2DF,52.8369,-1.2842
 Sweet Olives Restaurant at The Kegworth Hotel,DE74 2DF,52.8369,-1.2842
 Cap and Stocking,DE74 2FF,52.8374,-1.2790
 Curry Tonight ,DE74 2LB,52.8427,-1.3374
+Rose of Bengal Ltd,DE74 2LB,52.8427,-1.3374
 The CASTLE INN,DE74 2PP,52.8392,-1.3435
 The Millstream Bar & Grill,DE74 2RR,52.8431,-1.3812
 The Priest House Hotel,DE74 2RR,52.8431,-1.3812
@@ -113,11 +116,13 @@ McDonalds Restaurant ,LE11 2HJ,52.7585,-1.2068
 Cactus Cafe ,LE11 2PY,52.7714,-1.2048
 FERNANDOS GRILLHOUSE,LE11 2PY,52.7714,-1.2048
 LA FAVORTA,LE11 2PY,52.7714,-1.2048
+Peri Peri Delight Limited,LE11 2PY,52.7714,-1.2048
 The Beacon Inn,LE11 2RB,52.7604,-1.2133
 Mr Chan's Restaurant,LE11 2TP,52.7688,-1.2074
 The Jam Garden,LE11 2TP,52.7688,-1.2074
 Laughing Buddha,LE11 2TY,52.7703,-1.2044
 Mount Gurkha ,LE11 3AA,52.7726,-1.2129
+SUBWAY,LE11 3AA,52.7726,-1.2129
 Dolcino Loughborough Limited,LE11 3DL,52.7702,-1.2067
 Devonshire Fisheries,LE11 3DW,52.7697,-1.2077
 The Cheesecake Shop Loughborough,LE11 3DW,52.7697,-1.2077
@@ -149,6 +154,7 @@ Grab and go,LE11 5BE,52.7735,-1.2090
 Swan In The Rushes,LE11 5BE,52.7735,-1.2090
 MUGAL E SHAHI,LE11 5BG,52.7734,-1.2087
 Indian ocean,LE11 5BJ,52.7725,-1.2081
+SUNDAES GELATO,LE11 5BJ,52.7725,-1.2081
 2 Monkeys Cafe,LE11 5BL,52.7726,-1.2077
 The Basin Restaurant and Bar,LE11 5BX,52.7754,-1.2134
 Doorstep Desserts,LE11 5DF,52.7747,-1.2242
@@ -177,6 +183,7 @@ The Cafe Next Door,LE12 8RZ,52.7256,-1.2160
 The Wheatsheaf Inn,LE12 8SS,52.7170,-1.2112
 lingdale Golf Club,LE12 8TF,52.7113,-1.2242
 The Pied Bull,LE12 9AA,52.7743,-1.2935
+Finkin Deli ltd,LE12 9AN,52.7729,-1.2907
 Meet'n'Eat,LE12 9AN,52.7729,-1.2907
 Junction 23 Lorry Park Ltd,LE12 9BS,52.7596,-1.2872
 OUT OF INDIA ,LE12 9BS,52.7596,-1.2872
@@ -195,7 +202,6 @@ The Courtyard Cafe,LE65 1AG,52.7474,-1.4716
 Zamanis,LE65 1AL,52.7465,-1.4726
 Amino Food,LE65 1AN,52.7470,-1.4708
 Dolce cafe,LE65 1AN,52.7470,-1.4708
-Subway,LE65 1AN,52.7470,-1.4708
 De la zouch bangladeshi cuisine,LE65 1AP,52.7476,-1.4692
 Taste of Thai Restaurant,LE65 1AP,52.7476,-1.4692
 Rose Cottage Tearooms,LE65 1HP,52.7477,-1.4711
@@ -241,7 +247,6 @@ The Cross Keys,LE67 8PJ,52.7707,-1.4063
 Robin Hood Public House,LE67 8QQ,52.7390,-1.3856
 The George and Dragon,LE67 8UH,52.7597,-1.3747
 Ai & co Ltd ,LE67 9PP,52.6981,-1.2970
-Subway,LE67 9PU,52.7007,-1.3053
 Ulversroft Grange Tearoom,LE67 9QB,52.7060,-1.2872
 Welby Hospitality Ltd. ,LE67 9RF,52.6848,-1.2670
 The old Thatched inn,LE67 9TQ,52.6884,-1.3111

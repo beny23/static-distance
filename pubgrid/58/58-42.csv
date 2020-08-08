@@ -16,6 +16,7 @@ Sugarr Food and Dessert Bar LTD,CH41 5BT,53.3926,-3.0167
 Gallaghers Traditional Pub,CH41 5DQ,53.3939,-3.0126
 The Riverview,CH41 5DQ,53.3939,-3.0126
 Alleycats ,CH41 6AB,53.3918,-3.0182
+capitol chinese restaurant,CH41 6AE,53.3931,-3.0178
 Sawasdee Thai restaurant ,CH41 6AF,53.3920,-3.0187
 Liberty Bell Coffee,CH41 6DJ,53.3949,-3.0125
 Bamboo Thai Limited,CH41 6DU,53.3954,-3.0093
@@ -62,6 +63,7 @@ Habibi,CH45 2JD,53.4379,-3.0426
 James Atherton,CH45 2JD,53.4379,-3.0426
 Rock Point Records,CH45 2JF,53.4382,-3.0420
 Floral Pavilion,CH45 2JS,53.4400,-3.0422
+Bistro 115,CH45 2LZ,53.4385,-3.0436
 Caffe Cream of New Brighton,CH45 2PB,53.4402,-3.0463
 Marine Point Restaurants Ltd t/a Ella restaurant,CH45 2PB,53.4402,-3.0463
 Remember When Tea Rooms Limited,CH45 2PH,53.4387,-3.0387
@@ -152,12 +154,12 @@ Stones,CH60 0AQ,53.3262,-3.0932
 WYLDE COFFEE,CH60 0AQ,53.3262,-3.0932
 Black Horse Hotel,CH60 0DP,53.3239,-3.1021
 The Jug & Bottle,CH60 4RH,53.3267,-3.0998
+Tel Island Food Bar ,CH60 5RT,53.3279,-3.0948
 Barcode Cafe and Bar,CH60 7RE,53.3295,-3.0980
 Nova Restaurant ,CH60 7RE,53.3295,-3.0980
 Brunch Cafe,CH60 7RJ,53.3353,-3.0968
 M & Ems ltd t/a Subway,CH60 7SE,53.3285,-3.0999
 Costa Coffee,CH60 7SG,53.3291,-3.1000
-Isabelles,CH60 7SG,53.3291,-3.1000
 Sheldrakes Restaurant ,CH60 9JS,53.3257,-3.1194
 Fox & Hounds,CH61 1BW,53.3423,-3.0833
 Shippons,CH61 3UA,53.3522,-3.1188
@@ -174,6 +176,7 @@ Wirral Kitchen Ltd,CH62 6AU,53.3250,-2.9715
 king Wah Restaurant,CH62 6AU,53.3250,-2.9715
 Rubens Coffee Ltd,CH62 6BB,53.3223,-2.9846
 WIRRAL TANDOORI RESTAURANT LIMITED,CH62 7ES,53.3336,-2.9777
+M KITCHEN LTD,CH62 7HA,53.3322,-2.9766
 M. KITCHEN LTD,CH62 7HA,53.3322,-2.9766
 Cafe/desserts,CH62 7HH,53.3309,-2.9777
 Rubens Coffee Ltd,CH62 7HH,53.3309,-2.9777
@@ -217,6 +220,7 @@ Krikri Greek Restaurant,CH64 9UJ,53.2881,-3.0627
 SONARGAON RESTAURANT LTD,CH64 9UJ,53.2881,-3.0627
 REALFOODKITCHEN365,CH64 9XF,53.2898,-3.0656
 The White Lion,CH66 5PU,53.2917,-2.9549
+Penymaes stores ,CH8 7BX,53.2762,-3.2096
 Doris’s Bunker,CH8 9BD,53.3119,-3.3245
 Cafe at Abakhan,CH8 9DX,53.3008,-3.2330
 Talacre Beach Caravan Resort,CH8 9RD,53.3492,-3.3219
@@ -288,6 +292,7 @@ Peacock,L1 4AZ,53.4022,-2.9791
 Wreckfish Limited,L1 4BE,53.4027,-2.9816
 MOJO Liverpool,L1 4BG,53.4014,-2.9766
 Cowshed Liverpool,L1 4BL,53.4010,-2.9767
+Harpers Pizza,L1 4BS,53.4027,-2.9797
 Potts Coffee,L1 4BS,53.4027,-2.9797
 Tree of Life Bookshop and Cafe,L1 4BS,53.4027,-2.9797
 Caribou Poutine,L1 4BW,53.4027,-2.9792
@@ -309,6 +314,7 @@ Egg Cafe,L1 4ED,53.4038,-2.9777
 Newington Temple,L1 4ED,53.4038,-2.9777
 Ban Di Bul Korean restaurant,L1 4EU,53.4033,-2.9783
 LA PARRILLA MEXICAN TAPAS BAR AND GRILL,L1 4EU,53.4033,-2.9783
+La Parrilla,L1 4EU,53.4033,-2.9783
 Pronto Pizza,L1 4EU,53.4033,-2.9783
 Subway,L1 4EU,53.4033,-2.9783
 Toro's Steakhouse,L1 4EU,53.4033,-2.9783
@@ -337,6 +343,7 @@ ALMOST FAMOUS LIVERPOOL,L1 4JN,53.4016,-2.9791
 Crazy Pedro's Liverpool,L1 4JN,53.4016,-2.9791
 Vietnom,L1 4JQ,53.4006,-2.9764
 Dong Restaurant,L1 4JR,53.4011,-2.9792
+down the hatch,L1 5AA,53.4017,-2.9824
 Il Forno Restaurant,L1 5AG,53.4009,-2.9799
 SAPPORO TEPPANYAKI LTD,L1 5AG,53.4009,-2.9799
 The Monro,L1 5AG,53.4009,-2.9799
@@ -348,8 +355,11 @@ Mayflower restaurant,L1 5AS,53.4023,-2.9849
 PILGRIM ,L1 5AS,53.4023,-2.9849
 Thoughtfully Cafe Liverpool Ltd,L1 5BE,53.4015,-2.9851
 A Tavola,L1 5BF,53.4006,-2.9788
+Chilli Chilli Restaurant,L1 5DN,53.3989,-2.9782
+JUMBO CITY RESTAURANT LIMITED ,L1 5DN,53.3989,-2.9782
 North Garden Restaurant,L1 5DN,53.3989,-2.9782
 Amalia Italian Restaurant,L1 5FB,53.4017,-2.9843
+La Famiglia Restaurant ,L1 6AF,53.4075,-2.9878
 Spice City Indian Cuisine Limited,L1 6AF,53.4075,-2.9878
 Casa Italia,L1 6AL,53.4066,-2.9866
 Koukash Bar & Grill,L1 6BR,53.4081,-2.9868
@@ -367,12 +377,17 @@ BARBURRITO,L1 8JF,53.4041,-2.9864
 Smoke & Dough,L1 8JF,53.4041,-2.9864
 Starbucks Paradise Street,L1 8JF,53.4041,-2.9864
 Yee Rah,L1 8JF,53.4041,-2.9864
-Ability Hotels (Liverpool) Ltd,L1 8LW,53.4024,-2.9890
+Hilton Liverpool City Centre,L1 8LW,53.4024,-2.9890
 Starbucks Liverpool One,L1 8LW,53.4024,-2.9890
+QUICK CHEF CAFE TURKISH BBQ,L1 9AS,53.4020,-2.9719
 SUBWAY,L1 9AS,53.4020,-2.9719
 The Fly in the Loaf,L1 9AS,53.4020,-2.9719
 92 Degrees,L1 9AX,53.4016,-2.9723
+Bing House,L1 9AX,53.4016,-2.9723
+Grilla (Hardman) Ltd,L1 9AX,53.4016,-2.9723
 Costa Coffee,L1 9BP,53.4012,-2.9701
+Chatime Liverpool,L1 9BQ,53.4023,-2.9698
+Papillon Hope Street,L1 9BQ,53.4023,-2.9698
 The Refinery,L1 9BQ,53.4023,-2.9698
 Moose Coffee (UK) Ltd,L1 9BW,53.4009,-2.9704
 Frederiks,L1 9BX,53.4020,-2.9704
@@ -411,6 +426,7 @@ Queens wine bar and bistro,L2 4TX,53.4068,-2.9904
 Harrisons bar and kitchen,L2 5QU,53.4067,-2.9886
 Shiraz BBQ,L2 5QU,53.4067,-2.9886
 Aloft Liverpool ,L2 5QW,53.4074,-2.9892
+BABY E COFFEE & DELI LTD,L2 5RL,53.4077,-2.9889
 Laboulee Doree,L2 5ST,53.4082,-2.9877
 Dale Street Kitchen,L2 5TF,53.4090,-2.9855
 Rococo Coffee House Ltd,L2 6PB,53.4055,-2.9877
@@ -423,7 +439,9 @@ The Slaughterhouse,L2 7LS,53.4056,-2.9912
 manhattan bar and grill ltd,L2 7LS,53.4056,-2.9912
 Chop Chop,L2 7NB,53.4055,-2.9914
 Old Bank,L2 7NE,53.4052,-2.9914
+THE CORNMARKET,L2 7NT,53.4055,-2.9915
 30 James Street    ,L2 7PQ,53.4049,-2.9919
+Liverpool Operations Ltd,L2 7PQ,53.4049,-2.9919
 The Liverpool Pub ,L2 7PQ,53.4049,-2.9919
 ABBEY ROAD BAR AND KITCHEN,L2 9QA,53.4061,-2.9889
 cook street coffee,L2 9QU,53.4062,-2.9893
@@ -454,6 +472,7 @@ Chicago Style Ltd,L22 5PE,53.4742,-3.0279
 SULTAN TURKISH MEDITERRANEAN BAR & GRILL,L22 5PE,53.4742,-3.0279
 Taverna Tasty Food Ltd,L22 5PE,53.4742,-3.0279
 rancho steakhouse,L22 5PE,53.4742,-3.0279
+Adana BBQ,L22 5PQ,53.4738,-3.0279
 Nicolas Restaurant,L22 5PQ,53.4738,-3.0279
 Si la parella ,L22 5PQ,53.4738,-3.0279
 Tapas Tapas,L22 5PQ,53.4738,-3.0279
@@ -478,8 +497,10 @@ rock salt,L23 5RQ,53.4903,-3.0277
 Churches Together in Great Crosby Charitable Trust,L23 5SE,53.4911,-3.0247
 Ayuthaya Thai restaurant ,L23 5SF,53.4921,-3.0261
 Franchettis,L23 5SF,53.4921,-3.0261
+StoryHouse,L23 5SF,53.4921,-3.0261
 Pioneer Bar and Brasserie,L23 5TD,53.4893,-3.0237
 Crosby Leisure Centre,L23 6SX,53.4831,-3.0433
+Kinsleys,L23 7XJ,53.4941,-3.0292
 The West Lancashire Golf Club Ltd,L23 8SZ,53.4980,-3.0520
 Titanic Hotel Liverpool,L3 0AN,53.4220,-2.9988
 Cargo Seafood Restaurant,L3 1BD,53.4111,-3.0016
@@ -515,6 +536,7 @@ Delifonseca Dockside,L3 4BN,53.3867,-2.9803
 The Yacht Club Bar & Restaurant ,L3 4BP,53.3908,-2.9850
 Chung Ku Restaurant,L3 4DB,53.3776,-2.9718
 The Dolby Hotel,L3 4DE,53.3941,-2.9840
+Eastzesst LIVERPOOL ,L3 4FN,53.3978,-2.9896
 Pullman Liverpool,L3 4FP,53.3964,-2.9896
 Dough Bar,L3 5GA,53.4067,-2.9774
 SUBWAY,L3 5NL,53.4089,-2.9724
@@ -536,6 +558,7 @@ Layers Food Drink Market,L3 8JG,53.4102,-2.9697
 Hotel Indigo Liverpool,L3 9AG,53.4077,-2.9941
 Out to Lunch liverpool ltd,L3 9AG,53.4077,-2.9941
 RADISSON BLU LIVERPOOL,L3 9BD,53.4111,-2.9964
+City Wine Bar and Kitchen,L3 9BS,53.4087,-2.9938
 Trattoria 51 Liverpool Ltd,L3 9BS,53.4087,-2.9938
 Sanskruti Restaurant,L3 9LP,53.4093,-2.9922
 Starbucks Liverpool Old Hall,L3 9LQ,53.4094,-2.9929
@@ -550,6 +573,8 @@ Georgie porgy cafe,L4 0RQ,53.4296,-2.9611
 The Pop-Up at Rockfield,L4 0SF,53.4320,-2.9646
 The Isla Gladstone Conservatory,L4 0TD,53.4328,-2.9673
 WOK ON LTD,L4 0UE,53.4270,-2.9579
+Miru sushi,L4 2QZ,53.4248,-2.9538
+Wok noodle,L4 2QZ,53.4248,-2.9538
 The Cabbage Hall Bar & Restaurant,L4 2RB,53.4263,-2.9523
 Breck n Brunch,L4 2RD,53.4251,-2.9539
 SUBWAY COUNTY ROAD,L4 3QH,53.4388,-2.9709
@@ -604,5 +629,6 @@ allure coffee & sandwich bar,L9 4RL,53.4643,-2.9600
 Little Ange's Cafe,L9 4RW,53.4658,-2.9572
 SUBWAY WALTON VALE,L9 4SR,53.4644,-2.9587
 Subway,L9 5AL,53.4792,-2.9505
+McCools Creamery,L9 8AP,53.4607,-2.9621
 The Edge Joey orrs,L9 8AP,53.4607,-2.9621
 The Potting Shed Cafe,LL18 6EB,53.3052,-3.3541
