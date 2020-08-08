@@ -26,5 +26,5 @@ rm target/*.csv target/*.txt
 bash build_sitemap.sh
 
 cp index.html target/
-cp assets/* target/
+cp -R assets/* target/
 

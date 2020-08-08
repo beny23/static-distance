@@ -68,10 +68,16 @@ class FsaMatch
     public function matchByLetters($name, $postcode)
     {
         $name = preg_replace('/[^a-z]/i', '', $name);
+	$removeWords = [
+		'the',
+		'and'
+	];
+	$name = str_ireplace($removeWords, '', $name);
 
         $matches = $this->match[$postcode] ?? [];
         foreach($matches as $index => $match) {
             $replacedName = preg_replace('/[^a-z]/i', '', $match['name']);
+            $replacedName = str_ireplace($removeWords, '', $replacedName);
             if (stripos($name, $replacedName) !== false || stripos($replacedName, $name) !== false) {
                 unset($this->match[$postcode][$index]);
                 return $match;

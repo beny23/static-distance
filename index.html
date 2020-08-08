@@ -201,9 +201,9 @@
             .selectAll("td")
             .data(function(d) {
 		let fsa = "Not found / rated";
-		if (d.fsa > 0) {
+		if (d.fsa != -1) {
 
-		    fsa = "<img src='fhrs_md_" + d.fsa + "_en-gb.jpg' alt='Food Standard Agency Score: " + d.fsa + "' />";
+		    fsa = "<img src='fsa/medium/" + d.fsa + ".jpg' alt='Food Standard Agency Score: " + d.fsa + "' />";
 		}
                 return [
                     makeDirectLink(d),
@@ -219,8 +219,8 @@
         markerLayer.clearLayers();
         inRange.forEach(function(d) {
             let fsa = '';
-		if (d.fsa > 0) {
-			fsa = "<br><img src='fhrs_" + d.fsa + "_en-gb.jpg' alt='Food Standard Agency Score: " + d.fsa + "' /><br>" + d.cat;
+		if (d.fsa != -1) {
+			fsa = "<br><img src='fsa/small/" + d.fsa + ".jpg' alt='Food Standard Agency Score: " + d.fsa + "' /><br>" + d.cat;
 		}
             return L.marker([d.lat, d.lon], {"title": d.name})
                 .bindPopup(makeDirectLink(d) + "<br>" + d.postcode + fsa)

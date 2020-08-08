@@ -44,5 +44,5 @@ while(($line = fgetcsv($file)) !== false) {
 		$line['cat'] = $found['type'];
 	}
 	$line = array_values($line);
-	printf("%s,%s,%.4f,%.4f,%d,%s\n", ...$line);
+	printf("%s,%s,%.4f,%.4f,%s,%s\n", ...$line);
 }
