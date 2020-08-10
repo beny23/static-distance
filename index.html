@@ -246,14 +246,6 @@
         const x = Math.round((+result.lat - 49.0) / (12.0 / 160.0));
         const y = Math.round((+result.lon + 9) / (11.0 / 80.0));
 
-        if (sessionStorage && markerLayer.getLayers().length > 0) {
-                old = JSON.parse(sessionStorage.getItem('cachedLocation'));
-                if (old && old.x == x && old.y == y) {
-                        return;
-                }
-                sessionStorage.setItem('cachedLocation', JSON.stringify({"x": x, "y": y}));
-        }
-
         d3.csv("pubgrid/" + x + "/" + x + "-" + y + ".csv")
             .then(function(pubs) {
                 showResults(pubs
