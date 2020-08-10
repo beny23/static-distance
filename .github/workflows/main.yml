@@ -29,8 +29,11 @@ jobs:
         python-version: 3.8
 
     # Runs a single command using the runners shell
-    - name: install dependencies
+    - name: install python dependencies
       run: pip3 install python-Levenshtein
+      
+    - name: install xml dependencies
+      run: sudo apt-get install xsltproc  
 
     # Runs a single command using the runners shell
     - name: build it
