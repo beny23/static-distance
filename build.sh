@@ -24,7 +24,7 @@ cat postcode-outcodes.csv | awk -F, -f filter_postcodes.awk | awk -F, -f split_l
 
 gzip target/named_pubs.csv
 
-rm target/*.csv target/*.txt target/*.xml
+rm target/*.csv target/*.txt
 
 bash build_sitemap.sh
 
