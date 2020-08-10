@@ -32,9 +32,6 @@ jobs:
     - name: install python dependencies
       run: pip3 install python-Levenshtein
       
-    - name: install xml dependencies
-      run: sudo apt-get install xsltproc  
-
     # Runs a single command using the runners shell
     - name: build it
       run: bash build.sh
