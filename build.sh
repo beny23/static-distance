@@ -22,6 +22,8 @@ awk 'BEGIN { FS="\t"; OFS=","; } $8 ~ /^(PPL|ADM)/ && $5 > 49 && $5 < 61 && $6 >
 | sort -rnk5,5 -t, | cut -f1-4 -d, | tr '[:lower:]' '[:upper:]' | sort -u -k2,2 -t, | awk -F, -f reduce_precision.awk | awk -F, -f split_locations.awk
 cat postcode-outcodes.csv | awk -F, -f filter_postcodes.awk | awk -F, -f split_locations.awk
 
+gzip target/named_pubs.csv
+
 rm target/*.csv target/*.txt
 
 bash build_sitemap.sh
