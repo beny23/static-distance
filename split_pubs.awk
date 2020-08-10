@@ -1,6 +1,6 @@
 function print_to_file(file) {
   if (headers[file] != "done") {
-    print "name,postcode,lat,lon" >> file;
+    print "name,postcode,lat,lon,fsa,cat" >> file;
     headers[file] = "done"
   }
   print $0 >> file;

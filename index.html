@@ -79,10 +79,10 @@
             <div id="mapid"></div>
         </div>
         <div id="list" class="container tab-pane fade">
-            <div>
-                <table>
+            <div class="table-responsive">
+                <table class="table">
                     <thead>
-                    <tr><th>Name</th><th>Postcode</th><th>Distance</th></tr>
+                    <tr><th>Name</th><th>Postcode</th><th>Distance</th><th>Food Hygine Rating</th><th>Category</th></tr>
                     </thead>
                     <tbody id="results"></tbody>
                 </table>
@@ -204,10 +204,18 @@
             .join("tr")
             .selectAll("td")
             .data(function(d) {
+		let fsa = "Not found / rated";
+		if (d.fsa != -1) {
+
+		    fsa = "<img src='fsa/medium/" + d.fsa + ".jpg' alt='Food Standard Agency Score: " + d.fsa + "' />";
+                    fsa = "<a target='_blank' href='https://ratings.food.gov.uk/enhanced-search/en-GB/%5E/" + d.postcode + "/Relevance/0/^/^/0/1/10'>" + fsa + "</a>";
+		}
                 return [
                     makeDirectLink(d),
                     "<a href=\"#" + mapid.getZoom() + "/" + d.lat + "/" + d.lon + "\" onclick=\"gotoPostcode('" + d.postcode + "')\">" + escapeHtml(d.postcode) + "</a>",
-                    (d.distance / 1609.34).toFixed(2) + "mi"
+                    (d.distance / 1609.34).toFixed(2) + "mi",
+		    fsa,
+                    d.cat
                 ];
             })
             .join("td")
@@ -215,8 +223,13 @@
 
         markerLayer.clearLayers();
         inRange.forEach(function(d) {
+            let fsa = '';
+		if (d.fsa != -1) {
+			fsa = "<br><img src='fsa/small/" + d.fsa + ".jpg' alt='Food Standard Agency Score: " + d.fsa + "' /><br>" + d.cat;
+                        fsa = "<a target='_blank' href='https://ratings.food.gov.uk/enhanced-search/en-GB/%5E/" + d.postcode + "/Relevance/0/^/^/0/1/10'>" + fsa + "</a>";
+		}
             return L.marker([d.lat, d.lon], {"title": d.name})
-                .bindPopup(makeDirectLink(d) + "<br>" + d.postcode)
+                .bindPopup(makeDirectLink(d) + "<br>" + d.postcode + fsa)
                 .addTo(markerLayer)
         });
     }
@@ -263,6 +276,8 @@
                             postcode: a.postcode,
                             lat: a.lat,
                             lon: a.lon,
+                            fsa: a.fsa,
+                            cat: a.cat,
                             distance: distance(result, a)
                         };
                     })
