@@ -79,10 +79,10 @@
             <div id="mapid"></div>
         </div>
         <div id="list" class="container tab-pane fade">
-            <div>
-                <table>
+            <div class="table-responsive">
+                <table class="table">
                     <thead>
-                    <tr><th>Name</th><th>Postcode</th><th>Distance</th></tr>
+                    <tr><th>Name</th><th>Postcode</th><th>Distance</th><th>Food Hygiene Score</th><th>Category</th></tr>
                     </thead>
                     <tbody id="results"></tbody>
                 </table>
@@ -227,7 +227,7 @@
         maxZoom: 19,
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(mapid);
-    const markerLayer = L.markerClusterGroup().addTo(mapid);
+    const markerLayer = L.markerClusterGroup({maxClusterRadius: 1}).addTo(mapid);
 
     var southWest = L.latLng(49, -9),
         northEast = L.latLng(61, 2);
@@ -241,7 +241,7 @@
     mapid.on("moveend", function () {
         const d = mapid.getCenter();
         const result = { lat: d.lat, lon: d.lng };
-        localStorage && localStorage.setItem('location', JSON.stringify({long: d.lng, lat: d.lat, zoom: mapid._zoom}));
+        localStorage && localStorage.setItem('location', JSON.stringify({lon: d.lng, lat: d.lat, zoom: mapid._zoom}));
 
         const x = Math.round((+result.lat - 49.0) / (12.0 / 160.0));
         const y = Math.round((+result.lon + 9) / (11.0 / 80.0));
@@ -281,7 +281,7 @@
 
     let defaults = {
         lat: 51.505,
-        long: -0.09,
+        lon: -0.09,
         zoom: 15
     }
 
@@ -289,7 +289,7 @@
         defaults = JSON.parse(localStorage.getItem('location'));
     }
 
-    mapid.setView([defaults.lat, defaults.long], defaults.zoom);
+    mapid.setView([defaults.lat, defaults.lon], defaults.zoom);
     L.control.locate({drawCircle: false, keepCurrentZoomLevel: true}).addTo(mapid);
     var hash = new L.Hash(mapid);
 
