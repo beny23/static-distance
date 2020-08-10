@@ -24,6 +24,10 @@ jobs:
     - uses: actions/checkout@v2
 
     # Runs a single command using the runners shell
+    - name: install dependencies
+      run: pip3 install python-Levenshtein
+
+    # Runs a single command using the runners shell
     - name: build it
       run: bash build.sh
 
