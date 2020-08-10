@@ -5,6 +5,7 @@ BENGAL PARADISE (HERTS) LIMITED,AL9 6LB,51.7161,-0.1774
 Dutch Marketplace,AL9 6ND,51.7316,-0.1831
 PIYA BAR&KITCHEN,CM16 4AE,51.6966,0.1082
 Fred and Dougs,CM16 4AG,51.6982,0.1107
+Subway,CM16 4AG,51.6982,0.1107
 Pivaz Epping / Roza by Pivaz,CM16 4AP,51.7007,0.1141
 Epping Sandwich Bar and Bakery,CM16 4AQ,51.6992,0.1120
 Raj indian restaurant limited,CM16 4BA,51.6966,0.1073
@@ -59,6 +60,7 @@ ROYAL CAFE,E10 5PW,51.5601,-0.0091
 Anatolia,E10 5QN,51.5593,-0.0082
 KFC LEYTON,E10 5QN,51.5593,-0.0082
 Leyton Technical ,E10 5QN,51.5593,-0.0082
+Sultan grill ltd,E10 6AA,51.5728,-0.0083
 Sweet Choice,E10 6AE,51.5747,-0.0111
 William the Fourth,E10 6AE,51.5747,-0.0111
 CAVALIERI LIMITED,E10 6AJ,51.5768,-0.0116
@@ -77,6 +79,7 @@ Fireaway Pizza Leyton,E10 6QE,51.5635,-0.0106
 Franzos,E10 6QE,51.5635,-0.0106
 RELAX BAR CAFÉ,E10 6RF,51.5693,-0.0086
 t/a Hanedan Cafe or  Hanedan Catering Ltd,E10 6RF,51.5693,-0.0086
+Bread And Oregano,E10 6RT,51.5675,-0.0085
 Shish mahal,E10 7AA,51.5743,-0.0112
 Sam's Catering,E10 7BQ,51.5669,-0.0214
 KFC Leabridge,E10 7DN,51.5744,-0.0137
@@ -110,6 +113,7 @@ Luppolo Pizza Ltd,E11 2RJ,51.5762,0.0272
 CAFE CHICCHI,E11 2RL,51.5767,0.0277
 Piccolo Restaurant,E11 2RL,51.5767,0.0277
 The barrel boulangerie ,E11 2RL,51.5767,0.0277
+The barrel boulangerie,E11 2RL,51.5767,0.0277
 Zuma fresh ltd,E11 2RL,51.5767,0.0277
 The Bungalow cafe,E11 2RQ,51.5764,0.0238
 District MOT,E11 3AA,51.5686,0.0115
@@ -225,6 +229,8 @@ IV Veritas Ltd,E17 9NL,51.5827,-0.0117
 The Village Walthamstow,E17 9NL,51.5827,-0.0117
 Bru Coffee and Gelato,E17 9PP,51.5819,-0.0183
 Chaiiwala,E17 9PP,51.5819,-0.0183
+Etles uyghur restaurant,E17 9PP,51.5819,-0.0183
+Chick Inn,E17 9PT,51.5812,-0.0182
 Rhythm Kitchen Ltd,E17 9PT,51.5812,-0.0182
 Gunes Restaurant,E17 9PX,51.5811,-0.0187
 Pavilion,E17 9PX,51.5811,-0.0187
@@ -272,6 +278,7 @@ NOSTRANO LIMITED,E4 7BA,51.6328,0.0068
 la baita ,E4 7BA,51.6328,0.0068
 BUDDY'S GRILL,E4 7BE,51.6319,0.0049
 Wake Cup Chingford Ltd,E4 7BE,51.6319,0.0049
+dada cafe,E4 7BE,51.6319,0.0049
 Figsandco ltd,E4 7BJ,51.6312,0.0035
 Scoffs Essex Ltd t/a Costa Coffee North Chingford,E4 7BJ,51.6312,0.0035
 The Craft Cabin E4 Ltd ,E4 7BJ,51.6312,0.0035
@@ -302,6 +309,7 @@ Bengal Rasoi,E4 9JP,51.6021,-0.0036
 No 1 The Avenue,E4 9LB,51.6098,0.0007
 GOLDWEST RESTAURANTS LTD T/A Purbani Tandoori,E4 9LD,51.6086,0.0004
 The Indian dining club,E4 9LH,51.6066,-0.0013
+Melting Point Bistro,E4 9LN,51.6068,-0.0017
 Dorée Café,E5 0LH,51.5533,-0.0450
 Venerdi,E5 0LH,51.5533,-0.0450
 chatsworth fish and chips limited,E5 0LP,51.5526,-0.0441
@@ -547,6 +555,7 @@ Al Qasr Restaurant ,IG1 4BS,51.5637,0.0826
 COSTA COFFEE - ILFORD 2,IG1 4DL,51.5592,0.0705
 KEBANA KEBEBESH LIMITED,IG1 4DU,51.5589,0.0699
 Adrian Teslaru ,IG1 4JB,51.5645,0.0793
+Rock Spice Restaurant ,IG1 4LZ,51.5623,0.0684
 Wayne's Coffee Ilford Ltd,IG1 4NE,51.5598,0.0702
 Pie Factory Ilford LTD,IG1 4NF,51.5600,0.0701
 German Doner Kebab Ilford (GDK Ilford),IG1 4NH,51.5611,0.0698
@@ -569,6 +578,7 @@ Starbucks Loughton,IG10 1AD,51.6479,0.0558
 Kaspa’s desserts loughton,IG10 1AH,51.6490,0.0569
 Loaded Burgers,IG10 1AH,51.6490,0.0569
 Molens Cafe,IG10 1BB,51.6469,0.0548
+Bishop Saltbeef & JUICE BAR,IG10 1DN,51.6469,0.0542
 Green's Steakhouse,IG10 1DN,51.6469,0.0542
 LOUGHTON LTD,IG10 1DN,51.6469,0.0542
 THE WAGON BOULANGERIE LTD,IG10 1DN,51.6469,0.0542
@@ -861,6 +871,7 @@ The Clarence Tavern ,N16 0LA,51.5623,-0.0791
 215Hackney,N16 0LH,51.5626,-0.0738
 Loaded Gourmet burgers and fries,N16 0LH,51.5626,-0.0738
 Three Crowns,N16 0LH,51.5626,-0.0738
+Yum Yum Thai Restaurants ltd,N16 0LH,51.5626,-0.0738
 Karnaphuli Restaurant,N16 0LU,51.5622,-0.0748
 Whole Foods Market - Stoke Newington,N16 0LU,51.5622,-0.0748
 lulu Shanghai ,N16 0LU,51.5622,-0.0748
@@ -963,6 +974,7 @@ HILAL RESTAURANT,N18 2TZ,51.6162,-0.0644
 MCDONALDS RESTAURANT,N18 2XA,51.6125,-0.0646
 500 Restaurant,N19 3JH,51.5651,-0.1329
 Papa Johns - ARCHWAY,N19 3JH,51.5651,-0.1329
+The Sitara,N19 3JH,51.5651,-0.1329
 ALADDIN'S CAFE LIMITED,N19 3LW,51.5695,-0.1244
 Friends house,N19 3NB,51.5719,-0.1297
 Costa Coffee,N19 3NH,51.5638,-0.1287
@@ -1184,6 +1196,7 @@ pizzeria pappagone,N4 3PX,51.5690,-0.1120
 BLACK CAT MALDON LTD t/a The blue owl cafe ,N4 3PZ,51.5701,-0.1143
 Il Piccolo Diavolo,N4 3PZ,51.5701,-0.1143
 THAI GRANARY LIMITED,N4 3PZ,51.5701,-0.1143
+Yak YETI ,N4 3PZ,51.5701,-0.1143
 Bacchus N4,N4 3SG,51.5691,-0.1109
 BRAVE SIR ROBIN,N4 4AP,51.5710,-0.1170
 the old dairy,N4 4AP,51.5710,-0.1170
@@ -1294,6 +1307,7 @@ La Gioconda,N8 7QB,51.5880,-0.1165
 Silkway Holdings Limited trading as Istanbul,N8 7QB,51.5880,-0.1165
 Echorest limited,N8 8AA,51.5780,-0.1248
 Sacro Cuore,N8 8AA,51.5780,-0.1248
+wow simply japanese,N8 8AA,51.5780,-0.1248
 The Clock  n8 ,N8 8DT,51.5799,-0.1241
 Oasis Kitchen ,N8 8EY,51.5766,-0.1312
 Princess Alexandra,N8 8JP,51.5828,-0.1276
@@ -1546,6 +1560,7 @@ SAFFRON,RM7 0LA,51.5655,0.1731
 Burger King,RM7 7JJ,51.5832,0.1690
 Chick'n shack Ltd,RM7 8JB,51.5917,0.1575
 ROSILE CAFE RESTAURANT ,RM7 9QH,51.5742,0.1706
+Desserts Box ,RM7 9RB,51.5759,0.1763
 Cafe zone,RM8 1BB,51.5638,0.1467
 Lara Grill,RM8 1BJ,51.5625,0.1473
 Larex Ventures Limited,RM8 1YT,51.5620,0.1230

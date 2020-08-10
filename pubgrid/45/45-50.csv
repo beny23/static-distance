@@ -43,6 +43,7 @@ Frederick Street Townhouse,B1 3HH,52.4865,-1.9121
 The Button Factory,B1 3HH,52.4865,-1.9121
 SUBWAY,B1 3HN,52.4862,-1.9127
 Prestige Bar & Restaurant Ltd,B1 3RB,52.4841,-1.9173
+Fulkoli Mithai Ghor ,B10 0JU,52.4674,-1.8585
 Hotel ibis Birmingham Bordesley Circus,B10 0PD,52.4725,-1.8731
 Alsalam cafe,B10 0PR,52.4702,-1.8660
 Barwaaqo cafe,B10 0QJ,52.4699,-1.8640
@@ -75,6 +76,7 @@ Cafe Macho LTD,B11 1JP,52.4669,-1.8751
 OG’Z,B11 1NP,52.4590,-1.8685
 Manjaros,B11 1QT,52.4607,-1.8735
 Al Fursan,B11 1RB,52.4629,-1.8763
+MARA CADDE LTD,B11 1RD,52.4641,-1.8772
 area 51 cafe ltd,B11 3LU,52.4534,-1.8601
 Rios Piri Piri,B11 4AT,52.4478,-1.8606
 Petits Fours Patisserie Ltd,B11 4BP,52.4466,-1.8598
@@ -97,6 +99,8 @@ Shake House Stoney Lane,B12 8DL,52.4591,-1.8721
 Taste of Pakistani ltd,B12 8DP,52.4592,-1.8761
 Yaqubs steakhouse ,B12 8ED,52.4586,-1.8730
 Chaska & Chai,B12 8JA,52.4589,-1.8765
+Roscoes,B12 8JJ,52.4577,-1.8737
+cafe express,B12 8JP,52.4577,-1.8761
 AL BADER LOUNGE LTD,B12 8JS,52.4577,-1.8764
 Lahore Village ,B12 8JS,52.4577,-1.8764
 SHAHD ASIA LTD,B12 8JS,52.4577,-1.8764
@@ -197,6 +201,7 @@ The Bulls Head,B15 1EJ,52.4736,-1.9144
 Khayyam restaurant,B15 1EY,52.4747,-1.9142
 LAGHI'S RESTAURANT LTD,B15 1LD,52.4722,-1.9172
 La-Pop!,B15 1LD,52.4722,-1.9172
+Sultan Lounge,B15 1QA,52.4712,-1.9132
 Hampton by Hilton Birmingham Broad Street,B15 1SU,52.4752,-1.9138
 Sugar Leisure Ltd,B15 1SU,52.4752,-1.9138
 Edgbaston Park Hotel and Conference Center Ltd,B15 2RS,52.4553,-1.9277
@@ -223,6 +228,7 @@ Meeple Mayhem,B16 8UZ,52.4738,-1.9309
 CHARTERMEAD LIMITED,B16 9LQ,52.4727,-1.9514
 Akbar's Restaurant,B16 9NY,52.4712,-1.9410
 The Edgbaston Palace Hotel,B16 9PQ,52.4714,-1.9440
+Apollo Hotel,B16 9RA,52.4722,-1.9421
 Foodel Ltd t/a Subway,B16 9RD,52.4721,-1.9319
 COLBEH PERSIAN KITCHEN & BAR,B16 9RE,52.4722,-1.9327
 Fiesta del Asado Edgbaston,B16 9RP,52.4722,-1.9388
@@ -354,6 +360,7 @@ Dream Grill House and Cafe,B29 6AU,52.4463,-1.9320
 YAKINORI SELLY OAK LTD,B29 6BD,52.4460,-1.9314
 Mr Gelato,B29 6BE,52.4453,-1.9337
 Subway,B29 6BE,52.4453,-1.9337
+amaa dosaa,B29 6BE,52.4453,-1.9337
 Dilshad Restaurant ,B29 6BQ,52.4447,-1.9346
 IB ENTERPRISES LTD T/A PEPE'S PIRI PIRI,B29 6BQ,52.4447,-1.9346
 Creative Coffee Hub,B29 6HJ,52.4366,-1.9299
@@ -545,6 +552,7 @@ Tahini Kitchen ,B5 6AH,52.4717,-1.8912
 Subside Bar Ltd,B5 6DA,52.4757,-1.8896
 Manzil Restaurant ,B5 6DT,52.4763,-1.8901
 Bradford Street Catering LLP,B5 6ET,52.4749,-1.8891
+AL CAFE limited,B5 6QP,52.4706,-1.8955
 The loft kitchen ,B5 6RG,52.4733,-1.8962
 Formosa Izakaya,B5 6SE,52.4731,-1.8958
 PINCHUAN LTD ,B5 6SE,52.4731,-1.8958
@@ -839,6 +847,7 @@ The Hare & Hounds Shenstone,DY10 4BU,52.3610,-2.2050
 Hogarths Stone Manor,DY10 4PJ,52.3678,-2.2002
 ROWBERRYS NURSERY/RESTAURANT,DY10 4QN,52.3562,-2.1602
 THE FOX INN,DY10 4QN,52.3562,-2.1602
+Chaddesley Tea Room,DY10 4SA,52.3605,-2.1595
 China Lodge,DY11 6RX,52.3876,-2.2577
 A&S Restaurants LTD T/A McDonalds,DY11 6TT,52.3884,-2.2516
 La Brasserie,DY11 6UU,52.3881,-2.2509
@@ -968,6 +977,7 @@ The Greyhound,DY8 2TA,52.4441,-2.1595
 East One Curry House Limited,DY8 3NX,52.4601,-2.1644
 The Plough Inn,DY8 3PD,52.4597,-2.1700
 the kitchen at the foresters arms,DY8 3PL,52.4607,-2.1738
+Caribbean kitchen ltd,DY8 3PZ,52.4593,-2.1603
 Indus Express,DY8 3QG,52.4604,-2.1619
 Indiluxe,DY8 4AJ,52.4710,-2.1553
 Red Cone Coffee House,DY8 4AZ,52.4762,-2.1572
@@ -1011,3 +1021,4 @@ Holly Bush Inn,DY9 9UG,52.3969,-2.0983
 Ombersley Golf Club,WR9 0LE,52.3046,-2.2502
 The Chequers ,WR9 0PJ,52.3149,-2.1770
 Cutnall Green post office,WR9 0PQ,52.3127,-2.1799
+Entouraj,WR9 0PW,52.3109,-2.1785

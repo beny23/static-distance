@@ -46,6 +46,7 @@ Alforno Restaurant Kingston,KT1 1LY,51.4066,-0.3078
 Wheelwrights Arms,KT1 1NP,51.4105,-0.3018
 Wafflemeister,KT1 1NR,51.4107,-0.3030
 itsu Kingston Clarence Street,KT1 1NX,51.4107,-0.3044
+Local Hero Kingston Ltd,KT1 1PE,51.4105,-0.3067
 Ultimate Cafe Kingston,KT1 1PE,51.4105,-0.3067
 kungfu ,KT1 1QJ,51.4117,-0.2994
 Busaba Kingston,KT1 1QN,51.4108,-0.3077
@@ -150,6 +151,7 @@ Le meson de los Hermos ,KT13 8AU,51.3723,-0.4578
 Maya,KT13 8AU,51.3723,-0.4578
 Best Western Ship Hotel,KT13 8BQ,51.3739,-0.4563
 Aromas Artisan Kitchen & Coffee,KT13 8DE,51.3722,-0.4600
+Gok's Kitchen,KT13 8DE,51.3722,-0.4600
 Starbucks Weybridge Church Street,KT13 8DE,51.3722,-0.4600
 ossobuco,KT13 8DE,51.3722,-0.4600
 Meejana,KT13 8DG,51.3711,-0.4622
@@ -360,6 +362,7 @@ Squire's Garden Centre Long Ditton,KT6 5HN,51.3789,-0.3189
 JOY indian cuisine,KT6 5LR,51.3914,-0.3102
 KFC Surbiton,KT6 5LR,51.3914,-0.3102
 THALI HO,KT6 5LR,51.3914,-0.3102
+Chicken Land,KT6 5LX,51.3910,-0.3091
 Wags N Tales,KT6 5LX,51.3910,-0.3091
 BLACK LION,KT6 5PL,51.3919,-0.3103
 Ex Cellar,KT6 5PQ,51.3915,-0.3093
@@ -373,6 +376,7 @@ Royal Oak Surbiton,KT6 7AA,51.3854,-0.2951
 Kookoo Grill & Seafood,KT6 7AQ,51.3844,-0.2934
 IL MULINO ,KT6 7BE,51.3826,-0.2870
 SORRENTO RESTAURANT,KT6 7DE,51.3829,-0.2865
+Chicken Land,KT6 7DJ,51.3813,-0.2826
 Superfish,KT6 7DJ,51.3813,-0.2826
 MWM United Ltd t/a Spice House,KT6 7DQ,51.3817,-0.2833
 Costa Coffee,KT6 7DW,51.3804,-0.2817
@@ -399,6 +403,7 @@ Istanblu Restaurant,KT8 9HA,51.4025,-0.3442
 Vai's Kitchen,KT8 9HA,51.4025,-0.3442
 Ham CT Management Ltd,KT8 9HB,51.4020,-0.3439
 NEW REGENT CHINESE RESTAURANT,KT9 1DR,51.3746,-0.3037
+Chicken Land,KT9 1NU,51.3671,-0.3073
 Red Rose Chessington ,KT9 1NU,51.3671,-0.3073
 A star coffee ltd,KT9 1QF,51.3642,-0.2985
 KFC,KT9 1QF,51.3642,-0.2985
@@ -462,6 +467,8 @@ Espresso,NW10 5RT,51.5340,-0.2202
 Arthurs Cafe Ltd,NW10 5RU,51.5342,-0.2198
 Comptoir V,NW10 5RU,51.5342,-0.2198
 Eat Sushi ,NW10 5RX,51.5340,-0.2195
+Le Comptoir ,NW10 5RX,51.5340,-0.2195
+WHITE BIRD LTD,NW10 6EG,51.5282,-0.2505
 LEVANT BOOK CAFE LTD,NW10 6EU,51.5283,-0.2634
 The Collective Bar & Kitchen,NW10 6FF,51.5290,-0.2504
 Little Beirut,NW10 6HJ,51.5292,-0.2643
@@ -520,6 +527,7 @@ the tower arms,SL0 9AE,51.5053,-0.5024
 north star restaurant,SL0 9AH,51.5041,-0.4915
 Favourites Dessert Limited,SL1 1BD,51.5074,-0.5852
 HSA Takeaway Ltd,SL1 1BD,51.5074,-0.5852
+K&A Catering Limited T/A Favourite Chicken,SL1 1BD,51.5074,-0.5852
 Kabul palace ,SL1 1BD,51.5074,-0.5852
 STEAKHOUSE ,SL1 1BD,51.5074,-0.5852
 Millions of  burgers,SL1 1BN,51.5079,-0.5879
@@ -548,6 +556,7 @@ Aromat Kuchni,SL2 5AH,51.5139,-0.5936
 Holiday Inn Express Slough,SL2 5DD,51.5122,-0.5900
 Golden Cross ,SL3 0BN,51.4712,-0.5179
 Riverside Cafe,SL3 0EH,51.4846,-0.5117
+New Bettola,SL3 0NZ,51.4793,-0.5116
 Village cafe(colnbrook)ltd,SL3 0QD,51.4820,-0.5160
 Art Hotels UK Ltd t/a Pinewood Hotel,SL3 6AP,51.5267,-0.5563
 San Remo Catering at Black Park Ltd,SL3 6DS,51.5362,-0.5507
@@ -582,6 +591,7 @@ Clairmonts  cafe ,SL4 1LD,51.4811,-0.6065
 Meat at the Parish,SL4 1LD,51.4811,-0.6065
 Esquires Coffee,SL4 1LH,51.4823,-0.6078
 MGALLERY CASTLE HOTEL WINDSOR,SL4 1LJ,51.4818,-0.6075
+cafe de royals,SL4 1LR,51.4823,-0.6072
 chippy of windsor,SL4 1LR,51.4823,-0.6072
 1423 CHINA KITCHEN,SL4 1PA,51.4820,-0.6064
 Latino Taverna,SL4 1PA,51.4820,-0.6064
@@ -597,6 +607,7 @@ Drchocs Windsor Chocolate Factory,SL4 1PL,51.4836,-0.6088
 Tapas Revolution Windsor,SL4 1PL,51.4836,-0.6088
 Thai Terrace ,SL4 1PL,51.4836,-0.6088
 Viva Chinese Restaurant Ltd,SL4 1PL,51.4836,-0.6088
+crown cafe,SL4 1PL,51.4836,-0.6088
 Choi Kai Ltd,SL4 1PR,51.4846,-0.6076
 Lebanese Delicacy limited trading as lebanese nights,SL4 1PR,51.4846,-0.6076
 Thai Square Windsor,SL4 1PR,51.4846,-0.6076
@@ -855,6 +866,7 @@ The Little Blue Door ,SW6 5HP,51.4740,-0.2069
 Boys 'N' Berry,SW6 5HQ,51.4749,-0.2062
 Jack and Beyond,SW6 5RP,51.4769,-0.2034
 Pappa Ciccia,SW6 5RQ,51.4761,-0.2092
+LOCAL HERO (FULHAM) LTD,SW6 5RT,51.4764,-0.2047
 the hive sw6 ,SW6 5RX,51.4756,-0.2062
 MONTY SHRESTHA LIMITED t/a Monty Tandoori,SW6 5SA,51.4747,-0.2068
 The Brown Cow,SW6 5SA,51.4747,-0.2068
@@ -928,6 +940,7 @@ Richmond Hill Bakery,TW10 6NQ,51.4552,-0.2967
 Richmond Hill Hotel Operation Ltd,TW10 6RW,51.4518,-0.2971
 Thai Elephant,TW10 6SD,51.4588,-0.3048
 Adesso,TW10 6UA,51.4579,-0.3048
+Kapucin ,TW10 6UA,51.4579,-0.3048
 The Green Hill Kitchen,TW10 6UA,51.4579,-0.3048
 The Retreat Kitchen,TW10 6UA,51.4579,-0.3048
 Love Food,TW10 6UB,51.4574,-0.3040
@@ -1007,6 +1020,7 @@ FARM CAFE HANWORTH ,TW13 5NA,51.4420,-0.3788
 KFC HANWORTH,TW13 6AW,51.4402,-0.3881
 Lisboa Loja ,TW14 0JG,51.4556,-0.4092
 West Kebab,TW14 0JG,51.4556,-0.4092
+Genie Indian resturant Ltd,TW14 0JJ,51.4564,-0.4089
 Nido's,TW14 0JJ,51.4564,-0.4089
 BP Hattoncross ,TW14 0PR,51.4658,-0.4233
 BEDFONT CAFE,TW14 8BL,51.4536,-0.4278
@@ -1045,6 +1059,7 @@ YUm Yum Eatery,TW16 7AB,51.4198,-0.4203
 Subway ,TW16 7AZ,51.4192,-0.4212
 Costa Coffee,TW16 7BB,51.4187,-0.4220
 KFC SUNBURY CROSS,TW16 7BB,51.4187,-0.4220
+Mexican Rico LTD,TW16 7QB,51.4236,-0.4196
 Liquid Leisure Shepperton Ltd,TW17 0QQ,51.4076,-0.4563
 LONGACRES SHEPPERTON,TW17 0RQ,51.4055,-0.4470
 Mumbai Square Restaurant Ltd,TW17 8AR,51.3963,-0.4472
@@ -1070,6 +1085,7 @@ SAFA ASSOCIATES LIMITED,TW18 4DY,51.4342,-0.5115
 Starbucks Staines - High Street,TW18 4DY,51.4342,-0.5115
 creams staines,TW18 4EE,51.4338,-0.5129
 CHOBAB SUSHI NARA ,TW18 4EN,51.4342,-0.5147
+The Grill,TW18 4LY,51.4329,-0.5033
  De Forest Ltd,TW18 4PA,51.4350,-0.5067
 CHICKEN CHICKING,TW18 4PA,51.4350,-0.5067
 DUCK KING-STAINES FOOD COURT,TW18 4PA,51.4350,-0.5067
@@ -1267,6 +1283,7 @@ Whole Foods Market - Richmond,TW9 1AB,51.4608,-0.3031
 AMORINO,TW9 1BP,51.4620,-0.3032
 Don Fernando Restaurant,TW9 1DN,51.4623,-0.3026
 Pizzeria Rustica,TW9 1DN,51.4623,-0.3026
+Coffeeology,TW9 1DZ,51.4614,-0.3028
 Buenos Aires Argentine Steakhouse ,TW9 1EA,51.4616,-0.3029
 Tap Tavern Richmond,TW9 1ED,51.4615,-0.3027
 Ole & Steen Richmond,TW9 1HE,51.4604,-0.3055
@@ -1324,6 +1341,7 @@ Aahar Indian Vegetarian Restaurant,UB1 1PS,51.5115,-0.3757
 Chaat house limited ,UB1 1QF,51.5118,-0.3808
 Moti Mahal Ltd,UB1 1QF,51.5118,-0.3808
 chandni chowk London ltd,UB1 1QF,51.5118,-0.3808
+YOLK CATERING LTD (RIO PIRI PIRI),UB1 1QN,51.5122,-0.3824
 Chini Chor,UB1 1RD,51.5088,-0.3775
 Chicken Cottage - Southall,UB1 1RQ,51.5093,-0.3772
 CHICK FILLER,UB1 1RT,51.5107,-0.3763
@@ -1474,6 +1492,7 @@ Bluebelles of Portobello ,W10 5RU,51.5214,-0.2099
 Lowry&Baker ,W10 5SA,51.5214,-0.2106
 Lisa's Italian Kitchen & Bar,W10 5TD,51.5192,-0.2078
 THAI RICE,W10 5TD,51.5192,-0.2078
+ MAKAN CAFE,W10 5TY,51.5190,-0.2072
 Streetorganic ,W10 5TZ,51.5183,-0.2067
 Ritto's,W10 6HJ,51.5174,-0.2103
 Roosters Piri Piri,W10 6HJ,51.5174,-0.2103
@@ -1805,6 +1824,7 @@ CHISWICK HOTHOUSE LIMITED,W4 5TT,51.4930,-0.2683
 FAANOOS 2 LTD,W4 5TT,51.4930,-0.2683
 Kuyamoto ,W4 5TT,51.4930,-0.2683
 MALENI LTD T/A CAFE PARADISO,W4 5TT,51.4930,-0.2683
+SG Express uk ltd,W4 5TT,51.4930,-0.2683
 Wine Food Market London Limited,W4 5TT,51.4930,-0.2683
 Maggie and Rose (Chiswick) Ltd,W4 5UJ,51.4929,-0.2644
 QVC UK,W4 5XU,51.4957,-0.2737
@@ -1867,6 +1887,7 @@ Flame & Fire,W5 4QP,51.4984,-0.3056
 Town Bites,W5 4QP,51.4984,-0.3056
 lentil ,W5 4RH,51.4974,-0.3054
 La Rueda De Tapas,W5 5AA,51.5123,-0.3062
+Boof Restaurant ,W5 5AH,51.5126,-0.3068
 Creams ealing,W5 5AH,51.5126,-0.3068
  Noor Palace,W5 5AL,51.5124,-0.3083
 Rangrez,W5 5AL,51.5124,-0.3083
@@ -1907,6 +1928,7 @@ Patri Hammersmith,W6 0NQ,51.4977,-0.2276
 The Brackenbury Wine Rooms,W6 0NQ,51.4977,-0.2276
 The Grove Bar & Restaurant,W6 0NQ,51.4977,-0.2276
 Khun Pakin,W6 0QU,51.4928,-0.2330
+the Salutation ltd,W6 0QU,51.4928,-0.2330
 KFC HAMMERSMITH,W6 0QW,51.4927,-0.2303
 Taco Bell,W6 0QW,51.4927,-0.2303
 FASHIONFOOD21LTD(yoshisushI),W6 0RA,51.4931,-0.2358
@@ -1916,6 +1938,7 @@ Pho District,W6 0RA,51.4931,-0.2358
 Shilpa Indian Restaurant ,W6 0RA,51.4931,-0.2358
 Indian Zing Ltd,W6 0RF,51.4935,-0.2374
 Lowiczanka Restaurant,W6 0RF,51.4935,-0.2374
+Coffeeology,W6 0RR,51.4937,-0.2423
 Piate ,W6 0RR,51.4937,-0.2423
 101 Thai kitchen,W6 0RX,51.4936,-0.2443
 Artisan Stamford Brook,W6 0RX,51.4936,-0.2443
