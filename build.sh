@@ -15,7 +15,7 @@ bash build_fsa.sh
 
 awk -F, -f filter_chains.awk target/complete.csv >> target/named_pubs.csv
 
-awk -F, -f filter_postcodes.awk target/named_pubs.csv | cut -f1-4 -d, | sort -u | sort -t, -k2,2 | awk -F, -f split_pubs.awk
+awk -F, -f filter_postcodes.awk target/named_pubs.csv | cut -f1-4 -d, | sort -uf | sort -t, -k2,2 | awk -F, -f split_pubs.awk
 
 #Add additional bits to "outcodes" for non postcode places
 awk 'BEGIN { FS="\t"; OFS=","; } $8 ~ /^(PPL|ADM)/ && $5 > 49 && $5 < 61 && $6 > -8 && $6 < 2 { gsub(/[^a-zA-Z0-9]/, "", $2); print $8, $2, $5, $6, $15 }' GB.txt \
