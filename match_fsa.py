@@ -71,6 +71,7 @@ match_postcode = 0
 match_name = 0
 match_single_name = 0
 unmatched_postcode = 0
+blank_postcode = 0
 invalid = 0
 id = 10000000000
 with open('target/named_pubs.csv', 'wt', newline='\n') as outfile:
@@ -108,6 +109,16 @@ with open('target/named_pubs.csv', 'wt', newline='\n') as outfile:
                             found = True
 
                 if found:
+                    if match['lat'] == "" or match['lon'] == "":
+                        if postcode in postcodes:
+                            postcodeinfo = postcodes[postcode]
+                            match['lat'] = postcodeinfo['lat']
+                            match['lon'] = postcodeinfo['lon']
+                            blank_postcode += 1
+                        else:
+                            found = False
+
+                if found:
                     writer.writerow(dict(name=re.sub('[,"]', " ", row['name']),
                                          typeId=match['typeId'],
                                          type=match['type'],
@@ -143,6 +154,7 @@ print(f'Read {read} EOTHO records')
 print(f'Written {match_postcode} records by postcode only')
 print(f'Written {match_name} records by name and postcode')
 print(f'Written {match_single_name} records by single name and postcode')
+print(f'Recovered {blank_postcode} blank postcode records')
 print(f'Written {unmatched_postcode} unmatched records with postcode')
 print(f'Not written {invalid} EOTHO unmatched records with invalid or no postcode')
 print(f'Written {written} EOTHO records')
