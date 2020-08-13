@@ -74,8 +74,8 @@ unmatched_postcode = 0
 blank_postcode = 0
 invalid = 0
 id = 10000000000
-with open('target/named_pubs.csv', 'wt', newline='\n') as outfile:
-    writer = csv.DictWriter(outfile, fieldnames=['name', 'postcode', 'lat', 'lon', 'ratingValue', 'ratingKey', 'type', 'typeId', 'id'], quoting=csv.QUOTE_NONE)
+with open('target/named_pubs.csv', 'wt') as outfile:
+    writer = csv.DictWriter(outfile, fieldnames=['name', 'postcode', 'lat', 'lon', 'ratingValue', 'ratingKey', 'type', 'typeId', 'id'], quoting=csv.QUOTE_NONE, lineterminator='\n')
     with open('target/pub_postcodes.csv', 'rt') as csvfile:
         reader = csv.DictReader(csvfile, fieldnames=['name', 'addr1', 'postcode'])
         for row in reader:

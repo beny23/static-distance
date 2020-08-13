@@ -18,7 +18,7 @@ awk -F, -f filter_postcodes.awk target/all_chain_pubs.csv >> target/named_pubs.c
 
 # process chains without postcode
 awk -F, -f find_blank_locations.awk target/all_chain_pubs.csv > target/blank_chain_pubs.csv
-join -t , -1 2 -2 2 -o 1.1,0,2.3,2.4,1.5,1.6,1.7,1.8,1.9 <(sort -k 2 -t , target/blank_chain_pubs.csv) <(sort -k 2 -t , target/ukpostcodes.csv) | awk -F, -f filter_postcodes.awk >> target/named_pubs.csv
+join -t , -1 2 -2 2 -o 1.1,0,2.3,2.4,1.5,1.6,1.7,1.8,1.9 <(sort -k2,2 -t, target/blank_chain_pubs.csv) <(sort -k2,2 -t, target/ukpostcodes.csv) | awk -F, -f filter_postcodes.awk >> target/named_pubs.csv
 
 cut -f1-4 -d, target/named_pubs.csv | awk -F, -f reduce_precision.awk | sort -uf | sort -t, -k2,2 | awk -F, -f split_pubs.awk
 
@@ -27,7 +27,7 @@ awk 'BEGIN { FS="\t"; OFS=","; } $8 ~ /^(PPL|ADM)/ && $5 > 49 && $5 < 61 && $6 >
 | sort -rnk5,5 -t, | cut -f1-4 -d, | tr '[:lower:]' '[:upper:]' | sort -u -k2,2 -t, | awk -F, -f reduce_precision.awk | awk -F, -f split_locations.awk
 cat postcode-outcodes.csv | awk -F, -f filter_postcodes.awk | awk -F, -f split_locations.awk
 
-gzip target/named_pubs.csv
+sort -uf target/named_pubs.csv | gzip -c > target/named_pubs.csv.gz
 
 rm target/*.csv target/*.txt
 
