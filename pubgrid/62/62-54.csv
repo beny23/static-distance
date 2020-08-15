@@ -35,11 +35,13 @@ KFC,BD4 9RQ,53.7660,-1.7081
 Dearne Lea Tea Room,HD8 8LJ,53.5973,-1.6865
 The Three Acres Inn & Restaurant,HD8 8LR,53.6079,-1.6755
 The Foresters Arms,HD8 8PH,53.5818,-1.6665
+Just Thai Restaurant ,HD8 8SU,53.5794,-1.6424
 The Coffee Mill and Cakes,HD8 9AA,53.5914,-1.6530
 VALENTINOS SCISSETT,HD8 9HR,53.5904,-1.6237
 Kirklees Light Railway (The Buffer Stop Cafe),HD8 9XJ,53.5967,-1.6133
 Starbucks (West One),LS1 1BA,53.7971,-1.5563
 Starbucks Leeds - Wellington St,LS1 1BA,53.7971,-1.5563
+The Queens Hotel ,LS1 1PJ,53.7957,-1.5478
 Iberica Leeds,LS1 2BH,53.7993,-1.5494
 Da Vito Ristorante ,LS1 2DR,53.7968,-1.5513
 Nosh,LS1 2DS,53.7969,-1.5521
@@ -62,8 +64,10 @@ Bagel Nash St Paul,LS1 2QB,53.7987,-1.5541
 Delicious Enterprises UK,LS1 2QH,53.7985,-1.5505
 Town Hall Tavern,LS1 2RA,53.7994,-1.5524
 The Cosmopolitan Hotel,LS1 4AE,53.7945,-1.5425
+JUICY CHICKEN LTD,LS1 4AF,53.7947,-1.5426
 Bibis Restaurant Ltd,LS1 4AG,53.7943,-1.5435
 Chaophraya,LS1 4AG,53.7941,-1.5440
+FARRANDS BAR,LS1 4AG,53.7942,-1.5435
 Koibito ,LS1 4AG,53.7943,-1.5435
 Malmaison Leeds,LS1 4AG,53.7943,-1.5435
 CH&Co Catering Group In Squire Patton Boggs,LS1 4AP,53.7959,-1.5583
@@ -104,6 +108,7 @@ Nandos (Trinity),LS1 5AY,53.7988,-1.5460
 PIZZALUXE,LS1 5AY,53.7965,-1.5437
 Pho,LS1 5AY,53.7965,-1.5437
 Rola Wala Leeds,LS1 5AY,53.7966,-1.5439
+Rosa's Thai Cafe,LS1 5AY,53.7965,-1.5437
 TGI Fridays,LS1 5AY,53.7988,-1.5460
 Tortilla,LS1 5AY,53.7965,-1.5437
 Wagamama,LS1 5AY,53.7988,-1.5460
@@ -485,6 +490,7 @@ R Spice Wakefield Limited,WF1 2AT,53.6985,-1.5167
 Baxterstorey,WF1 2DF,53.7010,-1.5077
 Starbucks,WF1 2DH,53.6865,-1.5059
 Wetherby Whaler,WF1 2DX,53.7097,-1.5019
+Meghna India restaurant & takeaway limited ,WF1 2DY,53.7093,-1.5016
 Create Cafe,WF1 2EB,53.6842,-1.5037
 KRAFT ,WF1 2ED,53.6834,-1.4996
 Smokehouse Real BBQ Limited,WF1 2ED,53.6834,-1.4996
@@ -628,6 +634,7 @@ MR T HARRINGTON T/A HEALDS HALL,WF15 6JA,53.7112,-1.6850
 The Golden Fish,WF15 7DQ,53.7065,-1.6908
 Reids ,WF15 7LE,53.6995,-1.7045
 The Star,WF15 7LQ,53.6982,-1.7065
+Dixy Chicken,WF16 0AR,53.7074,-1.6714
 Pizza Hut,WF16 0EN,53.7078,-1.6779
 The Gallery,WF16 0EX,53.7065,-1.6749
 Crafty Kids ,WF16 0HH,53.7072,-1.6782
@@ -741,6 +748,7 @@ EGO at the Bulls Head,WF4 5AS,53.6564,-1.5535
 Nostalgic Kitchen,WF4 5DA,53.6594,-1.5503
 The CoffeeStop At The Junction Horbury Ltd,WF4 5FH,53.6531,-1.5402
 Bistro 42 Horbury,WF4 5LE,53.6599,-1.5561
+Bar Biccari,WF4 5LU,53.6601,-1.5582
 The Quarry Restaurant and Grill,WF4 5NF,53.6590,-1.5665
 Cinnamon Lounge,WF4 5NN,53.6577,-1.5742
 Di bosco (retail) LTD,WF4 5PR,53.6579,-1.5769
@@ -783,6 +791,7 @@ Ackworth Garden Centre (Secret Garden Cafe),WF7 7NB,53.6479,-1.3322
 Little Green Bistro,WF8 1AG,53.6914,-1.3105
 Subway ,WF8 1AL,53.6913,-1.3127
 Mauds Cafe Bar,WF8 1AQ,53.6910,-1.3106
+The Blind Pig,WF8 1AT,53.6916,-1.3115
 Flavours Coffee Shops Ltd,WF8 1BA,53.6920,-1.3112
 KFC,WF8 1BJ,53.6920,-1.3139
 Coffee At The Court,WF8 1BP,53.6921,-1.3150
@@ -802,6 +811,7 @@ Gelato creamery,WF8 1PQ,53.6917,-1.3090
 Dominos Pizza,WF8 1QD,53.6934,-1.3068
 Waterfall Elior Limited,WF8 4GY,53.6867,-1.3171
 Kings Croft Hotel,WF8 4HA,53.6842,-1.3298
+MEHMOOD BIG BITES,WF8 4LR,53.6805,-1.3196
 McDonalds Restaurant,WF8 4PR,53.6973,-1.3193
 Snack in a Box,WF9 4QZ,53.6130,-1.3602
 Elior Uk @ Four Seasons,WF9 5EA,53.6229,-1.3640

@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 Kfc,PO13 0FE,50.8344,-1.1736
+Monkey Bizness Gosport,PO13 0GW,50.8255,-1.1630
 Bridgemary Manor Hotel & Pub,PO13 0JY,50.8216,-1.1645
 lee on solent community association,PO13 8JU,50.8046,-1.1933
 Costa Coffee,PO13 8ZW,50.8026,-1.1675
@@ -106,6 +107,7 @@ Royal Ocean Racing Club,PO31 7QU,50.7660,-1.3019
 Island Sailing Club,PO31 7RE,50.7645,-1.2984
 Call It What You Want,PO31 7RL,50.7644,-1.2987
 Gastronomy Cowes Ltd,PO31 7RR,50.7637,-1.2982
+COWES TANDOORI,PO31 7RS,50.7629,-1.2979
 The Red Duster Restaurant,PO31 7RS,50.7629,-1.2979
 The Pier View,PO31 7RY,50.7623,-1.2982
 The Anchor Inn,PO31 7SA,50.7614,-1.2978
@@ -135,6 +137,7 @@ Alsulaimaniyah grill house,SO14 0DR,50.9114,-1.3940
 SHIRE RESTAURANT LTD,SO14 0JD,50.9133,-1.3995
 Gurkha Lounge,SO14 0JR,50.9167,-1.3957
 Boulder Shack Climbing Gym,SO14 0JW,50.9167,-1.3934
+Monkey Bizness Southampton,SO14 0JW,50.9165,-1.3937
 Nativ Southampton ,SO14 0JZ,50.9180,-1.3952
 Jurys Inn Hotel,SO14 0TB,50.9106,-1.4007
 Ding Tea UK Ltd,SO14 1JU,50.9028,-1.4029
@@ -218,6 +221,7 @@ Costa Coffee,SO14 7SJ,50.9059,-1.4059
 Fredericks,SO14 7SJ,50.9059,-1.4059
 Neds Noodle Bar Southampton,SO14 7SJ,50.9059,-1.4059
 STAKKS PANCAKE HOUSE LTD,SO14 7SJ,50.9059,-1.4059
+Vida Marina Fish & Chips at Sea Life Play Centre Limited,SO14 7SJ,50.9059,-1.4059
 Piccolo Mondo ,SO14 7SL,50.9065,-1.4054
 KFC,SO15 0LS,50.9183,-1.4570
 McDonalds,SO15 0LS,50.9153,-1.4391
@@ -347,7 +351,6 @@ Noodle 8 ,SO17 2WE,50.9253,-1.3929
 kohinoor of kerala,SO17 2WE,50.9252,-1.3930
 pho vietnam,SO17 2WE,50.9253,-1.3929
 jackpot cafe,SO17 3SP,50.9335,-1.3827
-Rusu,SO18 1AL,50.9171,-1.3832
 THE STATION,SO18 1GT,50.9198,-1.3749
 Il picchio,SO18 1NN,50.9246,-1.3757
 Miss Ellie's Cafe,SO18 1NN,50.9246,-1.3757
@@ -360,7 +363,6 @@ Pizza Hut,SO18 5EE,50.9147,-1.3584
 Subway ,SO19 2BN,50.9094,-1.3603
 Tandoori,SO19 7PE,50.8976,-1.3748
 The Boat Shop Cafe,SO19 7QT,50.8985,-1.3783
-Rsm,SO19 8AA,50.9027,-1.3555
 MILLERS POND PUB,SO19 8FQ,50.8981,-1.3614
 Buzz Bingo,SO19 8NE,50.9065,-1.3410
 KFC,SO19 8NE,50.9065,-1.3410
@@ -427,7 +429,9 @@ The Coffee Shop,SO31 8ES,50.8899,-1.3174
 Ship & Shovel,SO31 9HX,50.8530,-1.2969
 The Cricketers Inn,SO32 2BH,50.9293,-1.2267
 The Farmers Home,SO32 2BT,50.9414,-1.2666
+The old forge inn ,SO32 2HS,50.9229,-1.1999
 New Place Hotel,SO32 2JY,50.9187,-1.1955
+Anatolian Turkish Restaurant,SO32 2LL,50.9429,-1.2027
 Black Dog,SO32 2LX,50.9295,-1.2017
 The Brickmakers,SO32 2PA,50.9451,-1.1822
 the rising sun,SO32 2PS,50.9395,-1.1755
@@ -435,7 +439,6 @@ The Compass Inn,SO40 2HE,50.9288,-1.5453
 Le Chateau,SO40 2NX,50.9279,-1.5726
 AFC Totton-Strakers Cafe,SO40 2RW,50.9370,-1.5114
 Broadlands lakes clubhouse ,SO40 2RX,50.9432,-1.5156
-Beeline cars,SO40 3AB,50.9182,-1.4822
 MCDONALDS,SO40 3AF,50.9187,-1.4848
 McDonald's,SO40 3AF,50.9187,-1.4848
 Lucky Buddha 888 Ltd,SO40 3AH,50.9190,-1.4865
@@ -519,6 +522,7 @@ LA PERGOLA RISTORANTE,SO43 7BQ,50.8732,-1.5689
 Lime Wood Group Limited,SO43 7FZ,50.8632,-1.5488
 Searcys at Exbury Gardens,SO45 1AZ,50.7993,-1.3962
 Falcon Inn,SO45 1DD,50.8266,-1.3504
+The Hideaway Cafe,SO45 1XA,50.8190,-1.3735
 Langley Tavern (New Forest) Ltd,SO45 1XR,50.8049,-1.3671
 KFC,SO45 2LG,50.8316,-1.3803
 The Forest Home,SO45 3FH,50.8421,-1.3915

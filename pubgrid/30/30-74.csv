@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 McDonalds Restaurant Ltd,CT1 1AD,51.2925,1.1066
 P A Crocker Ltd t/a McDonalds,CT1 1AD,51.2925,1.1066
+Alaturka Northgate ,CT1 1BH,51.2835,1.0861
 Starbucks Coffee Company,CT1 1BW,51.2848,1.0851
 Compass Group,CT1 1DG,51.2905,1.0969
 ROYAL INN RESTAURANT,CT1 1PE,51.2778,1.0860
@@ -144,6 +145,7 @@ Lanthorne,CT10 3AE,51.3669,1.4309
 The White Swan ( Broadstairs ) limited,CT10 3AZ,51.3743,1.4316
 Taddys Barn,CT10 3BN,51.3808,1.4239
 19th Hole,CT10 3JX,51.3812,1.4271
+North Foreland Golf Club,CT10 3PU,51.3777,1.4348
 Captain Digby,CT10 3QH,51.3847,1.4407
 The boating pool,CT11 0HE,51.3278,1.4030
 Pegwell Bay Hotel & Seaview Restaurant ,CT11 0NJ,51.3273,1.3920
@@ -262,6 +264,7 @@ Cafe des Amis du Mexique Ltd,CT2 8AD,51.2819,1.0745
 Chapmans Restaurant Ltd,CT2 8AD,51.2817,1.0750
 Golden Kitchen,CT2 8AD,51.2819,1.0745
 ALATURKA CANTERBURY LTD,CT2 8AF,51.2822,1.0746
+Refectory Kitchen,CT2 8AF,51.2822,1.0748
 The Falstaff in Canterbury,CT2 8AF,51.2821,1.0749
 THE GOODS SHED RESTAURANT,CT2 8AN,51.2837,1.0758
 Wild Goose,CT2 8AN,51.2837,1.0758
@@ -336,6 +339,7 @@ Mushy Peas Limited,CT6 5JQ,51.3727,1.1262
 Mettyears Day Spa & Salon,CT6 5LA,51.3714,1.1277
 The Vintage Empire ,CT6 5LE,51.3712,1.1261
 Oyster & Chop House,CT6 5LH,51.3710,1.1219
+The Grapevine ,CT6 5LJ,51.3712,1.1215
 Toast Herne Bay Ltd,CT6 5PT,51.3697,1.1262
 Gandhi Tandoori,CT6 5QA,51.3705,1.1212
 The Heron,CT6 5QJ,51.3659,1.1199
@@ -373,7 +377,6 @@ Hot Wood Ltd,CT8 8RB,51.3817,1.3399
 FREDERICK'S TEA ROOM,CT8 8RE,51.3821,1.3366
 Coffee & Ice House,CT8 8RF,51.3821,1.3372
 Mala Kaffe,CT9 1AP,51.3911,1.3786
-Edessa TURKISH cusine ,CT9 1BD,51.3878,1.3812
 Barnacles,CT9 1DD,51.3901,1.3827
 GB Pizza (Margate),CT9 1DH,51.3887,1.3798
 Little Swift,CT9 1DH,51.3888,1.3798

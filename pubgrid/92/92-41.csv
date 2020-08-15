@@ -16,6 +16,7 @@ Rainbow Bubble Tea Ltd,EH1 1BQ,55.9526,-3.1913
 SUSHI STOP,EH1 1BQ,55.9526,-3.1913
 Starbucks,EH1 1BQ,55.9526,-3.1913
 La Locanda ,EH1 1BS,55.9507,-3.1889
+La Locanda,EH1 1BS,55.9507,-3.1889
 Laila's Bistro,EH1 1BS,55.9507,-3.1892
 Viva Mexico Edinburgh Ltd,EH1 1BS,55.9507,-3.1892
 Southern Cross Cafe,EH1 1BU,55.9506,-3.1885
@@ -34,7 +35,6 @@ Pizza Paradise ,EH1 1EN,55.9473,-3.1917
 Vittoria on the Bridge ,EH1 1EN,55.9475,-3.1917
 Patisserie Valerie,EH1 1EP,55.9476,-3.1919
 National Library of Scotland ,EH1 1EW,55.9513,-3.1920
-Hotel du Vin & Bistro Edinburgh,EH1 1EZ,55.9459,-3.1899
 Boteco do Brasil,EH1 1HB,55.9461,-3.1893
 Paradise Palms,EH1 1HB,55.9463,-3.1892
 BURRITO N SHAKE,EH1 1HN,55.9489,-3.1872
@@ -60,6 +60,8 @@ MOTHER INDIA'S CAFE EDINBURGH,EH1 1LT,55.9481,-3.1853
 The Pantry,EH1 1LT,55.9481,-3.1853
 Zizzi,EH1 1LW,55.9502,-3.1912
 Holiday Inn Express Edinburgh Royal Mile,EH1 1NA,55.9490,-3.1844
+Edinburgh Larder,EH1 1NB,55.9497,-3.1856
+Larder Go,EH1 1NB,55.9497,-3.1856
 Devils Advocate,EH1 1ND,55.9500,-3.1912
 Safestay Edinburgh,EH1 1NE,55.9493,-3.1860
 Bubba Q,EH1 1PE,55.9502,-3.1890
@@ -168,6 +170,7 @@ Grassmarket Cafe at St. James,EH1 3JD,55.9564,-3.1884
 Holiday Inn Express Edinburgh,EH1 3JT,55.9571,-3.1874
 Phuket Pavilion,EH1 3LU,55.9577,-3.1861
 Kahani Indian Restaurant ,EH1 3NH,55.9580,-3.1852
+Mamma Roma Restaurant ,EH1 3NH,55.9580,-3.1852
 Pomegranate,EH1 3NH,55.9580,-3.1852
 Giuliano’s ,EH1 3NQ,55.9573,-3.1860
 Lasal,EH1 3NQ,55.9574,-3.1858
@@ -184,7 +187,9 @@ EDENS KITCHEN,EH1 3SB,55.9579,-3.1897
 Fhior,EH1 3SB,55.9579,-3.1897
 Caffe Nero,EH10 4AX,55.9295,-3.2093
 La'Telve limited ,EH10 4AX,55.9295,-3.2093
+THE SCONE FACTORY LTD,EH10 4AY,55.9305,-3.2095
 Khotang ltd T/A as Gurkha ,EH10 4BX,55.9309,-3.2102
+east PIZZAS,EH10 4BX,55.9310,-3.2102
 NICE CURRIES LTD,EH10 4BY,55.9321,-3.2103
 Costa Coffee,EH10 4DB,55.9337,-3.2104
 S. Luca Dairy Ice Cream Morningside,EH10 4DB,55.9337,-3.2104
@@ -216,6 +221,7 @@ Maison Bleue Le Bistrot ,EH10 5HS,55.9266,-3.2095
 Karines Deli,EH10 5HX,55.9259,-3.2096
 Mia Italian Kitchen,EH10 5HX,55.9259,-3.2096
 The Waiting Room ,EH10 5HZ,55.9249,-3.2104
+The Waiting Room,EH10 5HZ,55.9249,-3.2104
 The Hermitage,EH10 6AA,55.9245,-3.2097
 Miao's Kitchen,EH10 6AQ,55.9219,-3.2111
 pie not bistro ,EH10 6AQ,55.9219,-3.2111
@@ -248,6 +254,7 @@ Mia Italian Kitchen Dalry,EH11 2AX,55.9440,-3.2190
 Los Amigos,EH11 2BQ,55.9454,-3.2171
 pho viet,EH11 2BQ,55.9454,-3.2171
 Xiangbala hotpot,EH11 2BZ,55.9442,-3.2179
+Chapter One Coffee Shop,EH11 2DR,55.9432,-3.2201
 Locanda De Gusti,EH11 2DW,55.9437,-3.2198
 B&D's Kitchen,EH11 2ES,55.9407,-3.2246
 KEBABISH ORIGINAL,EH11 2EZ,55.9428,-3.2218
@@ -294,6 +301,7 @@ Fabio’s restaurant ,EH12 8HW,55.9421,-3.2960
 McDonalds ,EH12 8HW,55.9420,-3.2964
 Grosvenor Casino Edinburgh,EH12 8NE,55.9413,-3.3138
 Philly's,EH12 9DF,55.9326,-3.3147
+Novotel Edinburgh Park,EH12 9DJ,55.9321,-3.3165
 Brewdog,EH12 9DN,55.9484,-3.3632
 Burger King,EH12 9DN,55.9484,-3.3632
 Caffe Nero,EH12 9DN,55.9484,-3.3632
@@ -432,6 +440,7 @@ Caffe Centro,EH2 2LE,55.9531,-3.1980
 Lowdown Coffee,EH2 2LE,55.9531,-3.1980
 Miller & Carter,EH2 2ND,55.9526,-3.1998
 Meze Meze Limited,EH2 2NH,55.9526,-3.1991
+Mussel Inn Limited,EH2 2NH,55.9526,-3.1991
 The Black Rose,EH2 2NH,55.9525,-3.1991
 The Rosehip Bar and Restaurant,EH2 2NH,55.9526,-3.1991
 Auld Hundred,EH2 2NN,55.9524,-3.1983

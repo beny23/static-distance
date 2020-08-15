@@ -2,6 +2,7 @@ name,postcode,lat,lon
 Kellington Manor Hotel,DN14 0SB,53.7140,-1.1671
 Starbucks (West One),LS1 1BA,53.7971,-1.5563
 Starbucks Leeds - Wellington St,LS1 1BA,53.7971,-1.5563
+The Queens Hotel ,LS1 1PJ,53.7957,-1.5478
 Iberica Leeds,LS1 2BH,53.7993,-1.5494
 Da Vito Ristorante ,LS1 2DR,53.7968,-1.5513
 Nosh,LS1 2DS,53.7969,-1.5521
@@ -42,8 +43,10 @@ Pizza authority ltd,LS1 3ED,53.8006,-1.5487
 Slap & Pickle - Assembly underground,LS1 3ED,53.8006,-1.5487
 Cafe Nero,LS1 3EY,53.8037,-1.5497
 The Cosmopolitan Hotel,LS1 4AE,53.7945,-1.5425
+JUICY CHICKEN LTD,LS1 4AF,53.7947,-1.5426
 Bibis Restaurant Ltd,LS1 4AG,53.7943,-1.5435
 Chaophraya,LS1 4AG,53.7941,-1.5440
+FARRANDS BAR,LS1 4AG,53.7942,-1.5435
 Koibito ,LS1 4AG,53.7943,-1.5435
 Malmaison Leeds,LS1 4AG,53.7943,-1.5435
 CH&Co Catering Group In Squire Patton Boggs,LS1 4AP,53.7959,-1.5583
@@ -84,6 +87,7 @@ Nandos (Trinity),LS1 5AY,53.7988,-1.5460
 PIZZALUXE,LS1 5AY,53.7965,-1.5437
 Pho,LS1 5AY,53.7965,-1.5437
 Rola Wala Leeds,LS1 5AY,53.7966,-1.5439
+Rosa's Thai Cafe,LS1 5AY,53.7965,-1.5437
 TGI Fridays,LS1 5AY,53.7988,-1.5460
 Tortilla,LS1 5AY,53.7965,-1.5437
 Wagamama,LS1 5AY,53.7988,-1.5460
@@ -301,6 +305,7 @@ Bengal lounge leeds,LS15 7RN,53.7972,-1.4678
 Marimonte Restaurant,LS15 7RN,53.7973,-1.4678
 nawaz restaurant,LS15 8BA,53.8075,-1.4494
 Costa Coffee,LS15 8DX,53.8072,-1.4504
+Oceans,LS15 8DX,53.8072,-1.4504
 THE BLACK OLIVE LEEDS,LS15 8DX,53.8072,-1.4504
 Zorbas bar and grill,LS15 8DX,53.8072,-1.4504
 Balcony Cafe,LS15 8ET,53.8063,-1.4508
@@ -408,6 +413,7 @@ Ibis Styles Leeds City Centre Arena,LS2 8NJ,53.8015,-1.5433
 My Thai Leeds Ltd,LS2 8NJ,53.8015,-1.5433
 The Eldon,LS2 9DX,53.8102,-1.5555
 Hu Nan Chinese Food Service Limited,LS2 9DZ,53.8109,-1.5560
+CHARCO'S ,LS2 9HB,53.8084,-1.5520
 TECH FOODS LEEDS LTD,LS2 9HB,53.8084,-1.5520
 brunch leeds,LS2 9HB,53.8084,-1.5520
 Mr Su’s,LS2 9HD,53.8076,-1.5514
@@ -585,7 +591,6 @@ Nandos,LS9 0AS,53.7727,-1.4713
 Starbucks,LS9 0AS,53.7727,-1.4713
 Safis food ,LS9 6LG,53.8034,-1.5011
 Gipton old Fire station,LS9 6NL,53.8023,-1.4941
-Bai Chicken,LS9 7BY,53.8076,-1.5130
 African Bar & Restaurant ,LS9 7LY,53.8039,-1.5291
 lincoln green internet cafe,LS9 7SU,53.8021,-1.5262
 Costa Coffee (Gledhow Wing),LS9 7TF,53.8073,-1.5191
@@ -645,6 +650,7 @@ R Spice Wakefield Limited,WF1 2AT,53.6985,-1.5167
 Baxterstorey,WF1 2DF,53.7010,-1.5077
 Starbucks,WF1 2DH,53.6865,-1.5059
 Wetherby Whaler,WF1 2DX,53.7097,-1.5019
+Meghna India restaurant & takeaway limited ,WF1 2DY,53.7093,-1.5016
 Create Cafe,WF1 2EB,53.6842,-1.5037
 KRAFT ,WF1 2ED,53.6834,-1.4996
 Smokehouse Real BBQ Limited,WF1 2ED,53.6834,-1.4996
@@ -793,6 +799,7 @@ EGO at the Bulls Head,WF4 5AS,53.6564,-1.5535
 Nostalgic Kitchen,WF4 5DA,53.6594,-1.5503
 The CoffeeStop At The Junction Horbury Ltd,WF4 5FH,53.6531,-1.5402
 Bistro 42 Horbury,WF4 5LE,53.6599,-1.5561
+Bar Biccari,WF4 5LU,53.6601,-1.5582
 The Quarry Restaurant and Grill,WF4 5NF,53.6590,-1.5665
 Cinnamon Lounge,WF4 5NN,53.6577,-1.5742
 Rich and Fancy ,WF4 6LP,53.6602,-1.5551
@@ -817,6 +824,7 @@ THE RUSTIC ARMS,WF7 7EZ,53.6577,-1.3148
 Little Green Bistro,WF8 1AG,53.6914,-1.3105
 Subway ,WF8 1AL,53.6913,-1.3127
 Mauds Cafe Bar,WF8 1AQ,53.6910,-1.3106
+The Blind Pig,WF8 1AT,53.6916,-1.3115
 Flavours Coffee Shops Ltd,WF8 1BA,53.6920,-1.3112
 KFC,WF8 1BJ,53.6920,-1.3139
 Coffee At The Court,WF8 1BP,53.6921,-1.3150
@@ -841,4 +849,5 @@ Darrington Golf Club,WF8 3BP,53.6791,-1.2606
 Wentbridge House Hotel,WF8 3JJ,53.6509,-1.2637
 Waterfall Elior Limited,WF8 4GY,53.6867,-1.3171
 Kings Croft Hotel,WF8 4HA,53.6842,-1.3298
+MEHMOOD BIG BITES,WF8 4LR,53.6805,-1.3196
 McDonalds Restaurant,WF8 4PR,53.6973,-1.3193

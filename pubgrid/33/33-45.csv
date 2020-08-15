@@ -48,7 +48,6 @@ The Lanes Bristol,BS1 2LE,51.4566,-2.5924
 White Hart ,BS1 2LU,51.4584,-2.5936
 All Saints Coffee,BS1 2LZ,51.4560,-2.5927
 Paul Campbell T/A  Campbell's Kitchen,BS1 2NT,51.4579,-2.5948
-Hotel du Vin & Bistro Bristol,BS1 2NU,51.4567,-2.5966
 TAKA BRIDEWELL,BS1 2QD,51.4568,-2.5938
 Caffe Nero at House of Fraser,BS1 3BD,51.4582,-2.5846
 Five Guys,BS1 3BD,51.4582,-2.5846
@@ -379,6 +378,7 @@ the rising sun pub,BS3 4LE,51.4385,-2.5941
 Florence Restaurant,BS3 4RJ,51.4422,-2.5785
 FREEDOG BRISTOL,BS3 4RP,51.4455,-2.5824
 The Shakespeare ,BS3 4UD,51.4429,-2.5797
+CHOMP,BS3 5BQ,51.4377,-2.5981
 Almondsbury Creative,BS32 4AA,51.5513,-2.5698
 The Swan Hotel ,BS32 4AA,51.5517,-2.5697
 Elior at Babcock,BS32 4AQ,51.5452,-2.5711
@@ -480,6 +480,7 @@ Piri Piri Corner ,BS5 0PU,51.4622,-2.5722
 Real Habesha Restaurant,BS5 0PU,51.4622,-2.5723
 Pepes piri piri,BS5 0PW,51.4612,-2.5737
 LEISURE CAFE FOR SHOP LIMITED,BS5 0RB,51.4606,-2.5745
+Nadines Caribbean Restaurant,BS5 0UN,51.4646,-2.5711
 Pipal Tree Restaurant,BS5 6AF,51.4630,-2.5628
 Msala Library,BS5 6DL,51.4666,-2.5643
 The Greenbank ,BS5 6DP,51.4677,-2.5616
@@ -525,6 +526,7 @@ Bravas,BS6 6LD,51.4643,-2.6089
 Falafel King,BS6 6LF,51.4645,-2.6088
 Snobby’s ,BS6 6PE,51.4676,-2.6061
 REDLAND TANDOORI LTD,BS6 6PF,51.4679,-2.6050
+Otira & Chandos Social,BS6 6PG,51.4677,-2.6066
 The Shakespeare,BS6 6SS,51.4703,-2.6068
 Koocha Mezze Bar Ltd,BS6 7AD,51.4702,-2.5950
 La CAMPAGNUOLA,BS6 7AG,51.4700,-2.5943
@@ -645,6 +647,7 @@ Somerset House,BS8 4BX,51.4544,-2.6204
 Spicer and Cole  Clifton Village,BS8 4BX,51.4544,-2.6204
 Zizzi,BS8 4BX,51.4544,-2.6203
 Giggling Squid,BS8 4BZ,51.4544,-2.6214
+The Bristol Fringe ,BS8 4BZ,51.4544,-2.6214
 New MoOn Tapas,BS8 4DP,51.4546,-2.6208
 NUTMEG INDIAN RESTAURANT,BS8 4DR,51.4549,-2.6205
 The Clifton Club ,BS8 4DS,51.4555,-2.6209
@@ -711,7 +714,6 @@ Atalian Servest Food Co. @ Wilkinson Distribution Centre,NP26 3WN,51.5755,-2.866
 The Cellar Bar & Kitchen,NP26 4AA,51.5883,-2.7598
 AKOL Limited ,NP26 4BG,51.5913,-2.7521
 LITE BITE,NP26 4BG,51.5914,-2.7522
-Knight Of Bengal,NP26 4BR,51.5895,-2.7545
 Ladybird Craft Centre,NP26 4BR,51.5901,-2.7533
 The Measure Inn,NP26 4BR,51.5894,-2.7553
 COACH AND HORSES (CAERWENT)LLP,NP26 5AX,51.6108,-2.7659

@@ -84,6 +84,7 @@ KFC West Street,S1 4EW,53.3801,-1.4791
 KFC,S1 4EW,53.3801,-1.4791
 MOUNT LEBANON,S1 4EW,53.3801,-1.4791
 Nando's,S1 4EW,53.3801,-1.4791
+The Wick,S1 4EW,53.3801,-1.4791
 200 Degrees,S1 4GE,53.3800,-1.4734
 Caffe Nero,S1 4GE,53.3798,-1.4750
 Heavenly Desserts,S1 4GE,53.3797,-1.4748
@@ -109,6 +110,7 @@ China Red Restaurant,S1 4JD,53.3767,-1.4743
 The Cabin Pancake and Waffle House Ltd,S1 4JH,53.3755,-1.4754
 Wildwood Artisan Coffee Shop,S1 4JH,53.3754,-1.4753
 Wildwood Artisan Gifts and Coffee Shop Ltd,S1 4JH,53.3754,-1.4753
+sushi express,S1 4JU,53.3770,-1.4769
 Gourmet Burger Kitchen,S1 4PA,53.3765,-1.4737
 Nando's Chickenland Ltd,S1 4PA,53.3765,-1.4737
 Zizzi,S1 4PA,53.3765,-1.4737
@@ -165,6 +167,7 @@ La Vaca,S10 2QE,53.3769,-1.5014
 Vittles Cafe,S10 2QE,53.3769,-1.5014
 Waterfall Elior,S10 2SA,53.3781,-1.4966
 Butcher and Catch,S10 2SP,53.3777,-1.4999
+Taste of Thailand ,S10 2SS,53.3779,-1.5002
 Bar One ,S10 2TG,53.3806,-1.4877
 Starbucks Broomhill,S10 2TJ,53.3809,-1.4927
 Starbucks,S10 2TJ,53.3810,-1.4927
@@ -257,6 +260,7 @@ Chutney,S12 3GG,53.3449,-1.4261
 Waterfall Elior,S12 3HS,53.3421,-1.4197
 The Swan,S12 3XR,53.3300,-1.3966
 The Bridge Inn,S12 3YD,53.3195,-1.3988
+Treat Squad,S12 4EJ,53.3472,-1.3787
 Waterfall Elior,S12 4HJ,53.3445,-1.3851
 Waterfall Elior,S12 4QE,53.3467,-1.3903
 Memory lane tearoom ,S13 7PD,53.3591,-1.3674
@@ -333,7 +337,6 @@ China Town Restaurant,S2 4LA,53.3723,-1.4765
 The Clubhouse,S2 4LA,53.3721,-1.4766
 Toro steakhouse,S2 4LA,53.3723,-1.4765
 cedar court food ,S2 4LA,53.3723,-1.4765
-Zs bistro,S2 4LE,53.3704,-1.4774
 stack lounge,S2 4LE,53.3704,-1.4774
 Pepe's Piri Piri,S2 4LH,53.3694,-1.4768
 Saigon68 Vietnamese cafe,S2 4LH,53.3694,-1.4768
@@ -574,6 +577,7 @@ THE PEACOCK (CUTTHORPE) LLP,S42 7AS,53.2557,-1.4937
 Mamaccino,S42 7DA,53.2378,-1.5419
 Bulls Head,S42 7EW,53.2181,-1.4955
 the Royal Oak,S42 7JH,53.2422,-1.5174
+Fox & Goose Inn ,S42 7JJ,53.2431,-1.5283
 Lyric Hotels Ltd t/a Ringwood Hall Hotel,S43 1DQ,53.2585,-1.3822
 Chutney Spice ,S43 1JG,53.2572,-1.3957
 Atalian Servest (Bistro),S43 3LY,53.2578,-1.3595
@@ -605,7 +609,9 @@ SUGAR XPRESS,S5 6HH,53.4175,-1.4457
 Subway,S5 6HL,53.4189,-1.4466
 Kebabish express ,S5 6HU,53.4225,-1.4540
 Waterfall Elior,S5 6TB,53.4147,-1.4511
+Leonard,S5 6UE,53.4131,-1.4517
 the potato oven,S5 7AB,53.4066,-1.4535
+Noor pizza,S5 7AE,53.4069,-1.4525
 Northern Perk,S5 7AU,53.4098,-1.4561
 Big Baps,S5 7TR,53.4217,-1.4567
 Pizza Hut Delivery,S6 1LH,53.4207,-1.4926
@@ -671,13 +677,13 @@ Cuccinis ltd,S60 4LA,53.4166,-1.3215
 No.21 coffee shop & bistro,S60 5BS,53.4037,-1.3744
 The Centre Community Cafe Brinsworth,S60 5BU,53.4046,-1.3703
 JoJo's Cafe,S60 5DL,53.4079,-1.3684
+Thirsty Flame,S60 5HE,53.4040,-1.3619
 PHOENIX PAVILION,S60 5PA,53.4102,-1.3735
 BB's Coffee Shop c/o Boundary Mill Stores,S60 5TR,53.3888,-1.3715
 WHITBYS,S60 5TR,53.3879,-1.3718
 bay tree bistro ltd,S65 3HU,53.4235,-1.3060
 mark woodward t/a brecks social club,S65 3HZ,53.4215,-1.3069
 Seven Seas Limited,S66 1AG,53.4199,-1.2875
-Ewans,S66 1DY,53.4108,-1.2748
 McDonald's Bramley - Bawtry Rd,S66 1YY,53.4220,-1.2542
 McDonalds,S66 1YY,53.4220,-1.2542
 Chaudrys Restaurant Ltd,S66 2BW,53.4218,-1.2844
@@ -697,6 +703,7 @@ Dead Donkey Bar,S7 1FL,53.3624,-1.4783
 LA MAMA (SHEFFIELD) LIMITED,S7 1FL,53.3618,-1.4788
 gj coffee shop ltd,S7 1FL,53.3618,-1.4788
 Cole's Corner,S7 1FN,53.3607,-1.4796
+La baracca ltd,S7 1FN,53.3607,-1.4796
 The Broadfield,S7 1FR,53.3584,-1.4826
 Barrowboy,S7 1FS,53.3601,-1.4793
 Meraki Restaurant,S7 1FS,53.3600,-1.4793
@@ -812,6 +819,7 @@ Burger King,S9 2EP,53.4015,-1.4150
 Five Guys JV Limited,S9 2EP,53.4015,-1.4150
 Hollywood Bowl,S9 2EP,53.4015,-1.4150
 Miller & Carter,S9 2EP,53.4015,-1.4150
+Monkey Bizness Sheffield,S9 2EP,53.4013,-1.4139
 Nando's,S9 2EP,53.4015,-1.4150
 Pizza Express,S9 2EP,53.4015,-1.4150
 Subway Centretainment,S9 2EP,53.4015,-1.4150
@@ -826,6 +834,7 @@ BAIG COFFEE N CREAM,S9 3FR,53.3882,-1.4204
 BAIG DESSERTS PARLOUR,S9 3FR,53.3882,-1.4204
 Courtyard Cafe-Bar,S9 3QS,53.3927,-1.4332
 La Vlad Restaurant,S9 3RA,53.3924,-1.4350
+Blast Snack Bar,S9 3RE,53.3947,-1.4315
 Big Baps Sandwich Shop ,S9 3RN,53.3934,-1.4325
 Indus The Restaurant Limited,S9 3RP,53.3940,-1.4317
 PRIY EATERY,S9 4AD,53.3813,-1.4000

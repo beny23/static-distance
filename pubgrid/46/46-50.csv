@@ -116,6 +116,7 @@ BIG CHICKEN LTD ,B11 4JZ,52.4570,-1.8697
 Chicken.com 579 Stratford Road Birmingham,B11 4LS,52.4523,-1.8656
 Deepam ltd ta deepalis kitchen,B11 4PB,52.4571,-1.8721
 Cafe Pausa  Dunelm,B12 0EB,52.4643,-1.8850
+Peelers spuds,B12 0HU,52.4663,-1.8802
 Mylahore,B12 0JD,52.4715,-1.8799
 The Old Crown ,B12 0LD,52.4748,-1.8836
 Cg’s cafe,B12 0NS,52.4719,-1.8825
@@ -130,7 +131,6 @@ Taste of Pakistani ltd,B12 8DP,52.4593,-1.8761
 Yaqubs steakhouse ,B12 8ED,52.4586,-1.8730
 Chaska & Chai,B12 8JA,52.4589,-1.8765
 Roscoes,B12 8JJ,52.4577,-1.8737
-cafe express,B12 8JP,52.4577,-1.8761
 AL BADER LOUNGE LTD,B12 8JS,52.4577,-1.8764
 Infernoz,B12 8JS,52.4577,-1.8764
 Lahore Village ,B12 8JS,52.4569,-1.8764
@@ -151,6 +151,7 @@ Chaiiwala Ladypool Road,B12 8JZ,52.4523,-1.8784
 Afrikana (Birmingham),B12 8LA,52.4526,-1.8787
 Fargo's,B12 8LA,52.4524,-1.8788
 Heavenly Desserts  Ladypool Road,B12 8LA,52.4524,-1.8788
+Meat Street,B12 8LA,52.4529,-1.8784
 RHL Group Ltd T/A Truburger ,B12 8LA,52.4525,-1.8788
 Sweet. Ladypool Road,B12 8LA,52.4524,-1.8788
 OODLES,B12 8LB,52.4535,-1.8781
@@ -168,7 +169,6 @@ THE OLD MOSELEY ARMS LTD,B12 9QU,52.4552,-1.8895
 Al Qamar restaurant,B12 9TP,52.4585,-1.8889
 Sarehole Mill ,B13 0BD,52.4344,-1.8561
 SWEET CHILLIES RESTAURANT LIMITED,B13 0JE,52.4222,-1.8733
-Shiraz Hair Cafe,B13 0RF,52.4227,-1.8776
 Tipu Sultan Birmingham,B13 8AA,52.4510,-1.8891
 JAQK'S,B13 8DD,52.4471,-1.8884
 LA BRIOCHE LIMITED ,B13 8DD,52.4469,-1.8884
@@ -339,6 +339,7 @@ Costa Coffee,B18 7QH,52.4898,-1.9294
 Lick Your Finger,B18 7QX,52.4865,-1.9363
 Coombs Catering at Signet Trading,B19 1DS,52.4965,-1.9146
 Broadway 2 Limited,B19 1LL,52.5075,-1.9026
+Y BARI LTD,B19 1NH,52.5026,-1.9176
 Rahman’s grillhouse T/A bhaizan’s grill,B19 2TH,52.5022,-1.9019
 Peppers City takeout,B19 2TP,52.5031,-1.9090
 Mississippi river  and Nile Bistro,B19 2XU,52.4947,-1.9030
@@ -429,6 +430,7 @@ Mr singh's Pizza,B20 2HY,52.5155,-1.9337
 Titanic restaurant ,B20 3BX,52.5140,-1.9015
 Burger Town,B20 3DD,52.5132,-1.9017
 SweetLab Desserts,B20 3DD,52.5133,-1.9017
+Chik King,B21 0AP,52.5088,-1.9572
 McDonalds Restaurant,B21 0AP,52.5088,-1.9572
 McDonald’s ,B21 0AP,52.5088,-1.9572
 baba pizza,B21 0LS,52.5068,-1.9484
@@ -501,7 +503,6 @@ Zen Metro,B3 2DF,52.4823,-1.9026
 The Florence,B3 2ES,52.4816,-1.9020
 Ch&Co Catering Ltd,B3 2JR,52.4823,-1.9010
 Urban Cafe Bar Kitchen,B3 2NP,52.4821,-1.9004
-Hotel du Vin & Bistro Birmingham,B3 2NR,52.4824,-1.8999
 Primitivo,B3 2NT,52.4823,-1.8989
 Tattu Birmingham ,B3 2NT,52.4822,-1.8991
 Monty's Deli Sandwich Bars Ltd,B3 2QD,52.4822,-1.8975
@@ -530,6 +531,7 @@ Akrams restaurant ,B30 2NW,52.4243,-1.9214
 BALTI HUT ,B30 2NW,52.4243,-1.9214
 cafeuccino bar,B30 2XN,52.4364,-1.9162
 Patiala ,B30 2XU,52.4299,-1.9207
+NEW BALTI BAZAAR RESTAURANT,B30 2YT,52.4314,-1.9201
 SANTI PIZZA,B30 2YT,52.4314,-1.9201
 THE NEW MASALLA MERCHANT RESTAURANT LIMITED,B30 2YT,52.4314,-1.9201
 The Bournbrook Inn ,B30 2YT,52.4305,-1.9213
@@ -569,6 +571,7 @@ Apple Green Service Station,B32 1HP,52.4635,-1.9945
 the new talbot quinton,B32 2AY,52.4650,-1.9850
 The Haven Community Project,B32 2NR,52.4546,-1.9774
 NEW ISLAND INN QUINTON LTD,B32 2PP,52.4537,-1.9808
+ICS CATERING LIMITED,B32 2QD,52.4522,-1.9832
 Burger King At Moto (North),B32 4AR,52.4288,-2.0172
 Burger King At Moto (South),B32 4AR,52.4288,-2.0172
 Costa Coffee At Moto (North),B32 4AR,52.4288,-2.0172
@@ -675,6 +678,7 @@ Santorini Restaurant,B5 4BN,52.4750,-1.8975
 Lola's Cupcakes,B5 4BP,52.4778,-1.8929
 Ooty Station,B5 4BP,52.4778,-1.8929
 Archie's Selfridges,B5 4BU,52.4779,-1.8939
+Bubbleology,B5 4BU,52.4779,-1.8939
 LITTLE DESSERT SHOP,B5 4BU,52.4779,-1.8939
 Muffin Break Bullring,B5 4BU,52.4779,-1.8939
 Pret A Manger,B5 4BU,52.4779,-1.8939
@@ -711,7 +715,6 @@ Khan palace cafe ltd,B5 5BD,52.4765,-1.8922
 THE LADBROOKE HOUSE HOTEL ,B5 5BL,52.4779,-1.8876
 Clayton Hotel Birmingham,B5 5JE,52.4814,-1.8901
 LILY'S UMAMI,B5 5JE,52.4814,-1.8900
-Liangji Wrap,B5 5JE,52.4814,-1.8900
 Phoenix,B5 5JE,52.4813,-1.8897
 Tin Tin Food Hall,B5 5JE,52.4814,-1.8900
 TOPCUP,B5 5JN,52.4816,-1.8893
@@ -891,7 +894,7 @@ McDonald's,B7 5SA,52.5055,-1.8565
 Mcdonalds Restaurants Ltd,B7 5SA,52.5055,-1.8565
 Nandos,B7 5SA,52.5055,-1.8565
 Oodles n Oodles Birmingham,B7 5SA,52.5055,-1.8565
-Pepe's Piri Piri ,B7 5SA,52.5055,-1.8565
+Pepe's piri piri,B7 5SA,52.5055,-1.8565
 Pizza Hut Restaurant,B7 5SA,52.5055,-1.8565
 Shere Khan Star City Birmingham,B7 5SA,52.5055,-1.8565
 Shobha's,B7 5SA,52.5055,-1.8565
@@ -948,6 +951,7 @@ McDonalds Restaurants Ltd,B71 1RG,52.5304,-1.9883
 The Red Lion,B71 1RH,52.5313,-1.9883
 Greedy Pig 2,B71 2BW,52.5371,-1.9914
 Hydes Convenience,B71 2EF,52.5458,-2.0005
+Stone Cross Masala,B71 2JQ,52.5458,-1.9916
 CURRY N GRILL HOUSE,B71 3LH,52.5462,-1.9829
 Lucarelli Italian Restaurant,B71 4AN,52.5231,-1.9872
 Subway,B71 4DL,52.5309,-1.9875
@@ -997,6 +1001,7 @@ CHAAYE KHANA LIMITED,B9 4NZ,52.4778,-1.8629
 McDonald's Bordesley Green,B9 4SU,52.4773,-1.8536
 Mcdonalds Restaurants Ltd,B9 4SU,52.4773,-1.8536
 Bismillah Fast Food Ltd T/A BEMZZAH GRILL,B9 4TS,52.4768,-1.8571
+Dixy Chicken,DY1 1DB,52.5103,-2.0856
 THE OLD GLASSHOUSE PUB COMPANY LTD,DY1 1HA,52.5111,-2.0838
 Dudley Spice,DY1 1LP,52.5114,-2.0823
 the old priory,DY1 1LU,52.5117,-2.0835
@@ -1176,6 +1181,7 @@ Westman Securities Ltd T/A Dunsley Hall Hotel,DY7 6LU,52.4547,-2.2096
 cafe express,DY8 1AB,52.4568,-2.1473
 stourbridge Institute & social club,DY8 1AD,52.4566,-2.1480
 THE PLOUGH & HARROW,DY8 1AX,52.4512,-2.1487
+The Yak Nepalese  and indian cuisine,DY8 1DP,52.4566,-2.1466
 Caffe Nero,DY8 1DT,52.4563,-2.1457
 The Talbot Hotel,DY8 1DW,52.4571,-2.1468
 Pizza Express,DY8 1DX,52.4560,-2.1448
@@ -1357,7 +1363,6 @@ Pimentos bar and grill,WS2 9JZ,52.5842,-1.9864
 PREMIER DINER,WS2 9NT,52.5821,-1.9908
 Chunky chicken ,WS2 9QJ,52.5732,-1.9986
 Herolicious ,WS2 9QJ,52.5733,-1.9973
-olive Restaurant and Sweet,WS2 9QL,52.5735,-1.9964
 MAC'S DINER LTD,WS2 9QN,52.5735,-1.9972
 Yaadgaar,WS2 9QN,52.5735,-1.9972
 Calderfields Golf & Country Club Ltd,WS4 2JS,52.5896,-1.9430
@@ -1448,7 +1453,6 @@ The Grapes ,WV14 6JG,52.5784,-2.0739
 Shan (Midlands) Ltd,WV14 7DW,52.5618,-2.0600
 The Golden Cue Snooker Club Limited ,WV14 7LH,52.5710,-2.0714
 Fiery Grill & Curry,WV14 8NG,52.5560,-2.0534
-triangle bar and grill ,WV14 8PA,52.5571,-2.0701
 Chutney Indian Cuisine,WV14 9DP,52.5410,-2.0878
 Coseley McDonald's,WV14 9JH,52.5435,-2.0892
 Ronny’s spice,WV14 9JL,52.5420,-2.0899
@@ -1481,7 +1485,6 @@ BRUFORD ARMS GRILL LTD,WV3 0AY,52.5758,-2.1466
 McDonalds,WV3 0LH,52.5776,-2.1356
 McDonald’s Penn Rd,WV3 0LH,52.5776,-2.1356
 KPS Bar & Grill,WV3 0LU,52.5768,-2.1387
-kps bar and grill,WV3 0LU,52.5768,-2.1387
 New Merridale,WV3 0RA,52.5807,-2.1343
 Plazacafe,WV3 0RX,52.5835,-2.1313
 Subway,WV3 0TT,52.5854,-2.1388

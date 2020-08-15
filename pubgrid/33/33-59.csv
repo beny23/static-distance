@@ -89,6 +89,7 @@ itsu Reading,RG1 1SY,51.4562,-0.9723
 Starbucks Coffee Shop,RG1 1TE,51.4561,-0.9723
 Sapana Home,RG1 1TG,51.4563,-0.9719
 Beijing Palace,RG1 1TT,51.4560,-0.9755
+Roosters Piri Piri,RG1 1TT,51.4561,-0.9755
 Thai Corner,RG1 1TZ,51.4560,-0.9761
 rafina coffee lounge,RG1 1TZ,51.4560,-0.9761
 KFC - Reading Broad Street,RG1 2AF,51.4557,-0.9747
@@ -134,6 +135,7 @@ Dickens Bar & Restaurant ,RG1 2HE,51.4549,-0.9698
 Honest Burgers,RG1 2HE,51.4549,-0.9698
 Prezzo,RG1 2HF,51.4547,-0.9703
 workhouse coffee,RG1 2HF,51.4547,-0.9703
+Bolan Thai restaurant,RG1 2HG,51.4546,-0.9696
 Little Dessert Shop,RG1 2HG,51.4546,-0.9697
 Pho at Kings Walk,RG1 2HG,51.4546,-0.9696
 The SOJU,RG1 2HG,51.4546,-0.9696
@@ -430,7 +432,6 @@ Bull on Bell Street,RG9 2BA,51.5386,-0.9050
 Starbucks Henley Market Street,RG9 2BA,51.5386,-0.9050
 Caffe Nero,RG9 2BG,51.5386,-0.9046
 Coppa Club,RG9 2BG,51.5386,-0.9046
-Hotel du Vin & Bistro Henley on Thames,RG9 2BP,51.5393,-0.9027
 Phyllis Court Members club Ltd,RG9 2HT,51.5413,-0.9013
 The Farm Kitchen ,RG9 2HY,51.5452,-0.9042
 Menza Cafe,RG9 2JA,51.5431,-0.9048
@@ -451,6 +452,7 @@ The Five Horseshoes,RG9 6EX,51.5909,-0.9611
 The Barn at Turville Heath,RG9 6JY,51.6157,-0.9272
 The Yew Tree Frieth,RG9 6PJ,51.6056,-0.8516
 Chequers Inn,RG9 6QD,51.6134,-0.8780
+The Bull and Butcher ,RG9 6QU,51.6143,-0.8955
 The Stag and Huntsman ltd,RG9 6RP,51.5722,-0.8697
 Elior UK,SL1 3FT,51.5197,-0.6129
 Pizza Hut,SL1 3UW,51.5124,-0.6131
@@ -546,6 +548,7 @@ Royal Foresters,SL5 8DR,51.4123,-0.7069
 Mill Ride Golf Club,SL5 8LT,51.4206,-0.6963
 MAYA,SL5 9NE,51.4017,-0.6552
 Rajbhoog Restaurant,SL5 9NE,51.4017,-0.6552
+The Jade Restaurant,SL5 9NE,51.4017,-0.6552
 The Courtyard,SL5 9NF,51.4010,-0.6558
 THE SUN CAFE,SL5 9NG,51.4010,-0.6563
 Roux at Skindles,SL6 0AG,51.5298,-0.6936
@@ -571,6 +574,7 @@ bistro story,SL6 1NB,51.5221,-0.7199
 Costa Coffee,SL6 1PT,51.5227,-0.7233
 Flavio’s,SL6 1PT,51.5227,-0.7233
 SHEESH,SL6 1PT,51.5228,-0.7232
+Gourmet Chicken Company,SL6 1QE,51.5230,-0.7192
 RIO DELI MAIDENHEAD LIBRARY LIMITED,SL6 1QU,51.5221,-0.7178
 Coppa Club,SL6 1RR,51.5219,-0.7160
 KFC,SL6 1RS,51.5229,-0.7161
@@ -646,6 +650,7 @@ The Dog and Badger,SL7 2HE,51.5540,-0.8424
 The Royal Oak,SL7 2JF,51.5757,-0.7958
 The Coach,SL7 2LS,51.5710,-0.7780
 The Ship Ltd,SL7 2LS,51.5710,-0.7780
+Tiger Garden,SL7 2LS,51.5710,-0.7780
 Costa Coffee,SL7 2NB,51.5714,-0.7780
 Giggling Squid,SL7 2NB,51.5714,-0.7778
 The Cedar,SL7 2NB,51.5714,-0.7780

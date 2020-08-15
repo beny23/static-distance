@@ -19,6 +19,7 @@ Arizona Joe's,BL3 5AH,53.5727,-2.4420
 CHAIIWALA BOLTON,BL3 5AH,53.5727,-2.4420
 Chilli Flames,BL3 5AH,53.5731,-2.4415
 Somalian cafe,BL3 5BP,53.5712,-2.4429
+The mashs peri peri grill,BL3 5DP,53.5731,-2.4440
 Aroma restaurant ,BL3 5HJ,53.5715,-2.4508
 Afghan Chopan,BL3 5HP,53.5727,-2.4464
 Hotbite,BL3 5QU,53.5675,-2.4635
@@ -77,7 +78,6 @@ McDonald's Store 946 Pilsworth,BL9 8RD,53.5744,-2.2736
 Crowded House,BL9 9SU,53.5692,-2.2941
 let's lunch,M15 4EY,53.4698,-2.2644
 The Banyan Tree of Castlefield,M15 4JY,53.4711,-2.2639
-The crumb cake company,M16 0AY,53.4476,-2.2699
 Ashiana Takeaway,M16 0BN,53.4509,-2.2723
 Jerk Junction,M16 0DZ,53.4498,-2.2737
 BANDO BOXES,M16 0LH,53.4613,-2.2767
@@ -247,6 +247,7 @@ Shahbaaz curry cottage limited ,M26 3WL,53.5690,-2.3553
 Pranzo,M26 4NN,53.5712,-2.3442
 Alberts Bar and Restaurant ,M27 0AA,53.5052,-2.3465
 Subway,M27 0BE,53.5071,-2.3527
+Tranquilitea Cake & Tea Emporium LTD,M27 0FQ,53.5020,-2.3523
 Swinton - Costa Coffee,M27 4BD,53.5119,-2.3379
 Costa Coffee,M27 4BH,53.5125,-2.3385
 PARADE FISH BAR LTD,M27 4BH,53.5125,-2.3384
@@ -329,6 +330,7 @@ The Naz,M30 9PY,53.4912,-2.3517
 Vintage Ambiance,M30 9PY,53.4912,-2.3517
 The Coffee House Partington,M31 4EL,53.4182,-2.4254
 The Hideaway,M31 4EL,53.4190,-2.4258
+KEBABISH EXPRESS LTD,M32 0SF,53.4614,-2.2886
 Longford ,M32 8DA,53.4474,-2.2926
 McDonald's Restaurant,M32 8NB,53.4437,-2.3093
 Costa Coffee,M32 9BA,53.4457,-2.3094
@@ -355,6 +357,7 @@ Chez Nous Bistro,M33 3ND,53.4173,-2.3205
 The Little B,M33 3ND,53.4173,-2.3205
 Triple2 (Cafe/Bars) Ltd,M33 3NL,53.4153,-2.3188
 Gonbay Chinese Restaurant,M33 3SQ,53.4168,-2.3253
+Masis' Armenian Restaurant ,M33 3SQ,53.4168,-2.3252
 The Brooklands Tap,M33 3YA,53.4186,-2.3241
 CHATIME LEEDS LIMITED,M33 4HQ,53.4109,-2.3503
 Pizza Hut,M33 4JH,53.4083,-2.3454
@@ -411,6 +414,7 @@ Nando's,M41 7FP,53.4629,-2.3584
 Costa Coffee,M41 7JA,53.4679,-2.3615
 FlyBar,M41 7JA,53.4679,-2.3615
 Nando's,M41 7JA,53.4679,-2.3615
+Play Factore,M41 7JA,53.4679,-2.3615
 The Lift Up Cafe Ltd,M41 7JA,53.4680,-2.3615
 Starbucks,M41 7PP,53.4698,-2.3424
 The Fox Pub & Kitchen,M41 8QW,53.4568,-2.3940
@@ -441,6 +445,7 @@ Campo Blanco,M45 6QE,53.5480,-2.2932
 One88 Kitchen & Bar ,M45 6QF,53.5485,-2.2939
 Raya restaurant Whitefield ,M45 6QF,53.5485,-2.2939
 Sindhoor ,M45 6QF,53.5485,-2.2939
+Coffee n spice ,M45 6TF,53.5392,-2.2801
 Bluebay Restaurant limited ,M45 6TL,53.5400,-2.2831
 McDonald's Store 409 Whitefield,M45 7EG,53.5423,-2.2907
 McDonalds Restaurants Ltd,M45 7EG,53.5423,-2.2907
@@ -559,6 +564,7 @@ The Cafe,WA1 2EZ,53.3887,-2.5929
 McDonald's Riverside,WA1 2GZ,53.3864,-2.5855
 McDonalds,WA1 2GZ,53.3864,-2.5855
 Zenny's grill LTD,WA1 2HJ,53.3876,-2.5926
+Casa Mexica,WA1 2NT,53.3883,-2.5927
 Two Brothers Coffee,WA1 2NT,53.3881,-2.5915
 Buzz Bingo,WA1 2QH,53.3907,-2.5912
 Little planet coffee house and grill,WA1 2QQ,53.3909,-2.5899
@@ -584,6 +590,7 @@ Poco Coffee,WA12 9AN,53.4522,-2.6410
 What's Cookin',WA12 9BA,53.4521,-2.6396
 McDonald's Earlestown,WA12 9LW,53.4511,-2.6413
 McDonalds,WA12 9LW,53.4511,-2.6413
+Pinnacle foods,WA12 9QN,53.4521,-2.6355
 Subway Newton,WA12 9SH,53.4576,-2.6197
 Amans,WA12 9SL,53.4572,-2.6196
 Riddling Rack,WA12 9SL,53.4576,-2.6211
@@ -909,7 +916,6 @@ Pizza Hut,WN5 0UJ,53.5460,-2.6578
 Powerleague,WN5 0UN,53.5495,-2.6584
 Boars head,WN6 0AD,53.5734,-2.6446
 The Raj ,WN6 7LW,53.5513,-2.6484
-Aster,WN6 7NQ,53.5533,-2.6568
 Pizza Hut,WN7 1DR,53.4970,-2.5186
 Pizza Hut,WN7 1DR,53.4973,-2.5186
 The Coal Room Ltd,WN7 1DR,53.4970,-2.5186

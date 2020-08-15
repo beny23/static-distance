@@ -1,6 +1,5 @@
 name,postcode,lat,lon
 Trading Post Coffee Roasters,BN1 1AB,50.8230,-0.1418
-Hotel du Vin & Bistro Brighton,BN1 1AD,50.8204,-0.1424
 Jia Mo,BN1 1AD,50.8217,-0.1422
 SevenStars,BN1 1AD,50.8217,-0.1422
 The Golden Pineapple of Ship Street,BN1 1AD,50.8217,-0.1422
@@ -278,6 +277,7 @@ C9 London Road Ltd,BN1 4GU,50.8287,-0.1358
 Carlito Burrito,BN1 4GU,50.8287,-0.1358
 Dodo Pizza,BN1 4GU,50.8287,-0.1358
 GONGGAM BN LIMITED,BN1 4GU,50.8286,-0.1358
+HISBE Food,BN1 4GU,50.8287,-0.1358
 Moksha Caffe,BN1 4GU,50.8287,-0.1358
 Subway,BN1 4GX,50.8303,-0.1382
 Cosy cottage cafe bar,BN1 4JB,50.8312,-0.1367
@@ -297,6 +297,7 @@ Korpan,BN1 4JU,50.8315,-0.1352
 The Flying Saucer ,BN1 4JU,50.8315,-0.1352
 New Unity,BN1 4JX,50.8322,-0.1377
 Moes at the Circus,BN1 4NN,50.8348,-0.1374
+Kitgum Kitchen Ltd,BN1 4QE,50.8344,-0.1405
 Lost Boys Chicken,BN1 4QF,50.8345,-0.1400
 Pizza 500,BN1 4QG,50.8352,-0.1417
 Caroline of Brunswick,BN1 4SB,50.8302,-0.1348
@@ -340,7 +341,6 @@ The Haven,BN10 7LP,50.7968,-0.0104
 COSTA COFFEE - PEACEHAVEN,BN10 8NA,50.7896,0.0035
 Costa Coffee,BN10 8NP,50.7903,0.0055
 Hangtight limited TA Prithi Raj,BN15 8AS,50.8229,-0.3237
-Meze meze,BN15 8AU,50.8221,-0.3245
 Perch On Lancing Beach,BN15 8RA,50.8206,-0.3242
 Pizza Hut,BN15 9AB,50.8279,-0.3223
 Naaz,BN15 9AE,50.8274,-0.3223
@@ -645,6 +645,7 @@ greyfriars court ltd,BN7 2RF,50.8731,0.0159
 Costa Coffee,BN7 2UP,50.8706,0.0113
 The Abergavenny Arms Limited,BN7 3EZ,50.8355,0.0124
 Lewes Garden Centre,BN7 3NE,50.8578,-0.0087
+Monkey Bizness Lewes,BN8 6JL,50.8682,0.0248
 YHA South Downs,BN8 6JS,50.8326,0.0342
 ROUTE 26 DINER,BN9 0AB,50.7983,0.0520
 KFC,BN9 0AD,50.7949,0.0569

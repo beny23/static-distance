@@ -1,6 +1,5 @@
 name,postcode,lat,lon
 Trading Post Coffee Roasters,BN1 1AB,50.8230,-0.1418
-Hotel du Vin & Bistro Brighton,BN1 1AD,50.8204,-0.1424
 Jia Mo,BN1 1AD,50.8217,-0.1422
 SevenStars,BN1 1AD,50.8217,-0.1422
 The Golden Pineapple of Ship Street,BN1 1AD,50.8217,-0.1422
@@ -278,6 +277,7 @@ C9 London Road Ltd,BN1 4GU,50.8287,-0.1358
 Carlito Burrito,BN1 4GU,50.8287,-0.1358
 Dodo Pizza,BN1 4GU,50.8287,-0.1358
 GONGGAM BN LIMITED,BN1 4GU,50.8286,-0.1358
+HISBE Food,BN1 4GU,50.8287,-0.1358
 Moksha Caffe,BN1 4GU,50.8287,-0.1358
 Subway,BN1 4GX,50.8303,-0.1382
 Cosy cottage cafe bar,BN1 4JB,50.8312,-0.1367
@@ -297,6 +297,7 @@ Korpan,BN1 4JU,50.8315,-0.1352
 The Flying Saucer ,BN1 4JU,50.8315,-0.1352
 New Unity,BN1 4JX,50.8322,-0.1377
 Moes at the Circus,BN1 4NN,50.8348,-0.1374
+Kitgum Kitchen Ltd,BN1 4QE,50.8344,-0.1405
 Lost Boys Chicken,BN1 4QF,50.8345,-0.1400
 Pizza 500,BN1 4QG,50.8352,-0.1417
 Caroline of Brunswick,BN1 4SB,50.8302,-0.1348
@@ -448,7 +449,6 @@ The Berwick Inn,BN26 6SZ,50.8392,0.1654
 the barley mow,BN26 6UE,50.8400,0.1383
 The Village Shop & Cafe,BN27 3QE,50.8672,0.2058
 The Plough,BN27 3QJ,50.8655,0.1998
-Pizza Leonati,BN27 3TB,50.8713,0.1688
 The Yew Tree Inn,BN27 3TB,50.8713,0.1688
 AA & JJ Food Limited,BN3 1AE,50.8252,-0.1562
 BAD BOYS,BN3 1AE,50.8252,-0.1562
@@ -631,6 +631,7 @@ Cafe Ringmer,BN8 5QX,50.8933,0.0574
 The Cock Inn,BN8 5RX,50.9042,0.0464
 Leiths (Compass Group UK),BN8 5UU,50.8783,0.0638
 The Kings Head,BN8 6DR,50.9254,0.1652
+Monkey Bizness Lewes,BN8 6JL,50.8682,0.0248
 YHA South Downs,BN8 6JS,50.8326,0.0342
 Buffalo Bill's,BN8 6PG,50.9278,0.1436
 Wok Inn Bar and Restaurant,BN8 6PH,50.9134,0.1188
@@ -670,6 +671,7 @@ Limes Thai Kitchen,RH16 2HN,51.0132,-0.0814
 That's Amore,RH16 2HP,51.0140,-0.0801
 The Bent Arms,RH16 2HP,51.0140,-0.0801
 The Snowdrop Inn,RH16 2QE,50.9963,-0.0734
+La Campana ,RH16 3AL,51.0004,-0.1057
 ORANGE SQUARE BAR,RH16 3AL,51.0004,-0.1057
 Pizza Express,RH16 3AL,51.0004,-0.1057
 Savannah Cafe Bar ,RH16 3AL,51.0004,-0.1057
@@ -724,7 +726,6 @@ Thai Terre Uckfield,TN22 1RJ,50.9734,0.0970
 Costa Coffee,TN22 2DU,50.9933,0.0771
 TASTY SPICE UCKFIELD LTD,TN22 2EA,50.9892,0.0973
 PIG AND BUTCHER,TN22 3AN,50.9954,0.1042
-The Foresters Arms,TN22 3BP,51.0198,0.0923
 Denniker Cafe,TN22 3SH,50.9875,0.0438
 The Griffin Inn,TN22 3SS,50.9932,0.0343
 The Peacock Inn,TN22 3XA,50.9742,0.0648

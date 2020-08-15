@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 McDonalds Restaurant Ltd,CT1 1AD,51.2925,1.1066
 P A Crocker Ltd t/a McDonalds,CT1 1AD,51.2925,1.1066
+Alaturka Northgate ,CT1 1BH,51.2835,1.0861
 Starbucks Coffee Company,CT1 1BW,51.2848,1.0851
 Compass Group,CT1 1DG,51.2905,1.0969
 ROYAL INN RESTAURANT,CT1 1PE,51.2778,1.0860
@@ -103,6 +104,7 @@ Cafe des Amis du Mexique Ltd,CT2 8AD,51.2819,1.0745
 Chapmans Restaurant Ltd,CT2 8AD,51.2817,1.0750
 Golden Kitchen,CT2 8AD,51.2819,1.0745
 ALATURKA CANTERBURY LTD,CT2 8AF,51.2822,1.0746
+Refectory Kitchen,CT2 8AF,51.2822,1.0748
 The Falstaff in Canterbury,CT2 8AF,51.2821,1.0749
 THE GOODS SHED RESTAURANT,CT2 8AN,51.2837,1.0758
 Wild Goose,CT2 8AN,51.2837,1.0758
@@ -172,6 +174,7 @@ Whitstable coffee company ,CT5 1AP,51.3592,1.0246
 The ship centurion,CT5 1AY,51.3573,1.0249
 Clive Russell T/A Smack Inn,CT5 1BJ,51.3593,1.0235
 Thai Orchid,CT5 1BN,51.3583,1.0238
+Samphire Whitstable,CT5 1BQ,51.3601,1.0239
 Pearson's Arms,CT5 1BT,51.3605,1.0232
 THE FORGE,CT5 1BX,51.3618,1.0241
 Garage Coffee,CT5 1DB,51.3560,1.0244
@@ -185,6 +188,7 @@ Howards Kitchen,CT5 1JG,51.3585,1.0253
 Thirst Love Cafe ,CT5 1NA,51.3612,1.0295
 The Monument ,CT5 1PH,51.3564,1.0403
 Caffe Eighty Nine,CT5 2AJ,51.3639,1.0428
+BUBBLE,CT5 2BP,51.3643,1.0321
 HOTEL CONTINENTAL,CT5 2BP,51.3645,1.0325
 The beach cafe,CT5 2BP,51.3642,1.0318
 Waterfront lsf ltd,CT5 2BP,51.3643,1.0321
@@ -212,6 +216,7 @@ Mushy Peas Limited,CT6 5JQ,51.3727,1.1262
 Mettyears Day Spa & Salon,CT6 5LA,51.3714,1.1277
 The Vintage Empire ,CT6 5LE,51.3712,1.1261
 Oyster & Chop House,CT6 5LH,51.3710,1.1219
+The Grapevine ,CT6 5LJ,51.3712,1.1215
 Toast Herne Bay Ltd,CT6 5PT,51.3697,1.1262
 Gandhi Tandoori,CT6 5QA,51.3705,1.1212
 The Heron,CT6 5QJ,51.3659,1.1199

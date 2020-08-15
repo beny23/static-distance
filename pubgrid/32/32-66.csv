@@ -88,6 +88,7 @@ Old Village Cafe,BR2 7LD,51.3790,0.0176
 McDonalds,BR2 8NH,51.3751,0.0450
 Yasmin Restaurant,BR2 8NQ,51.3744,0.0454
 The darjeeling,BR2 9HT,51.3972,0.0233
+Sula Cafe,BR2 9HW,51.3963,0.0248
 Crown of Bromley,BR2 9JG,51.3956,0.0248
 DonGiovanni Restaurant,BR2 9LB,51.3972,0.0293
 Pizza Hut Delivery,BR2 9LD,51.3969,0.0293
@@ -398,7 +399,6 @@ KFC,DA14 6EP,51.4250,0.1062
 Sidcup KFC Store,DA14 6EP,51.4250,0.1062
 The Darjeeling ,DA14 6ES,51.4248,0.1059
 Papadam,DA14 6HJ,51.4241,0.1076
-Kitchen Brasserie,DA14 6LF,51.4192,0.1001
 MOGHUL,DA14 6ND,51.4267,0.1001
 Prezzo,DA14 6ND,51.4267,0.1001
 Pizza Express,DA14 6NF,51.4263,0.1001
@@ -468,7 +468,6 @@ COSTA COFFEE - DARTFORD ,DA2 6QE,51.4529,0.2537
 Costa Coffee,DA2 6QE,51.4529,0.2537
 Campanile Dartford,DA2 6QN,51.4583,0.2553
 Laing O Rourke,DA2 6SN,51.4554,0.2543
-The plough ,DA2 7BW,51.4273,0.2071
 Principals By CH&Co @ Wilmington C P School,DA2 7DF,51.4273,0.1980
 Birchwood Park Golf & Country Club,DA2 7HJ,51.4127,0.1604
 Rowhill Grange Hotel and Spa,DA2 7QH,51.4181,0.1888
@@ -639,6 +638,7 @@ Coffee&Patisserie Ltd,E1 1DG,51.5192,-0.0612
 Costa Coffee,E1 2AX,51.5157,-0.0620
 The Gourmet Hut,E1 2BQ,51.5166,-0.0574
 McDonalds,E1 2BT,51.5148,-0.0584
+FOOD DOJO LIMITED,E1 2DW,51.5151,-0.0584
 Le Madison Steakhouse,E1 2EG,51.5192,-0.0568
 Original Al-Ikhwan,E1 2LX,51.5132,-0.0618
 Sushi Masago,E1 2LX,51.5136,-0.0618
@@ -680,6 +680,7 @@ Bagel town ,E12 5AF,51.5495,0.0450
 JB Coffee Ltd,E12 6PH,51.5441,0.0500
 Taste Of India Limited,E12 6PH,51.5441,0.0499
 K.O - Kebabish Original  High Street North ,E12 6PQ,51.5439,0.0496
+KALDI COFFEE & CO LTD,E12 6PQ,51.5439,0.0496
 PRIYA EXPRESS LTD,E12 6PQ,51.5439,0.0496
 The Grill East Ham,E12 6RH,51.5460,0.0492
 Dizert Ltd,E12 6SA,51.5424,0.0505
@@ -699,7 +700,6 @@ Bronze Restaurant ,E13 8EQ,51.5204,0.0178
 K.O - Kebabish Original  Plaistow,E13 8HJ,51.5228,0.0242
 Pizza Hut,E13 8HL,51.5212,0.0207
 Cosy cafe,E13 8ND,51.5181,0.0282
-The Philly Cheesesteak Co,E13 8QN,51.5233,0.0287
 KATE'S CAFE AND RESTAURANT,E13 8RD,51.5264,0.0244
 CHARCOAL RESTAURANT,E13 8SD,51.5182,0.0324
 KFC,E13 9AR,51.5367,0.0351
@@ -733,7 +733,6 @@ The Gaylord,E14 3DN,51.4887,-0.0081
 Cravings cafe,E14 3DR,51.4896,-0.0069
 The George,E14 3ND,51.4957,-0.0120
 FODAL Oriental Kitchen,E14 3QA,51.4923,-0.0250
-Hubbub Bar & Kitchen,E14 3RS,51.4922,-0.0242
 Kinkao,E14 3WA,51.4861,-0.0140
 Pret A Manger  Tower Kiosk,E14 4AA,51.5072,-0.0246
 Starbucks,E14 4AA,51.5072,-0.0246
@@ -1150,8 +1149,8 @@ LOAFING,E3 5QS,51.5318,-0.0368
 The Victoria,E3 5TH,51.5306,-0.0397
 Aladdin's Mahal ,E6 1AD,51.5373,0.0364
 Imaan Takeaway Ltd T/A Imaan ,E6 1AD,51.5373,0.0364
-Alleyway Burger,E6 1AE,51.5370,0.0363
 Chai Factory Four Limited t/a Chaiiwala,E6 1AE,51.5370,0.0362
+Hq lounge ,E6 1AE,51.5370,0.0363
 NIHAARI HOUSE LTD,E6 1AE,51.5370,0.0363
 Naan Staap,E6 1AE,51.5370,0.0362
 Olive Dining At Plashet Secondary School Kitchen A,E6 1DG,51.5396,0.0496
@@ -1182,9 +1181,11 @@ Costa Coffee,E6 2HJ,51.5342,0.0537
 McDonalds Restaurant Ltd - East Ham,E6 2HJ,51.5342,0.0537
 SOM Restaurants ltd,E6 2HJ,51.5340,0.0538
 Baba Turkish Kebab,E6 2HT,51.5368,0.0523
+Dixy Chicken,E6 2JA,51.5390,0.0514
 The meeating point ltd,E6 2JA,51.5391,0.0514
 vasantha vilas ltd,E6 2JA,51.5390,0.0514
 Pizza Hut,E6 2JT,51.5334,0.0551
+Steam & Bean Coffee Lounge,E6 2JT,51.5333,0.0548
 Subway,E6 2JT,51.5334,0.0551
 Tasty chicken hut,E6 2SA,51.5337,0.0614
 YAAL UNAVAKAM LTD,E6 2SA,51.5337,0.0614
@@ -1241,6 +1242,7 @@ Aromas tandoori restaurant,E7 9BB,51.5494,0.0222
 Forest Tavern,E7 9BB,51.5494,0.0222
 QUERKY FOREST GATE LTD,E7 9BB,51.5494,0.0222
 Candyfloss Creperie ,E7 9HA,51.5466,0.0245
+Everest Fish and Chips,E7 9HA,51.5465,0.0242
 Everest fish and chips with kebab ,E7 9HA,51.5465,0.0242
 Spice Village,E7 9HA,51.5465,0.0242
 Eastern Palace Restaurant,E7 9HD,51.5462,0.0246
@@ -1277,6 +1279,7 @@ Cirrik   gourmet burger,E8 1LL,51.5480,-0.0575
 Caldera,E8 3FW,51.5391,-0.0569
 Lardo Ltd,E8 3NJ,51.5437,-0.0589
 Patty and Bun,E8 3NJ,51.5437,-0.0589
+Pophams Bakery,E8 3NJ,51.5437,-0.0589
 SAWASDEE AR-HAN-THAI LIMITED,E8 3NS,51.5428,-0.0556
 Tad food ,E8 3NS,51.5427,-0.0556
 Tre  Viet Restaurant,E8 3NS,51.5427,-0.0556
@@ -1306,6 +1309,7 @@ Okko Restaurant,E8 4PH,51.5368,-0.0619
 TXOTX,E8 4PH,51.5368,-0.0619
 Buen Ayre Restaurant,E8 4QJ,51.5368,-0.0615
 Franco Manca,E8 4QJ,51.5366,-0.0616
+Market Cafe,E8 4QJ,51.5366,-0.0616
 The Bach ,E8 4QJ,51.5366,-0.0616
 The Dove Freehouse and Kitchen,E8 4QJ,51.5368,-0.0615
 TURQUOISE KITCHEN,E8 4RG,51.5370,-0.0572
@@ -1362,6 +1366,7 @@ JULIENEST CATERING SERVICES LTD,IG11 8AG,51.5383,0.0781
 CRISTINA'S STEAK LTD,IG11 8AW,51.5366,0.0769
 Caffe Latte,IG11 8DG,51.5379,0.0812
 COSTA COFFEE,IG11 8EA,51.5392,0.0816
+Dixy Chicken,IG11 8EA,51.5393,0.0816
 Kebabish Hut,IG11 8EA,51.5393,0.0816
 SBR Trading Limited T/A Costa Coffee,IG11 8EA,51.5392,0.0816
 KFC,IG11 8EB,51.5391,0.0805
@@ -1631,6 +1636,7 @@ Levante Restaurant ,SE13 6BG,51.4618,-0.0095
 Burger King,SE13 6JG,51.4620,-0.0108
 McDonalds Lewisham,SE13 6JL,51.4604,-0.0114
 Kerala Gardens Limited,SE13 6JU,51.4588,-0.0128
+Lewisham E foods ltd,SE13 6JU,51.4588,-0.0128
 LUH COFFEE LTD T/A MUFFIN BREAK ,SE13 6LQ,51.4544,-0.0166
 Himalaya Restaurant,SE13 6NZ,51.4511,-0.0165
 Star cafe,SE13 6NZ,51.4511,-0.0165
@@ -1653,6 +1659,7 @@ Delicias Colombianas,SE14 5DJ,51.4761,-0.0475
 Hai Shui restaurant Ltd ,SE14 5DS,51.4782,-0.0524
 Skehans Freehouse,SE14 5TW,51.4676,-0.0486
 The Rose Pub & Kitchen,SE14 6AA,51.4749,-0.0397
+Papi's Grill Restaurant and Bar,SE14 6AG,51.4757,-0.0344
 The Pizza Room,SE14 6AJ,51.4756,-0.0290
 NEW CROSS FASTFOOD LTD T/A Wakey Wakey cafe,SE14 6AS,51.4756,-0.0382
 New Cross Inn,SE14 6AS,51.4756,-0.0382
@@ -1903,6 +1910,7 @@ Dirty Apron,SE8 4BX,51.4781,-0.0264
 Lomond,SE8 4BX,51.4781,-0.0264
 Mama’s Jerk ,SE8 4BX,51.4781,-0.0264
 The Brookmill,SE8 4EJ,51.4714,-0.0234
+Bluethroat Bar,SE8 4NS,51.4782,-0.0263
 The Job Centre,SE8 4NS,51.4782,-0.0263
 Marks of Deptford,SE8 4PA,51.4750,-0.0247
 The Coffee Room,SE8 4PA,51.4750,-0.0247
@@ -1914,7 +1922,6 @@ Papa Johns - DEPTFORD,SE8 5BZ,51.4839,-0.0323
 Cafe Mama Pho,SE8 5DG,51.4887,-0.0404
 McDonalds Deptford,SE8 5DQ,51.4897,-0.0425
 The Pear Tree ,SE8 5ER,51.4914,-0.0388
-Lilly's viveliving ltd,SE8 5FS,51.4820,-0.0344
 The Black Horse,SE8 5RE,51.4857,-0.0341
 Le spice,SE9 1BA,51.4506,0.0591
 Ziyafet Restaurant,SE9 1BA,51.4507,0.0591
