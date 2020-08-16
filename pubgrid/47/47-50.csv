@@ -40,6 +40,7 @@ Restaurant Barajee,B1 2DS,52.4777,-1.9103
 Starbucks,B1 2EA,52.4789,-1.9108
 The Craft Experience Limited,B1 2EA,52.4789,-1.9108
 J D Wetherspoon,B1 2HG,52.4765,-1.9124
+Cosy Club Brindley Place,B1 2HL,52.4782,-1.9120
 Gourmet Burger Kitchen,B1 2HL,52.4781,-1.9125
 Pizza Express,B1 2HL,52.4781,-1.9125
 The Alchemist Brindley Place,B1 2HL,52.4782,-1.9120
@@ -80,6 +81,7 @@ AL-URUBA CAFE LIMITED,B10 0SP,52.4708,-1.8619
 CHOICE CAFE LTD,B10 0SP,52.4709,-1.8620
 MSG BIRMINGHAM LTD,B10 0TH,52.4702,-1.8604
 Moka Limited Trading as Chaiiwala,B10 0TH,52.4702,-1.8604
+CHARLIES GOURMET FOOD,B10 0TJ,52.4697,-1.8593
 Abu Zayds Grill,B10 0UF,52.4714,-1.8620
 BADER RESTAURANT LTD,B10 0UF,52.4712,-1.8620
 BUBA JOES,B10 0UF,52.4714,-1.8620
@@ -216,6 +218,7 @@ Beef on the block,B17 0AA,52.4563,-1.9622
 The Kangxi Imperial ,B17 0DS,52.4582,-1.9509
 Hop Garden,B17 0HT,52.4599,-1.9434
 OTTO at the Hop Garden,B17 0HT,52.4599,-1.9434
+Vaibhavam South Indian Restaurant ,B17 0SS,52.4558,-1.9656
 Banu restaurant LIMITED ,B17 8DL,52.4735,-1.9564
 FUTA DINING,B17 8EJ,52.4803,-1.9619
 RAINBOW CAFE,B17 8EJ,52.4803,-1.9619
@@ -462,6 +465,7 @@ Burger King (Uk) Ltd,B42 1AA,52.5171,-1.9029
 Burger King - Perry Barr,B42 1AA,52.5171,-1.9029
 KFC,B42 1AA,52.5177,-1.9031
 Nando's,B42 1AA,52.5176,-1.9031
+Badshah Palace Restaurant Limited,B42 1LR,52.5335,-1.9175
 Goodfillas Cafe,B42 1TY,52.5257,-1.9044
 Veri Peri,B42 1TY,52.5257,-1.9044
 The New Bell,B42 2NX,52.5415,-1.9182
@@ -481,6 +485,7 @@ Marlboro Cafe,B44 8HL,52.5355,-1.8936
 CAFE HOUSE,B44 8QT,52.5380,-1.8791
 Mecca Bingo,B44 9JD,52.5542,-1.8859
 Moonlight Cuisine,B44 9RH,52.5546,-1.8834
+Subway,B5 4AA,52.4774,-1.9025
 Grosvenor Casino Birmingham Hill Street,B5 4AH,52.4774,-1.9012
 Maharaja Restaurant,B5 4AS,52.4751,-1.8983
 tamatanga,B5 4AX,52.4774,-1.9025
@@ -509,10 +514,12 @@ Wagamama,B5 4BU,52.4779,-1.8939
 Wrapchic,B5 4BU,52.4779,-1.8939
 Yo Sushi,B5 4BU,52.4779,-1.8939
 Japan Tsukiji Limited,B5 4DY,52.4766,-1.8988
+Subway,B5 4EB,52.4766,-1.8984
 TAJ MAHAL RESTAURANT,B5 4EJ,52.4763,-1.8977
 Rodroj Coffee Lounge & Restaurant Ltd,B5 4EN,52.4755,-1.8996
 Holiday Inn Birmingham City Centre,B5 4EW,52.4757,-1.8992
 Rodroj Fish & Chips,B5 4HE,52.4752,-1.8991
+Subway,B5 4LJ,52.4763,-1.8977
 OTORO SUSHI,B5 4RQ,52.4761,-1.8951
 Chung Ying Cantonese Restaurant,B5 4RT,52.4754,-1.8975
 LY 968 Limited T/A RuGa Bistro,B5 4RX,52.4760,-1.8964
@@ -569,6 +576,7 @@ Campanile Birmingham,B6 4BE,52.4928,-1.8868
 Coxsone lounge,B6 4DT,52.4956,-1.8859
 Brittons of Birmingham,B6 4JX,52.4924,-1.8936
 THE BARTONS ARMS,B6 4UP,52.4992,-1.8951
+THE REAL THAI LIMITED,B6 4UP,52.4992,-1.8951
 Adian's Dining,B6 4UU,52.4989,-1.8945
 JMRO CAFE,B6 5ET,52.5020,-1.8907
 JMRO STREET FOOD,B6 5HG,52.5025,-1.8933
@@ -710,6 +718,7 @@ Pepe's piri piri,B7 5SA,52.5055,-1.8565
 Pizza Hut Restaurant,B7 5SA,52.5055,-1.8565
 Shere Khan Star City Birmingham,B7 5SA,52.5055,-1.8565
 Shobha's,B7 5SA,52.5055,-1.8565
+Subway,B7 5SA,52.5055,-1.8565
 Zauq Buffet,B7 5SA,52.5055,-1.8565
 Zindabad Restaurant,B7 5SA,52.5055,-1.8565
 Boulder Central,B70 0DG,52.5303,-2.0263
@@ -742,6 +751,7 @@ McDonald's,B70 7QG,52.5182,-1.9939
 McDonalds Restaurants Ltd,B70 7QG,52.5182,-1.9939
 The Great Western Cafe,B70 7QG,52.5182,-1.9939
 THE LITTLE DESERT SHOP WEST BROMWICH,B70 7QZ,52.5178,-1.9921
+Foodrich ,B70 8AQ,52.5194,-1.9958
 German Doner Kebab,B70 8EN,52.5195,-1.9963
 Subway West Bromwich,B70 8NS,52.5203,-1.9956
 Vujon Classical Indian Cuisine,B70 8NS,52.5203,-1.9956
@@ -764,6 +774,7 @@ The Red Lion,B71 1RH,52.5313,-1.9883
 Greedy Pig 2,B71 2BW,52.5371,-1.9914
 Hydes Convenience,B71 2EF,52.5458,-2.0005
 Stone Cross Masala,B71 2JQ,52.5458,-1.9916
+The spinney pub and restaurant ,B71 3EZ,52.5425,-1.9764
 CURRY N GRILL HOUSE,B71 3LH,52.5462,-1.9829
 Lucarelli Italian Restaurant,B71 4AN,52.5231,-1.9872
 Subway,B71 4DL,52.5309,-1.9875
@@ -828,12 +839,13 @@ BRITANNIA INN BAR AND GRILL,DY1 1QU,52.5058,-2.0936
 The Hilly House,DY1 2QH,52.5121,-2.1067
 The Caves Bar & Grill,DY1 3SB,52.5279,-2.0965
 The caves bar &grill,DY1 3SB,52.5279,-2.0965
-A&S Restaurants LTD T/A McDonalds,DY1 4TA,52.5161,-2.0722
-McDonalds Restaurants Limited,DY1 4TA,52.5161,-2.0722
+KFC,DY1 4RL,52.5136,-2.0710
+A&S Restaurants LTD T/A McDonalds,DY1 4TA,52.5158,-2.0711
+McDonalds,DY1 4TA,52.5158,-2.0711
 Nandos Dudley,DY1 4TA,52.5161,-2.0722
 Pizza Hut,DY1 4TA,52.5161,-2.0722
 Tenpin,DY1 4TA,52.5161,-2.0722
-KFC,DY1 4TB,52.5139,-2.0685
+KFC,DY1 4TB,52.5139,-2.0684
 Burger King,DY1 4TD,52.5150,-2.0708
 The Woodman,DY2 0BP,52.4802,-2.0859
 Railway Tavern,DY2 0ST,52.4958,-2.1046
@@ -938,7 +950,7 @@ Alam International Restaurant Limited,DY6 0NP,52.5060,-2.1787
 KFC,DY6 7AP,52.5044,-2.1664
 KFC,DY6 7LE,52.5080,-2.1534
 Alexander Greek Restaurant,DY6 8AA,52.4973,-2.1677
-Cross Balti Limited,DY6 8AA,52.4973,-2.1677
+Cross Balti Limited,DY6 8AA,52.4977,-2.1674
 the bell inn,DY6 8AJ,52.4979,-2.1646
 Zingaz ,DY6 8AW,52.4981,-2.1628
 Costa Coffee,DY6 8WT,52.5002,-2.1516
@@ -1085,6 +1097,7 @@ Costa Coffee,WS11 8XR,52.6745,-2.0227
 Leon @ Roadchef,WS11 9UH,52.6658,-1.9718
 McDonalds @ Roadchef,WS11 9UX,52.6650,-1.9678
 The Trooper,WS14 0AN,52.6564,-1.8572
+Cinnamon Court,WS2 0BP,52.5798,-2.0178
 Cardamom Balti Restaurant & Takeaway,WS2 0DU,52.5852,-2.0242
 Hungry Pigs Cafe,WS2 0DU,52.5853,-2.0245
 BB's Coffee Shop c/o Boundary Mill Stores,WS2 0LE,52.5814,-2.0182
@@ -1093,6 +1106,7 @@ TNS Catering_TJX Europe,WS2 7PT,52.6004,-1.9949
 Light Cinemas Walsall,WS2 8DD,52.5867,-1.9929
 Pizza Express,WS2 8DH,52.5859,-1.9896
 Subway,WS2 8DH,52.5859,-1.9896
+shake and grill,WS2 8EA,52.5924,-1.9856
 DODO Pizza,WS2 8EJ,52.5893,-1.9842
 Subway Restaurant,WS2 8EJ,52.5893,-1.9841
 The Littleton Restaurant,WS2 8ES,52.5895,-1.9825
@@ -1131,6 +1145,7 @@ Penguin cafe,WS3 2XA,52.6048,-1.9920
 The Vintage Tea Room,WS3 2XD,52.6063,-1.9932
 Subway,WS3 3HE,52.6152,-2.0030
 Ashoca,WS3 3JT,52.6146,-2.0039
+ASF INVESTMENTS (BLOXWICH) LTD,WS3 3LN,52.6176,-2.0041
 Delicious-The Finest Indian Cuisine,WS3 3LQ,52.6172,-2.0042
 Mirchi catering ltd,WS3 3UB,52.6296,-2.0132
 one man and his dog ,WS3 3UB,52.6296,-2.0132
@@ -1202,6 +1217,7 @@ Dilshad Indian Restaurant LTD,WV1 1HA,52.5861,-2.1246
 Duke of York ,WV1 1HD,52.5861,-2.1252
 Apna Dera Ltd,WV1 1HP,52.5873,-2.1248
 Jivan’s Balti House,WV1 1HP,52.5873,-2.1249
+Shish Kebab,WV1 1HZ,52.5876,-2.1248
 pepes piri piri,WV1 1JA,52.5874,-2.1256
 Cafe 1896 Limited ,WV1 1JY,52.5897,-2.1234
 2 Sisters Coffee Lounge ,WV1 1ST,52.5860,-2.1262

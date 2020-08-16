@@ -38,6 +38,7 @@ The Why Not Inn,B63 2JH,52.4542,-2.0907
 McDonalds Restaurants,B63 2RG,52.4583,-2.0933
 McDonald’s Lye,B63 2RG,52.4583,-2.0933
 MAHADEV SINGH LIMITED T/A SUBWAY HALESOWEN,B63 3AW,52.4489,-2.0497
+American Slice Halesowen ,B63 3BA,52.4493,-2.0507
 ThinkFresh!,B63 3BG,52.4502,-2.0501
 Bangla Lounge ,B63 3BQ,52.4495,-2.0503
 KFC,B63 3HR,52.4515,-2.0506
@@ -140,6 +141,7 @@ McDonald's,B70 7QG,52.5182,-1.9939
 McDonalds Restaurants Ltd,B70 7QG,52.5182,-1.9939
 The Great Western Cafe,B70 7QG,52.5182,-1.9939
 THE LITTLE DESERT SHOP WEST BROMWICH,B70 7QZ,52.5178,-1.9921
+Foodrich ,B70 8AQ,52.5194,-1.9958
 German Doner Kebab,B70 8EN,52.5195,-1.9963
 Subway West Bromwich,B70 8NS,52.5203,-1.9956
 Vujon Classical Indian Cuisine,B70 8NS,52.5203,-1.9956
@@ -179,12 +181,13 @@ BRITANNIA INN BAR AND GRILL,DY1 1QU,52.5058,-2.0936
 The Hilly House,DY1 2QH,52.5121,-2.1067
 The Caves Bar & Grill,DY1 3SB,52.5279,-2.0965
 The caves bar &grill,DY1 3SB,52.5279,-2.0965
-A&S Restaurants LTD T/A McDonalds,DY1 4TA,52.5161,-2.0722
-McDonalds Restaurants Limited,DY1 4TA,52.5161,-2.0722
+KFC,DY1 4RL,52.5136,-2.0710
+A&S Restaurants LTD T/A McDonalds,DY1 4TA,52.5158,-2.0711
+McDonalds,DY1 4TA,52.5158,-2.0711
 Nandos Dudley,DY1 4TA,52.5161,-2.0722
 Pizza Hut,DY1 4TA,52.5161,-2.0722
 Tenpin,DY1 4TA,52.5161,-2.0722
-KFC,DY1 4TB,52.5139,-2.0685
+KFC,DY1 4TB,52.5139,-2.0684
 Burger King,DY1 4TD,52.5150,-2.0708
 Caffe Nero,DY10 1AA,52.3871,-2.2505
 McDonalds,DY10 1AA,52.3871,-2.2505
@@ -331,7 +334,7 @@ Alam International Restaurant Limited,DY6 0NP,52.5060,-2.1787
 KFC,DY6 7AP,52.5044,-2.1664
 KFC,DY6 7LE,52.5080,-2.1534
 Alexander Greek Restaurant,DY6 8AA,52.4973,-2.1677
-Cross Balti Limited,DY6 8AA,52.4973,-2.1677
+Cross Balti Limited,DY6 8AA,52.4977,-2.1674
 the bell inn,DY6 8AJ,52.4979,-2.1646
 Zingaz ,DY6 8AW,52.4981,-2.1628
 Costa Coffee,DY6 8WT,52.5002,-2.1516
@@ -478,6 +481,7 @@ Nando's,WS10 9QY,52.5655,-2.0086
 Pizza Hut Restaurant,WS10 9QY,52.5655,-2.0086
 Smashburger,WS10 9QY,52.5655,-2.0086
 Buzz Bingo,WS10 9SB,52.5713,-2.0185
+Cinnamon Court,WS2 0BP,52.5798,-2.0178
 Cardamom Balti Restaurant & Takeaway,WS2 0DU,52.5852,-2.0242
 Hungry Pigs Cafe,WS2 0DU,52.5853,-2.0245
 BB's Coffee Shop c/o Boundary Mill Stores,WS2 0LE,52.5814,-2.0182
@@ -507,6 +511,7 @@ Dilshad Indian Restaurant LTD,WV1 1HA,52.5861,-2.1246
 Duke of York ,WV1 1HD,52.5861,-2.1252
 Apna Dera Ltd,WV1 1HP,52.5873,-2.1248
 Jivan’s Balti House,WV1 1HP,52.5873,-2.1249
+Shish Kebab,WV1 1HZ,52.5876,-2.1248
 pepes piri piri,WV1 1JA,52.5874,-2.1256
 Cafe 1896 Limited ,WV1 1JY,52.5897,-2.1234
 2 Sisters Coffee Lounge ,WV1 1ST,52.5860,-2.1262
@@ -592,6 +597,7 @@ The dog inn,WV15 5LF,52.5585,-2.3577
 The Wheel at Worfield,WV15 5NR,52.5534,-2.3496
 The Lion O'Morfe,WV15 5PS,52.5247,-2.3401
 The Cider House ,WV15 6EB,52.4985,-2.3387
+THE RIVER AND RAIL COUNTRY INN,WV15 6HD,52.4757,-2.3723
 Severn Valley Country Park,WV15 6NG,52.4548,-2.3533
 UNICORN INN,WV16 6BN,52.4764,-2.3770
 K Teas Cakes,WV2 1BA,52.5825,-2.1247

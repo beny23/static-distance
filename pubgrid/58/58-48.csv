@@ -152,6 +152,7 @@ Listo Burrito,M1 6ET,53.4753,-2.2415
 Robert & Victor,M1 6ET,53.4753,-2.2415
 Starbucks Coffee,M1 6EY,53.4737,-2.2399
 Pizza Express,M1 6FQ,53.4756,-2.2414
+JAVA STATION LTD,M1 6FU,53.4740,-2.2424
 Peru Perdu - Cotton Factory,M1 6JD,53.4757,-2.2387
 Foundation Coffee House Ltd,M1 6LS,53.4756,-2.2384
 O'Sheas,M1 6NF,53.4752,-2.2386
@@ -240,6 +241,8 @@ Ayas grill Ltd ,M14 4LG,53.4564,-2.2351
 IMOOLUWA RESTAURANT AND BAR LIMITED,M14 4RB,53.4556,-2.2448
 J's chicken and Pizza,M14 4RT,53.4532,-2.2429
 PASHA,M14 5AH,53.4528,-2.2232
+SLEMANI RESTAURANT,M14 5AJ,53.4534,-2.2237
+Al Madina,M14 5AL,53.4545,-2.2252
 Jungle Grill Rusholme,M14 5AL,53.4546,-2.2251
 SYRIANO SYRIAN CUISINE,M14 5AL,53.4546,-2.2251
 AQ Restaurant,M14 5AN,53.4548,-2.2246
@@ -272,6 +275,7 @@ moonlight,M14 5TB,53.4565,-2.2255
 Fresh Almalaky,M14 5TP,53.4570,-2.2265
 AL-JAZERA LIMITED,M14 5TQ,53.4558,-2.2257
 Adam Snacks Ltd,M14 5TQ,53.4558,-2.2257
+Al Safa,M14 5TQ,53.4558,-2.2257
 Falafel,M14 5TQ,53.4554,-2.2255
 Mughli Restaurat,M14 5TQ,53.4558,-2.2257
 Mylahore,M14 5TQ,53.4558,-2.2257
@@ -323,9 +327,11 @@ hulme subway ltd,M15 5TL,53.4676,-2.2491
 Starbucks Cafe - Manchester Metropolitan Students Union,M15 6AD,53.4676,-2.2396
 Hyatt Regency Manchester,M15 6PQ,53.4673,-2.2383
 The Old Abbey Taphouse,M15 6SY,53.4616,-2.2384
+The Crumb Cake Establishment,M16 0AY,53.4476,-2.2699
 Ashiana Takeaway,M16 0BN,53.4509,-2.2723
 Jerk Junction,M16 0DZ,53.4498,-2.2737
 BANDO BOXES,M16 0LH,53.4613,-2.2767
+Saripul,M16 0LN,53.4597,-2.2763
 1887 Sports Bar & Cafe,M16 0PE,53.4615,-2.2789
 Signature Steakhouse at Trafford Hall Hotel,M16 0PE,53.4615,-2.2789
 Caffe Nero,M16 0PX,53.4572,-2.2876
@@ -407,6 +413,7 @@ Food Jungle,M19 3AR,53.4480,-2.1915
 khan chapli kebab ltd,M19 3AR,53.4480,-2.1915
 Lahori Food Limited,M19 3AW,53.4478,-2.1919
 Al Waalis Restaurant,M19 3BF,53.4450,-2.1927
+7ATE6,M19 3BS,53.4455,-2.1912
 The Village Tea Room & Cafe Limited,M19 3NP,53.4417,-2.1893
 fire and ice,M19 3NY,53.4420,-2.1904
 R N RESTAURANT (STOCKPORT) LIMITED,M19 3WN,53.4419,-2.1901
@@ -448,6 +455,7 @@ Caffe Nero,M2 4JN,53.4804,-2.2447
 Subway,M2 4JN,53.4804,-2.2447
 Kala Bistro Limited,M2 4LQ,53.4811,-2.2437
 Miller & Carter,M2 4LQ,53.4811,-2.2436
+Steak House,M2 4LQ,53.4811,-2.2437
 Thai Kitchen No.6 ,M2 4LQ,53.4812,-2.2436
 El Gato Negro Tapas,M2 4LY,53.4811,-2.2458
 Costa Coffee,M2 4PX,53.4793,-2.2438
@@ -674,6 +682,7 @@ Kick Air Manchester Limited,M3 1RR,53.4890,-2.2472
 Mitre Hotel,M3 1SW,53.4847,-2.2441
 Hotel Indigo Manchester - Mamucium,M3 1WU,53.4863,-2.2417
 Costa Coffee,M3 1WY,53.4874,-2.2427
+no 4 cigar alley ltd,M3 1WY,53.4878,-2.2422
 Taco Bell,M3 2AY,53.4829,-2.2462
 Katsouris Deli Ltd,M3 2BQ,53.4810,-2.2475
 BARBURRITO,M3 2BW,53.4822,-2.2468
@@ -848,7 +857,6 @@ VIDA (SALE) LTD,M33 7XY,53.4246,-2.3198
 borrello italian restaurant,M33 7XY,53.4246,-2.3196
 Cafe Se7en Ltd,M33 7XZ,53.4245,-2.3224
 Costa Coffee,M33 7YF,53.4252,-2.3238
-Landmark steak house ,M33 7ZZ,53.4242,-2.3233
 The Dane Bank,M34 2EY,53.4502,-2.1407
 Denton Golf Club Trading Limited,M34 2GG,53.4596,-2.1419
 SALORA GRILL,M34 2WZ,53.4552,-2.1434
@@ -990,6 +998,7 @@ Elnecot,M4 6AJ,53.4847,-2.2287
 NAM,M4 6AJ,53.4846,-2.2293
 SECONDCITY,M4 6AJ,53.4849,-2.2282
 The Counter House ,M4 6AJ,53.4846,-2.2292
+NORTHERNSOULUK LTD,M4 6AX,53.4855,-2.2261
 Northern Soul UK Limited No2,M4 6AX,53.4855,-2.2261
 Sugo Pasta Kitchen Ancoats,M4 6BF,53.4850,-2.2273
 The Hip Hop Chip Shop,M4 6BF,53.4849,-2.2276
@@ -1179,7 +1188,6 @@ Pizza Express Stockport,SK1 1SA,53.4121,-2.1616
 Stay Grounded Limited,SK1 1SA,53.4118,-2.1621
 Zizzi,SK1 1SA,53.4118,-2.1621
 JUNGLE GRILL STOCKPORT LIMITED,SK1 1SE,53.4126,-2.1600
-Landmark steak house,SK1 1SE,53.4125,-2.1599
 Caffe Nero,SK1 1UD,53.4127,-2.1575
 Subway ,SK1 1UD,53.4127,-2.1575
 Pizza Hut Restaurant,SK1 2ED,53.4154,-2.1505
@@ -1503,7 +1511,7 @@ Sigiriya Restaurants Ltd ,WA15 9SD,53.3776,-2.3464
 Victors Hale,WA15 9SD,53.3776,-2.3464
 Costa Coffee,WA15 9SF,53.3764,-2.3459
 The Ashley Hotel,WA15 9SF,53.3770,-2.3460
-Vitos Pizza Kitchen,WA15 9SF,53.3770,-2.3461
+Vitos Pizza Kitchen,WA15 9SF,53.3770,-2.3460
 Gupshup,WA15 9SQ,53.3768,-2.3452
 KAMPAI Sushi Bar & Grill,WA15 9SQ,53.3768,-2.3452
 village cafe hale,WA15 9SZ,53.3762,-2.3438
@@ -1580,6 +1588,7 @@ Turf & Feather,WA3 7PH,53.4221,-2.5351
 McDonald's Birchwood,WA3 7PQ,53.4144,-2.5277
 McDonalds,WA3 7PQ,53.4147,-2.5270
 Pickering Arms,WA4 2SU,53.3836,-2.5246
+Bobs Chicken & Shakes Limited T/A Billy Bobz Chicken & Shakes ,WN7 1DR,53.4970,-2.5186
 Pizza Hut,WN7 1DR,53.4970,-2.5186
 Pizza Hut,WN7 1DR,53.4973,-2.5186
 The Coal Room Ltd,WN7 1DR,53.4970,-2.5186

@@ -35,7 +35,6 @@ Turtle Bay,S1 2GT,53.3816,-1.4725
 GRAZIE,S1 2GY,53.3819,-1.4711
 HUMPIT,S1 2GY,53.3819,-1.4711
 Smokin Bull Burger and Grill,S1 2GY,53.3821,-1.4712
-Landmark steak house ,S1 2HB,53.3804,-1.4710
 Patisserie Valerie,S1 2HB,53.3803,-1.4710
 Pret A Manger,S1 2HE,53.3818,-1.4694
 Starbucks Fargate,S1 2HE,53.3818,-1.4694
@@ -294,6 +293,7 @@ Pepe's Piri Piri,S2 4LH,53.3694,-1.4768
 Saigon68 Vietnamese cafe,S2 4LH,53.3694,-1.4768
 Tin Tin Chinese Restaurant,S2 4LN,53.3727,-1.4770
 Rassams Creamery,S2 4LP,53.3721,-1.4772
+Kings flavour,S2 4LR,53.3711,-1.4776
 La Romantica,S2 4LR,53.3711,-1.4776
 Taco Mex Mexican food LTD,S2 4LR,53.3711,-1.4776
 Taco mex Mexican chef ltd,S2 4LR,53.3711,-1.4776
@@ -338,7 +338,7 @@ Little Snack Bar,S3 7SF,53.3795,-1.4780
 Pizza Express,S3 7SF,53.3795,-1.4780
 Taco Bell,S3 7SF,53.3795,-1.4780
 sweet house ,S3 7SF,53.3795,-1.4780
-Bagel Shack,S3 7SP,53.3753,-1.4842
+Bagel Shack,S3 7SP,53.3756,-1.4837
 UNIT SHEFFIELD,S3 7WB,53.3763,-1.4803
 Icarus and Apollo,S3 8AS,53.3945,-1.4783
 URBAN PIZZA CO,S3 8AS,53.3945,-1.4783
@@ -470,6 +470,7 @@ the potato oven,S5 7AB,53.4066,-1.4535
 Noor pizza,S5 7AE,53.4069,-1.4525
 Northern Perk,S5 7AU,53.4098,-1.4561
 Big Baps,S5 7TR,53.4217,-1.4567
+ Cafe express ,S5 8BA,53.4189,-1.4809
 Pizza Hut Delivery,S6 1LH,53.4207,-1.4926
 Burger King,S6 1LR,53.4151,-1.5016
 Niagara Conference & Leisure,S6 1LU,53.4160,-1.5030
@@ -504,6 +505,7 @@ Lignum.V Caribbean Cafe,S6 4GX,53.4044,-1.5039
 Subway Hillsborough,S6 4GY,53.4032,-1.5017
 ChocoLatte,S6 4HA,53.4042,-1.5033
 Buttercup,S6 4JD,53.4027,-1.5037
+Boxcar willys ,S6 4JQ,53.4020,-1.5030
 Holme lane deli,S6 4JW,53.4013,-1.5058
 Big si's cafe,S6 4JZ,53.4001,-1.5103
 Waterfall Elior,S6 4RH,53.4016,-1.5118
@@ -522,6 +524,7 @@ WISEWOOD INN,S6 6RR,53.4041,-1.5341
 Waterfall Elior,S6 6SG,53.4057,-1.5343
 Nags Head Inn,S6 6SJ,53.4112,-1.5682
 Sabirs grill,S60 1AS,53.4285,-1.3574
+Big Apple Play City,S60 1DE,53.4251,-1.3609
 GW Boutique Hotel,S60 1DJ,53.4211,-1.3684
 Magna Science Adventure Centre,S60 1DX,53.4183,-1.3850
 Toyoda Gosei Canteen,S60 1FB,53.4249,-1.3751
@@ -678,7 +681,7 @@ The Victorian Tea Rooms,S70 2QN,53.5535,-1.4806
 8oz Burger Co. Limited T/as Backyard BBQ,S70 2QP,53.5533,-1.4804
 Cafe Creme Barnsley,S70 2QP,53.5533,-1.4805
 Lemon Tree ,S70 2QT,53.5527,-1.4819
-Food hub barnsley,S70 2QX,53.5522,-1.4830
+Food hub barnsley,S70 2QX,53.5522,-1.4829
 The Pavilion Bar and Kitchen,S70 2RD,53.5535,-1.4869
 KFC,S70 2RL,53.5524,-1.4854
 Taco Bell,S70 2RL,53.5526,-1.4850
@@ -704,6 +707,7 @@ KFC,S71 1NG,53.5681,-1.4718
 Barnsley Bowl Ltd,S71 2AZ,53.5734,-1.4629
 The Full House ,S71 2NW,53.5631,-1.4602
 Audreys coffee house ,S71 5EZ,53.5420,-1.4041
+Abbey Fisheries,S71 5PN,53.5577,-1.4385
 The Mill of the Black Monks,S71 5QF,53.5529,-1.4405
 Squires Bar,S73 0DA,53.5219,-1.3978
 The Kitchen Witch Company,S73 0DA,53.5218,-1.3978
@@ -717,7 +721,6 @@ Coffee Thyme,S73 8HS,53.5235,-1.4007
 Palace Balti Hut Ltd,S73 8HS,53.5235,-1.4007
 The Courtyard ,S73 8HS,53.5235,-1.4007
 Thai 25 Street Food Ltd,S73 8HT,53.5249,-1.4032
-Abbey Fisheries,S73 8SN,53.5322,-1.4176
 THAAL (SOUTH YORKSHIRE) LIMITED,S73 9HH,53.5361,-1.3684
 Mumbai lounge (Barnsley) ltd,S73 9JA,53.5352,-1.3619
 Hare & Hounds,S74 0DQ,53.4977,-1.4664

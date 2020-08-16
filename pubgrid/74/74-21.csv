@@ -31,6 +31,7 @@ Caffe Nero,BT1 1RB,54.6000,-5.9288
 The Monico Bars ,BT1 1RB,54.6000,-5.9288
 Bright's Restaurant,BT1 2AA,54.5996,-5.9276
 Starbucks,BT1 2AA,54.5996,-5.9276
+isabeals cafe,BT1 2AA,54.5996,-5.9276
 River Coffee House Ltd,BT1 2BE,54.6004,-5.9265
 The National Grande Café,BT1 2BE,54.6005,-5.9260
 Pizza Punks ,BT1 2DX,54.6006,-5.9270
@@ -190,7 +191,6 @@ Tandoori Flame,BT11 9AN,54.5754,-5.9821
 Temple restaurant,BT11 9AN,54.5754,-5.9821
 McDonald's Restaurant Westwood,BT11 9AP,54.5766,-5.9775
 McDonalds,BT11 9AP,54.5766,-5.9775
-No Limit Sit Bar,BT11 9AP,54.5781,-5.9822
 No Limits Fitbar,BT11 9AP,54.5781,-5.9822
 PIZZABAKER INVEST UK LTD,BT11 9BT,54.5742,-5.9865
 Chip Co Andersonstown,BT11 9BU,54.5739,-5.9878
@@ -527,7 +527,6 @@ General Merchants,BT4 3LL,54.5942,-5.8481
 The Stormont Hotel  Belfast,BT4 3LP,54.5943,-5.8416
 Dunadry Hotel and Gardens ,BT41 2HA,54.6989,-6.1428
 Ellie Mays ,BT41 2HH,54.6984,-6.1345
-Yvonne Simpson,BT41 4SD,54.6863,-6.2013
 SPICE TEMPLEPATRICK,BT41 4TF,54.6753,-6.1659
 McDonald's Restaurant,BT5 4AF,54.5976,-5.8924
 Catherine Napier,BT5 4LA,54.5972,-5.9087
