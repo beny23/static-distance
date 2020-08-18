@@ -75,7 +75,6 @@ Royal Oak Carvery,BL5 3ND,53.5704,-2.5491
 La Scala Westhoughton,BL5 3PD,53.5606,-2.5255
 Casa Nostra,BL5 3RS,53.5500,-2.5250
 Camerons Catering Ltd,BL5 3RZ,53.5514,-2.5244
-Portabello ,BL5 3RZ,53.5514,-2.5244
 Airvault Trampoline Park,BL5 3XU,53.5560,-2.5337
 Queen Anne Inn ,BL9 8JH,53.5634,-2.2724
 McDonald's Store 946 Pilsworth,BL9 8RD,53.5744,-2.2736
@@ -100,6 +99,7 @@ Baxterstorey,M16 0TW,53.4595,-2.2828
 SPICES OF KASHMIR TRAFFORD LTD,M16 7GS,53.4584,-2.2676
 The Hungry Fish,M16 7GS,53.4584,-2.2676
 Emma’s cafe,M17 1JE,53.4660,-2.3102
+Johns Diner Trafford Park Ltd,M17 1SD,53.4750,-2.3311
 Five Guys,M17 8AA,53.4662,-2.3490
 Haute Dolci,M17 8AA,53.4662,-2.3490
 Leon Restaurants,M17 8AA,53.4662,-2.3490
@@ -153,6 +153,7 @@ MAYURA FOODS LIMITED t/a SAI SPICE ,M21 7SP,53.4353,-2.2637
 Mayurafoods ltd t/a Sai spice ,M21 7SP,53.4353,-2.2637
 Olive & Thyme,M21 8AD,53.4417,-2.2761
 TUTKU CAFE,M21 8AD,53.4417,-2.2761
+CHULA LIMITED,M21 8AE,53.4415,-2.2767
 Dessert Republic,M21 8AE,53.4415,-2.2767
 Jasmine Restaurant,M21 8AE,53.4417,-2.2768
 The Little Yeti,M21 8AG,53.4385,-2.2752
@@ -194,6 +195,7 @@ Proof,M21 9PH,53.4444,-2.2781
 Barbakan Delicatessen,M21 9PW,53.4455,-2.2785
 Tea Hive ,M21 9PW,53.4455,-2.2785
 Flavour Factory,M22 1SG,53.3769,-2.2802
+Britannia Airport Hotel Northenden,M22 4FH,53.4071,-2.2657
 Britannia Airport Hotel,M22 4FH,53.4071,-2.2657
 Scanditalia Limited,M23 0BQ,53.4106,-2.2767
 FAYROUZ RESTAURANT LTD,M23 0FF,53.4124,-2.2801
@@ -284,6 +286,7 @@ The Delph Restaurant & Bar,M28 2NL,53.5004,-2.3796
 George's Dining Room and Bar,M28 2PD,53.4987,-2.3807
 Tempo,M28 2QT,53.5054,-2.3909
 DUE AMICI,M28 3JE,53.5231,-2.3997
+Koi Sushi & Oriental,M28 3JE,53.5231,-2.3997
 Hug in a Mug,M28 3JH,53.5238,-2.4002
 Bulls Head (Wetherspoons),M28 3NJ,53.5242,-2.4002
 Jacobs Butty Bar,M28 3QW,53.5356,-2.4000
@@ -452,6 +455,7 @@ Raya restaurant Whitefield ,M45 6QF,53.5485,-2.2939
 Sindhoor ,M45 6QF,53.5485,-2.2939
 Coffee n spice ,M45 6TF,53.5392,-2.2801
 Bluebay Restaurant limited ,M45 6TL,53.5400,-2.2831
+EAST Z EAST,M45 7EG,53.5423,-2.2907
 McDonald's Store 409 Whitefield,M45 7EG,53.5423,-2.2907
 McDonalds Restaurants Ltd,M45 7EG,53.5423,-2.2907
 Whitefield Coffee Shop,M45 7HL,53.5426,-2.3057
@@ -473,7 +477,6 @@ The Gardeners,M46 0PG,53.5171,-2.5098
 McDonald's Tyldesley,M46 9AT,53.5163,-2.4758
 McDonalds Restaurants Ltd,M46 9AT,53.5163,-2.4758
 The Cabinet,M46 9DE,53.5237,-2.4896
-Portabello,M46 9JY,53.5268,-2.4855
 RAMA SPICE ,M46 9LF,53.5287,-2.4781
 Pot Kettle Black Coffee Limited,M5 2BW,53.4812,-2.2804
 AC Hotel by Marriott Manchester Salford Quays,M5 3AW,53.4716,-2.2821
@@ -524,6 +527,7 @@ THE BENGAL BALTI RESTAURANT,M6 6DE,53.4977,-2.2749
 Chartwells at Costa Coffee,M6 6PU,53.4884,-2.2786
 Golden Kitchen ,M6 8HA,53.4888,-2.3262
 subway,M6 8HA,53.4888,-2.3268
+The Treehouse Cafe,M7 2HQ,53.5003,-2.2699
 Bar MCR,M90 1QX,53.3619,-2.2709
 Burger King,M90 1QX,53.3619,-2.2709
 Caffe Nero,M90 1QX,53.3619,-2.2709
@@ -712,6 +716,7 @@ Sigiriya Restaurants Ltd ,WA15 9SD,53.3776,-2.3464
 Victors Hale,WA15 9SD,53.3776,-2.3464
 Costa Coffee,WA15 9SF,53.3764,-2.3459
 The Ashley Hotel,WA15 9SF,53.3770,-2.3460
+The Ashley,WA15 9SF,53.3770,-2.3460
 Vitos Pizza Kitchen,WA15 9SF,53.3770,-2.3460
 Gupshup,WA15 9SQ,53.3768,-2.3452
 KAMPAI Sushi Bar & Grill,WA15 9SQ,53.3768,-2.3452
@@ -899,6 +904,7 @@ Foodie Cafe & Resto,WN3 5BD,53.5396,-2.6403
 McDonalds ,WN3 6XA,53.5202,-2.6530
 McDonalds,WN3 6XA,53.5202,-2.6530
 Velocity Leisure Ltd Wigan,WN3 6XU,53.5176,-2.6543
+BURAQ,WN4 0AR,53.5009,-2.6474
 Workin Lunch Ltd (Rustic Kitchen),WN4 0AR,53.5009,-2.6474
 Park Hotel,WN4 0BY,53.5096,-2.6506
 Shawcross Care Home - Elior,WN4 8TU,53.4946,-2.6252

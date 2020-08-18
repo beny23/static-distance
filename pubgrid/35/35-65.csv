@@ -25,6 +25,7 @@ Caffe Nero,CM16 4DA,51.7009,0.1135
 dada cofe,CM16 4HA,51.6976,0.1107
 Miller & Carter,CM16 5HW,51.6765,0.0639
 Cinnamon,CM16 6BY,51.7166,0.1679
+AVIATION EVENTS LTD,CM16 6HR,51.7149,0.1550
 Wings Cafe Ltd,CM16 6HR,51.7194,0.1577
 Indian Ocean,CM16 7ES,51.6719,0.1000
 NEXTSPICE LTD,CM16 7EU,51.6715,0.1023
@@ -214,6 +215,7 @@ Coffee Boxx ,E17 3LL,51.5885,-0.0040
 Indie roots,E17 3LL,51.5885,-0.0040
 Teras barbeque ,E17 3LL,51.5885,-0.0040
 Dudley's,E17 3LX,51.5874,-0.0035
+Strawberry Hill ,E17 3LX,51.5873,-0.0034
 The sultan ,E17 3NT,51.5848,-0.0011
 MyShish,E17 3PR,51.5932,0.0092
 Corner Coffee Shop,E17 4AT,51.5917,-0.0058
@@ -310,6 +312,7 @@ Scoffs Essex Ltd t/a Costa Coffee Walthamstow Station,E17 9QF,51.5828,-0.0195
 Olive Dining at Walthamstow School for Girls,E17 9RZ,51.5853,-0.0140
 Asan shahid ltd,E18 1AD,51.5925,0.0263
 Little Woodford Cafe,E18 1AD,51.5926,0.0261
+Posh Nosh Cafe,E18 1AD,51.5926,0.0261
 Kome Express,E18 1AG,51.5921,0.0271
 Kome express Ltd,E18 1AG,51.5921,0.0271
 Tipi Coffee Co.,E18 1AN,51.5927,0.0267
@@ -322,6 +325,7 @@ Zizzi,E18 1GN,51.5948,0.0230
 NINA'S CAFE,E18 1HB,51.5949,0.0358
 JAIPUR FOODS LIMITED,E18 1JJ,51.5918,0.0282
 Ana's Cakes and Coffee,E18 1JN,51.5924,0.0303
+Nutritions4sport,E18 1LS,51.5905,0.0322
 Ark Fish Restaurant ,E18 1QH,51.5884,0.0283
 Ninos Restaurant,E18 2LY,51.5951,0.0232
 Pizza Hut,E18 2LY,51.5951,0.0232
@@ -828,6 +832,7 @@ McDonald's Newbury Park,IG2 7RH,51.5739,0.0842
 Newbury Park Hotels Ltd,IG2 7RH,51.5742,0.0854
 Miller & Carter at the Dick Turpin,IG2 7TD,51.5861,0.1027
 delhi o delhi,IG3 8BY,51.5632,0.0976
+Pit-Stop FF Limited,IG3 8EG,51.5628,0.0927
 Pit-Stop,IG3 8EG,51.5628,0.0927
 Kings grill restaurant ,IG3 8EZ,51.5714,0.0960
 Masala 910,IG3 8JB,51.5722,0.0952
@@ -904,6 +909,7 @@ Prezzo Restaurant,IG8 0XA,51.6093,0.0223
 Miller & Carter,IG8 0XG,51.6094,0.0211
 Pizza Hut,IG8 7HU,51.6081,0.0372
 Blengold Limited,IG8 7QF,51.6075,0.0353
+Temple Indian Fusion,IG8 7QF,51.6075,0.0353
 Costa Coffee,IG8 8AH,51.6062,0.0542
 Scoffs Essex Ltd t/a Costa Coffee Woodford Bridge,IG8 8AH,51.6062,0.0542
 SPICE OF CHIGWELL LIMITED,IG8 8AL,51.6067,0.0554
@@ -1059,6 +1065,7 @@ Pelican Cafe,N14 4EY,51.6468,-0.1346
 Ya Souvlaki,N14 4UT,51.6476,-0.1319
 Jazba ,N14 4XA,51.6488,-0.1292
 PIPON LTD,N14 4XA,51.6488,-0.1292
+The Coriander,N14 4XA,51.6488,-0.1292
 Love Brownies,N14 5BJ,51.6321,-0.1282
 Nando's,N14 5BJ,51.6321,-0.1282
 Southgate Kebab,N14 5BJ,51.6321,-0.1282
@@ -1134,6 +1141,7 @@ Loaded Gourmet burgers and fries,N16 0LH,51.5626,-0.0738
 Three Crowns,N16 0LH,51.5626,-0.0738
 Yum Yum Thai Restaurants ltd,N16 0LH,51.5623,-0.0739
 Karnaphuli Restaurant,N16 0LU,51.5622,-0.0748
+Primavera 16 limited ,N16 0LU,51.5622,-0.0749
 Whole Foods Market - Stoke Newington,N16 0LU,51.5622,-0.0749
 lulu Shanghai ,N16 0LU,51.5622,-0.0749
 Fuji Japanese restaurant ,N16 0NX,51.5620,-0.0753
@@ -1188,6 +1196,7 @@ Hasan Meze & Mangal,N16 7XN,51.5510,-0.0748
 Leo's Cafe,N16 7XN,51.5510,-0.0748
 The Old Dalston Organic Coffee,N16 7XN,51.5510,-0.0748
 Chemen Catering Ltd,N16 8AA,51.5540,-0.0752
+Bun & Bar Dalston Limited ,N16 8BH,51.5510,-0.0754
 eco 98 limited,N16 8BH,51.5509,-0.0754
 Biff's Jack Shack,N16 8BJ,51.5516,-0.0753
 Hanimeli Restaurant ,N16 8BJ,51.5518,-0.0754
@@ -1300,7 +1309,6 @@ Coffee Bank,N2 8AE,51.5904,-0.1647
 Aritan Limited,N2 8AG,51.5908,-0.1650
 Table du Marche,N2 8AG,51.5907,-0.1649
 McDonalds Restaurants Ltd,N2 8AW,51.5879,-0.1645
-The Windsor Castle Pub,N2 8DL,51.5936,-0.1712
 Il Piccolo Villaggio ,N2 8DR,51.5932,-0.1718
 oasis restaurant,N2 8DX,51.5944,-0.1694
 Genzo Greek,N2 9AY,51.5932,-0.1669
@@ -1467,6 +1475,7 @@ SIMIT SARAYI GREEN LANES LTD ,N4 1AQ,51.5798,-0.0990
 THE FINSBURY (LDN) LIMITED,N4 1BY,51.5719,-0.0964
 McDonalds Restaurant Haringey (0424),N4 1DR,51.5772,-0.0980
 Costa Coffee,N4 1ED,51.5764,-0.0975
+Subway,N4 1ED,51.5764,-0.0975
 Papa Johns - HARRINGAY,N4 1EU,51.5778,-0.0991
 Bianca pizzeria,N4 1EY,51.5785,-0.0993
 COSTA COFFEE,N4 1EY,51.5786,-0.0993
@@ -1487,6 +1496,7 @@ Dotori,N4 2DQ,51.5647,-0.1052
 Pret A Manger,N4 2DQ,51.5647,-0.1053
 BALAGERU RESTURANT,N4 2DW,51.5634,-0.1033
 Lara's Restaurant,N4 2DW,51.5634,-0.1033
+Paella Shack by London Paella School,N4 2DX,51.5613,-0.0995
 Pizzadelique ,N4 2EA,51.5608,-0.1006
 Brownswood Park Tavern,N4 2EX,51.5642,-0.0929
 Company of Cooks,N4 2EY,51.5634,-0.0919
@@ -1703,6 +1713,7 @@ Ridge Cafe,N8 9BG,51.5832,-0.1169
 sumak restaurants limited,N8 9BJ,51.5825,-0.1184
 The breakfast hub,N8 9BT,51.5821,-0.1196
 Miranda Cafe,N8 9DB,51.5814,-0.1214
+Armony Cafe Ltd,N8 9DE,51.5805,-0.1225
 The Queens,N8 9DE,51.5805,-0.1225
 BEER & BURGER CROUCH END,N8 9DG,51.5822,-0.1110
 Pho @,N8 9DG,51.5822,-0.1110
@@ -1786,6 +1797,7 @@ Joe & The Juice,NW3 1QH,51.5562,-0.1780
 Melrose and Morgan Ltd,NW3 1QN,51.5558,-0.1784
 VENCHI UK HAMPSTEAD,NW3 1QP,51.5559,-0.1777
 GINGER&WHITE,NW3 1QS,51.5557,-0.1778
+Manis ,NW3 1QS,51.5557,-0.1778
 Alp's Kitchen,NW3 2AE,51.5516,-0.1661
 Franco Manca,NW3 2AE,51.5516,-0.1661
 KFC HAMPSTEAD,NW3 2AE,51.5516,-0.1661
@@ -1980,6 +1992,7 @@ Chookys Peri Peri,RM5 3PH,51.5998,0.1631
 Veyso's Restaurant,RM5 3PH,51.5999,0.1632
 BOLLYWOOD SPICE (ESSEX) LTD,RM5 3PJ,51.6001,0.1648
 Pizza Hut Delivery,RM5 3PJ,51.6001,0.1648
+London Dhaba Limited,RM6 4AL,51.5706,0.1288
 KFC Chadwell Heath,RM6 4AU,51.5697,0.1248
 Indian Fusion,RM6 4BE,51.5701,0.1306
 Nando's,RM6 4HX,51.5673,0.1183

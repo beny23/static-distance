@@ -71,6 +71,7 @@ Mecca Bingo,FY1 3HJ,53.8148,-3.0495
 The Brew Room,FY1 3NX,53.8178,-3.0469
 Tea and Vintage Tearoom,FY1 3NY,53.8178,-3.0459
 american pizza city,FY1 3PX,53.8186,-3.0440
+american pizza and chicken,FY1 3RX,53.8234,-3.0411
 Harry Ramsdens,FY1 4BJ,53.8160,-3.0552
 Blackpool Resort Coffee Lounge,FY1 4BW,53.8129,-3.0497
 Raikes Hall,FY1 4HE,53.8181,-3.0404
@@ -133,6 +134,7 @@ Blackpool North Shore Golf Club,FY2 0RD,53.8399,-3.0433
 the fishery,FY2 0TN,53.8327,-3.0407
 Ciao Ciao,FY2 0TW,53.8335,-3.0416
 Norbreck Castle Hotel Blackpool,FY2 9AA,53.8584,-3.0484
+Norbreck Castle,FY2 9AA,53.8584,-3.0484
 The Stone Grill,FY2 9HD,53.8521,-3.0517
 Cafe Royal,FY2 9HN,53.8499,-3.0522
 Bispham Kitchen,FY2 9HR,53.8495,-3.0516
@@ -151,7 +153,9 @@ Savoy Hotel Blackpool,FY2 9SJ,53.8342,-3.0542
 The 4 seasons eatery,FY3 0AY,53.8229,-2.9984
 The plough inn,FY3 0BX,53.8176,-2.9905
 Staining lodge golf course,FY3 0DE,53.8155,-2.9853
+american pizza and chicken,FY3 7AJ,53.8273,-3.0367
 Chick filla fried & grilled chicken ,FY3 7AS,53.8264,-3.0378
+american pizza and chicken,FY3 7AS,53.8264,-3.0378
 Mr Nitro's Ice Cream & Desserts (Layton),FY3 7BJ,53.8283,-3.0307
 SUBWAY,FY3 7BJ,53.8283,-3.0306
 Lyttles hidden gem,FY3 7UN,53.8364,-3.0247
@@ -268,6 +272,7 @@ J D WETHERSPOON PLC,FY6 7SR,53.8451,-2.9925
 SENIORS POULTON,FY6 7ST,53.8466,-2.9954
 Costa Coffee,FY6 7UR,53.8468,-2.9946
 fortitude fitness nw ltd,FY6 8JE,53.8434,-2.9719
+Thingamajigz,FY6 8JS,53.8443,-2.9732
 The Miller Arms,FY6 8LL,53.8365,-2.9410
 singleton lodge country house hotel LTD,FY6 8LT,53.8437,-2.9452
 The Captain’s Table,FY6 8NB,53.8528,-2.9286
@@ -356,7 +361,6 @@ Andreas Fish and Chips,PR1 0QB,53.7489,-2.7343
 The Cow Shed,PR1 0QB,53.7489,-2.7339
 Booths,PR1 0XW,53.7360,-2.7310
 The Stanley Arms,PR1 1DA,53.7589,-2.6974
-Black A Moor Head Restaurant,PR1 1DD,53.7605,-2.6982
 Home Bakery ,PR1 1FB,53.7609,-2.6978
 Level,PR1 1HT,53.7596,-2.6975
 house of gelato,PR1 1NA,53.7701,-2.7046
@@ -371,7 +375,6 @@ The Cafe Bar,PR1 2AA,53.7573,-2.7018
 Turtle Bay,PR1 2AP,53.7586,-2.6990
 Cafune - South American Cafe,PR1 2AR,53.7591,-2.6998
 Nando's,PR1 2AR,53.7590,-2.6997
-Eat Box Restaurant,PR1 2AT,53.7607,-2.7045
 Istanbul shawarma ,PR1 2AT,53.7606,-2.7045
 Shahzaad Tandoori Restaurant ,PR1 2AT,53.7606,-2.7045
 Town House Coffee and Brew Bar,PR1 2AT,53.7606,-2.7045
@@ -408,7 +411,6 @@ Burger King,PR1 2NQ,53.7589,-2.7018
 Burger king- Preston St George,PR1 2NQ,53.7589,-2.7018
 Raffles coffee house,PR1 2NQ,53.7589,-2.7017
 The Harris Cafe,PR1 2PP,53.7593,-2.6984
-Adrian Livesey Restaurant,PR1 2QL,53.7616,-2.6994
 BALUGA BAR & CLUB,PR1 2QY,53.7588,-2.6980
 Heavenly Desserts,PR1 2QY,53.7588,-2.6980
 ICEBURG,PR1 2QY,53.7587,-2.6983
@@ -423,6 +425,7 @@ Smoke and grill ,PR1 2RQ,53.7622,-2.7040
 street food preston ltd,PR1 2RQ,53.7622,-2.7040
 the new york pizza co preston,PR1 2RQ,53.7622,-2.7040
 Taste Tea,PR1 2UP,53.7579,-2.7060
+Yogyums,PR1 2UP,53.7578,-2.7060
 A&R Fast Food Ltd/TA German Doner kebab,PR1 2UT,53.7588,-2.7046
 KASPAS NORTH WEST LTD,PR1 2UT,53.7589,-2.7037
 Subway,PR1 2XQ,53.7639,-2.7099
@@ -452,7 +455,6 @@ Flipout Preston,PR1 4LQ,53.7607,-2.6827
 The Destination ,PR1 4LQ,53.7588,-2.6839
 top cafe,PR1 5EB,53.7664,-2.6794
 THE VENUE PRESTON LTD,PR1 5LG,53.7634,-2.6886
-Kebabistan Restaurant,PR1 5NX,53.7610,-2.6852
 Firdous Limited,PR1 5UT,53.7667,-2.6761
 Rosemary on the Park,PR1 6AU,53.7750,-2.6959
 Fiza Foods Ltd,PR1 6PZ,53.7652,-2.6924
@@ -482,7 +484,6 @@ McDonald's Restaurants Ltd,PR1 8HJ,53.7570,-2.7058
 McDonalds Restaurants Ltd,PR1 8HJ,53.7570,-2.7058
 Starbucks Coffee Co,PR1 8HJ,53.7570,-2.7058
 Starbucks Fishergate,PR1 8HL,53.7568,-2.7058
-Ashwood Restaurant,PR1 8JB,53.7558,-2.7112
 Origin Juice and Brew Bar,PR1 8JB,53.7555,-2.7118
 The Continental,PR1 8JP,53.7506,-2.7089
 Pavilion Cafe,PR1 8JT,53.7531,-2.7030
@@ -505,7 +506,6 @@ McDonald's Restaurants Ltd,PR2 2TX,53.7622,-2.7418
 McDonalds Restaurant,PR2 2TX,53.7622,-2.7418
 The Beach Hut Cafe Bar,PR2 2YP,53.7608,-2.7432
 KFC,PR2 2YQ,53.7603,-2.7271
-The Brook Tavern Restaurant,PR2 3AH,53.7743,-2.7163
 Plungington Hotel,PR2 3AR,53.7767,-2.7178
 Preston Golf Club,PR2 4DD,53.7830,-2.6859
 TVC Cafe,PR2 7BX,53.7866,-2.7453
@@ -558,7 +558,6 @@ The Cartford Inn,PR3 0YP,53.8586,-2.8817
 Courtyard caffe,PR3 0ZB,53.8545,-2.8724
 The Great Eccleston Fish Bar,PR3 0ZB,53.8545,-2.8724
 The Green Man,PR3 2LP,53.8516,-2.6897
-Barton Grange Restaurant,PR3 5AA,53.8330,-2.7379
 The Pickled Goose,PR3 5AA,53.8330,-2.7379
 Walled Garden Restaurant,PR3 5AA,53.8331,-2.7379
 Barton bangla brasserie limited,PR3 5AB,53.8389,-2.7400

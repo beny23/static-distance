@@ -251,6 +251,7 @@ Bell Amico Limited,KT14 6NF,51.3390,-0.5053
 New Haweli,KT14 6NF,51.3390,-0.5054
 FirstPort - Barnes Wallis Court,KT14 7HJ,51.3403,-0.4739
 The Queens Head,KT14 7QG,51.3397,-0.4807
+Judy's Mezza,KT14 7QL,51.3388,-0.4771
 Rajput ,KT14 7QL,51.3388,-0.4771
 Lal Rose Ltd,KT14 7RG,51.3380,-0.4706
 Blue Anchor Byfleet Limited,KT14 7RL,51.3381,-0.4696
@@ -263,6 +264,7 @@ Zeal Indian restaurants ,KT15 1JH,51.3630,-0.5068
 The Waggon And Horses,KT15 1QH,51.3713,-0.4968
 CAFE DIEST LTD,KT15 2AF,51.3713,-0.4898
 KFC,KT15 2AR,51.3717,-0.4892
+Mystica Indian Restaurant,KT15 2AT,51.3721,-0.4860
 KHAN HALAL LIMITED,KT15 2BD,51.3725,-0.4846
 taj mahal tandoori,KT15 2BD,51.3725,-0.4846
 Costa Coffee,KT15 2BQ,51.3715,-0.4873
@@ -608,6 +610,7 @@ Comptoir V,NW10 5RU,51.5342,-0.2198
 Eat Sushi ,NW10 5RX,51.5340,-0.2195
 Le Comptoir ,NW10 5RX,51.5340,-0.2195
 WHITE BIRD LTD,NW10 6EG,51.5282,-0.2505
+Damascino house,NW10 6EU,51.5281,-0.2642
 LEVANT BOOK CAFE LTD,NW10 6EU,51.5281,-0.2642
 The Collective Bar & Kitchen,NW10 6FF,51.5290,-0.2504
 Little Beirut,NW10 6HJ,51.5294,-0.2645
@@ -725,6 +728,7 @@ Rose and Crown,SL2 4PW,51.5497,-0.5835
 Aromat Kuchni,SL2 5AH,51.5140,-0.5935
 Holiday Inn Express Slough,SL2 5DD,51.5122,-0.5901
 Waterfall Elior at IQRA Primary School,SL2 5FF,51.5163,-0.5815
+SITE CAFE,SL2 5NA,51.5121,-0.5768
 Waterfall Elior at St Ethelberts School and Nursery,SL2 5QR,51.5238,-0.5828
 Golden Cross ,SL3 0BN,51.4712,-0.5179
 Riverside Cafe,SL3 0EH,51.4847,-0.5112
@@ -1044,6 +1048,7 @@ Justin James Hotel / Lu-Ma Cafe,SW19 4JZ,51.4204,-0.2112
 Justin James Hotel Trading Limited,SW19 4JZ,51.4204,-0.2112
 FH WIMBLEDON LTD,SW19 4QW,51.4228,-0.2175
 Light house ,SW19 4ST,51.4210,-0.2202
+Hotel Du Vin Wimbledon,SW19 4UE,51.4237,-0.2326
 Fox and Grapes,SW19 4UN,51.4266,-0.2307
 Royal Wimbledon Golf Club,SW19 4UW,51.4261,-0.2327
 Wimbledon Common Golf Club,SW19 4UW,51.4260,-0.2327
@@ -1105,6 +1110,7 @@ SELEKT Chicken,SW6 1NN,51.4849,-0.2019
 JAFFA BAKE HOUSE,SW6 1NP,51.4836,-0.2009
 Afrik'N'Fusion,SW6 1NQ,51.4831,-0.2009
 Joe & Co. Burgers,SW6 1NR,51.4832,-0.2006
+Subway,SW6 1NR,51.4832,-0.2006
 Pizza at Home,SW6 1TL,51.4858,-0.2021
 The Lily Tandoori,SW6 1TL,51.4858,-0.2021
 IRO SUSHI ,SW6 1UD,51.4855,-0.2020
@@ -1248,6 +1254,7 @@ The New Inn (Ham) Limited,TW10 7DB,51.4372,-0.3049
 RAILWAY PUB,TW11 0BB,51.4240,-0.3327
 The Pheasantry Cafe,TW11 0EW,51.4158,-0.3313
 Elior UK at National Physical Laboratory,TW11 0LW,51.4266,-0.3439
+The Wharf Teddington,TW11 8BG,51.4308,-0.3253
 The Shack 68,TW11 8DE,51.4308,-0.3337
 Cafe Benedict,TW11 8EW,51.4270,-0.3329
 Milos Cafe Limited,TW11 8EW,51.4270,-0.3329
@@ -1510,9 +1517,11 @@ Burger King  Unit 3-5 Food Court,TW3 1ES,51.4681,-0.3630
 Burger King- Hounslow,TW3 1ES,51.4681,-0.3630
 Mall Cafe,TW3 1ES,51.4682,-0.3624
 Minoffles Ltd,TW3 1ES,51.4682,-0.3624
+Noodle stop ,TW3 1ES,51.4681,-0.3630
 SOFRESH KITCHEN,TW3 1ES,51.4681,-0.3630
 Subway,TW3 1ES,51.4681,-0.3630
 Tapori Hounslow,TW3 1ES,51.4681,-0.3630
+YALLA BEIRUT ,TW3 1ES,51.4681,-0.3630
 Georginos Caffe Italiano,TW3 1HB,51.4683,-0.3659
 McDonald's Hounslow,TW3 1HE,51.4689,-0.3629
 McDonalds,TW3 1HE,51.4689,-0.3629
@@ -2174,6 +2183,7 @@ CH&Co Events,W12 7NS,51.5087,-0.2229
 BA White city ,W12 7RQ,51.5120,-0.2223
 Ping Pong Shepherd's Bush ,W12 7SH,51.5094,-0.2203
 Wheelcake Island,W12 7SH,51.5094,-0.2203
+MANDALOUN LTD,W12 7SL,51.5081,-0.2237
 Spaghetti House,W12 7SL,51.5081,-0.2237
 Tapas Revolution Westfield White City,W12 7SL,51.5081,-0.2237
 You Me Sushi  ,W12 7SL,51.5081,-0.2237
@@ -2479,6 +2489,7 @@ Mcdonald's Alperton,W5 1DN,51.5332,-0.2968
 Nosh 'n' Go ltd,W5 1EE,51.5315,-0.2924
 saray palace restaurant,W5 1EE,51.5315,-0.2924
  GOURMANDISE,W5 1ET,51.5295,-0.2931
+TB HANGER LANE LTD,W5 1ET,51.5295,-0.2932
 Crown hotel ltd,W5 1HG,51.5296,-0.2943
 Crowne Plaza London Ealing,W5 1HG,51.5296,-0.2943
 Perry Cafe,W5 1NP,51.5289,-0.3083
@@ -2660,6 +2671,7 @@ The Pear Tree Fulham,W6 8HJ,51.4866,-0.2149
 Cozco Latte,W6 8JA,51.4888,-0.2227
 Soul Deli,W6 8JA,51.4888,-0.2225
 Carbon Kopi,W6 8LS,51.4864,-0.2148
+Together Brothers ltd,W6 8NX,51.4850,-0.2184
 Ksara,W6 8QX,51.4838,-0.2192
 Ottoman,W6 8QX,51.4842,-0.2195
 Amigo/Costa Coffee,W6 8RF,51.4871,-0.2199
@@ -2688,6 +2700,7 @@ Polish Deli,W6 9JT,51.4925,-0.2333
 Ryce,W6 9JT,51.4925,-0.2333
 The Hampshire,W6 9JT,51.4925,-0.2333
 sagar restaurant ,W6 9JT,51.4925,-0.2333
+ALLEY RESTAURANT,W6 9NH,51.4933,-0.2409
 Anarkali Restaurant,W6 9NH,51.4933,-0.2408
 Haweli Indian Cuisine,W6 9NH,51.4933,-0.2408
 Potli ,W6 9NH,51.4933,-0.2409

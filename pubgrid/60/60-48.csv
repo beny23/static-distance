@@ -60,7 +60,6 @@ DESI HOUSE LIMITED,BL1 3QD,53.5925,-2.4375
 Tribez,BL1 3QD,53.5925,-2.4375
 Cube Desserts Ltd,BL1 3QJ,53.5919,-2.4358
 MAMA'S GRILL (NORTH-WEST) LTD,BL1 3QN,53.5912,-2.4342
-Khanz Spicy Grill,BL1 4AZ,53.5813,-2.4409
 burgerum,BL1 4JE,53.5863,-2.4505
 Prime eatery,BL1 4QR,53.5819,-2.4417
 Queen's Park Café Bolton ,BL1 4RU,53.5775,-2.4449
@@ -180,7 +179,6 @@ Amore coffee &Desserts ltd,BL5 3JT,53.5538,-2.5083
 La Scala Westhoughton,BL5 3PD,53.5606,-2.5255
 Casa Nostra,BL5 3RS,53.5500,-2.5250
 Camerons Catering Ltd,BL5 3RZ,53.5514,-2.5244
-Portabello ,BL5 3RZ,53.5514,-2.5244
 Airvault Trampoline Park,BL5 3XU,53.5560,-2.5337
 Bolton Golf Club Services Limited,BL6 4AJ,53.5824,-2.5120
 Medirest Healthcare Compass Group at Beaumont Hospital,BL6 4LA,53.5815,-2.4993
@@ -329,6 +327,7 @@ Bem Brasil,M1 1FJ,53.4837,-2.2317
 Ezra & Gil ,M1 1FR,53.4821,-2.2332
 Allotment Bar & Restaurant,M1 1FY,53.4816,-2.2341
 Herd NQ,M1 1FY,53.4816,-2.2341
+Merchants MCR Ltd,M1 1HP,53.4814,-2.2347
 The merchants hotel,M1 1HP,53.4814,-2.2347
 Bab,M1 1HR,53.4821,-2.2334
 Foundation Coffee House Ltd,M1 1JB,53.4824,-2.2345
@@ -663,6 +662,7 @@ Subway Whalley Range,M16 8FA,53.4531,-2.2577
 TURKMAN GRILL,M16 8FA,53.4531,-2.2577
 WaffleAway ,M16 8FA,53.4531,-2.2577
 Emma’s cafe,M17 1JE,53.4660,-2.3102
+Johns Diner Trafford Park Ltd,M17 1SD,53.4750,-2.3311
 Five Guys,M17 8AA,53.4662,-2.3490
 Haute Dolci,M17 8AA,53.4662,-2.3490
 Leon Restaurants,M17 8AA,53.4662,-2.3490
@@ -815,6 +815,7 @@ Cocoa Cabana Limited ,M20 1LH,53.4278,-2.2419
 Namaste Nepal,M20 1LH,53.4277,-2.2420
 Proove ,M20 1LH,53.4279,-2.2417
 Sakura House,M20 1LH,53.4277,-2.2420
+The Gurkha Grill,M20 1LH,53.4277,-2.2420
 Indique,M20 1LP,53.4294,-2.2400
 The Boulevard Deli Cafe Ltd,M20 2EU,53.4304,-2.2477
 THYME OUT FOOD CO,M20 2LG,53.4264,-2.2459
@@ -858,6 +859,7 @@ MAYURA FOODS LIMITED t/a SAI SPICE ,M21 7SP,53.4353,-2.2637
 Mayurafoods ltd t/a Sai spice ,M21 7SP,53.4353,-2.2637
 Olive & Thyme,M21 8AD,53.4417,-2.2761
 TUTKU CAFE,M21 8AD,53.4417,-2.2761
+CHULA LIMITED,M21 8AE,53.4415,-2.2767
 Dessert Republic,M21 8AE,53.4415,-2.2767
 Jasmine Restaurant,M21 8AE,53.4417,-2.2768
 The Little Yeti,M21 8AG,53.4385,-2.2752
@@ -1003,6 +1005,7 @@ The Delph Restaurant & Bar,M28 2NL,53.5004,-2.3796
 George's Dining Room and Bar,M28 2PD,53.4987,-2.3807
 Tempo,M28 2QT,53.5054,-2.3909
 DUE AMICI,M28 3JE,53.5231,-2.3997
+Koi Sushi & Oriental,M28 3JE,53.5231,-2.3997
 Hug in a Mug,M28 3JH,53.5238,-2.4002
 Bulls Head (Wetherspoons),M28 3NJ,53.5242,-2.4002
 Jacobs Butty Bar,M28 3QW,53.5356,-2.4000
@@ -1049,6 +1052,7 @@ Wok to Walk,M3 2BW,53.4826,-2.2466
 Point Blank Shooting,M3 2FW,53.4828,-2.2472
 Roxy Ball Room Manchester,M3 2FW,53.4828,-2.2472
 Bem Brasil,M3 2GQ,53.4814,-2.2482
+FR Cafe,M3 2LB,53.4823,-2.2476
 GAUCHO Manchester,M3 2LB,53.4823,-2.2475
 ESSYS LTD,M3 2PW,53.4820,-2.2489
 Wah Ji Wah,M3 2PW,53.4820,-2.2489
@@ -1119,6 +1123,7 @@ Subway,M3 5FS,53.4826,-2.2538
 Le Cassi's ,M3 5JF,53.4829,-2.2624
 Vero Moderno,M3 5JF,53.4829,-2.2624
 Very Peri Manchester ,M3 5JT,53.4829,-2.2637
+GK Gallery & Tea Room,M3 5JZ,53.4835,-2.2624
 The Lowry Hotel Ltd,M3 5LH,53.4832,-2.2504
 A Nice Sip,M3 6AX,53.4855,-2.2570
 Rios gourmet grill Salford ,M3 6AX,53.4854,-2.2571
@@ -1210,6 +1215,7 @@ ALMOST FAMOUS NQ,M4 1HP,53.4845,-2.2369
 LUCK LUST LIQUOR AND BURN,M4 1HP,53.4845,-2.2369
 Cat Cafe Manchester,M4 1HQ,53.4850,-2.2358
 Noi Quattro,M4 1HQ,53.4850,-2.2358
+degrees ,M4 1HQ,53.4850,-2.2358
 Sweet Mandarin Restaurant Limited,M4 1HS,53.4844,-2.2361
 Common,M4 1HW,53.4842,-2.2360
 HOME SWEET HOME ,M4 1HW,53.4842,-2.2360
@@ -1261,6 +1267,7 @@ PANCAKE CAFE,M4 3AH,53.4837,-2.2392
 Panchos Burritos Ltd,M4 3AH,53.4840,-2.2393
 Salt & Pepper,M4 3AH,53.4840,-2.2393
 Seoul Food Limited,M4 3AH,53.4837,-2.2392
+Smoke Shed,M4 3AH,53.4840,-2.2393
 Smoothielicious ,M4 3AH,53.4840,-2.2393
 VNX Ltd,M4 3AH,53.4837,-2.2392
 WHOLESOME JUNKIES,M4 3AH,53.4840,-2.2393
@@ -1411,6 +1418,7 @@ Raya restaurant Whitefield ,M45 6QF,53.5485,-2.2939
 Sindhoor ,M45 6QF,53.5485,-2.2939
 Coffee n spice ,M45 6TF,53.5392,-2.2801
 Bluebay Restaurant limited ,M45 6TL,53.5400,-2.2831
+EAST Z EAST,M45 7EG,53.5423,-2.2907
 McDonald's Store 409 Whitefield,M45 7EG,53.5423,-2.2907
 McDonalds Restaurants Ltd,M45 7EG,53.5423,-2.2907
 Whitefield Coffee Shop,M45 7HL,53.5426,-2.3057
@@ -1432,7 +1440,6 @@ The Gardeners,M46 0PG,53.5171,-2.5098
 McDonald's Tyldesley,M46 9AT,53.5163,-2.4758
 McDonalds Restaurants Ltd,M46 9AT,53.5163,-2.4758
 The Cabinet,M46 9DE,53.5237,-2.4896
-Portabello,M46 9JY,53.5268,-2.4855
 RAMA SPICE ,M46 9LF,53.5287,-2.4781
 Pot Kettle Black Coffee Limited,M5 2BW,53.4812,-2.2804
 AC Hotel by Marriott Manchester Salford Quays,M5 3AW,53.4716,-2.2821
@@ -1489,6 +1496,7 @@ Refuge ,M60 7HA,53.4744,-2.2404
 Costa Coffee,M60 7RA,53.4769,-2.2298
 TGI Fridays,M60 7RA,53.4769,-2.2298
 baab-e-salaam,M7 1TW,53.4920,-2.2555
+The Treehouse Cafe,M7 2HQ,53.5003,-2.2699
 Tim Hortons,M7 2YJ,53.5018,-2.2573
 McDonald's Restaurant,M7 2YN,53.5013,-2.2577
 BRACKMANS BAKERY & COFFEE SHOP,M7 4AS,53.5081,-2.2539
@@ -1521,6 +1529,7 @@ Pizza Hut Restaurant,M8 8EP,53.4980,-2.2350
 Subway,M8 8EP,53.4980,-2.2350
 MANZIL RESTAURANT,M8 8EQ,53.4933,-2.2502
 al maidah restaurant,M8 8EU,53.4941,-2.2502
+Two chefs ,M8 8FW,53.4927,-2.2495
 Yinghua Manchester Limited (T/A Sakura Japanese Restaurant),M8 8LG,53.4963,-2.2387
 Nandos,M8 8LN,53.4980,-2.2364
 CG MANCHESTER LTD  T/A Kebabish Grill & Steakhouse,M8 8LQ,53.4949,-2.2385
@@ -1530,6 +1539,7 @@ McDonald's Restaurant,M8 8UF,53.5004,-2.2339
 McDonalds,M8 8UF,53.5004,-2.2339
 Shahbarose Ltd,M8 8UT,53.5013,-2.2313
 Two Apples Cafe Ltd,M8 8UT,53.5013,-2.2313
+Ashys Chippy & Takeaway,M8 9ER,53.5084,-2.2424
 TANDOORI ROTI LTD ,M8 9ER,53.5084,-2.2424
 Istanbul Manchester Ltd,M8 9JN,53.5115,-2.2443
 Istanbul restaurant manchester,M8 9JN,53.5115,-2.2443
