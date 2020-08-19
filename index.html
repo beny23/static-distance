@@ -245,22 +245,24 @@
         });
     }
     function renderTable(inRange, result) {
-	    inRange = inRange
-                    .map(function(a) {
-                        return {
-                            name: a.name,
-                            postcode: a.postcode,
-                            lat: a.lat,
-                            lon: a.lon,
-                            distance: distance(result, a)
-                        };
-                    })
-		    .filter(function(a) {
-				    return a.distance < (5 * 1609.34);
-				    })
-	    .sort(function(a, b) {
-			    return a.distance - b.distance;
-			    });
+      inRange = inRange
+              .map(function(a) {
+                  return {
+                    name: a.name,
+                    postcode: a.postcode,
+                    lat: a.lat,
+                    lon: a.lon,
+                    distance: distance(result, a)
+                    };
+                })
+              .filter(function(a) {
+                return a.distance < (5 * 1609.34);
+                })
+              .sort(function(a, b) {
+                return a.distance - b.distance;
+                })
+							.slice(0, 250);
+
         d3.select("#results")
             .selectAll("tr")
             .data(inRange)
@@ -303,15 +305,15 @@
         const x = Math.round((+result.lat - 49.0) / (12.0 / 160.0));
         const y = Math.round((+result.lon + 9) / (11.0 / 80.0));
         let current = {"x": x, "y": y};
-	if (httpCache.location && (JSON.stringify(httpCache.location) == JSON.stringify(current))) {
-		renderTable(httpCache.pubs, result);
-                return ;
-	}
+        if (httpCache.location && (JSON.stringify(httpCache.location) == JSON.stringify(current))) {
+          renderTable(httpCache.pubs, result);
+          return;
+        }
         d3.csv("pubgrid/" + x + "/" + x + "-" + y + ".csv")
             .then(function(pubs) {
-                    renderTable(pubs, result);
-                    renderMap(pubs);
-                    httpCache = {location: current, pubs: pubs};
+                renderTable(pubs, result);
+                renderMap(pubs);
+                httpCache = {location: current, pubs: pubs};
             })
             .catch(function(error) {
                 showResults([]);
