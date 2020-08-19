@@ -135,6 +135,7 @@ Gandhi restaurant ,DA11 0BS,51.4450,0.3673
 Galms Ltd (McDonald's),DA11 0DQ,51.4442,0.3604
 McDonalds @ Asda Gravesend,DA11 0DQ,51.4442,0.3604
 Pizza Hut Restaurant,DA11 0DQ,51.4442,0.3604
+Doroftei Mamai,DA11 0JW,51.4372,0.3525
 Sie's Pie & Mash,DA11 0TA,51.4430,0.3668
 Eastgate coffee shop limited,DA11 8AD,51.4331,0.3318
 The Six Bells,DA11 8BT,51.4322,0.3471
@@ -497,6 +498,7 @@ McDonalds Restaurants Ltd,IG3 8RS,51.5654,0.1047
 SOM Restaurants ltd,IG3 8RS,51.5654,0.1047
 Peshawar Grill Ltd T/A Khyber Grill,IG3 8RW,51.5659,0.1053
 Iman Restaurant and Takeaway,IG3 8TD,51.5665,0.1086
+Zu's,IG3 8TD,51.5665,0.1086
 a STAR eATERY,IG3 8TD,51.5665,0.1087
 Mehak Grill House,IG3 8TH,51.5665,0.1101
 Central Restaurant and Lounge,IG3 9TN,51.5604,0.0951
@@ -599,6 +601,7 @@ Small Talk Tearooms,RM1 3RT,51.5794,0.1839
 The Eastbrook,RM10 7UP,51.5523,0.1645
 Dixy Chicken,RM10 7UU,51.5505,0.1620
 Ali’s Kitchen,RM10 7XJ,51.5458,0.1651
+Elite Coffee Trading as Starbucks Dagenham,RM10 8RE,51.5411,0.1489
 Gunay’s Cafe ,RM10 8YL,51.5427,0.1659
 Pizza Hut,RM10 9HP,51.5366,0.1508
 22 Ventidue LTD,RM10 9LH,51.5329,0.1523
@@ -659,6 +662,7 @@ Alis cafe,RM13 9BU,51.5155,0.1832
 Pizza Hut Delivery,RM13 9YS,51.5186,0.1916
 Can's Meze Bar ,RM14 1RQ,51.5687,0.2676
 Cranham Tandoori ,RM14 1RQ,51.5687,0.2676
+Timbuk2,RM14 1TH,51.5765,0.2789
 Upminster Garden Centre,RM14 1TS,51.5944,0.2553
 Spice of India,RM14 1XJ,51.5616,0.2675
 Ginger Lounge,RM14 2AA,51.5525,0.2477
@@ -799,6 +803,7 @@ Wasabi Sushi & Bento,RM20 2ZP,51.4871,0.2835
 Wimpy Lakeside ,RM20 2ZP,51.4871,0.2835
 Costa Coffee,RM20 2ZQ,51.4875,0.2825
 Creams Cafe Intu Lakeside,RM20 2ZQ,51.4875,0.2825
+Kitchen cafe,RM20 2ZQ,51.4876,0.2832
 Pizza Hut Restaurant,RM20 2ZQ,51.4875,0.2825
 Taco Bell,RM20 2ZT,51.4857,0.2844
 SPICY TOP LTD T/A SHAMPAAN,RM20 3HL,51.4760,0.2811
@@ -846,8 +851,8 @@ Nando's,RM6 4HX,51.5673,0.1183
 Dunelm Residential Care Home,RM6 4XJ,51.5774,0.1208
 McDonald's Marks Gate,RM6 5QT,51.5909,0.1426
 Roadhouse grill ltd,RM6 6AP,51.5722,0.1429
+KGN fast food t/a Yummy Chicken ,RM6 6LS,51.5720,0.1412
 THE KITCHEN ILFORD LTD,RM6 6LS,51.5719,0.1412
-Yummy chicken ,RM6 6LS,51.5719,0.1412
  CASA ITALIANA,RM6 6PU,51.5712,0.1308
 Pizza Hut Restaurant,RM7 0AF,51.5691,0.1855
 SAFFRON,RM7 0LA,51.5655,0.1731
@@ -976,4 +981,5 @@ The Springhouse,SS17 7QT,51.5244,0.4501
 Swan pub,SS17 8LD,51.5242,0.4059
 The Bell Inn & Ostlers,SS17 8LD,51.5242,0.4059
 RT Inn Ltd,SS17 9AA,51.5266,0.4596
+THE BULL,SS17 9AT,51.5229,0.4635
 Hireco Tl Ltd,SS17 9LE,51.5203,0.4853

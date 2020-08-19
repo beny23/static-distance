@@ -426,6 +426,7 @@ The Rice Bowl,M2 1NL,53.4813,-2.2445
 MCD Manchester LTD (McDonald's),M2 1NP,53.4829,-2.2428
 McDonalds Restaurant,M2 1NP,53.4829,-2.2428
 Starbucks Coffee,M2 1NP,53.4829,-2.2428
+Waffle Island,M2 1NP,53.4829,-2.2431
 Waffle island ,M2 1NP,53.4829,-2.2431
 Pret A Manger,M2 1WL,53.4819,-2.2442
 Pizza Hut Restaurant,M2 2AA,53.4818,-2.2401
@@ -605,6 +606,7 @@ KFC,M21 8AU,53.4361,-2.2740
 MCD Manchester LTD (McDonald's),M21 8AY,53.4369,-2.2733
 McDonalds Restaurant,M21 8AY,53.4369,-2.2733
 Globe Chorlton Ltd,M21 8AZ,53.4381,-2.2741
+Man Bites Frog,M21 8AZ,53.4381,-2.2741
 POIUY LTD,M21 8AZ,53.4381,-2.2741
 Ring,M21 8AZ,53.4381,-2.2741
 The Spoon Inn,M21 8AZ,53.4381,-2.2741
@@ -717,6 +719,7 @@ Dishoom Manchester,M3 3BT,53.4809,-2.2501
 Honest Burgers,M3 3BT,53.4809,-2.2501
 Masons Restaurant and Bar,M3 3BT,53.4809,-2.2501
 Vanitas Bar,M3 3BT,53.4809,-2.2501
+Grindsmith ,M3 3BW,53.4809,-2.2492
 The Bridge Tavern ,M3 3BW,53.4809,-2.2493
 BLVD Spinningfields,M3 3BZ,53.4812,-2.2507
 Costa Coffee,M3 3BZ,53.4812,-2.2508
@@ -776,6 +779,7 @@ MRS. A'S KITCHEN LTD,M30 0DF,53.4847,-2.3351
 Mammazohra31 Ltd,M30 0LJ,53.4836,-2.3381
 Milton Manchester Hotel,M30 0NA,53.4843,-2.3392
 ECO FRESH LIMITED,M30 0QN,53.4815,-2.3570
+YETTIS KITCHEN LIMITED,M30 0QN,53.4816,-2.3572
 Balti brasserie ,M30 0WZ,53.4833,-2.3498
 Shop Sofia,M30 7BT,53.4776,-2.3668
 Elior,M30 7EY,53.4779,-2.3787
@@ -825,6 +829,7 @@ Gonbay Chinese Restaurant,M33 3SQ,53.4168,-2.3253
 Masis' Armenian Restaurant ,M33 3SQ,53.4168,-2.3252
 The Brooklands Tap,M33 3YA,53.4186,-2.3241
 CHATIME LEEDS LIMITED,M33 4HQ,53.4109,-2.3503
+Ganges restaurant ,M33 4JH,53.4083,-2.3454
 Pizza Hut,M33 4JH,53.4083,-2.3454
 Sunshine Community Cafe ,M33 4QJ,53.4196,-2.3583
 Eskdale Lodge,M33 5AN,53.4222,-2.3386
@@ -1043,6 +1048,7 @@ The Jane Eyre Neighbourhood Bar,M4 6WX,53.4841,-2.2287
 Ancoats - Costa Coffee,M4 7DB,53.4792,-2.2228
 Hetherington's Cafe Bar,M4 7DS,53.4799,-2.2208
 the cafe,M40 5AE,53.4975,-2.2079
+GRINDSMITH COFFEE POD ,M40 7QX,53.4847,-2.2134
 Vermilion,M40 8AD,53.4934,-2.2042
 MMTV Diner,M40 8EF,53.4920,-2.2110
 Alayna Trading Ltd t/a The Sheridan,M40 8RR,53.4955,-2.2129
@@ -1103,6 +1109,7 @@ McDonald's Restaurant,M5 4BN,53.4849,-2.2778
 KFC,M5 4QU,53.4769,-2.2681
 Campanile Manchester,M5 4RS,53.4763,-2.2639
 McDonald's Restaurant,M5 4TJ,53.4754,-2.2653
+Seven Brothers Middlewood Limited,M5 4YP,53.4799,-2.2640
 Kabin,M50 1BB,53.4831,-2.3167
 Burger King,M50 1DL,53.4775,-2.3115
 Costa Coffee,M50 1DL,53.4775,-2.3115
@@ -1110,7 +1117,7 @@ BLUEBERRIES,M50 1FB,53.4820,-2.3071
 McDonald's Restaurant,M50 1ZD,53.4825,-2.3281
 Subway,M50 1ZD,53.4825,-2.3281
 Costa Coffee,M50 2BH,53.4719,-2.2996
-VICEGOLD CATERERS,M50 2EQ,53.4741,-2.2976
+GRINDSMITH MEDIA CITY ,M50 2BS,53.4738,-2.2998
 Pret a Manger,M50 2HF,53.4734,-2.2987
 Prezzo,M50 2HF,53.4734,-2.2987
 Wagamama,M50 2HF,53.4734,-2.2987
@@ -1397,6 +1404,7 @@ clockwork cafe,SK22 4AE,53.3674,-2.0019
 New Mills Cuisine,SK22 4JG,53.3674,-1.9880
 Pack Horse Inn,SK22 4QQ,53.3787,-1.9978
 Swan Inn ,SK23 7QU,53.3142,-2.0191
+Lastmonsoon,SK3 0DT,53.4061,-2.1663
 Saffron’s Spice,SK3 0RH,53.4003,-2.1936
 The Northern Quarter Restaurant & Bar Ltd. ,SK3 8AB,53.4044,-2.1604
 CH&CO Group Ltd,SK3 8HB,53.3954,-2.1563
