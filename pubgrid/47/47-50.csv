@@ -74,6 +74,7 @@ Panshi Restaurant Birmingham Limited,B10 0UN,52.4688,-1.8558
 The Ponchokhana ltd ,B10 0UN,52.4688,-1.8558
 DERA ,B10 0US,52.4682,-1.8534
 NAMAK MANDI AUTHENTIC TASTE OF KPK LTD,B10 0US,52.4682,-1.8536
+THE HAJEE DESI KHANNA LTD,B10 0US,52.4682,-1.8534
 Shake House Coventry Road,B10 0UT,52.4675,-1.8511
 Alam Birmingham Ltd,B10 0XE,52.4720,-1.8635
 Bobs Fried Chicken and Pizza Ltd,B10 9SN,52.4703,-1.8569
@@ -116,6 +117,7 @@ Southern fried chicken & pizza ltd,B12 8JS,52.4582,-1.8764
 Thaana restaurant ltd,B12 8JS,52.4577,-1.8764
 Artisan Desserts,B12 8JT,52.4563,-1.8764
 GRILLZ steakhouse ,B12 8JU,52.4553,-1.8769
+MULAN EATS RESTAURANT,B12 8JU,52.4553,-1.8769
 Shahi Qila Taste Of Lahore Ltd ,B12 8JU,52.4553,-1.8769
 ANTEP LOKANTASI LTD,B12 8JY,52.4538,-1.8777
 Baskin Robbins,B12 8JY,52.4538,-1.8777
@@ -304,7 +306,7 @@ Bar + Block Birmingham,B2 5PG,52.4804,-1.8996
 Fumo Birmingham,B2 5PG,52.4804,-1.8995
 Sabai Sabai (birmingham) Ltd,B2 5PG,52.4802,-1.8998
 Franco Manca,B2 5QJ,52.4795,-1.9000
-Sun on the Hill,B2 5QP,52.4797,-1.8999
+SunPubs Ltd,B2 5QP,52.4797,-1.8999
 The Indian Streatery,B2 5QP,52.4797,-1.8999
 The Briar Rose Birmingham (Wetherspoon),B2 5RE,52.4800,-1.9002
 Bodega Cantina,B2 5RS,52.4799,-1.9007
@@ -498,6 +500,8 @@ Clayton Hotel Birmingham,B5 5JE,52.4814,-1.8901
 LILY'S UMAMI,B5 5JE,52.4814,-1.8900
 Phoenix,B5 5JE,52.4813,-1.8897
 Tin Tin Food Hall,B5 5JE,52.4814,-1.8900
+Original Patty Men,B5 5JG,52.4784,-1.8904
+Teenie Weenies,B5 5JH,52.4790,-1.8907
 TOPCUP,B5 5JN,52.4816,-1.8893
 Master Park's Kitchen,B5 5JS,52.4825,-1.8884
 The Woodman,B5 5LG,52.4817,-1.8868
@@ -834,6 +838,7 @@ Mad Hatters Tea Room,DY3 2UA,52.5172,-2.1329
 Seven Stars,DY3 3LT,52.5391,-2.1287
 The Summerhouse Sedgley Ltd,DY3 4AN,52.5409,-2.1447
 The Dudley Arms Pub Company,DY3 4LB,52.5185,-2.1758
+Green Man Inn,DY3 4NR,52.5127,-2.2041
 The Staffordshire Golf Club,DY3 4PU,52.5275,-2.2315
 Veronica House Nursing Home - Elior UK,DY4 0DX,52.5448,-2.0378
 the kings arms,DY4 0HP,52.5349,-2.0383
@@ -1015,7 +1020,6 @@ Five Rivers A la Carte,WS1 3NA,52.5809,-1.9831
 Lal Haveli Restaurant ,WS1 3QD,52.5814,-1.9849
 Rendezvous Walsall ltd,WS1 3QQ,52.5809,-1.9862
 Sultan’s restaurant and takeaway limited,WS1 3RB,52.5782,-1.9818
-Dera Walsall Ltd,WS1 3RF,52.5775,-1.9821
 Pearls Peri Peri,WS1 3RL,52.5767,-1.9822
 CHICKEN BITES,WS1 4BP,52.5755,-1.9813
 Sweet treat ,WS1 4LN,52.5733,-1.9887
@@ -1040,6 +1044,7 @@ Tysons,WS10 7HJ,52.5535,-2.0204
 Lamp restaurant ,WS10 7HQ,52.5534,-2.0211
 WS10 LIMITED / BUFFET EXPRESS,WS10 7PA,52.5526,-2.0268
 spices restaurany & takeaway wednesbury ltd,WS10 7PA,52.5526,-2.0268
+fonzys,WS10 7TQ,52.5664,-2.0343
 MAC'S DINER LTD,WS10 8BQ,52.5708,-2.0232
 MATHIURA BUSINESS LIMITED,WS10 8DU,52.5705,-2.0360
 Herberts Tavern,WS10 8QU,52.5683,-2.0452
@@ -1170,7 +1175,6 @@ Costa Coffee,WS9 8QP,52.6043,-1.9177
 Costa Coffee,WS9 8QP,52.6046,-1.9179
 Davinci Restaurant Limited,WS9 8QP,52.6043,-1.9177
 Anchor Brook Cafe,WS9 8UF,52.6059,-1.9373
-Mercure Birmingham North Barons Court Hotel,WS9 9AH,52.6234,-1.9363
 HORSE & JOCKEY,WS9 9AJ,52.6225,-1.9388
 Massala Club,WS9 9DY,52.6322,-1.8966
 KFC,WS9 9EQ,52.6404,-1.8993
@@ -1328,7 +1332,6 @@ KFC,WV2 4NJ,52.5742,-2.1328
 KFC,WV2 4NJ,52.5751,-2.1356
 Costa Coffee,WV2 4SJ,52.5803,-2.1260
 BRUFORD ARMS GRILL LTD,WV3 0AY,52.5758,-2.1466
-Mercure Wolverhampton Goldthorn Hotel,WV3 0ER,52.5750,-2.1373
 McDonald's,WV3 0LH,52.5776,-2.1356
 McDonald’s Penn Rd,WV3 0LH,52.5776,-2.1356
 KPS Bar & Grill,WV3 0LU,52.5768,-2.1387

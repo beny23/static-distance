@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 India gate,BL5 3NB,53.5673,-2.5440
 Royal Oak Carvery,BL5 3ND,53.5704,-2.5491
+Sagar Blackrod limited,BL6 5EE,53.5944,-2.5848
 Sagar Indian restaurant ,BL6 5EE,53.5944,-2.5848
 The Hawthorn Willows ,BL6 5HX,53.6007,-2.5869
 Rivington Pub & Grill,BL6 5JF,53.5900,-2.5696
@@ -375,7 +376,6 @@ The White Crow,WN1 2XL,53.6072,-2.6322
 Jks kitchen,WN1 3EU,53.5433,-2.6227
 India Lounge ,WN1 3LU,53.5463,-2.6209
 McDonald's,WN1 3RB,53.5485,-2.6239
-Mercure Wigan Oak Hotel,WN1 3SS,53.5484,-2.6264
 The Mount cafe,WN2 1DA,53.5572,-2.6091
 Alexanders Coffee Shop ,WN2 1PE,53.5733,-2.6097
 Two Left Feet Tap,WN2 1PE,53.5733,-2.6097
@@ -460,6 +460,7 @@ Alberts Bar and Restaurant ,WN6 0TD,53.5858,-2.6663
 THE OWLS AT STANDISH,WN6 0XD,53.5883,-2.6467
 The Raj ,WN6 7LW,53.5513,-2.6484
 Gathurst golf club,WN6 8EW,53.5714,-2.7012
+Shevington village kitchen,WN6 8HA,53.5711,-2.6942
 Crooke Hall Inn Limited,WN6 8LR,53.5608,-2.6779
 The Boathouse Pub & Kitchen,WN6 9DA,53.5779,-2.7202
 Pesto at the Dicconson Arms,WN6 9DY,53.5905,-2.7246
