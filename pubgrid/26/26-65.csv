@@ -1,6 +1,5 @@
 name,postcode,lat,lon
 Sunam Tandoori (UK) Ltd,BN6 8AD,50.9245,-0.1429
-Costa Coffee,BN6 8AR,50.9240,-0.1407
 The Thatched Inn,BN6 8DH,50.9276,-0.1319
 the purple carrot ,BN6 8HN,50.9247,-0.1447
 Bake Out Hassocks Ltd,BN6 8QA,50.9235,-0.1396
@@ -17,6 +16,7 @@ The Fig Tree,BN6 9PX,50.9324,-0.1751
 Morleys Bistro,BN6 9RG,50.9336,-0.1788
 The New Inn,BN6 9RQ,50.9329,-0.1768
 the white horse inn ,BN6 9SP,50.9343,-0.1831
+Costa Coffee,BN7 2BY,50.8770,0.0149
 The Jolly Sportsman,BN7 3BA,50.9196,-0.0503
 The Fountain Inn,BN7 3BX,50.9365,-0.0609
 The Blacksmiths Arms,BN7 3QD,50.8926,-0.0111
@@ -30,15 +30,12 @@ The Green Man ,BN8 5NA,50.8970,0.0704
 the anchor inn,BN8 5QE,50.8938,0.0574
 Cafe Ringmer,BN8 5QX,50.8933,0.0574
 The Cock Inn,BN8 5RX,50.9042,0.0464
-Leiths (Compass Group UK),BN8 5UU,50.8783,0.0638
 The Kings Head,BN8 6DR,50.9254,0.1652
 Buffalo Bill's,BN8 6PG,50.9278,0.1436
 Wok Inn Bar and Restaurant,BN8 6PH,50.9134,0.1188
 Smith & Western,RH10 5PQ,51.0951,-0.1797
 Tilgate Walled Garden Cafe,RH10 5PQ,51.0951,-0.1796
-BaxterStorey At Bard,RH11 9BP,51.0930,-0.1937
-Burger King,RH11 9YA,51.0833,-0.2000
-Costa Coffee,RH11 9YA,51.0833,-0.2000
+Costa Coffee,RH11 9YA,51.0833,-0.1999
 Flavour ,RH15 0AD,50.9536,-0.1267
 The Watermill Inn,RH15 0QF,50.9647,-0.1197
 Masalaclub,RH15 8DR,50.9558,-0.1282
@@ -50,25 +47,18 @@ The Oak Barn Restaurant,RH15 8RE,50.9718,-0.1439
 India Garden Tandoori Restaurant ,RH15 9AA,50.9572,-0.1367
 Franks cafe,RH15 9AE,50.9553,-0.1295
 Ismet Turen Ltd TA McDonalds Brighton,RH15 9AR,50.9539,-0.1336
-McDonalds,RH15 9AR,50.9539,-0.1336
-Caffe Nero,RH15 9BB,50.9552,-0.1301
 Bangkokbrasserie ,RH15 9BQ,50.9562,-0.1320
 Lynne’s Cafe,RH15 9BQ,50.9562,-0.1320
+The Six Gold Martlets Burgess Hill (Wetherspoon),RH15 9BQ,50.9556,-0.1313
 spiral,RH15 9DE,50.9543,-0.1289
 Lemongrass,RH15 9DS,50.9546,-0.1299
 Home Coffee House,RH15 9LR,50.9546,-0.1450
 KFC,RH15 9ND,50.9525,-0.1455
-Burgess Hill KFC,RH15 9NP,50.9551,-0.1313
 COSTA COFFEE - BURGESS HILL ,RH15 9NP,50.9551,-0.1312
-Costa Coffee,RH15 9NP,50.9551,-0.1312
-BaxterStorey At Flowserve,RH15 9TJ,50.9535,-0.1466
-BaxterStorey At CAE UK PLc,RH15 9TW,50.9529,-0.1563
-BaxterStorey At Roche Diagnostics Ltd.,RH15 9UF,50.9500,-0.1513
+KFC,RH15 9NP,50.9550,-0.1313
+Beefeater The Acorn,RH15 9TQ,50.9511,-0.1507
 COSTA COFFEE - HAYWARDS HEATH 2,RH16 1AE,51.0061,-0.1030
-Starbucks Coffee Company,RH16 1DG,51.0064,-0.1067
-Costa Coffee,RH16 1DR,51.0061,-0.1033
 Curry Inn,RH16 1EA,51.0061,-0.1038
-BaxterStorey At Flowserve,RH16 1TL,51.0077,-0.1077
 Tamasha Spice,RH16 2HH,51.0112,-0.0814
 Limes Thai Kitchen,RH16 2HN,51.0132,-0.0814
 That's Amore,RH16 2HP,51.0140,-0.0801
@@ -76,21 +66,19 @@ The Bent Arms,RH16 2HP,51.0140,-0.0801
 The Snowdrop Inn,RH16 2QE,50.9963,-0.0734
 La Campana ,RH16 3AL,51.0004,-0.1057
 ORANGE SQUARE BAR,RH16 3AL,51.0004,-0.1057
-Pizza Express,RH16 3AL,51.0004,-0.1057
 Savannah Cafe Bar ,RH16 3AL,51.0004,-0.1057
 Lemongrass ,RH16 3AS,51.0007,-0.1062
 Pizza Hut,RH16 3AS,51.0007,-0.1062
+Thyme,RH16 3DN,51.0036,-0.1032
 The Bay Tree,RH16 3TH,50.9975,-0.1023
 Tory's Cafe in the Park,RH16 4HT,50.9963,-0.1036
 COSTA COFFEE - HAYWARDS HEATH 1,RH16 4LA,50.9967,-0.1018
-Costa Coffee,RH16 4LA,50.9967,-0.1018
+Costa Coffee,RH16 4LA,50.9970,-0.1024
 istanbul meze bar,RH16 4LL,50.9977,-0.1032
-Caffe Nero,RH16 4LQ,50.9964,-0.1023
 Flinders Coffee Ltd,RH16 4LR,50.9974,-0.1038
-Haywards Heath KFC,RH16 4LR,50.9974,-0.1038
 KFC,RH16 4LR,50.9974,-0.1038
+KFC,RH16 4LR,50.9977,-0.1041
 MJ BAlti House Limited,RH16 4LR,50.9974,-0.1038
-Zizzi,RH16 4LU,50.9992,-0.1061
 NIZAM INDIAN RESTAURANT LIMITED,RH16 4LY,50.9989,-0.1066
 The Swan,RH17 5AA,51.0036,-0.1445
 Wheatsheaf Inn,RH17 5DW,51.0060,-0.1329
@@ -103,8 +91,6 @@ Spice Village,RH17 5LD,51.0064,-0.1438
 Cuckfield Cornerhouse Cafe,RH17 5LG,51.0058,-0.1428
 the castle inn shanghai brasserie,RH17 5LZ,50.9731,-0.1974
 Michael Maxwell T/A Maxwell's at Hickstead,RH17 5NU,50.9654,-0.1958
-Hickstead Burger King,RH17 5NZ,50.9684,-0.1904
-Starbucks Coffee Company,RH17 5NZ,50.9684,-0.1904
 The Bolney Stage,RH17 5RL,51.0005,-0.1983
 The Jolly Tanners,RH17 6EF,51.0408,-0.1850
 Balcombe Club,RH17 6HP,51.0586,-0.1322
@@ -127,7 +113,6 @@ Elmo's Pizzas Ltd,RH18 5AA,51.0970,0.0338
 Hop Yard Brewing Co,RH18 5AA,51.0970,0.0338
 Yard Yoga ,RH18 5AA,51.0970,0.0338
 Roochi,RH18 5DN,51.0975,0.0345
-Costa Coffee,RH18 5ES,51.0985,0.0337
 Emilio's Coffee,RH18 5ES,51.0986,0.0337
 Hugo's Cafe Limited,RH18 5ES,51.0986,0.0337
 Java and Jazz,RH18 5ES,51.0985,0.0337
@@ -146,17 +131,16 @@ POPPINS Cafe Restaurant,TN22 1AG,50.9700,0.0958
 Hartfields Coffee & Kitchen,TN22 1AP,50.9715,0.0962
 Kaya courtyard coffee shop ,TN22 1AP,50.9715,0.0961
 Star of Bengal,TN22 1AP,50.9715,0.0961
-Pizza Express,TN22 1AS,50.9726,0.0966
 THE PICTURE HOUSE RESTAURANT,TN22 1AU,50.9722,0.0970
 Mojava Cafe,TN22 1PU,50.9694,0.0962
 McDonald's Uckfield,TN22 1QL,50.9688,0.0894
+McDonald's,TN22 1QL,50.9696,0.0929
 Thyme for Food and Friends,TN22 1QP,50.9707,0.0968
 COSTA COFFEE - UCKFIELD ,TN22 1QR,50.9711,0.0967
-Costa Coffee,TN22 1QR,50.9711,0.0967
+Costa Coffee,TN22 1QR,50.9709,0.0964
 Amira's Kitchen,TN22 1QU,50.9709,0.0983
 cafe 212,TN22 1RD,50.9733,0.0974
 Thai Terre Uckfield,TN22 1RJ,50.9734,0.0970
-Costa Coffee,TN22 2DU,50.9933,0.0771
 TASTY SPICE UCKFIELD LTD,TN22 2EA,50.9892,0.0973
 PIG AND BUTCHER,TN22 3AN,50.9954,0.1042
 Green Fingers Cafe,TN22 3JP,51.0357,0.0932
@@ -172,7 +156,7 @@ Uckfield Tandoori,TN22 5AE,50.9678,0.0969
 The Alma Arms,TN22 5AJ,50.9668,0.1007
 Apple Green,TN22 5DL,50.9669,0.0962
 McDonald's Maresfield,TN22 5EP,50.9893,0.0897
-Mcdonalds,TN22 5EP,50.9893,0.0897
+McDonald's,TN22 5EP,50.9892,0.0897
 East Sussex National Ltd,TN22 5ES,50.9415,0.0998
 The Blackboys Inn,TN22 5LG,50.9617,0.1649
 Hare and Hounds,TN22 5NJ,50.9636,0.1280
@@ -181,7 +165,9 @@ The Highlands Inn,TN22 5SP,50.9609,0.0997
 Horsted Place Ltd,TN22 5TS,50.9455,0.0928
 The Laughing Fish,TN22 5XB,50.9361,0.0637
 Wildwood Vineyard Ltd,TN3 9EQ,51.0909,0.2096
+The Crowborough Cross Crowborough (Wetherspoon),TN6 1AF,51.0604,0.1615
 O A J Catering Ltd T/a The Blue Anchor,TN6 1BB,51.0533,0.1530
+Costa Coffee,TN6 1BU,51.0595,0.1624
 Donnamaria Italian Restaurant,TN6 1DF,51.0587,0.1627
 Rose of Bengal ,TN6 1DG,51.0585,0.1628
 Bar Trend,TN6 1DL,51.0584,0.1618
@@ -191,7 +177,6 @@ The whistle stop cafe,TN6 2GE,51.0468,0.1886
 Crowborough Spice,TN6 2JE,51.0480,0.1874
 The Wheatsheaf,TN6 2NF,51.0449,0.1817
 Hattusa Crowborough,TN6 2QB,51.0601,0.1617
-Freedom Leisure,TN6 2TN,51.0633,0.1666
 Rajpoot Indian Restaurant ,TN6 2TT,51.0610,0.1617
 THE BOARS HEAD INN,TN6 3GR,51.0734,0.1917
 Millbrook Garden Centre - GreenCafe,TN6 3RJ,51.0450,0.1941

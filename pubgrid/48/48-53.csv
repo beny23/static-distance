@@ -3,12 +3,12 @@ name,postcode,lat,lon
 Juboraj Restaurant,B23 5TN,52.5345,-1.8275
 Upnessmovements ,B23 6NX,52.5278,-1.8440
 BEYS DINER LIMITED,B23 6QU,52.5266,-1.8374
+KFC,B23 6RH,52.5264,-1.8368
 KFC,B23 6RH,52.5267,-1.8366
 OIKOS Café,B23 6RH,52.5267,-1.8366
-Pizza Hut,B23 6RH,52.5267,-1.8366
 A.S. Cafe & Diner ,B23 6SA,52.5253,-1.8379
 McDonald's,B24 0EA,52.5320,-1.8269
-Mcdonalds Restaurants Ltd,B24 0EA,52.5320,-1.8269
+McDonald's,B24 0EA,52.5330,-1.8288
 FBS Business Ltd T/a Raj Mahal,B24 0LL,52.5251,-1.8102
 BMW Hams Hall,B46 1GB,52.5268,-1.7011
 The Gate ,B46 2DS,52.5312,-1.6630
@@ -17,28 +17,23 @@ The Swan,B46 2JA,52.5317,-1.6781
 Gavino's Restaurant,B72 1AX,52.5355,-1.8269
 Jahed cuisine of india ,B72 1AX,52.5355,-1.8269
 Pepe’s Piri Piri,B72 1AX,52.5353,-1.8269
-Costa Coffee Cafe,B72 1PA,52.5623,-1.8247
-Patisserie Valerie,B72 1PA,52.5623,-1.8248
-Starbucks Coffee,B72 1PA,52.5623,-1.8247
-Caffe Nero,B72 1PH,52.5619,-1.8257
-Nando'S,B72 1PH,52.5619,-1.8257
+Costa Coffee,B72 1PH,52.5631,-1.8245
 Treatz Sutton Coldfield,B72 1PU,52.5605,-1.8248
-Pizza Express,B72 1QA,52.5596,-1.8257
 Brewhouse and Kitchen Sutton Coldfield,B72 1QD,52.5595,-1.8265
 Pizza Hut Delivery,B72 1QF,52.5581,-1.8264
 Pizza by Goli,B72 1QF,52.5581,-1.8264
+The Bottle of Sack Sutton Coldfield (Wetherspoon),B72 1QG,52.5603,-1.8255
 CHELO  PERSIAN KITCHEN & BAR,B72 1QL,52.5571,-1.8260
 Eleon Greek Restaurant,B72 1QL,52.5571,-1.8260
 Panache ,B72 1QL,52.5571,-1.8260
 BHAIJAANS RESTAURANTS LIMITED,B72 1QQ,52.5581,-1.8271
 Appetites Cafe Sutton Coldfield Market Village ,B72 1QU,52.5617,-1.8231
 Sutton fryer ltd,B72 1QU,52.5617,-1.8231
-TGI Fridays,B72 1RT,52.5600,-1.8224
 The Townhouse,B72 1UD,52.5665,-1.8236
 THE THREE TUNS,B72 1XS,52.5660,-1.8233
 Halloumi Express,B72 1XX,52.5633,-1.8233
 McDonald's,B72 1XX,52.5627,-1.8225
-Mcdonalds Restaurants Ltd,B72 1XX,52.5627,-1.8225
+Costa Coffee,B72 1YG,52.5373,-1.8272
 Costa Coffee,B72 1YG,52.5373,-1.8276
 Dolce Desserts LTD,B72 1YG,52.5375,-1.8275
 zengh fine indian dining,B72 1YH,52.5365,-1.8272
@@ -58,8 +53,11 @@ REGARDS,B73 5UB,52.5476,-1.8412
 los banditos boldmere limited,B73 5UB,52.5476,-1.8413
 subway,B73 5UY,52.5496,-1.8413
 Costa Coffee,B73 5XA,52.5486,-1.8410
+Costa Coffee,B73 5XA,52.5486,-1.8411
+The Bishop Vesey Sutton Coldfield (Wetherspoon),B73 5XA,52.5485,-1.8409
 Kababish,B73 5XP,52.5509,-1.8395
 Asian Grill Ltd,B73 6BT,52.5651,-1.8291
+Costa Coffee,B73 6EB,52.5626,-1.8337
 Costa Coffee,B73 6EB,52.5628,-1.8301
 Polar bear Media,B73 6EJ,52.5607,-1.8260
 FARIAN ,B73 6HN,52.5546,-1.8283
@@ -70,7 +68,8 @@ Bashundora Restaurant,B74 2NJ,52.5684,-1.8222
 Bhujon Dining,B74 2UG,52.5858,-1.8292
 Cock N Bull,B74 2UG,52.5862,-1.8290
 Costa Coffee,B74 2UG,52.5858,-1.8292
-Jd Wetherspoon Mare Pool,B74 2UG,52.5858,-1.8292
+Costa Coffee,B74 2UG,52.5864,-1.8290
+The Mare Pool Mere Green (Wetherspoon),B74 2UG,52.5865,-1.8285
 Romantica Italian Restaurant,B74 2XH,52.5865,-1.8303
 The Butlers Arms,B74 4BL,52.5918,-1.8340
 Bean Green Kitchen,B74 4BZ,52.5886,-1.8315
@@ -80,13 +79,12 @@ chennai Indian restaurant,B74 4LT,52.5989,-1.8475
 OLDP CIO,B74 4YF,52.6053,-1.8430
 OLIVE GARDEN-TURKISH MEDITERRANEAN CUISINE,B75 5BA,52.5885,-1.8293
 BISTROT PIERRE - MERE GREEN,B75 5BP,52.5869,-1.8291
-Prezzo,B75 5BP,52.5869,-1.8291
 Gusto Italian,B75 5BS,52.5872,-1.8279
 Little Dessert Shop Ltd,B75 5BS,52.5873,-1.8279
 The Funky Bear,B75 5HL,52.5926,-1.8326
 Chase Farm Cafe,B75 5RL,52.5898,-1.8020
+McDonald's,B75 5SA,52.5908,-1.7806
 McDonald's,B75 5SA,52.5910,-1.7806
-McDonalds,B75 5SA,52.5910,-1.7806
 Moor Hall Golf Club Ltd,B75 6LN,52.5831,-1.8126
 Moor Hall Hotel Limited,B75 6LN,52.5831,-1.8126
 Farmhouse Bistro LLP,B75 6NA,52.5843,-1.8068
@@ -110,19 +108,14 @@ Moxhull Hall Hotel,B76 9PD,52.5622,-1.7605
 The Belfry Hotel & Resort,B76 9PR,52.5548,-1.7336
 WISHAW GOLF CLUB LTD,B76 9QW,52.5493,-1.7727
 Compass Group At Amington Heath Primary School & Nursery,B77 4EN,52.6288,-1.6518
+McDonald's,B77 5AB,52.6108,-1.6777
 McLean Restaurants Ltd,B77 5AB,52.6106,-1.6766
-Compass Group Uk (Sainsburys D C),B77 5BP,52.6083,-1.6651
 Queens Head,B77 5BP,52.6083,-1.6651
 Truly Scrumptious ,B77 5BY,52.6042,-1.6730
-Mcdonalds (Watling Street),B77 5BZ,52.6114,-1.6789
 Jump Xtreme,B77 5DF,52.6078,-1.6755
-Burger King,B77 5PS,52.6082,-1.6411
-Costa Coffee,B77 5PS,52.6082,-1.6411
-Moto Hospitality,B77 5PS,52.6082,-1.6411
-Travelodge Moto Services,B77 5PS,52.6075,-1.6401
+Table Table The Centurion,B77 5PN,52.6043,-1.6485
 The Samuel Barlow ,B78 1AS,52.6343,-1.6351
 Little India,B78 1JH,52.6179,-1.6188
-Starbucks,B78 1SU,52.5958,-1.6098
 Simla Restaurant,B78 1SY,52.5981,-1.6167
 Bake180 Coffee Shop,B78 2AE,52.5816,-1.7170
 Farmhouse Kitchen  Ash End House Farm,B78 2BL,52.5752,-1.7429
@@ -133,12 +126,13 @@ THE MALT HOUSE,B78 2DL,52.5811,-1.6900
 Baxterstorey at TNT Kingsbury KDC,B78 2EX,52.5840,-1.6570
 Planters Garden Centre Ltd,B78 2EY,52.5961,-1.6463
 The Red Lion Hopwas,B78 3AF,52.6426,-1.7390
-Nando's,B78 3HB,52.6275,-1.7018
-Pizza Express,B78 3HB,52.6275,-1.7018
+Costa Coffee,B78 3HB,52.6264,-1.6989
+McDonald's,B78 3HD,52.6276,-1.7042
 McLean Restaurants Ltd,B78 3HD,52.6278,-1.7070
-Mcdonalds,B78 3HD,52.6278,-1.7070
-Costa Coffee Unit 2,B78 3HL,52.6269,-1.7075
-Costa Coffee Inside Next,B78 3JD,52.6269,-1.7005
+Nando's,B78 3HD,52.6269,-1.7054
+Beefeater The Ladybridge,B78 3HQ,52.6293,-1.7016
+Costa Coffee,B78 3JD,52.6285,-1.7020
+KFC,B78 3JD,52.6273,-1.7007
 Fazeley Park Restaurant ,B78 3RF,52.6144,-1.6983
 IVORY TUSK ,B78 3RG,52.6137,-1.6991
 Newton Regis Garden Centre,B79 0DF,52.6538,-1.6049
@@ -148,7 +142,6 @@ Delhi Divan,B79 7AL,52.6351,-1.6934
 Globe Inn Limited,B79 7AT,52.6358,-1.6938
 La Clique Lounge Ltd T/A Corey's,B79 7AT,52.6352,-1.6940
 Poachers Cafe Bistro,B79 7AX,52.6347,-1.6938
-Buzz Bingo,B79 7BD,52.6358,-1.6932
 Pizza Hut,B79 7DD,52.6345,-1.6970
 The Masala Boyz ,B79 7DF,52.6338,-1.6964
 JALALI RESTAURANT ,B79 7DL,52.6356,-1.6962
@@ -158,7 +151,6 @@ abs coffee and cakes,B79 7LG,52.6327,-1.6934
 Roasters Cafe & Coffee Shop,B79 7LJ,52.6333,-1.6933
 ZNM Resaurants ltd ta Little Dessert Shop Ltd,B79 7LJ,52.6333,-1.6933
 Costa Coffee,B79 7LN,52.6329,-1.6942
-Costa Coffee George Street,B79 7LQ,52.6327,-1.6934
 NIBBLES CAFE,B79 7LR,52.6330,-1.6963
 Community Together CIC,B79 7ND,52.6295,-1.6958
 Holiday Inn Express Tamworth,B79 7ND,52.6296,-1.6959
@@ -167,6 +159,7 @@ Blue Water Indian Restaurant,B79 7NH,52.6335,-1.6973
 Portobello restaurant ,B79 7NH,52.6335,-1.6973
 Side Walk café ,B79 7NJ,52.6334,-1.6951
 MIAH TANDOORI,B79 7PA,52.6333,-1.6918
+The Bole Bridge Tamworth (Wetherspoon),B79 7PA,52.6332,-1.6917
 Tudor house cafe,B79 7QB,52.6341,-1.6998
 No.18 Coffee House,B79 7QD,52.6338,-1.6994
 osaka-shi,B79 7RE,52.6343,-1.6984
@@ -174,6 +167,7 @@ The Wigginton,B79 8TA,52.6491,-1.6891
 The Old Crown,B79 9DW,52.6574,-1.6922
 white lion harlaston,B79 9HT,52.6963,-1.6825
 The Black Horse Inn,B79 9HY,52.7065,-1.6811
+KFC,CV10 0AG,52.5266,-1.4625
 KFC,CV10 0AG,52.5267,-1.4626
 Cafe on the Corner,CV10 0JH,52.5372,-1.5163
 Grand Bingo Nuneaton,CV10 0JP,52.5369,-1.5161
@@ -182,7 +176,7 @@ The Malt Shovel (Hartshill) Ltd,CV10 0SS,52.5486,-1.5194
 Achar Indian Restaurant and Takeaway -The Stag and Pheasant,CV10 0SW,52.5479,-1.5205
 The Plough inn,CV10 9NY,52.5344,-1.5268
 India Red Restaurant ,CV11 4BX,52.5256,-1.4649
-McDonalds,CV11 4FL,52.5270,-1.4666
+McDonald's,CV11 4FL,52.5265,-1.4666
 McLean Restaurants Ltd,CV11 4FL,52.5270,-1.4666
 Cream on the Green Ltd,CV11 5DN,52.5268,-1.4748
 Agra Palace ,CV11 5DR,52.5272,-1.4751
@@ -191,6 +185,7 @@ New Dragon (Leicester) Ltd,CV11 6GU,52.5266,-1.4384
 Rajdhani Restaurant,CV11 6GU,52.5266,-1.4384
 THE WHITE HORSE,CV9 1AB,52.5769,-1.5460
 The Black Horse,CV9 1AE,52.5759,-1.5413
+Costa Coffee,CV9 1AU,52.5779,-1.5483
 Costa Coffee,CV9 1AU,52.5780,-1.5482
 SPICE INN ATHERSTONE T/A HERBS & SPICES LTD,CV9 1AY,52.5780,-1.5497
 RAJ MAHAL,CV9 1AZ,52.5776,-1.5483
@@ -202,10 +197,7 @@ Horse & Jockey,CV9 2HL,52.5587,-1.5843
 Rose Inn,CV9 2LE,52.5693,-1.5899
 The Anchor Inn,CV9 2LR,52.5707,-1.6447
 The Kings Head,CV9 2PA,52.5798,-1.5541
-Costa Coffee,CV9 2PY,52.5949,-1.6066
 Holly lane Café ,CV9 2QZ,52.5830,-1.5532
-Baxterstorey at TNT Express House,CV9 2RY,52.5840,-1.5556
-Baxterstorey at TNT Parcel Distribution Centre,CV9 2RY,52.5840,-1.5556
 UK MASSALA MIX LTD T/A MAYA BAR & RESTAURANT,CV9 3AD,52.5837,-1.5473
 Cobwebs (Austrey) Ltd t/a Bird in Hand Inn,CV9 3EB,52.6522,-1.5624
 Blue Lion,CV9 3NA,52.5735,-1.5210
@@ -218,7 +210,7 @@ Keppel Gate Bed and Breakfast,DE12 6JN,52.7438,-1.5720
 Artisan Deli Digbeth Limited,DE12 7AJ,52.6836,-1.5288
 Saffron Event & Venue Caterers Limited,DE12 7AJ,52.6820,-1.5238
 Appleby Inn,DE12 7AP,52.6722,-1.5406
-McDonalds Restaurants Ltd,DE12 7AP,52.6722,-1.5406
+McDonald's,DE12 7AP,52.6876,-1.5482
 McLean Restaurants Ltd,DE12 7AP,52.6722,-1.5406
 Alpaca Park Farm,DE12 7DB,52.6810,-1.4902
 The Globe Inn Snarestone ,DE12 7DB,52.6810,-1.4902
@@ -236,6 +228,8 @@ canalside cafe fradley ltd,DE13 7DN,52.7237,-1.7947
 The Royal Oak,DE13 7HZ,52.7491,-1.8233
 THE LUAGHING CHEF,DE13 8BU,52.7472,-1.7534
 COSTA COFFEE,LE65 1AF,52.7469,-1.4726
+Costa Coffee,LE65 1AF,52.7471,-1.4722
+The Shoulder of Mutton AshbydelaZouch (Wetherspoon),LE65 1AF,52.7467,-1.4736
 The Courtyard Cafe,LE65 1AG,52.7474,-1.4714
 Little India,LE65 1AH,52.7479,-1.4696
 Zamanis,LE65 1AL,52.7465,-1.4726
@@ -246,7 +240,6 @@ Taste of Thai Restaurant,LE65 1AP,52.7476,-1.4692
 English Heritage,LE65 1BR,52.7462,-1.4702
 Rose Cottage Tearooms,LE65 1HP,52.7477,-1.4711
 Lewis Charlton School The Haven,LE65 1HU,52.7487,-1.4707
-Baxterstorey At Siemens Staff Canteen,LE65 1JD,52.7473,-1.4519
 Suzy Q's Limited,LE65 1LF,52.7461,-1.4729
 Bull and lion packington,LE65 1WH,52.7285,-1.4667
 Poochies of Packington ,LE65 1WJ,52.7296,-1.4661
@@ -263,12 +256,13 @@ Minster Coffee Shop,WS13 6AE,52.6843,-1.8281
 The Causeway,WS13 6AE,52.6844,-1.8282
 Bistro 1709,WS13 6DP,52.6842,-1.8252
 Duke of York ,WS13 6DY,52.6839,-1.8227
-Costa Coffee @ Tesco,WS13 6DZ,52.6843,-1.8216
+Costa Coffee,WS13 6DZ,52.6848,-1.8206
 55 Wade Street,WS13 6HL,52.6822,-1.8276
 Hindleys Bakery and Cafe,WS13 6JJ,52.6835,-1.8261
+The Acorn Inn Lichfield (Wetherspoon),WS13 6JJ,52.6837,-1.8260
 The Pig,WS13 6JJ,52.6837,-1.8258
 McDonald's,WS13 6JR,52.6839,-1.8268
-McDonalds,WS13 6JR,52.6839,-1.8268
+McDonald's,WS13 6JR,52.6839,-1.8269
 Tasty the Cafe Limited,WS13 6JR,52.6839,-1.8269
 McKenzies in the City,WS13 6JU,52.6837,-1.8270
 Margheri Pizzeria ,WS13 6JW,52.6841,-1.8248
@@ -284,16 +278,15 @@ The Daily Grind Cafe Bar,WS13 6LH,52.6825,-1.8295
 THE TUDOR OF LICHFIELD,WS13 6LL,52.6829,-1.8274
 Bengal tandoori Lichfild limited,WS13 6LU,52.6831,-1.8270
 City Corner Cafe,WS13 6LZ,52.6827,-1.8284
-Caffe Nero,WS13 6NB,52.6833,-1.8273
 LGF Play Cafes Ltd,WS13 6NF,52.6830,-1.8261
 Costa Coffee,WS13 6NG,52.6827,-1.8247
+Costa Coffee,WS13 6NG,52.6827,-1.8248
 Ruby Cantonese Restaurant,WS13 6NU,52.6813,-1.8282
 Damn Fine Cafe ,WS13 6PR,52.6830,-1.8301
 George Hotel (Lichfield) Limited,WS13 6PR,52.6831,-1.8304
 POM'S KITCHEN AND DELI LIMITED,WS13 6PR,52.6831,-1.8303
 Qmin restaurant ,WS13 6PR,52.6833,-1.8307
 Sorriso ,WS13 6PR,52.6832,-1.8305
-ASK Italian,WS13 6PW,52.6827,-1.8303
 Brewhouse and Kitchen Lichfield,WS13 6PW,52.6827,-1.8303
 EASTERN EYE,WS13 6PW,52.6828,-1.8304
 EGO Mediterranean Restaurant Lichfield,WS13 6PW,52.6824,-1.8298
@@ -302,13 +295,12 @@ Siam Corner Ma Ma Thai,WS13 6PW,52.6828,-1.8303
 Thai Rainbow Restaurant,WS13 6PW,52.6827,-1.8303
 The Winehouse,WS13 6PW,52.6827,-1.8303
 Horse & jockey,WS13 6QA,52.6825,-1.8311
-Costa Coffee Drive Thru,WS13 6UB,52.6922,-1.8104
+Thyme,WS13 6QZ,52.6821,-1.8318
 THE FEATHERS INN,WS13 7BA,52.6881,-1.8374
 Atalian Servest Food Company @ Streethay Primary School,WS13 8FT,52.6928,-1.7924
 Lichfield Golf & Country Club Ltd,WS13 8HE,52.7138,-1.8452
 Screwfix Lichfield,WS13 8LQ,52.7060,-1.7912
 THE PLOUGH,WS13 8PY,52.6828,-1.7735
-Elior UK Plc @ Tesco Distribution Centre,WS13 8SS,52.7115,-1.7813
 Bilash Restaurant &takeaway limited ,WS13 8ST,52.7123,-1.7782
 cafe no8,WS13 8ST,52.7122,-1.7782
 The Plough at Shenstone,WS14 0JN,52.6402,-1.8409
@@ -317,9 +309,8 @@ Prego Cafe,WS14 0LB,52.6246,-1.8377
 The Lodge Restaurant,WS14 0LQ,52.6201,-1.8371
 Railway,WS14 0LZ,52.6400,-1.8414
 The Old School House Restaurant Ltd,WS14 0PW,52.6326,-1.7933
-Costa Coffee Drive Thru,WS14 0QP,52.6526,-1.8348
 McDonald's,WS14 0QP,52.6526,-1.8348
-McDonalds,WS14 0QP,52.6526,-1.8348
+McDonald's,WS14 0QP,52.6527,-1.8348
 Atalian Servest Food Company @ Saxon Hill Academy,WS14 9DE,52.6755,-1.8202
 Swingers Golf Shop Limited,WS14 9JG,52.6758,-1.7974
 The Bell Inn Public House (Whittington) Ltd,WS14 9JR,52.6736,-1.7621

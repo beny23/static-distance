@@ -2,13 +2,14 @@ name,postcode,lat,lon
 Z&K Kaspas Ltd T/A Kaspas Bridgend,CF31 1DD,51.5039,-3.5755
 Power Meals,CF31 1DL,51.5053,-3.5781
 Costa Coffee ,CF31 1DW,51.5061,-3.5775
-Costa Coffee,CF31 1DW,51.5061,-3.5775
+Costa Coffee,CF31 1DW,51.5060,-3.5771
 The Phoenix,CF31 1EH,51.5076,-3.5775
 Aroma cafe,CF31 1JB,51.5061,-3.5794
 Zia Nina Bridgend ,CF31 1JD,51.5069,-3.5800
+The Wyndham Arms Bridgend (Wetherspoon),CF31 1JE,51.5066,-3.5793
 Il panino,CF31 1LL,51.5074,-3.5790
 The Caeffatri,CF31 1NJ,51.5133,-3.5761
-Costa Coffee and Amigo Shop to Go,CF31 1RQ,51.5183,-3.5724
+Costa Coffee,CF31 1RQ,51.5174,-3.5724
 Castle Bingo Bridgend,CF31 1TZ,51.5043,-3.5709
 Upstairs at Thunder Road,CF31 1UA,51.5047,-3.5703
 The Haywain,CF31 2AP,51.5034,-3.5636
@@ -16,14 +17,12 @@ Pizza Hut Delivery,CF31 2LL,51.5074,-3.5606
 Ashoka Indian Restaurant,CF31 3BP,51.5031,-3.5768
 Exotic Shaad,CF31 3BP,51.5031,-3.5768
 The Coach,CF31 3DH,51.5010,-3.5727
-KFC,CF31 3ND,51.4951,-3.5681
+KFC,CF31 3ND,51.4951,-3.5678
 Mr P E Lewis t/a Phils News & Cafe ,CF31 3SB,51.5016,-3.5387
 STARBUCKS ,CF31 3TN,51.4997,-3.5380
-Starbucks,CF31 3TN,51.4997,-3.5380
-Baxterstorey @ CGI,CF31 3TR,51.4974,-3.5337
-McDonalds,CF31 3XX,51.4961,-3.5676
+McDonald's,CF31 3XX,51.4957,-3.5670
 Subway Parc Plaza,CF31 3XX,51.4957,-3.5670
-Dunelm Cafe Pausa,CF31 3XY,51.4946,-3.5615
+Costa Coffee,CF31 3XY,51.4943,-3.5591
 The Jump Company (Bridgend) Ltd t/a Jump Jam,CF31 3YN,51.4987,-3.5294
 COURT COLMAN MANOR,CF31 4NG,51.5254,-3.6095
 Cinnamon,CF31 5EJ,51.5020,-3.6015
@@ -47,18 +46,15 @@ Llangeinor Arms country Pub and restaurant ltd,CF32 8RX,51.5795,-3.5536
 Bettws Cafe,CF32 8TB,51.5674,-3.5881
 Notty’s Cafe,CF32 9AP,51.5398,-3.5964
 NEW GARDEN RESTAURANT LTD,CF32 9PP,51.5408,-3.5954
-KFC,CF32 9SH,51.5307,-3.5724
+Breakfast Room,CF32 9ST,51.5316,-3.5725
+KFC,CF32 9ST,51.5307,-3.5724
 Caffe Sidoli's,CF32 9SU,51.5323,-3.5777
 Chopstix Bridgend,CF32 9SU,51.5323,-3.5777
-Costa Coffee @ Odeon,CF32 9SU,51.5323,-3.5777
-Costa Coffee,CF32 9SU,51.5323,-3.5777
+Costa Coffee,CF32 9SU,51.5322,-3.5747
+McDonald's,CF32 9SU,51.5324,-3.5751
 McDonalds,CF32 9SU,51.5323,-3.5777
-Pizza Hut Restaurant,CF32 9SU,51.5322,-3.5779
 SPUDULIKE BRIDGEND,CF32 9SU,51.5323,-3.5777
 STARBUCKS ,CF32 9SU,51.5323,-3.5777
-Starbucks,CF32 9SU,51.5323,-3.5777
-Wagamama,CF32 9SU,51.5323,-3.5777
-Burger King Sarn Park,CF32 9SY,51.5345,-3.5774
 Starbucks,CF32 9SY,51.5345,-3.5774
 Welcome Break Petrol,CF32 9SY,51.5345,-3.5774
 Durston's Coffee Roastery & Coffee Shop,CF32 9TZ,51.5477,-3.5769
@@ -75,6 +71,7 @@ iced cake parlour,CF34 9BT,51.6089,-3.6597
 Cafe 21,CF34 9BW,51.6093,-3.6583
 Milanos coffee house ,CF34 9BW,51.6093,-3.6584
 NILANOS COFFEE HOUSE,CF34 9BW,51.6093,-3.6584
+The Sawyers Arms Maesteg (Wetherspoon),CF34 9DF,51.6084,-3.6598
 Valley cafe ,CF34 9DH,51.6077,-3.6581
 Ray’s Indian Kitchen,CF34 9DL,51.6074,-3.6582
 Jans Iced Gems,CF34 9DW,51.6078,-3.6593
@@ -93,7 +90,7 @@ Town & Country Hotels Ltd,CF35 6AF,51.5148,-3.5227
 coed-y-mwstwr golf club (1998) ltd,CF35 6AF,51.5148,-3.5227
 Fox and hounds,CF35 6DR,51.5688,-3.5398
 The Sidewalk Cafe ,CF36 3AH,51.4792,-3.7043
-Costa Coffee,CF36 3AY,51.4787,-3.7033
+Costa Coffee,CF36 3AY,51.4787,-3.7035
 Fulgoni's,CF36 3AY,51.4787,-3.7034
 Cafe Fresco,CF36 3BA,51.4766,-3.7044
 The Welsh Deli,CF36 3BA,51.4769,-3.7043
@@ -124,20 +121,20 @@ The globe inn hotel ltd,CF36 5RN,51.4854,-3.6802
 The Sycamore Tree ,CF71 7NG,51.4674,-3.5265
 Lamb and Flag Wick,CF71 7QE,51.4383,-3.5502
 Limitless activity center ,SA1 8DB,51.6209,-3.9057
-Starbucks Drive Thru,SA1 8QJ,51.6243,-3.8721
+McDonald's,SA1 8LD,51.6205,-3.9107
 Bar Gallois ,SA12 6AY,51.5879,-3.8071
-McDonalds Restaurant,SA12 6LL,51.5942,-3.7926
-KFC,SA12 6NR,51.5929,-3.7922
+McDonald's,SA12 6LL,51.5931,-3.7919
 Blancos Hotel and Restaurant,SA12 6NT,51.5948,-3.7878
 Aberavon Beach Hotel,SA12 6QP,51.5936,-3.8149
-Burger King,SA12 6QW,51.5927,-3.8124
 Cinnamon Kitchen ,SA12 6QW,51.5927,-3.8124
 Franco’s,SA12 6QW,51.5927,-3.8124
 Remo’s,SA12 6QW,51.5917,-3.8128
 Aunty Ann' Cafe,SA12 7BR,51.6134,-3.8160
 Playhem,SA12 7BR,51.6134,-3.8162
+KFC,SA12 7BZ,51.6031,-3.8113
 Subway Baglan Bay Retail Park,SA12 7BZ,51.6042,-3.8094
 Pop in cafe,SA12 7PS,51.6037,-3.8325
+Beefeater Bagle Brook,SA12 8ES,51.6152,-3.8074
 The Brit Pub,SA12 9AH,51.6119,-3.7654
 Afan Tavern,SA12 9AS,51.6145,-3.7600
 The Rolling Mill,SA12 9EW,51.6193,-3.7528
@@ -151,10 +148,10 @@ Mundo Bar and Kitchen,SA13 1NN,51.5932,-3.7811
 FERRARI'S CAFE,SA13 1NR,51.5953,-3.7830
 Selections Coffee Shop,SA13 1NR,51.5953,-3.7830
 La Memo Brasserie,SA13 1NU,51.5960,-3.7815
+The Lord Caradoc Port Talbot (Wetherspoon),SA13 1NW,51.5944,-3.7822
 Baristas2,SA13 1PB,51.5969,-3.7855
 Costa Coffee ,SA13 1PB,51.5969,-3.7855
-Costa Coffee,SA13 1PB,51.5969,-3.7855
+Costa Coffee,SA13 1PB,51.5969,-3.7852
 THE HIDEOUT CAFE,SA13 1PB,51.5969,-3.7855
 Gossip cafe,SA13 1PH,51.5961,-3.7839
-Compass Group Hot Mill Canteen,SA13 2NG,51.5680,-3.7594
 the grand sultan,SA13 2PA,51.5506,-3.7264

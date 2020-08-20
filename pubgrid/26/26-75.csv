@@ -1,15 +1,15 @@
 name,postcode,lat,lon
 The Valiant Sailor,CT18 7JJ,51.0978,1.2014
 Rocksalt Restaurant & Bar,CT19 6AA,51.0803,1.1865
-Burger King,CT20 1AE,51.0791,1.1775
 SUBWAY ,CT20 1AE,51.0791,1.1775
 Burger King,CT20 1AU,51.0798,1.1781
 Cannon Leisure Limited,CT20 1BA,51.0790,1.1764
 Grind n Bake Coffee House & Bakery,CT20 1DP,51.0796,1.1797
-Costa Coffee,CT20 1DW,51.0792,1.1788
+Costa Coffee,CT20 1DW,51.0791,1.1792
 Zen cafe eatery ,CT20 1DZ,51.0803,1.1804
 Planet Earth Kitchen ltd,CT20 1EX,51.0798,1.1815
 Market Square,CT20 1EY,51.0804,1.1813
+The Samuel Peto Folkestone (Wetherspoon),CT20 1EY,51.0805,1.1813
 djangos,CT20 1EY,51.0804,1.1813
 Luben,CT20 1EZ,51.0807,1.1817
 Oriental Buffet,CT20 1EZ,51.0807,1.1817
@@ -23,16 +23,15 @@ El Cortador Tapas Bar,CT20 1RL,51.0803,1.1828
 Marleys Bistro Ltd,CT20 1RL,51.0803,1.1828
 Steep Street Coffee House,CT20 1RL,51.0803,1.1828
 Bella Vita Ristorante Folkestone,CT20 1RN,51.0805,1.1842
-Mcdonalds Restaurant,CT20 1RR,51.0783,1.1789
+McDonald's,CT20 1RR,51.0780,1.1789
 P A Crocker Ltd t/a McDonalds,CT20 1RR,51.0783,1.1789
 Suna Restaurant Ltd,CT20 1RR,51.0783,1.1789
 Mr baguette ,CT20 1SB,51.0795,1.1804
 The Pullman,CT20 1SE,51.0795,1.1814
 The British lion,CT20 1SQ,51.0793,1.1830
 Caffe La Delizia,CT20 1SS,51.0795,1.1790
-Starbucks,CT20 1SS,51.0795,1.1790
 Grand Burstin Hotel Folkestone,CT20 1TX,51.0784,1.1852
-KFC,CT20 2AA,51.0783,1.1775
+KFC,CT20 2AA,51.0782,1.1771
 KOFFEE STATION ,CT20 2AA,51.0783,1.1776
 Laurielle's Cafe Restaurant,CT20 2AD,51.0785,1.1759
 Anna's Tea Room,CT20 2AY,51.0787,1.1758

@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 Costa Coffee,FY5 1AG,53.8771,-3.0422
+Costa Coffee,FY5 1AG,53.8772,-3.0427
 FAMILY BAKERY,FY5 1AG,53.8771,-3.0422
 FAYEZ TANDOORI LTD,FY5 1AG,53.8771,-3.0422
 The Shipwreck Brewhouse ,FY5 1AJ,53.8775,-3.0427
@@ -10,7 +11,6 @@ The Bakehouse,FY5 1BS,53.8779,-3.0446
 Cafe Marina,FY5 1BU,53.8774,-3.0451
 Cafe Renoir,FY5 1BU,53.8774,-3.0451
 Steve's Fish & Chips,FY5 1DA,53.8786,-3.0458
-Pizza Hut Restaurant,FY5 1DB,53.8825,-3.0466
 Joel's,FY5 1DG,53.8766,-3.0440
 pulcinella restaurant,FY5 1DG,53.8766,-3.0441
 Cafe Cove,FY5 1LW,53.8844,-3.0471
@@ -18,10 +18,10 @@ The Venue,FY5 1LW,53.8844,-3.0471
 Linden tree tea room ,FY5 2EZ,53.8794,-3.0208
 Papa Johns,FY5 3LA,53.8767,-3.0371
 Great Fortune House,FY5 3LG,53.8765,-3.0392
-J D WETHERSPOON PLC,FY5 3NE,53.8763,-3.0373
+KFC,FY5 3NA,53.8764,-3.0380
 KFC Cleveleys,FY5 3NE,53.8763,-3.0373
-KFC,FY5 3NE,53.8763,-3.0373
 Mr Nitro's Ice Cream & Desserts (Cleveleys),FY5 3NE,53.8765,-3.0382
+The Jolly Tars Cleveleys (Wetherspoon),FY5 3NE,53.8764,-3.0377
 Michaels Restaurant,FY5 4AF,53.8758,-3.0126
 Pizza Calcio,FY5 4HX,53.8849,-3.0054
 cozy corner cafe,FY5 4HX,53.8849,-3.0054
@@ -35,19 +35,19 @@ The Puddled Duck,FY6 9EQ,53.8863,-2.9494
 GRANADA FISH BAR,FY7 6AA,53.9244,-3.0090
 Tasty Bite Cafe,FY7 6AD,53.9236,-3.0072
  Costa Coffee Fleetwood,FY7 6AE,53.9170,-3.0137
-COSTA COFFEE(Redracz),FY7 6AE,53.9171,-3.0135
 Katie's Affinity Lancashire,FY7 6AE,53.9171,-3.0135
 McDonald's Restaurants Ltd,FY7 6AE,53.9171,-3.0135
+McDonald's,FY7 6AE,53.9187,-3.0121
 SUBWAY,FY7 6AE,53.9171,-3.0135
 The Cosy Cafe and Bistro,FY7 6AR,53.9260,-3.0088
 North Euston Hotel,FY7 6BN,53.9280,-3.0089
 SUBWAY,FY7 6DS,53.9224,-3.0116
 KFC Fleetwood,FY7 6DT,53.9230,-3.0110
-KFC,FY7 6DT,53.9230,-3.0110
+KFC,FY7 6DT,53.9230,-3.0108
 Lords deli,FY7 6DU,53.9231,-3.0099
-J D WETHERSPOON PLC,FY7 6EU,53.9245,-3.0142
 Additions Cafe Bar,FY7 6HL,53.9265,-3.0118
 Richardsons Fish House,FY7 6JB,53.9211,-3.0114
+The Thomas Drummond Fleetwood (Wetherspoon),FY7 6JE,53.9219,-3.0116
 Food For Thought ,FY7 6JH,53.9227,-3.0121
 The five-0,FY7 6LF,53.9233,-3.0148
 the eating plaice,FY7 6LH,53.9216,-3.0144
@@ -55,6 +55,7 @@ Barneys Leisure Ltd,FY7 6NW,53.9198,-3.0161
 The Mount Hotel,FY7 6QE,53.9249,-3.0205
 Strawberry Gardens Pub & Bistro,FY7 6TF,53.9210,-3.0194
 Fleetwood Town FC,FY7 6TX,53.9169,-3.0229
+Costa Coffee,FY7 8BA,53.9167,-3.0152
 Farmer Parrs Animal World,FY7 8JP,53.8974,-3.0322
 babar elephant,LA1 5JB,54.0568,-2.8206
 Packforce Ltd,LA1 5NA,54.0473,-2.8195
@@ -69,8 +70,7 @@ Bellas Bistro and Coffee Shop,LA3 1BU,54.0648,-2.8831
 The Royal Heysham,LA3 2RN,54.0465,-2.9006
 The Old Hall Inn,LA3 2RT,54.0431,-2.8952
 McDonald's Restaurants,LA3 3AB,54.0625,-2.8315
-McDonalds Restaurant,LA3 3AB,54.0625,-2.8315
-Caffe Pausa  Dunelm Mill,LA3 3FE,54.0546,-2.8441
+McDonald's,LA3 3AB,54.0625,-2.8314
 Heysham Golf Club,LA3 3JH,54.0325,-2.8971
 Grafters,LA3 3PP,54.0211,-2.8931
 No.9 ,LA4 4AR,54.0721,-2.8687
@@ -78,22 +78,22 @@ Jump Rush,LA4 4AY,54.0718,-2.8699
 Costa Coffee Morecambe ,LA4 4BJ,54.0727,-2.8672
 Crown bar and Bistro ,LA4 4BJ,54.0727,-2.8672
 Costa Coffee Morecambe 219,LA4 4BU,54.0720,-2.8720
-Costa Coffee,LA4 4BU,54.0720,-2.8720
+Costa Coffee,LA4 4BU,54.0724,-2.8705
+Costa Coffee,LA4 4BU,54.0768,-2.8586
 Midland,LA4 4BU,54.0723,-2.8716
 Vista Italian Restaurant and Soul Bar,LA4 4BU,54.0720,-2.8720
 b-eatonthestreet,LA4 4BU,54.0723,-2.8716
-KFC,LA4 4DE,54.0704,-2.8754
+KFC,LA4 4DB,54.0709,-2.8747
 KFC,LA4 4DW,54.0710,-2.8737
 Trimpell SSC,LA4 4UP,54.0682,-2.8568
 Aspect Bar and Bistro,LA4 5AA,54.0750,-2.8624
 The Auckland Hotel,LA4 5AA,54.0749,-2.8624
-Costa Coffee,LA4 5BX,54.0732,-2.8657
 Grandma's Puppet Shop/Bayside Brew,LA4 5BX,54.0732,-2.8659
 Secret bistro,LA4 5BZ,54.0732,-2.8654
+The Eric Bartholomew Morecambe (Wetherspoon),LA4 5DD,54.0722,-2.8669
 Burger King,LA4 5DN,54.0720,-2.8665
 Subway Morecambe,LA4 5DW,54.0724,-2.8668
 The Sandwich Bar,LA4 5EQ,54.0731,-2.8646
-Buzz Bingo,LA4 5HY,54.0758,-2.8595
 York hotel kitchen,LA4 5QH,54.0707,-2.8561
 BLUE MOUNTAIN RESTAURANT,LA4 6AB,54.0779,-2.8437
 Morecambe Golf Club Limited,LA4 6AJ,54.0817,-2.8349

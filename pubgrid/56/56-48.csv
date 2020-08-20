@@ -1,7 +1,6 @@
 name,postcode,lat,lon
 Coach and horses,CW1 4QZ,53.1263,-2.4784
 Minshulls Garden Centre Restaurant,CW1 4RQ,53.1323,-2.4851
-Starbucks,CW10 0JB,53.1957,-2.4299
 The Boars Head,CW10 0JE,53.1929,-2.4417
 The Kinderton,CW10 0JE,53.1929,-2.4417
 The King's Lock,CW10 0JJ,53.1870,-2.4410
@@ -11,7 +10,9 @@ Narrowboat Inn,CW10 9AS,53.1899,-2.4428
 The big lock,CW10 9DN,53.1954,-2.4479
 Ginger and Pickles,CW10 9NG,53.2203,-2.4139
 Raffaele,CW11 1AB,53.1446,-2.3652
+Costa Coffee,CW11 1AD,53.1443,-2.3641
 THE WHEATSHEAF SANDBACH,CW11 1AG,53.1441,-2.3651
+The George Inn Sandbach (Wetherspoon),CW11 1AL,53.1434,-2.3623
 Jenny's Tea Shop,CW11 1AN,53.1434,-2.3619
 K2H Creative Indian Kitchen,CW11 1AR,53.1431,-2.3628
 Bar Six,CW11 1AT,53.1442,-2.3620
@@ -19,12 +20,13 @@ Casa Mia,CW11 1AT,53.1442,-2.3620
 Market Tavern,CW11 1AT,53.1442,-2.3625
 The Gourmet Cafe and Coffee Company Limited,CW11 1AT,53.1442,-2.3621
 DV8,CW11 1AX,53.1444,-2.3630
-McDonalds,CW11 1DH,53.1449,-2.3669
+McDonald's,CW11 1DH,53.1441,-2.3685
 McDonald’s Restaurants 1203 t/a LEMACA Ltd,CW11 1DH,53.1449,-2.3669
 Kan’s Oriental Restaurant ,CW11 1GX,53.1456,-2.3637
 Sally's Cafe,CW11 1GX,53.1456,-2.3637
 Filotimo,CW11 1HG,53.1474,-2.3616
-McDonalds (South Bound),CW11 2FZ,53.1394,-2.3375
+Costa Coffee,CW11 2FZ,53.1394,-2.3375
+McDonald's,CW11 2FZ,53.1393,-2.3374
 The Bulls Head,CW11 2TY,53.1372,-2.3040
 Legs of man,CW11 2UG,53.1536,-2.3168
 Miola,CW11 3HD,53.1403,-2.3887
@@ -33,9 +35,11 @@ The Bear's Paw,CW11 3QN,53.1479,-2.4364
 Barchetta Restaurant,CW11 3RL,53.1291,-2.3732
 Chimney House Hotel,CW11 4ST,53.1504,-2.3360
 Rumba,CW12 1AH,53.1636,-2.2149
+The Counting House Congleton (Wetherspoon),CW12 1AH,53.1638,-2.2147
 DV8,CW12 1AR,53.1633,-2.2144
 Wild & Wild Ltd,CW12 1AY,53.1631,-2.2133
 Costa Coffee,CW12 1BA,53.1629,-2.2129
+Costa Coffee,CW12 1BA,53.1630,-2.2129
 LizzyB's,CW12 1BD,53.1627,-2.2114
 Ye Olde White Lion Congleton,CW12 1BD,53.1627,-2.2114
 Gather ,CW12 1BN,53.1630,-2.2109
@@ -43,6 +47,8 @@ The olde Kings Arms ,CW12 1BN,53.1630,-2.2109
 Bear Grills Cafe,CW12 1BP,53.1639,-2.2117
 KingfishR Indian cuisine,CW12 1HG,53.1651,-2.2146
 The Old Saw Mill,CW12 1HJ,53.1657,-2.2149
+Costa Coffee,CW12 1LR,53.1688,-2.2180
+McDonald's,CW12 1LR,53.1674,-2.2189
 McDonald’s Restaurants 552 t/a LEMACA Ltd,CW12 1LR,53.1689,-2.2176
 Spice Sector Ltd,CW12 1RP,53.1628,-2.2095
 Reuben Stubbs Bistro,CW12 1RS,53.1627,-2.2078
@@ -61,7 +67,7 @@ The Egerton Arms Country Inn,CW12 4RQ,53.1511,-2.2320
 PECKS RESTAURANT,CW12 4SB,53.1401,-2.2501
 The Brownlow Inn Ltd,CW12 4TH,53.1419,-2.2545
 Costa Coffee - Holmes Chapel,CW4 7AD,53.2024,-2.3581
-Costa Coffee,CW4 7AD,53.2024,-2.3581
+Costa Coffee,CW4 7AD,53.2024,-2.3580
 The Deli & Coffee Shop,CW4 7AZ,53.2016,-2.3580
 The George & Dragon,CW4 7EA,53.2028,-2.3597
 THE FOX & HOUNDS,CW4 7LW,53.1986,-2.4009
@@ -71,10 +77,11 @@ Woodside Golf Club,CW4 8HJ,53.2238,-2.3819
 The Red Lion,CW4 8PJ,53.2252,-2.3293
 The Galley Cafe ,CW5 6DX,53.1328,-2.5159
 The Badger Inn,CW5 6DY,53.1402,-2.5020
+The Queens Arms Winsford (Wetherspoon),CW7 1AT,53.1913,-2.5303
 Al's Plaice,CW7 1BA,53.1917,-2.5276
 The Red Lion,CW7 3AA,53.1934,-2.5164
+McDonald's,CW7 3BS,53.1979,-2.5137
 Polar Palace Play & Party Centre,CW7 3PR,53.1975,-2.4961
-Baxterstorey,CW7 3QY,53.1983,-2.4914
 abm catering at Coveris,CW7 3RD,53.2016,-2.4967
 UA Cheshire Trampoline Park Ltd,CW7 3RL,53.2035,-2.4986
 The Old Star,CW7 4BL,53.1808,-2.5309
@@ -84,20 +91,22 @@ The Iron Bridge,CW8 1HH,53.2553,-2.5265
 The Indian ,CW8 1JB,53.2569,-2.5223
 CAFA556 Limited ,CW8 1PP,53.2391,-2.5345
 NORTHWICH TANDOORI,CW9 5AB,53.2621,-2.5088
+The Penny Black Northwich (Wetherspoon),CW9 5AB,53.2622,-2.5086
 Bratt & Evans Ltd,CW9 5AP,53.2618,-2.5136
 The Seafarer Northwich,CW9 5AS,53.2610,-2.5121
 Vinnies,CW9 5BD,53.2611,-2.5145
 Kanya Bistro & Restaurant,CW9 5BE,53.2613,-2.5147
-McDonalds Restaurant,CW9 5DD,53.2617,-2.5149
+McDonald's,CW9 5DD,53.2616,-2.5149
 RHI Squared Ltd t/a McDonalds,CW9 5DD,53.2617,-2.5149
 the quayside,CW9 5DY,53.2625,-2.5080
 BEAR Northwich,CW9 5FT,53.2620,-2.5151
 Sticky Paws,CW9 5FT,53.2627,-2.5135
-Wildwood,CW9 5FT,53.2624,-2.5145
+KFC,CW9 5GF,53.2636,-2.4983
 Costa Coffee - Northwich,CW9 5LA,53.2623,-2.5123
-Costa Coffee,CW9 5LA,53.2623,-2.5123
+Costa Coffee,CW9 5LA,53.2623,-2.5124
 The Coffee House Northwich,CW9 5LG,53.2627,-2.5118
-Costa Coffee,CW9 5LY,53.2626,-2.4964
+Costa Coffee,CW9 5LY,53.2625,-2.4951
+McDonald's,CW9 5ND,53.2630,-2.4932
 RHI squared Ltd t/a McDonalds,CW9 5ND,53.2633,-2.4952
 KFC,CW9 5QJ,53.2609,-2.5085
 Stanley Arms,CW9 6AG,53.2745,-2.5299
@@ -111,15 +120,14 @@ Cheshire Grill,CW9 7SY,53.2448,-2.4435
 Arabica Caffe,CW9 7UW,53.2470,-2.4825
 Subway,CW9 7YL,53.2726,-2.4570
 Thye bowlinggreen,CW9 8AA,53.2536,-2.5139
+Cookhouse + Pub The Woodpecker,CW9 8EG,53.2410,-2.5124
 new pub company davenham limited t/a the bulls head,CW9 8NA,53.2347,-2.5102
 The Rivers Edge Cafe,CW9 8SQ,53.2497,-2.5189
 Kingsmead Spice,CW9 8UW,53.2431,-2.5196
 Aquila,SK10 1AA,53.2612,-2.1291
-Caffe Nero,SK10 1DY,53.2601,-2.1256
-Costa Coffee,SK10 1DY,53.2601,-2.1256
+Costa Coffee,SK10 1DY,53.2603,-2.1258
 Fina Bar and Grill,SK10 1EB,53.2611,-2.1258
 O’Cha Thai restaurant ,SK10 1EX,53.2613,-2.1253
-Pizza Express,SK10 1EX,53.2613,-2.1253
 The Tytherington Golf & Country Club,SK10 2JP,53.2794,-2.1279
 West Park Café ,SK10 3BJ,53.2643,-2.1342
 SUBWAY MACCLESFIELD HOPE PARK,SK10 3GR,53.2618,-2.1365
@@ -131,10 +139,8 @@ McCann Manchester,SK10 4EF,53.3075,-2.1469
 Tiffin kitchen ,SK10 4HP,53.2906,-2.1493
 lilac cottage tapas and wine bar,SK10 4HP,53.2907,-2.1492
 The Greenhouse Coffee Shop,SK10 4LJ,53.3266,-2.1824
-Starbucks,SK10 4NG,53.3288,-2.1352
 Mottram Hall Hotel,SK10 4QT,53.3090,-2.1773
 Bengal Tiger Lily,SK10 4TD,53.2674,-2.2352
-Burger King,SK11 0LP,53.2393,-2.1289
 Superbowl UK Macclesfield Ltd ,SK11 0TB,53.2373,-2.1302
 COFFEE BEANS CAFE LIMITED,SK11 6AX,53.2601,-2.1272
 COFFEE TRADERS (MACCLESFIELD) LIMITED,SK11 6BA,53.2607,-2.1269
@@ -147,7 +153,6 @@ Jin’s Oriental LTD,SK11 6DP,53.2610,-2.1309
 FrenJabi Restaurant & Bar,SK11 6DU,53.2608,-2.1312
 Picturedrome,SK11 6DU,53.2608,-2.1312
 The Shalimar Restaurant,SK11 6DU,53.2608,-2.1312
-Elior at The Gallery,SK11 6ET,53.2601,-2.1313
 Tempranillo,SK11 6LQ,53.2594,-2.1250
 KIRWAN & SONS LTD,SK11 6NN,53.2572,-2.1256
 BAY TURKISH RESTAURANT,SK11 6NR,53.2572,-2.1250
@@ -168,28 +173,25 @@ Barinda,SK9 1AA,53.3280,-2.2312
 Suburban Green,SK9 1AA,53.3280,-2.2309
 Sotto ,SK9 1BT,53.3273,-2.2286
 Wilmslow Catering limited ,SK9 1BT,53.3273,-2.2286
-Miller & Carter,SK9 1BU,53.3273,-2.2279
 Konak Cafe,SK9 1DR,53.3273,-2.2314
 Starbucks Grove Street,SK9 1DT,53.3263,-2.2319
-Starbucks,SK9 1DT,53.3263,-2.2319
-Caffe Nero,SK9 1DU,53.3268,-2.2311
 Cafe39,SK9 1HB,53.3264,-2.2317
 Petit Delice,SK9 1HB,53.3264,-2.2317
 Anthology,SK9 1HE,53.3274,-2.2295
 Brewhouse and Kitchen Wilmslow,SK9 1HE,53.3274,-2.2295
 PEKING GARDEN,SK9 1HT,53.3261,-2.2305
+Costa Coffee,SK9 1HY,53.3257,-2.2315
 Casa Italia,SK9 1JX,53.3255,-2.2336
 Cibo,SK9 1LD,53.3265,-2.2314
 La Fabrica Wilmslow,SK9 1NY,53.3247,-2.2348
 Medirest Healthcare - Compass Group,SK9 1NY,53.3247,-2.2347
-Pizza Express,SK9 1PL,53.3254,-2.2338
 The Topiary Coffee Shop,SK9 2JN,53.3410,-2.2216
 Jathra Restaurant,SK9 3ES,53.3492,-2.2147
 Mr GUO JIE ZHANG T/A HANDFORTH CANTONESE RESTAURANT,SK9 3HG,53.3499,-2.2161
 Costa Coffee - Handforth Village,SK9 3HQ,53.3499,-2.2161
-Costa Coffee,SK9 3HQ,53.3499,-2.2161
 Giuliano Italian Restaurant,SK9 3HX,53.3495,-2.2157
 Que delicia,SK9 3LP,53.3488,-2.2113
+Costa Coffee,SK9 3TJ,53.3494,-2.2057
 Syal Village Community Store & Cafe,SK9 4JE,53.3491,-2.2486
 THE SHIP AT STYAL,SK9 4JE,53.3491,-2.2486
 Airport Inn Manchester,SK9 4LR,53.3433,-2.2768
@@ -201,8 +203,7 @@ Sarafina Italian,SK9 5BB,53.3268,-2.2372
 THE EASY FISH RESTAURANT,SK9 5BB,53.3268,-2.2372
 Chilli Banana Thai Restaurant,SK9 5BQ,53.3264,-2.2374
 Gusto Italian,SK9 7DY,53.3011,-2.2360
-Caffe Nero,SK9 7DZ,53.3010,-2.2365
-Costa Coffee,SK9 7DZ,53.3010,-2.2365
+Costa Coffee,SK9 7DZ,53.3016,-2.2363
 Victors Alderley,SK9 7DZ,53.3009,-2.2365
 village cafe,SK9 7DZ,53.3010,-2.2365
 Les Deux Pizza Bar,SK9 7JT,53.3024,-2.2360
@@ -220,16 +221,12 @@ Curzon Knutsford,WA16 0PE,53.3023,-2.3732
 The Topiary Coffee Shop,WA16 0QW,53.3485,-2.4518
 Mere Court Hotel,WA16 0RW,53.3439,-2.4294
 Cottons Hotel & Spa,WA16 0SU,53.3196,-2.3929
-Costa Coffee Drive Thru (North),WA16 0TJ,53.3009,-2.4016
-Burger King (North),WA16 0TL,53.3009,-2.4016
-Burger King (South),WA16 0TL,53.3009,-2.4016
-Costa Coffee (North),WA16 0TL,53.3009,-2.4016
-Costa Coffee Kiosk (South),WA16 0TL,53.3009,-2.4016
-Costa Coffee Pod (Outside South),WA16 0TL,53.3009,-2.4016
+Costa Coffee,WA16 0TL,53.3010,-2.4011
 The Smoker Inn,WA16 0TY,53.2807,-2.4361
 High Legh Park Golf Club,WA16 0WA,53.3494,-2.4416
 Pastiche,WA16 6AB,53.3053,-2.3751
 Cranford Cafe & Sandwich Bar,WA16 6BH,53.3048,-2.3760
+Costa Coffee,WA16 6BU,53.3041,-2.3753
 The Old Sessions House,WA16 6BW,53.3046,-2.3752
 CHICINOS KNUTSFORD LIMITED,WA16 6BY,53.3036,-2.3745
 Copper29,WA16 6BY,53.3036,-2.3745
@@ -243,7 +240,6 @@ The Tea Room,WA16 6DX,53.3042,-2.3727
 Blue Sky Foods Limited T/A King Street Kitchen,WA16 6ED,53.3049,-2.3738
 the courtyard coffeehouse knutsford,WA16 6ED,53.3049,-2.3738
 DON GIOVANNIS (KNUTSFORD)LTD,WA16 6EH,53.3058,-2.3739
-Pizza Express,WA16 6EH,53.3058,-2.3739
 Cheshire (ER) LTD,WA16 6EQ,53.3051,-2.3736
 Margao restaurant and bar ,WA16 6EQ,53.3051,-2.3736
 April's Kitchen Knutsford,WA16 6GR,53.3045,-2.3742

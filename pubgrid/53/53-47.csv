@@ -1,10 +1,9 @@
 name,postcode,lat,lon
-Nando's,CW1 2AQ,53.0979,-2.4348
 kfc,CW1 2BS,53.0985,-2.4406
 BRU CAFE AND COFFEE LTD,CW1 2BZ,53.0989,-2.4407
 Costa Coffee,CW1 2EL,53.0978,-2.4409
+Costa Coffee,CW1 2EL,53.0979,-2.4411
 Starbucks Crewe,CW1 2EL,53.0978,-2.4409
-Starbucks,CW1 2EL,53.0978,-2.4409
 Subway Market Street Crewe,CW1 2EL,53.0978,-2.4409
 Ozzys cafe,CW1 2HF,53.0992,-2.4422
 RHODE ISLAND COFFEE LTD,CW1 2HF,53.0992,-2.4422
@@ -12,11 +11,11 @@ Riminis Coffee Lounge,CW1 2JG,53.0991,-2.4430
 Vernon's Fish Bar,CW1 2JG,53.0991,-2.4434
 The Nags Head,CW1 2ND,53.1011,-2.4412
 Sadie’s Cafe & Coffee Bar ,CW1 2NG,53.0997,-2.4413
-KFC,CW1 2RP,53.0963,-2.4337
-MECCA Bingo,CW1 3AJ,53.0960,-2.4434
-McDonalds,CW1 3AW,53.0986,-2.4526
+Costa Coffee,CW1 2RP,53.0970,-2.4333
+KFC,CW1 2RP,53.0972,-2.4343
+KFC,CW1 3AS,53.0989,-2.4539
+McDonald's,CW1 3AW,53.0984,-2.4553
 McDonald’s Restaurants 1461 t/a LEMACA Ltd,CW1 3AW,53.0986,-2.4526
-Pizza Hut Restaurant,CW1 3AW,53.0986,-2.4526
 kfc,CW1 3AW,53.0986,-2.4526
 RX Lounge Ltd,CW1 3TJ,53.1075,-2.4567
 the white lion ,CW1 4PS,53.1220,-2.4410
@@ -26,9 +25,9 @@ the Bakery Cafe,CW1 5QX,53.1001,-2.3945
 Ego at the Fox Inn,CW1 5QZ,53.0983,-2.3938
 Cyber Cafe (Radius Cafe),CW1 6BD,53.0919,-2.4197
 Hotel ibis Styles Crewe,CW1 6BD,53.0919,-2.4197
-McDonalds,CW1 6DR,53.0917,-2.4307
+McDonald's,CW1 6DR,53.0918,-2.4307
 McDonald’s Restaurants 1169 t/a LEMACA Ltd,CW1 6DR,53.0917,-2.4307
-Starbucks,CW1 6FL,53.0866,-2.4295
+Brewers Fayre The Brocklebank,CW1 6FX,53.0874,-2.4292
 Crewe Hall Hotel,CW1 6UZ,53.0828,-2.4002
 Hickory's Smokehouse,CW2 5AF,53.0751,-2.4400
 The Vine Inn,CW2 5DT,53.0637,-2.4504
@@ -36,7 +35,6 @@ The Elephant,CW2 5DZ,53.0580,-2.4600
 Wychwood Park Hotel & Golf Club,CW2 5GP,53.0501,-2.3932
 playworld limited,CW2 5JF,53.0574,-2.4435
 The White Lion ,CW2 5NA,53.0652,-2.3973
-Crewe KFC,CW2 5PT,53.0689,-2.3372
 White Lion Inn  Barthomley ,CW2 5QJ,53.0560,-2.3578
 Passage to India Restaurant,CW2 6AD,53.0889,-2.4374
 Giovannis (UK) Limited,CW2 6AF,53.0892,-2.4376
@@ -48,11 +46,11 @@ Jan’s Occasional Cakes ,CW2 6DA,53.0875,-2.4463
 Pizza Hut,CW2 6DA,53.0875,-2.4462
 Spedalis Coffee Shop and Eatery,CW2 6DF,53.0881,-2.4432
 Crewe Arms Hotel,CW2 6DN,53.0903,-2.4328
-Miller & Carter,CW2 6PB,53.0841,-2.4545
 Open Mind Café,CW2 7LE,53.0877,-2.4462
 The Hall (next to Funsters),CW2 7LR,53.0912,-2.4423
 Duke of Bridgewater,CW2 7RA,53.0952,-2.4452
 Park Life Café Crewe,CW2 7SE,53.0985,-2.4674
+Beefeater The Farmhouse,CW2 8SD,53.0954,-2.4849
 THE PANTREE COFFEE & TEA LOUNGE LTD,CW2 8UR,53.0893,-2.4648
 Farm Made ,CW3 0AH,52.9897,-2.5087
 The Lord Combermere,CW3 0AQ,52.9887,-2.5088
@@ -71,7 +69,6 @@ The Hive,CW5 5AB,53.0678,-2.5215
 miss marmalades ltd,CW5 5AB,53.0678,-2.5215
 The Talbot,CW5 5AL,53.0679,-2.5227
 Romazzino Restaurant,CW5 5AR,53.0675,-2.5234
-Caffe Nero,CW5 5AS,53.0671,-2.5227
 Enzo,CW5 5AS,53.0671,-2.5227
 Nantwich Bookshop,CW5 5AS,53.0671,-2.5227
 The Crown Hotel (Nantwich) Ltd,CW5 5AS,53.0671,-2.5227
@@ -119,24 +116,16 @@ Tillys Coffee Shop,CW6 9QS,53.1147,-2.6523
 The Yew Tree Inn,CW6 9RD,53.1104,-2.6542
 Sneyd Arms,ST5 5AD,53.0043,-2.2878
 The Sheet Anchor,ST5 5BU,52.9604,-2.3039
-COSTA COFFEE,ST5 5BW,53.0018,-2.2710
-STARBUCKS - NORTH,ST5 5DA,52.9588,-2.3072
 Slater's Club Ltd,ST5 5ED,52.9494,-2.3085
 Slater's Country Inn,ST5 5ED,52.9494,-2.3085
 The Swan With Two Necks,ST5 5EH,52.9473,-2.3469
-BURGER KING (BRIDGE),ST5 5HG,52.9938,-2.2901
-KFC,ST5 5HG,52.9938,-2.2901
-STARBUCKS (SOUTH),ST5 5HG,52.9938,-2.2901
-STARBUCKS - NORTH DRIVE THRU,ST5 5HG,52.9938,-2.2901
-STARBUCKS - SOUTH DRIVE THRU,ST5 5HG,52.9938,-2.2901
+KFC,ST5 5HG,52.9939,-2.2901
 The Bush,ST5 6JZ,53.0155,-2.2773
 Wolstanton Golf Club Ltd,ST5 9DR,52.9941,-2.2817
 The Milehouse,ST5 9HP,53.0058,-2.3297
 The swan inn,ST7 1PS,53.0766,-2.2625
-BB'S BAKERS + BARISTAS,ST7 1XD,53.0702,-2.2635
-BURGER KING,ST7 1XD,53.0702,-2.2635
 Burger King - Talke Point,ST7 1XD,53.0702,-2.2635
-COSTA COFFEE,ST7 1XD,53.0702,-2.2635
+Costa Coffee,ST7 1XD,53.0709,-2.2638
 Caster's ,ST7 2AF,53.0963,-2.3026
 The Bank Corner,ST7 2AF,53.0963,-2.3026
 The Wilbraham Arms,ST7 2AX,53.1021,-2.3110
@@ -146,6 +135,7 @@ INDIAN HEAVEN RESTAURANT,ST7 2HA,53.0955,-2.3107
 The Mere Inn,ST7 2HA,53.0955,-2.3107
 romazzino alsager,ST7 2HA,53.0955,-2.3107
 The Chinese Garden ,ST7 2JA,53.0952,-2.3141
+Costa Coffee,ST7 2LP,53.0957,-2.3043
 Alsager - Costa Coffee,ST7 2LU,53.0933,-2.3007
 Manor House Hotel LTD,ST7 2QQ,53.0885,-2.2978
 lawton arms,ST7 3DL,53.1004,-2.2866
@@ -165,9 +155,10 @@ The Cholmondeley Arms,SY14 8HN,53.0498,-2.6687
 the india garden restaurant,TF9 1AA,52.9034,-2.4839
 Red Lion Inn,TF9 1JP,52.9034,-2.4828
 Tudor House & Hotel,TF9 1PD,52.9039,-2.4844
+Costa Coffee,TF9 1PH,52.9044,-2.4850
 The hideout coffee shop,TF9 1PN,52.9055,-2.4861
+The Hippodrome Market Drayton (Wetherspoon),TF9 1PS,52.9062,-2.4855
 jones's coffee house,TF9 1QB,52.9035,-2.4831
-Atalian Servest Food Co,TF9 3AW,52.9053,-2.4848
 Festival Drayton Centre ,TF9 3AX,52.9040,-2.4857
 Clive and Coffyne ,TF9 3BY,52.9036,-2.4848
 JAIPUR INDIAN CUISINE LTD,TF9 3BZ,52.9037,-2.4840

@@ -1,14 +1,13 @@
 name,postcode,lat,lon
-Costa Coffee,EX15 1AA,50.8576,-3.3931
+Costa Coffee,EX15 1AA,50.8575,-3.3930
 Jurassic Coast Coffee Ltd t/a Costa Coffee Collumpton,EX15 1AA,50.8576,-3.3931
 Vitamin sea cullompton ltd,EX15 1AA,50.8579,-3.3932
 The Bakehouse,EX15 1AB,50.8576,-3.3927
 Roberto’s limited,EX15 1AJ,50.8591,-3.3923
 The Weary Traveller,EX15 1BQ,50.8605,-3.3887
 Hayridge cafe,EX15 1DJ,50.8544,-3.3934
-Costa Coffee,EX15 1NS,50.8597,-3.3849
 McDonald's Cullompton ,EX15 1PA,50.8572,-3.3751
-McDonalds Restaurant,EX15 1PA,50.8572,-3.3751
+McDonald's,EX15 1PA,50.8630,-3.3845
 The Butterleigh Inn,EX15 1PN,50.8643,-3.4584
 PADBROOK PARK HOTEL,EX15 1RU,50.8465,-3.3958
 Merry Harriers,EX15 1SA,50.8262,-3.3903
@@ -16,10 +15,11 @@ The Five Bells Inn,EX15 2NT,50.8042,-3.3814
 The Dig Inn,EX15 2PE,50.8777,-3.3790
 The Halfway House,EX15 2RF,50.8957,-3.3660
 Gallery Restaurant,EX16 4DB,50.9047,-3.4769
-Pho Nam,EX16 4LA,50.9038,-3.4831
 Tiverton Golf Club,EX16 4NE,50.9146,-3.4408
 Nawab ,EX16 5LY,50.9030,-3.4909
+The White Ball Inn Tiverton (Wetherspoon),EX16 5LY,50.9028,-3.4908
 Two Birds,EX16 5LY,50.9031,-3.4907
+Costa Coffee,EX16 6AA,50.9036,-3.4861
 Jurassic Coast Coffee Ltd t/a Costa Coffee Tiverton,EX16 6AA,50.9035,-3.4864
 Subway,EX16 6AA,50.9035,-3.4864
 The Ganges ,EX16 6AH,50.9045,-3.4863
@@ -30,11 +30,12 @@ The Duck & Bean,EX16 6LN,50.9023,-3.4880
 Elsie Mays,EX16 6LU,50.9023,-3.4873
 Deli Street Cafe,EX16 6NH,50.9049,-3.4879
 Golden Panda ,EX16 6NL,50.9052,-3.4868
+Thyme,EX16 6PP,50.9015,-3.4845
 FROU FROU,EX16 6QB,50.9031,-3.4848
 Banburys Ltd,EX16 6QD,50.9027,-3.4856
 Richys Diner,EX16 6SG,50.9093,-3.4891
 McDonald's Tiverton,EX16 6SR,50.9111,-3.4652
-McDonalds Restaurants Ltd,EX16 6SR,50.9111,-3.4652
+McDonald's,EX16 6SR,50.9110,-3.4683
 Sweet Stefan,EX16 6WN,50.9125,-3.4773
 The Hickory Inn,EX16 7AG,50.9068,-3.4091
 The Globe Inn,EX16 7BJ,50.9197,-3.3785

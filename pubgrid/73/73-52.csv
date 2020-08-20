@@ -2,7 +2,7 @@ name,postcode,lat,lon
 Amontola,DL10 4AE,54.4048,-1.7364
 Nazzarena ,DL10 4AE,54.4048,-1.7364
 The Bread Bowl Cafe,DL10 4AE,54.4048,-1.7364
-Wetherspoon - Ralph Fitz Randal,DL10 4AE,54.4048,-1.7364
+The Ralph Fitz Randal Richmond (Wetherspoon),DL10 4AE,54.4047,-1.7367
 Kerry Marie’s bar & bistro,DL10 4DP,54.4041,-1.7395
 The Fleece Hotel (Richmond) Ltd,DL10 4DW,54.4040,-1.7384
 Turf Hotel,DL10 4DW,54.4041,-1.7388
@@ -18,6 +18,7 @@ RBPT Enterprises LTD,DL10 4LD,54.4028,-1.7291
 Granny’s Kitchen,DL10 4QA,54.4036,-1.7392
 Black Lion Hotel,DL10 4QB,54.4038,-1.7389
 Rustique,DL10 4QE,54.4036,-1.7385
+Costa Coffee,DL10 4QG,54.4028,-1.7386
 Town Hall Hotel,DL10 4QL,54.4026,-1.7379
 cross view restaurant and tearooms,DL10 4QL,54.4026,-1.7378
 Barkers Restaurant Ltd,DL10 4QN,54.4030,-1.7371
@@ -26,12 +27,10 @@ English Heritage,DL10 4QW,54.4021,-1.7368
 The 19th ,DL10 5EX,54.4149,-1.7395
 The White Swan,DL10 5JG,54.4404,-1.7200
 THE ANGEL INN,DL10 5JW,54.4432,-1.7177
-Moto Hospitality - Barton Park Truckers Cafe,DL10 6NA,54.4691,-1.6641
 The Coach House ,DL10 6NJ,54.4583,-1.6600
 Holiday Inn Darlington - Scotch corner,DL10 6NR,54.4421,-1.6720
-Burger King At Granada Services,DL10 6PQ,54.4436,-1.6675
-Costa Coffee,DL10 6PQ,54.4436,-1.6675
-Retail Shop At Moto Services,DL10 6PQ,54.4436,-1.6675
+Costa Coffee,DL10 6PQ,54.4428,-1.6667
+KFC,DL10 6PQ,54.4438,-1.6674
 BLACK BULL INN,DL10 6QJ,54.4284,-1.6367
 The Shoulder of Mutton,DL10 6QX,54.4463,-1.6521
 La Piazza Richmond (North Yorks) Ltd,DL10 7AB,54.4045,-1.7350
@@ -46,7 +45,7 @@ Fish & Chips at 149,DL12 8BH,54.5457,-1.9234
 Andalucia ,DL12 8BJ,54.5468,-1.9208
 The Three Horseshoes Hotel,DL12 8EQ,54.5448,-1.9240
 The Teesdale Restaurant,DL12 8JJ,54.5441,-1.9226
-Costa Coffee,DL12 8LZ,54.5438,-1.9242
+Costa Coffee,DL12 8LZ,54.5441,-1.9245
 The golden lion,DL12 8NB,54.5431,-1.9240
 Moments Cafe Ltd,DL12 8ND,54.5424,-1.9241
 Penny's Tearooms,DL12 8ND,54.5424,-1.9241
@@ -76,10 +75,8 @@ Sammies Cafe Piercebridge,DL2 3TS,54.5407,-1.6738
 Peartree Hill Cafe,DL3 9AA,54.5335,-1.5787
 Douglas's Desserts at the whistle stop cafe,DL4 2JF,54.6249,-1.6451
 Locomotion,DL4 2RE,54.6237,-1.6321
-Atalian Servest,DL5 6AP,54.5961,-1.5776
 Steam Machine Brewing Company Ltd,DL5 6EJ,54.6121,-1.5803
 Redworth Hall Hotel,DL5 6NL,54.6038,-1.6307
 Bayhorse,DL5 6PE,54.5958,-1.6179
 George and Dragon,DL5 6PP,54.5953,-1.6137
-The Restaurant  Baxterstorey,DL5 6UG,54.5932,-1.5882
 The Fish Tank,DL5 6YA,54.6001,-1.5765

@@ -2,12 +2,7 @@ name,postcode,lat,lon
 The Blue Boar,B49 6NR,52.1948,-1.8059
 Golden Cross,B50 4LG,52.1817,-1.8327
 Cottage of Content Country Pub,B50 4NP,52.1590,-1.8431
-Burger King - Southbound,CV35 0AA,52.2165,-1.5054
-KFC - Northbound,CV35 0AA,52.2165,-1.5054
-KFC - Southbound,CV35 0AA,52.2165,-1.5054
 Starbucks - Northbound,CV35 0AA,52.2165,-1.5054
-Starbucks - Southbound,CV35 0AA,52.2165,-1.5054
-Starbucks Drive Thru,CV35 0AA,52.2165,-1.5054
 Lighthorne Pavilion Cafe,CV35 0AD,52.2035,-1.5018
 British Motor Museum,CV35 0BJ,52.1889,-1.4810
 THE ANTELOPE INN,CV35 0BX,52.1995,-1.5046
@@ -30,14 +25,16 @@ El Cafe at Sheldon's Wine Cellars,CV36 4EN,52.0611,-1.6243
 The Howard Arms (Ilmington) Ltd,CV36 4LT,52.0912,-1.6910
 The Red Lion ,CV36 4LX,52.0904,-1.6904
 The Norman Knight,CV36 5PE,52.0100,-1.5414
-Pizza Hut Restaurant,CV37 0HZ,52.2013,-1.7118
+Thyme,CV37 0AZ,52.1973,-1.7118
+Costa Coffee,CV37 0HZ,52.2001,-1.7129
 SAIMISH FOOD LTD T/A Muffin Break,CV37 0HZ,52.2007,-1.7109
 Subway Maybird,CV37 0HZ,52.2007,-1.7109
 Compass Group UK,CV37 0UA,52.2028,-1.7145
-BaxterStorey,CV37 0UR,52.2072,-1.7257
+Costa Coffee,CV37 0UA,52.2025,-1.7149
 Huffkins  1 Old red Lion Court  Stratford upon Avon,CV37 6AB,52.1924,-1.7050
+McDonald's,CV37 6AB,52.1926,-1.7044
 McDonalds,CV37 6AB,52.1924,-1.7050
-Costa Coffee House,CV37 6AN,52.1932,-1.7065
+Costa Coffee,CV37 6AD,52.1929,-1.7064
 Bardia's,CV37 6AU,52.1920,-1.7065
 Fresh Baguette Bar,CV37 6AU,52.1920,-1.7065
 Giggling Squid,CV37 6AU,52.1920,-1.7065
@@ -46,6 +43,7 @@ Hooray's British Gelato Kitchen,CV37 6AU,52.1920,-1.7065
 Starbucks,CV37 6AU,52.1920,-1.7065
 Yorks Cafe & coffee roasters,CV37 6AU,52.1920,-1.7065
 AVA CATERING LTD.,CV37 6EE,52.1918,-1.7054
+The Golden Bee StratforduponAvon (Wetherspoon),CV37 6EE,52.1917,-1.7057
 Bouche Bakehouse Ltd,CV37 6EF,52.1914,-1.7056
 LOXLEYS STRATFORD LTD,CV37 6EF,52.1913,-1.7055
 Lambs Restaurant,CV37 6EF,52.1913,-1.7055
@@ -53,30 +51,25 @@ The Fourteas TeaRoom ,CV37 6EF,52.1914,-1.7056
 The Opposition,CV37 6EF,52.1913,-1.7055
 The Vintner Wine Bar,CV37 6EF,52.1913,-1.7055
 Thespians Indian Restaurant ,CV37 6EF,52.1913,-1.7055
-Wildwood Kitchen,CV37 6EF,52.1913,-1.7055
-Zizzi,CV37 6EF,52.1913,-1.7055
 Edward Moon,CV37 6EP,52.1911,-1.7077
 Hussain's Indian Cuisine,CV37 6EP,52.1911,-1.7077
 Everyman Cinema,CV37 6EX,52.1923,-1.7079
 Kungfu Stratford Limited T/A Kungfu Oriental Buffet,CV37 6EX,52.1923,-1.7079
 MOR Bakery,CV37 6EX,52.1923,-1.7078
-Nando's,CV37 6EX,52.1923,-1.7079
 Veeno Stratford-Upon-Avon,CV37 6EX,52.1923,-1.7079
-Coffee#1 Limited,CV37 6EY,52.1932,-1.7078
-Pret A Manger,CV37 6EY,52.1932,-1.7078
 Honey Blue,CV37 6GJ,52.1918,-1.7052
 Thai Kitchen Stratford upon Avon Ltd,CV37 6GJ,52.1918,-1.7052
 R & T Restaurants Ltd,CV37 6HB,52.1897,-1.7089
 Sabai Sabai (stratford) Ltd,CV37 6JF,52.1926,-1.7087
 CAFFE VINERIA WOOD STREET,CV37 6JG,52.1928,-1.7079
 The Burger Priest Stratford,CV37 6JP,52.1920,-1.7085
+Nando's,CV37 6JW,52.1920,-1.7084
 The Old Thatch Tavern,CV37 6LE,52.1930,-1.7112
 Avon Spice ,CV37 6LF,52.1934,-1.7110
 L & A restaurant Ltd T/A Stratford Chinese Cuisine,CV37 6LF,52.1934,-1.7110
 Diana's Tea Room,CV37 6LN,52.1917,-1.7088
 The Queens Head ,CV37 6LN,52.1917,-1.7088
 Hotel Du Vin Stratford Upon Avon,CV37 6LU,52.1920,-1.7108
-Pizza Express Plc,CV37 6LW,52.1915,-1.7088
 Sorrento Restaurant... a taste of Italy,CV37 6LW,52.1915,-1.7088
 The Keys ,CV37 6LW,52.1916,-1.7088
 El Greco,CV37 6NE,52.1933,-1.7098
@@ -84,7 +77,6 @@ Plantarium Cafe,CV37 6NF,52.1936,-1.7090
 HR Coffee Bar ,CV37 6NL,52.1937,-1.7097
 Carls kitchen Ltd,CV37 6PH,52.1932,-1.7149
 Esquires Coffee House  Arden Quarter,CV37 6PP,52.1937,-1.7137
-Cafe Nero,CV37 6PT,52.1931,-1.7069
 HOBSONS PATISSERIES LTD,CV37 6PT,52.1932,-1.7075
 Subway,CV37 6PT,52.1932,-1.7075
 The Cornish Bakery,CV37 6PT,52.1932,-1.7075
@@ -96,7 +88,9 @@ Bensons Restaurant and Tea Rooms,CV37 6QW,52.1940,-1.7088
 Box Brownie Coffee,CV37 6QW,52.1940,-1.7088
 The Boston Tea Party Group Limited,CV37 6QW,52.1940,-1.7088
 THE ONE ELM,CV37 6QZ,52.1944,-1.7077
+The Kitchen,CV37 6UQ,52.1940,-1.7038
 Crowne Plaza Stratford,CV37 6YR,52.1932,-1.7005
+Table Table Red Lion - Warwickshire,CV37 6YW,52.1934,-1.7035
 Cox's Yard,CV37 6YY,52.1936,-1.7018
 Riverside Bar & Restaurant,CV37 7AB,52.2010,-1.6820
 MR CHANS RESTAURANT LTD,CV37 7AZ,52.2002,-1.6762
@@ -123,8 +117,6 @@ Talton Lodge,CV37 8UB,52.1205,-1.6524
 The Salmontail,CV37 9AA,52.1881,-1.7151
 The Squrrel Pub,CV37 9LD,52.1999,-1.7340
 Barney's Cafe,CV37 9NQ,52.2011,-1.7258
-Atalian Servest Food Co,CV37 9QR,52.1931,-1.7180
-Bannatyne Health Club And Spa Wildmoor,CV37 9RJ,52.1987,-1.7508
 cafe chutneys,CV37 9RX,52.1851,-1.7368
 Bonds Lifestyle,CV37 9ST,52.1810,-1.7556
 Michaels at Woolmarket House,GL55 6AG,52.0511,-1.7802

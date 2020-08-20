@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 Apple Green Service Station,B32 1HP,52.4635,-1.9945
+Costa Coffee,B32 2AL,52.4627,-1.9983
 cobham,B62 0JD,52.4504,-2.0159
 The Little Griddle,B62 8AN,52.4589,-2.0427
 Dilshad International Restaurant,B62 9AA,52.4623,-2.0266
@@ -9,20 +10,21 @@ Spice Fusion,B62 9DJ,52.4700,-2.0326
 FAIRFIELD INN,B62 9JA,52.4731,-2.0255
 Jaspers pizza ,B62 9LA,52.4696,-2.0330
 The Why Not Inn,B63 2JH,52.4542,-2.0907
-McDonalds Restaurants,B63 2RG,52.4583,-2.0933
+McDonald's,B63 2RG,52.4580,-2.0944
 McDonald’s Lye,B63 2RG,52.4583,-2.0933
 ThinkFresh!,B63 3BG,52.4502,-2.0501
 KFC,B63 3HR,52.4515,-2.0506
+KFC,B63 3HR,52.4527,-2.0468
 Loyal lodge public house,B63 3LY,52.4576,-2.0499
-Starbucks Block 11,B63 3NA,52.4565,-2.0509
 Teamworks Karting Halesowen,B63 3NR,52.4560,-2.0465
 Blue Spice Halesowen,B63 3QX,52.4536,-2.0645
 Subway Shortcross,B63 3UA,52.4525,-2.0580
 Flute,B63 3UD,52.4531,-2.0613
-Costa Coffee,B64 5DF,52.4732,-2.0812
+Costa Coffee,B64 5HJ,52.4730,-2.0810
+The Moon Under Water Cradley Heath (Wetherspoon),B64 5HJ,52.4721,-2.0826
 Eastern Bar Ltd,B64 5HP,52.4728,-2.0802
 Ivan's Fish & Chip Shop,B64 5JT,52.4752,-2.0753
-KFC,B64 5LS,52.4791,-2.0686
+KFC,B64 5LS,52.4789,-2.0689
 Chippy plus ,B64 5PX,52.4805,-2.0585
 Cafe plus,B64 5QT,52.4821,-2.0631
 Alachi Restaurant ,B64 5RU,52.4773,-2.0670
@@ -36,6 +38,7 @@ Pizza Hut,B65 0DR,52.4755,-2.0420
 Tak's Fish and Chips Limited,B65 0DU,52.4757,-2.0399
 The Knights Quest,B65 0EE,52.4759,-2.0438
 The Malt Shovel,B65 0EH,52.4757,-2.0449
+The Britannia Rowley Regis (Wetherspoon),B65 0ES,52.4738,-2.0419
 Bell & bear ,B65 0HA,52.4686,-2.0476
 Raj Spice Restaurant Limited,B65 0HG,52.4750,-2.0397
 INDULGENC SPICE LIMITED ,B65 0HS,52.4756,-2.0383
@@ -52,10 +55,10 @@ Wendy's salt and pepper pot,B65 9BA,52.4763,-2.0393
 The Rowley village restaurant ,B65 9DB,52.4933,-2.0426
 Four Way Bar And Grill Limited,B65 9DD,52.4944,-2.0415
 KFC,B68 0BZ,52.4635,-1.9969
+KFC,B68 0BZ,52.4638,-1.9958
 Pizza Hut,B68 0BZ,52.4635,-1.9969
 SIMRANS DESSERTS LTD,B68 0BZ,52.4635,-1.9969
 Subway,B68 0BZ,52.4635,-1.9969
-McDonalds Restaurants Ltd,B68 0HL,52.4717,-2.0066
 Starbucks,B68 0PH,52.4628,-2.0125
 Saphari,B68 8LJ,52.4846,-2.0147
 PHASE BARS LIMITED,B69 1AQ,52.4888,-2.0276
@@ -63,29 +66,31 @@ The Phoenix Grill Ltd,B69 1DY,52.4944,-2.0339
 The pheonix bar & grill,B69 1DY,52.4944,-2.0339
 Bacaba cocktail bar and dinning ,B69 1QP,52.5068,-2.0406
 big singhs pizza,B69 1QS,52.5051,-2.0449
-Baxterstorey Ltd,B69 2AG,52.4942,-2.0237
-BaxterStorey,B69 2AL,52.5040,-2.0091
 Mecca Bingo Club,B69 2AN,52.5010,-2.0171
 FLIP OUT SANDWELL,B69 2AP,52.4992,-2.0174
 m s bar and grill ,B69 2AS,52.4978,-2.0199
 McDonald's,B69 2AW,52.5024,-2.0178
-McDonalds Restaurants,B69 2AW,52.5024,-2.0178
+McDonald's,B69 2AW,52.5025,-2.0178
+Cookhouse + Pub The Lakeside,B69 2BH,52.5011,-2.0314
 KFC,B69 2BH,52.5010,-2.0313
+KFC,B69 2BH,52.5015,-2.0317
 Brades Tavern,B69 2ET,52.5053,-2.0289
 masala Curry House ,B69 2HH,52.5051,-2.0346
+The Court of Requests Oldbury (Wetherspoon),B69 3AF,52.5047,-2.0158
+Costa Coffee,B69 3DD,52.5033,-2.0208
 Blair’s Caribbean Takeaway ,B69 4DY,52.5028,-2.0140
-Solvay - Staff Canteen  Wilson Vale,B69 4LN,52.4940,-2.0136
 The New Cottage Bar and Grill,B69 4NB,52.4949,-2.0039
 three friends pub company limited,B69 4NH,52.4959,-2.0058
 Ibis Styles Birmingham Oldbury,B69 4RJ,52.4908,-2.0212
 McDonald's,B69 4RJ,52.4908,-2.0212
-McDonalds Restaurants Ltd,B69 4RJ,52.4908,-2.0212
+McDonald's,B69 4RJ,52.4924,-2.0225
 Ramada Birmingham Oldbury,B69 4RJ,52.4908,-2.0212
 Crosswells Inn,B69 4SB,52.4918,-2.0112
 Mozalicious LTD,B69 4SN,52.4911,-2.0128
 The Little Oven Limited,B69 4SN,52.4911,-2.0127
 Boulder Central,B70 0DG,52.5303,-2.0263
 King Arthur Grill,B70 0HG,52.5225,-2.0272
+Table Table The Ridgacre,B70 0NP,52.5298,-2.0159
 midland leisure ltd trading as the new hen and chickens,B70 0RT,52.5378,-2.0118
 the Dovecote pub & carvery,B70 0SD,52.5406,-2.0131
 Old Bush Inn Ltd,B70 6AS,52.5107,-1.9925
@@ -94,21 +99,23 @@ NEW ISLAND INN LTD,B70 6BB,52.5090,-1.9907
 Sarbys Diner,B70 6BW,52.5068,-1.9911
 The cricketers arms limited,B70 6EA,52.5081,-1.9895
 PRINCE OF WALES,B70 6JJ,52.5156,-1.9892
+Thyme,B70 6JJ,52.5157,-1.9893
 Ye Olde Wine Shoppe,B70 6NZ,52.5151,-1.9877
+The Billiard Hall West Bromwich (Wetherspoon),B70 7AB,52.5185,-1.9953
 Windsor Castle Public House,B70 7ED,52.5125,-1.9937
 The Prince Albert,B70 7EG,52.5127,-1.9968
 The Railway Inn,B70 7JB,52.5094,-2.0117
-Burger King,B70 7NG,52.5187,-1.9919
 KASPAS DESSERTS WEST BROM,B70 7NJ,52.5182,-1.9913
 SUNNY COFFEE HOUSE LIMITED,B70 7NW,52.5173,-1.9929
 The Smokehouse Bar & Grill,B70 7PE,52.5192,-1.9881
 PEPE'S ,B70 7PN,52.5192,-1.9937
+Costa Coffee,B70 7PP,52.5197,-1.9917
 Mr singh's Pizza,B70 7PP,52.5198,-1.9907
-Nando's,B70 7PP,52.5195,-1.9912
 Sprinkles Gelato- West Bromwich,B70 7PP,52.5195,-1.9912
 subway,B70 7PP,52.5195,-1.9912
+Cookhouse + Pub The Queen Inn,B70 7PU,52.5226,-1.9932
 McDonald's,B70 7QG,52.5182,-1.9939
-McDonalds Restaurants Ltd,B70 7QG,52.5182,-1.9939
+McDonald's,B70 7QG,52.5184,-1.9940
 The Great Western Cafe,B70 7QG,52.5182,-1.9939
 THE LITTLE DESERT SHOP WEST BROMWICH,B70 7QZ,52.5178,-1.9921
 Foodrich ,B70 8AQ,52.5194,-1.9958
@@ -129,19 +136,18 @@ Big Johns West Brom,B70 9RL,52.5255,-2.0075
 Harry's Diner,B71 1AN,52.5319,-1.9931
 The merry go round,B71 1NE,52.5263,-2.0024
 McDonald's,B71 1RG,52.5304,-1.9883
-McDonalds Restaurants Ltd,B71 1RG,52.5304,-1.9883
+McDonald's,B71 1RG,52.5305,-1.9882
 The Red Lion,B71 1RH,52.5313,-1.9883
 Greedy Pig 2,B71 2BW,52.5371,-1.9914
 Hydes Convenience,B71 2EF,52.5458,-2.0005
 Stone Cross Masala,B71 2JQ,52.5458,-1.9916
-Costa Coffee - Main Receiption,B71 4HJ,52.5281,-1.9889
-Costa Coffee - Out Patient Department,B71 4HJ,52.5281,-1.9889
 Hallam Restaurant  Sandwell Hospital,B71 4HJ,52.5281,-1.9889
 Dixy Chicken,DY1 1DB,52.5103,-2.0856
 THE OLD GLASSHOUSE PUB COMPANY LTD,DY1 1HA,52.5111,-2.0838
 Dudley Spice,DY1 1LP,52.5114,-2.0823
 the old priory,DY1 1LU,52.5117,-2.0835
 Finesse Desserts Dudley,DY1 1PS,52.5094,-2.0841
+The Full Moon Dudley (Wetherspoon),DY1 1PY,52.5094,-2.0845
 The Coffee Shop,DY1 1PZ,52.5090,-2.0845
 PAPAZ PIZZA AND KEBAB,DY1 1QE,52.5093,-2.0858
 Twice the spice ,DY1 1QP,52.5082,-2.0880
@@ -151,20 +157,19 @@ BRITANNIA INN BAR AND GRILL,DY1 1QU,52.5058,-2.0936
 The Hilly House,DY1 2QH,52.5121,-2.1067
 The Caves Bar & Grill,DY1 3SB,52.5279,-2.0965
 The caves bar &grill,DY1 3SB,52.5279,-2.0965
-KFC,DY1 4RL,52.5136,-2.0710
 A&S Restaurants LTD T/A McDonalds,DY1 4TA,52.5158,-2.0711
-McDonalds,DY1 4TA,52.5158,-2.0711
-Nandos Dudley,DY1 4TA,52.5161,-2.0722
-Pizza Hut,DY1 4TA,52.5161,-2.0722
-Tenpin,DY1 4TA,52.5161,-2.0722
+McDonald's,DY1 4TA,52.5155,-2.0734
+The Kitchen,DY1 4TA,52.5161,-2.0706
+KFC,DY1 4TB,52.5137,-2.0706
 KFC,DY1 4TB,52.5139,-2.0684
-Burger King,DY1 4TD,52.5150,-2.0708
+Burger King,DY1 4TD,52.5136,-2.0701
 The Woodman,DY2 0BP,52.4802,-2.0859
 Railway Tavern,DY2 0ST,52.4958,-2.1046
 Joseph Dubliners,DY2 7AE,52.5106,-2.0802
 Birdcage Grill (Fish and Chips),DY2 7AG,52.5104,-2.0800
 Cottage Bakers Coffee ,DY2 7AG,52.5104,-2.0800
 Costa Coffee,DY2 7BL,52.5104,-2.0811
+Costa Coffee,DY2 7BL,52.5106,-2.0813
 D-cube Restobar (Restaurant & Bar),DY2 8NY,52.5092,-2.0826
 The Coast restaurant Bar ltd,DY2 8NY,52.5092,-2.0824
 The Spring Cottage,DY2 9NA,52.4798,-2.0747
@@ -174,10 +179,11 @@ Ann’s Thai Restaurant ,DY3 1JA,52.5428,-2.1195
 CROWN,DY3 1RJ,52.5443,-2.1220
 Delightful Desserts,DY3 1RP,52.5418,-2.1225
 Subway,DY3 1RP,52.5418,-2.1225
+The Clifton Sedgley (Wetherspoon),DY3 1RX,52.5414,-2.1225
 Spices,DY3 1SA,52.5405,-2.1209
 Lime ,DY3 1SR,52.5387,-2.1194
 CAFE CASITA LTD,DY3 1UP,52.5298,-2.1181
-McDonalds Restaurants Limited,DY3 1UX,52.5278,-2.1161
+McDonald's,DY3 1UX,52.5263,-2.1144
 Upper Gornal McDonald's,DY3 1UX,52.5278,-2.1162
 LE RAJ RESTAURANT (DUDLEY) LIMITED,DY3 2UA,52.5173,-2.1321
 Mad Hatters Tea Room,DY3 2UA,52.5172,-2.1329
@@ -191,8 +197,8 @@ Port N Ale Ltd,DY4 7DS,52.5283,-2.0401
 Alis kitchen,DY4 7EL,52.5302,-2.0350
 Balti nites,DY4 7EL,52.5302,-2.0350
 A&S Restaurants LTD T/A McDonalds,DY4 7HJ,52.5308,-2.0324
-Mcdonalds Restaurants Ltd,DY4 7HJ,52.5308,-2.0324
-KFC,DY4 7HW,52.5312,-2.0313
+KFC,DY4 7HJ,52.5312,-2.0314
+McDonald's,DY4 7HJ,52.5314,-2.0300
 Tenders Chicken,DY4 7QT,52.5261,-2.0457
 Ekhaya Bar and Grill ,DY4 7RG,52.5180,-2.0583
 Mughal Massala ,DY4 8DB,52.5285,-2.0727
@@ -204,36 +210,38 @@ The Barge & Barrel ,DY4 9AU,52.5303,-2.0718
 Saltwells Inn,DY5 1AX,52.4798,-2.0991
 Bootons Bar & Grill,DY5 1HA,52.4845,-2.1212
 Royal Adeel Restaurant ,DY5 1LH,52.4848,-2.1204
-Burger King,DY5 1LL,52.4885,-2.1187
-Nando's,DY5 1QN,52.4821,-2.1105
+Burger King,DY5 1LL,52.4881,-2.1184
 Debenhams Restaurant Merryhill,DY5 1QU,52.4821,-2.1105
+Abraham Darby Brierley Hill (Wetherspoon),DY5 1QX,52.4796,-2.1114
 Burrito Kitchen Merry Hill,DY5 1QX,52.4821,-2.1105
 Chopstix Merry Hill Zeto,DY5 1QX,52.4822,-2.1123
-Five Guys,DY5 1QX,52.4821,-2.1105
 Little Dessert Shop Ltd,DY5 1QX,52.4821,-2.1105
 SOHO Coffee Shops Limited Merry Hill 2,DY5 1QX,52.4822,-2.1123
-Starbucks Coffee,DY5 1QX,52.4821,-2.1105
 Tasty plaice ,DY5 1QX,52.4822,-2.1123
 Yangtze Merry Hill,DY5 1QX,52.4821,-2.1105
+Costa Coffee,DY5 1QY,52.4816,-2.1112
 CAFFE DEL MONDO,DY5 1RU,52.4817,-2.1179
 Blue Ball Restaurant ,DY5 1SE,52.4730,-2.1086
-McDonalds,DY5 1SH,52.4799,-2.1097
+McDonald's,DY5 1SH,52.4804,-2.1109
 McDonald’s Merry Hill 4,DY5 1SH,52.4799,-2.1097
 Harper's British Classics,DY5 1SJ,52.4809,-2.1108
 KFC,DY5 1SJ,52.4809,-2.1108
+KFC,DY5 1SJ,52.4809,-2.1110
+Nando's,DY5 1SJ,52.4806,-2.1109
 Napoli Pizzeria & Pasta,DY5 1SJ,52.4809,-2.1108
 Sizzled Merryhill ,DY5 1SJ,52.4809,-2.1108
 Subway Merry Hill,DY5 1SJ,52.4809,-2.1108
 Wrapchic,DY5 1SJ,52.4821,-2.1105
-Burger King,DY5 1SP,52.4819,-2.1117
-Pizza Express,DY5 1SP,52.4819,-2.1117
+Costa Coffee,DY5 1SP,52.4812,-2.1098
 Oopsy Daisies Ltd,DY5 1SS,52.4825,-2.1113
+Costa Coffee,DY5 1SY,52.4768,-2.1105
 KFC,DY5 1SY,52.4778,-2.1114
-McDonalds,DY5 1SY,52.4778,-2.1114
+KFC,DY5 1SY,52.4792,-2.1153
+McDonald's,DY5 1SY,52.4800,-2.1114
 McDonald’s Merry Hill 1,DY5 1SY,52.4778,-2.1114
-Pizza Hut Restaurant,DY5 1SY,52.4778,-2.1114
 Triple Two Coffee,DY5 1SY,52.4781,-2.1117
 Scallywags soft play,DY5 1UA,52.4842,-2.1158
+The Waterfront Inn Brierley Hill (Wetherspoon),DY5 1UA,52.4859,-2.1144
 Louies cafe,DY5 1UB,52.4831,-2.1166
 BRIERLEY HOP HOUSE,DY5 1XD,52.4852,-2.1141
 Ten Steps Coffee Lounge ,DY5 1XG,52.4865,-2.1143
@@ -245,7 +253,6 @@ Saucy sausage cafe,DY5 2JW,52.4729,-2.1055
  The Koyla Kitchen,DY5 2JY,52.4657,-2.1153
 The Vine inn,DY5 2TN,52.4746,-2.1158
 The Tenth Lock,DY5 2TY,52.4754,-2.1215
-Mecca Bingo,DY5 3AB,52.4794,-2.1232
 ESSENCE OF INDIA,DY5 3BP,52.4832,-2.1209
 The Brierley Sausage,DY5 3BU,52.4829,-2.1215
 Zaks plaice,DY5 3BU,52.4829,-2.1215
@@ -260,13 +267,14 @@ Hickory's Smokehouse,DY6 0EN,52.5010,-2.1829
 the new wall heath tandoori,DY6 0HA,52.5047,-2.1781
 Alam International Restaurant Limited,DY6 0NP,52.5060,-2.1787
 KFC,DY6 7AP,52.5044,-2.1664
-KFC,DY6 7LE,52.5080,-2.1534
+KFC,DY6 7AP,52.5080,-2.1543
 Alexander Greek Restaurant,DY6 8AA,52.4973,-2.1677
 Cross Balti Limited,DY6 8AA,52.4977,-2.1674
+The Cross Inn Kingswinford (Wetherspoon),DY6 8AA,52.4973,-2.1682
 the bell inn,DY6 8AJ,52.4979,-2.1646
 Zingaz ,DY6 8AW,52.4981,-2.1628
-Costa Coffee,DY6 8WT,52.5002,-2.1516
-McDonalds Restaurants Limited,DY6 8WT,52.5001,-2.1519
+Beefeater The Kingswinford,DY6 8WT,52.5002,-2.1520
+McDonald's,DY6 8WT,52.5002,-2.1529
 McDonald’s Kingswinford,DY6 8WT,52.5002,-2.1517
 Delightful Desserts,DY6 9EL,52.5000,-2.1736
 Jilly's Coffee Shop,DY6 9JL,52.4970,-2.1692
@@ -287,9 +295,7 @@ cafe express,DY8 1AB,52.4568,-2.1473
 stourbridge Institute & social club,DY8 1AD,52.4566,-2.1480
 THE PLOUGH & HARROW,DY8 1AX,52.4512,-2.1487
 The Yak Nepalese  and indian cuisine,DY8 1DP,52.4566,-2.1466
-Caffe Nero,DY8 1DT,52.4563,-2.1457
 The Talbot Hotel,DY8 1DW,52.4571,-2.1468
-Pizza Express,DY8 1DX,52.4560,-2.1448
 Surantha patisserie,DY8 1ED,52.4553,-2.1437
 Cafe 105,DY8 1EE,52.4554,-2.1446
 Cock N Bull.Co,DY8 1EE,52.4554,-2.1446
@@ -298,12 +304,16 @@ Delightful Desserts,DY8 1EL,52.4558,-2.1438
 THE DUKE WILLIAM,DY8 1EP,52.4576,-2.1468
 The French Connection,DY8 1EP,52.4577,-2.1466
 The French Deli,DY8 1EP,52.4576,-2.1468
+The Chequers Inn Stourbridge (Wetherspoon),DY8 1FA,52.4550,-2.1438
 COSTA COFFEE,DY8 1HJ,52.4559,-2.1463
-Coffee#1,DY8 1HJ,52.4559,-2.1463
+Costa Coffee,DY8 1HJ,52.4558,-2.1464
 COSTA COFFEE,DY8 1JN,52.4602,-2.1466
+Costa Coffee,DY8 1JN,52.4608,-2.1471
+KFC,DY8 1JN,52.4590,-2.1459
 KFC,DY8 1JN,52.4602,-2.1466
-McDonalds,DY8 1JN,52.4602,-2.1466
+McDonald's,DY8 1JN,52.4584,-2.1456
 McDonald’s Stourbridge,DY8 1JN,52.4602,-2.1466
+Brewers Fayre Stourbridge Town Centre,DY8 1JR,52.4575,-2.1405
 FULL OF BEANS CAFE LIMITED,DY8 1PH,52.4545,-2.1440
 BOMBAY PICKLES LTD,DY8 1TA,52.4587,-2.1481
 Cellars Indian Cuisine ltd,DY8 1TT,52.4586,-2.1486
@@ -352,7 +362,7 @@ The Smokey Cow,TF11 9DN,52.6108,-2.3523
 Sweet treat ,WS1 4LN,52.5733,-1.9887
 Walsall FC Ltd,WS1 4SA,52.5655,-1.9912
 McDonald's,WS1 4SB,52.5666,-1.9920
-McDonalds Restaurants,WS1 4SB,52.5666,-1.9920
+McDonald's,WS1 4SB,52.5682,-1.9929
 Park Inn by Radisson Birmingham Walsall,WS1 4SE,52.5644,-1.9893
 Hydes Road Fish Bar,WS10 0DH,52.5492,-2.0075
 Buttylicious,WS10 0DX,52.5562,-2.0008
@@ -365,7 +375,6 @@ Kesar,WS10 7AL,52.5510,-2.0191
 Moza Kitchen,WS10 7AQ,52.5519,-2.0184
 island cafe and takeaway ltd,WS10 7AQ,52.5518,-2.0189
 seven Bar,WS10 7AQ,52.5518,-2.0189
-Mecca Bingo,WS10 7DR,52.5511,-2.0253
 CHICKING WEDNESBURY,WS10 7HB,52.5526,-2.0215
 The Vintage Tea Room and Cafe,WS10 7HB,52.5526,-2.0223
 Tysons,WS10 7HJ,52.5535,-2.0204
@@ -377,38 +386,34 @@ MATHIURA BUSINESS LIMITED,WS10 8DU,52.5705,-2.0360
 Herberts Tavern,WS10 8QU,52.5683,-2.0452
 Tenders Chicken ,WS10 8SY,52.5663,-2.0359
 The Crown,WS10 8TN,52.5672,-2.0381
-Compass Group UK and Ireland,WS10 8UZ,52.5684,-2.0355
+The Bellwether Wednesbury (Wetherspoon),WS10 9BZ,52.5532,-2.0190
 churchills bar and restaurant,WS10 9BZ,52.5539,-2.0173
 CASAMIA ,WS10 9QW,52.5615,-2.0064
 Gurkha 1816,WS10 9QW,52.5615,-2.0064
-Burger King,WS10 9QY,52.5655,-2.0086
-Costa Coffee,WS10 9QY,52.5655,-2.0086
+Burger King,WS10 9QY,52.5665,-2.0069
+Costa Coffee,WS10 9QY,52.5675,-2.0110
 Jamaica Blue  Next (Wednesbury) ,WS10 9QY,52.5655,-2.0086
-KFC,WS10 9QY,52.5655,-2.0086
-Nando's,WS10 9QY,52.5655,-2.0086
-Pizza Hut Restaurant,WS10 9QY,52.5655,-2.0086
+KFC,WS10 9QY,52.5651,-2.0046
 Smashburger,WS10 9QY,52.5655,-2.0086
 Buzz Bingo,WS10 9SB,52.5713,-2.0185
 OK Diner Cannock,WS11 0BN,52.6737,-2.0276
-Burger King,WS11 8AB,52.6737,-2.0210
-Costa Coffee,WS11 8XR,52.6745,-2.0227
+Burger King,WS11 8AB,52.6733,-2.0204
+KFC,WS11 8XP,52.6746,-2.0207
+Brewers Fayre Orbital,WS11 8XR,52.6745,-2.0227
 Cinnamon Court,WS2 0BP,52.5798,-2.0178
 Cardamom Balti Restaurant & Takeaway,WS2 0DU,52.5852,-2.0242
 Hungry Pigs Cafe,WS2 0DU,52.5853,-2.0245
 BB's Coffee Shop c/o Boundary Mill Stores,WS2 0LE,52.5814,-2.0182
-KFC,WS2 7BU,52.6063,-2.0009
+Beefeater Bentley Green,WS2 0WB,52.5818,-2.0267
 TNS Catering_TJX Europe,WS2 7PT,52.6004,-1.9949
 Light Cinemas Walsall,WS2 8DD,52.5867,-1.9929
-Pizza Express,WS2 8DH,52.5859,-1.9896
 Subway,WS2 8DH,52.5859,-1.9896
-Nando's,WS2 8LL,52.5869,-1.9886
-Starbucks Coffee,WS2 8LL,52.5869,-1.9886
 parkbrook bar and grill ltd,WS2 8RJ,52.5875,-2.0069
+KFC,WS2 8RL,52.5860,-2.0108
 The Alma Inn ,WS2 8SP,52.5913,-2.0034
 Street Kitchen Brothers ,WS2 8TB,52.5874,-2.0092
-KFC (M6 Juction 10),WS2 8TJ,52.5840,-2.0117
 McDonald's,WS2 8XD,52.5956,-2.0025
-McDonalds Restaurants Ltd,WS2 8XD,52.5956,-2.0025
+McDonald's,WS2 8XD,52.5966,-2.0006
 king George v,WS2 9BZ,52.5699,-2.0004
 Pepes Piri Piri,WS2 9HE,52.5770,-2.0014
 heavenly desserts walsall ltd,WS2 9HE,52.5770,-2.0014
@@ -417,13 +422,14 @@ Chunky chicken ,WS2 9QJ,52.5732,-1.9986
 Herolicious ,WS2 9QJ,52.5733,-1.9973
 MAC'S DINER LTD,WS2 9QN,52.5735,-1.9972
 Yaadgaar,WS2 9QN,52.5735,-1.9972
-Burger King,WS3 2BB,52.6095,-1.9961
+KFC,WS3 2EG,52.6070,-1.9996
 Zeera Authentic Eastern cuisine ,WS3 2HR,52.6161,-2.0059
 The Gulshan balti,WS3 2JE,52.6169,-2.0051
 Penguin cafe,WS3 2XA,52.6048,-1.9920
 The Vintage Tea Room,WS3 2XD,52.6063,-1.9932
 Subway,WS3 3HE,52.6152,-2.0030
 Ashoca,WS3 3JT,52.6146,-2.0039
+The Bloxwich Showman Bloxwich (Wetherspoon),WS3 3JT,52.6148,-2.0042
 ASF INVESTMENTS (BLOXWICH) LTD,WS3 3LN,52.6176,-2.0041
 Delicious-The Finest Indian Cuisine,WS3 3LQ,52.6172,-2.0042
 Mirchi catering ltd,WS3 3UB,52.6296,-2.0132
@@ -441,6 +447,7 @@ THE MARY ROSE,WS6 7AY,52.6561,-2.0349
 Village Lodge,WS6 7ED,52.6625,-2.0305
 Britannia Hotel ,WV1 1DD,52.5865,-2.1237
 Baguette about it,WV1 1DG,52.5865,-2.1264
+The Moon Under Water Wolverhampton (Wetherspoon),WV1 1EQ,52.5868,-2.1242
 Zuri Coffee,WV1 1EQ,52.5869,-2.1248
 Dilshad Indian Restaurant LTD,WV1 1HA,52.5861,-2.1246
 Duke of York ,WV1 1HD,52.5861,-2.1252
@@ -449,6 +456,7 @@ Jivan’s Balti House,WV1 1HP,52.5873,-2.1249
 Shish Kebab,WV1 1HZ,52.5876,-2.1248
 pepes piri piri,WV1 1JA,52.5874,-2.1256
 Cafe 1896 Limited ,WV1 1JY,52.5897,-2.1234
+Costa Coffee,WV1 1LD,52.5861,-2.1226
 2 Sisters Coffee Lounge ,WV1 1ST,52.5860,-2.1262
 Falafilo coffeehouse ,WV1 1ST,52.5860,-2.1262
 Alice's Tea Room,WV1 1TQ,52.5856,-2.1283
@@ -457,23 +465,22 @@ Top Nosh,WV1 1TQ,52.5855,-2.1285
 THE NEW VICTORIA LTD,WV1 2BA,52.5880,-2.0938
 The Glassy junction ,WV1 2HR,52.5835,-2.1014
 Fresh Bakes Cafe,WV1 2HW,52.5835,-2.1030
+Burger King,WV1 2UN,52.5742,-2.1000
 Hickmans Cafe ,WV1 2XF,52.5792,-2.1035
 subway,WV1 3AE,52.5849,-2.1253
 China Cooking,WV1 3EN,52.5857,-2.1276
-McDonalds,WV1 3ER,52.5847,-2.1269
+Costa Coffee,WV1 3EN,52.5856,-2.1275
+McDonald's,WV1 3ER,52.5853,-2.1272
 McDonald’s Dudley St,WV1 3ER,52.5847,-2.1269
 Coffee Moments,WV1 3HF,52.5837,-2.1264
-Burger King,WV1 3HG,52.5832,-2.1270
 Subway Wulfrun Centre,WV1 3HG,52.5834,-2.1275
 Oceans Fryer Ltd,WV1 3HH,52.5832,-2.1270
 Little Dessert Shop Ltd,WV1 3JW,52.5858,-2.1246
-Nando's Chickenland Ltd,WV1 3JW,52.5858,-2.1246
 The Queens,WV1 3JW,52.5857,-2.1246
 Central Cafe,WV1 3NN,52.5850,-2.1279
 Lindy Lou's coffee shop ltd,WV1 3NP,52.5847,-2.1293
 The Subcontinent,WV1 3NP,52.5847,-2.1293
 Nutmeg,WV1 3NU,52.5845,-2.1290
-Caffe Nero,WV1 3PQ,52.5853,-2.1300
 Delhi 2 Bombay,WV1 4EP,52.5858,-2.1398
 Rosso E Nero Restaurant,WV1 4HW,52.5853,-2.1312
 Marstons Brewery,WV1 4JT,52.5850,-2.1371
@@ -483,58 +490,52 @@ THE NEW SPICE RESTAURANT LIMITED,WV1 4LR,52.5839,-2.1316
 Rocco Italian,WV1 4LY,52.5854,-2.1326
 Heavenly Desserts,WV1 4ND,52.5853,-2.1335
 Hamiltons Restaurant at A Park View Hotel,WV1 4PP,52.5870,-2.1399
-Marstons Talent Academy,WV1 4PR,52.5862,-2.1394
 Annabels Bar Cafe,WV1 4QL,52.5880,-2.1332
+Table Table The Bluebrick,WV10 0BA,52.5886,-2.1196
 THE COFFEE HOUSE,WV10 0QP,52.5997,-2.0956
 Pizza Hut,WV10 6AN,52.6190,-2.1299
 SA & JBC DINING LIMITED,WV10 6AN,52.6190,-2.1299
 SUBWAY,WV10 6AN,52.6190,-2.1299
-McDonalds Restaurants,WV10 6JF,52.6018,-2.1295
+McDonald's,WV10 6JF,52.6019,-2.1295
 McDonald’s Stafford Road,WV10 6JF,52.6018,-2.1295
 Tastebuds (Wolverhampton) Limited,WV10 6JH,52.6036,-2.1320
 The Brook Coffee House Limited,WV10 6NR,52.6291,-2.1257
 ming moon restaurant wolverhampton,WV10 6RR,52.6191,-2.1305
-Costa Coffee,WV10 7ER,52.6368,-2.1271
+Beefeater Moseley Park,WV10 6TA,52.6359,-2.1240
 Northycote Farm Tearoom ,WV10 7JF,52.6266,-2.1057
 The Elms,WV10 7JR,52.6546,-2.0813
 THE WHEATSHEAF INN,WV10 7LU,52.6604,-2.0605
 Hollybush Coffee Shop LTD,WV10 7LX,52.6550,-2.0545
 Three Hammers Bar & Bistro,WV10 7PP,52.6507,-2.1267
 K-Tea's Tearoom & Cakes,WV10 8EB,52.6224,-2.1151
-McDonalds,WV10 8PN,52.6117,-2.1006
+McDonald's,WV10 8PN,52.6117,-2.1005
 McDonald’s Fallings Park,WV10 8PN,52.6117,-2.1006
 SUBWAY,WV10 8PN,52.6117,-2.1006
 Our Rasoi,WV10 9DX,52.5988,-2.1142
 Mcbellas,WV10 9EZ,52.6190,-2.1239
 THE DINER LTD,WV10 9QY,52.6049,-2.1060
-Buzz Bingo,WV10 9TU,52.6112,-2.1228
-KFC (GB) Ltd,WV10 9TW,52.6048,-2.1290
+KFC,WV10 9TW,52.6047,-2.1292
 Hungry hemmings cafe ,WV10 9UL,52.6167,-2.1174
-Costa Coffee,WV11 1BP,52.5969,-2.0903
-Hollywood Bowl,WV11 1BP,52.5969,-2.0903
-KFC,WV11 1BP,52.5969,-2.0903
-McDonalds,WV11 1BP,52.5969,-2.0903
+Costa Coffee,WV11 1BP,52.5975,-2.0880
+McDonald's,WV11 1BP,52.5960,-2.0910
 McDonald’s Wednesfield,WV11 1BP,52.5969,-2.0903
-Nando's,WV11 1BP,52.5969,-2.0903
-Pizza Hut,WV11 1BP,52.5969,-2.0903
 Subway,WV11 1BP,52.5969,-2.0903
 Qmin Restaurant ,WV11 1JP,52.6103,-2.0854
 the castle inn,WV11 1NW,52.6064,-2.0803
 The Village Inns Fisherman Limited,WV11 1PB,52.5996,-2.0904
+The Royal Tiger Wednesfield (Wetherspoon),WV11 1ST,52.6003,-2.0819
 Masala lounge ,WV11 1TW,52.6027,-2.0801
 Zaffran restaurant ,WV11 1TW,52.6028,-2.0801
+KFC,WV11 1TZ,52.5963,-2.0912
+Nando's,WV11 1TZ,52.5956,-2.0920
 Little Dessert Shop Ltd,WV11 1UJ,52.5979,-2.0900
 The cabin cafe,WV11 1XU,52.5995,-2.0808
 The Baburchi Restaurant ,WV11 1YD,52.6140,-2.0855
-Burger King North,WV11 2AT,52.6426,-2.0548
-Burger King South,WV11 2AT,52.6426,-2.0548
-Costa Coffee,WV11 2AT,52.6434,-2.0554
-Costa Coffee-Northbound,WV11 2AT,52.6426,-2.0548
+Costa Coffee,WV11 2AT,52.6428,-2.0576
 Ashma cafe,WV11 2JW,52.6144,-2.0616
 The 1911 Café Ltd,WV11 2RF,52.6311,-2.0576
 BST MIDLANDS LTD,WV11 2RH,52.6356,-2.0347
 Evies kitchen ,WV11 3DD,52.6079,-2.0743
-Buzz Bingo,WV11 3HD,52.6080,-2.0618
 the navigation inn,WV11 3SU,52.5961,-2.0626
 JIN'S PANTRY ,WV11 3TT,52.6118,-2.0828
 The Homestead,WV12 4DA,52.5962,-2.0300
@@ -542,21 +543,22 @@ Chilli Peppers,WV12 5BB,52.6110,-2.0391
 TAMARIS INDIAN RESTAURANT ,WV12 5BE,52.6128,-2.0361
 The Milestone,WV12 5DT,52.6151,-2.0433
 The Noah's Ark Inn,WV13 1JB,52.5884,-2.0391
+The Malthouse Willenhall (Wetherspoon),WV13 2BG,52.5830,-2.0550
 Clove (Willenhall) LTD,WV13 2EB,52.5859,-2.0437
 YE OLDE TOLL HOUSE,WV13 2ER,52.5849,-2.0489
-Burger King,WV13 2QU,52.5772,-2.0469
-McDonalds,WV13 2RB,52.5853,-2.0406
+Burger King,WV13 2PZ,52.5763,-2.0467
+McDonald's,WV13 2RB,52.5853,-2.0405
 McDonald’s Willenhall,WV13 2RB,52.5853,-2.0406
 Spice Lounge,WV13 3LH,52.5837,-2.0705
 Pizza Hut,WV13 3RA,52.5830,-2.0711
 B J's tasty bites ,WV13 3RG,52.5879,-2.0778
 THE MAJOR FISH RESTAURANT LTD,WV14 0AX,52.5653,-2.0765
 Subway Bilston High St,WV14 0EH,52.5645,-2.0791
+The Sir Henry Newbolt Bilston (Wetherspoon),WV14 0EP,52.5641,-2.0804
 Bilston McDonald's,WV14 0EZ,52.5639,-2.0814
-McDonalds Restaurants Ltd,WV14 0EZ,52.5639,-2.0814
+McDonald's,WV14 0EZ,52.5629,-2.0823
 Purple Flamez,WV14 0LH,52.5580,-2.0714
 Britsh Car Auction Wolverhampton Catering,WV14 0QL,52.5615,-2.0875
-Mecca Bingo Club,WV14 0QL,52.5615,-2.0875
 The Grapes ,WV14 6JG,52.5784,-2.0739
 Shan (Midlands) Ltd,WV14 7DW,52.5618,-2.0600
 The Golden Cue Snooker Club Limited ,WV14 7LH,52.5710,-2.0714
@@ -566,7 +568,6 @@ Chutney Indian Cuisine,WV14 9DP,52.5410,-2.0878
 Coseley McDonald's,WV14 9JH,52.5435,-2.0892
 Ronny’s spice,WV14 9JL,52.5420,-2.0899
 subway,WV14 9JL,52.5420,-2.0899
-McDonalds Restaurants Limited,WV14 9QE,52.5441,-2.0912
 Curry Lounge ,WV14 9QZ,52.5452,-2.0971
 Horse and Jockey,WV14 9SB,52.5476,-2.1068
 The Old Vicarage Hotel & Restaurant,WV15 5JZ,52.5598,-2.3611
@@ -597,11 +598,11 @@ Kaz Bar Wolves Limited ,WV2 4HJ,52.5770,-2.1323
 Desi yew tree,WV2 4HN,52.5781,-2.1307
 MEAT AND EAT,WV2 4LD,52.5827,-2.1306
 KFC,WV2 4NJ,52.5742,-2.1328
-KFC,WV2 4QZ,52.5751,-2.1356
-Costa Coffee Wolverhampton,WV2 4SJ,52.5792,-2.1267
+KFC,WV2 4NJ,52.5751,-2.1356
+Costa Coffee,WV2 4SJ,52.5803,-2.1260
 BRUFORD ARMS GRILL LTD,WV3 0AY,52.5758,-2.1466
 Mercure Wolverhampton Goldthorn Hotel,WV3 0ER,52.5750,-2.1373
-McDonalds,WV3 0LH,52.5776,-2.1356
+McDonald's,WV3 0LH,52.5776,-2.1356
 McDonald’s Penn Rd,WV3 0LH,52.5776,-2.1356
 KPS Bar & Grill,WV3 0LU,52.5768,-2.1387
 New Merridale,WV3 0RA,52.5807,-2.1343
@@ -627,7 +628,6 @@ Indigo Restaurant,WV4 4QL,52.5658,-2.1676
 The Greyhound,WV4 4UN,52.5631,-2.1987
 Ramada Resort Park Hall Wolverhampton,WV4 5AJ,52.5608,-2.1298
 The Barely Mow Pub Penn Common Ltd,WV4 5JN,52.5521,-2.1470
-Miller & Carter,WV4 5NG,52.5505,-2.1704
 Malabar (Penn) Ltd,WV4 5QF,52.5600,-2.1545
 Dukes Coffee Shop and Eatery,WV4 5SN,52.5654,-2.1458
 Beacon Centre for the Blind,WV4 6AZ,52.5568,-2.1233
@@ -694,5 +694,4 @@ THE BENTLANDS,WV8 2BP,52.6224,-2.1942
 Codsall Station,WV8 2EH,52.6269,-2.2010
 The Greenhouse Kitchen,WV8 2HJ,52.6163,-2.1961
 The Harrows Inn,WV9 5AW,52.6674,-2.1332
-Compass Group At JLR EMC,WV9 5GB,52.6322,-2.1386
 The Oasis Cafe Pendeford LTD,WV9 5NJ,52.6236,-2.1446

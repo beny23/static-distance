@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 The Burgoyne Hotel Ltd,DL11 6SN,54.2036,-1.3640
 Uno momento,DL6 1DP,54.3410,-1.4337
+Costa Coffee,DL6 1NP,54.3376,-1.4322
 The Village Inn,DL6 2RL,54.3627,-1.4176
 The Green Tree Inn,DL6 2UA,54.3607,-1.4162
 GOLDEN LION,DL6 3AA,54.3688,-1.3014
@@ -13,16 +14,15 @@ The Crosby,DL6 3SP,54.3083,-1.3899
 Pottingshed Northallerton,DL7 8EN,54.3414,-1.4345
 THE DURHAM OX,DL7 8JX,54.3370,-1.4340
 Costa Coffee,DL7 8JZ,54.3383,-1.4343
+Costa Coffee,DL7 8JZ,54.3384,-1.4340
 Tejanos,DL7 8JZ,54.3383,-1.4343
 Tickle Toby Inn,DL7 8JZ,54.3383,-1.4340
 Bettys Northallerton,DL7 8LF,54.3393,-1.4347
 1882 Cafe & Bistro,DL7 8LP,54.3398,-1.4352
 Barkers Kitchen,DL7 8LP,54.3398,-1.4352
 White Horse Cafe,DL7 8LU,54.3414,-1.4358
+Costa Coffee,DL7 8LW,54.3402,-1.4359
 Costa Coffee,DL7 8LW,54.3405,-1.4349
-Costa Coffee,DL7 8LZ,54.3397,-1.4365
-Pizza Express,DL7 8PE,54.3372,-1.4334
-Caffe Nero,DL7 8PP,54.3401,-1.4340
 Katch,DL7 8PP,54.3401,-1.4339
 Lion of Asia Indian Restaurant,DL7 8PP,54.3401,-1.4341
 The Golden Lion Hotel,DL7 8PP,54.3401,-1.4340
@@ -53,7 +53,6 @@ Crema Coffee House,YO62 5BN,54.2456,-1.0610
 Barkers cafe,YO62 5DR,54.2456,-1.0611
 National Centre for Birds of Prey,YO62 5EB,54.2392,-1.0745
 Owl House Cafe,YO62 5EB,54.2392,-1.0745
-English Heritage Visitor Centre Cafe,YO62 5LB,54.2584,-1.1169
 Bliss ,YO7 1AA,54.2335,-1.3423
 The Pantry,YO7 1AA,54.2336,-1.3420
 Grand India Ltd,YO7 1AU,54.2358,-1.3393
@@ -65,7 +64,7 @@ Upstairs Downstairs,YO7 1HD,54.2326,-1.3438
 bianco ristorante ltd,YO7 1HD,54.2326,-1.3437
 Uno Momento ,YO7 1HQ,54.2322,-1.3440
 Black Lion,YO7 1LB,54.2321,-1.3432
-Caffe Nero,YO7 1LH,54.2324,-1.3418
+The Three Tuns Thirsk (Wetherspoon),YO7 1LH,54.2326,-1.3414
 The Golden Fleece Hotel,YO7 1LL,54.2322,-1.3421
 Rural Arts,YO7 1QS,54.2310,-1.3442
 Yorks of Thirsk,YO7 1TF,54.2329,-1.3426
@@ -77,8 +76,6 @@ White Horse Lodge Hotel,YO7 2ER,54.2322,-1.2988
 Old Oak Tree,YO7 2NL,54.2503,-1.3486
 THE GAVEL CAFE  (J B MARWOOD AND SON),YO7 3AB,54.2246,-1.3264
 Thirsk Garden Centre,YO7 3AB,54.2246,-1.3264
-Thirsk Starbucks,YO7 3HN,54.1980,-1.3627
-Starbucks,YO7 3HW,54.1894,-1.3657
 The Angel at Topcliffe,YO7 3RW,54.1785,-1.3853
 Dog and Gun ,YO7 4AZ,54.2862,-1.3340
 Dog and Gun Knayton ,YO7 4AZ,54.2862,-1.3340

@@ -28,7 +28,7 @@ Prince of Wales ,CM3 6SA,51.6629,0.6457
 THE ROUNDBUSH PUB & CAFE,CM9 6NN,51.6849,0.6834
 The White Horse,CM9 6PB,51.6919,0.7034
 Fondant Memories,SS0 0DH,51.5573,0.6745
-Costa Coffee,SS0 0RY,51.5538,0.6891
+Costa Coffee,SS0 0RY,51.5530,0.6883
 Fratellis ,SS0 7EL,51.5413,0.6955
 Pasta&bread limited,SS0 7EL,51.5413,0.6955
 BARRU LIMITED,SS0 7ES,51.5395,0.6934
@@ -86,13 +86,14 @@ Spaghetti Junction Restaurant,SS0 9SU,51.5459,0.6787
 Temple Cafe,SS0 9SY,51.5460,0.6769
 Amina Tandoori,SS1 1AJ,51.5368,0.7108
 The Mews,SS1 1AL,51.5360,0.7110
+The Last Post Southend on Sea (Wetherspoon),SS1 1AS,51.5365,0.7130
 Clarence Yard,SS1 1BH,51.5357,0.7129
 Craftwerk Beers Ltd,SS1 1BU,51.5354,0.7127
 San Fairie Ann ,SS1 1BW,51.5350,0.7117
 Pulp kitchen ,SS1 1BX,51.5352,0.7132
 BB's Coffee and Muffins Southend ,SS1 1DG,51.5347,0.7153
 Gleneagles Guesthouse,SS1 1DP,51.5345,0.7096
-Costa Coffee,SS1 1DQ,51.5347,0.7153
+Costa Coffee,SS1 1DQ,51.5352,0.7142
 Utopia Coffee Lounge,SS1 1DQ,51.5348,0.7153
 subway ,SS1 1DQ,51.5347,0.7153
 Aurum Restaurant,SS1 1DT,51.5344,0.7109
@@ -105,14 +106,14 @@ The Remedy Tea Shop,SS1 1HZ,51.5362,0.7135
 Oyster Court,SS1 1JE,51.5348,0.7139
 TOMASSI'S,SS1 1JE,51.5346,0.7139
 The Royal Hotel,SS1 1JE,51.5346,0.7139
+McDonald's,SS1 1JF,51.5366,0.7139
 McDonalds,SS1 1JF,51.5367,0.7140
-Patisserie Valerie,SS1 1JG,51.5358,0.7141
 The Pipe of Port,SS1 1JN,51.5375,0.7139
 pepes piri piri,SS1 1JT,51.5386,0.7136
+McDonald's,SS1 1JX,51.5397,0.7129
 McDonalds,SS1 1JX,51.5395,0.7128
 Burger King,SS1 1LL,51.5398,0.7116
-Caffe Nero,SS1 1LL,51.5392,0.7120
-Costa Coffee,SS1 1LL,51.5393,0.7120
+Costa Coffee,SS1 1LL,51.5393,0.7123
 GERMAN DONER KEBAB ,SS1 1LL,51.5392,0.7122
 WIGEN COFFEE LTD T/A MUFFIN BREAK,SS1 1LL,51.5391,0.7121
 Maxwells,SS1 1LT,51.5392,0.7101
@@ -122,11 +123,10 @@ ELMEXICANA,SS1 1NE,51.5385,0.7120
 sunflower bistro,SS1 1NL,51.5390,0.7081
 Caddies,SS1 1NT,51.5399,0.7106
 Creams Cafe Southend On Sea,SS1 1NT,51.5399,0.7106
-Nandos Chickenland Ltd,SS1 1NT,51.5399,0.7106
+Nando's,SS1 1NT,51.5400,0.7109
 ROOSTERS PIRI PIRI,SS1 1NT,51.5399,0.7099
 Salsa Tapas & Grill,SS1 1NT,51.5399,0.7106
 olde trout tavern,SS1 1NX,51.5400,0.7085
-Pizza Express,SS1 1PE,51.5405,0.7100
 The Novel Coffee Shop,SS1 1PG,51.5402,0.7063
 Mangetout,SS1 1TJ,51.5403,0.7106
 Park Inn Palace Southend,SS1 2AL,51.5339,0.7160
@@ -157,28 +157,28 @@ Pizza Hut,SS1 2QA,51.5402,0.7290
 Pieno-Lleno Mexican Restaurant,SS1 2RR,51.5360,0.7239
 Ocean Beach,SS1 2YG,51.5301,0.7380
 The Castle,SS1 2YP,51.5302,0.7342
+Brewers Fayre Southend on Sea,SS1 2YT,51.5311,0.7295
 Camelia Hotel,SS1 3AA,51.5305,0.7412
 Roslin Beach Hotel,SS1 3BG,51.5304,0.7465
 COSTA COFFEE - THORPE BAY,SS1 3ES,51.5359,0.7614
-Costa Coffee,SS1 3ES,51.5359,0.7614
+Costa Coffee,SS1 3ES,51.5361,0.7614
 Masoom Restaurant,SS1 3ES,51.5359,0.7614
 SOUTHEND COTTAGE LIMITED,SS1 3ES,51.5360,0.7614
 Cafe Masala,SS1 3EX,51.5361,0.7607
 The Bay Botanical Restaurant,SS1 3EX,51.5361,0.7607
 Thorpe Bay Yacht Club,SS1 3NW,51.5277,0.7651
 Fresco food prep ,SS1 3RB,51.5452,0.7578
+McDonald's,SS2 4BN,51.5520,0.7354
 McDonalds,SS2 4BN,51.5523,0.7329
 Mitchell's Cafe & Bistro,SS2 4LB,51.5476,0.7361
 Gulshan Tandoori Restaurant,SS2 5ET,51.5458,0.7186
 KFC Southend - Greyhound,SS2 5PY,51.5448,0.7159
-KFC,SS2 5PY,51.5448,0.7159
-Mecca Bingo,SS2 5PY,51.5448,0.7159
-Starbucks,SS2 5PY,51.5451,0.7179
+KFC,SS2 5PY,51.5454,0.7168
 WIMPY Southend Victoria,SS2 5SB,51.5406,0.7126
-Starbucks,SS2 5SG,51.5404,0.7128
 Caffe Espresso ,SS2 5SP,51.5404,0.7128
-Costa Coffee,SS2 6AE,51.5416,0.7115
+McDonald's,SS2 6FW,51.5667,0.7031
 McDonalds,SS2 6FW,51.5676,0.7032
+Beefeater Strawberry Field,SS2 6GB,51.5622,0.6815
 Channys Kitchen,SS2 6HH,51.5479,0.7040
 DIXON COMPANY AND SONS LIMITED t/a Subway ,SS2 6RL,51.5577,0.6990
 FAVORITE CHICKEN & RIBS 4U LTD,SS2 6RL,51.5577,0.6990
@@ -190,6 +190,7 @@ The Waeccer,SS3 0EF,51.5528,0.8078
 The Exhibition Inn,SS3 0HZ,51.5535,0.7930
 The Castle Inn ,SS3 0JW,51.5621,0.7867
 The Angel Inn,SS3 8UD,51.5449,0.7782
+Parsons Barn Shoeburyness (Wetherspoon),SS3 8UT,51.5407,0.7822
 Shoeburyness Hotel,SS3 9AJ,51.5295,0.7945
 The polash restaurant ,SS3 9DS,51.5302,0.7805
 Toasteas,SS3 9DT,51.5302,0.7799
@@ -201,6 +202,7 @@ Regency Spice ,SS4 1AY,51.5819,0.7060
 Kwikserve Ltd t/a Taste of raj,SS4 1DB,51.5826,0.7089
 FirstPort - Coachman Court,SS4 1FF,51.5842,0.7001
 KFC Rochford,SS4 1GP,51.5709,0.6794
+KFC,SS4 1GP,51.5702,0.6782
 LOKENATH FOOD LTD,SS4 1ND,51.5768,0.7167
 Monkey Bizness Rochford,SS4 1ND,51.5768,0.7167
 The Rochford Hundred Golf Club Ltd,SS4 1NW,51.5809,0.6981
@@ -212,7 +214,7 @@ Shepherd and Dog ,SS4 2DA,51.6016,0.7480
 plough and sail,SS4 2EQ,51.5958,0.8042
 Anchor Inn,SS4 3QA,51.6175,0.7427
 Aimes Ltd t/a Costa Coffee Hockley,SS5 4AZ,51.6015,0.6544
-Costa Coffee,SS5 4AZ,51.6015,0.6544
+Costa Coffee,SS5 4AZ,51.6014,0.6545
 Potash Tearooms,SS5 4JN,51.5897,0.6671
 The White Hart Inn,SS5 4NS,51.5989,0.6604
 Dominos Pizza,SS5 4PH,51.6014,0.6559
@@ -232,7 +234,7 @@ Leigh road cafe,SS9 1JL,51.5437,0.6678
 Oaktree Vegan Restaurant ,SS9 1JN,51.5437,0.6687
 Thamesbreeze Bar & Restaurant,SS9 1JQ,51.5436,0.6658
 Cafe Hogar Del Mar,SS9 1PA,51.5417,0.6552
-Costa Coffee,SS9 1PA,51.5417,0.6552
+Costa Coffee,SS9 1PA,51.5417,0.6557
 Manolys Thai Restaurant,SS9 1PA,51.5417,0.6552
 The Gourmet Deli Co,SS9 1PA,51.5417,0.6552
 Wilmas Bakery,SS9 1PA,51.5417,0.6554
@@ -266,6 +268,7 @@ Wakey Wakey Cafe Limited,SS9 2UR,51.5481,0.6321
 Hoppily HQ & Lounge,SS9 3JB,51.5483,0.6555
 Company name ,SS9 3JE,51.5480,0.6592
 LA FAMIGLIA LIMITED ,SS9 3JE,51.5480,0.6592
+The Elms LeighonSea (Wetherspoon),SS9 3ND,51.5477,0.6565
 Yak and Yeti,SS9 3ND,51.5476,0.6574
 The Oakleigh,SS9 3NE,51.5475,0.6593
 Continente cafe,SS9 3NF,51.5475,0.6615
@@ -274,6 +277,6 @@ The Inn At Belfairs,SS9 4LR,51.5581,0.6450
 Indian Diner,SS9 5HX,51.5728,0.6398
 Mr Tang's Chinese Restaurant,SS9 5HX,51.5728,0.6398
 KFC Leigh on Sea - Progress Road,SS9 5LY,51.5673,0.6443
-KFC,SS9 5LY,51.5673,0.6443
+KFC,SS9 5LY,51.5665,0.6431
 The Crown Ventures Ltd Trading As Hasina,SS9 5PU,51.5701,0.6507
 The Bellhouse,SS9 5PX,51.5693,0.6520

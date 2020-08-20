@@ -41,6 +41,7 @@ Naya Restaurant ,B95 5BS,52.2912,-1.7804
 Dolce Caffe,B95 5BY,52.2925,-1.7805
 Henley Kitchen & Bakery,B95 5BY,52.2925,-1.7805
 THE WHITE SWAN,B95 5BY,52.2925,-1.7805
+Costa Coffee,B95 5DA,52.2935,-1.7797
 The Bulls Head,B95 6BD,52.2686,-1.7793
 The Cowshed Cafe,B95 6BY,52.2662,-1.7723
 Navigation inn,B95 6BZ,52.2645,-1.7685
@@ -60,19 +61,15 @@ Coffee and Cask at 505,B97 5JJ,52.2799,-1.9403
 The Brook Inn,B97 5UD,52.2788,-1.9872
 THE GOLDEN GOOSE,B98 0DD,52.2920,-1.9040
 Pizza Hut Delivery Redditch,B98 7LA,52.2988,-1.9246
+KFC,B98 7ST,52.2829,-1.9306
 KFC,B98 7ST,52.2836,-1.9304
-McDonalds,B98 7ST,52.2836,-1.9304
-Coffee#1,CV34 4AP,52.2811,-1.5882
-Giggling Squid,CV34 4AP,52.2811,-1.5882
 Caffe Chai,CV34 4BJ,52.2814,-1.5891
 The Art Kitchen,CV34 4BJ,52.2814,-1.5891
-Caffe Nero,CV34 4BL,52.2809,-1.5901
 Dough & Brew,CV34 4BL,52.2809,-1.5901
 Thomas Oken Tea Rooms,CV34 4BP,52.2807,-1.5871
 saffron gold restaurant,CV34 4DH,52.2812,-1.5914
 The Globe,CV34 4DP,52.2821,-1.5921
 Jack’s Shack Warwick,CV34 4EH,52.2817,-1.5869
-Pizza Express,CV34 4EH,52.2817,-1.5869
 aqua food & mood,CV34 4EW,52.2814,-1.5866
 WARWICK SPICE,CV34 4HS,52.2827,-1.5833
 Happy Puccia ltd,CV34 4HU,52.2833,-1.5820
@@ -90,12 +87,14 @@ The Black Pug,CV34 4NU,52.2850,-1.5774
 Warwick Castle a division of Merlin Entertainments Operations Limited,CV34 4QU,52.2806,-1.5858
 The Apple Tree Tearooms,CV34 4RA,52.2821,-1.5890
 The Old Coffee Tavern,CV34 4RA,52.2824,-1.5894
+The Thomas Lloyd Warwick (Wetherspoon),CV34 4SA,52.2822,-1.5902
 The Tuckery,CV34 4SA,52.2819,-1.5901
 Tilted Wig,CV34 4SA,52.2819,-1.5901
+Costa Coffee,CV34 4SH,52.2818,-1.5912
 ROSE AND CROWN,CV34 4SH,52.2819,-1.5916
 Totally Thai,CV34 4SL,52.2823,-1.5910
 The Kings Head,CV34 4TD,52.2841,-1.5920
-Baxterstorey Ltd at Siemens warwick,CV34 5AU,52.2914,-1.5966
+Thyme,CV34 5AH,52.2916,-1.6042
 The Cape of Good Hope,CV34 5DP,52.2914,-1.5954
 The Chip Shed Warwick,CV34 6AN,52.2790,-1.5920
 Vivaanta Indian Restaurant ,CV34 6AN,52.2784,-1.5926
@@ -105,11 +104,9 @@ The Old Fourpenny Shop Hotel ,CV34 6HJ,52.2787,-1.5932
 Hilton Warwick,CV34 6RE,52.2615,-1.6102
 Boars Head ,CV35 8BE,52.2113,-1.6275
 The Granville,CV35 8DS,52.2403,-1.6065
-Starbucks Budbrooke North,CV35 8HA,52.2788,-1.6164
 The New Inn,CV35 8JA,52.2664,-1.6684
 The Crown Inn,CV35 8LJ,52.2832,-1.7172
 Red Lion Inn,CV35 8PE,52.2794,-1.7010
-Starbucks at Budbrooke Services South,CV35 8RH,52.2853,-1.6123
 Alfresco Style Alfies Cafe,CV35 8XA,52.2937,-1.6556
 Snorty's Restaurant,CV35 8XA,52.2936,-1.6556
 The Spinning Jenny Restaurant,CV35 8XA,52.2936,-1.6556
@@ -121,17 +118,19 @@ The Garden Shed Cafe,CV35 9NZ,52.1963,-1.5908
 The Stags Head,CV35 9QS,52.1943,-1.5962
 The Howard Arms (Ilmington) Ltd,CV36 4LT,52.0912,-1.6910
 The Red Lion ,CV36 4LX,52.0904,-1.6904
-Pizza Hut Restaurant,CV37 0HZ,52.2013,-1.7118
+Thyme,CV37 0AZ,52.1973,-1.7118
+Costa Coffee,CV37 0HZ,52.2001,-1.7129
 SAIMISH FOOD LTD T/A Muffin Break,CV37 0HZ,52.2007,-1.7109
 Subway Maybird,CV37 0HZ,52.2007,-1.7109
 The Snitterfield Arms,CV37 0JH,52.2378,-1.6912
 Stratford Manor,CV37 0PY,52.2268,-1.6634
 The Farm Stratford Ltd,CV37 0QA,52.2280,-1.6938
 Compass Group UK,CV37 0UA,52.2028,-1.7145
-BaxterStorey,CV37 0UR,52.2072,-1.7257
+Costa Coffee,CV37 0UA,52.2025,-1.7149
 Huffkins  1 Old red Lion Court  Stratford upon Avon,CV37 6AB,52.1924,-1.7050
+McDonald's,CV37 6AB,52.1926,-1.7044
 McDonalds,CV37 6AB,52.1924,-1.7050
-Costa Coffee House,CV37 6AN,52.1932,-1.7065
+Costa Coffee,CV37 6AD,52.1929,-1.7064
 Bardia's,CV37 6AU,52.1920,-1.7065
 Fresh Baguette Bar,CV37 6AU,52.1920,-1.7065
 Giggling Squid,CV37 6AU,52.1920,-1.7065
@@ -140,6 +139,7 @@ Hooray's British Gelato Kitchen,CV37 6AU,52.1920,-1.7065
 Starbucks,CV37 6AU,52.1920,-1.7065
 Yorks Cafe & coffee roasters,CV37 6AU,52.1920,-1.7065
 AVA CATERING LTD.,CV37 6EE,52.1918,-1.7054
+The Golden Bee StratforduponAvon (Wetherspoon),CV37 6EE,52.1917,-1.7057
 Bouche Bakehouse Ltd,CV37 6EF,52.1914,-1.7056
 LOXLEYS STRATFORD LTD,CV37 6EF,52.1913,-1.7055
 Lambs Restaurant,CV37 6EF,52.1913,-1.7055
@@ -147,30 +147,25 @@ The Fourteas TeaRoom ,CV37 6EF,52.1914,-1.7056
 The Opposition,CV37 6EF,52.1913,-1.7055
 The Vintner Wine Bar,CV37 6EF,52.1913,-1.7055
 Thespians Indian Restaurant ,CV37 6EF,52.1913,-1.7055
-Wildwood Kitchen,CV37 6EF,52.1913,-1.7055
-Zizzi,CV37 6EF,52.1913,-1.7055
 Edward Moon,CV37 6EP,52.1911,-1.7077
 Hussain's Indian Cuisine,CV37 6EP,52.1911,-1.7077
 Everyman Cinema,CV37 6EX,52.1923,-1.7079
 Kungfu Stratford Limited T/A Kungfu Oriental Buffet,CV37 6EX,52.1923,-1.7079
 MOR Bakery,CV37 6EX,52.1923,-1.7078
-Nando's,CV37 6EX,52.1923,-1.7079
 Veeno Stratford-Upon-Avon,CV37 6EX,52.1923,-1.7079
-Coffee#1 Limited,CV37 6EY,52.1932,-1.7078
-Pret A Manger,CV37 6EY,52.1932,-1.7078
 Honey Blue,CV37 6GJ,52.1918,-1.7052
 Thai Kitchen Stratford upon Avon Ltd,CV37 6GJ,52.1918,-1.7052
 R & T Restaurants Ltd,CV37 6HB,52.1897,-1.7089
 Sabai Sabai (stratford) Ltd,CV37 6JF,52.1926,-1.7087
 CAFFE VINERIA WOOD STREET,CV37 6JG,52.1928,-1.7079
 The Burger Priest Stratford,CV37 6JP,52.1920,-1.7085
+Nando's,CV37 6JW,52.1920,-1.7084
 The Old Thatch Tavern,CV37 6LE,52.1930,-1.7112
 Avon Spice ,CV37 6LF,52.1934,-1.7110
 L & A restaurant Ltd T/A Stratford Chinese Cuisine,CV37 6LF,52.1934,-1.7110
 Diana's Tea Room,CV37 6LN,52.1917,-1.7088
 The Queens Head ,CV37 6LN,52.1917,-1.7088
 Hotel Du Vin Stratford Upon Avon,CV37 6LU,52.1920,-1.7108
-Pizza Express Plc,CV37 6LW,52.1915,-1.7088
 Sorrento Restaurant... a taste of Italy,CV37 6LW,52.1915,-1.7088
 The Keys ,CV37 6LW,52.1916,-1.7088
 El Greco,CV37 6NE,52.1933,-1.7098
@@ -178,7 +173,6 @@ Plantarium Cafe,CV37 6NF,52.1936,-1.7090
 HR Coffee Bar ,CV37 6NL,52.1937,-1.7097
 Carls kitchen Ltd,CV37 6PH,52.1932,-1.7149
 Esquires Coffee House  Arden Quarter,CV37 6PP,52.1937,-1.7137
-Cafe Nero,CV37 6PT,52.1931,-1.7069
 HOBSONS PATISSERIES LTD,CV37 6PT,52.1932,-1.7075
 Subway,CV37 6PT,52.1932,-1.7075
 The Cornish Bakery,CV37 6PT,52.1932,-1.7075
@@ -190,7 +184,9 @@ Bensons Restaurant and Tea Rooms,CV37 6QW,52.1940,-1.7088
 Box Brownie Coffee,CV37 6QW,52.1940,-1.7088
 The Boston Tea Party Group Limited,CV37 6QW,52.1940,-1.7088
 THE ONE ELM,CV37 6QZ,52.1944,-1.7077
+The Kitchen,CV37 6UQ,52.1940,-1.7038
 Crowne Plaza Stratford,CV37 6YR,52.1932,-1.7005
+Table Table Red Lion - Warwickshire,CV37 6YW,52.1934,-1.7035
 Cox's Yard,CV37 6YY,52.1936,-1.7018
 Riverside Bar & Restaurant,CV37 7AB,52.2010,-1.6820
 MR CHANS RESTAURANT LTD,CV37 7AZ,52.2002,-1.6762
@@ -217,8 +213,6 @@ Talton Lodge,CV37 8UB,52.1205,-1.6524
 The Salmontail,CV37 9AA,52.1881,-1.7151
 The Squrrel Pub,CV37 9LD,52.1999,-1.7340
 Barney's Cafe,CV37 9NQ,52.2011,-1.7258
-Atalian Servest Food Co,CV37 9QR,52.1931,-1.7180
-Bannatyne Health Club And Spa Wildmoor,CV37 9RJ,52.1987,-1.7508
 cafe chutneys,CV37 9RX,52.1851,-1.7368
 Bonds Lifestyle,CV37 9ST,52.1810,-1.7556
 The kings arms,GL55 6RT,52.0890,-1.7690
@@ -229,7 +223,7 @@ THE BLUE LAGOON (EVESHAM) LTD,WR11 1BS,52.0908,-1.9422
 Northwick Hotel,WR11 1BT,52.0903,-1.9423
 The Pub at Northwick,WR11 1BT,52.0903,-1.9423
 Evesham Hotel,WR11 1DA,52.0885,-1.9409
-McDonalds,WR11 2UT,52.0765,-1.9386
+McDonald's,WR11 2UT,52.0775,-1.9383
 McLean Restaurants Ltd,WR11 2UT,52.0769,-1.9381
 The Regal Evesham ,WR11 3LD,52.0911,-1.9409
 Babyccino Coffee Ltd,WR11 4BD,52.0920,-1.9504
@@ -241,6 +235,7 @@ Flavours ,WR11 4EU,52.0954,-1.9464
 Thai Emerald,WR11 4EU,52.0953,-1.9464
 Craft & Skewers,WR11 4HG,52.0938,-1.9461
 Subway Evesham,WR11 4HG,52.0938,-1.9461
+The Old Swanne Inne Evesham (Wetherspoon),WR11 4HG,52.0944,-1.9464
 GUR RESTAURANT L.T.D,WR11 4HJ,52.0931,-1.9466
 Saffron Lounge,WR11 4HJ,52.0930,-1.9466
 JellyPickleJam,WR11 4RE,52.0920,-1.9487
@@ -249,13 +244,14 @@ Ye Olde Red horse,WR11 4RE,52.0920,-1.9487
 DELICIOUS ,WR11 4RF,52.0926,-1.9479
 Antonio's Pasticcini Limited,WR11 4RR,52.0923,-1.9465
 Herbies Coffee House ,WR11 4RW,52.0920,-1.9470
+Costa Coffee,WR11 4SQ,52.0923,-1.9455
 Peri Peri Frangos Ltd,WR11 4SQ,52.0925,-1.9460
 CHADBURY FARM SHOP LTD,WR11 4TD,52.1148,-1.9669
-Costa Coffee Drive Thru,WR11 4TP,52.1120,-1.9439
+Beefeater The Orchard,WR11 4TP,52.1128,-1.9385
 KFC,WR11 4TP,52.1120,-1.9438
-Baxterstorey 5038 At BBC Wood Norton,WR11 4YB,52.1226,-1.9769
+KFC,WR11 4TP,52.1137,-1.9386
+Costa Coffee,WR11 4XF,52.1016,-1.9517
 The Wood Norton,WR11 4YB,52.1226,-1.9769
-KFC At Twyford Service Services,WR11 7DY,52.0958,-1.9208
 The Fleece Inn,WR11 7JE,52.0922,-1.8656
 The Thatched Tavern ,WR11 7PQ,52.0925,-1.8337
 Moubourne Ltd,WR11 7QJ,52.0936,-1.8309

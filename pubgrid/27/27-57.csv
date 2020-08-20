@@ -1,9 +1,8 @@
 name,postcode,lat,lon
 The Folly Wine and ale House ltd,GU31 4AD,51.0043,-0.9345
-J D Wetherspoon,GU31 4AE,51.0051,-0.9336
+The Red Lion Petersfield (Wetherspoon),GU31 4AE,51.0038,-0.9341
 The Good Intent,GU31 4AF,51.0064,-0.9340
 The Half Moon,GU31 4BE,51.0136,-0.9186
-Everyone Active at Taro Leisure Centre,GU31 4EP,51.0066,-0.9076
 The Natural Food Deli,GU31 4JD,51.0035,-0.9343
 Lemongrass,GU31 4JJ,51.0019,-0.9353
 Malabon ,GU31 4JJ,51.0021,-0.9351
@@ -14,29 +13,28 @@ Ye olde George inn,GU32 1NH,50.9951,-1.0323
 THE IZAAK WALTON P.H.,GU32 1QA,50.9943,-1.0308
 Queens Head,GU32 2AH,51.0150,-0.9193
 McDonald's Restaurant,GU32 3BS,51.0087,-0.9524
-CH&Co Group Ltd at Whitman Laboratories Ltd,GU32 3DD,51.0060,-0.9515
+McDonald's,GU32 3BS,51.0087,-0.9524
 Drink & Snack Limited,GU32 3DT,51.0047,-0.9382
 Fez Restaurant,GU32 3DY,51.0053,-0.9381
 Petersfield Kebab House,GU32 3DY,51.0053,-0.9381
-Pizza Express,GU32 3DY,51.0053,-0.9381
 One Tree Books Cafe,GU32 3EL,51.0057,-0.9392
 PARADISE RESTAURANT,GU32 3EL,51.0057,-0.9391
 La Piazzetta ,GU32 3HJ,51.0041,-0.9375
-Caffe Nero,GU32 3HR,51.0035,-0.9370
 Josies Petersfield Ltd,GU32 3HX,51.0031,-0.9362
 Tearan LTD T/A Gallery No 30,GU32 3JL,51.0039,-0.9354
 The Townhouse,GU32 3JL,51.0039,-0.9354
 Cafe Mezzo,GU32 3JR,51.0035,-0.9351
-Ask Italian,GU32 3JT,51.0036,-0.9360
 Medirest Healthcare-Compass Group at Petersfield Hospital,GU32 3LB,51.0041,-0.9421
+Beefeater Great Oak,GU32 3SB,51.0092,-0.9477
+Costa Coffee,GU32 3TA,51.0043,-0.9367
 The Spread Eagle,GU33 6JU,51.0518,-0.9006
 Hillier Garden Centre Liss,GU33 6LJ,51.0327,-0.9061
 Shah Manzil,GU33 7AD,51.0442,-0.8941
 Madhuban ,GU33 7AQ,51.0450,-0.8951
 Turtle Bean Cafe,GU33 7DP,51.0430,-0.8923
 The Whistle Stop Liss Limited,GU33 7DS,51.0426,-0.8917
+Costa Coffee,GU34 1AW,51.1490,-0.9750
 Subway,GU34 1AW,51.1489,-0.9752
-Costa Coffee,GU34 1AX,51.1491,-0.9750
 Westons Bistro,GU34 1BD,51.1492,-0.9757
 Bottega dei sapori,GU34 1BN,51.1498,-0.9746
 Coronita Limited T/A The Crown Hotel,GU34 1BN,51.1498,-0.9746
@@ -44,9 +42,7 @@ Coronita Ltd,GU34 1BN,51.1497,-0.9746
 Stones (Alton) Ltd,GU34 1BN,51.1496,-0.9748
 Thai Boutique,GU34 1DD,51.1505,-0.9729
 CURRY PALACE,GU34 1EN,51.1472,-0.9782
-Caffe Nero,GU34 1ET,51.1483,-0.9767
 Mifta's ,GU34 1HD,51.1485,-0.9785
-Pizza Express,GU34 1HD,51.1485,-0.9785
 Wheatsheaf,GU34 1HD,51.1485,-0.9785
 FRANGO GRILL,GU34 1HL,51.1480,-0.9779
 River Kwai Restaurant,GU34 1HL,51.1480,-0.9779
@@ -55,6 +51,7 @@ Medirest Healthcare - Compass Group at Alton Hospital,GU34 1RJ,51.1401,-0.9898
 French Horn,GU34 1RT,51.1413,-0.9852
 The Greyfriar,GU34 1SB,51.1338,-0.9881
 Chawton House Library,GU34 1SJ,51.1287,-0.9881
+The Ivy House Alton (Wetherspoon),GU34 1SS,51.1464,-0.9778
 Laleham Alton,GU34 2PR,51.1518,-0.9649
 Rose and Crown ,GU34 3ED,51.1117,-0.9812
 The Selborne Arms,GU34 3JR,51.0965,-0.9417
@@ -65,26 +62,24 @@ West End Flower Farm Kitchen,GU34 4JG,51.1726,-0.9228
 Tree House Coffee Shop,GU34 5AJ,51.1035,-1.0402
 The Saffron,GU34 5HQ,51.1116,-1.0433
 CHOCOLATE FROG COMPANY,GU35 9JA,51.1126,-0.9011
-Wilson Vale Catering,GU35 9JA,51.1126,-0.9011
 The Hanger Freehouse ,GU35 9JQ,51.1174,-0.9019
 The Purefoy Arms,RG25 2EJ,51.1699,-1.1354
 The Plough Itchen Abbas,SO21 1BQ,51.0930,-1.2350
 The Chestnut Horse,SO21 1EG,51.0857,-1.2693
 The Cricketers Inn,SO21 1EJ,51.0859,-1.2721
 The Ship Inn  Owslebury,SO21 1LT,51.0067,-1.2730
-Burger King,SO21 1PP,51.1165,-1.2542
-Costa Coffee,SO21 1PP,51.1165,-1.2542
+Costa Coffee,SO21 1PP,51.1153,-1.2546
 HALF MOON AND SREAD EAGLE,SO21 3DG,51.1475,-1.2634
 Northbrook Arms,SO21 3DU,51.1556,-1.2259
 Stratton Lane Brewery and Tap,SO21 3DZ,51.1450,-1.2160
 Unit12 cafe,SO23 0LD,51.0662,-1.2986
-BaxterStorey,SO23 7TW,51.0865,-1.2995
+Costa Coffee,SO23 7RS,51.0696,-1.2974
+Thyme,SO23 7RT,51.0681,-1.2992
 The ship inn,SO24 0AQ,51.0834,-1.1355
 ROPLEY THAI LOUNGE ,SO24 0BG,51.0830,-1.1057
 The Fox Inn,SO24 0LP,51.0461,-1.1240
 Mr C J Pullinger trading as Pullinger Leisure,SO24 0PN,51.0724,-1.1742
 The Swan Hotel,SO24 9AD,51.0903,-1.1620
-Pizza Express,SO24 9AQ,51.0912,-1.1610
 Pulpo Negro ,SO24 9AQ,51.0912,-1.1610
 Bangkok Bistro,SO24 9AR,51.0912,-1.1618
 Caracoli Alresford,SO24 9AR,51.0910,-1.1618
@@ -97,6 +92,7 @@ The Arlebury Cafe ,SO24 9EP,51.0893,-1.1698
 The Alresford Cricketers,SO24 9LW,51.0802,-1.1708
 The Yew Tree,SO24 9RX,51.1565,-1.0911
 The Woolpack,SO24 9TH,51.1336,-1.1933
+Costa Coffee,SO32 1AA,50.9542,-1.2125
 Giorgio's Mediterranean Restaurant and Bar,SO32 1AA,50.9539,-1.2128
 Josies Bishops Waltham,SO32 1AA,50.9541,-1.2127
 Piccola Roma,SO32 1AR,50.9537,-1.2126

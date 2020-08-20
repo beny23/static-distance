@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 Ego at the Punchbowl,L29 7WA,53.5065,-2.9825
+Costa Coffee,L31 0DQ,53.5165,-2.9425
 Costa Coffee,L31 0DQ,53.5166,-2.9419
 MAGHULL SQUARE BAR AND GRILL,L31 0DQ,53.5166,-2.9419
 Bay of Bengal Tanduri Ltd,L31 2HB,53.5133,-2.9450
@@ -9,6 +10,7 @@ MUGHAL DELIVERY LTD,L31 2PN,53.5130,-2.9441
 Tokala Ltd,L31 3EW,53.5113,-2.9265
 Bernie's Deli Too,L31 3HF,53.5068,-2.9328
 The Weld Blundell,L31 4EF,53.5291,-2.9540
+The Frank Hornby Liverpool (Wetherspoon),L31 6BR,53.5153,-2.9367
  Shake shack,L31 6DG,53.5158,-2.9311
 Subway,L31 6DG,53.5158,-2.9311
 Sefton Meadows Ltd,L31 8BT,53.5077,-2.9626
@@ -25,10 +27,11 @@ The bakehouse,L37 3PX,53.5576,-3.0606
 Formby Pool Trust,L37 4AB,53.5555,-3.0625
 Golden Bridge,L37 4AL,53.5533,-3.0692
 Sorrento Restaurant,L37 4AQ,53.5563,-3.0599
+The Lifeboat Formby (Wetherspoon),L37 4AQ,53.5563,-3.0597
+Costa Coffee,L37 4DL,53.5570,-3.0614
 Costa Coffee,L37 4DL,53.5571,-3.0614
 Pizza Express,L37 4DL,53.5570,-3.0615
 The Kitchen,L37 4DL,53.5571,-3.0614
-Caffe Nero,L37 4DU,53.5566,-3.0613
 Subway,L37 4DU,53.5566,-3.0613
 The Tea Rooms,L37 4DU,53.5565,-3.0614
 Delish ,L37 4ED,53.5560,-3.0637
@@ -36,19 +39,19 @@ Geees Coffee,L37 4ED,53.5560,-3.0632
 Kitty’s tea rooms ,L37 7DB,53.5657,-3.0715
 Don Luigi ,L37 8BQ,53.5569,-3.0566
 McDonald's,L37 8DL,53.5540,-3.0417
-Weld Blundell Starbucks,L38 1QA,53.5278,-3.0321
+McDonald's,L37 8DL,53.5546,-3.0447
+Costa Coffee,L37 8DP,53.5539,-3.0429
 The Topiary Coffee Shop,L38 1QB,53.5241,-3.0273
 SunShine TeaRooms,L38 6JE,53.5226,-3.0239
 Mossock Hall Golf Club,L39 0EE,53.5238,-2.8833
-Starbucks,L39 0EZ,53.5396,-2.8276
 Quattros,L39 0HF,53.5340,-2.8144
 The Cherry House Ltd.,L39 1NN,53.5745,-2.8873
 Flavours cafe & fish bar,L39 2AA,53.5672,-2.8847
 Costa Coffee,L39 2AN,53.5730,-2.8793
+Costa Coffee,L39 2AN,53.5733,-2.8804
 M R (OMSKIRK)LTD  TRADING AS PASSAGE TO INDIA,L39 2AQ,53.5669,-2.8845
 Shamraat 2,L39 2AQ,53.5669,-2.8844
 Starbucks Ormskirk,L39 2AQ,53.5669,-2.8844
-Starbucks,L39 2AQ,53.5669,-2.8844
 Ormskirk hospital restaurant,L39 2AZ,53.5646,-2.8713
 The Fat Italian Ormskirk,L39 2BW,53.5683,-2.8785
 AGA Catering Ltd,L39 2DN,53.5677,-2.8837
@@ -59,26 +62,27 @@ Becks Sandwich Bar,L39 2ES,53.5685,-2.8850
 Il Padrino,L39 2ES,53.5685,-2.8850
 Left Bank Brasserie,L39 2ES,53.5685,-2.8850
 Barnyard Churrasco and grill,L39 2XA,53.5681,-2.8852
+The Court Leet Ormskirk (Wetherspoon),L39 2XA,53.5680,-2.8850
 Cobble Coffee,L39 3AE,53.5676,-2.8867
+McDonald's,L39 3AE,53.5677,-2.8873
 McDonalds,L39 3AE,53.5676,-2.8866
 Dinky Dory,L39 3AG,53.5681,-2.8871
 Subway,L39 3AG,53.5681,-2.8871
 Market Cross,L39 3AN,53.5680,-2.8865
 Turquaz turkish bbq restaurant ,L39 3AW,53.5686,-2.8872
 Costa Coffee,L39 3BH,53.5661,-2.8869
+Costa Coffee,L39 3BH,53.5671,-2.8859
 The Old Post Office,L39 3BH,53.5663,-2.8856
 Brooke’s Bistro ,L39 3BS,53.5652,-2.8897
 O'BRIENS TEA ROOMS ,L39 3BY,53.5678,-2.8901
 the royal oak,L39 3LW,53.5555,-2.9089
 Bramleys Coffee House  ,L39 3QS,53.5681,-2.8861
-McDonalds,L39 3RN,53.5677,-2.8873
 The Cricketers,L39 4QF,53.5648,-2.8837
 Jill Martin Ltd trading as The Edge,L39 4QJ,53.5663,-2.8829
 Mandrakes A Magical Experience,L39 4QR,53.5666,-2.8835
 The Dog and Gun Inn,L39 5BU,53.5522,-2.8911
 The Barn at Moor Hall,L39 6RT,53.5416,-2.8896
 The Stanley Arms,L39 6SA,53.5430,-2.9206
-Miller & Carter Aughton,L39 6ST,53.5357,-2.9254
 THE NEW SCARISBRICK ARMS RESTAURANT,L39 7HX,53.5578,-2.9673
 Saracens Head,L39 8RH,53.5806,-2.9435
 the village bakehouse,L39 8RN,53.5883,-2.9496
@@ -95,7 +99,6 @@ Hugo's,L40 5RZ,53.6027,-2.8424
 The Blue Mallard,L40 5RZ,53.6027,-2.8424
 Briars Hall Hotel,L40 5TH,53.5925,-2.8236
 The Old Packet House,L40 5TN,53.6017,-2.8440
-Baxterstorey,L40 5UF,53.5728,-2.8179
 the plough inn ,L40 6JG,53.5652,-2.8230
 Warbreck Garden Centre,L40 6JW,53.5555,-2.8341
 Booths,L40 8AD,53.5878,-2.8632
@@ -110,6 +113,7 @@ The Kicking Donkey,L40 8HY,53.5836,-2.8912
 The Farmers Arms ,L40 8JA,53.6049,-2.8646
 Brew and Buddies Play & Learn Centre Ltd,L40 8JY,53.5988,-2.8634
 Master McGraths,L40 9RF,53.6125,-2.9389
+Beefeater Morris Dancers,L40 9RG,53.6101,-2.9344
 The Tearoom at Scarisbrick Marina,L40 9RH,53.6006,-2.9266
 Bangla Fusion Winebar Restaurant,PR4 5JQ,53.6957,-2.8128
 The Dolphin Inn,PR4 5JY,53.7227,-2.8214
@@ -122,16 +126,15 @@ Tharaldr Coffee Limited T/A Boskins Cafe,PR4 6UP,53.6792,-2.8312
 The Barn,PR4 6UP,53.6792,-2.8312
 The Cock and Bottle,PR4 6UP,53.6792,-2.8312
 Pizzeria Mamma Mia ,PR8 1AA,53.6482,-3.0043
-Costa Coffee,PR8 1AE,53.6469,-3.0051
+Costa Coffee,PR8 1AE,53.6464,-3.0060
 LE BOULEVARD BISTRO,PR8 1AS,53.6473,-3.0055
-Caffe Nero,PR8 1BH,53.6468,-3.0042
 Megafauna,PR8 1BN,53.6453,-3.0040
 WALKERS ON WESLEY STREET,PR8 1BN,53.6453,-3.0040
 A Great Little Place,PR8 1DB,53.6473,-3.0059
 To die for Coffee bistro,PR8 1DF,53.6463,-3.0047
 THE GALLARY LIMITED,PR8 1DL,53.6468,-3.0064
 KFC - SOUTHPORT,PR8 1DT,53.6458,-3.0059
-KFC,PR8 1DT,53.6458,-3.0059
+KFC,PR8 1DT,53.6459,-3.0059
 Subway,PR8 1DW,53.6466,-3.0067
 Cranberry's Coffee Shop,PR8 1EN,53.6470,-3.0057
 Jasper Restaurants Ltd T/A The Hungry Monk,PR8 1EN,53.6470,-3.0057
@@ -149,11 +152,8 @@ The Cheshire Lines ,PR8 1LQ,53.6436,-3.0105
 Portland Hall Spa Ltd,PR8 1LR,53.6441,-3.0070
 Dukes Folly Hotel,PR8 1LS,53.6437,-3.0116
 92 Degrees,PR8 1NH,53.6486,-3.0057
-Caffe Nero,PR8 1NH,53.6487,-3.0057
 Daily Dose Southport Ltd T/A Hideaway,PR8 1NN,53.6475,-3.0079
-Pizza Express,PR8 1NY,53.6480,-3.0071
 Scarisbrick Hotel Southport,PR8 1NZ,53.6478,-3.0078
-Starbucks,PR8 1PE,53.6474,-3.0079
 Diva cafe,PR8 1PF,53.6470,-3.0086
 NOSTALGIA TEA ROOMS,PR8 1PF,53.6470,-3.0086
 Starbucks Lord Street,PR8 1PF,53.6470,-3.0085
@@ -163,17 +163,13 @@ PIER RESTAURANT ,PR8 1QX,53.6505,-3.0084
 BISTRO BAR MED,PR8 1RD,53.6461,-3.0110
 MEDHITO CUBAN LATIN LOUNGE,PR8 1RD,53.6461,-3.0110
 The Phoenix ,PR8 1RE,53.6463,-3.0105
-Wetherspoons,PR8 1RH,53.6458,-3.0113
-Mecca Bingo,PR8 1RN,53.6454,-3.0118
+The Sir Henry Segrave Southport (Wetherspoon),PR8 1RH,53.6459,-3.0106
 cleveland cafe,PR8 1RP,53.6447,-3.0127
-KFC,PR8 1RY,53.6534,-3.0111
-Tenpin Ltd,PR8 1RY,53.6534,-3.0111
-Nando's,PR8 1SA,53.6530,-3.0105
-Pizza Hut Restaurant,PR8 1SA.,53.6530,-3.0105
+Brewers Fayre Ocean Plaza,PR8 1RY,53.6509,-3.0146
+McDonald's,PR8 1SA,53.6530,-3.0127
 KFC - OCEAN PLAZA,PR8 1SB,53.6520,-3.0145
 Subway,PR8 1SB,53.6520,-3.0145
-Dunelm Mill,PR8 1SQ,53.6541,-3.0115
-McDonalds,PR8 1SQ,53.6541,-3.0115
+KFC,PR8 1SQ,53.6538,-3.0130
 Fishermens Rest ,PR8 2AZ,53.6374,-3.0213
 Cafe bar n’ista ,PR8 2DS,53.6345,-3.0147
 The Rose Tea Room of Birkdale ,PR8 2DT,53.6349,-3.0154
@@ -191,10 +187,11 @@ Jade Gardens Chinese Restaurant,PR8 3NQ,53.5998,-3.0342
 Spitfire Pub & Kitchen,PR8 3PH,53.5978,-3.0420
 Allotment Bar & Restaurant,PR8 4AG,53.6334,-3.0123
 Bistrot Verite ,PR8 4AR,53.6339,-3.0137
+Costa Coffee,PR8 4AR,53.6340,-3.0139
 Croziers of Birkdale,PR8 4AR,53.6339,-3.0137
 Birkdale Cheese Center ,PR8 4AY,53.6336,-3.0132
 Grasshopper Pub Limited,PR8 4QD,53.6202,-3.0219
-McDonalds Restaurants Ltd,PR8 5HW,53.6325,-2.9698
+McDonald's,PR8 5HW,53.6326,-2.9698
 Itsy Bitsy Thai,PR8 5JF,53.6296,-2.9660
 Hickory's Smokehouse,PR8 5PH,53.6296,-2.9755
 the blue anchor,PR8 6AB,53.6442,-2.9863
@@ -204,10 +201,11 @@ THATCH AND THISTLE,PR8 6EF,53.6395,-2.9728
 Southport Hospital Russets Restaurant,PR8 6PN,53.6337,-2.9784
 BISTROT PIERRE - SOUTHPORT,PR9 0AG,53.6494,-3.0044
 Caffe Dolce,PR9 0AG,53.6494,-3.0044
+The Willow Grove Southport (Wetherspoon),PR9 0AG,53.6492,-3.0049
 Delivolare,PR9 0AN,53.6516,-3.0004
 The New Thistle Cafe,PR9 0AN,53.6516,-3.0004
 Volare Restaurant,PR9 0AN,53.6516,-3.0004
-Costa Coffee,PR9 0AQ,53.6498,-3.0036
+Costa Coffee,PR9 0AQ,53.6498,-3.0033
 Skylight,PR9 0AQ,53.6498,-3.0036
 Great Himalayas Nepalese Restaurant and Bar,PR9 0AW,53.6520,-2.9996
 Lords Cafe bar,PR9 0AW,53.6520,-2.9996
@@ -236,8 +234,7 @@ The Guesthouse,PR9 0QE,53.6505,-2.9992
 Lord Street Hotel,PR9 0QG,53.6512,-2.9989
 The Office Bar and Restaurant,PR9 0TE,53.6482,-3.0026
 The Whistle Stop Cafe ,PR9 0TH,53.6473,-3.0015
-Costa Coffee,PR9 0TQ,53.6448,-2.9961
-Compass Group at Asda,PR9 0TY,53.6464,-2.9982
+Costa Coffee,PR9 0TQ,53.6455,-2.9955
 Love to Eat,PR9 0UF,53.6483,-3.0034
 Lucys Coffeeshop,PR9 0UT,53.6487,-3.0025
 The Lansdowne Bistro,PR9 0UT,53.6487,-3.0025

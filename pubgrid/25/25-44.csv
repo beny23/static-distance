@@ -16,13 +16,13 @@ RIDGEWAY INN,EX13 7JJ,50.8035,-2.9918
 The Flintlock Inn ,EX14 9AJ,50.8900,-3.0600
 Kings Arms Inn,EX14 9BS,50.8364,-3.0749
 1567 Taunton McDonalds - Lambtrad Ltd T/A McDonalds,TA1 2AN,51.0231,-3.0837
-McDonalds Restaurant Ltd - Asda,TA1 2AN,51.0231,-3.0837
+McDonald's,TA1 2AN,51.0231,-3.0832
+Beefeater White Lodge,TA1 2DU,51.0228,-3.0722
 THE SPICE LOVER LTD,TA1 2EL,51.0182,-3.0821
 554 Taunton DT McDonalds -  Lambtrad Ltd T/A McDonalds,TA1 2LP,51.0242,-3.0669
-Hollywood Bowl,TA1 2LP,51.0236,-3.0664
-Mcdonalds Restaurants Ltd,TA1 2LP,51.0236,-3.0664
+McDonald's,TA1 2LP,51.0242,-3.0669
 Tiffin ,TA1 2LP,51.0242,-3.0669
-Pizza Hut Restaurant,TA1 2LR,51.0210,-3.0643
+Costa Coffee,TA1 2LR,51.0202,-3.0643
 TNS Catering_WPA,TA1 2PE,51.0152,-3.0678
 Subway taunton deane service,TA1 2UH,51.0200,-3.0661
 Lamb and Lion,TA10 0AT,50.9911,-2.8635
@@ -53,7 +53,7 @@ Phelips Arms,TA15 6XB,50.9494,-2.7155
 Lord Poulett Arms,TA17 8SE,50.9104,-2.8249
 Dinnington Docks Ltd,TA17 8SX,50.9143,-2.8497
 Crooked Swan - The Swan Hotel,TA18 7HR,50.8848,-2.7964
-Costa Coffee,TA18 7JS,50.8839,-2.7953
+Costa Coffee,TA18 7JS,50.8840,-2.7951
 Jurassic Coast Coffee Ltd t/a Costa Coffee Crewkerne,TA18 7JS,50.8839,-2.7953
 Bilbys,TA18 7JY,50.8842,-2.7963
 The George Hotel,TA18 7LP,50.8849,-2.7952
@@ -61,7 +61,6 @@ The White Hart Inn,TA18 7LW,50.8850,-2.7947
 Haselbury Mill Ltd,TA18 7NY,50.8975,-2.7695
 The white horse,TA18 7RJ,50.8966,-2.7522
 The Home Bakery,TA18 8AG,50.8799,-2.7858
-Elior UK,TA19 0BN,50.9253,-2.9065
 Balti house ilminster limited,TA19 0BQ,50.9260,-2.9101
 cafe square,TA19 0DH,50.9266,-2.9110
 The Dolphin Inn,TA19 0DR,50.9273,-2.9128
@@ -71,16 +70,15 @@ New Inn,TA19 0NZ,50.9077,-2.8905
 The Volunteer Inn,TA19 0QE,50.9335,-2.8417
 Seavington Shop and Cafe,TA19 0QH,50.9307,-2.8439
 Shrubbery Hotel (2013) Limited,TA19 9AR,50.9285,-2.9180
-Costa Coffee,TA19 9FF,50.9324,-2.9355
 The Flying Fish Pub,TA19 9NX,50.9442,-2.9837
-Burger King,TA19 9PT,50.9336,-2.9415
 Monks Yard,TA19 9PY,50.9336,-2.9462
 The Five Dials Inn,TA19 9QH,50.9289,-2.9659
 The Bell Broadway,TA19 9RG,50.9345,-2.9655
 PHOENIX HOTEL,TA20 1PH,50.8729,-2.9652
-Costa Coffee,TA20 1PP,50.8730,-2.9645
+Costa Coffee,TA20 1PT,50.8727,-2.9640
 Eleos Cafe,TA20 1PT,50.8728,-2.9632
 Jurassic Coast Coffee Ltd t/a Costa Coffee Chard,TA20 1PT,50.8728,-2.9632
+The Cerdic Chard (Wetherspoon),TA20 1PT,50.8733,-2.9627
 SPICE VILLA INDIAN RESTAURANT,TA20 1QF,50.8725,-2.9667
 Bath House Hotel & Restaurant ,TA20 2AH,50.8721,-2.9655
 The Art Cafe & Bistro,TA20 2AH,50.8721,-2.9655
@@ -101,6 +99,7 @@ Windwhistle Inn,TA20 4DQ,50.8832,-2.8775
 Bell Public House (Winsham) Ltd,TA20 4HU,50.8532,-2.8895
 The Squirrel Inn,TA20 4NT,50.8386,-2.8710
 The Ruishton Inn,TA3 5JW,51.0202,-3.0504
+Breakfast Room,TA3 5LU,51.0180,-3.0605
 The Farmers Arms West Hatch Ltd,TA3 5RS,50.9729,-3.0373
 The Greyhound Inn,TA3 5SP,50.9606,-3.0502
 The Far Canal,TA3 6DF,50.9977,-2.9874

@@ -2,9 +2,11 @@ name,postcode,lat,lon
 Etore's,EH11 1QY,55.9330,-3.2350
 Tea & Sympathy,EH11 1RF,55.9327,-3.2290
 Costa Coffee,EH11 1TU,55.9371,-3.2348
+Costa Coffee,EH11 1TU,55.9371,-3.2353
 The Caley Sample Room,EH11 2JR,55.9379,-3.2256
 Heart of Midlothian plc,EH11 2NL,55.9391,-3.2317
 Baguette Express Gorgie Road,EH11 2PN,55.9376,-3.2341
+McDonald's,EH11 2QL,55.9364,-3.2394
 Stellar Restaurants Ltd T/A McDonald's,EH11 2QL,55.9363,-3.2394
 Kaspas Desserts,EH11 2RN,55.9362,-3.2414
 Edinburgh Spice,EH11 2RZ,55.9346,-3.2460
@@ -13,56 +15,52 @@ The Garden Bistro,EH11 3HR,55.9332,-3.2526
 Subway,EH11 3LW,55.9296,-3.2569
 Subway,EH11 4AS,55.9232,-3.2892
 Beijing Banquet,EH11 4BW,55.9231,-3.2884
-Powerleague Sighthill Community Club,EH11 4EQ,55.9280,-3.2971
+KFC,EH11 4DG,55.9262,-3.3101
 Sykes Global Services Cafe ,EH11 4GA,55.9196,-3.3023
 Vigo Deli,EH12 6AW,55.9458,-3.2347
 Murrayfield Golf Club Limited,EH12 6EU,55.9496,-3.2507
 The Bothy Restaurant - The Murrayfield Hotel,EH12 6HN,55.9458,-3.2423
 Eastern Pavilion,EH12 6PA,55.9428,-3.2803
 The Terrace,EH12 7JB,55.9366,-3.2788
-Costa Coffee,EH12 7SD,55.9426,-3.2822
+Costa Coffee,EH12 7SD,55.9426,-3.2821
 Pizza Hut,EH12 7SL,55.9427,-3.2843
+Costa Coffee,EH12 7UQ,55.9406,-3.2950
 Dangal,EH12 7UU,55.9429,-3.2867
 WONG'S CHINESE RESTAURANT,EH12 7UU,55.9429,-3.2867
 Mimi's Bakehouse,EH12 7XD,55.9429,-3.2897
 Abida ,EH12 7XF,55.9427,-3.2912
 Costorphine cafe ltd,EH12 8AT,55.9429,-3.2820
 St Johns Curry Club ,EH12 8AT,55.9429,-3.2822
+The White Lady Edinburgh (Wetherspoon),EH12 8AT,55.9431,-3.2825
 The Torfin,EH12 8AX,55.9431,-3.2839
 Spice Lounge Kitchen,EH12 8HG,55.9474,-3.2949
 Chinese Manor House,EH12 8HL,55.9427,-3.2947
 Fabio’s restaurant ,EH12 8HW,55.9421,-3.2960
+McDonald's,EH12 8HW,55.9423,-3.2936
 McDonalds ,EH12 8HW,55.9420,-3.2964
 Grosvenor Casino Edinburgh,EH12 8NE,55.9413,-3.3138
 Philly's,EH12 9DF,55.9326,-3.3147
 Novotel Edinburgh Park,EH12 9DJ,55.9321,-3.3165
-Brewdog,EH12 9DN,55.9484,-3.3632
-Burger King,EH12 9DN,55.9484,-3.3632
-Caffe Nero,EH12 9DN,55.9484,-3.3632
-Costa Coffee,EH12 9DN,55.9484,-3.3632
-Pret A Manger,EH12 9DN,55.9484,-3.3632
-Starbucks,EH12 9DN,55.9484,-3.3632
+Costa Coffee,EH12 9DN,55.9480,-3.3650
 THE COFFEE HOUSE,EH12 9DN,55.9463,-3.3600
-Wetherspoons - The Turnhouse,EH12 9DN,55.9484,-3.3632
-Benugo,EH12 9EB,55.9299,-3.2978
+The Sir Walter Scott Unit C170 After Security (Wetherspoon),EH12 9DN,55.9489,-3.3629
+The Turnhouse Before Security (Wetherspoon),EH12 9DN,55.9488,-3.3627
+Thyme,EH12 9FX,55.9284,-3.3105
 Hampton by Hilton Edinburgh Airport,EH12 9GN,55.9449,-3.3642
 Pizza Hut Express,EH12 9JR,55.9385,-3.3143
-Burger King,EH12 9JU,55.9385,-3.3143
-STARBUCKS COFFEE,EH12 9JU,55.9385,-3.3143
+Costa Coffee,EH12 9JU,55.9384,-3.3142
 Baguette Express,EH12 9JY,55.9384,-3.3144
 Chopstix Edinburgh Gyle Centre,EH12 9JY,55.9384,-3.3144
 PB Edinburgh Ltd T/A Subway,EH12 9JY,55.9384,-3.3144
 The Spylaw,EH13 0JT,55.9079,-3.2575
 Osteria dei Sapori,EH13 0LF,55.9076,-3.2558
-Costa Coffee at Tesco,EH13 9AH,55.9105,-3.2369
-Starbucks,EH13 9QR,55.9011,-3.2326
+Costa Coffee,EH13 9AH,55.9113,-3.2380
 Kiltedpig ,EH14 1AL,55.9280,-3.2297
 Jashans,EH14 1NY,55.9316,-3.2377
 Corn Exchange Edinburgh ,EH14 1RJ,55.9268,-3.2474
-Costa Coffee,EH14 1RJ,55.9268,-3.2474
+Costa Coffee,EH14 1RJ,55.9294,-3.2454
 Stellar Restaurants Ltd T/A McDonald's,EH14 1RJ,55.9268,-3.2474
 Imperial Palace Scotland Ltd,EH14 2ER,55.9249,-3.2543
-Buzz Bingo,EH14 2ST,55.9163,-3.2850
 Lothian Canteen,EH14 2TF,55.9225,-3.2706
 Courtyard by Marriot Edinburgh West,EH14 4AS,55.9094,-3.3207
 Tanners Bar Resturant ,EH14 5BA,55.9072,-3.2745
@@ -79,28 +77,31 @@ Fhior at Cafe Party,EH27 8BB,55.9096,-3.4117
 Dalmahoy Hotel and Country Club,EH27 8EB,55.9065,-3.3755
 Holiday Inn Express Edinburgh Airport ,EH28 8AU,55.9447,-3.3710
 Clifton Hall School Ltd,EH28 8LQ,55.9208,-3.4255
+McDonald's,EH28 8LQ,55.9377,-3.4023
 McDonalds ,EH28 8LQ,55.9208,-3.4255
 Norton House Hotel & Spa,EH28 8LX,55.9335,-3.3860
 Royal Highland Centre,EH28 8NB,55.9411,-3.3691
 MFG BP NEWBRIDGE,EH28 8PW,55.9343,-3.4036
 The Bridge Inn Ratho,EH28 8RU,55.9226,-3.3792
 Kate’s Kitchen,EH28 8SR,55.9391,-3.4094
+Thyme,EH28 8TH,55.9432,-3.4046
 Craigies Farm Deli and Cafe,EH30 9AR,55.9736,-3.3523
 Ravenous Beastie,EH30 9LL,55.9902,-3.3969
 Orocco Pier,EH30 9PP,55.9903,-3.3963
 Queens Spice,EH30 9PP,55.9903,-3.3963
 The Boathouse,EH30 9PP,55.9903,-3.3963
-Burger King,EH30 9QZ,55.9826,-3.3971
+Burger King,EH30 9QU,55.9832,-3.3980
 DOWN THE HATCH ,EH30 9SQ,55.9926,-3.4084
 SCOTTS PORT EDGAR,EH30 9SQ,55.9926,-3.4084
 The Railbridge Bistro,EH30 9TA,55.9900,-3.3864
+Brewers Fayre Queens Crossing,EH30 9YJ,55.9840,-3.4068
+McDonald's,EH30 9YJ,55.9839,-3.4068
 McDonalds South Queensferry,EH30 9YJ,55.9840,-3.4068
 The Cove,EH4 2AG,55.9602,-3.2558
-Costa Coffee,EH4 2LN,55.9584,-3.2422
+Costa Coffee,EH4 2LN,55.9590,-3.2432
 KFC,EH4 2LN,55.9584,-3.2422
-Starbucks Coffee Co,EH4 2LN,55.9584,-3.2422
 THE SCOTTISH ENGINEER,EH4 2ND,55.9612,-3.2403
-Village Urban Resort & Starbucks,EH4 2NY,55.9656,-3.2336
+McDonald's,EH4 2NF,55.9613,-3.2423
 Royal Voluntary Service,EH4 2XU,55.9618,-3.2349
 Cafe citron,EH4 3NF,55.9574,-3.2496
 Cloudberry Gift & Coffee Shop,EH4 3NG,55.9573,-3.2504
@@ -109,22 +110,21 @@ Ye Olde Inn Limited,EH4 5BZ,55.9656,-3.2729
 COSTA COFFEE,EH4 6AA,55.9657,-3.2743
 Cloudberry Gift & Coffee Shop,EH4 6BU,55.9618,-3.3059
 Royal Burgess Golfing Society of Edinburgh,EH4 6BU,55.9618,-3.3059
-Miller & Carter Cramond Brig,EH4 6DY,55.9652,-3.3173
 THE CLERMISTON,EH4 7EG,55.9555,-3.2857
-Caffe Nero,EH4 7QD,55.9603,-3.2959
-Tony Macaroni,EH4 7QD,55.9604,-3.2943
 The Crown Inn,EH47 7QU,55.8709,-3.6220
 BATHGATE GOLF CLUB,EH48 1BA,55.8984,-3.6366
 Fairway Hotel ,EH48 1BA,55.8984,-3.6366
+Breakfast Room,EH48 1LQ,55.8953,-3.6065
 CH&CO Catering Ltd,EH48 2EH,55.8887,-3.6181
 CAIRN HOTEL (BATHGATE) LIMITED,EH48 2EL,55.8874,-3.6238
-Costa Coffee @ Tesco,EH48 2ES,55.8938,-3.6214
+Costa Coffee,EH48 2ES,55.8936,-3.6189
 The Burger Barn at The Park Bistro,EH49 6QY,55.9765,-3.5556
 Bar Leo ,EH49 7AE,55.9769,-3.5973
 Mason Belles Kitchen ,EH49 7AE,55.9769,-3.5973
 The Crannog,EH49 7AE,55.9769,-3.5973
 The Coffee Neuk,EH49 7AH,55.9773,-3.6002
 Costa Coffee,EH49 7AQ,55.9770,-3.5984
+Costa Coffee,EH49 7AQ,55.9770,-3.5991
 cafebar 1807,EH49 7AQ,55.9770,-3.5990
 The Jersey Bean,EH49 7ED,55.9766,-3.5993
 Fenwicks of Linlithgow,EH49 7EJ,55.9762,-3.6033
@@ -148,7 +148,6 @@ THE DINE,EH52 5EE,55.9345,-3.4691
 Marios,EH52 5EQ,55.9340,-3.4673
 Starbucks,EH52 5FF,55.9351,-3.4470
 The Open Door,EH52 5HY,55.9302,-3.5039
-Baxterstorey Scotland,EH52 6NH,55.9472,-3.5146
 Williamson Design Florist Ltd,EH52 6PA,55.9216,-3.5180
 The Fat Pheasant,EH52 6QE,55.9835,-3.4564
 Tally Ho,EH52 6TP,55.9598,-3.4622
@@ -166,30 +165,24 @@ Bayleaf,EH53 0LW,55.9073,-3.4927
 Innoflate Livingston,EH54 5DB,55.9163,-3.5086
 Jamuna,EH54 5PY,55.9179,-3.5023
 Don pollo peri peri ltd,EH54 6AG,55.8934,-3.5281
-Costa Coffee,EH54 6FQ,55.8824,-3.5194
+Costa Coffee,EH54 6FQ,55.8815,-3.5201
 Starbucks Livingston Drive-Thru,EH54 6GA,55.8796,-3.5258
 Starbucks,EH54 6GA,55.8796,-3.5258
-Wagamama,EH54 6GS,55.8831,-3.5171
+KFC,EH54 6HP,55.8799,-3.5206
+Costa Coffee,EH54 6HR,55.8836,-3.5151
 MCA Edinburgh Ltd T/A Subway,EH54 6HR,55.8837,-3.5135
 Muffin Break Livingston,EH54 6HR,55.8837,-3.5135
-Nando's Chickenland Ltd,EH54 6HR,55.8838,-3.5150
-Burger King,EH54 6NB,55.8842,-3.5126
 Carlton Bingo  Livingston,EH54 6NB,55.8842,-3.5126
-Costa Coffee,EH54 6NB,55.8842,-3.5126
 NowNow Cafe ,EH54 6NB,55.8846,-3.5110
 The Mall Cafe Bar  Livingston,EH54 6NB,55.8842,-3.5126
 The Paraffin Lamp,EH54 6NB,55.8842,-3.5126
 bakers baristas ( bb's ),EH54 6NQ,55.8846,-3.5110
 Chopstix Livingston,EH54 6QX,55.8827,-3.5194
-McDonalds Restaurants Ltd (664),EH54 6QX,55.8827,-3.5194
-McDonalds's,EH54 6QX,55.8827,-3.5194
-Pizza Express,EH54 6QX,55.8827,-3.5194
-Pizza Hut Restaurant,EH54 6QX,55.8827,-3.5194
-Prezzo,EH54 6QX,55.8827,-3.5194
+Costa Coffee,EH54 6QX,55.8830,-3.5203
+McDonald's,EH54 6QX,55.8839,-3.5179
 SPUDULIKE LIVINGSTON,EH54 6QX,55.8827,-3.5194
-Starbucks,EH54 6QX,55.8827,-3.5194
 T/A McDonald's,EH54 6QX,55.8827,-3.5194
-Tony Macaroni,EH54 6QX,55.8831,-3.5211
+The NewYearField Livingston (Wetherspoon),EH54 6QX,55.8827,-3.5179
 KFC,EH54 6RQ,55.8810,-3.5224
 Oscars (Pizza  Pasta  Burgers),EH54 6TW,55.8986,-3.5327
 Pizza Hut,EH54 6TW,55.8986,-3.5327
@@ -199,6 +192,7 @@ Livingston Inn ltd,EH54 7AF,55.8858,-3.5387
 Almond Valley Heritage Centre,EH54 7AR,55.8859,-3.5474
 The Topiary Coffee Shop,EH54 7AW,55.8813,-3.5309
 Albacore,EH54 7LW,55.8709,-3.5469
+Beefeater Deer Park,EH54 8AD,55.9153,-3.5259
 Balance bistro ltd ,EH54 8GZ,55.8988,-3.5668
 SUBWAY  BP CARMONDEAN  LIVINGSTON,EH54 8PT,55.9018,-3.5460
 Artisan Cheesecakes Kitchen ,EH54 8QH,55.8994,-3.5671

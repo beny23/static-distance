@@ -3,6 +3,7 @@ The Eggcup,DT2 9DB,50.6927,-2.6771
 Rakhang Thai Cuisine,DT6 3JX,50.7335,-2.7560
 Olive Tree Restaurant,DT6 3LB,50.7332,-2.7537
 Taj Mahal Bridport,DT6 3LF,50.7332,-2.7571
+The Greyhound Bridport (Wetherspoon),DT6 3LF,50.7335,-2.7579
 THE LORD NELSON,DT6 3LL,50.7329,-2.7536
 The Green Yard Cafe ,DT6 3LY,50.7338,-2.7543
 Soulshine Cafe,DT6 3NN,50.7315,-2.7583
@@ -10,7 +11,7 @@ The Sundorbon,DT6 3NN,50.7315,-2.7583
 Beach and Barnicott,DT6 3NQ,50.7329,-2.7585
 The Market House Inn,DT6 3QN,50.7340,-2.7593
 The Ropemakers,DT6 3QP,50.7337,-2.7598
-Costa Coffee,DT6 3QW,50.7342,-2.7609
+Costa Coffee,DT6 3QW,50.7341,-2.7602
 Jurassic Coast Coffee Ltd t/a Costa Coffee Ltd Bridport,DT6 3QW,50.7342,-2.7609
 Red Brick Cafe,DT6 3RR,50.7321,-2.7618
  Marquis of Lorne,DT6 3SY,50.7581,-2.6855
@@ -21,7 +22,6 @@ Ivy House Kitchen at Groves Nurseries,DT6 4BA,50.7228,-2.7574
 Cafe Sladers,DT6 4EL,50.7116,-2.7599
 Café Sladers,DT6 4EL,50.7116,-2.7599
 Bridport Arms Hotel,DT6 4EN,50.7104,-2.7614
-The Cornish Bakery,DT6 4EN,50.7104,-2.7614
 WATCH HOUSE CAFE,DT6 4EN,50.7104,-2.7614
 The station kitchen,DT6 4EW,50.7108,-2.7603
 seagulls restaurant,DT6 4EW,50.7108,-2.7603
@@ -51,10 +51,9 @@ The Lyme Bay Cafe & Bar,DT7 3QA,50.7250,-2.9327
 Rock Point Inn,DT7 3QD,50.7245,-2.9339
 The Bell Cliff Restaurant Ltd,DT7 3QD,50.7245,-2.9339
 Goose and Badger,DT7 3QE,50.7247,-2.9354
-The Cornish Bakery,DT7 3QE,50.7247,-2.9354
 The Volunteer Inn,DT7 3QE,50.7247,-2.9354
 Tom's - in the pop up kitchen Lyme Regis,DT7 3QE,50.7247,-2.9354
-COSTA COFFEE,DT7 3QF,50.7251,-2.9350
+Costa Coffee,DT7 3QF,50.7251,-2.9354
 Jurassic Coast Coffee Ltd t/a Costa Coffee Lyme Regis,DT7 3QF,50.7250,-2.9350
 Pizza Steak House,DT7 3QP,50.7249,-2.9339
 The Talbot Arms,DT7 3TF,50.7355,-2.9576
@@ -72,11 +71,12 @@ The shed steakhouse and grill ,EX12 2LS,50.7039,-3.0700
 Bipa Limited T/as Ragini,EX12 2LX,50.7043,-3.0689
 Finishing Touches Coffee Shop,EX12 2LX,50.7043,-3.0689
 Old Picture House,EX12 2LZ,50.7041,-3.0669
+Thyme,EX12 2NA,50.7043,-3.0659
 The Malt House,EX12 2NX,50.7048,-3.0708
 Eyre Court Hotel,EX12 2NY,50.7051,-3.0714
+Costa Coffee,EX12 2PB,50.7052,-3.0674
 The terrace Arts cafe,EX12 2QN,50.7041,-3.0710
 The Hideaway ,EX12 2TY,50.7030,-3.0771
-Costa Coffee,EX12 2US,50.7169,-3.0736
 Monsoon Indian Restaurant,EX12 2WD,50.7046,-3.0677
 Ship Inn,EX12 4AF,50.7144,-3.0532
 The Harbour Inn,EX12 4AF,50.7144,-3.0532
@@ -85,7 +85,7 @@ Arts Cafe Bar,EX13 5AQ,50.7812,-2.9993
 Golden House Chinese restaurant ,EX13 5AU,50.7821,-2.9967
 The Lamb Inn,EX13 5BE,50.7806,-2.9921
 The George Hotel,EX13 5DW,50.7824,-2.9978
-Costa Coffee,EX13 5NQ,50.7826,-2.9983
+Costa Coffee,EX13 5NQ,50.7825,-2.9981
 Jurassic Coast Coffee Ltd t/a Costa Coffee Axminster,EX13 5NQ,50.7826,-2.9983
 Le Pisani Axminster ,EX13 5NX,50.7813,-3.0003
 The Hunters Lodge Inn,EX13 5SZ,50.7617,-2.9633
@@ -95,7 +95,6 @@ Greg's bar,EX13 7DY,50.7847,-3.0706
 Tuckers arms,EX13 7EG,50.7991,-3.0678
 RIDGEWAY INN,EX13 7JJ,50.8035,-2.9918
 Cranberries hideaway,EX13 7NS,50.7682,-3.0319
-Axminster Starbucks,EX13 7PZ,50.7806,-3.0734
 A35 Pit stop,EX13 7RB,50.7789,-3.0321
 THE OLD INN,EX13 7RB,50.7789,-3.0321
 New Inn,EX13 7SF,50.7789,-3.0404
@@ -107,9 +106,10 @@ The Garden Shop,EX24 6PD,50.7425,-3.0738
 White Hart Inn,EX24 6QF,50.7286,-3.0590
 The Wheelwright Inn,EX24 6QQ,50.7272,-3.0623
 PHOENIX HOTEL,TA20 1PH,50.8729,-2.9652
-Costa Coffee,TA20 1PP,50.8730,-2.9645
+Costa Coffee,TA20 1PT,50.8727,-2.9640
 Eleos Cafe,TA20 1PT,50.8728,-2.9632
 Jurassic Coast Coffee Ltd t/a Costa Coffee Chard,TA20 1PT,50.8728,-2.9632
+The Cerdic Chard (Wetherspoon),TA20 1PT,50.8733,-2.9627
 SPICE VILLA INDIAN RESTAURANT,TA20 1QF,50.8725,-2.9667
 Bath House Hotel & Restaurant ,TA20 2AH,50.8721,-2.9655
 The Art Cafe & Bistro,TA20 2AH,50.8721,-2.9655

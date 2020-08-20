@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+Costa Coffee,DT1 1BA,50.7149,-2.4366
 ReLoved,DT1 1BA,50.7151,-2.4365
 The Court House Bistro ,DT1 1BE,50.7149,-2.4374
 Cafe 11,DT1 1BS,50.7133,-2.4368
@@ -8,19 +9,17 @@ Cathie's,DT1 1DE,50.7125,-2.4374
 The Gorge Cafe,DT1 1DF,50.7130,-2.4373
 The Pantry Cafe Limited,DT1 1DQ,50.7140,-2.4374
 La Caverna Restaurant,DT1 1EW,50.7148,-2.4340
+Thyme,DT1 1GA,50.7092,-2.4388
 Y.C's Dorchester Ltd,DT1 1GA,50.7092,-2.4391
-NANDOS,DT1 1GS,50.7100,-2.4388
+Costa Coffee,DT1 1GH,50.7095,-2.4376
 The Posh Partridge Cafe,DT1 1HF,50.7158,-2.4360
 MYRAS KAISEKI LTD,DT1 1HH,50.7154,-2.4348
 Masala Indian Cuisine,DT1 1HH,50.7155,-2.4345
 Lee Garden Chinese Restaurant,DT1 1HU,50.7159,-2.4336
-WAGAMAMA,DT1 1HX,50.7101,-2.4383
-ZIZZI,DT1 1HX,50.7101,-2.4383
 Potters cafe ,DT1 1JP,50.7148,-2.4356
 The walnut grove ( Dorchester) ltd ,DT1 1JP,50.7148,-2.4355
 Hendover Cafe,DT1 1QR,50.7108,-2.4383
 Brewhouse and Kitchen Dorchester,DT1 1QY,50.7097,-2.4394
-PIZZA EXPRESS,DT1 1QY,50.7097,-2.4394
 Basili.co,DT1 1TT,50.7141,-2.4382
 Cow and Apple  Dorchester,DT1 1TT,50.7141,-2.4382
 Poppins Cafe Restaurant Dorchester ,DT1 1TT,50.7141,-2.4382
@@ -33,18 +32,17 @@ The spice centre ,DT1 1UP,50.7150,-2.4401
 Rajpoot,DT1 1UT,50.7152,-2.4403
 The Old Tea House ,DT1 1UT,50.7152,-2.4403
 The Old Ship Inn,DT1 1UW,50.7151,-2.4389
+The Royal Oak Dorchester (Wetherspoon),DT1 1UW,50.7151,-2.4392
 Colliton Club Limited,DT1 1XZ,50.7159,-2.4397
-MEDIREST HEALTHCARE - COMPASS GROUP,DT1 2DR,50.7010,-2.4419
-Costa Coffee,DT1 2JY,50.7135,-2.4471
+Costa Coffee,DT1 2JY,50.7133,-2.4467
 The Sydney Arms,DT1 2NG,50.7141,-2.4468
-KFC,DT1 2RY,50.7027,-2.4443
+KFC,DT1 2RY,50.7014,-2.4457
 Cafe Octagon ,DT1 3GW,50.7104,-2.4580
 The Poet Laureate,DT1 3GW,50.7104,-2.4580
 The Engine Room restaurant,DT1 3RT,50.7143,-2.4657
 Bonjour Cafe,DT1 3TR,50.7127,-2.4671
 Le Petit Canard,DT2 0BE,50.7775,-2.5725
 The Fox and Hounds Inn,DT2 0JH,50.7947,-2.5794
-FULLERS EARTH,DT2 0JL,50.7930,-2.5788
 Summer Lodge Hotel,DT2 0JR,50.8383,-2.6068
 The Acorn Inn,DT2 0JW,50.8386,-2.6064
 Gaggle of Geese,DT2 7BS,50.8432,-2.4451
@@ -60,7 +58,6 @@ WHITE HORSE INN,DT2 9AT,50.7082,-2.6404
 The Eggcup,DT2 9DB,50.6927,-2.6771
 Manor House Hotel,DT2 9DF,50.6790,-2.6626
 CLUB HOUSE ,DT2 9DG,50.6768,-2.6637
-McDonalds,DT2 9DL,50.7117,-2.4745
 McDonald’s Restaurant,DT2 9DL,50.7117,-2.4745
 The Spyway Inn,DT2 9EP,50.7404,-2.6621
 The Brewers Arms,DT2 9LB,50.6994,-2.5043
@@ -83,6 +80,7 @@ The Springhead Pub ,DT3 6LW,50.6532,-2.4171
 Rakhang Thai Cuisine,DT6 3JX,50.7335,-2.7560
 Olive Tree Restaurant,DT6 3LB,50.7332,-2.7537
 Taj Mahal Bridport,DT6 3LF,50.7332,-2.7571
+The Greyhound Bridport (Wetherspoon),DT6 3LF,50.7335,-2.7579
 THE LORD NELSON,DT6 3LL,50.7329,-2.7536
 The Green Yard Cafe ,DT6 3LY,50.7338,-2.7543
 Soulshine Cafe,DT6 3NN,50.7315,-2.7583
@@ -90,7 +88,7 @@ The Sundorbon,DT6 3NN,50.7315,-2.7583
 Beach and Barnicott,DT6 3NQ,50.7329,-2.7585
 The Market House Inn,DT6 3QN,50.7340,-2.7593
 The Ropemakers,DT6 3QP,50.7337,-2.7598
-Costa Coffee,DT6 3QW,50.7342,-2.7609
+Costa Coffee,DT6 3QW,50.7341,-2.7602
 Jurassic Coast Coffee Ltd t/a Costa Coffee Ltd Bridport,DT6 3QW,50.7342,-2.7609
 Red Brick Cafe,DT6 3RR,50.7321,-2.7618
  Marquis of Lorne,DT6 3SY,50.7581,-2.6855
@@ -101,7 +99,6 @@ Ivy House Kitchen at Groves Nurseries,DT6 4BA,50.7228,-2.7574
 Cafe Sladers,DT6 4EL,50.7116,-2.7599
 Café Sladers,DT6 4EL,50.7116,-2.7599
 Bridport Arms Hotel,DT6 4EN,50.7104,-2.7614
-The Cornish Bakery,DT6 4EN,50.7104,-2.7614
 WATCH HOUSE CAFE,DT6 4EN,50.7104,-2.7614
 The station kitchen,DT6 4EW,50.7108,-2.7603
 seagulls restaurant,DT6 4EW,50.7108,-2.7603

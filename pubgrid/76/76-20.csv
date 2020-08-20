@@ -1,7 +1,5 @@
 name,postcode,lat,lon
-Starbucks,BT29 4AB,54.6616,-6.2163
 STORE220 LTD - Subway - Airport Retail Park- 68046,BT29 4DN,54.6648,-6.2140
-Burger King,BT29 4DW,54.6612,-6.2255
 Insomnia Coffee House,BT29 4DW,54.6612,-6.2255
 Randals,BT29 4SW,54.6495,-6.1681
 Maldron Hotel Belfast International Airport,BT29 4ZY,54.6630,-6.2190
@@ -28,6 +26,7 @@ Brothers restaurant,BT39 9JN,54.7721,-6.0233
 The Jamison Tea Room,BT39 9JS,54.7865,-6.0424
 Kathmandu Inn Indian and Nepalese Restaurant,BT39 9RQ,54.7429,-6.0063
 Maud at Caffe3,BT39 9ZJ,54.7529,-6.0000
+KFC,BT41 1LT,54.7210,-6.1956
 Dunadry Hotel and Gardens ,BT41 2HA,54.6989,-6.1428
 Ellie Mays ,BT41 2HH,54.6984,-6.1345
 Dunsilly Hotel,BT41 2JH,54.7417,-6.2302
@@ -56,19 +55,14 @@ Restaurant at massereene ,BT41 4DQ,54.7140,-6.2321
 The Boathouse Antrim,BT41 4DQ,54.7140,-6.2321
 Rococo Winebar Antrim,BT41 4JE,54.7184,-6.2197
 Starbucks Junction One,BT41 4JG,54.7219,-6.2214
-Starbucks,BT41 4JG,54.7219,-6.2214
-Burger King,BT41 4LL,54.7307,-6.2325
-Compass group at Asda Cafe,BT41 4LL,54.7307,-6.2325
-Costa Coffee,BT41 4LL,54.7306,-6.2329
 Holiday Inn Express Antrim,BT41 4LL,54.7259,-6.2286
 JAKES COCKTAIL BAR,BT41 4LL,54.7307,-6.2325
 MOES GRILL ANTRIM,BT41 4LL,54.7301,-6.2329
 McDonald's,BT41 4LL,54.7307,-6.2325
-Nando's,BT41 4LL,54.7306,-6.2329
+McDonald's,BT41 4LL,54.7312,-6.2288
 Obriens Sandwich Bar,BT41 4LL,54.7307,-6.2325
 REDZ,BT41 4LL,54.7301,-6.2329
 SUBWAY,BT41 4LL,54.7307,-6.2325
-Starbucks Drive Thru,BT41 4LL,54.7306,-6.2329
 Starbucks Junction One DT,BT41 4LL,54.7301,-6.2329
 Alfies cafe,BT41 4LT,54.7230,-6.2248
 SPICE TEMPLEPATRICK,BT41 4TF,54.6753,-6.1659

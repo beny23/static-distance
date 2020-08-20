@@ -1,29 +1,21 @@
 name,postcode,lat,lon
-Blackburn Tenpin,BB1 1AQ,53.7446,-2.4786
-Pizza Hut,BB1 1AQ,53.7446,-2.4786
 6 Burgerz,BB1 1BB,53.7430,-2.4793
-Burger King,BB1 1BB,53.7430,-2.4793
 STEAKOUT,BB1 1BB,53.7430,-2.4792
-Dunelm Soft Furnishings Ltd Cafe Pausa,BB1 1DG,53.7441,-2.4807
-Nando's,BB1 1DG,53.7441,-2.4807
+Nando's,BB1 1DG,53.7452,-2.4790
 subway,BB1 1EY,53.7465,-2.4795
-Starbucks (Cathedral),BB1 1FB,53.7468,-2.4802
-Turtle Bay,BB1 1FB,53.7468,-2.4807
+Thyme,BB1 1FB,53.7467,-2.4807
 Chai Station,BB1 1NR,53.7479,-2.4587
 sahad blackburn ,BB1 1TD,53.7436,-2.4714
 Wright's Bites,BB1 2AL,53.7477,-2.4462
 FLIP OUT BLACKBURN,BB1 2EE,53.7318,-2.4536
-Starbucks,BB1 2EE,53.7307,-2.4526
 Zeddy's chicken  and pizza,BB1 2HR,53.7392,-2.4524
 Powerleague Soccerdome,BB1 2NG,53.7275,-2.4462
-KFC @ Frontier Park,BB1 3AL,53.7492,-2.4652
-Starbucks @ Frontier Park,BB1 3AL,53.7492,-2.4652
 The Burger Bros,BB1 3AN,53.7486,-2.4673
 Futures Leisure Burnley Ltd,BB1 3AQ,53.7496,-2.4655
 HAWELI INDIAN CUISINE,BB1 3AZ,53.7486,-2.4702
 speedy steaks,BB1 3BD,53.7512,-2.4608
+KFC,BB1 3HR,53.7540,-2.4392
 McDonald's,BB1 3HR,53.7540,-2.4454
-McDonalds Restaurant,BB1 3HW,53.7524,-2.4484
 The red lion,BB1 3HY,53.7515,-2.4452
 spice lounge ,BB1 4AD,53.7812,-2.4465
 Checks & Greys,BB1 5AA,53.7469,-2.4816
@@ -31,6 +23,7 @@ Butlers Family Restaurant,BB1 5AF,53.7481,-2.4828
 Exchange Coffee Company Blackburn Market,BB1 5AF,53.7482,-2.4827
 JW Chilli & Salt Blackburn ,BB1 5AF,53.7481,-2.4828
 KFC,BB1 5AF,53.7481,-2.4828
+KFC,BB1 5AF,53.7492,-2.4824
 Spindles Diner ltd,BB1 5AF,53.7481,-2.4828
 Thai noodle bar ,BB1 5AF,53.7482,-2.4827
 The Pepper Pot ,BB1 5AF,53.7482,-2.4827
@@ -40,8 +33,6 @@ Haute Dolci,BB1 5AL,53.7479,-2.4817
 FRANKIE'S BLACKBURN,BB1 5BD,53.7484,-2.4800
 Calypso Restaurant,BB1 5BY,53.7492,-2.4742
 TCK DELI MARKET LTD,BB1 5DP,53.7524,-2.4693
-Costa Coffee,BB1 6AD,53.7501,-2.4813
-Buzz Bingo,BB1 6AF,53.7507,-2.4802
 Marhaba sweets,BB1 6DS,53.7526,-2.4814
 Naafiah GrillHouse ,BB1 6DS,53.7526,-2.4814
 Pepe's Piri Piri,BB1 6DS,53.7526,-2.4814
@@ -51,11 +42,9 @@ Dipz Donut & Gelato,BB1 6LB,53.7580,-2.4713
 Sliders ,BB1 6LR,53.7579,-2.4700
 Roberto's Bar & Bistro,BB1 7AR,53.7506,-2.4856
  McDonald's,BB1 7DJ,53.7488,-2.4843
-McDonalds Restaurant Ltd,BB1 7DJ,53.7488,-2.4843
+McDonald's,BB1 7DJ,53.7484,-2.4840
 WAHEED'S BUFFET,BB1 7EG,53.7518,-2.4849
-Burger King The Mall,BB1 7JB,53.7488,-2.4830
-KFC,BB1 7JE,53.7491,-2.4835
-Costa Coffee,BB1 7JG,53.7492,-2.4827
+Costa Coffee,BB1 7JG,53.7485,-2.4820
 Wana and sons ltd,BB1 7LE,53.7527,-2.4829
 Griller bb ltd,BB1 7LG,53.7530,-2.4811
 RHODE ISLAND COFFEE LTD,BB1 7NQ,53.7487,-2.4832
@@ -102,16 +91,18 @@ Crust,BB2 2BH,53.7464,-2.4823
 The health chef limited,BB2 2BH,53.7463,-2.4827
 Cube Lounge,BB2 2BY,53.7467,-2.4830
 THIRA RESTAURANT,BB2 2BY,53.7467,-2.4830
+The Postal Order Blackburn (Wetherspoon),BB2 2BY,53.7467,-2.4825
 Exchange Coffee Company Blackburn Shop,BB2 2DG,53.7473,-2.4840
 Stay Grounded Limited,BB2 2DH,53.7465,-2.4862
-Costa Coffee Drive Thru Grimshaw Park,BB2 3DY,53.7424,-2.4783
 OBSERVATORY HOTEL,BB2 3HG,53.7355,-2.4700
 COSTA COFFEE,BB2 3HH,53.7366,-2.4668
-WH Smiths Costa Coffee,BB2 3HH,53.7366,-2.4668
+Costa Coffee,BB2 3HH,53.7354,-2.4620
+Costa Coffee,BB2 3PX,53.7419,-2.4819
 Raj mooring ltd ,BB2 3PZ,53.7400,-2.4859
 Brunch Cafe and Takeaway,BB2 4DT,53.7341,-2.5029
 Revolution cafe ltd,BB2 4DT,53.7341,-2.5029
   McDonald's,BB2 4LQ,53.7286,-2.4920
+McDonald's,BB2 4LQ,53.7292,-2.4924
 The Arches ,BB2 5HD,53.7280,-2.5315
 Pleasington Golf Club,BB2 5JF,53.7297,-2.5432
 The Butlers Arms,BB2 5JH,53.7326,-2.5431
@@ -124,11 +115,8 @@ Traders Arms,BB2 7EW,53.7743,-2.5239
 The Bay Horse Inn,BB2 7HX,53.7805,-2.5368
 Hawkshaw Farm Visitor Centre,BB2 7JA,53.7843,-2.5246
 The Millstone,BB2 7JR,53.7733,-2.5289
-608 Costa Coffee Shop at BAE Systems,BB2 7LE,53.7760,-2.5804
-609 Costa Coffee Bar at BAE Systems,BB2 7LE,53.7760,-2.5804
 Stanley House Hotel & Spa,BB2 7NP,53.7645,-2.5390
 feildens arms,BB2 7PR,53.7760,-2.5473
-KFC,BB2 7PU,53.7698,-2.5552
 THE INDIAN HARVEST,BB4 8AJ,53.7253,-2.2864
 Los Pollos Hermanos,BB5 1AS,53.7547,-2.3638
 Coffee beanz,BB5 1DZ,53.7535,-2.3630
@@ -140,14 +128,18 @@ Yankeez ,BB5 1EH,53.7520,-2.3611
 Frankies Cafe,BB5 1ER,53.7535,-2.3644
 BRUNCH COFFEE SHOP LTD,BB5 1EW,53.7542,-2.3637
 Lancashire Tea Rooms & More,BB5 1EX,53.7545,-2.3654
+Costa Coffee,BB5 1EY,53.7542,-2.3645
 Mitali Accrington Ltd,BB5 1HN,53.7521,-2.3631
 Carers Link Lancashire,BB5 1LE,53.7534,-2.3664
 Subway,BB5 1PL,53.7540,-2.3665
 mickimorgans,BB5 1PR,53.7546,-2.3678
 McDonald's,BB5 1PY,53.7546,-2.3766
+McDonald's,BB5 1PY,53.7551,-2.3689
 GRANTS BAR,BB5 2BQ,53.7500,-2.3597
+The Commercial Hotel Accrington (Wetherspoon),BB5 2EN,53.7527,-2.3640
 Red Buddha bar and restaurant ,BB5 2ER,53.7514,-2.3652
 The Gallery Kitchen,BB5 2JS,53.7412,-2.3566
+McDonald's,BB5 2SB,53.7250,-2.3279
 McDonald's,BB5 2SB,53.7259,-2.3326
 Spice Room,BB5 2SB,53.7259,-2.3326
 Royal Phoenix Restaurant,BB5 3DA,53.7475,-2.3926
@@ -159,7 +151,7 @@ The Duckworth hall inn ,BB5 3RQ,53.7349,-2.4236
 The Plough,BB5 3RY,53.7369,-2.3838
 MR GATTY'S TEA ROOM,BB5 4AA,53.7568,-2.3820
 Monte Cristo Italian Restaurant,BB5 4EP,53.7549,-2.3876
-KFC,BB5 4EQ,53.7560,-2.3827
+KFC,BB5 4EQ,53.7559,-2.3821
 Yummies Breakfast Ltd,BB5 4LZ,53.7503,-2.4103
 westend fish and chips,BB5 4LZ,53.7502,-2.4086
 the stanhill pub & kitchen,BB5 4PS,53.7448,-2.4160
@@ -193,7 +185,6 @@ Spinning Block Hotel,BB7 1EB,53.8678,-2.3949
 Swan with Two Necks,BB7 1PT,53.8519,-2.3720
 Calfs Head Limited,BB7 1QA,53.8798,-2.3528
 Leaping Lizards Playcentre Ltd,BB7 1QD,53.8762,-2.3777
-Caffè Nero,BB7 2BT,53.8720,-2.3921
 Costa Coffee,BB7 2BT,53.8720,-2.3921
 ROSE AND CROWN HOTEL,BB7 2BT,53.8720,-2.3921
 Swan and Royal Hotel,BB7 2BX,53.8719,-2.3916
@@ -233,9 +224,9 @@ FORUM BAR & KITCHEN,BB7 9SP,53.8203,-2.4068
 The Dog Inn,BB7 9SP,53.8203,-2.4068
 KING STREET KITCHEN,BB7 9SW,53.8223,-2.4069
 Tastebuds (Whalley) Limited,BB7 9TH,53.8221,-2.4076
-KFC,BB7 9WF,53.8404,-2.3955
+KFC,BB7 9WA,53.8398,-2.3957
+McDonald's,BB7 9WF,53.8399,-2.3944
 McDonald's,BB7 9WF,53.8404,-2.3955
-McDonalds Restaurants Ltd,BB7 9WF,53.8404,-2.3955
 Starbucks,BB7 9WF,53.8404,-2.3955
 new hall lane cafe,PR1 4ST,53.7637,-2.6741
 The Hesketh’s arms ,PR1 4SY,53.7658,-2.6647
@@ -243,7 +234,7 @@ Miller rd cafe,PR1 5QS,53.7680,-2.6705
 Giddy Kids,PR2 5BE,53.7874,-2.6325
 Clip n Climb Preston Limited,PR2 5BW,53.7864,-2.6478
 The Plough,PR2 5JR,53.8053,-2.6233
-Starbucks Preston East,PR2 5PZ,53.7900,-2.6586
+Beefeater Norman Jepson,PR2 5PZ,53.7900,-2.6586
 THE STAGS HEAD,PR3 2AU,53.8225,-2.6677
 The Alston Arms,PR3 2NA,53.8354,-2.6086
 The Cobbled Corner,PR3 2QH,53.8833,-2.5781
@@ -287,6 +278,5 @@ The Beam and Brycg,PR5 6QL,53.7356,-2.6632
 Withy Arms,PR5 6QP,53.7315,-2.6625
 The Greedy Goose Cafe ,PR5 6TP,53.7286,-2.6610
 THE HOSPITAL INN,PR5 6YP,53.7259,-2.6385
-Mcdonalds,WN8 6LN,53.8612,-2.5693
 Siesta Coffee,WN8 6LN,53.8612,-2.5693
 Subway,WN8 6LN,53.8612,-2.5693

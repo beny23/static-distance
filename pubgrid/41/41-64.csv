@@ -16,22 +16,22 @@ Flock cafe,CB23 7EY,52.1817,0.0592
 The Plough,CB23 7PL,52.2101,0.0629
 blue lion (hardwick) limited,CB23 7QU,52.2066,0.0059
 McDonald's Restaurant,MK44 3AA,52.1946,-0.2980
+McDonald's,MK44 3AA,52.1931,-0.2981
 Lakeside Kitchen and Bar,MK44 3AL,52.2011,-0.2913
 Roxton Garden Centre,MK44 3DY,52.1827,-0.3100
 Little acorn cafe ,MK44 3EA,52.1786,-0.3155
-Atalian Servest Food Co,MK44 3PH,52.1380,-0.3193
 The Guinea Moggerhanger,MK44 3RG,52.1289,-0.3297
 The Eltisley,PE19 6TG,52.2216,-0.1408
+KFC,PE19 8AN,52.2091,-0.2905
 Waggon and Horses,PE19 8EF,52.2177,-0.2891
 Akbar ,PE19 8EL,52.2123,-0.2907
 The White Horse Pub & Kitchen,PE19 8EL,52.2123,-0.2907
 BURGER KING-St Neots,PE19 8EN,52.2081,-0.2906
-Burger King,PE19 8EN,52.2081,-0.2906
-Costa Coffee,PE19 8EN,52.2081,-0.2906
+Costa Coffee,PE19 8EN,52.2091,-0.2904
 KFC - St Neots,PE19 8EN,52.2081,-0.2906
-KFC,PE19 8EN,52.2081,-0.2906
 Subway,PE19 8EX,52.2113,-0.2882
 The RiverMill,PE19 8GW,52.2152,-0.2851
+Cookhouse + Pub The Highwayman,PE19 8YP,52.2085,-0.2892
 White Horse,SG15 6TA,52.0163,-0.2636
 The Five Bells Henlow,SG16 6AE,52.0364,-0.2862
 The Crown,SG16 6BS,52.0291,-0.2859
@@ -44,10 +44,10 @@ shefford tandoori ,SG17 5DG,52.0383,-0.3354
 Bangkok Lounge Shefford,SG17 5DJ,52.0414,-0.3356
 the loft,SG17 5DQ,52.0396,-0.3346
 Golden Lion,SG17 5ES,52.0365,-0.3026
-Samuel Whitbread Academy,SG17 5QS,52.0378,-0.3177
 Biggles Beds Ltd,SG18 0AP,52.0891,-0.2671
 Mumtaz Lounge Limited,SG18 0AP,52.0891,-0.2671
 Jones' Café Bar,SG18 0JE,52.0871,-0.2655
+The Crown Hotel (Wetherspoon),SG18 0JE,52.0870,-0.2649
 Nonno Joe's,SG18 0LA,52.0872,-0.2604
 PERA KITCHEN,SG18 0LJ,52.0869,-0.2614
 Flutters Bingo Club ,SG18 8AL,52.0851,-0.2619
@@ -55,7 +55,9 @@ Surfin Cafe Limited Biggleswade,SG18 8AQ,52.0867,-0.2644
 Subway Biggleswade,SG18 8AS,52.0862,-0.2641
 Stratton House Hotel,SG18 8ED,52.0863,-0.2563
 Apple Green,SG18 8PL,52.0785,-0.2867
+Costa Coffee,SG18 8PS,52.0743,-0.2467
 MCDONALD'S,SG18 8QB,52.0748,-0.2411
+McDonald's,SG18 8QB,52.0752,-0.2430
 The crown,SG18 9AA,52.1047,-0.3228
 SOUTHILL VILLAGE STORE & TEA ROOM,SG18 9JB,52.0644,-0.3205
 The Green Man,SG18 9JD,52.0555,-0.3113
@@ -65,9 +67,7 @@ The Langford hideaway ,SG18 9RR,52.0538,-0.2719
 Ivel Valley Coffee Shop,SG18 9SD,52.0472,-0.2780
 pecoro,SG19 1HU,52.1295,-0.2877
 Rasoi,SG19 1JA,52.1291,-0.2889
-Baxterstorey Catering,SG19 1QY,52.1389,-0.2842
 The Wheatsheaf,SG19 2AN,52.1636,-0.3018
-Elior UK Ltd,SG19 2BN,52.1488,-0.2162
 O'sarracino Pizzeria ,SG19 2LR,52.1269,-0.2153
 Ek Raj Potton,SG19 2LT,52.1265,-0.2162
 JOHN OGAUNT GOLF CLUB,SG19 2LY,52.1166,-0.2232
@@ -90,8 +90,6 @@ EL MEXICANA,SG7 5TR,52.0145,-0.2025
 KFC BALDOCK SERVICE,SG7 5TR,52.0145,-0.2025
 KFC,SG7 5TR,52.0145,-0.2025
 MCDONALD'S,SG7 5TR,52.0145,-0.2025
-McDonalds,SG7 5TR,52.0145,-0.2025
-Starbucks,SG7 5TR,52.0145,-0.2025
 Wood Grill,SG8 0DN,52.1272,-0.0824
 The Three Tuns,SG8 0JP,52.0774,-0.1368
 The Pig & Abbot,SG8 0SD,52.0830,-0.0937
@@ -103,6 +101,7 @@ Yuva Dining Room Ltd,SG8 5JL,52.0811,-0.0384
 the hoops,SG8 5LF,52.0784,-0.0530
 The Belle,SG8 5NZ,52.0814,-0.0610
 The Chequers,SG8 5QL,52.1339,-0.0127
+Costa Coffee,SG8 5UA,52.0599,-0.0320
 Bury Lane Farm Shop,SG8 6DF,52.0791,0.0042
 Sheene Mill (Vinura Ltd),SG8 6DX,52.0847,0.0147
 Sheene Mill Retail and Therapy,SG8 6DX,52.0847,0.0147
@@ -112,10 +111,12 @@ The British Queen,SG8 6LB,52.0973,0.0070
 The Green Man,SG8 6RA,52.1027,0.0397
 Hot Numbers Coffee - The Roastery,SG8 6RB,52.0997,0.0373
 Banyers House,SG8 7BZ,52.0484,-0.0227
+The Manor House Royston (Wetherspoon),SG8 7BZ,52.0483,-0.0231
 THE CHEQUERS,SG8 7SR,52.0930,0.0729
 September flowers and coffee bar,SG8 8EE,52.0044,0.0159
 Fox And Hounds,SG8 8HU,52.0263,0.0386
 The Chequers Inn,SG8 8JQ,52.0247,0.0325
+Costa Coffee,SG8 9AA,52.0472,-0.0238
 Costa Coffee,SG8 9AA,52.0474,-0.0238
 Kooky Nohmad Royston Ltd,SG8 9AG,52.0474,-0.0236
 Rasa sayang,SG8 9AG,52.0475,-0.0236
@@ -123,5 +124,5 @@ The Old Bull Inn,SG8 9AW,52.0463,-0.0234
 The Royal Bengal,SG8 9AW,52.0463,-0.0234
 Lounge India,SG8 9JU,52.0459,-0.0214
 MCDONALD'S,SG8 9NT,52.0456,-0.0538
-McDonalds Restaurant,SG8 9NT,52.0456,-0.0538
+McDonald's,SG8 9NT,52.0454,-0.0544
 The Fox and Duck,SG8 9PN,52.0175,-0.0543

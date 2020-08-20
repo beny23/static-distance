@@ -1,41 +1,34 @@
 name,postcode,lat,lon
 Caffe Pieno,G11 7DR,55.8813,-4.3259
 Little SoHo Jordanhill,G13 1NU,55.8839,-4.3257
+McDonald's,G13 2UX,55.8921,-4.3317
 McDonalds Anniesland 952,G13 2UX,55.8913,-4.3295
-McDonalds,G13 2UX,55.8913,-4.3295
 The Lincoln Inn,G13 2XX,55.8994,-4.3482
 Brazuca Cafe,G14 0AA,55.8764,-4.3444
-Baxterstorey Scotland Ltd. (within GTG),G14 0BJ,55.8793,-4.3564
 Jarvies Inn,G14 0LF,55.8895,-4.3769
 The Lovat Arms,G14 0PT,55.8910,-4.3854
-Baxterstorey,G14 0XN,55.8798,-4.3627
 Pizza Hut,G14 0YU,55.8863,-4.3599
 Flavour chasers ,G14 9XS,55.8768,-4.3454
-KFC,G15 6RX,55.9051,-4.3775
-Starbucks,G15 6RX,55.9051,-4.3775
-Burger King,G15 6SA,55.9029,-4.3766
+Burger King,G15 6SA,55.9031,-4.3779
+KFC,G15 6SA,55.9037,-4.3785
+McDonald's,G15 6SA,55.9038,-4.3777
 McDonalds Drumchapel 1504,G15 6SA,55.9028,-4.3766
-Mecca Bingo,G15 6SA,55.9029,-4.3766
-Pizza Hut,G15 6SA,55.9029,-4.3766
 Subway Drumchapel,G15 7TG,55.9107,-4.3724
 THE BUTTY BAR,G15 8NA,55.9108,-4.3729
 Bibble Milkshake bar,G51 4BN,55.8771,-4.3675
-Five Guys,G51 4BN,55.8759,-4.3648
+KFC,G51 4BN,55.8740,-4.3629
 McDonalds,G51 4BN,55.8763,-4.3635
-Nandos,G51 4BN,55.8759,-4.3648
-Prezzo,G51 4BN,55.8759,-4.3648
 SPUDULIKE BRAEHEAD,G51 4BN,55.8763,-4.3635
 Subway,G51 4BN,55.8763,-4.3635
-Costa Coffee,G51 4BS,55.8759,-4.3648
+Costa Coffee,G51 4BS,55.8740,-4.3629
 KFC,G51 4BS,55.8759,-4.3648
-McDonalds,G51 4BS,55.8759,-4.3648
-Pizza Hut,G51 4BS,55.8759,-4.3648
-Starbucks Coffee Company,G51 4BS,55.8759,-4.3648
+McDonald's,G51 4BS,55.8764,-4.3647
+McDonald's,G51 4BT,55.8728,-4.3602
 McDonalds ,G51 4BT,55.8742,-4.3592
-McDonalds Restaurant,G51 4BT,55.8742,-4.3592
 Mctears Gallery 1842 Ltd,G51 4GB,55.8532,-4.3349
 The Amethyst,G51 4PW,55.8641,-4.3322
 Park Terrace Cafe,G51 4RX,55.8640,-4.3296
+Thyme,G51 4SY,55.8652,-4.3568
 Bella Vita Restaurant ,G52 1SB,55.8451,-4.3335
 P&A VERRECCHIA GINOS CAFE,G52 2AZ,55.8508,-4.3572
 Bella Fresca ,G52 3JH,55.8457,-4.3535
@@ -43,9 +36,10 @@ Medirest Healthcare-Compass Group At Rosshall,G52 3NQ,55.8410,-4.3640
 Leonardo’s ,G52 3QB,55.8452,-4.3640
 Connors cafe ,G52 3SS,55.8455,-4.3423
 Subway,G52 3TW,55.8457,-4.3443
-Burger King,G52 4BL,55.8580,-4.3638
+Burger King,G52 4BL,55.8623,-4.3647
 Cafe Fifteen Ltd,G52 4JW,55.8616,-4.3780
 Cafe Fifteen,G52 4JW,55.8616,-4.3780
+KFC,G52 4UB,55.8683,-4.3689
 The Glen Lusset,G60 5DA,55.9221,-4.4563
 the twisted thistle,G60 5JH,55.9257,-4.4587
 THE GLEN CAFE,G60 5LJ,55.9239,-4.4563
@@ -70,20 +64,23 @@ EDENMILL FARM SHOP AND CAFE,G63 9AX,55.9854,-4.3847
 Beech Tree Inn,G63 9LA,56.0213,-4.3725
 The Old Mill  Killearn,G63 9NJ,56.0452,-4.3717
 Laighparks Nurseries Ltd,G63 9PT,56.0337,-4.3868
-McDonalds Bakery,G81 1EA,55.9019,-4.4049
 Clyde Cross Fish & Chip Shop,G81 1RT,55.9011,-4.4050
 The Lounge by The Clyde,G81 1RT,55.9011,-4.4050
 SIXTY ATE BAR & KITCHEN,G81 1UG,55.9020,-4.4090
 BBQ Hut Peri Peri,G81 2JF,55.9078,-4.4025
 McDonalds Clydebank DriveThru 1121,G81 2PE,55.9056,-4.3960
 Club 3000 Bingo Clydebank,G81 2QB,55.9056,-4.3984
+McDonald's,G81 2QB,55.9064,-4.3980
 Kitchen Cafes,G81 2RR,55.9047,-4.4042
 bb's coffee & muffins,G81 2RR,55.9047,-4.4042
 MAHONYS ,G81 2RZ,55.9045,-4.4028
 Matzaluna ,G81 2RZ,55.9042,-4.4027
+McDonald's,G81 2RZ,55.9042,-4.4027
 McDonalds Clydebank 294,G81 2RZ,55.9045,-4.4028
-Nandos,G81 2RZ,55.9043,-4.4028
+Nando's,G81 2RZ,55.9041,-4.4026
 Costa Coffee,G81 2TL,55.9046,-4.4037
+Costa Coffee,G81 2TL,55.9050,-4.4034
+KFC,G81 2XA,55.9035,-4.3976
 Coffee Club Scotland Ltd,G81 2XT,55.9112,-4.3896
 Golden Jubilee Conference Hotel,G81 4SA,55.9094,-4.4362
 Q Kitchen Ltd,G81 5QY,55.9234,-4.3951
@@ -93,17 +90,21 @@ west park hotel ltd,G81 6DB,55.9215,-4.4132
 The Duntiglennan,G81 6DN,55.9238,-4.4174
 Dumbuck country house hotel ,G82 1EG,55.9375,-4.5378
 Benvenuti (Dumbarton) Limited,G82 1EL,55.9415,-4.5483
+The Captain James Lang Dumbarton (Wetherspoon),G82 1LF,55.9433,-4.5716
 Costa Coffee,G82 1LS,55.9430,-4.5702
+Costa Coffee,G82 1LS,55.9431,-4.5709
 Haveli Restaurant ,G82 1NH,55.9460,-4.5690
 Carlton Bingo  Dumbarton,G82 1NJ,55.9451,-4.5696
 Glencairn Dunbartonshire Ltd,G82 1NY,55.9444,-4.5738
 KFC,G82 1RB,55.9438,-4.5609
+KFC,G82 1RB,55.9446,-4.5611
+McDonald's,G82 1RB,55.9441,-4.5631
 McDonalds Dumbarton 359,G82 1RB,55.9437,-4.5607
 Subway Restaurant,G82 1RB,55.9437,-4.5607
 Subway,G82 1RB,55.9437,-4.5607
 The Abbotsford Hotel,G82 2PJ,55.9433,-4.5428
-Baxterstorey 5048 @ BBC Dumbarton,G82 2QW,55.9531,-4.5646
-Starbucks,G82 2TY,55.9663,-4.5828
+Brewers Fayre Malt & Myre,G82 2QU,55.9568,-4.5595
+Costa Coffee,G82 2QU,55.9568,-4.5622
 Masala Twist Milton,G82 2TZ,55.9354,-4.5163
 THE DINING ROOM AT NO 10,G82 4AB,55.9444,-4.5775
 Biggie Scoopz,G82 4JE,55.9480,-4.5854
@@ -116,6 +117,7 @@ Corries Restaurant Balloch,G83 8LE,56.0037,-4.5797
 scoops of balloch,G83 8LE,56.0038,-4.5795
 Caulders Loch Lomond ,G83 8NB,56.0243,-4.5549
 McDonalds Balloch 1048,G83 8PQ,55.9994,-4.5714
+McDonald's,G83 8QP,56.0004,-4.5902
 Duck Bay Hotel & Marina,G83 8QZ,56.0135,-4.6112
 The Boathouse,G83 8QZ,56.0135,-4.6111
 The Cameron Club,G83 8QZ,56.0135,-4.6111
@@ -128,12 +130,13 @@ Sugar Boat,G84 8AQ,56.0045,-4.7345
 La Barca Tapas & Wine Bar,G84 8AW,56.0036,-4.7368
 Padrone Pizzeria,G84 8AW,56.0036,-4.7368
 Ruby Restaurant,G84 8AW,56.0036,-4.7368
-Costa Coffee,G84 8TD,56.0042,-4.7341
+Costa Coffee,G84 8TD,56.0042,-4.7344
 Riverhill Courtyard,G84 8TD,56.0042,-4.7341
 Monterey Jacks Paisley Ltd,PA1 1BA,55.8469,-4.4253
 The Obsession of India,PA1 1BA,55.8469,-4.4253
 the grumpy monkey,PA1 1BA,55.8469,-4.4253
 Brew Coffee lounge,PA1 1BN,55.8464,-4.4244
+The Last Post Paisley (Wetherspoon),PA1 1BN,55.8467,-4.4247
 The Bankhouse,PA1 1DD,55.8462,-4.4241
 La dolce vita ,PA1 1DR,55.8479,-4.4265
 AULDS,PA1 1DY,55.8470,-4.4228
@@ -147,17 +150,12 @@ Tastebuds Paisley,PA1 1HF,55.8468,-4.4194
 Antica Restaurant,PA1 1HG,55.8466,-4.4189
 WATERMILL HOTEL LIMITED,PA1 1SR,55.8426,-4.4194
 Pepes Piri Piri ,PA1 1UA,55.8449,-4.4237
-Mecca Bingo,PA1 1UB,55.8415,-4.4219
 Multan Business Ltd,PA1 1UH,55.8443,-4.4229
 Blend Paisley Ltd t/a Blend Coffee Lounge,PA1 1UL,55.8435,-4.4233
 Gantry,PA1 1XY,55.8447,-4.4266
 Jam Jar,PA1 1YD,55.8434,-4.4254
 The Lane,PA1 1YD,55.8434,-4.4254
-KFC,PA1 2AB,55.8434,-4.4674
-McDonalds,PA1 2AB,55.8446,-4.4686
-Nando's,PA1 2AB,55.8446,-4.4686
 Starbucks Linwood,PA1 2AB,55.8457,-4.4695
-Starbucks,PA1 2AB,55.8457,-4.4695
 Cafe Su,PA1 2AF,55.8446,-4.4245
 Food Forty Six,PA1 2AH,55.8449,-4.4273
 Leisureland,PA1 2AN,55.8450,-4.4282
@@ -165,10 +163,10 @@ Allans,PA1 2AR,55.8446,-4.4288
 Cardosi,PA1 2AR,55.8446,-4.4288
 CARDOSI ESPRESSO BAR,PA1 2AS,55.8449,-4.4292
 Grahams cafe,PA1 2AW,55.8458,-4.4253
-Burger King,PA1 2BH,55.8467,-4.4738
+Brewers Fayre Phoenix Park,PA1 2BH,55.8478,-4.4786
 Costa Coffee,PA1 2BH,55.8456,-4.4773
+KFC,PA1 2BH,55.8462,-4.4780
 KFC,PA1 2BH,55.8471,-4.4749
-Pizza Hut Restaurant,PA1 2BH,55.8467,-4.4738
 TACO BELL-Linwood,PA1 2BH,55.8471,-4.4749
 Cafe fairfull,PA1 2BS,55.8454,-4.4254
 Subway,PA1 2BS,55.8453,-4.4256
@@ -201,32 +199,38 @@ The Lochnagar Cafe,PA11 3NR,55.8575,-4.5792
 Carriages,PA13 4DW,55.8934,-4.6290
 CAIRN,PA13 4HE,55.8936,-4.6284
 Horsecraigs The Haven,PA13 4TH,55.8967,-4.6942
+Costa Coffee,PA14 5BP,55.9375,-4.6981
 McDonalds Port Glasgow 1535,PA14 5BP,55.9350,-4.6954
-McDonalds,PA14 5BQ,55.9357,-4.6930
-Burger King,PA14 5EP,55.9370,-4.6903
+McDonald's,PA14 5BQ,55.9365,-4.6979
+Burger King,PA14 5EP,55.9364,-4.6901
 Curry Lounge ,PA14 5JQ,55.9347,-4.6904
 Cawley Hotels & Leisure ltd,PA14 6XR,55.9243,-4.5843
 Gleddoch Resorts Ltd,PA14 6YE,55.9191,-4.5854
+Brewers Fayre The Point,PA15 2AD,55.9449,-4.7343
+McDonald's,PA15 2AD,55.9446,-4.7354
 McDonalds Greenock 749,PA15 2AD,55.9442,-4.7319
-McDonalds Restaurant Ltd,PA15 2AD,55.9442,-4.7319
 Craigend Resource Centre Ltd,PA15 2HD,55.9395,-4.7260
 The Cottage ,PA15 2UH,55.9398,-4.7195
 Comicrazy Cafe,PA3 2AN,55.8478,-4.4236
 Zambretto Italian,PA3 2AP,55.8475,-4.4232
 1852 the diamond Ltd ,PA3 2AZ,55.8497,-4.4235
 Baxterstorey Ltd,PA3 2HW,55.8487,-4.4269
+The Sanderling After Security (Wetherspoon),PA3 2ST,55.8645,-4.4326
+The Sandpiper Before Security (Wetherspoon),PA3 2SW,55.8644,-4.4325
 Starbucks Coffee Company,PA3 2TD,55.8647,-4.4321
 MFG Subway Glasgow Airport,PA3 2TH,55.8621,-4.4267
+Thyme,PA3 2TH,55.8621,-4.4259
 Frankie and Benny's,PA3 2TJ,55.8646,-4.4322
 William Beardmore & Co ,PA3 2TJ,55.8646,-4.4322
+McDonald's,PA3 3AT,55.8440,-4.4739
 Tim Hortons,PA3 3AT,55.8436,-4.4756
 Subway ,PA3 3DB,55.8481,-4.4893
 Clean Foods UK Meal Prep Limited ,PA3 4AF,55.8488,-4.4194
 Tim Hortons,PA3 4BA,55.8493,-4.4205
 McDoanlds,PA3 4DU,55.8560,-4.4152
-McDonalds,PA3 4DU,55.8560,-4.4152
-KFC,PA3 4EA,55.8572,-4.4159
-Dunelm Mill Cafe Pausa,PA3 4EP,55.8614,-4.4170
+McDonald's,PA3 4DU,55.8560,-4.4151
+KFC,PA3 4EA,55.8577,-4.4156
+Costa Coffee,PA4 0DJ,55.8678,-4.3685
 KFC,PA4 0DJ,55.8689,-4.3688
 Beijing Banquet,PA4 0RA,55.8622,-4.4070
 Spar Renfrew,PA4 8DS,55.8692,-4.4006
@@ -241,13 +245,9 @@ Greengates,PA4 8SH,55.8848,-4.3845
 Glynhill Hotel Ltd,PA4 8XB,55.8652,-4.4042
 Certas Energy,PA4 8XD,55.8623,-4.4077
 China Buffet King,PA4 8XQ,55.8790,-4.3714
-Five Guys,PA4 8XQ,55.8790,-4.3714
 Gravity - Glasgow,PA4 8XQ,55.8790,-4.3714
 LITTLE DESSERT SHOP (Glasgow),PA4 8XQ,55.8790,-4.3714
-Nandos,PA4 8XQ,55.8790,-4.3714
-Pizza Express,PA4 8XQ,55.8790,-4.3714
-Tenpin,PA4 8XQ,55.8790,-4.3714
-Tony Macaroni,PA4 8XQ,55.8790,-4.3714
+The Lord of the Isles Glasgow (Wetherspoon),PA4 8XQ,55.8786,-4.3717
 Normandy Hotel,PA4 9EJ,55.8804,-4.4074
 Braehead Revisted Ltd,PA4 9NH,55.8878,-4.4285
 Shimla Pinks,PA5 8DS,55.8357,-4.5118
@@ -256,7 +256,6 @@ Lynnhurst Hotel,PA5 8LS,55.8308,-4.5126
 Johnstone Coffee Co.,PA5 8QG,55.8370,-4.5142
 AULDS,PA5 8SG,55.8371,-4.5139
 Starbucks Johnstone,PA5 8SN,55.8370,-4.5183
-Starbucks,PA5 8SN,55.8370,-4.5183
 Elderslie Golf Club,PA5 9AZ,55.8380,-4.4761
 papamacs,PA5 9AZ,55.8380,-4.4761
 Butchers Steak & Grill,PA5 9ES,55.8370,-4.4818

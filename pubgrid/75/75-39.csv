@@ -2,6 +2,7 @@ name,postcode,lat,lon
 TROUT HOTEL,CA13 0EJ,54.6630,-3.3685
 The Belle Vue,CA13 0NT,54.6730,-3.3782
 Wellington Farm Cafe & Tearooms,CA13 0QU,54.6532,-3.3843
+Brewers Fayre Cockermouth,CA13 0QX,54.6520,-3.3713
 Old Posting House,CA13 0SL,54.6253,-3.4044
 Broughton Craggs Hotel,CA13 0XP,54.6720,-3.4225
 Aspava Restaurant,CA13 9LH,54.6640,-3.3662
@@ -11,7 +12,7 @@ Fredericks Restaurant,CA13 9QW,54.6629,-3.3642
 Merienda at Cockermouth,CA13 9QW,54.6630,-3.3641
 beatfords tearooms,CA13 9RT,54.6626,-3.3662
 Costa Coffee Dunmail park ,CA14 1NQ,54.6569,-3.5534
-Costa Coffee,CA14 1NQ,54.6569,-3.5534
+Costa Coffee,CA14 1NQ,54.6567,-3.5528
 Plaza Cinemas,CA14 1NQ,54.6570,-3.5527
 Subway Dunmail Park,CA14 1NQ,54.6569,-3.5534
 The Terrace Cafe  Dunmail Park,CA14 1NQ,54.6569,-3.5534
@@ -22,18 +23,20 @@ Subway Workington,CA14 2AD,54.6438,-3.5479
 The Hungry Caterpillar ,CA14 2BB,54.6449,-3.5472
 Carnegie Cafe,CA14 2BD,54.6447,-3.5480
 waverley enterprise nw ltd,CA14 2EN,54.6445,-3.5523
+The Henry Bessemer Workington (Wetherspoon),CA14 2NA,54.6431,-3.5480
 Butterflies Cafe,CA14 3AG,54.6440,-3.5445
 Tognarelli's,CA14 3AG,54.6440,-3.5445
 Flavour,CA14 3AW,54.6428,-3.5431
 Washington Central Hotel,CA14 3AY,54.6426,-3.5439
 Opera Bingo,CA14 3BA,54.6446,-3.5430
 Costa Coffee Workington,CA14 3DX,54.6430,-3.5453
-Costa Coffee,CA14 3DX,54.6430,-3.5453
+Costa Coffee,CA14 3DX,54.6433,-3.5453
 THE BAKEHOUSE CAFE LIMITED,CA14 3DY,54.6437,-3.5456
+KFC,CA14 3UG,54.6389,-3.5666
 KFC,CA14 3YP,54.6354,-3.5680
 Caspian Flame Grill Restaurant,CA14 3YW,54.6413,-3.5643
 McDonald's Restaurants,CA14 3YW,54.6413,-3.5643
-McDonalds,CA14 3YW,54.6413,-3.5643
+McDonald's,CA14 3YW,54.6418,-3.5653
 Mr Wilsons Tea Rooms,CA14 4DL,54.6421,-3.5418
 Royal George,CA14 4ER,54.6401,-3.5401
 Hunday Manor Hotel,CA14 4JF,54.6217,-3.5115
@@ -52,8 +55,9 @@ THE STAG INN,CA15 6SH,54.7331,-3.4380
 The Ennerdale Brewery,CA26 3XS,54.5561,-3.4515
 THE SUNNYHILL (WHITEHAVEN) LTD,CA28 6AB,54.5546,-3.5792
 Moresby Hall,CA28 6PJ,54.5736,-3.5732
+Brewers Fayre The Howgate,CA28 6PL,54.5762,-3.5635
 Annas ,CA28 7UJ,54.5501,-3.5887
 Domino's Pizza - Whitehaven,CA28 7UZ,54.5504,-3.5875
 Gaiety Cinema,CA28 7UZ,54.5503,-3.5875
 Opera Bingo,CA28 7UZ,54.5503,-3.5875
-Wetherspoons,CA28 7XE,54.5512,-3.5868
+The Bransty Arch Whitehaven (Wetherspoon),CA28 7XE,54.5509,-3.5872

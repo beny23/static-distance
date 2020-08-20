@@ -7,6 +7,7 @@ Transport Museum Wythall,B47 6JA,52.3721,-1.8958
 Burger King At Welcome Break,B48 7AU,52.3637,-1.9458
 Harry Ramsden At Welcome Break,B48 7AU,52.3637,-1.9458
 KFC At Hopwood Park Services (Welcome Break),B48 7AU,52.3637,-1.9458
+KFC,B48 7AU,52.3637,-1.9458
 Starbucks At Welcome Break,B48 7AU,52.3637,-1.9458
 Subway At Welcome Break,B48 7AU,52.3637,-1.9458
 Waitrose At Hopwood Park Services (Welcome Break),B48 7AU,52.3637,-1.9458
@@ -49,17 +50,18 @@ Our Subs Ltd,B60 3DR,52.3193,-2.0586
 Aston Fields Social Club,B60 3EG,52.3227,-2.0519
 Zinga Restaurant ,B60 3EQ,52.3229,-2.0492
 no3a cafe,B60 3EQ,52.3228,-2.0492
+KFC,B60 3NJ,52.3226,-2.0598
 KFC,B60 3NJ,52.3231,-2.0605
 Golden Lion,B60 3PB,52.3199,-2.0721
 Jinney Ring Craft Centre Ltd,B60 4BU,52.2731,-2.0567
 The Vernon,B60 4DB,52.2642,-2.0536
 Ewe & Lamb (Bromsgrove) Ltd,B60 4DN,52.3076,-2.0783
 Boat & Railway ,B60 4EQ,52.2921,-2.0876
+Brewers Fayre The Guild,B61 0BA,52.3394,-2.0489
 REYNOLDS TRADING LTD T/A WILLOWBROOK GARDEN CENTRE,B61 0BL,52.3536,-2.0630
 Rovers Cafe,B61 0DD,52.3390,-2.0554
 Mint Lounge,B61 0DR,52.3395,-2.0555
 Ego at the Forest,B61 0EZ,52.3530,-2.0468
-Miller & Carter Marlbrook,B61 0HR,52.3645,-2.0460
 Bromsgrove Hotel & Spa,B61 0JB,52.3677,-2.0476
 Spices Catshill Limited,B61 0JZ,52.3640,-2.0588
 Dine India,B61 0LA,52.3639,-2.0569
@@ -73,13 +75,14 @@ BROMSGROVE UNIONIST CLUB,B61 7JS,52.3351,-2.0682
 Waz’s Bistrot LTD,B61 8AB,52.3373,-2.0576
 Waz’s Bistrot,B61 8AB,52.3373,-2.0576
 Subway Bromsgrove High Street,B61 8AE,52.3364,-2.0594
-Pizza Express,B61 8AH,52.3484,-2.0905
 Cafe Morso - Bromsgrove,B61 8AJ,52.3344,-2.0619
 Delightful Desserts,B61 8AJ,52.3340,-2.0626
 Casa Med Limited,B61 8AQ,52.3355,-2.0604
 Coffee 2,B61 8EX,52.3348,-2.0604
+Costa Coffee,B61 8EX,52.3351,-2.0602
 Ollie's Eatery - Bar,B61 8EX,52.3344,-2.0611
 sixty degrees,B61 8EX,52.3348,-2.0604
+Golden Cross Hotel Bromsgrove (Wetherspoon),B61 8HH,52.3339,-2.0618
 Park Gate Inn,B61 9AJ,52.3422,-2.0953
 The Dodford Inn,B61 9BG,52.3550,-2.0931
 Chennai Lounge Indian Restaurant,B61 9DT,52.3450,-2.1049
@@ -98,7 +101,7 @@ The Little Lark,B80 7NP,52.2681,-1.8930
 The jubilee inn,B80 7PQ,52.2630,-1.8975
 Gymshark,B90 8AJ,52.3691,-1.7997
 Virgin Active Solihull,B90 8AT,52.3727,-1.8005
-Wilson Vale Catering Ltd,B90 8BG,52.3741,-1.7969
+Costa Coffee,B93 8HA,52.3737,-1.7526
 Poplar Road Restaurants Limited,B93 8HE,52.3736,-1.7537
 Minhs Restaurant ,B93 8HH,52.3733,-1.7541
 Espresso Station,B93 8JA,52.3728,-1.7530
@@ -121,7 +124,7 @@ ak's indian,B94 6EA,52.3660,-1.7815
 The Punchbowl Lapworth,B94 6HR,52.3460,-1.7313
 The Boot in Lapworth ,B94 6JU,52.3382,-1.7360
 Navigation Inn  Lapworth,B94 6NA,52.3362,-1.7216
-Miller & Carter,B94 6NL,52.3526,-1.7768
+Beefeater The Barn (Hockley Heath),B94 6NX,52.3581,-1.7803
 MIDLAND FOOD BAKERY  LTD,B94 6RP,52.3645,-1.8055
 Curry republic,B95 5AA,52.2959,-1.7782
 La dolce piazza ltd,B95 5AN,52.2949,-1.7791
@@ -134,6 +137,7 @@ Naya Restaurant ,B95 5BS,52.2912,-1.7804
 Dolce Caffe,B95 5BY,52.2925,-1.7805
 Henley Kitchen & Bakery,B95 5BY,52.2925,-1.7805
 THE WHITE SWAN,B95 5BY,52.2925,-1.7805
+Costa Coffee,B95 5DA,52.2935,-1.7797
 Fleur De Lys,B95 5HJ,52.3092,-1.7273
 The Winged Spur,B95 5PA,52.3043,-1.8227
 The Bulls Head,B95 6BD,52.2686,-1.7793
@@ -149,49 +153,50 @@ The Nevill Arms,B96 6NB,52.2386,-1.9268
 The Green Dragon Inn,B96 6NU,52.2549,-1.9117
 Rees Cafe,B97 4AB,52.3084,-1.9424
 Pepes Redditch,B97 4DY,52.3073,-1.9417
+McDonald's,B97 4EQ,52.3057,-1.9446
 McDonalds,B97 4EQ,52.3060,-1.9448
-Nando's,B97 4EQ,52.3060,-1.9448
-Caffe Nero,B97 4ET,52.3062,-1.9415
 360 Play (Redditch) Limited,B97 4EU,52.3059,-1.9417
-Burger King,B97 4EY,52.3062,-1.9435
-KFC,B97 4EY,52.3062,-1.9435
+Costa Coffee,B97 4EX,52.3062,-1.9421
 Subway Redditch,B97 4EY,52.3062,-1.9435
 bono cafe,B97 4EY,52.3062,-1.9432
-Prezzo,B97 4HA,52.3051,-1.9419
+Costa Coffee,B97 4HA,52.3057,-1.9416
 nesta cafe,B97 4HA,52.3051,-1.9419
-Coffee#1,B97 4HJ,52.3053,-1.9409
 Kitchen Cafe,B97 4HJ,52.3055,-1.9407
 Muffin Break Redditch ,B97 4HJ,52.3053,-1.9409
 Southcrest Manor Hotel,B97 4JS,52.2966,-1.9448
 Essence Of Bengal Restaurant LTD ,B97 4LB,52.2925,-1.9476
 Massalla Club,B97 4LE,52.2941,-1.9507
 MEZZE Restaurant ,B97 4QR,52.3068,-1.9430
+The Royal Enfield Redditch (Wetherspoon),B97 4QR,52.3070,-1.9432
 Champagne Express,B97 4RA,52.3065,-1.9448
 VictoriaPlumsKitchen,B97 5DQ,52.2877,-1.9495
 The Gate Hangs Well,B97 5ES,52.2915,-1.9461
 Coffee and Cask at 505,B97 5JJ,52.2799,-1.9403
 The Brook Inn,B97 5UD,52.2788,-1.9872
 Holiday Inn Express Redditch,B97 6AE,52.3082,-1.9447
+Beefeater Redditch North,B97 6AQ,52.3160,-1.9390
 The Tardebigge,B97 6QL,52.3180,-1.9997
 The Courtyard Cafe at Tardebigge,B97 6QW,52.3178,-1.9968
 THE GOLDEN GOOSE,B98 0DD,52.2920,-1.9040
 Indian Kitchen ,B98 7AE,52.3041,-1.9394
+Costa Coffee,B98 7AH,52.3047,-1.9335
 KFC,B98 7AH,52.3046,-1.9340
+KFC,B98 7AH,52.3049,-1.9340
 Pizza Hut Delivery Redditch,B98 7LA,52.2988,-1.9246
+KFC,B98 7ST,52.2829,-1.9306
 KFC,B98 7ST,52.2836,-1.9304
-McDonalds,B98 7ST,52.2836,-1.9304
 Rilys Redditch,B98 8AE,52.3063,-1.9393
+The Rising Sun Redditch (Wetherspoon),B98 8AE,52.3059,-1.9386
 JJ’s cafe,B98 8AH,52.3052,-1.9382
-Cafe Pausa At Dunelm,B98 8AY,52.3065,-1.9378
 Oast house,B98 8QJ,52.3099,-1.9091
 The Village Inn,B98 9AT,52.3245,-1.8891
 Abbey Hotel Golf & Country Club Ltd,B98 9BE,52.3230,-1.9228
 The Holly Bush ,B98 9EN,52.3145,-1.8674
-McDonalds,B98 9HN,52.3119,-1.8881
 Tom o the wood ,CV35 7DH,52.3256,-1.7161
 The Crown Inn,CV35 8LJ,52.2832,-1.7172
+Costa Coffee,CV37 0HZ,52.2001,-1.7129
 Compass Group UK,CV37 0UA,52.2028,-1.7145
-BaxterStorey,CV37 0UR,52.2072,-1.7257
+Costa Coffee,CV37 0UA,52.2025,-1.7149
 Carls kitchen Ltd,CV37 6PH,52.1932,-1.7149
 Esquires Coffee House  Arden Quarter,CV37 6PP,52.1937,-1.7137
 Doubletree by Hilton Stratford upon Avon,CV37 6QQ,52.1941,-1.7130
@@ -202,8 +207,6 @@ Four Alls,CV37 8PW,52.1750,-1.7891
 The Salmontail,CV37 9AA,52.1881,-1.7151
 The Squrrel Pub,CV37 9LD,52.1999,-1.7340
 Barney's Cafe,CV37 9NQ,52.2011,-1.7258
-Atalian Servest Food Co,CV37 9QR,52.1931,-1.7180
-Bannatyne Health Club And Spa Wildmoor,CV37 9RJ,52.1987,-1.7508
 cafe chutneys,CV37 9RX,52.1851,-1.7368
 Bonds Lifestyle,CV37 9ST,52.1810,-1.7556
 The Chequers at Crowle,WR7 4AA,52.2070,-2.1175
@@ -216,6 +219,6 @@ The Oak & Twisted Spoon,WR7 4NW,52.1887,-2.0881
 Rodenhurst Holiday Park Limited,WR7 4QL,52.1618,-2.1238
 Eagle & Sun ,WR9 7DX,52.2641,-2.1102
 Galton Arms,WR9 7LQ,52.2256,-2.0833
+McDonald's,WR9 7PA,52.2898,-2.1193
 McDonald's,WR9 7PA,52.2901,-2.1183
-McDonalds,WR9 7PA,52.2901,-2.1183
 liberty leisure,WR9 7TB,52.2878,-2.1148

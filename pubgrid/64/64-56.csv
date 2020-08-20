@@ -6,30 +6,27 @@ The Arium,LS14 3FB,53.8392,-1.4327
 tina's tea room,LS15 4EF,53.8312,-1.3839
 Langlands,LS15 4NF,53.8392,-1.4255
 Franco's at Thorpe Park,LS15 8GB,53.7986,-1.4280
-Caffe Nero,LS15 8GG,53.8013,-1.4237
-Costa Coffee,LS15 8GG,53.8003,-1.4244
-Nandos,LS15 8GG,53.7944,-1.4302
+Nando's,LS15 8GG,53.8001,-1.4252
 Gino D'acampo My Restaurant ,LS15 8ZB,53.7968,-1.4265
 Thorpe Park Hotel & Spa,LS15 8ZB,53.7968,-1.4265
-KFC (Colton),LS15 9JH,53.7919,-1.4319
+KFC,LS15 9JD,53.7931,-1.4313
 KFC COLTON MILL 02023,LS15 9JH,53.7919,-1.4319
-McDonalds (Colton),LS15 9JH,53.7919,-1.4319
-Pizza Hut,LS15 9JH,53.7919,-1.4319
+McDonald's,LS15 9JH,53.7928,-1.4317
 Ronnies Limited t/a McDonalds 1294,LS15 9JH,53.7919,-1.4319
 Subway Colton Mill,LS15 9JH,53.7919,-1.4319
 The Adventure Park,LS22 4AN,53.9430,-1.4268
 The Bay Horse,LS22 4DZ,53.9465,-1.3935
 Windmill Inn Linton,LS22 4HT,53.9150,-1.4078
 CROMWELLS BAR & KITCHEN,LS22 5BL,53.9081,-1.4133
-Moto Wetherby Motorway Service Area,LS22 5GT,53.9467,-1.3686
+Costa Coffee,LS22 5GT,53.9464,-1.3690
+KFC,LS22 5GT,53.9468,-1.3687
 MERCURE WETHERBY HOTEL,LS22 5HE,53.9244,-1.3873
 BENGAL BRASSERIE (YORKSHIRE) LIMITED,LS22 6JA,53.9281,-1.3844
-Costa Coffee,LS22 6LE,53.9274,-1.3872
 New Inns,LS22 6LL,53.9289,-1.3872
 The Black Bull,LS22 6LN,53.9286,-1.3865
-Ask Italian,LS22 6LQ,53.9278,-1.3871
 Bar Three,LS22 6LQ,53.9278,-1.3870
 Costa Coffee Wetherby,LS22 6LQ,53.9279,-1.3871
+Costa Coffee,LS22 6LQ,53.9275,-1.3868
 BENGAL LOUNGE (WETHERBY) LTD,LS22 6LR,53.9280,-1.3859
 The Red Lion,LS22 6LR,53.9280,-1.3859
 Sant Angelo Restaurant,LS22 6LT,53.9277,-1.3855
@@ -56,7 +53,6 @@ Waterfall Elior - Boston Spa Academy,LS23 6RW,53.9001,-1.3620
 Pax Inn Spice Ltd,LS23 7AR,53.9095,-1.3423
 Fox & Hounds,LS23 7DQ,53.9254,-1.3248
 Aagrah Tadcaster ,LS24 8EG,53.8995,-1.2003
-York East Burger King,LS24 8EG,53.9000,-1.2010
 Costa Coffee,LS24 9AU,53.8839,-1.2618
 The Rythre Arms,LS24 9EE,53.8466,-1.1619
 ROAST COFFEE SHOP,LS24 9HJ,53.8758,-1.2719
@@ -65,12 +61,13 @@ Crooked Billet ,LS24 9QN,53.8246,-1.2966
 The White Horse,LS24 9RF,53.8263,-1.2166
 21 The High Street,LS24 9SA,53.8824,-1.2642
 Costa Coffee Garforth,LS25 1AA,53.7949,-1.3880
-Costa Coffee,LS25 1AA,53.7949,-1.3880
+Costa Coffee,LS25 1AA,53.7945,-1.3880
 Garforth Spice,LS25 1AA,53.7949,-1.3880
 Saffron Garforth ,LS25 1AF,53.7953,-1.3885
 Subway Garforth,LS25 1AF,53.7953,-1.3885
 450 Degrees - Pizza,LS25 1DS,53.7929,-1.3886
 LA BELLA VITA (LEEDS) LTD,LS25 1DS,53.7929,-1.3886
+The Briggate Leeds (Wetherspoon),LS25 1DS,53.7933,-1.3887
 The Topiary Coffee Shop,LS25 2AQ,53.7823,-1.3705
 Freshly Made Sandwich Bar & Cafe,LS25 2EA,53.7967,-1.3753
 Aagrah Garforth,LS25 2HF,53.7984,-1.3687
@@ -106,6 +103,7 @@ Carvery Cafe,WF10 1BE,53.7257,-1.3521
 Tartan Coffee Lounge Ltd,WF10 1DG,53.7257,-1.3527
 Plan Bee,WF10 1DX,53.7255,-1.3547
 Ritz Bingo Castleford,WF10 1EG,53.7253,-1.3567
+The Glass Blower Castleford (Wetherspoon),WF10 1JD,53.7269,-1.3537
 Queen's Mill Tea Rooms,WF10 1JL,53.7278,-1.3511
 Chefs cafe,WF10 1QR,53.7251,-1.3791
 WHITE HORSE,WF10 2AB,53.7531,-1.3437
@@ -124,18 +122,12 @@ Deramore Arms,YO10 5EA,53.9439,-1.0436
 The Blacksmiths Arms,YO19 4PN,53.9024,-1.0910
 Waterfront Cafe York Marina,YO19 4RW,53.9075,-1.0875
 Bagel Nash York Designer Outlet,YO19 4TA,53.9222,-1.0775
-Caffe Nero,YO19 4TA,53.9222,-1.0775
+McDonald's,YO19 4TA,53.9219,-1.0775
 McDonalds Designer Outlet,YO19 4TA,53.9222,-1.0775
-McDonalds Restaurants Ltd,YO19 4TA,53.9222,-1.0775
-Patisserie Valerie,YO19 4TA,53.9222,-1.0775
-Pizza Express,YO19 4TA,53.9222,-1.0775
 Pizza Hut,YO19 4TA,53.9222,-1.0775
-Pret a Manger,YO19 4TA,53.9222,-1.0775
-Starbucks Coffee Company (UK) Limited,YO19 4TA,53.9222,-1.0775
 Starbucks McArthur Glen,YO19 4TA,53.9222,-1.0775
 Subway,YO19 4TA,53.9222,-1.0775
 The Fishermans fourth wife ltd,YO19 4TA,53.9222,-1.0775
-Wagamama,YO19 4TA,53.9222,-1.0775
 Sangthai Restaurant,YO19 6EX,53.8810,-1.0461
 The White Swan,YO19 6HA,53.8896,-1.0456
 The Fat Abbot at The Parsonage Hotel & Spa,YO19 6LF,53.8792,-1.0458
@@ -148,8 +140,9 @@ The Winning Post,YO23 1NZ,53.9470,-1.0861
 Middlethorpe Hall and Spa,YO23 2GB,53.9306,-1.0900
 Marcia Inn,YO23 2RA,53.9216,-1.0971
 The Ebor Inn,YO23 2RB,53.9212,-1.0969
+McDonald's,YO23 3PP,53.9065,-1.1858
 McDonalds Bilbrough A64,YO23 3PP,53.9064,-1.1846
-McDonalds Restaurants Ltd,YO23 3PP,53.9068,-1.1854
+Thyme,YO23 3PP,53.9083,-1.1812
 The Royal Oak,YO23 3ST,53.9137,-1.1418
 The Tickled Trout,YO26 7NN,53.9440,-1.2749
 The Castle Inn,YO8 3SH,53.8293,-1.1242
@@ -162,6 +155,8 @@ Mister C's Ltd,YO8 4EA,53.7854,-1.0681
 Abbey cafe,YO8 4EQ,53.7852,-1.0674
 Little Miss Muffins Tea Room,YO8 4HE,53.7836,-1.0717
 THE OLIVE BRANCH,YO8 4HE,53.7836,-1.0717
+The Giant Bellflower Selby (Wetherspoon),YO8 4HF,53.7836,-1.0721
+Costa Coffee,YO8 4JS,53.7834,-1.0699
 The Hub Cafe,YO8 4JS,53.7833,-1.0695
 C E Wetherell & Sons Ltd,YO8 4PD,53.7835,-1.0680
 The Capri Restaurant Ltd,YO8 4PF,53.7843,-1.0680
@@ -175,7 +170,6 @@ The Wheatsheaf Inn,YO8 8LJ,53.7502,-1.0992
 McDonald's,YO8 8LY,53.7729,-1.0649
 The Wishingwell,YO8 8LZ,53.7667,-1.0667
 Selby Superbowl ,YO8 8NA,53.7737,-1.0651
-McDonalds Restaurants Ltd,YO8 8NB,53.7699,-1.0655
 Selby Livestock Auction Mart LTd,YO8 8NB,53.7699,-1.0655
 Jug Inn,YO8 8QQ,53.7286,-1.1193
 Selby Bowling Club,YO8 9AX,53.7714,-1.0814

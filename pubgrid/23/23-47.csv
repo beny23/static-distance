@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 Man O' War,BH20 5PU,50.7792,-2.3203
+Costa Coffee,DT1 1BA,50.7149,-2.4366
 ReLoved,DT1 1BA,50.7151,-2.4365
 The Court House Bistro ,DT1 1BE,50.7149,-2.4374
 Cafe 11,DT1 1BS,50.7133,-2.4368
@@ -9,19 +10,17 @@ Cathie's,DT1 1DE,50.7125,-2.4374
 The Gorge Cafe,DT1 1DF,50.7130,-2.4373
 The Pantry Cafe Limited,DT1 1DQ,50.7140,-2.4374
 La Caverna Restaurant,DT1 1EW,50.7148,-2.4340
+Thyme,DT1 1GA,50.7092,-2.4388
 Y.C's Dorchester Ltd,DT1 1GA,50.7092,-2.4391
-NANDOS,DT1 1GS,50.7100,-2.4388
+Costa Coffee,DT1 1GH,50.7095,-2.4376
 The Posh Partridge Cafe,DT1 1HF,50.7158,-2.4360
 MYRAS KAISEKI LTD,DT1 1HH,50.7154,-2.4348
 Masala Indian Cuisine,DT1 1HH,50.7155,-2.4345
 Lee Garden Chinese Restaurant,DT1 1HU,50.7159,-2.4336
-WAGAMAMA,DT1 1HX,50.7101,-2.4383
-ZIZZI,DT1 1HX,50.7101,-2.4383
 Potters cafe ,DT1 1JP,50.7148,-2.4356
 The walnut grove ( Dorchester) ltd ,DT1 1JP,50.7148,-2.4355
 Hendover Cafe,DT1 1QR,50.7108,-2.4383
 Brewhouse and Kitchen Dorchester,DT1 1QY,50.7097,-2.4394
-PIZZA EXPRESS,DT1 1QY,50.7097,-2.4394
 Basili.co,DT1 1TT,50.7141,-2.4382
 Cow and Apple  Dorchester,DT1 1TT,50.7141,-2.4382
 Poppins Cafe Restaurant Dorchester ,DT1 1TT,50.7141,-2.4382
@@ -34,11 +33,11 @@ The spice centre ,DT1 1UP,50.7150,-2.4401
 Rajpoot,DT1 1UT,50.7152,-2.4403
 The Old Tea House ,DT1 1UT,50.7152,-2.4403
 The Old Ship Inn,DT1 1UW,50.7151,-2.4389
+The Royal Oak Dorchester (Wetherspoon),DT1 1UW,50.7151,-2.4392
 Colliton Club Limited,DT1 1XZ,50.7159,-2.4397
-MEDIREST HEALTHCARE - COMPASS GROUP,DT1 2DR,50.7010,-2.4419
-Costa Coffee,DT1 2JY,50.7135,-2.4471
+Costa Coffee,DT1 2JY,50.7133,-2.4467
 The Sydney Arms,DT1 2NG,50.7141,-2.4468
-KFC,DT1 2RY,50.7027,-2.4443
+KFC,DT1 2RY,50.7014,-2.4457
 Cafe Octagon ,DT1 3GW,50.7104,-2.4580
 The Poet Laureate,DT1 3GW,50.7104,-2.4580
 The Engine Room restaurant,DT1 3RT,50.7143,-2.4657
@@ -46,7 +45,6 @@ Bonjour Cafe,DT1 3TR,50.7127,-2.4671
 The Royal Oak,DT11 0JG,50.7778,-2.2834
 Le Petit Canard,DT2 0BE,50.7775,-2.5725
 The Fox and Hounds Inn,DT2 0JH,50.7947,-2.5794
-FULLERS EARTH,DT2 0JL,50.7930,-2.5788
 Summer Lodge Hotel,DT2 0JR,50.8383,-2.6068
 The Acorn Inn,DT2 0JW,50.8386,-2.6064
 Gaggle of Geese,DT2 7BS,50.8432,-2.4451
@@ -72,7 +70,6 @@ The Dovecote Cafe,DT2 8RH,50.7017,-2.2756
 WHITE HORSE INN,DT2 9AT,50.7082,-2.6404
 Manor House Hotel,DT2 9DF,50.6790,-2.6626
 CLUB HOUSE ,DT2 9DG,50.6768,-2.6637
-McDonalds,DT2 9DL,50.7117,-2.4745
 McDonald’s Restaurant,DT2 9DL,50.7117,-2.4745
 The Spyway Inn,DT2 9EP,50.7404,-2.6621
 The Brewers Arms,DT2 9LB,50.6994,-2.5043

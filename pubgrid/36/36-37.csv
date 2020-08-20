@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 Costa Coffee,SA1 1NU,51.6252,-3.9409
+Costa Coffee,SA1 1NU,51.6254,-3.9412
 uptown fun ltd,SA1 2BL,51.6306,-3.9413
 Toi Aroi Thai,SA1 2HL,51.6328,-3.9385
 In Meals Ltd T/A Rossi’s Original Fish and Chips ,SA1 2JG,51.6449,-3.9369
@@ -7,23 +8,20 @@ Pizzeria Vesuvio,SA1 2JT,51.6412,-3.9381
 Pizza Hut Delivery,SA1 2LF,51.6368,-3.9378
 WERN INN,SA1 2PE,51.6442,-3.9411
 The Globe Inn,SA1 2QD,51.6418,-3.9418
-Costa Coffee@ Next,SA1 7BP,51.6434,-3.9300
-KFC,SA1 7BP,51.6434,-3.9300
-Pizza Hut Restaurant,SA1 7BP,51.6434,-3.9300
+Costa Coffee,SA1 7BP,51.6432,-3.9297
+KFC,SA1 7BP,51.6425,-3.9317
 STARBUCKS ,SA1 7BP,51.6434,-3.9300
-Starbucks Coffee Company,SA1 7BP,51.6434,-3.9300
 mcdonalds,SA1 7BP,51.6434,-3.9301
+McDonald's,SA1 7DF,51.6421,-3.9270
 Cafe Darcy,SA10 6EJ,51.6489,-3.8531
 Casa Skewen Ltd,SA10 6ET,51.6609,-3.8436
 Zafran Indian restaurant ,SA10 6EW,51.6610,-3.8420
-David Lloyd Clubs,SA10 6GZ,51.6477,-3.8500
 Cresci's Cafe,SA10 6HE,51.6610,-3.8454
 The Towers Swansea Bay Limited,SA10 6JL,51.6283,-3.8619
 Travellers well,SA10 6RG,51.6607,-3.8524
 Glyn Clydach Hotel Ltd.,SA10 7AJ,51.6769,-3.8285
 Burger King - Neath ,SA10 7AY,51.6682,-3.8076
-Burger King,SA10 7AY,51.6682,-3.8076
-McDonalds Restaurants,SA10 7DR,51.6582,-3.8332
+McDonald's,SA10 7DR,51.6534,-3.8410
 mcdonalds,SA10 7DR,51.6582,-3.8332
 MINT MASALA,SA10 7SS,51.6718,-3.8184
 Dyffryn Arms,SA10 7YF,51.6933,-3.8220
@@ -34,9 +32,10 @@ Brew&Co ,SA11 1BY,51.6624,-3.8064
 Celtic Lodge,SA11 1BZ,51.6563,-3.7983
 gossip cafe,SA11 1DN,51.6621,-3.8043
 Costa Coffee ,SA11 1DU,51.6623,-3.8037
-Costa Coffee,SA11 1DU,51.6623,-3.8037
+Costa Coffee,SA11 1DU,51.6632,-3.8043
 The Cwtch,SA11 1DU,51.6623,-3.8037
 Highlander Thai Restaurant and Takeaway,SA11 1EQ,51.6565,-3.8048
+The David Protheroe Neath (Wetherspoon),SA11 1LS,51.6619,-3.8064
 Area51 Playcentre Neath,SA11 1NJ,51.6562,-3.8130
 Nu Cofi,SA11 1NS,51.6591,-3.8058
 Pizza Hut,SA11 1PU,51.6629,-3.8065
@@ -47,13 +46,13 @@ Spirit 'n' Spice Bar & Kitchen ,SA11 1RA,51.6633,-3.8067
 The Castle Hotel,SA11 1RB,51.6633,-3.8060
 Beamers baguette bar,SA11 1RQ,51.6645,-3.8054
 Smashed Raspberry,SA11 1RS,51.6642,-3.8058
-McDonalds Restaurant,SA11 2YW,51.6289,-3.8196
+McDonald's,SA11 2YW,51.6285,-3.8200
 mcdonalds,SA11 2YW,51.6289,-3.8196
 Whittington Arms,SA11 3JF,51.6769,-3.7719
 The Ives,SA11 3NA,51.6644,-3.8034
 canal view cafe,SA11 4BT,51.6949,-3.7309
-McDonalds Restaurant,SA11 5NZ,51.7374,-3.6421
 McDonalds,SA11 5NZ,51.7374,-3.6421
+KFC,SA11 5SY,51.7363,-3.6398
 colliers arms,SA12 9TY,51.6428,-3.7526
 Afan Lodge,SA13 3ES,51.6480,-3.6781
 Canolfan Y Mynydd Du,SA18 1BU,51.8126,-3.8643
@@ -65,6 +64,7 @@ Y Llew Coch (Lllandybie) Cyf,SA18 3JA,51.8221,-4.0081
 ocean blue fish bar & restaurant ,SA18 3QJ,51.7794,-4.0201
 Kings Head,SA18 3SF,51.7844,-4.0446
 pearl's coffee shop ,SA2 0FN,51.6343,-3.9813
+Costa Coffee,SA4 1GT,51.6792,-3.9949
 Y Shed,SA4 3AB,51.6535,-4.0398
 Bonophool,SA4 3BN,51.6479,-4.0382
 Nomad bar & kitchen,SA4 3BW,51.6476,-4.0373
@@ -75,6 +75,7 @@ Tafarn Y Trap,SA4 4AS,51.6609,-4.0380
 SUBWAY GORSEINON,SA4 4BL,51.6692,-4.0409
 New raduni ltd,SA4 4BP,51.6690,-4.0396
 roma 2000 ltd,SA4 4BP,51.6690,-4.0396
+The Mardy Inn Swansea (Wetherspoon),SA4 4BR,51.6690,-4.0376
 THE ROMA FISH BAR,SA4 4BT,51.6688,-4.0376
 SGR Gorseinon Ltd,SA4 4BX,51.6680,-4.0350
 SWAN GARDEN BAR AND RESTAURANT,SA4 4BX,51.6680,-4.0350
@@ -87,28 +88,22 @@ The Clubhouse at Pontardulais Golf Club,SA4 9DT,51.6972,-4.0211
 rasoi indian kitchen,SA4 9DY,51.7028,-4.0160
 The Buck Inn,SA4 9EF,51.6883,-4.0130
 Penllergare Valley Woods Coffee Shop,SA4 9GS,51.6745,-3.9921
-Burger King,SA4 9GT,51.6793,-3.9950
-Costa Coffee,SA4 9GT,51.6793,-3.9950
-Moto Service Station,SA4 9GT,51.6793,-3.9950
+McDonald's,SA4 9GT,51.6777,-3.9972
 mcdonalds,SA4 9GT,51.6793,-3.9950
 Lezzet Cafe&Restaurant ,SA4 9HL,51.6740,-3.9805
 Finks Diner,SA4 9HN,51.6646,-4.0213
 Bizzie Lizzies Cafe,SA4 9WF,51.6648,-4.0186
 SUBWAY FFORESTFACH,SA5 4AA,51.6411,-3.9780
 The Green Room Cafe,SA5 4AE,51.6429,-3.9805
-Costa Coffee,SA5 4BA,51.6508,-3.9872
-Dunelm,SA5 4BA,51.6508,-3.9872
-KFC Swansea Fforestfach,SA5 4BA,51.6508,-3.9868
-Caffe Nero,SA5 4BB,51.6499,-3.9899
-Costa Coffee,SA5 4BB,51.6499,-3.9899
+Costa Coffee,SA5 4BA,51.6529,-3.9884
+KFC,SA5 4BA,51.6532,-3.9913
+Costa Coffee,SA5 4BB,51.6501,-3.9898
 lezzet cafe,SA5 4DL,51.6454,-3.9903
 SGR Grill Ltd,SA5 4TR,51.6398,-4.0067
-Freedom Leisure,SA5 7BU,51.6510,-3.9598
 plough and harrow,SA5 7JA,51.6712,-3.9581
 Shepherds Country Inn,SA5 7ND,51.7084,-3.9714
-Costa Coffee Drive Thru,SA5 8LJ,51.6354,-3.9658
+McDonald's,SA5 8LJ,51.6364,-3.9672
 mcdonalds,SA5 8LJ,51.6354,-3.9658
-Mecca Bingo Club,SA5 8LL,51.6357,-3.9602
 Haystack cafe,SA5 9EB,51.6448,-3.9460
 The Kings Head Hotel,SA5 9EL,51.6518,-3.9483
 The Manselton Hotel,SA5 9HX,51.6435,-3.9511
@@ -123,21 +118,21 @@ Cwtch Corner ,SA6 5LP,51.6967,-3.8903
 Pantri,SA6 5LU,51.6976,-3.8928
 Cattle & Co at Brownsters ,SA6 5LW,51.6963,-3.8908
 The New Inn,SA6 5SU,51.7060,-3.9060
-Costa Coffee,SA6 6NL,51.6847,-3.9353
+The Red Lion Inn Swansea (Wetherspoon),SA6 6JA,51.6686,-3.9227
+Costa Coffee,SA6 6NL,51.6838,-3.9368
 Lilly’s ,SA6 7LW,51.6641,-3.9478
 Cafe Memo's,SA6 8AL,51.6663,-3.9251
 SUBWAY MORRISTON,SA6 8AS,51.6646,-3.9260
 Castle Bingo Swansea,SA6 8DS,51.6652,-3.9228
-McDonalds,SA6 8DU,51.6653,-3.9207
+McDonald's,SA6 8DU,51.6653,-3.9207
+KFC,SA6 8PP,51.6637,-3.9126
 Burger King - Swansea 2,SA6 8PS,51.6644,-3.9131
-Burger King,SA6 8PS,51.6644,-3.9131
-Costa Coffee Drive Thru,SA6 8PS,51.6641,-3.9140
-KFC Drive Thru,SA6 8PS,51.6641,-3.9140
+Costa Coffee,SA6 8PS,51.6645,-3.9122
 Fair Deal Cafe,SA6 8QE,51.6597,-3.9136
-Starbucks Drive Thru,SA6 8QE,51.6597,-3.9136
 STARBUCKS ,SA6 8QL,51.6611,-3.9166
 STARVIN' JACKS,SA6 8RJ,51.6507,-3.9215
 The Northey Lights Coffee Lounge,SA6 8RN,51.6565,-3.9155
+Brewers Fayre Swansea Vale,SA6 8WB,51.6652,-3.9121
 Buzz Park Swansea,SA7 9AG,51.6621,-3.9064
 Motor point cafe,SA7 9AG,51.6621,-3.9056
 SUBWAY LLANSAMLET,SA7 9BA,51.6619,-3.8880

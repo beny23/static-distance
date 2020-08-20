@@ -2,13 +2,14 @@ name,postcode,lat,lon
 Z&K Kaspas Ltd T/A Kaspas Bridgend,CF31 1DD,51.5039,-3.5755
 Power Meals,CF31 1DL,51.5053,-3.5781
 Costa Coffee ,CF31 1DW,51.5061,-3.5775
-Costa Coffee,CF31 1DW,51.5061,-3.5775
+Costa Coffee,CF31 1DW,51.5060,-3.5771
 The Phoenix,CF31 1EH,51.5076,-3.5775
 Aroma cafe,CF31 1JB,51.5061,-3.5794
 Zia Nina Bridgend ,CF31 1JD,51.5069,-3.5800
+The Wyndham Arms Bridgend (Wetherspoon),CF31 1JE,51.5066,-3.5793
 Il panino,CF31 1LL,51.5074,-3.5790
 The Caeffatri,CF31 1NJ,51.5133,-3.5761
-Costa Coffee and Amigo Shop to Go,CF31 1RQ,51.5183,-3.5724
+Costa Coffee,CF31 1RQ,51.5174,-3.5724
 Castle Bingo Bridgend,CF31 1TZ,51.5043,-3.5709
 Upstairs at Thunder Road,CF31 1UA,51.5047,-3.5703
 The Haywain,CF31 2AP,51.5034,-3.5636
@@ -16,14 +17,12 @@ Pizza Hut Delivery,CF31 2LL,51.5074,-3.5606
 Ashoka Indian Restaurant,CF31 3BP,51.5031,-3.5768
 Exotic Shaad,CF31 3BP,51.5031,-3.5768
 The Coach,CF31 3DH,51.5010,-3.5727
-KFC,CF31 3ND,51.4951,-3.5681
+KFC,CF31 3ND,51.4951,-3.5678
 Mr P E Lewis t/a Phils News & Cafe ,CF31 3SB,51.5016,-3.5387
 STARBUCKS ,CF31 3TN,51.4997,-3.5380
-Starbucks,CF31 3TN,51.4997,-3.5380
-Baxterstorey @ CGI,CF31 3TR,51.4974,-3.5337
-McDonalds,CF31 3XX,51.4961,-3.5676
+McDonald's,CF31 3XX,51.4957,-3.5670
 Subway Parc Plaza,CF31 3XX,51.4957,-3.5670
-Dunelm Cafe Pausa,CF31 3XY,51.4946,-3.5615
+Costa Coffee,CF31 3XY,51.4943,-3.5591
 The Jump Company (Bridgend) Ltd t/a Jump Jam,CF31 3YN,51.4987,-3.5294
 COURT COLMAN MANOR,CF31 4NG,51.5254,-3.6095
 Cinnamon,CF31 5EJ,51.5020,-3.6015
@@ -42,18 +41,15 @@ The Fox ,CF32 0SA,51.4642,-3.5890
 The Farmers Arms,CF32 0SE,51.4588,-3.5915
 Notty’s Cafe,CF32 9AP,51.5398,-3.5964
 NEW GARDEN RESTAURANT LTD,CF32 9PP,51.5408,-3.5954
-KFC,CF32 9SH,51.5307,-3.5724
+Breakfast Room,CF32 9ST,51.5316,-3.5725
+KFC,CF32 9ST,51.5307,-3.5724
 Caffe Sidoli's,CF32 9SU,51.5323,-3.5777
 Chopstix Bridgend,CF32 9SU,51.5323,-3.5777
-Costa Coffee @ Odeon,CF32 9SU,51.5323,-3.5777
-Costa Coffee,CF32 9SU,51.5323,-3.5777
+Costa Coffee,CF32 9SU,51.5322,-3.5747
+McDonald's,CF32 9SU,51.5324,-3.5751
 McDonalds,CF32 9SU,51.5323,-3.5777
-Pizza Hut Restaurant,CF32 9SU,51.5322,-3.5779
 SPUDULIKE BRIDGEND,CF32 9SU,51.5323,-3.5777
 STARBUCKS ,CF32 9SU,51.5323,-3.5777
-Starbucks,CF32 9SU,51.5323,-3.5777
-Wagamama,CF32 9SU,51.5323,-3.5777
-Burger King Sarn Park,CF32 9SY,51.5345,-3.5774
 Starbucks,CF32 9SY,51.5345,-3.5774
 Welcome Break Petrol,CF32 9SY,51.5345,-3.5774
 Durston's Coffee Roastery & Coffee Shop,CF32 9TZ,51.5477,-3.5769
@@ -70,13 +66,15 @@ The Best Western Heronston Hotel & Spa,CF35 5AW,51.4919,-3.5776
 The Golden Mile Country Inn,CF35 5BA,51.4850,-3.5470
 Ewenny Village Shop,CF35 5BL,51.4834,-3.5767
 Sadie & Frank's Limited,CF35 5BP,51.4817,-3.5895
+McDonald's,CF35 5HY,51.5140,-3.4960
 McDonalds,CF35 5HY,51.5137,-3.4963
 STARBUCKS,CF35 5HY,51.5137,-3.4963
+Table Table Pantruthyn Farm,CF35 5HY,51.5134,-3.4948
 Lilo's,CF35 5NP,51.5238,-3.5006
 Town & Country Hotels Ltd,CF35 6AF,51.5148,-3.5227
 coed-y-mwstwr golf club (1998) ltd,CF35 6AF,51.5148,-3.5227
 The Sidewalk Cafe ,CF36 3AH,51.4792,-3.7043
-Costa Coffee,CF36 3AY,51.4787,-3.7033
+Costa Coffee,CF36 3AY,51.4787,-3.7035
 Fulgoni's,CF36 3AY,51.4787,-3.7034
 Cafe Fresco,CF36 3BA,51.4766,-3.7044
 The Welsh Deli,CF36 3BA,51.4769,-3.7043
@@ -123,14 +121,13 @@ Shampan Indian Restaurant,CF71 7AB,51.4609,-3.4451
 Hurryflow Ltd t/as Bear Hotel,CF71 7AF,51.4624,-3.4495
 Hurryflow Ltd t/as Oscars Restaurant,CF71 7AF,51.4624,-3.4495
 The Yard Restaurant and Pizzeria,CF71 7AF,51.4624,-3.4495
-Costa Coffee,CF71 7AG,51.4617,-3.4479
+Costa Coffee,CF71 7AG,51.4616,-3.4474
 Hurryflow Ltd T/as Quarter Penny Cafe,CF71 7AH,51.4621,-3.4503
 Debs Tearoom at Happy Days,CF71 7BB,51.4613,-3.4501
 1 Town Hall Square,CF71 7DD,51.4620,-3.4475
 The Bush Inn,CF71 7DP,51.4500,-3.4144
 Mughal Emperor Ltd,CF71 7DT,51.4583,-3.4212
 Stalling Cafe,CF71 7DT,51.4583,-3.4212
-Caffe Nero,CF71 7FB,51.4609,-3.4488
 Forage Farm Shop and Kitchen ,CF71 7FF,51.4661,-3.4571
 The Cross Inn,CF71 7JF,51.4580,-3.4702
 Farmers Arms Aberthin Limited,CF71 7LG,51.4676,-3.4288
@@ -152,10 +149,10 @@ Penny Farthing Ltd,CF72 8DG,51.5378,-3.3716
 Llanerch Restaurant,CF72 8GG,51.5074,-3.3698
 MISKIN ARMS,CF72 8JQ,51.5191,-3.3755
 Vale Resort,CF72 8JY,51.4910,-3.3803
-Costa Coffee,CF72 8LW,51.5374,-3.3799
-McDonalds,CF72 8RP,51.5333,-3.3764
-Nando's,CF72 8SY,51.5363,-3.3811
-Costa Coffee,CF72 8XT,51.5455,-3.3889
+Costa Coffee,CF72 8LW,51.5378,-3.3804
+Nando's,CF72 8LW,51.5373,-3.3814
+McDonald's,CF72 8RP,51.5333,-3.3790
+Beefeater The Longbow,CF72 8XL,51.5436,-3.3883
 Scoops,CF72 9DX,51.5304,-3.4008
 Porcellinis,CF72 9EB,51.5217,-3.3928
 The Thirsty Elephant LTD,CF72 9ED,51.5229,-3.3917

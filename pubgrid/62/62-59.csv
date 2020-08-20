@@ -1,9 +1,9 @@
 name,postcode,lat,lon
-Costa Coffee,DN14 5BT,53.7042,-0.8742
 Supreme Coffee House,DN14 5DA,53.7038,-0.8728
 The coffee lounge,DN14 5DE,53.7042,-0.8727
 Razzar's cafe,DN14 5DL,53.7042,-0.8723
 Walkway Cafe Bar,DN14 5DL,53.7042,-0.8723
+City and County Goole (Wetherspoon),DN14 5DR,53.7035,-0.8711
 Stanleys Bar & Kitchen,DN14 5DR,53.7035,-0.8711
 Blacksmiths Arms,DN14 5NY,53.7191,-0.8465
 MR NessuNo,DN14 5QE,53.7026,-0.8709
@@ -24,9 +24,9 @@ Boothferry Golf Club,DN14 7NG,53.7788,-0.8576
 Saltmarshe hall,DN14 7RX,53.7063,-0.8168
 CALIFORNIA GARDENS LTD,DN14 7TF,53.7475,-0.8541
 The Half Moon Inn,DN14 8ET,53.6983,-0.7936
-Elior UK,DN14 8GA,53.7001,-0.9079
+Brewers Fayre Aire & Calder,DN14 8JS,53.7061,-0.9136
+McDonald's,DN14 8JS,53.7049,-0.9143
 McDonald's,DN14 8JS,53.7050,-0.9143
-Mcdonalds Restaurant,DN14 8JS,53.7050,-0.9143
 The Percy Arms,DN14 8LD,53.7161,-0.9056
 THE PEPPERED PIG ,DN14 9BY,53.6855,-0.9932
 Park Lodge Shooting School,DN14 9ED,53.6848,-1.0169
@@ -35,7 +35,7 @@ Carlton Towers Events Limited,DN14 9LZ,53.7066,-1.0174
 Mulligans Sports Bar,DN15 6AD,53.5940,-0.6488
 Cafe Indiependent,DN15 6EH,53.5914,-0.6526
 Costa Coffee Scunthorpe,DN15 6HB,53.5917,-0.6490
-Costa Coffee,DN15 6HB,53.5917,-0.6490
+Costa Coffee,DN15 6HB,53.5916,-0.6487
 Klumpe Lithuanian Restaurant,DN15 6LA,53.5897,-0.6534
 Pearl city,DN15 6LJ,53.5905,-0.6515
 EXOTIC THAI RESTAURANT,DN15 6LQ,53.5908,-0.6531
@@ -47,15 +47,11 @@ Scalinis,DN15 6NE,53.5909,-0.6487
 Colosseo Limited,DN15 6NJ,53.5906,-0.6485
 Uppercrust Scunthorpe Limited,DN15 6NJ,53.5906,-0.6485
 Cafe jazz,DN15 6RA,53.5914,-0.6464
-Costa Coffee,DN15 6RB,53.5909,-0.6457
 Starbucks,DN15 6SA,53.5922,-0.6464
-Starbucks,DN15 6SB,53.5918,-0.6463
 Curtis of Lincoln,DN15 6SD,53.5923,-0.6457
 SUBWAY,DN15 6SD,53.5923,-0.6457
 Sarah's Family Dining,DN15 6SU,53.5916,-0.6449
-Buzz Bingo,DN15 6TZ,53.5952,-0.6419
 SAn Pietro Restaurant,DN15 6UH,53.5906,-0.6393
-Eatwell Restaurant at SGH by Elior,DN15 7BH,53.5874,-0.6670
 Elior UK - Kiosk 1 (Outpatients),DN15 7BH,53.5874,-0.6670
 Elior UK - Kiosk 2 (Main entrance Church Lane),DN15 7BH,53.5874,-0.6670
 Taylor Shaw Elior at St Lawrence Academy,DN15 7DF,53.5909,-0.6652
@@ -64,6 +60,7 @@ LASUN FINE DINNING,DN15 7JT,53.5926,-0.6549
 The Well,DN15 7JW,53.5925,-0.6543
 Lucio's Restaurant,DN15 7PQ,53.5892,-0.6535
 Dine Bangla ,DN15 7PT,53.5903,-0.6537
+The Blue Bell Inn Scunthorpe (Wetherspoon),DN15 7PU,53.5904,-0.6542
 The Light ,DN15 7PU,53.5904,-0.6546
 Dixy Chicken,DN15 7RA,53.5906,-0.6557
 Jubraj Ltd,DN15 7RA,53.5906,-0.6557
@@ -73,19 +70,19 @@ Noble Inn Chinese,DN15 7RD,53.5906,-0.6567
 Gills vintage tearoom LTD,DN15 7RG,53.5904,-0.6585
 Peaky Blinder,DN15 7RN,53.5932,-0.6613
 42 Apart Hotel,DN15 7RQ,53.5909,-0.6581
-Costa Coffee,DN15 8NN,53.6088,-0.6769
+Costa Coffee,DN15 8GR,53.5904,-0.6958
+Costa Coffee,DN15 8NN,53.6080,-0.6765
 Dunelm Mill Shop,DN15 8NN,53.6086,-0.6786
 SUBWAY,DN15 8NN,53.6088,-0.6769
 McDonald's,DN15 8TD,53.5872,-0.6949
-Costa Coffee,DN15 8TE,53.5888,-0.6939
+McDonald's,DN15 8TD,53.5890,-0.6948
+KFC,DN15 8TE,53.5888,-0.6938
 KFC,DN15 8TE,53.5888,-0.6939
-Pizza Hut Restaurant,DN15 8TE,53.5888,-0.6939
 SUBWAY,DN15 8TE,53.5888,-0.6939
 Normanby Arms Pub,DN15 9HU,53.6389,-0.6600
 Normanby Hall Golf Club,DN15 9HU,53.6389,-0.6600
 Stableyard Café,DN15 9HU,53.6391,-0.6556
 Wortley House Hotel,DN16 1SU,53.5848,-0.6482
-McDonalds Fish & Chip Shop,DN17 3BN,53.5890,-0.7376
 Take a gander ,DN17 3NA,53.5759,-0.7363
 Ingleby Arms,DN17 4AJ,53.6176,-0.7051
 Lakeside Bar and Restaurant,DN17 4BQ,53.5930,-0.8211
@@ -99,11 +96,8 @@ the Bay Horse Inn,DN7 6RS,53.5781,-0.9966
 BMW Thorne,DN8 4HT,53.6208,-0.9718
 Bliss coffee shop,DN8 5DG,53.6110,-0.9615
 Canal Tavern,DN8 5DZ,53.6090,-0.9637
-Stonegate Club,DN8 5EE,53.6103,-0.9623
-Burger King,DN8 5GS,53.5922,-0.9923
-Costa Coffee,DN8 5GS,53.5922,-0.9923
+Costa Coffee,DN8 5GS,53.5921,-0.9921
 Thorne Golf Club,DN8 5RJ,53.6055,-0.9721
-McDonalds Restaurants,DN8 5TX,53.6134,-0.9796
 McDonald's,DN8 5UG,53.6172,-0.9778
 The West End Cafe ,HU15 2EY,53.7652,-0.6162
 William's Den ,HU15 2LS,53.7883,-0.6254

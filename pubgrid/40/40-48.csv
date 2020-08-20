@@ -18,10 +18,10 @@ Il Sapore Di Napoli Ltd,GL20 5DL,51.9963,-2.1513
 Cafe au Chocolat,GL20 5JR,51.9935,-2.1571
 Minfar ltd t/a Rajshahi Restaurant ,GL20 5JU,51.9939,-2.1568
 CAROUSEL,GL20 5JY,51.9946,-2.1564
-Costa Coffee,GL20 5JZ,51.9952,-2.1562
+Costa Coffee,GL20 5JZ,51.9955,-2.1561
 Jelly Roll Cafe Ltd,GL20 5PP,51.9927,-2.1567
 Tilly’s,GL20 5PY,51.9924,-2.1566
-J D Wetherspoon Plc,GL20 5RT,51.9920,-2.1586
+The Royal Hop Pole Tewkesbury (Wetherspoon),GL20 5RS,51.9920,-2.1586
 Caffe E Vino,GL20 5RX,51.9916,-2.1596
 Mezbaan,GL20 5RX,51.9914,-2.1603
 My Great Grandfathers Restaurant,GL20 5RX,51.9916,-2.1596
@@ -37,7 +37,7 @@ The Railway Inn,GL20 6EY,52.0381,-2.1859
 Tewkesbury Park Hotel,GL20 7DN,51.9791,-2.1620
 Lakeside Bar and Restaurant,GL20 7EE,52.0180,-2.1289
 CANTERBURY INN,GL20 8BT,51.9959,-2.1393
-Starbucks,GL20 8JN,51.9966,-2.1272
+Brewers Fayre Elmbury Lodge,GL20 8ND,51.9972,-2.1276
 The Gloucester Old Spot,GL51 9SY,51.9332,-2.1492
 Cameron & Swan,HR8 1BN,52.0376,-2.4230
 The Muse Cafe,HR8 1BN,52.0375,-2.4227
@@ -52,7 +52,6 @@ Meerkat Manor B&B ,HR8 1JJ,52.0812,-2.4116
 FARMERS ARMS (LEDBURY) LTD,HR8 1LS,52.0588,-2.4223
 FARMERS ARMS ,HR8 1LS,52.0588,-2.4223
 The Oak Inn Staplow,HR8 1NP,52.0703,-2.4515
-Coffee#1,HR8 2AA,52.0371,-2.4238
 The Full Pitcher,HR8 2EN,52.0298,-2.4336
 The Walwyn Arms,HR8 2LY,51.9950,-2.4994
 The Royal Oak,HR8 2ND,52.0046,-2.4931
@@ -79,15 +78,15 @@ malvern restaurant ltd t/a Vasai,WR14 1AA,52.1281,-2.3139
 NEW INN,WR14 1DN,52.1349,-2.3138
 THE NEW INN,WR14 1DN,52.1349,-2.3138
 Spa at Malvern LLP,WR14 1GD,52.1291,-2.3015
-McDonalds,WR14 1PY,52.1306,-2.3010
+Thyme,WR14 1GD,52.1275,-2.3008
+Costa Coffee,WR14 1JQ,52.1309,-2.3046
+McDonald's,WR14 1PY,52.1311,-2.3031
 McLean Restaurants Ltd,WR14 1PY,52.1306,-2.3009
-Caffe Nero,WR14 1PZ,52.1317,-2.3026
-Moto Munch,WR14 1SU,52.1268,-2.3166
 London House Cafe,WR14 1SY,52.1276,-2.3156
 The Everest Eatery,WR14 1SY,52.1276,-2.3156
 Bluebird Tearooms,WR14 2AA,52.1115,-2.3291
-Caffe Nero,WR14 2AA,52.1116,-2.3292
 Anupam,WR14 2AE,52.1116,-2.3278
+Costa Coffee,WR14 2AE,52.1116,-2.3272
 The Fig Malvern,WR14 2AE,52.1115,-2.3277
 The Lyttelton Well Cafe,WR14 2AY,52.1114,-2.3275
 Waterfall Elior @ McCarthy And Stone Cartwright Court,WR14 2GE,52.1120,-2.3241
@@ -96,7 +95,6 @@ THE COTFORD HOTEL,WR14 2HU,52.1144,-2.3276
 The Nags Head,WR14 2JG,52.1195,-2.3281
 Faun,WR14 2XH,52.1116,-2.3282
 Peppe's Italian Restaurant,WR14 2XH,52.1117,-2.3282
-Freedom Leisure,WR14 3DS,52.1098,-2.3248
 Mac & Jacs,WR14 3ES,52.1107,-2.3295
 Aldwyn's,WR14 3HL,52.1033,-2.3297
 Poolbrook Cafe,WR14 3JD,52.1022,-2.3067
@@ -107,9 +105,8 @@ The Wyche Inn Ltd,WR14 4EQ,52.0918,-2.3381
 The Cottage In The Wood,WR14 4LG,52.0819,-2.3352
 The Railway Inn,WR14 4PA,52.0923,-2.3349
 Mulberry Tree,WR14 4PZ,52.1113,-2.3302
-Prezzo,WR14 4PZ,52.1114,-2.3302
 The Picnic Box,WR14 4PZ,52.1113,-2.3302
-Wetherspoons at the Foley Arms,WR14 4QS,52.1123,-2.3301
+The Foley Arms Hotel Great Malvern (Wetherspoon),WR14 4QS,52.1125,-2.3300
 Dining  Ltd,WR14 4QW,52.1129,-2.3300
 Soma,WR14 4QY,52.1127,-2.3304
 Stanbrook Abbey Hotel,WR2 4TY,52.1467,-2.2408
@@ -118,11 +115,10 @@ The Chase Inn,WR6 5BP,52.1333,-2.4965
 The Hop Pocket,WR6 5BT,52.1223,-2.4934
 fusion brasserie ltd t/a feli's bar & restaurant,WR7 4RJ,52.1409,-2.1382
 Boots At Roadchef South,WR8 0BZ,52.0647,-2.1570
-Costa Coffee At Road Chef South,WR8 0BZ,52.0647,-2.1570
+Costa Coffee,WR8 0BZ,52.0647,-2.1567
 Costa Drive - Thru At Roadchef,WR8 0BZ,52.0647,-2.1570
 Leon At Roadchef,WR8 0BZ,52.0647,-2.1570
-McDonalds At Road Chef North,WR8 0BZ,52.0647,-2.1570
-McDonalds At Road Chef South,WR8 0BZ,52.0647,-2.1570
+McDonald's,WR8 0BZ,52.0580,-2.1409
 Spar At Roadchef,WR8 0BZ,52.0647,-2.1570
 The Cornish Bakery At Strensham Southbound MSA,WR8 0BZ,52.0647,-2.1570
 The Swan Inn,WR8 0EA,52.0869,-2.2742

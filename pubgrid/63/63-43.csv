@@ -2,7 +2,6 @@ name,postcode,lat,lon
 beach house bar & bistro,FY1 1AP,53.8173,-3.0564
 Upside Down,FY1 1BA,53.8191,-3.0508
 Deansgate kitchen ,FY1 1BN,53.8196,-3.0514
-The Haven at Revelation,FY1 1BN,53.8196,-3.0516
 The happy cafee,FY1 1BN,53.8194,-3.0519
 Number Five,FY1 1BP,53.8184,-3.0502
 Pastels,FY1 1BP,53.8184,-3.0502
@@ -17,15 +16,13 @@ Peppermill Cafe Bar & Restaurant,FY1 1EG,53.8180,-3.0530
 West Coast Choc Cafe,FY1 1EG,53.8180,-3.0529
 The Bank Bar & Grill,FY1 1EJ,53.8177,-3.0537
 The Rose and Crown,FY1 1EJ,53.8177,-3.0537
+The Layton Rakes Blackpool (Wetherspoon),FY1 1ET,53.8183,-3.0551
 Cookies,FY1 1EW,53.8175,-3.0546
 SUBWAY,FY1 1EX,53.8176,-3.0551
-Nandos,FY1 1HJ,53.8171,-3.0543
-Pizza Hut Restaurant,FY1 1HJ,53.8171,-3.0543
 Viva Blackpool,FY1 1HJ,53.8171,-3.0543
-Costa Coffee,FY1 1HP,53.8177,-3.0529
+Costa Coffee,FY1 1HP,53.8175,-3.0536
 Dirty Blondes Limited,FY1 1HP,53.8177,-3.0529
 HIVE Coffee Shop,FY1 1HP,53.8177,-3.0529
-Pizza Express,FY1 1HP,53.8177,-3.0530
 The Cafe,FY1 1HP,53.8177,-3.0529
 AMARO RESTAURANT- trade as sotto pizzeria ltd,FY1 1HU,53.8177,-3.0516
 EMPRESS GRILL ROOM,FY1 1HU,53.8177,-3.0507
@@ -67,7 +64,6 @@ Yorkshire Fisheries,FY1 3AQ,53.8192,-3.0498
 The Rite Bite,FY1 3AS,53.8191,-3.0498
 SUBWAY,FY1 3AZ,53.8220,-3.0476
 Basrai Restaurant (Blackpool) Limited,FY1 3EF,53.8197,-3.0480
-Mecca Bingo,FY1 3HJ,53.8148,-3.0495
 The Brew Room,FY1 3NX,53.8178,-3.0469
 Tea and Vintage Tearoom,FY1 3NY,53.8178,-3.0459
 american pizza city,FY1 3PX,53.8186,-3.0440
@@ -76,19 +72,19 @@ Harry Ramsdens,FY1 4BJ,53.8160,-3.0552
 Blackpool Resort Coffee Lounge,FY1 4BW,53.8129,-3.0497
 Raikes Hall,FY1 4HE,53.8181,-3.0404
 Burger King,FY1 4HU,53.8163,-3.0534
-Caffe Nero,FY1 4HU,53.8163,-3.0534
-Costa Coffee LTD,FY1 4HU,53.8163,-3.0534
+Costa Coffee,FY1 4HU,53.8154,-3.0537
 Starbucks Blackpool,FY1 4HU,53.8161,-3.0541
 Lowery cafe,FY1 4PB,53.8159,-3.0517
 Royal Alexandra Hotel,FY1 4PR,53.8159,-3.0501
 McDonald's Restaurants Ltd,FY1 4PX,53.8149,-3.0537
-McDonalds,FY1 4PX,53.8149,-3.0537
+McDonald's,FY1 4PX,53.8148,-3.0540
 dales diner,FY1 4QE,53.8143,-3.0503
 Lucky House ,FY1 4QQ,53.8135,-3.0497
 Viva Vegas Diner and Bar,FY1 4QU,53.8167,-3.0554
-Starbucks Coffee Co,FY1 4RN,53.8164,-3.0542
 Creams Cafe ,FY1 4RU,53.8168,-3.0552
+The Albert and The Lion Blackpool (Wetherspoon),FY1 4RU,53.8153,-3.0555
 KFC,FY1 4RY,53.8161,-3.0541
+KFC,FY1 4RY,53.8164,-3.0550
 Calypso hotel,FY1 4TA,53.8148,-3.0527
 Lilys Traditional Fish and Chips ,FY1 5AB,53.8108,-3.0547
 Mario’s,FY1 5AB,53.8108,-3.0547
@@ -99,11 +95,11 @@ FISH OF THE SEA - CAROUSEL,FY1 5BE,53.8100,-3.0553
 C fresh,FY1 5BL,53.8091,-3.0546
 Walkers fish and chips ,FY1 5BN,53.8093,-3.0535
 Food 2 go ,FY1 5BQ,53.8096,-3.0554
-McDonalds,FY1 5DE,53.8077,-3.0532
 Craig Y Don Hotel,FY1 5DL,53.8081,-3.0550
 Royal Seabank Hotel,FY1 5DL,53.8081,-3.0550
 Coral Island,FY1 5DW,53.8142,-3.0547
 McDonald's Restaurants Ltd,FY1 5EP,53.8081,-3.0483
+McDonald's,FY1 5EP,53.8082,-3.0501
 Meat N  Plaice,FY1 5PY,53.8144,-3.0536
 Palma Cafe,FY1 5PY,53.8144,-3.0536
 SUBWAY,FY1 5PZ,53.8141,-3.0530
@@ -112,6 +108,7 @@ Salt vinegar fish and chips ,FY1 6AH,53.8061,-3.0548
 royal Windsor hotel,FY1 6AH,53.8061,-3.0548
 gainsborough hotel and restaurent,FY1 6AL,53.8043,-3.0548
 Coffee and Cake ,FY1 6AS,53.8047,-3.0530
+Brewers Fayre Yeadon Way,FY1 6BF,53.7955,-3.0470
 New York Burger Stack,FY1 6BH,53.8006,-3.0550
 Royal Carlton Hotel,FY1 6BJ,53.8016,-3.0550
 SOUTH BEACH ,FY1 6BJ,53.8016,-3.0550
@@ -126,6 +123,7 @@ Mzk Chicken ltd,FY1 6EY,53.7996,-3.0504
 Health Lounge,FY1 6JN,53.8041,-3.0424
 kick-start cafe,FY1 6NX,53.8036,-3.0400
 Bloomfield Brewhouse,FY1 6PW,53.8042,-3.0398
+Beefeater Red Lion - Blackpool,FY2 0AR,53.8550,-3.0397
 Salut Coffee House,FY2 0AS,53.8531,-3.0394
 SENIORS BISPHAM,FY2 0AU,53.8525,-3.0397
 Pizza Hut,FY2 0HJ,53.8522,-3.0403
@@ -153,6 +151,7 @@ Savoy Hotel Blackpool,FY2 9SJ,53.8342,-3.0542
 The 4 seasons eatery,FY3 0AY,53.8229,-2.9984
 The plough inn,FY3 0BX,53.8176,-2.9905
 Staining lodge golf course,FY3 0DE,53.8155,-2.9853
+Costa Coffee,FY3 4AN,53.8234,-3.0392
 american pizza and chicken,FY3 7AJ,53.8273,-3.0367
 Chick filla fried & grilled chicken ,FY3 7AS,53.8264,-3.0378
 american pizza and chicken,FY3 7AS,53.8264,-3.0378
@@ -160,11 +159,10 @@ Mr Nitro's Ice Cream & Desserts (Layton),FY3 7BJ,53.8283,-3.0307
 SUBWAY,FY3 7BJ,53.8283,-3.0306
 Lyttles hidden gem,FY3 7UN,53.8364,-3.0247
 Candy corner blackpool limited,FY3 8AN,53.8224,-3.0391
-Costa Coffee,FY3 8AU,53.8240,-3.0395
+KFC,FY3 8AU,53.8240,-3.0394
 KFC,FY3 8AU,53.8240,-3.0395
 the no 4 pub,FY3 8ER,53.8204,-3.0314
-Starbucks,FY3 8LL,53.8126,-3.0107
-Costa Coffee (BVH Main entrance),FY3 8NR,53.8207,-3.0163
+Costa Coffee,FY3 8NR,53.8209,-3.0162
 Blackpool Zoo ,FY3 8PP,53.8163,-3.0112
 SENIORS NORMOSS,FY3 8QP,53.8279,-3.0064
 Dinners Ready,FY3 9AA,53.8174,-3.0379
@@ -177,14 +175,13 @@ Papa Johns,FY3 9JW,53.8066,-3.0291
 SUBWAY,FY3 9JW,53.8066,-3.0291
 The Hungry Elephant,FY3 9JW,53.8066,-3.0291
 BOARS HEAD PUB,FY3 9PL,53.8064,-3.0273
-Starbucks,FY3 9TN,53.8029,-3.0070
 SEASIDE FISH & CHIPS,FY4 1AB,53.7989,-3.0524
 SUBWAY,FY4 1AB,53.7989,-3.0527
 Waterloo Coffee Shop,FY4 1AD,53.7985,-3.0535
 McDonald's Restaurants Ltd,FY4 1AR,53.7979,-3.0554
-McDonalds,FY4 1AR,53.7979,-3.0554
+McDonald's,FY4 1AR,53.7982,-3.0554
 Beachcomber fish and chips,FY4 1BA,53.7950,-3.0556
-Burger King,FY4 1BA,53.7950,-3.0558
+The Velvet Coaster Blackpool (Wetherspoon),FY4 1BA,53.7948,-3.0560
 Blackpool Operating Company Ltd,FY4 1BB,53.7943,-3.0573
 C4 CURRY & KEBAB HOUSE,FY4 1BE,53.7954,-3.0542
 Sallys Bake n Take,FY4 1BE,53.7954,-3.0542
@@ -197,7 +194,6 @@ Lido royal cafe,FY4 1DP,53.7985,-3.0508
 Big Blue Hotel,FY4 1EZ,53.7923,-3.0542
 Blackpool Pleasure Beach Limited,FY4 1EZ,53.7899,-3.0577
 Boulevard Hotel,FY4 1EZ,53.7923,-3.0542
-Pizza Hut Restaurant,FY4 1EZ,53.7923,-3.0542
 the canberra hotel,FY4 1HE,53.7954,-3.0519
 The Spen Dyke,FY4 1JE,53.7897,-3.0488
 WHC Blackpool CIC t/a Room 3,FY4 1JF,53.7899,-3.0478
@@ -218,26 +214,24 @@ willows,FY4 2JD,53.7854,-3.0459
 Baby Kingfisher ,FY4 2JE,53.7858,-3.0434
 paramount chinese restaurant,FY4 2JE,53.7858,-3.0434
 BLUEDIAMOND INDIAN RESTAURANT ,FY4 2JF,53.7862,-3.0431
-Blue Diamond,FY4 2JF,53.7862,-3.0431
 Blueberries,FY4 2JF,53.7862,-3.0431
 Greens fresh and ready ,FY4 2JF,53.7861,-3.0433
 winstons bistro bar,FY4 2JF,53.7862,-3.0431
 Taylors Fish and Chip Shop,FY4 2QL,53.7815,-3.0347
 McDonald's Restaurants Ltd,FY4 2RP,53.7775,-3.0293
-Mcdonalds Restaurants Ltd,FY4 2RP,53.7775,-3.0293
+McDonald's,FY4 2RP,53.7789,-3.0334
 Clean Eats Blackpool,FY4 3RL,53.7818,-3.0235
 Golden Fish,FY4 4AA,53.7945,-3.0306
 the clarence,FY4 4HG,53.8042,-3.0212
 The Cottage Fish and chip restaurant ,FY4 4JH,53.8031,-3.0253
 Harmans On Site Services Ltd,FY4 4NQ,53.7977,-3.0243
 McDonald's Restaurants Ltd,FY4 4NY,53.8011,-3.0115
-McDonalds Drive Thru,FY4 4NY,53.8011,-3.0115
+McDonald's,FY4 4NY,53.8021,-3.0107
 SUBWAY,FY4 4NY,53.8012,-3.0108
+KFC,FY4 4NZ,53.8019,-3.0122
 KFC,FY4 4NZ,53.8019,-3.0123
-Pizza Hut Restaurant,FY4 4NZ,53.8019,-3.0123
 Sprinkles desserts,FY4 4NZ,53.8019,-3.0123
 Ascent Trampoline Park Ltd,FY4 4QQ,53.7970,-3.0081
-Sodexo Costa Coffee - Red Dot Cafe,FY4 4QQ,53.7970,-3.0081
 Trebaron Garden Centre Limited,FY4 5DY,53.7766,-3.0165
 Dahlia's Kitchen,FY4 5LB,53.7870,-2.9961
 Eastpines Friary,FY5 3RX,53.8690,-3.0295
@@ -265,12 +259,12 @@ Ricos Restaurant ,FY6 7BX,53.8478,-2.9932
 Thai by night,FY6 7BX,53.8478,-2.9932
 The New Penny of Poulton Limited,FY6 7BX,53.8478,-2.9932
 Booths,FY6 7DF,53.8468,-2.9934
+Costa Coffee,FY6 7DF,53.8470,-2.9944
 Thyme,FY6 7DF,53.8468,-2.9935
 SUBWAY,FY6 7EP,53.8445,-2.9829
 Salt of the Earth,FY6 7NH,53.8531,-3.0044
-J D WETHERSPOON PLC,FY6 7SR,53.8451,-2.9925
+The Poulton Elk PoultonleFylde (Wetherspoon),FY6 7SR,53.8454,-2.9924
 SENIORS POULTON,FY6 7ST,53.8466,-2.9954
-Costa Coffee,FY6 7UR,53.8468,-2.9946
 fortitude fitness nw ltd,FY6 8JE,53.8434,-2.9719
 Thingamajigz,FY6 8JS,53.8443,-2.9732
 The Miller Arms,FY6 8LL,53.8365,-2.9410
@@ -281,7 +275,7 @@ The Shovels Inn,FY6 9AL,53.8731,-2.9590
 Shard Riverside Inn,FY6 9BT,53.8632,-2.9586
 88 Chinese Restaurant,FY8 1DA,53.7409,-2.9935
 Serendipity Coffee Shop and Eatery at The Bedford Hotel,FY8 1HN,53.7486,-3.0285
-Costa Coffee,FY8 1LP,53.7504,-3.0318
+Costa Coffee,FY8 1LP,53.7502,-3.0316
 Anatolia Sea View Mediterranean Cuisine ,FY8 1LS,53.7492,-3.0328
 St Ives Hotel Limited,FY8 1LS,53.7492,-3.0328
 INN ON THE PROM HOTEL,FY8 1LU,53.7486,-3.0319
@@ -295,9 +289,9 @@ St Annes Fish Restaurant ,FY8 1PZ,53.7514,-3.0266
 FIFTY FOUR,FY8 1QG,53.7501,-3.0305
 Le Patio,FY8 1QG,53.7501,-3.0306
 The Firepit Restaurant,FY8 1QR,53.7511,-3.0298
+The Trawl Boat Inn Lytham St Annes (Wetherspoon),FY8 1QR,53.7509,-3.0300
 The Zen Restaurant ,FY8 1QR,53.7511,-3.0299
 The Blacksheep Tearoom at St Annes,FY8 1QX,53.7514,-3.0295
-Cafe Nero,FY8 1RF,53.7513,-3.0308
 Fresh Cafe,FY8 1RF,53.7513,-3.0308
 SUBWAY,FY8 1RF,53.7513,-3.0309
 APPLEWOOD DELI,FY8 1RY,53.7510,-3.0307
@@ -313,27 +307,25 @@ Olivers,FY8 1UZ,53.7553,-3.0215
 Pavilion Ashton Gardens LTD,FY8 2AE,53.7525,-3.0324
 The Glendower Hotel Ltd,FY8 2NQ,53.7520,-3.0363
 SUBWAY,FY8 3BN,53.7655,-3.0155
-Miller & Carter,FY8 3RU,53.7636,-3.0138
 Booths,FY8 3UT,53.7579,-3.0044
 Fairhaven Golf Club Bar & Catering Ltd,FY8 4JU,53.7428,-2.9832
 LHT ENTERPRISES LTD,FY8 4LE,53.7460,-2.9591
+The Railway Hotel Lytham St Annes (Wetherspoon),FY8 5DH,53.7380,-2.9568
 Aroma Cafe Lytham,FY8 5DZ,53.7396,-2.9504
 Booths,FY8 5EG,53.7388,-2.9567
 Franca Lytham Ltd,FY8 5EH,53.7372,-2.9627
-Pizza Express,FY8 5EN,53.7367,-2.9625
 The Deacon,FY8 5EN,53.7367,-2.9625
 Bijou of Lytham,FY8 5EP,53.7376,-2.9581
 Chell's of Lytham,FY8 5EP,53.7376,-2.9581
 The Coffee Bean,FY8 5ER,53.7374,-2.9607
 The Estuary,FY8 5ER,53.7374,-2.9607
 WHISPERS CAFE BISTRO,FY8 5ER,53.7374,-2.9607
-Cafe Nero,FY8 5EW,53.7370,-2.9608
 Central Beach Cafe Lytham,FY8 5EW,53.7370,-2.9608
 Farina & Co. Lytham,FY8 5EW,53.7370,-2.9608
 The Blacksheep Tearoom Lytham,FY8 5EW,53.7370,-2.9608
 Whelans Fish Restaurant,FY8 5EW,53.7370,-2.9608
 McDonald's Restaurants Ltd,FY8 5HU,53.7468,-2.9379
-McDonalds,FY8 5HU,53.7468,-2.9379
+McDonald's,FY8 5HU,53.7455,-2.9373
 EGO Mediterranean Restaurant Lytham,FY8 5JA,53.7374,-2.9620
 Bosco restaurants ltd,FY8 5JP,53.7367,-2.9637
 El Uno Limited,FY8 5JP,53.7367,-2.9637
@@ -344,6 +336,7 @@ Shambles Lytham ltd ,FY8 5JY,53.7364,-2.9628
 THE QUEENS HOTEL,FY8 5LB,53.7362,-2.9613
 ALL INDIA LIMITED T/A MOHSHINA'S,FY8 5LE,53.7363,-2.9647
 Chu's Oriental Cuisine,FY8 5LH,53.7369,-2.9661
+Costa Coffee,FY8 5LU,53.7375,-2.9631
 Rice Fusion limited t/a Red Fort,FY8 5LU,53.7378,-2.9630
 THE LYTHAM KITCHEN,FY8 5LW,53.7369,-2.9642
 Zest Gastronomia Ltd,FY8 5LW,53.7370,-2.9643
@@ -376,9 +369,8 @@ Buraq(kirkham)limited ,PR4 2RE,53.7843,-2.9037
 Indulge Desserts,PR4 2SD,53.7829,-2.8717
 New Fortune House,PR4 3BL,53.7887,-2.8856
 The Stanley Arms,PR4 3BL,53.7887,-2.8856
-Mill Farm KFC,PR4 3HD,53.7984,-2.8876
+KFC,PR4 3HD,53.7959,-2.8897
 Ashiana goldstar ltd ,PR4 3HE,53.8092,-2.8924
-Euro Garages Ltd (Starbucks),PR4 3HE,53.8092,-2.8924
 Laleham Kirkham,PR4 3JA,53.8025,-2.8900
 Eagle At Weeton,PR4 3NB,53.8038,-2.9415
 Ream Hills Cafe and Bar Ltd,PR4 3NB,53.8043,-2.9390
@@ -397,14 +389,11 @@ Tharaldr Coffee Limited T/A Boskins Cafe,PR4 6UP,53.6792,-2.8312
 The Barn,PR4 6UP,53.6792,-2.8312
 The Cock and Bottle,PR4 6UP,53.6792,-2.8312
 PIER RESTAURANT ,PR8 1QX,53.6505,-3.0084
-KFC,PR8 1RY,53.6534,-3.0111
-Tenpin Ltd,PR8 1RY,53.6534,-3.0111
-Nando's,PR8 1SA,53.6530,-3.0105
-Pizza Hut Restaurant,PR8 1SA.,53.6530,-3.0105
+Brewers Fayre Ocean Plaza,PR8 1RY,53.6509,-3.0146
+McDonald's,PR8 1SA,53.6530,-3.0127
 KFC - OCEAN PLAZA,PR8 1SB,53.6520,-3.0145
 Subway,PR8 1SB,53.6520,-3.0145
-Dunelm Mill,PR8 1SQ,53.6541,-3.0115
-McDonalds,PR8 1SQ,53.6541,-3.0115
+KFC,PR8 1SQ,53.6538,-3.0130
 Delivolare,PR9 0AN,53.6516,-3.0004
 The New Thistle Cafe,PR9 0AN,53.6516,-3.0004
 Volare Restaurant,PR9 0AN,53.6516,-3.0004

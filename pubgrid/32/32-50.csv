@@ -31,12 +31,13 @@ The Barge Inn,BA15 2EA,51.3402,-2.2528
 Cumberwell Park,BA15 2PQ,51.3668,-2.2593
 Leigh Park Hotel,BA15 2RA,51.3563,-2.2444
 Merkins Farm Cafe,BA15 2RW,51.3621,-2.2312
-Costa Coffee,SN10 1AG,51.3522,-1.9929
 1Spice,SN10 1AH,51.3523,-1.9925
 Brogans,SN10 1AJ,51.3522,-1.9938
+Costa Coffee,SN10 1AJ,51.3524,-1.9930
 REEVE THE BAKER LTD,SN10 1AJ,51.3522,-1.9938
 Massimo's Ristorante Italiano Limited,SN10 1AT,51.3517,-1.9946
 The Peppermill (Devizes) Ltd,SN10 1BL,51.3519,-1.9957
+The Silk Mercer Devizes (Wetherspoon),SN10 1BL,51.3518,-1.9954
 Bengal Bite Tandoori,SN10 1DJ,51.3507,-1.9910
 Jeffersons ,SN10 1DN,51.3526,-1.9922
 The White Bear,SN10 1DN,51.3526,-1.9922
@@ -47,9 +48,8 @@ Tea Inc Devizes,SN10 1HN,51.3529,-1.9952
 The Pelican Inn ,SN10 1HT,51.3525,-1.9965
 Devizes Times Square,SN10 1JG,51.3528,-1.9953
 New Society ,SN10 1JG,51.3530,-1.9957
-Pizza Express,SN10 1JG,51.3528,-1.9953
 Times Square,SN10 1JG,51.3528,-1.9953
-Costa Coffee,SN10 1JQ,51.3533,-1.9965
+Costa Coffee,SN10 1JQ,51.3531,-1.9961
 Bell by the Green,SN10 1LQ,51.3523,-1.9889
 Subway,SN10 2HW,51.3608,-1.9786
 The Bridge Inn,SN10 2JS,51.3680,-1.9457
@@ -64,7 +64,7 @@ Antica Roma ,SN11 0BJ,51.4383,-2.0055
 Infusions Tea Rooms,SN11 0BS,51.4389,-2.0053
 Spice of Bengal,SN11 0BZ,51.4400,-2.0050
 The Lansdowne Strand Hotel,SN11 0EH,51.4379,-2.0055
-Costa Coffee,SN11 0HA,51.4397,-2.0048
+Costa Coffee,SN11 0HA,51.4397,-2.0047
 The Farmhouse cafe  bakery and deli,SN11 0HA,51.4397,-2.0048
 Sampaguita,SN11 0QZ,51.4372,-2.0037
 Fay's Bistro,SN11 0RD,51.4382,-2.0049
@@ -74,10 +74,9 @@ Gurkha Baynjan ltd,SN11 9LX,51.4390,-2.0438
 Jester's Adventure Play,SN11 9PL,51.4528,-1.9964
 Bowood Hotel  Spa & Golf Resort,SN11 9PQ,51.4273,-2.0550
 STARBUCKS ,SN12 6AD,51.3554,-2.1399
-Starbucks,SN12 6AD,51.3554,-2.1399
 MOJA KHABAR LIMITED,SN12 6ES,51.3710,-2.1394
 Henry's of Melksham,SN12 6JU,51.3725,-2.1380
-Costa Coffee,SN12 6JY,51.3733,-2.1381
+The Bear Melksham (Wetherspoon),SN12 6LL,51.3749,-2.1387
 ALBA RISTORANTE ITALIANO,SN12 6LP,51.3755,-2.1388
 antico caffe ,SN12 6LP,51.3755,-2.1388
 The brewery inn,SN12 6PX,51.3485,-2.1014
@@ -89,7 +88,7 @@ THE WHITE HART,SN12 8JR,51.3926,-2.1914
 THE BELL ON THE COMMON,SN12 8LX,51.3761,-2.1806
 The Pear Tree,SN12 8QX,51.3966,-2.1711
 McDonald's Restaurant,SN12 8RP,51.3819,-2.1432
-Mcdonalds Restaurant Ltd,SN12 8RP,51.3819,-2.1432
+McDonald's,SN12 8RP,51.3819,-2.1432
 Moonlight Indian Restaurant,SN13 0ES,51.4315,-2.1859
 The café Corsham ,SN13 0ES,51.4317,-2.1859
 Mother & Wild,SN13 0HB,51.4318,-2.1854
@@ -106,21 +105,18 @@ The Greenhouse,SN13 9FN,51.4135,-2.2157
 The Great Western,SN13 9JA,51.4277,-2.1835
 The Neston Country Inn,SN13 9SN,51.4158,-2.2001
 McDonald's Restaurant,SN14 0AF,51.4482,-2.1498
-McDonalds Restaurant,SN14 0AF,51.4482,-2.1498
-Elior,SN14 0WT,51.4458,-2.1472
+McDonald's,SN14 0AF,51.4482,-2.1497
+Costa Coffee,SN14 0UL,51.4471,-2.1472
 The Neeld Arms,SN14 6AP,51.5196,-2.2019
 Stanton Manor Hotel,SN14 6DQ,51.5181,-2.1361
 The Hullavington Arms,SN14 6DU,51.5357,-2.1550
-Burger King,SN14 6LB,51.5118,-2.1582
-Costa Coffee (East),SN14 6LB,51.5118,-2.1582
-Burger King,SN14 6UY,51.4790,-2.1300
+Costa Coffee,SN14 6LB,51.5118,-2.1582
+Brewers Fayre Cepen Park,SN14 6UZ,51.4782,-2.1321
 The Bell Inn,SN14 7BG,51.4873,-2.1929
 White Horse ,SN14 7DG,51.4608,-2.1972
 Manor House Hotel (Castle Combe) Limited,SN14 7HR,51.4937,-2.2322
 The Salutation Inn,SN14 7LH,51.5106,-2.2348
 The Raj (Chippenham) Ltd,SN15 1EG,51.4609,-2.1174
-Elior UK Ltd,SN15 1ER,51.4609,-2.1153
-Prezzo,SN15 1ES,51.4605,-2.1186
 Subway ,SN15 1EX,51.4598,-2.1173
 Pizza Hut,SN15 1HH,51.4610,-2.1183
 La passione,SN15 1HZ,51.4637,-2.1176
@@ -138,14 +134,12 @@ The George Inn Sandy Lane,SN15 2PX,51.4133,-2.0537
 The Packhorse,SN15 3BA,51.4519,-2.1046
 Buckles,SN15 3BS,51.4569,-2.1145
 The Gladstone Arms (Chippenham) Ltd,SN15 3BW,51.4568,-2.1154
-Coffee#1,SN15 3EU,51.4585,-2.1149
-Costa Coffee,SN15 3EU,51.4586,-2.1151
+Costa Coffee,SN15 3EU,51.4587,-2.1154
 Angel Hotel     ,SN15 3HD,51.4579,-2.1150
 Sarah-Jaynes Cafe,SN15 3HD,51.4579,-2.1150
-Pizza Express,SN15 3HW,51.4574,-2.1136
 Boswells Cafe,SN15 3JP,51.4593,-2.1151
 Waterfall Elior,SN15 3QD,51.4624,-2.1121
-Caffe Nero,SN15 3WL,51.4585,-2.1169
+The Bridge House Chippenham (Wetherspoon),SN15 3WL,51.4584,-2.1178
 The Peterborough Arms,SN15 4HD,51.5213,-2.0084
 The Foxham Inn,SN15 4NQ,51.4959,-2.0369
 Spice of Asia,SN15 4PB,51.5128,-1.9737
@@ -164,13 +158,15 @@ Subway ,SN4 7AF,51.5422,-1.9043
 Oriental Aroma,SN4 7AQ,51.5432,-1.9030
 Taylors cafe ,SN4 7AQ,51.5432,-1.9030
 The Angel hotel,SN4 7AQ,51.5432,-1.9030
+Costa Coffee,SN4 7AX,51.5426,-1.9054
 The Five Bells,SN4 7BD,51.5423,-1.9068
 H5 Adventure,SN4 7RX,51.5050,-1.8851
 Sally Pussey Inn,SN4 8ET,51.5457,-1.8636
 The Winterbourne,SN4 9QB,51.4748,-1.8569
 bartlett mitchell,SN5 8AT,51.5477,-1.8564
-Costa Coffee,SN5 8UB,51.5481,-1.8524
+Beefeater The Lydiard,SN5 8UB,51.5481,-1.8523
 Subway ,SN5 8UB,51.5481,-1.8524
+Costa Coffee,SN5 8UY,51.5470,-1.8509
 Doubletree by Hilton Swindon ,SN5 8UZ,51.5470,-1.8531
 Honeystreet Mill Cafe,SN9 5PS,51.3526,-1.8533
 The Barge Inn  Honeystreet,SN9 5PS,51.3526,-1.8533

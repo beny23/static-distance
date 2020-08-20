@@ -10,12 +10,14 @@ Yew tree coffee barn ,L26 3UA,53.3630,-2.8106
 Spaceworld ,L34 1QN,53.4234,-2.8067
 Lavender Cafe,L34 2QT,53.4334,-2.7779
 Eccleston Park Lawn Tennis Club,L34 2TT,53.4331,-2.7880
-Costa Coffee,L34 5NQ,53.4268,-2.8011
+Costa Coffee,L34 5NQ,53.4267,-2.8010
 Subway,L34 5NQ,53.4268,-2.8011
 Pinion Bistro Limited,L34 5QA,53.4293,-2.8040
 The Oven Pizzeria & Bar,L34 5QE,53.4288,-2.8047
 CHINA CHINA TRADING LTD t/a BEIJING CHINESE RESTAURANT,L34 5QH,53.4296,-2.8028
 Poco Bar and Cafe,L34 5QJ,53.4292,-2.8034
+The Watch Maker Prescot (Wetherspoon),L34 5QL,53.4295,-2.8026
+McDonald's,L34 5QX,53.4260,-2.8006
 Ho’s restaurant ,L34 5RB,53.4299,-2.8010
 Kozi limited,L35 0LL,53.4169,-2.7667
 galleria restaurant & art gallery,L35 0LR,53.4167,-2.7662
@@ -23,7 +25,7 @@ Subway Whiston,L35 2UF,53.4207,-2.7881
 Blue mango Indian restaurant ,L35 4LU,53.4164,-2.7671
 Caffe & Co. Ltd,L35 4LU,53.4163,-2.7667
 The Wine Club,L35 4LU,53.4164,-2.7671
-Costa Coffee,L35 5DR,53.4208,-2.7860
+Costa Coffee,L35 5DR,53.4213,-2.7851
 Manor Farm,L35 6NE,53.4068,-2.7594
 Harefield Coffee Barn Limited,L35 6PG,53.4017,-2.7418
 The Archer,M29 7EJ,53.4936,-2.4734
@@ -45,39 +47,34 @@ MR LAU'S,WA1 1BB,53.3879,-2.5986
 Las Ramblas Wine and Tapas ,WA1 1BL,53.3874,-2.5966
 San Lorenzo Restaurant ,WA1 1BL,53.3872,-2.5982
 Bold Street House,WA1 1DY,53.3880,-2.5956
+The Friar Penketh Warrington (Wetherspoon),WA1 1EX,53.3872,-2.5934
 Postern Gate,WA1 1HE,53.3871,-2.5953
 The Grill on the Square ,WA1 1JQ,53.3882,-2.5970
+Costa Coffee,WA1 1LW,53.3858,-2.6031
 Costa Travelines,WA1 1LW,53.3850,-2.6028
 Cinnamon Lounge ,WA1 1NN,53.3883,-2.6009
 Efes Brasserie,WA1 1NN,53.3883,-2.6009
-Ask Italian,WA1 1QB,53.3901,-2.5946
-Caffe Nero,WA1 1QB,53.3901,-2.5946
-Nando's Chicken Land,WA1 1QB,53.3901,-2.5946
 RHODE ISLAND COFFEE LTD,WA1 1QB,53.3901,-2.5946
 Tim Hortons,WA1 1QB,53.3901,-2.5946
-Patisserie Valerie,WA1 1QE,53.3900,-2.5949
 Ranns (Scoop Ice Cream),WA1 1QE,53.3901,-2.5951
 Starbucks Warrington Golden Square SC,WA1 1QE,53.3901,-2.5951
-Starbucks,WA1 1QE,53.3901,-2.5951
 Superbowl UK Warrington Ltd ,WA1 1QE,53.3901,-2.5951
-Costa Coffee,WA1 1QP,53.3900,-2.5958
+Costa Coffee,WA1 1QP,53.3905,-2.5968
 Debenhams Restaurant Warrington,WA1 1QP,53.3900,-2.5958
 The white hart,WA1 1SB,53.3890,-2.5969
 The blue bell,WA1 1TS,53.3902,-2.5937
 East Orient Restaurant,WA1 1XL,53.3900,-2.5932
-Starbucks,WA1 2AR,53.3884,-2.5914
 Istanbul Kebabs (Warrington) Limited,WA1 2BP,53.3885,-2.5886
-Burger King,WA1 2EX,53.3886,-2.5930
 The Cafe,WA1 2EZ,53.3887,-2.5929
 McDonald's Riverside,WA1 2GZ,53.3864,-2.5855
-McDonalds,WA1 2GZ,53.3864,-2.5855
+McDonald's,WA1 2GZ,53.3854,-2.5864
 Zenny's grill LTD,WA1 2HJ,53.3876,-2.5926
+The Looking Glass Warrington (Wetherspoon),WA1 2LY,53.3898,-2.5917
 Casa Mexica,WA1 2NT,53.3883,-2.5927
 Two Brothers Coffee,WA1 2NT,53.3881,-2.5915
-Buzz Bingo,WA1 2QH,53.3907,-2.5912
 Little planet coffee house and grill,WA1 2QQ,53.3909,-2.5899
 McDonald's Bridge Street,WA1 2QW,53.3884,-2.5935
-McDonalds,WA1 2QW,53.3884,-2.5935
+McDonald's,WA1 2QW,53.3885,-2.5936
 Subway,WA1 2QW,53.3886,-2.5936
 The Cottage Restaurant,WA1 2TF,53.3906,-2.5833
 The Ring O Bells ,WA1 2TL,53.3912,-2.5807
@@ -85,30 +82,29 @@ the Green Room,WA1 3QZ,53.3974,-2.5752
 The Dog & Partridge Hotel,WA1 3TZ,53.3979,-2.5522
 Subway,WA1 4AE,53.3984,-2.5440
 Sindh Indian Cuisine,WA1 4EP,53.4018,-2.5310
+Thyme,WA1 4GB,53.3982,-2.5143
 ROPE AND ANCHOR,WA1 4HJ,53.3986,-2.5295
-Costa Coffee,WA10 1AD,53.4515,-2.7339
+Costa Coffee,WA10 1AD,53.4517,-2.7343
 The Cafe,WA10 1AD,53.4515,-2.7337
 Cafe Cassandra's Ltd,WA10 1AR,53.4513,-2.7342
+McDonald's,WA10 1AX,53.4521,-2.7361
 McDonald's,WA10 1AX,53.4523,-2.7359
-McDonalds Restaurants Ltd,WA10 1AX,53.4523,-2.7359
 McDonald's,WA10 1BF,53.4503,-2.7395
-McDonalds,WA10 1BF,53.4503,-2.7395
-Nando's,WA10 1BF,53.4514,-2.7402
-Pizza Hut Restaurant,WA10 1BF,53.4514,-2.7402
 The Secret Garden,WA10 1BJ,53.4533,-2.7378
 cork and dough,WA10 1BJ,53.4533,-2.7378
 Jaguarcafe Ltd t/a Cafezinho,WA10 1BN,53.4520,-2.7367
-Caffe Nero,WA10 1BQ,53.4534,-2.7387
 Thai Jaa Restaurant,WA10 1DL,53.4526,-2.7326
 Pear Tree Cafe,WA10 1DZ,53.4539,-2.7338
 Cafe Country Kitchen Ltd,WA10 1EB,53.4528,-2.7339
 Jaguarcafe Ltd t/a Cafezinho,WA10 1EB,53.4527,-2.7342
 Opera Bingo,WA10 1EQ,53.4537,-2.7306
+The Glass House St Helens (Wetherspoon),WA10 1NE,53.4513,-2.7359
 Mercure St. Helens Hotel  Bar & Restaurant ,WA10 1NG,53.4500,-2.7368
 The Chinese Buffet,WA10 1NU,53.4515,-2.7386
 The Nelson ,WA10 1NU,53.4515,-2.7386
 Kaspa's,WA10 1NW,53.4520,-2.7389
 Subway,WA10 1NW,53.4520,-2.7388
+The Running Horses St Helens (Wetherspoon),WA10 1PY,53.4511,-2.7401
 Insomnia trading as fat cow milkshakes & cakes,WA10 1QA,53.4533,-2.7401
 Momo's Cafe CIC,WA10 1QJ,53.4534,-2.7415
 Superbowl UK St Helens Ltd ,WA10 1QT,53.4519,-2.7437
@@ -135,20 +131,17 @@ THE GRIFFIN INN (ST HELENS) LTD,WA10 5AD,53.4529,-2.7783
 Whistles tearoom,WA10 5JN,53.4608,-2.7764
 Stanley Arms,WA10 5PT,53.4504,-2.7943
 Subway,WA10 5RG,53.4522,-2.7699
-Starbucks,WA10 6DQ,53.4689,-2.7665
 Diya Restaurant limited,WA10 6QY,53.4694,-2.7744
 Toast Coffee House and Cafe,WA10 6RG,53.4586,-2.7531
 Dentons Deli,WA10 6SH,53.4607,-2.7550
 The Ship Inn,WA11 0AB,53.4642,-2.7017
 Hotel ibis Styles Haydock,WA11 0GR,53.4721,-2.6650
-Costa Coffee,WA11 0GT,53.4649,-2.6623
 The Wood Pit,WA11 0LF,53.4691,-2.6569
+Costa Coffee,WA11 0TH,53.4649,-2.6652
 THE BOAT HOUSE/CARRMILL DAM,WA11 7LZ,53.4757,-2.7132
 The Derby Arms Rainford,WA11 8EZ,53.4977,-2.7840
 Drink out loud limited ,WA11 8RU,53.4930,-2.7496
 Woodlands,WA11 9AQ,53.4689,-2.7245
-Haydock Starbucks,WA11 9TL,53.4722,-2.6620
-Elior UK,WA11 9WB,53.4765,-2.6550
 Haydock Park Golf Club Co Ltd,WA12 0HX,53.4633,-2.6091
 Newton Deli,WA12 8EW,53.4478,-2.6298
 Arcadia Food,WA12 9AN,53.4522,-2.6410
@@ -156,7 +149,8 @@ Poco Coffee,WA12 9AN,53.4522,-2.6410
 What's Cookin',WA12 9BA,53.4521,-2.6396
 BLUE TIFFIN LTD,WA12 9BW,53.4532,-2.6430
 McDonald's Earlestown,WA12 9LW,53.4511,-2.6413
-McDonalds,WA12 9LW,53.4511,-2.6413
+McDonald's,WA12 9LW,53.4505,-2.6428
+The Nine Arches Newton le Willows (Wetherspoon),WA12 9NE,53.4524,-2.6440
 Pinnacle foods,WA12 9QN,53.4521,-2.6355
 Subway Newton,WA12 9SH,53.4576,-2.6197
 Amans,WA12 9SL,53.4572,-2.6196
@@ -179,8 +173,9 @@ grill on the cross ltd,WA13 0HU,53.3815,-2.4773
 Lymm Indian,WA13 0JB,53.3811,-2.4763
 Lymm Limited,WA13 0JB,53.3811,-2.4763
 The Coffee House Lymm,WA13 0LJ,53.3810,-2.4799
-Costa Coffee,WA13 0SP,53.3591,-2.5052
+Costa Coffee,WA13 0SP,53.3589,-2.5048
 McDonald's,WA13 0SP,53.3590,-2.5045
+McDonald's,WA13 0SP,53.3591,-2.5052
 The Barn Owl Inn,WA13 0SW,53.3807,-2.4410
 The Wheatsheaf Bar and Grill ,WA13 0TR,53.3694,-2.4400
 La Boheme restaurant ,WA13 9SD,53.3928,-2.4488
@@ -191,12 +186,7 @@ The Red Lion,WA16 0JX,53.2902,-2.4657
 The Topiary Coffee Shop,WA16 0QW,53.3485,-2.4518
 BEARS PAW,WA16 0RT,53.3543,-2.4694
 Mere Court Hotel,WA16 0RW,53.3439,-2.4294
-Costa Coffee Drive Thru (North),WA16 0TJ,53.3009,-2.4016
-Burger King (North),WA16 0TL,53.3009,-2.4016
-Burger King (South),WA16 0TL,53.3009,-2.4016
-Costa Coffee (North),WA16 0TL,53.3009,-2.4016
-Costa Coffee Kiosk (South),WA16 0TL,53.3009,-2.4016
-Costa Coffee Pod (Outside South),WA16 0TL,53.3009,-2.4016
+Costa Coffee,WA16 0TL,53.3010,-2.4011
 The Smoker Inn,WA16 0TY,53.2807,-2.4361
 High Legh Park Golf Club,WA16 0WA,53.3494,-2.4416
 MERE GOLF AND COUNTRY CLUB ,WA16 6LJ,53.3325,-2.4057
@@ -208,21 +198,17 @@ Indian Cuisine (Warrington) Ltd,WA2 7DH,53.3951,-2.5938
 antons pizzas,WA2 7PG,53.4001,-2.5922
 The Kings Head,WA2 7TU,53.3924,-2.5938
 The Jungle,WA2 7XA,53.3942,-2.5922
+Breakfast Room,WA2 8DB,53.4062,-2.5936
 McDonald's Winwick Road,WA2 8HQ,53.4005,-2.5949
-McDonalds,WA2 8HQ,53.4005,-2.5949
+McDonald's,WA2 8HQ,53.4005,-2.5948
 Subway,WA2 8NU,53.4003,-2.5957
 Sandwiches & Catering Direct,WA2 8QP,53.4214,-2.6067
-Burger King,WA2 8RD,53.4242,-2.6005
-Tenpin Ltd,WA2 8RF,53.4151,-2.5992
+Brewers Fayre Winwick Quay,WA2 8RN,53.4204,-2.5988
 KFC WARRINGTON ALBAN 02074,WA2 8TP,53.4100,-2.5986
-Dunelm (Soft Furnishings) Ltd.,WA2 8TW,53.4088,-2.5976
-KFC,WA2 8TW,53.4088,-2.5976
-Nando's Chickenland Ltd,WA2 8TW,53.4088,-2.5976
-Pizza Hut Restaurant,WA2 8TW,53.4088,-2.5976
+KFC,WA2 8TW,53.4107,-2.5975
+Nando's,WA2 8TW,53.4094,-2.5968
 Starbucks Warrington,WA2 8TW,53.4106,-2.5987
-Starbucks,WA2 8TW,53.4106,-2.5987
 Subway,WA2 8TW,53.4088,-2.5976
-Miller and Carter Steakhouse (Mitchells & Butlers),WA3 1HD,53.4666,-2.5697
 Duncan's Kitchens Ltd,WA3 2ED,53.4762,-2.5801
 Scott's Deli & Catering,WA3 2EY,53.4781,-2.5768
 Amans Restaurant & Takeaway ,WA3 2RZ,53.4739,-2.5796
@@ -230,7 +216,8 @@ Imperial Court Chinese Restaurant,WA3 2RZ,53.4739,-2.5796
 Heaven 'N' Health,WA3 3AD,53.4764,-2.5986
 Suhana Indian Restaurant,WA3 3BU,53.4768,-2.5964
 McDonald's Stonecross,WA3 3JD,53.4698,-2.5911
-McDonalds Restaurants,WA3 3JD,53.4687,-2.5909
+McDonald's,WA3 3JD,53.4685,-2.5897
+Table Table The Stonecross,WA3 3JD,53.4684,-2.5883
 The Queen Anne ,WA3 3PZ,53.4702,-2.5994
 Partridge Lakes Cafe,WA3 4AQ,53.4476,-2.5327
 Leigh Golf Club Limited,WA3 4BG,53.4580,-2.5354
@@ -248,7 +235,6 @@ The Comfortable Gill,WA3 5NX,53.4767,-2.4978
 THAI PARAGON BAR AND RESTAURANT,WA3 5QX,53.4520,-2.5204
 Istanbul Grill ,WA3 5SJ,53.4524,-2.5166
 Le Brunch Ltd,WA3 5SJ,53.4524,-2.5166
-Starbucks Oakwood Gate Drive Thru,WA3 6RW,53.4190,-2.5272
 Birchwood spice,WA3 6UG,53.4306,-2.5008
 The General Elliot,WA3 7DE,53.4398,-2.5529
 The plough inn ,WA3 7DS,53.4488,-2.5580
@@ -257,15 +243,14 @@ Clare chapman catering  ,WA3 7PB,53.4314,-2.5304
 Subway Birchwood,WA3 7PE,53.4250,-2.5369
 Planet coffee house and grill,WA3 7PG,53.4141,-2.5269
 Turf & Feather,WA3 7PH,53.4221,-2.5351
+Costa Coffee,WA3 7PQ,53.4140,-2.5283
 McDonald's Birchwood,WA3 7PQ,53.4144,-2.5277
-McDonalds,WA3 7PQ,53.4147,-2.5270
-Pizza Hut,WA4 1JR,53.3795,-2.5620
+McDonald's,WA3 7PQ,53.4145,-2.5287
 SUBWAY LATCHFORD,WA4 1LQ,53.3815,-2.5601
-KFC,WA4 1LR,53.3388,-2.5877
 LA CAFE,WA4 1QJ,53.3843,-2.5657
+KFC,WA4 1TH,53.3821,-2.5607
 A la Turka Restaurant,WA4 2AG,53.3704,-2.5785
 BISTROT PIERRE - STOCKTON HEATH,WA4 2AG,53.3704,-2.5785
-Pizza Express,WA4 2AG,53.3704,-2.5785
 CHOY HING VILLAGE,WA4 2NS,53.3777,-2.5489
 Pickering Arms,WA4 2SU,53.3836,-2.5246
 The Parr Arms,WA4 3EP,53.3721,-2.5450
@@ -273,6 +258,7 @@ The Rams Head,WA4 3EP,53.3721,-2.5450
 Daresury Park Hotel & Spa,WA4 4BB,53.3309,-2.6434
 Hatton Arms Limited,WA4 4DB,53.3372,-2.6022
 chetwode arms,WA4 4EN,53.3059,-2.5800
+Costa Coffee,WA4 4EZ,53.2922,-2.5925
 LETS EAT CAFE,WA4 4EZ,53.2931,-2.5930
 The Partridge Stretton,WA4 4LX,53.3334,-2.5751
 The Park Royal Hotel,WA4 4NS,53.3399,-2.5710
@@ -287,46 +273,40 @@ ST India Ltd,WA4 6HT,53.3706,-2.5830
 ESQUIRES,WA4 6HW,53.3713,-2.5823
 Corks Out,WA4 6LE,53.3690,-2.5805
 Cardamon Restaurant ,WA4 6LG,53.3695,-2.5803
-Nando's Chickenland,WA4 6LG,53.3695,-2.5803
 expedition,WA4 6LG,53.3696,-2.5802
 EGO Mediterranean Restaurant Stockton Heath,WA4 6NJ,53.3704,-2.5818
 Maison Fleur,WA4 6NJ,53.3704,-2.5818
 heaths26,WA4 6NL,53.3692,-2.5820
 Bus Stop Bistro & Bar,WA4 6SG,53.3720,-2.5814
+Costa Coffee,WA4 6SG,53.3715,-2.5814
 Rudra corporation limited T/A Wasabi Teppanyaki,WA4 6SG,53.3720,-2.5814
 Terrace Bistro,WA4 6SG,53.3720,-2.5814
-Wasabi Teppanyaki Japanese Restaurant,WA4 6SG,53.3720,-2.5814
 Zalos Cafe,WA4 6SG,53.3720,-2.5814
 Red Lion,WA4 6UD,53.3532,-2.6366
 Mrs Massey's Munchies ,WA5 0LG,53.3969,-2.6055
 Welcome Back Cafe,WA5 0LG,53.3969,-2.6055
+KFC,WA5 1AF,53.3882,-2.6096
 Food 4 Thought,WA5 1AS,53.3865,-2.6124
-KFC,WA5 1AS,53.3865,-2.6124
 WDP Galleries Cafe,WA5 1BA,53.3858,-2.6148
 OLIVERS RESTAURANT,WA5 2BW,53.3850,-2.6457
 Delgados Pizzeria,WA5 2EY,53.3866,-2.6560
 THE ANMOL,WA5 2JP,53.3845,-2.6469
 Spice of India ,WA5 2XD,53.3773,-2.6924
-KFC,WA5 3AX,53.4173,-2.6380
-Starbucks Burtonwood Services,WA5 3AX,53.4173,-2.6380
-Elior UK,WA5 3LP,53.4025,-2.6676
+KFC,WA5 3AX,53.4172,-2.6379
 Subway Sankey,WA5 3LX,53.3930,-2.6646
-Costa Coffee,WA5 7TY,53.4164,-2.6284
+Costa Coffee,WA5 7TY,53.4150,-2.6281
 McDonald's Gemini,WA5 7TY,53.4160,-2.6267
-McDonalds,WA5 7TY,53.4164,-2.6284
+McDonald's,WA5 7TY,53.4160,-2.6267
 ATHELIS,WA5 7YA,53.4159,-2.6396
 Starbucks Warrington Gemini (Apollo Park),WA5 7YA,53.4159,-2.6396
-Starbucks,WA5 7YA,53.4159,-2.6396
 Subway Gemini,WA5 7YA,53.4136,-2.6340
 Subway Westbrook,WA5 8UG,53.4080,-2.6305
-Compass Group Ltd,WA5 8UH,53.4081,-2.6313
-Miller & Carter Steakhouse,WA5 8WF,53.4119,-2.6329
 The Maltings,WA5 9PB,53.4014,-2.6171
 Ring O Bells,WA6 6BS,53.2892,-2.7208
 Forest Hills Hotel,WA6 6HH,53.2868,-2.7255
 Helter Skelter,WA6 6PN,53.2948,-2.7243
 Costa Coffee - Frodsham,WA6 6QL,53.2950,-2.7251
-Costa Coffee,WA6 6QL,53.2950,-2.7251
+Costa Coffee,WA6 6QL,53.2950,-2.7250
 Subway,WA6 6QS,53.2939,-2.7240
 Brew and Tucker Ltd,WA6 6QW,53.2945,-2.7245
 THE VINTAGE TEAROOM FAMILY ROOM AND BAR LTD,WA6 6SU,53.2762,-2.6975
@@ -339,6 +319,8 @@ Forsham Coffee,WA6 7AU,53.2945,-2.7286
 Whitmore & White Ltd,WA6 7AU,53.2946,-2.7285
 Tandoori Night ,WA7 1AP,53.3417,-2.7307
 Tekosta Caffe & Pizza Ltd,WA7 1LD,53.3427,-2.7336
+The Ferry Boat Runcorn (Wetherspoon),WA7 1LR,53.3422,-2.7316
+Costa Coffee,WA7 1LX,53.3422,-2.7322
 Costa Coffee,WA7 1LX,53.3423,-2.7327
 Devonshire Bakery ,WA7 1LX,53.3422,-2.7326
 The Norton Arms,WA7 2AD,53.3346,-2.6955
@@ -347,25 +329,23 @@ The Straw Hat,WA7 2EU,53.3273,-2.6977
 Tropicana ,WA7 2EU,53.3273,-2.6977
 Dizzy Dragons Sigtplay Ltd,WA7 2FQ,53.3263,-2.7003
 Full House Bingo Ltd,WA7 2FQ,53.3262,-2.7000
-Pizza Hut Restaurant,WA7 2FQ,53.3262,-2.7000
 Subway Halton Lea,WA7 2FQ,53.3263,-2.7003
-Costa Coffee,WA7 2GX,53.3277,-2.6985
+Costa Coffee,WA7 2GX,53.3270,-2.6982
 FJS RESTAURANT,WA7 2GY,53.3278,-2.6971
 KFC,WA7 2HQ,53.3214,-2.6976
-McDonalds,WA7 2PY,53.3292,-2.7012
-Burger King,WA7 2XP,53.3302,-2.7002
+KFC,WA7 2HQ,53.3255,-2.6968
+McDonald's,WA7 2PE,53.3279,-2.7008
+Beefeater Preston Brook,WA7 3BB,53.3146,-2.6642
 The Bake House,WA7 4PR,53.3331,-2.7400
 Espositos Deli,WA7 4PT,53.3308,-2.7394
 Hope Corner,WA7 4TD,53.3222,-2.7236
-Starbucks,WA7 5AQ,53.3393,-2.7318
 Campanile Runcorn,WA7 5TP,53.3393,-2.7374
-Costa Coffee Drive Thru,WA7 5TW,53.3396,-2.7301
 Subway,WA7 6SA,53.3293,-2.6696
 mersey hotel,WA8 0DT,53.3490,-2.7351
 Velocity Leisure Ltd Widnes,WA8 0GW,53.3715,-2.7033
-Elior UK Staff Restaurant,WA8 0PB,53.3525,-2.7467
-McDonalds,WA8 0TA,53.3630,-2.7218
-Nando's Chickenland,WA8 0TA,53.3638,-2.7221
+Brewers Fayre Widnes,WA8 0GY,53.3607,-2.7251
+McDonald's,WA8 0TA,53.3638,-2.7222
+Nando's,WA8 0TA,53.3618,-2.7238
 QL Partnership Ltd ,WA8 0TA,53.3638,-2.7221
 SUPERIOR ESPRESSO BAR,WA8 0TG,53.3548,-2.7357
 EIGHT TOWERS,WA8 3RH,53.3788,-2.7008
@@ -378,8 +358,8 @@ Unicorn Inn,WA8 5QF,53.3886,-2.7634
 The Dandelion Tavern ,WA8 5QG,53.3893,-2.7609
 Bangal Spice ,WA8 6AD,53.3632,-2.7308
 Pizza Hut,WA8 6AD,53.3632,-2.7308
-McDonalds,WA8 6AF,53.3634,-2.7314
 McDonald's Asda Widnes,WA8 6AH,53.3644,-2.7310
+McDonald's,WA8 6AH,53.3653,-2.7304
 SAN MARINO ITALIAN BAR & RESTAURANT ,WA8 6AX,53.3667,-2.7275
 Tea For Two,WA8 6AX,53.3665,-2.7284
 Arroy Thai Restaurant,WA8 6AZ,53.3669,-2.7280
@@ -388,14 +368,14 @@ The Coffee House Widnes,WA8 6BJ,53.3675,-2.7265
 Subway Widnes,WA8 6BL,53.3674,-2.7262
 Baltic Pearl,WA8 6DJ,53.3622,-2.7298
 The Gingerbread Tea House,WA8 6JS,53.3698,-2.7250
-JD Wetherspoons (the premier),WA8 6LG,53.3712,-2.7221
+The Premier Widnes (Wetherspoon),WA8 6LB,53.3704,-2.7244
 Esposito's in the Park,WA8 6QS,53.3741,-2.7205
 Mangobean,WA8 6UD,53.3681,-2.7248
-McDonalds,WA8 7AP,53.3617,-2.7372
+McDonald's,WA8 7AP,53.3616,-2.7406
 CookHouse Pub & Carvery,WA8 7ER,53.3704,-2.7413
 The Crown Inn,WA8 7TE,53.3754,-2.7332
-Costa Coffee,WA8 7TN,53.3666,-2.7259
-KFC,WA8 7TN,53.3666,-2.7259
+Costa Coffee,WA8 7TN,53.3666,-2.7251
+KFC,WA8 7TN,53.3655,-2.7247
 desii,WA8 7TR,53.3613,-2.7309
 Chi Nar Garden,WA8 8WN,53.3496,-2.7746
 The Upton Tavern,WA8 9AF,53.3845,-2.7428
@@ -405,11 +385,10 @@ Subway,WA8 9DU,53.3818,-2.7482
 Ring O Bells,WA8 9HU,53.3844,-2.7293
 Saffron Indian Cuisine,WA8 9LQ,53.3811,-2.7269
 Halabala,WA9 1AH,53.4519,-2.7227
-Burger King,WA9 1JF,53.4441,-2.7333
+KFC,WA9 1JB,53.4510,-2.7284
+Costa Coffee,WA9 1JF,53.4449,-2.7333
 Subway Ravenhead Retail Park ,WA9 1JF,53.4441,-2.7333
-Costa Coffee,WA9 1JJ,53.4500,-2.7277
-Dunelm Mill,WA9 1JJ,53.4500,-2.7277
-Costa Coffee,WA9 3DA,53.4405,-2.7195
+Costa Coffee,WA9 1JJ,53.4498,-2.7262
 Junction Inn,WA9 3JL,53.4345,-2.6995
 Cafe express,WA9 3JN,53.4352,-2.7016
 Station House Cafe,WA9 3LA,53.4339,-2.7000
@@ -417,10 +396,9 @@ Algrante coffee shop cafe,WA9 4BZ,53.4199,-2.7242
 Bull & Dog Hotel ,WA9 4JY,53.4264,-2.7248
 Mellors Catering Services Ltd,WA9 4PR,53.4179,-2.7362
 Clock Face Hotel    ,WA9 4QS,53.4175,-2.7115
+Beefeater Micklehead Green,WA9 4TT,53.4176,-2.7449
 Reeve Court,WA9 5AG,53.4278,-2.7611
-Elior UK,WA9 5AX,53.4269,-2.7330
 Sherdley Park Golf Trading Ltd,WA9 5DE,53.4344,-2.7368
-McDonalds Restaurant,WA9 5DT,53.4415,-2.7315
 Brownedge pub.co limited,WA9 5JR,53.4305,-2.7614
 Ei's bistro/bikers bistro,WA9 5PE,53.4362,-2.7592
 The Haven Centre,WA9 5QS,53.4361,-2.7548
@@ -431,8 +409,11 @@ Maxwell’s ,WN4 9AF,53.4871,-2.6387
 Bengal Curry Pot,WN4 9AG,53.4865,-2.6373
 Chinese Garden restaurant ,WN4 9AG,53.4865,-2.6373
 KFC - ASHTON,WN4 9AG,53.4865,-2.6372
+KFC,WN4 9AG,53.4865,-2.6372
 PRIMO RESTAURANT,WN4 9AL,53.4865,-2.6382
 Costa Coffee - Ashton in Makerfield,WN4 9AN,53.4864,-2.6366
+Costa Coffee,WN4 9AN,53.4861,-2.6352
+The Sir Thomas Gerard AshtoninMakerfield (Wetherspoon),WN4 9AN,53.4876,-2.6369
 Green Cardamom ,WN4 9BJ,53.4894,-2.6387
 The Old Band House Ltd,WN4 9BJ,53.4894,-2.6387
 Market Kitchen Limited,WN4 9PL,53.4856,-2.6395
@@ -441,6 +422,7 @@ Bobs Chicken & Shakes Limited T/A Billy Bobz Chicken & Shakes ,WN7 1DR,53.4970,-
 Pizza Hut,WN7 1DR,53.4970,-2.5186
 Pizza Hut,WN7 1DR,53.4973,-2.5186
 The Coal Room Ltd,WN7 1DR,53.4970,-2.5186
+The Thomas Burke Leigh (Wetherspoon),WN7 1QR,53.4994,-2.5185
 The Bowling Green ,WN7 2LD,53.4942,-2.4956
 Leigh Cricket Tennis & Bowling Club,WN7 3LH,53.4850,-2.5227
 Robin Hood,WN7 3PA,53.4799,-2.5390
@@ -448,27 +430,25 @@ The Greyhound Hotel,WN7 3XQ,53.4808,-2.5012
 Maximillians ,WN7 4AA,53.4967,-2.5206
 Uncle stes diner,WN7 4AA,53.4967,-2.5207
 Perola Do Mar,WN7 4AN,53.4981,-2.5252
-Nando's,WN7 4BA,53.4976,-2.5220
 Pitch Side Brasserie at Leigh Sports Village,WN7 4JY,53.4895,-2.5311
 Bradshawgate Cafe,WN7 4LA,53.4961,-2.5171
 SCRUMPTIOUS,WN7 4LP,53.4962,-2.5191
 BJs Bingo,WN7 4LQ,53.4942,-2.5183
 All or Muffin,WN7 4LZ,53.4959,-2.5163
 McDonald's Leigh Town Centre,WN7 4NB,53.4965,-2.5172
-McDonalds Restaurants Ltd,WN7 4NB,53.4965,-2.5172
 Subway,WN7 4NB,53.4965,-2.5172
 Health Shack,WN7 4ND,53.4962,-2.5138
 Twentymans ,WN7 4ND,53.4962,-2.5141
 Coffee Bar,WN7 4NP,53.4959,-2.5145
+Nando's,WN7 4PE,53.4932,-2.5158
 Caffe dolce,WN7 4PG,53.4954,-2.5172
 Costa Coffee - Leigh Spinning Gate,WN7 4PG,53.4955,-2.5166
-Costa Coffee Leigh,WN7 4PG,53.4954,-2.5172
+Costa Coffee,WN7 4PG,53.4952,-2.5175
 Kathryn's Cafe,WN7 4PG,53.4955,-2.5166
 Spinning Slots,WN7 4PG,53.4954,-2.5172
 nevison country inn,WN7 4QE,53.4942,-2.5505
-Costa Coffee,WN7 5SJ,53.4995,-2.5278
+Costa Coffee,WN7 5SJ,53.4988,-2.5281
 KFC - LEIGH,WN7 5SJ,53.4995,-2.5278
-KFC,WN7 5SJ,53.4995,-2.5278
+KFC,WN7 5SJ,53.4994,-2.5279
 McDonald's Parsonage Way,WN7 5SJ,53.4995,-2.5278
-McDonalds,WN7 5SJ,53.4995,-2.5278
 Subway Parsonage,WN7 5SJ,53.4995,-2.5278

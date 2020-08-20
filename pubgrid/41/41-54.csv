@@ -1,10 +1,5 @@
 name,postcode,lat,lon
-Burger King - Southbound,CV35 0AA,52.2165,-1.5054
-KFC - Northbound,CV35 0AA,52.2165,-1.5054
-KFC - Southbound,CV35 0AA,52.2165,-1.5054
 Starbucks - Northbound,CV35 0AA,52.2165,-1.5054
-Starbucks - Southbound,CV35 0AA,52.2165,-1.5054
-Starbucks Drive Thru,CV35 0AA,52.2165,-1.5054
 Lighthorne Pavilion Cafe,CV35 0AD,52.2035,-1.5018
 British Motor Museum,CV35 0BJ,52.1889,-1.4810
 THE ANTELOPE INN,CV35 0BX,52.1995,-1.5046
@@ -27,12 +22,13 @@ El Cafe at Sheldon's Wine Cellars,CV36 4EN,52.0611,-1.6243
 The Howard Arms (Ilmington) Ltd,CV36 4LT,52.0912,-1.6910
 The Red Lion ,CV36 4LX,52.0904,-1.6904
 The Norman Knight,CV36 5PE,52.0100,-1.5414
-Pizza Hut Restaurant,CV37 0HZ,52.2013,-1.7118
+Thyme,CV37 0AZ,52.1973,-1.7118
 SAIMISH FOOD LTD T/A Muffin Break,CV37 0HZ,52.2007,-1.7109
 Subway Maybird,CV37 0HZ,52.2007,-1.7109
 Huffkins  1 Old red Lion Court  Stratford upon Avon,CV37 6AB,52.1924,-1.7050
+McDonald's,CV37 6AB,52.1926,-1.7044
 McDonalds,CV37 6AB,52.1924,-1.7050
-Costa Coffee House,CV37 6AN,52.1932,-1.7065
+Costa Coffee,CV37 6AD,52.1929,-1.7064
 Bardia's,CV37 6AU,52.1920,-1.7065
 Fresh Baguette Bar,CV37 6AU,52.1920,-1.7065
 Giggling Squid,CV37 6AU,52.1920,-1.7065
@@ -41,6 +37,7 @@ Hooray's British Gelato Kitchen,CV37 6AU,52.1920,-1.7065
 Starbucks,CV37 6AU,52.1920,-1.7065
 Yorks Cafe & coffee roasters,CV37 6AU,52.1920,-1.7065
 AVA CATERING LTD.,CV37 6EE,52.1918,-1.7054
+The Golden Bee StratforduponAvon (Wetherspoon),CV37 6EE,52.1917,-1.7057
 Bouche Bakehouse Ltd,CV37 6EF,52.1914,-1.7056
 LOXLEYS STRATFORD LTD,CV37 6EF,52.1913,-1.7055
 Lambs Restaurant,CV37 6EF,52.1913,-1.7055
@@ -48,36 +45,30 @@ The Fourteas TeaRoom ,CV37 6EF,52.1914,-1.7056
 The Opposition,CV37 6EF,52.1913,-1.7055
 The Vintner Wine Bar,CV37 6EF,52.1913,-1.7055
 Thespians Indian Restaurant ,CV37 6EF,52.1913,-1.7055
-Wildwood Kitchen,CV37 6EF,52.1913,-1.7055
-Zizzi,CV37 6EF,52.1913,-1.7055
 Edward Moon,CV37 6EP,52.1911,-1.7077
 Hussain's Indian Cuisine,CV37 6EP,52.1911,-1.7077
 Everyman Cinema,CV37 6EX,52.1923,-1.7079
 Kungfu Stratford Limited T/A Kungfu Oriental Buffet,CV37 6EX,52.1923,-1.7079
 MOR Bakery,CV37 6EX,52.1923,-1.7078
-Nando's,CV37 6EX,52.1923,-1.7079
 Veeno Stratford-Upon-Avon,CV37 6EX,52.1923,-1.7079
-Coffee#1 Limited,CV37 6EY,52.1932,-1.7078
-Pret A Manger,CV37 6EY,52.1932,-1.7078
 Honey Blue,CV37 6GJ,52.1918,-1.7052
 Thai Kitchen Stratford upon Avon Ltd,CV37 6GJ,52.1918,-1.7052
 R & T Restaurants Ltd,CV37 6HB,52.1897,-1.7089
 Sabai Sabai (stratford) Ltd,CV37 6JF,52.1926,-1.7087
 CAFFE VINERIA WOOD STREET,CV37 6JG,52.1928,-1.7079
 The Burger Priest Stratford,CV37 6JP,52.1920,-1.7085
+Nando's,CV37 6JW,52.1920,-1.7084
 The Old Thatch Tavern,CV37 6LE,52.1930,-1.7112
 Avon Spice ,CV37 6LF,52.1934,-1.7110
 L & A restaurant Ltd T/A Stratford Chinese Cuisine,CV37 6LF,52.1934,-1.7110
 Diana's Tea Room,CV37 6LN,52.1917,-1.7088
 The Queens Head ,CV37 6LN,52.1917,-1.7088
 Hotel Du Vin Stratford Upon Avon,CV37 6LU,52.1920,-1.7108
-Pizza Express Plc,CV37 6LW,52.1915,-1.7088
 Sorrento Restaurant... a taste of Italy,CV37 6LW,52.1915,-1.7088
 The Keys ,CV37 6LW,52.1916,-1.7088
 El Greco,CV37 6NE,52.1933,-1.7098
 Plantarium Cafe,CV37 6NF,52.1936,-1.7090
 HR Coffee Bar ,CV37 6NL,52.1937,-1.7097
-Cafe Nero,CV37 6PT,52.1931,-1.7069
 HOBSONS PATISSERIES LTD,CV37 6PT,52.1932,-1.7075
 Subway,CV37 6PT,52.1932,-1.7075
 The Cornish Bakery,CV37 6PT,52.1932,-1.7075
@@ -88,7 +79,9 @@ Bensons Restaurant and Tea Rooms,CV37 6QW,52.1940,-1.7088
 Box Brownie Coffee,CV37 6QW,52.1940,-1.7088
 The Boston Tea Party Group Limited,CV37 6QW,52.1940,-1.7088
 THE ONE ELM,CV37 6QZ,52.1944,-1.7077
+The Kitchen,CV37 6UQ,52.1940,-1.7038
 Crowne Plaza Stratford,CV37 6YR,52.1932,-1.7005
+Table Table Red Lion - Warwickshire,CV37 6YW,52.1934,-1.7035
 Cox's Yard,CV37 6YY,52.1936,-1.7018
 Riverside Bar & Restaurant,CV37 7AB,52.2010,-1.6820
 MR CHANS RESTAURANT LTD,CV37 7AZ,52.2002,-1.6762
@@ -124,35 +117,34 @@ MERCURE WHATELY HALL HOTEL,OX16 0AN,52.0609,-1.3411
 Woodgreen Leisure Centre,OX16 0HS,52.0618,-1.3507
 La Foglia Ltd,OX16 0TB,52.0620,-1.3400
 the church house,OX16 0TB,52.0620,-1.3400
-Buzz Bingo,OX16 0TH,52.0632,-1.3394
 White Horse,OX16 0TH,52.0628,-1.3390
 Thai Orchid Restaurant,OX16 0TL,52.0620,-1.3394
 Compass Group At William Morris County Primary School,OX16 0UZ,52.0674,-1.3646
 Purple Mango,OX16 1ER,52.0793,-1.3470
+Costa Coffee,OX16 1LX,52.0733,-1.3431
 KFC,OX16 1LX,52.0733,-1.3410
-Pizza Hut Restaurant,OX16 1LX,52.0743,-1.3420
+McDonald's,OX16 1RH,52.0719,-1.3438
 McDonalds Restaurants Ltd,OX16 1RH,52.0757,-1.3418
 The Ally Cafe,OX16 2AA,52.0816,-1.3293
-Waterfall Elior Limited,OX16 2AU,52.0642,-1.3384
 Spiceball Leisure Centre,OX16 2BW,52.0647,-1.3316
 The Three Pigeons Inn,OX16 2ED,52.0638,-1.3395
 Tom's Diner ,OX16 2PQ,52.0638,-1.3334
 Hillier Garden Centre Banbury,OX16 2PR,52.0648,-1.3369
 Connect Catering,OX16 2RE,52.0671,-1.3375
+Costa Coffee,OX16 3AB,52.0767,-1.3185
+McDonald's,OX16 3AB,52.0763,-1.3175
 McDonalds Restaurants Ltd,OX16 3AB,52.0729,-1.3184
-Starbucks,OX16 3AB,52.0760,-1.3188
 Compass Group UK And Ireland At Karcher,OX16 3EL,52.0729,-1.3184
 Norbar Torque Tools Ltd,OX16 3JU,52.0746,-1.3242
 The pepperpot ,OX16 3WT,52.0671,-1.3201
-Miller & Carter Banbury,OX16 4AE,52.0717,-1.3170
+Thyme,OX16 4AE,52.0717,-1.3168
 THE BELL,OX16 4QJ,52.0630,-1.3265
 Reg's Cafe,OX16 4SP,52.0622,-1.3173
 Banbury Bowl,OX16 5BH,52.0607,-1.3352
 Banbury Fish Bar,OX16 5BN,52.0611,-1.3345
-Pizza Express,OX16 5ET,52.0602,-1.3391
 Pizza Hut Delivery,OX16 5EX,52.0596,-1.3391
-Cafe Nero,OX16 5JE,52.0620,-1.3352
 Jennys Cafe,OX16 5JE,52.0620,-1.3352
+The Exchange Banbury (Wetherspoon),OX16 5LA,52.0606,-1.3388
 Reg's Cafe,OX16 5LS,52.0614,-1.3372
 The Wine Vaults,OX16 5LW,52.0622,-1.3369
 Jool,OX16 5LY,52.0620,-1.3386
@@ -163,8 +155,8 @@ Ye Olde Reine Deer Inn,OX16 5NA,52.0622,-1.3384
 ALSO KNOWN AS,OX16 5NB,52.0626,-1.3370
 New Mogul ,OX16 5NB,52.0626,-1.3370
 Siam house,OX16 5NB,52.0626,-1.3370
-Burger King,OX16 5NW,52.0623,-1.3344
 MUFFIN BREAK,OX16 5UH,52.0628,-1.3350
+Costa Coffee,OX16 5UW,52.0631,-1.3338
 The Castle at EdgeHill,OX16 6DJ,52.0615,-1.3274
 Banbury House Hotel,OX16 9AH,52.0566,-1.3395
 Wykham Park Retail Ltd,OX16 9UP,52.0392,-1.3527

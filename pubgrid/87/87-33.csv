@@ -2,12 +2,13 @@ name,postcode,lat,lon
 THE DUKE,KA1 1BL,55.6098,-4.4996
 DCl Ayrshire Ltd -t/a Clansmann,KA1 1BS,55.6096,-4.4991
 Rock Diner and Aces,KA1 1DU,55.6079,-4.4983
-BaxterStorey Ltd,KA1 1ED,55.6073,-4.4997
 Bar Luca,KA1 1HA,55.6093,-4.4980
 GOLDBERRY ARMS,KA1 1HA,55.6093,-4.4980
 Subway,KA1 1HA,55.6093,-4.4980
 Coffeepress Ltd,KA1 1HJ,55.6092,-4.4989
 The Wynd Coffee Shop,KA1 1HN,55.6095,-4.4985
+Costa Coffee,KA1 1HZ,55.6103,-4.4967
+The Wheatsheaf Inn Kilmarnock (Wetherspoon),KA1 1JG,55.6111,-4.4971
 Coffee Trader,KA1 1LN,55.6103,-4.4959
 A&S R LIMITED ,KA1 1PH,55.6057,-4.4969
 Geppettos,KA1 1PH,55.6055,-4.4969
@@ -15,22 +16,21 @@ Meat in the Middle ,KA1 1PH,55.6057,-4.4969
 THE LONGHOUSE,KA1 1PH,55.6055,-4.4969
 The Park Hotel ,KA1 1UR,55.6029,-4.5098
 Brass and granite,KA1 2DD,55.6087,-4.5016
-Compass Group UK (JCP),KA1 2DF,55.6092,-4.5023
 The Portmann Hotel,KA1 2DL,55.6079,-4.5039
 The Killie Club,KA1 2DP,55.6054,-4.5086
 MEMORY LANE,KA1 2QS,55.6118,-4.5053
+Cookhouse + Pub Cotton Mill,KA1 2RS,55.6030,-4.5316
 Dick Institute Cafe,KA1 3BU,55.6084,-4.4896
 Paris Match Cafe,KA1 3DD,55.6073,-4.4965
 Prince's Cafe,KA1 3DD,55.6073,-4.4965
 Oceans 11,KA1 3DG,55.6065,-4.4966
 McDonald's,KA1 3HT,55.6042,-4.4963
-Burger King,KA1 3XB,55.6001,-4.4899
 KFC,KA1 3XB,55.6001,-4.4899
-Kentucky Fried Chicken (KFC),KA1 3XB,55.6001,-4.4899
-Powerleague Soccer Centre,KA1 3XF,55.6014,-4.4876
+Burger King,KA1 3XF,55.6014,-4.4896
+KFC,KA1 3XL,55.5984,-4.4881
 Maggie's Bar & Kitchen,KA1 4AH,55.6008,-4.4966
 McDonald's,KA1 5LQ,55.5971,-4.4719
-McDonalds,KA1 5LQ,55.5971,-4.4719
+McDonald's,KA1 5LQ,55.5973,-4.4726
 Subway ,KA1 5LQ,55.5971,-4.4719
 Hayes of Symington Ltd,KA1 5PJ,55.5559,-4.5415
 The Wheatsheaf Inn (Symington) Ltd,KA1 5QB,55.5489,-4.5628
@@ -70,9 +70,10 @@ The Failford Inn ,KA5 5TF,55.5050,-4.4410
 THE SORN INN,KA5 6HU,55.5109,-4.2913
 The Jaggy Nettle,KA5 6JB,55.5103,-4.2869
 ENTERKINE HOUSE HOTEL,KA6 5AL,55.4811,-4.5005
-KFC,KA8 9BF,55.4798,-4.5927
-Pizza Hut Restaurant,KA8 9BF,55.4798,-4.5927
+Costa Coffee,KA8 9BF,55.4790,-4.5951
 Subway,KA8 9BF,55.4789,-4.5948
+Thyme,KA8 9RT,55.4781,-4.5882
 Tim Hortons,KA8 9SH,55.4763,-4.5885
-Baxterstorey Ltd,KA9 2NR,55.4977,-4.5923
+KFC,KA8 9SS,55.4786,-4.5961
+Brewers Fayre Monkton Lodge,KA9 2RJ,55.5229,-4.5897
 Adamton Country House Hotel,KA9 2SB,55.5149,-4.5771

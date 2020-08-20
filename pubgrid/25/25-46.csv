@@ -8,28 +8,25 @@ Boswells Cafe,BA20 1EY,50.9422,-2.6292
 Cow and Apple  Yeovil,BA20 1HE,50.9423,-2.6331
 Palmers Catering Limited,BA20 1HY,50.9435,-2.6295
 SUGAR CANE 2018 LTD,BA20 1JW,50.9426,-2.6265
+Costa Coffee,BA20 1LE,50.9415,-2.6312
 The Gorge Cafe,BA20 1LH,50.9419,-2.6278
-JD Wetherspoon Plc (William Dampier),BA20 1LN,50.9414,-2.6271
+The William Dampier Yeovil (Wetherspoon),BA20 1LN,50.9417,-2.6264
+Beefeater Yeovil Town Centre,BA20 1LT,50.9410,-2.6254
 Kaspa's (NW) Ltd,BA20 1LT,50.9411,-2.6270
 McGREG Ltd,BA20 1LU,50.9410,-2.6278
 Pop Restaurant Ltd,BA20 1LX,50.9410,-2.6290
-Burger King,BA20 1LZ,50.9414,-2.6317
+Burger King,BA20 1LZ,50.9414,-2.6319
 Rhino Fast Food Cafe,BA20 1NA,50.9421,-2.6258
 Kazbar,BA20 1NB,50.9416,-2.6253
-Nandos,BA20 1NB,50.9416,-2.6253
 Tamburino Restaurant,BA20 1NB,50.9416,-2.6253
 TASLIM FOODS LIMITED,BA20 1NE,50.9418,-2.6255
-Hollywood Bowl Group,BA20 1NP,50.9404,-2.6255
-Pizza Hut Restaurant,BA20 1NP,50.9404,-2.6255
 A&M CATERING LIMITED,BA20 1PE,50.9409,-2.6297
 daniel sushi,BA20 1PF,50.9406,-2.6298
 The Ox Oriental Connexions Restaurant  Bar and Take Away,BA20 1PQ,50.9409,-2.6313
 Union Street Brasserie,BA20 1PQ,50.9408,-2.6313
 THE GREEN ROOM,BA20 1PW,50.9411,-2.6320
 The Gateway Coffee Shop,BA20 1QN,50.9375,-2.6304
-Cafe Nero,BA20 1RQ,50.9412,-2.6324
 746 Yeovil McDonalds - Lambtrad Ltd T/A McDonalds,BA20 2AU,50.9352,-2.6485
-Coffee Shop - Compass Group Uk & Ireland,BA20 2AZ,50.9384,-2.6460
 Compass Group UK Box 9 & Ireland at Leonardo,BA20 2AZ,50.9384,-2.6460
 Compass Group Uk & Ireland (Shop 1),BA20 2AZ,50.9384,-2.6460
 Compass Group Uk & Ireland (Shop 3),BA20 2AZ,50.9384,-2.6460
@@ -42,7 +39,6 @@ Compass Group Uk & Ireland (Shop 2),BA20 2YB,50.9349,-2.6517
 The Apple Tree Restaurant,BA21 3NU,50.9581,-2.6532
 Carpenters Arms,BA21 3PX,50.9657,-2.6720
 The Arrow,BA21 3TL,50.9499,-2.6645
-STARBUCKS COFFEE COMPANY,BA21 5BT,50.9410,-2.6068
 Starbucks Babylon Hill,BA21 5BT,50.9410,-2.6068
 Pen Mill Hotel  Bar & Restaurant,BA21 5DB,50.9449,-2.6158
 Armchair Adventurer cafe,BA21 5EA,50.9470,-2.6100
@@ -51,13 +47,13 @@ Mildmay arms,BA22 7NJ,51.0223,-2.5772
 Lamb and Lark,BA22 8EG,50.9958,-2.6547
 Sonni’s Cafe,BA22 8HZ,50.9523,-2.6795
 Podymore inn,BA22 8JF,51.0232,-2.6468
-Podimore Burger King,BA22 8JG,51.0236,-2.6492
 NUOVO ITALIA LTD,BA22 8LN,51.0016,-2.6821
 The Ilchester Arms Hotel,BA22 8LN,51.0016,-2.6821
 THE GRILL HOUSE,BA22 8PF,50.9823,-2.7171
 The Crown and Victoria Inn Ta Mark Hillyard & Isabel Thomas,BA22 8PZ,50.9752,-2.7119
 Dive Academy,BA22 8UU,50.9529,-2.6772
-KFC,BA22 8YQ,50.9457,-2.6714
+Table Table Airfield Tavern,BA22 8UX,50.9419,-2.6706
+KFC,BA22 8YQ,50.9448,-2.6702
 Subway,BA22 8YQ,50.9457,-2.6714
 The Royal George,BA22 9AN,50.9195,-2.6860
 The Village Cafe,BA22 9HY,50.9143,-2.6575
@@ -100,6 +96,7 @@ Sherborne Station Cafe ,DT9 3NB,50.9439,-2.5129
 Tamburino Gold,DT9 3NL,50.9454,-2.5155
 The Digby Tap,DT9 3NS,50.9453,-2.5162
 OLIVER'S COFFEE HOUSE,DT9 3PU,50.9493,-2.5164
+Costa Coffee,DT9 3PX,50.9489,-2.5165
 Gamespod,DT9 3RQ,50.9419,-2.5209
 newell restaurant & rooms ,DT9 4EP,50.9505,-2.5190
 Royal Thai Orchid,DT9 4JD,50.9551,-2.5188
@@ -112,7 +109,6 @@ Tippling Philosopher,DT9 5AQ,50.9663,-2.4622
 The Clockspire,DT9 5BA,50.9660,-2.4662
 The Gainsborough Arms,DT9 5BB,50.9681,-2.4704
 The Elms,DT9 5JW,50.9287,-2.4916
-ENGLISH HERITAGE,DT9 5NR,50.9453,-2.5051
 The Walled Garden Restaurant,DT9 5NR,50.9453,-2.5051
 Hunters Moon,DT9 5QN,50.8652,-2.4719
 Kings Arms,DT9 6QD,50.9158,-2.5648
@@ -135,7 +131,7 @@ The Cat Head Inn,TA14 6TT,50.9296,-2.7590
 kings arms inn,TA15 6UU,50.9506,-2.7183
 Phelips Arms,TA15 6XB,50.9494,-2.7155
 Crooked Swan - The Swan Hotel,TA18 7HR,50.8848,-2.7964
-Costa Coffee,TA18 7JS,50.8839,-2.7953
+Costa Coffee,TA18 7JS,50.8840,-2.7951
 Jurassic Coast Coffee Ltd t/a Costa Coffee Crewkerne,TA18 7JS,50.8839,-2.7953
 Bilbys,TA18 7JY,50.8842,-2.7963
 The George Hotel,TA18 7LP,50.8849,-2.7952

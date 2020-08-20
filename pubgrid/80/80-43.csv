@@ -1,9 +1,11 @@
 name,postcode,lat,lon
 Subway Kingstown,CA3 0BJ,54.9260,-2.9461
 McDonald's Restaurants,CA3 0ET,54.9258,-2.9478
-Compass Group UK & Ireland Ltd - Cafe,CA3 0JQ,54.9287,-2.9550
+McDonald's,CA3 0ET,54.9263,-2.9476
 Stobart Truckstops LTD,CA3 0JR,54.9284,-2.9498
+Thyme,CA3 0JR,54.9284,-2.9472
 The Crown and Thistle,CA6 4AA,54.9453,-3.0012
+Costa Coffee,CA6 4HA,54.9517,-2.9787
 Metal Bridge Inn,CA6 4HD,54.9740,-3.0090
 The Topiary Coffee Shop,CA6 4JB,54.9310,-2.9200
 Walby Farm Park,CA6 4QL,54.9344,-2.8794
@@ -20,16 +22,12 @@ Cottage & Glendale Holiday Park,CA7 5DJ,54.9384,-3.1845
 The Station,DG11 3AU,55.0247,-3.1368
 The Village Inn,DG11 3LZ,55.0446,-3.1958
 The Green Cafe,DG12 6NH,54.9847,-3.1842
-Nando's,DG16 5AQ,54.9944,-3.0673
 Hunters Lodge Hotel,DG16 5DL,54.9959,-3.0633
 The Gretna Inn,DG16 5DN,54.9954,-3.0607
 The Solway Lodge Hotel,DG16 5DN,54.9954,-3.0607
 Gables Hotel,DG16 5DQ,54.9964,-3.0741
 Gretna Hall Hotel  Gretna Green Ltd,DG16 5DY,55.0038,-3.0659
 Smiths Hotel  Gretna Green Ltd,DG16 5EA,55.0052,-3.0620
-Costa Coffee,DG16 5GG,54.9968,-3.0572
-Pizza Express,DG16 5GG,54.9968,-3.0572
-Burger King,DG16 5HQ,55.0103,-3.0845
-KFC,DG16 5HQ,55.0103,-3.0845
-Starbucks Coffee,DG16 5HQ,55.0103,-3.0845
+Costa Coffee,DG16 5GG,54.9970,-3.0588
+KFC,DG16 5HQ,55.0081,-3.0821
 Gretna Chase Hotel,DG16 5JB,54.9900,-3.0484

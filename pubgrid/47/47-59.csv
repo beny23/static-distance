@@ -1,15 +1,15 @@
 name,postcode,lat,lon
 0rbis Oakham,LE15 6AA,52.6707,-0.7297
 COSTA COFFEE,LE15 6AA,52.6707,-0.7297
+Costa Coffee,LE15 6AA,52.6701,-0.7299
 EVEREST LOUNGE,LE15 6AA,52.6707,-0.7297
 The Daily Grind,LE15 6AA,52.6707,-0.7297
 Baobab cafe,LE15 6AJ,52.6700,-0.7302
-Wildwood Kitchen,LE15 6AJ,52.6700,-0.7302
+The Captain Noel Newton Oakham (Wetherspoon),LE15 6AJ,52.6702,-0.7312
 Strays Coffee,LE15 6AL,52.6695,-0.7286
 The Admiral Hornblower ,LE15 6AS,52.6699,-0.7311
 Kavanagh's Tearoom,LE15 6DR,52.6706,-0.7282
 Brook Whipper-In Hotel,LE15 6DT,52.6699,-0.7275
-Caffe Nero,LE15 6DT,52.6700,-0.7275
 The Lord Nelson,LE15 6DT,52.6700,-0.7275
 Fika,LE15 6EA,52.6689,-0.7272
 Rutland Balti House,LE15 6EA,52.6689,-0.7272
@@ -36,13 +36,13 @@ Falcon Hotel Ltd,LE15 9PY,52.5884,-0.7206
 The Crown,LE15 9PY,52.5884,-0.7206
 Scandimania Coffee House,LE15 9PZ,52.5882,-0.7203
 The Lake Isle,LE15 9PZ,52.5882,-0.7203
+Costa Coffee,LE15 9QD,52.5881,-0.7230
 Don Paddy's,LE15 9QH,52.5877,-0.7220
 Aldwinckles Coffee House Ltd,LE16 7AA,52.4792,-0.9217
-Zizzi,LE16 7AF,52.4796,-0.9225
 Gallones Market Harborough,LE16 7AG,52.4785,-0.9208
 Insomnia Market Harborough Ltd.,LE16 7AG,52.4785,-0.9208
+Costa Coffee,LE16 7DR,52.4774,-0.9188
 KFC - Market Harborough ,LE16 7DR,52.4774,-0.9188
-Pizza Express,LE16 7DR,52.4774,-0.9188
 Han Chinese Restaurant,LE16 7DS,52.4782,-0.9184
 Starbucks,LE16 7DS,52.4782,-0.9184
 simply han ltd t/as taste dot social,LE16 7DS,52.4782,-0.9184
@@ -55,18 +55,18 @@ SWEET NAGA CHILLI LTD,LE16 7DU,52.4779,-0.9177
 The Shoulder of Mutton,LE16 7EU,52.4922,-0.9039
 WELTONS,LE16 7EU,52.4922,-0.9039
 McDonald's Restaurant,LE16 7FD,52.5113,-0.9427
-McDonalds Restaurant Ltd,LE16 7FD,52.5113,-0.9427
+McDonald's,LE16 7FD,52.5110,-0.9415
+Table Table Langton Inn,LE16 7FD,52.5117,-0.9418
 The Red Lion Great Bowden,LE16 7HB,52.4924,-0.9060
 Appleby's,LE16 7LT,52.4783,-0.9202
 Casa Nostra Restaurant,LE16 7LT,52.4783,-0.9202
 Sweet Pea's Tea Room,LE16 7LT,52.4783,-0.9202
+The Sugar Loaf Market Harborough (Wetherspoon),LE16 7NJ,52.4790,-0.9224
 The Three Swans Hotel,LE16 7NJ,52.4785,-0.9223
-Wildwood,LE16 7NJ,52.4785,-0.9223
 Milo's Cafe,LE16 7NL,52.4800,-0.9236
 Rocksalt Bistro,LE16 7NL,52.4800,-0.9236
 53 The Square ltd (T/A Square Cafe Bar,LE16 7PA,52.4779,-0.9204
 Rio Bravo,LE16 7PA,52.4779,-0.9204
-Caffe Nero,LE16 7PE,52.4773,-0.9211
 Foxton Locks Inn,LE16 7RA,52.5011,-0.9824
 The Black Horse,LE16 7RD,52.5016,-0.9720
 THE BELL INN,LE16 7RU,52.5038,-0.9964
@@ -116,15 +116,18 @@ Yahao Chinese Restaurant,NN17 1AE,52.4967,-0.6875
 The Raven Hotel,NN17 1AG,52.4994,-0.6894
 Burger King,NN17 1BH,52.4867,-0.7019
 COSTA COFFEE,NN17 1BH,52.4867,-0.7019
+Costa Coffee,NN17 1BH,52.4866,-0.7035
 a tasca corby,NN17 1EE,52.4954,-0.6973
+The Saxon Crown Corby (Wetherspoon),NN17 1FN,52.4873,-0.6995
 Oriental Fusion,NN17 1JW,52.5016,-0.6933
 Crust N Crumb,NN17 1LJ,52.4966,-0.7061
+KFC,NN17 1NA,52.4844,-0.6977
 Cafe Royale Bistro,NN17 1NG,52.4875,-0.7005
 PEACHES&CO LTD,NN17 1NG,52.4875,-0.7005
 Subway,NN17 1NH,52.4881,-0.7026
 planet coffee (corby) Limited,NN17 1NL,52.4880,-0.7023
 McDonald's Restaurant,NN17 1NQ,52.4876,-0.7032
-McDonalds Restaurant,NN17 1NQ,52.4876,-0.7032
+McDonald's,NN17 1NQ,52.4876,-0.7032
 The Cozy Cafe,NN17 1PB,52.4883,-0.7005
 bewiched coffee,NN17 1PD,52.4866,-0.7006
 Cafe mozart ltd,NN17 1PT,52.4893,-0.7038
@@ -133,23 +136,22 @@ Olive Restaurant & Bar,NN17 1QB,52.4874,-0.7033
 LA FONTE,NN17 1QD,52.4880,-0.7031
 Castle Bingo Corby,NN17 1QE,52.4895,-0.7041
 TJ's Bar & Grill,NN17 1QE,52.4893,-0.7041
-Nandos,NN17 1QG,52.4874,-0.7044
-Prezzo,NN17 1QG,52.4874,-0.7044
 Best Western Rockingham Forest Hotel,NN17 2AE,52.5063,-0.7051
 Sarah's,NN17 2AW,52.5020,-0.7088
 Hungry Hossee ,NN17 2BQ,52.4962,-0.7072
-Starbucks,NN17 3HT,52.4951,-0.6418
 jd's breakfast house,NN17 3JJ,52.4957,-0.6365
 Gravity - Corby,NN17 4AP,52.5111,-0.7022
 Hampton by Hilton Hotel Corby,NN17 4AP,52.5111,-0.7022
 Subway,NN17 4AP,52.5111,-0.7022
+The Samuel Lloyd Corby (Wetherspoon),NN17 4AP,52.5076,-0.7062
 Paula's NMB Catering Paula's diner ,NN17 4AU,52.5100,-0.6932
-Baxterstorey (Weetabix 2),NN17 4AZ,52.5077,-0.6936
 CEVA,NN17 4AZ,52.5076,-0.6933
 McDonald's Restaurant,NN17 5DT,52.4954,-0.6822
-McDonalds Restaurant,NN17 5DT,52.4954,-0.6822
+McDonald's,NN17 5DT,52.4948,-0.6808
 Waterfall Elior,NN18 0QP,52.4845,-0.7119
 Holiday Inn Corby Kettering A43,NN18 8ET,52.4866,-0.6673
 Pizza Hut,NN18 8QT,52.4734,-0.7070
+Beefeater Oakley Hay,NN18 8TJ,52.4593,-0.7349
 McDonald's Restaurant,NN18 8TJ,52.4597,-0.7337
+McDonald's,NN18 8TJ,52.4582,-0.7361
 Hungrymans Cafe ,NN18 9EJ,52.4710,-0.7340

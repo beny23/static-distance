@@ -1,9 +1,8 @@
 name,postcode,lat,lon
-Pret A Manger,RG14 1AA,51.4020,-1.3246
+Pret A Manger,RG14 1AA,51.4024,-1.3245
 Starbucks,RG14 1AA,51.4020,-1.3246
-Caffe Nero,RG14 1AE,51.4034,-1.3248
 McDonald's,RG14 1AE,51.4034,-1.3248
-McDonalds,RG14 1AE,51.4034,-1.3248
+McDonald's,RG14 1AE,51.4041,-1.3249
 Soyami,RG14 1AE,51.4033,-1.3247
 Lebanese House restaurant ,RG14 1AL,51.4037,-1.3252
 Lusso,RG14 1AL,51.4037,-1.3252
@@ -11,9 +10,11 @@ Weavers Coffee Shop,RG14 1AL,51.4037,-1.3252
 Thai Golden Horse,RG14 1AN,51.4048,-1.3251
 GURKHA CHEF LTD,RG14 1AU,51.4059,-1.3249
 Red Peppers,RG14 1AU,51.4059,-1.3249
+Costa Coffee,RG14 1AY,51.4038,-1.3236
 Kings Cafe,RG14 1BA,51.4053,-1.3243
 FUSION DELI NEWBURY,RG14 1BS,51.4019,-1.3274
-Costa Coffee,RG14 1DJ,51.4032,-1.3241
+Costa Coffee,RG14 1DJ,51.4018,-1.3241
+Thyme,RG14 1EE,51.4056,-1.3222
 victoria park cafe ,RG14 1EH,51.4049,-1.3212
 Waterfall Elior Ltd at Willows Edge,RG14 1HJ,51.4083,-1.3165
 Chequers Hotel,RG14 1JB,51.4061,-1.3258
@@ -22,20 +23,17 @@ restaurant Valle D'Oro,RG14 1JG,51.4059,-1.3272
 The Hare and Hounds Hotel,RG14 1QY,51.4103,-1.3457
 Northcroft Leisure Centre,RG14 1RS,51.4029,-1.3311
 Mrs B's Kitchen Cafe,RG14 2AD,51.4033,-1.3175
-Caffe Pausa At Dunelm Mill,RG14 2BP,51.4032,-1.3057
 Pizza Hut,RG14 2BX,51.4054,-1.3155
-CH&Co at Vodafone,RG14 2FN,51.4167,-1.3198
 DONNINGTON GROVE,RG14 2LA,51.4177,-1.3396
 Grass Valley,RG14 2NX,51.4095,-1.2984
 Waterfall Elior Ltd at Birchwood Care Home,RG14 2PP,51.4074,-1.2982
 The Castle,RG14 3AA,51.4179,-1.3285
 Donnington Valley Hotel,RG14 3AG,51.4217,-1.3283
 Donnington Valley Golf Club,RG14 3BG,51.4293,-1.3314
-Pizza Express,RG14 5AA,51.4008,-1.3237
 The Spare Wheel,RG14 5AA,51.4006,-1.3234
 The Sushi Maki,RG14 5AA,51.4007,-1.3235
-Ask Italian,RG14 5AG,51.4014,-1.3233
 Teashop by the canal,RG14 5AS,51.4014,-1.3216
+The Hatchet Inn Newbury (Wetherspoon),RG14 5BD,51.4008,-1.3229
 Arigato Japanese Restaurant and Sushi Bar,RG14 5BE,51.4013,-1.3246
 KING CHARLES PUB,RG14 5BX,51.3996,-1.3222
 Taj of India,RG14 5BX,51.3996,-1.3222
@@ -46,9 +44,8 @@ The Dolphin ,RG14 5DT,51.3988,-1.3261
 Jaipur Indian cuisine,RG14 5DY,51.3983,-1.3264
 KHONKAEN THAI CUISINE,RG14 5DY,51.3983,-1.3264
 Boswells Cafe,RG14 5EN,51.4000,-1.3241
-Nando's Chickenland Ltd,RG14 5EN,51.4000,-1.3241
+Nando's,RG14 5EN,51.3993,-1.3231
 7 Bone Burger Co - Newbury,RG14 5EX,51.4015,-1.3240
-Caffe Nero plc,RG14 5HB,51.4008,-1.3240
 The Newbury ,RG14 5HB,51.4008,-1.3240
 Big Tongue Oriental Cafe,RG14 5LL,51.4005,-1.3247
 The Ugly Duckling Pottery Painting Coffee House,RG14 5LL,51.4000,-1.3253
@@ -60,12 +57,12 @@ The Gun,RG14 6NE,51.3826,-1.3403
 NuMee LTD,RG14 6QW,51.3825,-1.3409
 FAIRCLOSE DAY CENTRE,RG14 7BH,51.3964,-1.3256
 Waterfall Elior Ltd at Phoenix Resource Centre,RG14 7EB,51.3887,-1.3220
-Costa Coffee At Tesco Extra,RG14 7HU,51.3851,-1.3180
-Pizza Hut Restaurant,RG14 7HU,51.3851,-1.3180
-Starbucks,RG14 7HU,51.3863,-1.3182
-Burger King (UK) Limited,RG14 7HZ,51.3973,-1.3198
+Costa Coffee,RG14 7HB,51.3830,-1.3183
+Thyme,RG14 7HL,51.3817,-1.3182
+Costa Coffee,RG14 7HU,51.3862,-1.3179
+McDonald's,RG14 7HU,51.3847,-1.3193
+Burger King,RG14 7HZ,51.3966,-1.3198
 Plough on the Green,RG14 7JF,51.3931,-1.3162
-Chartwell & Starbucks @ Newbury College,RG14 7TD,51.3825,-1.3231
 The Pantry,RG18 0UF,51.4667,-1.2062
 The Royal Oak,RG18 0UF,51.4666,-1.2060
 West Berkshire Brewery Taproom & Kitchen,RG18 0XT,51.4629,-1.2026
@@ -77,19 +74,15 @@ The Spotted Dog,RG18 9PR,51.4238,-1.2633
 The Castle Inn,RG18 9PS,51.4246,-1.2652
 Fox Inn,RG18 9RB,51.4551,-1.2682
 Hillier Garden Centre Newbury,RG18 9TG,51.4537,-1.2805
-Arlos At Moto Services Chieveley,RG18 9XX,51.4511,-1.3085
-Burger King At Moto Services Chieveley,RG18 9XX,51.4511,-1.3085
-Costa Coffee,RG18 9XX,51.4511,-1.3085
+Costa Coffee,RG18 9XX,51.4490,-1.3109
 Lakeside Superbowl,RG19 3AL,51.4022,-1.2871
 Costa Coffee,RG19 3HN,51.4028,-1.2567
 Paggies bar,RG19 3HN,51.4026,-1.2568
+Costa Coffee,RG19 3JD,51.4026,-1.2572
 The White Hart,RG19 3JD,51.4033,-1.2591
 A & A RESTAURANT LTD,RG19 3JG,51.4035,-1.2589
 AR SPICE LIMITED,RG19 3JG,51.4035,-1.2586
 Szechuan inn,RG19 3JG,51.4035,-1.2586
-Elior UK Plc @ Forterra Building Products Ltd,RG19 4AN,51.3984,-1.2347
-Baxterstorey At GIST,RG19 4BQ,51.3991,-1.2305
-Baxterstorey Ltd At Motor Insurance Repair Research Centre,RG19 4NR,51.3973,-1.2268
 4 Kingdoms Ltd,RG19 8JY,51.3643,-1.2679
 The Craven Arms,RG20 0HG,51.3809,-1.3876
 The Whte Hart Inn,RG20 0HW,51.3866,-1.4056
@@ -109,49 +102,42 @@ The Red House,RG20 8LY,51.4051,-1.3855
 Crab & Boar,RG20 8UE,51.4641,-1.3457
 Ye Olde Red Lion,RG20 8XB,51.4588,-1.3155
 The Swan Inn,RG20 9BH,51.3725,-1.3166
-McDonalds,RG20 9BX,51.3486,-1.3413
-Starbucks,RG20 9BX,51.3486,-1.3413
+McDonald's,RG20 9BX,51.3486,-1.3413
 The Carpenter's Arms,RG20 9JY,51.3432,-1.3376
 The Dew Pond Restaurant,RG20 9LH,51.3200,-1.3338
 The Pheasant  Highclere,RG20 9SE,51.3274,-1.3810
 Rampant Cat (Newbury) LTD,RG20 9TP,51.3590,-1.3736
+Thyme,RG21 3BT,51.2606,-1.0887
 Holiday Inn Basingstoke,RG21 3EE,51.2538,-1.0800
 Crowne Plaza Basingstoke Hotel,RG21 3PR,51.2629,-1.0714
 Raj of Blackdam ,RG21 3QN,51.2585,-1.0717
-Elior UK At ENI Engineering,RG21 4YY,51.2685,-1.0803
 Nannysues kitchen ,RG21 5RG,51.2775,-1.0794
-Starbucks,RG21 6AH,51.2737,-1.1062
 Yamazaki Sushi Bar,RG21 7AS,51.2632,-1.0863
 Subway The Malls Shopping Centre  Basingstoke,RG21 7AW,51.2665,-1.0876
 Kitchen Cafe,RG21 7BA,51.2645,-1.0855
+Nando's,RG21 7BA,51.2674,-1.0879
 Yogoo! ,RG21 7BA,51.2645,-1.0855
 Coal Kitchen,RG21 7BB,51.2655,-1.0845
 Festival Street Kitchen ,RG21 7BB,51.2655,-1.0845
-Nandos,RG21 7BB,51.2655,-1.0845
-Pizza Express,RG21 7BB,51.2655,-1.0845
-Wagamama,RG21 7BB,51.2655,-1.0845
-Caffe Nero At Waterstones,RG21 7BE,51.2656,-1.0855
-Gourmet Burger Kitchen,RG21 7BE,51.2656,-1.0855
-Pizza Hut Restaurant,RG21 7BE,51.2656,-1.0855
+The Angel Basingstoke (Wetherspoon),RG21 7BB,51.2655,-1.0840
+Costa Coffee,RG21 7BE,51.2655,-1.0871
 The Sushi Maki,RG21 7BE,51.2656,-1.0855
+Costa Coffee,RG21 7BF,51.2649,-1.0859
 Starbucks Basingstoke - Festival Place ,RG21 7BF,51.2656,-1.0855
-Starbucks,RG21 7BF,51.2656,-1.0855
 Bengal Dynasty ,RG21 7DY,51.2626,-1.0878
 ottoman restaurant,RG21 7DZ,51.2626,-1.0885
+The Maidenhead Inn Basingstoke (Wetherspoon),RG21 7ED,51.2623,-1.0879
 Agra Balti House,RG21 7EY,51.2624,-1.0894
-KFC,RG21 7FH,51.2663,-1.0883
+Costa Coffee,RG21 7FH,51.2674,-1.0878
 Burger King ,RG21 7JR,51.2639,-1.0868
-Burger King,RG21 7JR,51.2639,-1.0868
 Wimpy Basingstoke,RG21 7JR,51.2639,-1.0868
 Auntie Anne's Basingstoke,RG21 7JT,51.2645,-1.0866
-Caffe Nero,RG21 7JT,51.2651,-1.0865
 Pizza Hut,RG21 7LG,51.2657,-1.0880
-Pret A Manger,RG21 7LG,51.2657,-1.0880
+Pret A Manger,RG21 7LG,51.2655,-1.0878
 Dum Dum Donnutterie,RG21 7LJ,51.2649,-1.0878
 Cafe Giardino - Basingstoke,RG21 7LN,51.2647,-1.0873
 Chi Street Food,RG21 7LN,51.2645,-1.0871
 Granary Bakehouse and Cafe,RG21 7LN,51.2645,-1.0872
-Patisserie Valerie,RG21 7LN,51.2645,-1.0872
 SESAME-UK LTD (KOKORO Basingstoke),RG21 7LN,51.2645,-1.0872
 Delhi Brothers Limited TA Spicy Tadka,RG21 7LS,51.2649,-1.0878
 Mr Munch,RG21 7LS,51.2649,-1.0878
@@ -159,42 +145,44 @@ Chennai Express Limited,RG21 7NE,51.2633,-1.0865
 Karma Gurkha Kitchen,RG21 7NT,51.2622,-1.0858
 The Tea Bar Limited,RG21 7NT,51.2622,-1.0858
 Tuli Indian Cuisine ,RG21 7NT,51.2622,-1.0858
-Zizzi,RG21 7NT,51.2622,-1.0858
 Duck and Tipple,RG21 7NW,51.2635,-1.0867
 MAYFLOWER Chinese Restaurant,RG21 7NX,51.2629,-1.0856
 the lime leaf restaurant,RG21 7PG,51.2622,-1.0847
+McDonald's,RG21 7QA,51.2623,-1.0868
 McDonald's,RG21 7QA,51.2626,-1.0867
-McDonalds,RG21 7QA,51.2626,-1.0867
 Poppins Restaurant & Cafe,RG21 7QA,51.2626,-1.0867
 The Olive House Restaurant,RG21 7QQ,51.2636,-1.0879
 Flip Out Basingstoke,RG21 7QU,51.2663,-1.0913
+KFC,RG21 7QU,51.2672,-1.0888
 Reliable foods ,RG21 8UR,51.2609,-1.0954
 King of Wessex,RG21 8YS,51.2584,-1.0967
 Spices and Spirits,RG21 8YT,51.2581,-1.0963
+KFC,RG22 1RG,51.2648,-1.1150
 McDonald's,RG22 4AN,51.2509,-1.1089
-McDonalds,RG22 4AN,51.2509,-1.1089
-Pizza Hut Restaurant,RG22 4AN,51.2509,-1.1089
-Nandos,RG22 4AZ,51.2515,-1.1071
+McDonald's,RG22 4AN,51.2519,-1.1089
+Nando's,RG22 4AN,51.2519,-1.1078
+Costa Coffee,RG22 4AZ,51.2521,-1.1081
 Regentwell Entertainment Ltd,RG22 5EE,51.2624,-1.1305
 The Spice (Basingstoke) Limited t/a The Spice,RG22 5HN,51.2521,-1.1355
-Pizza Express,RG22 6HL,51.2503,-1.1137
 The red rose tandoori ,RG22 6JW,51.2503,-1.1181
-Buzz Bingo,RG22 6PG,51.2649,-1.1171
-Hollywood Bowl,RG22 6PG,51.2650,-1.1177
-KFC,RG22 6PG,51.2650,-1.1177
+Beefeater Spruce Goose,RG22 6PG,51.2648,-1.1170
+Costa Coffee,RG22 6PG,51.2643,-1.1185
+McDonald's,RG22 6PG,51.2647,-1.1155
 McDonald's,RG22 6PG,51.2650,-1.1177
-McDonalds,RG22 6PG,51.2650,-1.1177
 Milestones Museum,RG22 6PG,51.2649,-1.1178
 The Fox Inn,RG23 7HH,51.2594,-1.1647
 THE BOLTON ARMS,RG24 7DA,51.2761,-1.0449
 Oliver's,RG24 7JE,51.2635,-1.0457
 All seasons catering,RG24 8AG,51.2813,-1.0583
+Costa Coffee,RG24 8BQ,51.2842,-1.0595
 Subway Chineham,RG24 8BQ,51.2842,-1.0597
 The Hampshire Court Hotel,RG24 8FY,51.2837,-1.0575
 Charlie’s cafe,RG24 8NT,51.2716,-1.0623
 TEAGETHER LIMITED,RG24 8TF,51.2763,-1.0576
 Youngs Fish Bar,RG24 9DR,51.2871,-1.0835
+Costa Coffee,RG24 9NA,51.2807,-1.1093
 The Ark Conference Centre Ltd,RG24 9NN,51.2806,-1.1099
+Costa Coffee,RG24 9SE,51.2818,-1.1201
 The Pelican,RG26 3EA,51.3579,-1.1246
 cafe retreat,RG26 3LG,51.3548,-1.1420
 Pleasant Hospitality Ltd t/a Tadley Tandoori,RG26 4JH,51.3546,-1.1430
@@ -205,26 +193,14 @@ Little Roses,RG26 5QW,51.3229,-1.1239
 SANDFORD SPRINGS,RG26 5RT,51.3214,-1.2173
 The Vine Inn,RG26 5TX,51.2937,-1.2262
 The Hatch Gate & Burghfield Spices,RG30 3TH,51.4114,-1.0416
-BP Garage Shop At Moto Reading Services  Eastbound,RG30 3UQ,51.4262,-1.0350
-BP Garage Shop At Moto Reading Services  Westbound,RG30 3UQ,51.4262,-1.0350
-Burger King At Moto Hospitality,RG30 3UQ,51.4262,-1.0350
-Burger King At Moto Services Reading  Westbound,RG30 3UQ,51.4262,-1.0350
-Costa Coffee At Moto Hospitality,RG30 3UQ,51.4262,-1.0350
-Costa Coffee At Moto Services Reading  Westbound,RG30 3UQ,51.4262,-1.0350
-Costa Drive Through at Moto Hospitality,RG30 3UQ,51.4262,-1.0350
-Eat & Drink At Moto Hospitality,RG30 3UQ,51.4262,-1.0350
-KFC @ Moto Services Westbound,RG30 3UQ,51.4262,-1.0350
-WH Smith At Moto Hospitality  Eastbound,RG30 3UQ,51.4262,-1.0350
-WHSmith At Moto Reading Services  Westbound,RG30 3UQ,51.4262,-1.0350
+Costa Coffee,RG30 3UQ,51.4236,-1.0370
 THE VICTORIA,RG30 6BP,51.4601,-1.0340
 LILA FOODS LIMITED,RG31 5AR,51.4606,-1.0366
 Spice Master ,RG31 5HU,51.4556,-1.0491
 TASTE OF TANDOORI,RG31 5HY,51.4556,-1.0499
 Asian Spice Limited,RG31 6PR,51.4697,-1.0446
-McDonalds Restaurant,RG31 7QN,51.4412,-1.0500
-Starbucks Coffee Co At Sainsburys,RG31 7QN,51.4412,-1.0500
 Calcot Golf Club Ltd,RG31 7RN,51.4454,-1.0359
-Pausa Coffee Shop At Dunelm Mill,RG31 7SD,51.4424,-1.0654
+McDonald's,RG31 7SA,51.4417,-1.0619
 Active Tots,RG7 2DL,51.3420,-1.0414
 The Red Lion,RG7 2HU,51.3722,-1.0909
 The Calleva Arms,RG7 2PH,51.3550,-1.1034
@@ -238,7 +214,6 @@ Rosebourne,RG7 4LD,51.3866,-1.1539
 Aldermaston Recreational Society,RG7 4PR,51.3634,-1.1412
 La Capanna Restaurant,RG7 4RN,51.3619,-1.1865
 Out to lunch,RG7 4RS,51.3641,-1.1882
-Elior at The Hive,RG7 4SA,51.4358,-1.0617
 The Bull,RG7 5AH,51.4378,-1.0752
 SPICE LOUNGE,RG7 5AN,51.4374,-1.0753
 La Baguetterie,RG7 5AW,51.4373,-1.0757

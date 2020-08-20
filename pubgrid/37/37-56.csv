@@ -2,15 +2,15 @@ name,postcode,lat,lon
 The Clifden Arms,HP18 9JR,51.7694,-1.0740
 The Pointer,HP18 9RT,51.8188,-1.0506
 Malmaison Oxford,OX1 1AY,51.7514,-1.2621
-Pizza Express,OX1 1AY,51.7514,-1.2621
-Prezzo,OX1 1AY,51.7514,-1.2621
+The Swan  Castle Oxford (Wetherspoon),OX1 1AY,51.7511,-1.2616
 Artisan cafe,OX1 1BT,51.7508,-1.2573
 George and Danver Cafe,OX1 1BT,51.7508,-1.2573
 The Old Tom Pub,OX1 1BT,51.7508,-1.2573
 Fernandos Cafe,OX1 1EP,51.7513,-1.2594
-Costa Coffee,OX1 1ER,51.7519,-1.2592
+Costa Coffee,OX1 1ER,51.7517,-1.2594
 NOMAD BAR & RESTAURANT,OX1 1HH,51.7529,-1.2656
 Baxterstorey At Said Business School,OX1 1HP,51.7533,-1.2684
+Costa Coffee,OX1 1HS,51.7533,-1.2699
 Ruchi's dosapark ltd,OX1 1HU,51.7525,-1.2685
 The Jam Factory,OX1 1HU,51.7525,-1.2681
 4500 miles from delhi,OX1 1JD,51.7526,-1.2659
@@ -19,9 +19,10 @@ The Castle Oxford Ltd,OX1 1LD,51.7507,-1.2630
 ART CAFE,OX1 1LQ,51.7519,-1.2603
 The Cow and Creek,OX1 1LT,51.7520,-1.2609
 Curzon Oxford,OX1 1NZ,51.7507,-1.2609
+Nando's,OX1 1NZ,51.7493,-1.2620
+Pret A Manger,OX1 1NZ,51.7497,-1.2615
 Sticks 'n' Sushi Oxford,OX1 1NZ,51.7507,-1.2609
 Benito's,OX1 1PB,51.7499,-1.2616
-Benugo Ltd,OX1 1PB,51.7499,-1.2616
 KuPP,OX1 1PB,51.7499,-1.2616
 Neds Noodle Bar ,OX1 1PB,51.7499,-1.2616
 Ole & Steen Oxford,OX1 1PB,51.7517,-1.2587
@@ -29,11 +30,8 @@ Shoryu Ramen Ltd,OX1 1PB,51.7499,-1.2616
 The Mac Factory,OX1 1PB,51.7499,-1.2616
 Tommi's Burger Joint Ltd,OX1 1PB,51.7499,-1.2616
 Comptoir Oxford City,OX1 1PE,51.7501,-1.2611
-Pret A Manger,OX1 1PE,51.7501,-1.2611
 Dirty Bones,OX1 1PG,51.7497,-1.2610
 Mowgli Street Food - Oxford,OX1 1PG,51.7497,-1.2610
-Nando's,OX1 1PG,51.7497,-1.2610
-Pho,OX1 1PG,51.7497,-1.2610
 Pizza Pilgrims Oxford,OX1 1PG,51.7497,-1.2610
 The Breakfast Club Oxford,OX1 1PG,51.7497,-1.2610
 Victors Oxford,OX1 1PG,51.7497,-1.2610
@@ -42,22 +40,15 @@ Cafe Loco ,OX1 1RA,51.7490,-1.2569
 Cinnamon Kitchen Oxford,OX1 1TR,51.7478,-1.2600
 The Alchemist Oxford,OX1 1TR,51.7478,-1.2600
 CHOZEN NOODLE OXFORD,OX1 2AE,51.7539,-1.2606
-Black Sheep Coffee,OX1 2AF,51.7541,-1.2593
-Gourmet Burger Kitchen,OX1 2AY,51.7535,-1.2604
-Franco Manca,OX1 2BB,51.7540,-1.2594
-Zizzi,OX1 2BE,51.7534,-1.2619
+The Four Candles Oxford (Wetherspoon),OX1 2BE,51.7534,-1.2622
 Thaikhun,OX1 2BJ,51.7539,-1.2611
 Banana Tree,OX1 2BQ,51.7533,-1.2629
 Glut,OX1 2BQ,51.7533,-1.2629
-Nando's,OX1 2BQ,51.7533,-1.2629
-Pizza Hut Restaurant,OX1 2BQ,51.7534,-1.2631
 Angrid thai canteen ,OX1 2BT,51.7538,-1.2610
-Caffe Nero,OX1 2BU,51.7541,-1.2622
 Gino's spaghetti house,OX1 2BU,51.7541,-1.2623
 SHIN RAMEN ,OX1 2BU,51.7541,-1.2623
 Organic Deli Cafe,OX1 2BY,51.7545,-1.2604
 The White Rabbit,OX1 2BY,51.7544,-1.2605
-Turtle Bay,OX1 2BY,51.7544,-1.2605
 My Sichuan Chinese Restaurant Limited ,OX1 2DF,51.7544,-1.2618
 Thirsty Meeples,OX1 2DF,51.7544,-1.2618
 bbuona pizza bar,OX1 2DF,51.7544,-1.2618
@@ -73,12 +64,9 @@ Lussmanns Oxford,OX1 2HP,51.7587,-1.2617
 Pierre Victoire Oxford,OX1 2HP,51.7587,-1.2617
 George and Davis Cafe,OX1 2HS,51.7586,-1.2615
 The Oxford Wine Cafe (Jericho) Limited,OX1 2HU,51.7582,-1.2629
-Compass Group UK Ltd At The Cafe,OX1 2JD,51.7576,-1.2629
 The Randolph Hotel,OX1 2LN,51.7550,-1.2598
-Five Guys,OX1 3AE,51.7547,-1.2595
 Triple Two coffee,OX1 3AS,51.7540,-1.2575
 The White Horse,OX1 3BB,51.7546,-1.2557
-Caffe Nero,OX1 3BT,51.7547,-1.2555
 No.1 Ship Street,OX1 3DA,51.7538,-1.2575
 COLOMBIA COFFEE ROASTERS,OX1 3DU,51.7528,-1.2569
 SASI'S THAI LIMITED,OX1 3DU,51.7528,-1.2569
@@ -86,26 +74,17 @@ Donburi inn,OX1 3DX,51.7527,-1.2568
 Pieminister Oxford,OX1 3DX,51.7527,-1.2568
 Sofi de France ltd,OX1 3DX,51.7527,-1.2568
 BROWNS CAFE,OX1 3DY,51.7527,-1.2567
-Wagamama,OX1 3EF,51.7533,-1.2577
-Pizza Express,OX1 3EU,51.7526,-1.2573
-Pret A Manger,OX1 3EX,51.7524,-1.2577
 Starbucks ,OX1 3EX,51.7524,-1.2577
-Starbucks,OX1 3EX,51.7524,-1.2577
 Wasabi Sushi & Bento,OX1 3EX,51.7524,-1.2577
-Wasabi,OX1 3EX,51.7524,-1.2577
-Burger King,OX1 3EY,51.7535,-1.2583
-Pret A Manger,OX1 3EY,51.7535,-1.2583
+Pret A Manger,OX1 3EY,51.7534,-1.2584
+KFC,OX1 3EZ,51.7537,-1.2589
 KFC,OX1 3EZ,51.7537,-1.2590
 itsu Oxford Cornmarket Street,OX1 3EZ,51.7537,-1.2590
 The Plough at 38,OX1 3HA,51.7535,-1.2588
 MCDONALD'S,OX1 3HB,51.7525,-1.2584
-McDonalds,OX1 3HB,51.7525,-1.2584
-Tortilla,OX1 3HB,51.7530,-1.2585
-Costa Coffee,OX1 3JD,51.7523,-1.2587
-Compass Group UK Ltd At Cafe Bar East,OX1 3PU,51.7600,-1.2563
-Compass Group UK Ltd At Department Of Biochemistry,OX1 3QU,51.7592,-1.2549
+McDonald's,OX1 3HB,51.7524,-1.2582
+Costa Coffee,OX1 3JD,51.7525,-1.2587
 Compass Group UK Ltd At Bridge Cafe,OX1 3RE,51.7598,-1.2516
-Compass Group UK Ltd At Cafe Bar West,OX1 3RH,51.7597,-1.2595
 Swoon Gelato,OX1 4AH,51.7525,-1.2551
 The Vaults & Garden Cafe,OX1 4AH,51.7525,-1.2551
 Queen's Lane Coffee House,OX1 4AP,51.7527,-1.2501
@@ -115,7 +94,6 @@ Compass Group UK Ltd Oxford University Examination Schools,OX1 4BG,51.7525,-1.25
 THE GRAND CAFE,OX1 4BG,51.7525,-1.2506
 Quod Restaurant,OX1 4BJ,51.7524,-1.2533
 Jericho Coffee Traders,OX1 4BW,51.7523,-1.2543
-Caffe Nero,OX1 4DB,51.7522,-1.2568
 Bubbleology,OX1 4DF,51.7521,-1.2562
 Chiang Mai Kitchen,OX1 4DH,51.7520,-1.2565
 Paul UK Ltd - Oxford,OX1 4DN,51.7519,-1.2569
@@ -136,10 +114,9 @@ Tumbling Bay Cafe,OX2 0BT,51.7525,-1.2764
 Jericho Coffee Traders,OX2 0ES,51.7481,-1.2738
 spring greens cafe,OX2 0ES,51.7482,-1.2737
 MCDONALD'S,OX2 0JR,51.7530,-1.2936
-McDonalds,OX2 0JR,51.7530,-1.2936
+McDonald's,OX2 0JR,51.7530,-1.2934
 The Perch,OX2 0NG,51.7652,-1.2896
 Opera Cafe,OX2 6AA,51.7580,-1.2638
-Giggling Squid,OX2 6AE,51.7602,-1.2666
 Brasserie Blanc Oxford,OX2 6AG,51.7609,-1.2675
 Jamal’s Saffron,OX2 6AJ,51.7606,-1.2666
 Mortons Ltd,OX2 6AJ,51.7606,-1.2666
@@ -150,9 +127,7 @@ The Rickety Press,OX2 6DE,51.7602,-1.2677
 Yangtze Limited,OX2 6EA,51.7614,-1.2681
 Mamma Mia Jericho,OX2 6EB,51.7612,-1.2675
 THE VICTORIA,OX2 6EB,51.7612,-1.2675
-Compass Group UK Ltd At Eagle House,OX2 6EE,51.7618,-1.2691
 Compass Group UK Ltd At Blavatnik School Of Government,OX2 6GG,51.7609,-1.2639
-Compass Group UK Ltd At Mathematical Institute Cafe,OX2 6GG,51.7609,-1.2639
 Will's Deli ,OX2 6HA,51.7592,-1.2615
 Fusion House,OX2 6HT,51.7602,-1.2613
 CONCEPT CUISINE ENTERPRISES LIMITED,OX2 6LX,51.7647,-1.2619
@@ -166,7 +141,7 @@ BARAKAH OXFORD LIMITED,OX2 7AR,51.7759,-1.2647
 Spice Lounge,OX2 7AR,51.7759,-1.2646
 Xian Restaurant ,OX2 7AR,51.7759,-1.2647
 Joe's Restaurants Ltd,OX2 7DX,51.7777,-1.2646
-Costa Coffee,OX2 7HQ,51.7768,-1.2650
+Costa Coffee,OX2 7HQ,51.7764,-1.2648
 Two One Five,OX2 7HQ,51.7768,-1.2650
 COLOMBIA COFFEE ROASTERS,OX2 7HT,51.7789,-1.2658
 NEW DANCING DRAGON BAR & RESTAURANT,OX2 7JF,51.7800,-1.2662
@@ -174,11 +149,8 @@ Mamma Mia,OX2 7JL,51.7785,-1.2671
 POMPETTE,OX2 7JL,51.7785,-1.2670
 Thirty Eight,OX2 7JN,51.7780,-1.2677
 The Plough,OX2 8AH,51.7842,-1.2817
-Jurys Inn Hotel And Conference Venue,OX2 8AL,51.7879,-1.2838
-Baxterstorey At Pearson Education,OX2 8EJ,51.7933,-1.2733
 North Oxford Golf Club,OX2 8EZ,51.7952,-1.2732
 KFC,OX2 8JZ,51.7941,-1.2842
-Starbucks,OX2 8JZ,51.7941,-1.2842
 JACOBS INN,OX2 8PG,51.7830,-1.2939
 White Hart of Wytham,OX2 8QA,51.7741,-1.3116
 The Seacourt Bridge,OX2 9JU,51.7512,-1.3006
@@ -199,25 +171,23 @@ The Punchbowl Inn,OX20 1TR,51.8468,-1.3530
 Daba Indian Cuisine,OX20 1TT,51.8483,-1.3544
 The Lion ,OX25 2PW,51.8722,-1.1868
 The Chequers,OX25 3QH,51.8572,-1.2220
-Starbucks,OX25 3QQ,51.8500,-1.2295
 The Old Flight House Cafe,OX25 3TJ,51.8788,-1.2320
 Horse and Groom  Caulcott,OX25 4ND,51.9155,-1.2619
 The Bell Inn,OX25 5NY,51.9198,-1.2942
 The Holt Hotel,OX25 5QQ,51.9239,-1.3241
 The finest catch ,OX26 1AF,51.8947,-1.1714
 Whitelands Farm Sports Pavilion,OX26 1AJ,51.8910,-1.1703
-Burger King,OX26 1BT,51.8936,-1.1619
+Brewers Fayre Bicester,OX26 1BT,51.8917,-1.1640
+McDonald's,OX26 1DE,51.8916,-1.1617
 McDonalds Restaurants Ltd,OX26 1DE,51.8905,-1.1601
-Costa Coffee At Next,OX26 1ES,51.8928,-1.1638
+Costa Coffee,OX26 1ES,51.8926,-1.1630
 Bicester Hotel,OX26 1TE,51.8903,-1.1981
 The Shakespeare,OX26 2GJ,51.9012,-1.1743
 Apple Green Service Station,OX26 2HJ,51.9036,-1.1539
 Bicester Leisure Centre,OX26 2NR,51.9001,-1.1570
-KFC (Kentucky Fried Chicken),OX26 3AH,51.9075,-1.1508
 KFC - Bicester,OX26 3AH,51.9075,-1.1507
 Pizza Hut Delivery,OX26 3AH,51.9075,-1.1507
 The Bull Inn,OX26 5DQ,51.8983,-1.1175
-Pizza Express,OX26 6AG,51.8966,-1.1511
 S&H Coffee Shop & Gifts,OX26 6AG,51.8966,-1.1510
 Jaflong Restaurant,OX26 6AJ,51.8969,-1.1504
 Market square fish bar,OX26 6AJ,51.8969,-1.1504
@@ -227,15 +197,12 @@ Littlebury Hotel,OX26 6DR,51.8972,-1.1568
 BANSAL ASSOCIATES LIMITED,OX26 6EH,51.8970,-1.1524
 limited company ,OX26 6EH,51.8970,-1.1524
 Shan Shui Investment BV Ltd,OX26 6EU,51.8928,-1.1587
-Nando's,OX26 6FA,51.8985,-1.1522
-Prezzo Plc,OX26 6FA,51.8985,-1.1522
-Wildwood,OX26 6FA,51.8983,-1.1521
 Rebound Revolution (Bicester) Ltd,OX26 6HR,51.8913,-1.1500
 THE LITTLE BLUE BAKERY,OX26 6HY,51.8973,-1.1516
-Costa Coffee,OX26 6JD,51.8973,-1.1510
-Costa Coffee,OX26 6JJ,51.8985,-1.1520
+Costa Coffee,OX26 6JD,51.8985,-1.1517
 Copper Kitchen,OX26 6JS,51.8998,-1.1531
 Eat China Bicester,OX26 6JW,51.8991,-1.1526
+The Penny Black Bicester (Wetherspoon),OX26 6JW,51.8988,-1.1517
 Shakil’s ,OX26 6LP,51.8998,-1.1528
 denis restaurant,OX26 6LP,51.8998,-1.1528
 THE PLOUGH,OX26 6NB,51.9014,-1.1544
@@ -250,7 +217,7 @@ Darlish ,OX26 6WD,51.8918,-1.1556
 Farmshop Bicester,OX26 6WD,51.8918,-1.1556
 MNJV3 Corporation Limited - Maitre Choux,OX26 6WD,51.8918,-1.1556
 Oliphant's Ice Cream,OX26 6WD,51.8918,-1.1556
-Pret A Manger,OX26 6WD,51.8918,-1.1556
+Pret A Manger,OX26 6WD,51.8921,-1.1564
 itsu Bicester Village,OX26 6WD,51.8918,-1.1556
 The Nightingale,OX26 6XX,51.8913,-1.1383
 James at The Sow & Pigs - Jim's Kitchen,OX27 9BA,51.9238,-1.0601
@@ -273,38 +240,31 @@ THJ limited T/A the Oxfordshire Yeoman,OX29 8AQ,51.8102,-1.4004
 The George & Dragon,OX29 8JX,51.8252,-1.3859
 The Churchill Court Hotel,OX29 8LA,51.8254,-1.3720
 The Cock Inn ,OX29 8NT,51.8404,-1.4035
-Starbucks/Blackwells,OX3 0BP,51.7544,-1.2232
 The Up In Arms,OX3 0EN,51.7597,-1.2360
 Mediterranean Fish Bar,OX3 0LY,51.7677,-1.2313
 Pizza Hut,OX3 0LY,51.7678,-1.2314
 Oxford City Football Club,OX3 0NQ,51.7706,-1.2302
 The Red Lion,OX3 0PH,51.7719,-1.2360
 THE BUTCHERS ARMS,OX3 7AN,51.7558,-1.2112
-Compass Group UK Ltd At The Cafe,OX3 7BN,51.7519,-1.2152
 Il botanico ,OX3 7BW,51.7597,-1.2103
-Compass Group At Big Data Institute (Cafe And Main Kitchen),OX3 7DQ,51.7520,-1.2142
-Compass Group UK Ltd At The Cafe,OX3 7DQ,51.7518,-1.2145
-Elior At Nuffield Orthopaedic Centre,OX3 7HE,51.7537,-1.2108
-Elior At Churchill Hospital,OX3 7JY,51.7534,-1.2193
-Compass Group UK Ltd At Tulip Cafe,OX3 7LF,51.7526,-1.2151
 COSTA COFFEE,OX3 7LJ,51.7503,-1.2147
+Costa Coffee,OX3 7LJ,51.7497,-1.2160
 CH&Co Catering Group Ltd At Sir Michael Sobell House Hospice,OX3 7LY,51.7513,-1.2064
 Z RESTAURANTS LTD (Bhoomi Kitchen),OX3 7PD,51.7589,-1.2146
 Beirut,OX3 7RA,51.7597,-1.2138
 subway,OX3 7RD,51.7596,-1.2140
 MCDONALD'S,OX3 8DJ,51.7624,-1.1941
-McDonalds,OX3 8DJ,51.7624,-1.1941
+McDonald's,OX3 8DJ,51.7626,-1.1953
 The Ampleforth Arms,OX3 8HH,51.7596,-1.1900
 The Six Bells,OX3 8JN,51.7595,-1.1969
 Heavenly Desserts,OX3 9AA,51.7599,-1.2129
 Rios Piri Piri,OX3 9AA,51.7599,-1.2129
 Starbucks,OX3 9AA,51.7599,-1.2129
 TWO BOYS FOOD LIMITED,OX3 9AJ,51.7595,-1.2127
-Caffe Nero,OX3 9AX,51.7599,-1.2112
 Compass Group UK Ltd At Osler House,OX3 9BL,51.7613,-1.2139
 The White Hart,OX3 9DL,51.7646,-1.2125
 M&S SIMPLY FOOD,OX3 9DU,51.7635,-1.2197
-Pret A Manger,OX3 9DU,51.7639,-1.2198
+Pret A Manger,OX3 9DU,51.7638,-1.2198
 Acropolis Greek Taverna,OX3 9ED,51.7604,-1.2093
 Cafe Bonjour,OX3 9ED,51.7604,-1.2093
 POSH FISH,OX3 9ED,51.7604,-1.2093
@@ -312,6 +272,7 @@ The Black Boy Oxford Ltd,OX3 9HT,51.7633,-1.2108
 WHITE HORSE INN,OX33 1EH,51.7667,-1.1524
 THE TALKHOUSE (DUVAL INNS) LTD,OX33 1EX,51.7770,-1.1623
 Mill View Garden Centre & Coffee Shop,OX33 1HY,51.7416,-1.1408
+KFC,OX33 1JN,51.7382,-1.0970
 Welcome Break Group,OX33 1LJ,51.7380,-1.0972
 The Sun Cafe and Bar ,OX33 1NB,51.7482,-1.1405
 madras spice,OX33 1RP,51.7384,-1.1731
@@ -330,10 +291,9 @@ Shiraz,OX4 1HP,51.7495,-1.2427
 THE KAZBAR,OX4 1HP,51.7495,-1.2427
 TICK TOCK CAFE,OX4 1HP,51.7495,-1.2427
 BIG SOCIETY,OX4 1HR,51.7490,-1.2406
-BrewDog Oxford,OX4 1HU,51.7481,-1.2372
 Brousko,OX4 1HU,51.7482,-1.2378
+Costa Coffee,OX4 1HU,51.7479,-1.2366
 Costa Coffee,OX4 1HU,51.7481,-1.2372
-Nando's,OX4 1JB,51.7487,-1.2408
 Oxford greek taverna,OX4 1JB,51.7487,-1.2408
 RICK'S Diner,OX4 1JB,51.7487,-1.2408
 Spiced roots,OX4 1JB,51.7487,-1.2408
@@ -341,7 +301,6 @@ Atomic Burger ,OX4 1JE,51.7483,-1.2391
 George and Delila Cafe,OX4 1JE,51.7483,-1.2391
 Majliss Indian Restaurant ,OX4 1JE,51.7483,-1.2391
 The French Crepe,OX4 1JE,51.7483,-1.2391
-KFC,OX4 1JJ,51.7476,-1.2368
 Kebab Kid Ltd,OX4 1JJ,51.7477,-1.2369
 Temple Lounge Oxford,OX4 1JS,51.7483,-1.2414
 Oxford Blue,OX4 1JU,51.7474,-1.2396
@@ -362,16 +321,15 @@ Heat African bar & restaurant ,OX4 1UT,51.7472,-1.2344
 Red star noodle bar,OX4 1UT,51.7474,-1.2351
 subway,OX4 1UT,51.7474,-1.2351
 Yeti Nepalese Restaurant,OX4 1XG,51.7457,-1.2308
-Elior At Freeths QT Cafe,OX4 2BH,51.7303,-1.2063
-CH&Co Catering Group Ltd At Wiley Blackwell Staff Restaurant,OX4 2DQ,51.7326,-1.2056
-CH&Co Catering Group Ltd At Oxfam Staff Canteen,OX4 2JY,51.7305,-1.2051
+Beefeater The Longwall,OX4 2JT,51.7311,-1.2031
 Cafe Kraken,OX4 2NE,51.7382,-1.2074
 Istanbul Kebab House,OX4 2NH,51.7367,-1.2080
 The Prince Of Wales,OX4 2QW,51.7386,-1.2023
-CH&Co Catering Group Ltd At Sanofi Genzyme,OX4 2SU,51.7315,-1.2080
 Everest Nepalese ,OX4 3AZ,51.7410,-1.2310
+Costa Coffee,OX4 3JP,51.7327,-1.2189
 Costa Coffee,OX4 3JP,51.7337,-1.2184
 Flo's The Place in the Park,OX4 3JZ,51.7362,-1.2233
+The William Morris Oxford (Wetherspoon),OX4 3LR,51.7323,-1.2177
 Cagneys Cafe,OX4 3UX,51.7316,-1.2152
 Boswells Cafe,OX4 3UZ,51.7317,-1.2162
 The Rowing Club Bar & Café,OX4 4BL,51.7355,-1.2391
@@ -381,7 +339,6 @@ Tree Hotel Bar,OX4 4EY,51.7305,-1.2323
 Cafe Spice,OX4 4HX,51.7275,-1.2247
 Polish Kitchen,OX4 4HX,51.7275,-1.2247
 Pizza Hut,OX4 4HZ,51.7286,-1.2276
-Hollywood Bowl Oxford,OX4 4XP,51.7159,-1.2081
 J'S SPORTS BAR,OX4 4XP,51.7159,-1.2081
 OXY ORIENTAL LTD,OX4 4XP,51.7159,-1.2081
 Partyman World Oxford,OX4 4XP,51.7159,-1.2081
@@ -389,22 +346,21 @@ The Ridge Bar and Grill,OX4 4XP,51.7159,-1.2081
 BLUE ELEPHANT OXFORD LIMITED,OX4 4YP,51.7106,-1.2255
 The Blue Elephant Restaurant,OX4 4YP,51.7106,-1.2255
 BMW MINI Plant,OX4 6NL,51.7304,-1.1995
-Burger King Drive Thru,OX4 6XJ,51.7276,-1.2007
+Costa Coffee,OX4 6XJ,51.7270,-1.2025
 The Bull Great Milton,OX44 7NS,51.7202,-1.0892
 The Lamb Inn,OX44 7PU,51.7042,-1.1056
 The Mole Inn,OX44 9NG,51.7025,-1.1802
 The Highwayman Hotel (Kidlington) LTD,OX5 1BF,51.8314,-1.3010
 Gurkha Village Restaurant & Bar ,OX5 1EA,51.8169,-1.2825
-Elior RELX Courtyard,OX5 1GB,51.8327,-1.3102
-BaxterStorey @ CAE Oxford Aviation Academy,OX5 1HT,51.8309,-1.3040
 The Jolly Boatman,OX5 1JU,51.8371,-1.3061
 The Boat Inn,OX5 1JY,51.8392,-1.3037
 Annie's at Thrupp Limited,OX5 1JZ,51.8400,-1.3003
 YARNTON HOME AND GARDEN,OX5 1PA,51.8151,-1.3101
 The Red Lion,OX5 1QD,51.8046,-1.3124
+Beefeater Oxford North,OX5 1RA,51.8302,-1.3122
 Begbrook Science Park,OX5 1RN,51.8226,-1.3161
 The Royal Sun,OX5 1RZ,51.8207,-1.3189
-Costa Coffee,OX5 2DH,51.8236,-1.2893
+Costa Coffee,OX5 2DL,51.8236,-1.2886
 Tiffins Tandoori,OX5 2DN,51.8236,-1.2874
 The Bell Inn,OX5 2QD,51.8354,-1.2704
 Nut Tree Inn,OX5 2RE,51.8370,-1.1520

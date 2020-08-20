@@ -13,7 +13,7 @@ Goodies Food Hall,IP21 4XU,52.4594,1.2328
 Bressingham Garden Centre,IP22 2AB,52.3846,1.0570
 strenneth,IP22 2FF,52.4171,1.0479
 Aimes Ltd t/a Costa Coffee Diss,IP22 4AD,52.3751,1.1092
-Costa Coffee,IP22 4AD,52.3751,1.1092
+Costa Coffee,IP22 4AD,52.3757,1.1091
 Katie's Kitchen,IP22 4AF,52.3765,1.1085
 Spice Cottage,IP22 4JT,52.3770,1.1089
 Weavers Wine Bar and Eating House,IP22 4JZ,52.3771,1.1082
@@ -40,10 +40,10 @@ The Nags Head,NR16 2AD,52.4391,0.9322
 foodsie 100 ltd white horse,NR16 2AH,52.4349,0.9963
 Garden House ,NR16 2BY,52.4616,1.0329
 Red Lion (Kenninghall) Ltd,NR16 2EP,52.4326,1.0043
-Starbucks Snetterton,NR16 2JU,52.4715,0.9524
 The Angel Inn,NR16 2QU,52.4630,0.9168
 The Dower House Touring Park,NR16 2SE,52.4271,0.9047
 K Foley Ltd T/A McDonalds Snetterton,NR16 2TX,52.4743,0.9538
+McDonald's,NR16 2TX,52.4747,0.9542
 Breckland Lodge,NR17 1AY,52.4967,0.9835
 Peter Beales Garden Centre Ltd,NR17 1AY,52.4967,0.9835
 The White Lodge,NR17 1AY,52.4968,0.9856
@@ -54,7 +54,6 @@ Mulberry Tree ,NR17 2AS,52.5146,1.0209
 SPICE 2020 LTD T/A Rose of India,NR17 2BU,52.5150,1.0102
 Connaught's Coffee House & Café ,NR17 2EJ,52.5164,1.0143
 Route 11,NR17 2PU,52.5331,1.0530
-Starbucks,NR17 2PU,52.5319,1.0518
 Mrs Beans Bistro,NR17 2QE,52.5178,1.0173
 Number 24 Restaurant ,NR18 0AD,52.5714,1.1105
 TUMRUP THAI,NR18 0AD,52.5714,1.1105
@@ -73,7 +72,7 @@ Waterfall Elior At Spooner Row Primary School,NR18 9JR,52.5356,1.0849
 The Boars,NR18 9LL,52.5335,1.0901
 The Cherry Tree,NR18 9QA,52.5795,1.0619
 The Orangery Tea Room Norfolk Ltd,NR18 9RS,52.5775,1.1908
-Elior UK @ Tesco Norwich Harford,NR4 6DZ,52.5952,1.2776
+Costa Coffee,NR4 6DZ,52.5953,1.2770
 Kin Cafe,NR9 3DB,52.5991,1.1825
 Queens Head Public House,NR9 3DD,52.5974,1.1808
 Park Farm Hotel,NR9 3DL,52.5886,1.1690

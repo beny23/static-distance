@@ -2,7 +2,7 @@ name,postcode,lat,lon
 Amontola,DL10 4AE,54.4048,-1.7364
 Nazzarena ,DL10 4AE,54.4048,-1.7364
 The Bread Bowl Cafe,DL10 4AE,54.4048,-1.7364
-Wetherspoon - Ralph Fitz Randal,DL10 4AE,54.4048,-1.7364
+The Ralph Fitz Randal Richmond (Wetherspoon),DL10 4AE,54.4047,-1.7367
 Kerry Marie’s bar & bistro,DL10 4DP,54.4041,-1.7395
 The Fleece Hotel (Richmond) Ltd,DL10 4DW,54.4040,-1.7384
 Turf Hotel,DL10 4DW,54.4041,-1.7388
@@ -18,6 +18,7 @@ RBPT Enterprises LTD,DL10 4LD,54.4028,-1.7291
 Granny’s Kitchen,DL10 4QA,54.4036,-1.7392
 Black Lion Hotel,DL10 4QB,54.4038,-1.7389
 Rustique,DL10 4QE,54.4036,-1.7385
+Costa Coffee,DL10 4QG,54.4028,-1.7386
 Town Hall Hotel,DL10 4QL,54.4026,-1.7379
 cross view restaurant and tearooms,DL10 4QL,54.4026,-1.7378
 Barkers Restaurant Ltd,DL10 4QN,54.4030,-1.7371
@@ -45,7 +46,7 @@ Fish & Chips at 149,DL12 8BH,54.5457,-1.9234
 Andalucia ,DL12 8BJ,54.5468,-1.9208
 The Three Horseshoes Hotel,DL12 8EQ,54.5448,-1.9240
 The Teesdale Restaurant,DL12 8JJ,54.5441,-1.9226
-Costa Coffee,DL12 8LZ,54.5438,-1.9242
+Costa Coffee,DL12 8LZ,54.5441,-1.9245
 The golden lion,DL12 8NB,54.5431,-1.9240
 Moments Cafe Ltd,DL12 8ND,54.5424,-1.9241
 Penny's Tearooms,DL12 8ND,54.5424,-1.9241
@@ -57,9 +58,12 @@ The Old Well Inn,DL12 8PH,54.5417,-1.9242
 The Ancient Unicorn,DL12 9HL,54.5172,-2.0104
 Morritt Hotel and Garage Spa,DL12 9SE,54.5145,-1.8689
 Thorpe Farm Centre Ltd,DL12 9TY,54.5097,-1.8565
+Costa Coffee,DL9 3BA,54.3763,-1.7234
 Costa Coffee,DL9 3BA,54.3764,-1.7244
 KFC,DL9 3BA,54.3769,-1.7247
 North Yorkshire Restaurants t/as McDonald's,DL9 3EJ,54.3786,-1.7256
+McDonald's,DL9 3EN,54.3757,-1.7227
 Fish & Chips at 149,DL9 3JD,54.3762,-1.7218
+KFC,DL9 3JF,54.3776,-1.7239
 Catterick Golf Club Limited,DL9 3QE,54.3722,-1.7365
 Thierry Catering,DL9 3QE,54.3722,-1.7365

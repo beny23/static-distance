@@ -12,27 +12,27 @@ Claire’s Kitchen ,CA1 1LJ,54.8946,-2.9139
 The 19th Hole  Stoneyholme,CA1 1LS,54.8965,-2.9186
 gianni's pizzeria,CA1 1NL,54.8926,-2.9302
 PENNY FARTHING COFFEE HOUSE,CA1 1NT,54.8915,-2.9292
-Nando's,CA1 1QN,54.8923,-2.9322
 County Hotel,CA1 1QP,54.8918,-2.9318
-Brewdog Carlisle,CA1 1QS,54.8907,-2.9312
 House of Vodka Bar and Kitchen,CA1 1QS,54.8913,-2.9324
 Royal Outpost,CA1 1QS,54.8909,-2.9317
+The William Rufus Carlisle (Wetherspoon),CA1 1QS,54.8913,-2.9319
+Woodrow Wilson Carlisle (Wetherspoon),CA1 1QS,54.8908,-2.9307
 La Mezzaluna ,CA1 1QW,54.8920,-2.9322
-Costa Coffee Ltd,CA1 1QX,54.8909,-2.9332
+Costa Coffee,CA1 1QX,54.8914,-2.9327
 Masala Bazaar,CA1 1RP,54.8912,-2.9308
 1878 Coffee Lounge,CA1 2FT,54.8927,-2.8972
 st nicholas arms,CA1 2LE,54.8878,-2.9241
 The-eat-out-to-help-out-scheme,CA1 2NS,54.8832,-2.9192
-Pizza Hut Restaurant,CA1 2PD,54.8843,-2.9155
 KFC,CA1 2PR,54.8824,-2.9137
+KFC,CA1 2PR,54.8826,-2.9142
 The Auctioneer,CA1 2RW,54.8926,-2.8936
+Brewers Fayre Lakeland Gate,CA1 2WF,54.8942,-2.9075
 The Corner House,CA1 3EZ,54.8762,-2.9047
 Durranhill Staff Cafeteria,CA1 3NQ,54.8827,-2.9091
 Cafe Central,CA1 3QB,54.8814,-2.9016
 The Highland Drove Inn,CA11 9NA,54.7243,-2.6973
 Globe Inn,CA11 9QT,54.7533,-2.8278
 UPFRONT COFFEE SHOP,CA11 9TG,54.7157,-2.8506
-Pausa Coffee Shop at Dunelm Mill,CA2 5BT,54.8907,-2.9409
 Opera Bingo,CA2 5EN,54.8867,-2.9401
 THE JOINERS ARMS,CA2 5TF,54.8948,-2.9471
 Subway Shaddongate,CA2 5TU,54.8942,-2.9440
@@ -42,6 +42,7 @@ The Milbourne Arms,CA2 5XB,54.8926,-2.9431
 The Royal Scot ,CA2 6DX,54.8830,-2.9608
 Morton Manor Community Centre,CA2 6JP,54.8858,-2.9637
 Cumbrian Cheesecake ,CA2 7AN,54.8947,-2.9537
+Costa Coffee,CA2 7HY,54.8968,-2.9585
 VALLUM HOUSE HOTEL,CA2 7NB,54.8968,-2.9753
 MUSEUM  CA2 7QJ LTD,CA2 7QJ,54.8963,-2.9813
 Kingstown chef ltd ,CA3 0EU,54.9248,-2.9496
@@ -51,12 +52,10 @@ No 38 Bistro & Bar,CA3 8DH,54.8943,-2.9331
 Sannas,CA3 8DH,54.8943,-2.9331
 The Howard Arms,CA3 8ED,54.8954,-2.9340
 Coco Mill,CA3 8EQ,54.8945,-2.9343
-Pizza Express,CA3 8ES,54.8925,-2.9335
 Celebrations Cafe Bar,CA3 8EU,54.8936,-2.9344
 John Watt Espresso Bar and Roastery,CA3 8HB,54.8929,-2.9353
 John Watt and Son ,CA3 8HG,54.8939,-2.9346
 Annie’s cafe excellent,CA3 8HJ,54.8940,-2.9338
-Caffe Nero,CA3 8HU,54.8937,-2.9365
 The Crown & Mitre Hotel,CA3 8HZ,54.8944,-2.9368
 Francos Italian Restaurant,CA3 8JE,54.8949,-2.9365
 Subway Greenmarket,CA3 8JE,54.8949,-2.9365
@@ -67,9 +66,9 @@ Artwork,CA3 8LP,54.8928,-2.9337
 Open Mind,CA3 8LU,54.8924,-2.9336
 Muffin break Carlisle ,CA3 8NH,54.8951,-2.9343
 Debenhams Restaurant Carlisle,CA3 8NR,54.8964,-2.9349
-Patisserie Valerie,CA3 8PD,54.8948,-2.9352
+Costa Coffee,CA3 8NX,54.8954,-2.9344
+Costa Coffee,CA3 8PN,54.8948,-2.9356
 McDonald's Restaurants,CA3 8PN,54.8951,-2.9359
-McDonalds,CA3 8PN,54.8951,-2.9359
 The Fryery,CA3 8PY,54.8961,-2.9353
 Creme cafe,CA3 8QJ,54.8963,-2.9373
 ARCHES COFFEE HOUSE,CA3 8RF,54.8952,-2.9364
@@ -92,15 +91,11 @@ Spider and Fly,CA3 9HR,54.9042,-2.9374
 Stanwix Tandoori Restaurant,CA3 9HR,54.9042,-2.9374
 The Crown Inn  Stanwix,CA3 9HS,54.9055,-2.9375
 The Redfern Inn,CA3 9PS,54.9073,-2.9527
+Beefeater Border Gate,CA4 0AD,54.8589,-2.8797
 The Greyhound Inn,CA4 0DQ,54.8446,-2.8299
 Rose & Crown  Low Hesket,CA4 0HG,54.8102,-2.8342
-Burger King (North),CA4 0NT,54.7980,-2.8722
-Burger King (South),CA4 0NT,54.7980,-2.8722
-Costa Coffee (North),CA4 0NT,54.7980,-2.8722
-Costa Coffee (South),CA4 0NT,54.7980,-2.8722
-Moto Hospitality (North) BP Forecourt,CA4 0NT,54.7980,-2.8722
-Moto Hospitality (South),CA4 0NT,54.7980,-2.8722
-Moto Southwaite Greggs,CA4 0NT,54.7980,-2.8722
+Costa Coffee,CA4 0NT,54.7981,-2.8720
+Costa Coffee,CA4 0NT,54.7989,-2.8700
 Carlisle Golf Club Trading Limited,CA4 8AG,54.8976,-2.8691
 THE LOWTHER ARMS COUNTRY INN LIMITED,CA4 8DL,54.8663,-2.8627
 The Lowther Arms Country Inn,CA4 8DL,54.8663,-2.8627

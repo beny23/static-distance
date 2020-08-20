@@ -7,6 +7,7 @@ The Old Brewhouse,DD11 1BH,56.5565,-2.5796
 THE TOWNHOUSE HOTEL ARBROATH,DD11 1DP,56.5590,-2.5812
 The coffee cabin,DD11 1EE,56.5616,-2.5833
 Sportsterz Arbroath,DD11 1HR,56.5588,-2.5823
+The Corn Exchange Arbroath (Wetherspoon),DD11 1HR,56.5585,-2.5828
 Coast ,DD11 1HT,56.5591,-2.5839
 Copper Oven,DD11 1HX,56.5602,-2.5826
 The Grill 21 Mediterranean Restaurant & Bar,DD11 1JE,56.5618,-2.5839
@@ -18,7 +19,8 @@ Restaurant Royal Thai,DD11 1RF,56.5583,-2.5875
 Bearpig,DD11 1RW,56.5627,-2.5847
 ARBROATH MCDONALDS,DD11 2NQ,56.5503,-2.6121
 KFC,DD11 2NQ,56.5503,-2.6121
-McDonalds Restaurants Ltd.,DD11 2NQ,56.5503,-2.6121
+KFC,DD11 2NQ,56.5508,-2.6115
+McDonald's,DD11 2NQ,56.5502,-2.6110
 SEAFRONT BAR,DD11 2PT,56.5519,-2.6038
 Friockheim Community Hub ,DD11 4TG,56.6382,-2.6614
 Meadowbank inn,DD11 5RA,56.5768,-2.5739
@@ -28,18 +30,17 @@ cafe kitchen,DD4 6LD,56.4689,-2.9367
 tayview,DD4 6LD,56.4689,-2.9367
 Elior UK,DD4 7HS,56.4710,-2.9394
 Sunnys restaurant ,DD4 7JR,56.4695,-2.9356
-McDonalds,DD4 8JT,56.4770,-2.9263
+McDonald's,DD4 8JT,56.4771,-2.9280
 CJ Lang & Son Ltd,DD4 8JU,56.4778,-2.9262
-Mecca Bingo,DD4 8JX,56.4801,-2.9238
 KFC,DD4 8UD,56.4780,-2.8897
+KFC,DD4 8UD,56.4785,-2.8884
 Jessie's Kitchen,DD5 1AY,56.4706,-2.8830
 Gracies of broughty ferry,DD5 1DJ,56.4678,-2.8774
 Willows Coffee Shop,DD5 1DT,56.4673,-2.8767
 Collinsons Restaurant,DD5 1EN,56.4671,-2.8770
 The Fort Hotel & Bar,DD5 2AB,56.4663,-2.8764
-Caffe Nero,DD5 2AG,56.4673,-2.8747
 Subway,DD5 2AG,56.4674,-2.8754
-Costa Coffee,DD5 2AH,56.4670,-2.8744
+Costa Coffee,DD5 2AH,56.4670,-2.8746
 Forgan's Restaurant (Broughty Ferry),DD5 2AH,56.4670,-2.8744
 Mitchell's Broughty Ferry,DD5 2AH,56.4670,-2.8744
 Bruach Bar & Restaurant,DD5 2AN,56.4666,-2.8720
@@ -47,6 +48,7 @@ Papa Jacques,DD5 2AN,56.4666,-2.8720
 Doc Ferry's Bar,DD5 2AU,56.4670,-2.8752
 Doc Ferrys Bar,DD5 2AU,56.4670,-2.8752
 Bombay Joe's,DD5 2BJ,56.4659,-2.8739
+Jollys Hotel Broughty Ferry (Wetherspoon),DD5 2BJ,56.4661,-2.8743
 The Anchor Bar,DD5 2BJ,56.4662,-2.8733
 Goodfellow and Steven,DD5 2BQ,56.4667,-2.8736
 The Ship Inn,DD5 2BR,56.4650,-2.8754
@@ -58,8 +60,9 @@ Gulistan House,DD5 2HN,56.4684,-2.8745
 Woodlands Hotel,DD5 2QL,56.4735,-2.8526
 Forbes of Kingennie Country Resort,DD5 3RD,56.5073,-2.8510
 Bowmans Coffee House,DD5 4AA,56.4818,-2.8183
+Brewers Fayre Monifieth Farm,DD5 4HB,56.4917,-2.8321
 MONIFIETH MCDONALDS,DD5 4HB,56.4919,-2.8314
-McDonalds Restaurants Ltd,DD5 4HB,56.4906,-2.8352
+McDonald's,DD5 4HB,56.4904,-2.8330
 Longparke Farmshop & Cafe,DD5 4HU,56.4897,-2.8401
 The Milton Inn,DD5 4LU,56.4810,-2.8342
 manna,DD6 8AF,56.4403,-2.9410
@@ -75,18 +78,19 @@ The Rookery Bar and Restaurant,DD7 7JE,56.4988,-2.7136
 The Craigton Coach Inn,DD7 7JF,56.4978,-2.7190
 Panmure Golf Club,DD7 7RT,56.4954,-2.7493
 WEECOOK,DD7 7SA,56.4915,-2.7806
+KFC,DD8 1AX,56.6343,-2.9215
 KFC,DD8 1AX,56.6352,-2.9211
 Tiffins Cafe,DD8 1BB,56.6442,-2.8892
 The Queens Hotel,DD8 1BX,56.6440,-2.8886
-KFC,DD8 1GY,56.6343,-2.9214
 FORFAR MCDONALDS,DD8 1TE,56.6358,-2.9158
-McDonalds Restaurants Ltd,DD8 1TE,56.6358,-2.9158
+McDonald's,DD8 1TE,56.6331,-2.9228
 The Mill  Forfar,DD8 1XF,56.6195,-2.9071
 Rupali Palace,DD8 2HG,56.6455,-2.8817
 Forfar Golf Club,DD8 2RL,56.6469,-2.8435
 Sinclair's Kitchen,DD8 2RY,56.6471,-2.8240
 10 Cafe Bar,DD8 3AD,56.6448,-2.8880
 Costa Coffee,DD8 3AD,56.6446,-2.8881
+Costa Coffee,DD8 3AD,56.6448,-2.8880
 Cashley's Restaurant,DD8 3AE,56.6442,-2.8888
 FORFAR FOOD LTD,DD8 3AH,56.6461,-2.8892
 Queen Street Tavern,DD8 3AL,56.6455,-2.8863

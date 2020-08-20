@@ -1,28 +1,26 @@
 name,postcode,lat,lon
 Buffet City Exeter,EX1 1BU,50.7217,-3.5326
 Lloyd's Lounge,EX1 1DY,50.7239,-3.5297
-JD Wetherspoon Georges Meeting House,EX1 1ED,50.7207,-3.5301
+Georges Meeting House Exeter (Wetherspoon),EX1 1ED,50.7206,-3.5300
 Grow Coffee House,EX1 1EG,50.7209,-3.5312
+KFC,EX1 1EN,50.7220,-3.5323
 Board,EX1 1EQ,50.7215,-3.5316
 How On Earth Deli,EX1 1EQ,50.7215,-3.5316
 Drakes Coffee House,EX1 1EU,50.7236,-3.5296
 Hubbox Exeter,EX1 1EU,50.7237,-3.5295
 Lloyd's Kitchen,EX1 1EU,50.7236,-3.5297
-Ask Italian,EX1 1EZ,50.7230,-3.5291
 Tea on the Green,EX1 1EZ,50.7231,-3.5291
-Nandos Chickenland Ltd,EX1 1GE,50.7245,-3.5274
+Nando's,EX1 1GE,50.7248,-3.5266
+Costa Coffee,EX1 1GG,50.7238,-3.5282
 Coal Kitchen,EX1 1GJ,50.7233,-3.5280
 Chandos Deli,EX1 1GN,50.7242,-3.5278
-Pizza Express,EX1 1HF,50.7230,-3.5317
 ALFARID (UK) LTD,EX1 1HJ,50.7224,-3.5320
 The Thai Orchid Restaurant,EX1 1HJ,50.7224,-3.5320
-KFC,EX1 1HX,50.7215,-3.5296
 Sparkles Indian Cuisine,EX1 1JA,50.7211,-3.5300
-Costa Coffee,EX1 1LL,50.7236,-3.5290
-Wagamama,EX1 1LL,50.7236,-3.5290
-Yo Sushi,EX1 1LL,50.7236,-3.5290
+Costa Coffee,EX1 1LL,50.7238,-3.5288
 Kaspas Exeter Ltd T/A Kaspas Exeter,EX1 1PB,50.7218,-3.5266
 Rendezvous Wine Bar,EX1 1PE,50.7216,-3.5268
+Thyme,EX1 1SG,50.7213,-3.5272
 Kate’s at Sitel,EX1 1ST,50.7245,-3.5242
 dee yi chinese restaurant,EX1 2LD,50.7249,-3.5211
 The Bengal Indian takeaway,EX1 2QL,50.7213,-3.5061
@@ -37,23 +35,21 @@ Hotel Du Vin Exeter,EX2 4HY,50.7205,-3.5268
 Meat59 (Exeter) Limited,EX2 4TA,50.7211,-3.5210
 St Leonard's Bakery,EX2 4TA,50.7211,-3.5210
 the tasting room,EX2 6AA,50.7108,-3.5134
-Elior Catering/Six Rifles,EX2 6AR,50.7123,-3.5114
 MILLBROOK VILLAGE MANAGEMENT LIMITED,EX2 6FD,50.7072,-3.5084
 The Tally Ho Inn,EX2 6LG,50.7022,-3.5016
-Nando's Chickenland,EX2 8AA,50.7085,-3.5368
 Starbucks Exeter Alphington Road,EX2 8AA,50.7085,-3.5368
 The Quay Climbing Centre Ltd,EX2 8AX,50.7164,-3.5305
 The Ridge Coffee Shop ,EX2 8AX,50.7164,-3.5305
-Tenpin Ltd,EX2 8BY,50.7151,-3.5318
 ROCKFISH EXETER,EX2 8GT,50.7174,-3.5302
 Tea at the quay,EX2 8GT,50.7172,-3.5305
 Veg Box Cafe Ltd,EX2 8GT,50.7172,-3.5305
 VENEZIA EXETER,EX2 8GY,50.7176,-3.5305
 Quayside Cafe,EX2 8GZ,50.7175,-3.5317
 Taste Cafe,EX2 8LB,50.6957,-3.5161
-Costa Coffee,EX2 8LH,50.7096,-3.5360
+Costa Coffee,EX2 8LH,50.7091,-3.5350
+McDonald's,EX2 8LH,50.7091,-3.5358
 McDonald's,EX2 8LH,50.7096,-3.5360
-Mcdonalds Restaurants,EX2 8LH,50.7096,-3.5360
+KFC,EX2 8NA,50.7076,-3.5371
 iBounce (Exeter) Limited,EX2 8PN,50.7060,-3.5310
 Pitstop cafe ,EX2 8PQ,50.7067,-3.5276
 Cafe 53,EX2 8RG,50.7028,-3.5308
@@ -66,11 +62,12 @@ Poachers Inn ,EX2 9RW,50.7024,-3.5595
 Hog & Hedge,EX20 2QT,50.7195,-3.8521
 The Post Inn,EX20 2QT,50.7195,-3.8521
 The Kings,EX4 1AA,50.7179,-3.5386
-Pizza Hut,EX4 1AH,50.7167,-3.5379
+Costa Coffee,EX4 1AH,50.7166,-3.5376
 Subway,EX4 1AL,50.7169,-3.5401
 MAZUMDER (EXETER) LTD,EX4 1AP,50.7162,-3.5415
 Cafe at 36,EX4 1AW,50.7165,-3.5409
 the coffee cup,EX4 1DG,50.7176,-3.5407
+The Sawyers Arms Exeter (Wetherspoon),EX4 1JD,50.7155,-3.5443
 Argee Bhajee,EX4 1JU,50.7153,-3.5478
 Travellers Rest,EX4 2HQ,50.7231,-3.6143
 The Mill on the Exe,EX4 3AB,50.7218,-3.5393
@@ -79,33 +76,28 @@ Ganges Restaurant,EX4 3AT,50.7215,-3.5344
 Jasmine  Thai Restaurant,EX4 3AT,50.7212,-3.5345
 Tapitapa,EX4 3AT,50.7215,-3.5343
 Margoux,EX4 3AZ,50.7223,-3.5347
-Burger King,EX4 3DJ,50.7233,-3.5312
-Caffe Nero,EX4 3DT,50.7228,-3.5320
+McDonald's,EX4 3DU,50.7228,-3.5325
 McDonald's,EX4 3DU,50.7230,-3.5326
-Mcdonalds Restaurants Ltd,EX4 3DU,50.7230,-3.5326
 Patisserie Valerie,EX4 3DU,50.7230,-3.5326
 Arthur’s deli cafe ltd,EX4 3EB,50.7234,-3.5321
 Absurd Bird,EX4 3HP,50.7236,-3.5328
 Comptoir Exeter,EX4 3HP,50.7236,-3.5328
-Franco Manca,EX4 3HP,50.7236,-3.5329
+The Chevalier Inn Exeter (Wetherspoon),EX4 3HR,50.7222,-3.5329
 The Oggy Oggy Pasty Shop Exeter,EX4 3HW,50.7244,-3.5325
-Turtle Bay,EX4 3HW,50.7242,-3.5320
 Exeter arcade,EX4 3JQ,50.7204,-3.5350
 The Glorious Art House,EX4 3JQ,50.7204,-3.5350
-Starbucks Coffee Co,EX4 3LF,50.7248,-3.5280
 Starbucks Exeter,EX4 3LF,50.7248,-3.5280
+Costa Coffee,EX4 3LR,50.7241,-3.5307
 Chococo Exeter,EX4 3LS,50.7248,-3.5313
 Coolings on Gandy Street,EX4 3LS,50.7248,-3.5313
 Phoenix Cafebar,EX4 3LS,50.7248,-3.5313
 The Cork & Tile,EX4 3LS,50.7248,-3.5313
-Zizzi,EX4 3LS,50.7248,-3.5313
+Costa Coffee,EX4 3NJ,50.7246,-3.5321
 Coffery & Co.,EX4 3QR,50.7229,-3.5328
 Herbies vegetarian restaurant ,EX4 3QS,50.7230,-3.5336
-Mecca Bingo Clubs,EX4 3QS,50.7230,-3.5338
 Steaks n Sushi,EX4 3QS,50.7230,-3.5336
 The Conservatory Restaurant,EX4 3QS,50.7230,-3.5336
 Mulberry Tree Cafe,EX4 3RG,50.7249,-3.5370
-Caffe Nero,EX4 3RP,50.7245,-3.5316
 Devon Coffee,EX4 3RP,50.7245,-3.5316
 Subway,EX4 3RP,50.7245,-3.5316
 The Boston Tea Party Group Limited,EX4 3RP,50.7245,-3.5316
@@ -121,26 +113,24 @@ The Lamb at Longdown,EX6 7SR,50.7069,-3.5987
 The Ley Arms ,EX6 7UW,50.6600,-3.5256
 Exeter Court Hotel,EX6 7UX,50.6595,-3.5366
 HALDON FOREST DINER,EX6 7XS,50.6411,-3.5610
-McDonalds,EX6 7XS,50.6403,-3.5629
 Route 5,EX6 7XS,50.6403,-3.5629
 Lord Haldon Hotel,EX6 7YF,50.6713,-3.5835
 The Forest Inn Dartmoor Ltd,PL20 6SD,50.5387,-3.9009
 Orestone Manor Hotel and Restaurant ,TQ1 4SX,50.5018,-3.5196
 The Tradesmans Arms,TQ11 0JB,50.5021,-3.8291
 McDonald's Restaurant Newton Abbot ,TQ12 1BN,50.5232,-3.5937
+McDonald's,TQ12 1BN,50.5244,-3.5947
 The Green Room NA Ltd,TQ12 1GJ,50.5287,-3.6078
 The Clock Tower Coffee shop ,TQ12 1JJ,50.5297,-3.6129
 Meat59 (Newton Abbot) Limited,TQ12 1JR,50.5293,-3.6124
 Twelve Twenty,TQ12 1JR,50.5292,-3.6126
 The Highweek Village Inn,TQ12 1QA,50.5368,-3.6276
-Compass Group UK (Customer Cafe Asda),TQ12 1TQ,50.5306,-3.6136
-Burger King,TQ12 2AQ,50.5310,-3.6082
 Lemon Jelli Bistro LTD,TQ12 2AQ,50.5310,-3.6082
 Naz,TQ12 2BG,50.5311,-3.6044
 Domino's Pizza,TQ12 2BN,50.5310,-3.6021
-KFC,TQ12 2BN,50.5310,-3.6021
-Costa Coffee,TQ12 2DT,50.5298,-3.6111
+Costa Coffee,TQ12 2DT,50.5297,-3.6108
 RC AUSTIN LTD,TQ12 2DU,50.5295,-3.6119
+The Richard Hopkins Newton Abbot (Wetherspoon),TQ12 2EH,50.5307,-3.6078
 Eastern Eye (Newton Abbot) Limited,TQ12 2EU,50.5307,-3.6024
 Jackson Ltd,TQ12 2EW,50.5306,-3.6071
 The Pharmacy coffee shop,TQ12 2EW,50.5306,-3.6071
@@ -158,13 +148,14 @@ Yhe Cheeky Cherry Cafe,TQ12 2RJ,50.5308,-3.6127
 Mr Biscuits,TQ12 2RX,50.5305,-3.6108
 SUBWAY,TQ12 2RX,50.5305,-3.6108
 The Other Cup,TQ12 2RX,50.5308,-3.6110
-Costa Coffee,TQ12 3AF,50.5387,-3.6009
+Beefeater The Grandstand,TQ12 3AF,50.5406,-3.6001
 The Bell Inn,TQ12 3AX,50.5464,-3.5929
 The Ten Tors Inn,TQ12 3NP,50.5608,-3.5979
 Sandygate Inn,TQ12 3PU,50.5609,-3.6001
 The Old Rydon Inn,TQ12 3QG,50.5542,-3.5931
 Passage House Inn,TQ12 3QH,50.5429,-3.5885
-Costa Coffee,TQ12 3RN,50.5410,-3.6021
+Costa Coffee,TQ12 3RN,50.5405,-3.6018
+Costa Coffee,TQ12 3SB,50.5442,-3.5972
 leisure lounge cafe,TQ12 3SB,50.5422,-3.5951
 iBounce Newton Abbot Ltd,TQ12 4SG,50.5236,-3.5754
 The Barn Owl Inn,TQ12 5AN,50.5095,-3.5847

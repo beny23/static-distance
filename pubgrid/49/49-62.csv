@@ -9,15 +9,17 @@ The Woodhouse Arms,NG33 4NS,52.8108,-0.5167
 Rasells Nurseries The Tea House,NG33 4RA,52.7464,-0.4943
 Willoughby Arms ,NG33 4RA,52.7464,-0.4943
 Fox & Hounds ,NG33 4RZ,52.7545,-0.5380
-Burger King,NG33 5JN,52.8035,-0.6077
+McDonald's,NG33 5FF,52.8052,-0.6111
 OK Diner OK Diner New Fox,NG33 5LN,52.7657,-0.6106
-Starbucks,NG33 5LN,52.7650,-0.6101
+KFC,PE1 4BF,52.6001,-0.2099
 INFLATA NATION,PE1 4YZ,52.6002,-0.2152
 The Wishing Well Inn,PE10 0AF,52.7890,-0.3643
 The Horseshoe,PE10 0EL,52.7364,-0.3679
 MCDONALDS,PE10 0ET,52.7546,-0.3692
+McDonald's,PE10 0ET,52.7546,-0.3691
 The Six Bells,PE10 0JH,52.7358,-0.4415
 China Hand Lincs Ltd,PE10 9AB,52.7696,-0.3767
+Costa Coffee,PE10 9AB,52.7685,-0.3771
 Costa Coffee,PE10 9AB,52.7696,-0.3767
 Jubilee Garage,PE10 9AB,52.7696,-0.3767
 Cafe 35,PE10 9AE,52.7691,-0.3775
@@ -25,7 +27,6 @@ Galaxy91 Limited,PE10 9AE,52.7691,-0.3775
 Smiths of Bourne,PE10 9AE,52.7691,-0.3775
 The Beanbag (bourne) ltd trading as The Angel Hotel,PE10 9AE,52.7691,-0.3775
 Wild Heart Cafe,PE10 9AE,52.7691,-0.3775
-Bourne Leisure Centre,PE10 9DX,52.7737,-0.3729
 Dont Lose Hope Cafe,PE10 9EA,52.7683,-0.3767
 Ginger Fox Cafe,PE10 9EF,52.7678,-0.3760
 The Nags Head,PE10 9EF,52.7678,-0.3760
@@ -41,6 +42,8 @@ Bounce Boundless fun Trampoline park,PE2 6UN,52.6167,-0.2903
 Flip Out Peterborough,PE3 8AY,52.6051,-0.2766
 Remstone Kitchen ,PE3 8NZ,52.6013,-0.2828
 Safari Adventure Play,PE3 8SB,52.6079,-0.2831
+McDonald's,PE4 6AB,52.6000,-0.2669
+Table Table Paul Pry,PE4 6AH,52.6024,-0.2668
 Mancetter Square Cafe,PE4 6BX,52.6068,-0.2754
 Honey Bees,PE4 6EU,52.6040,-0.2590
 Elior at Queen Katherine Academy,PE4 6HX,52.6050,-0.2659
@@ -54,7 +57,7 @@ Watering Can,PE4 7AD,52.6161,-0.2473
 Golden Pheasant,PE6 7DA,52.6433,-0.3150
 The Blue Bell,PE6 7ED,52.6339,-0.3442
 MCDONALDS,PE6 7JR,52.6377,-0.2979
-McDonalds Restaurants Limited,PE6 7JR,52.6377,-0.2979
+McDonald's,PE6 7JR,52.6319,-0.2975
 The Blue Bell Glinton,PE6 7LS,52.6384,-0.2933
 Ruddy Duck,PE6 7NF,52.6419,-0.2754
 the bull ,PE6 7QW,52.6397,-0.2229
@@ -74,7 +77,6 @@ Maharanis Restaurant ,PE6 8HA,52.6722,-0.3038
 Taj mahal,PE6 8HT,52.6755,-0.3120
 THE SPICE MERCHANT ,PE6 8PX,52.6730,-0.2943
 The Goat,PE6 8SA,52.6802,-0.2809
-Wilson Vale Catering at Park Air Electronics,PE6 8UE,52.6874,-0.3114
 The Pack Horse,PE6 9BL,52.6575,-0.3007
 The Waggon and Horses,PE6 9LW,52.6983,-0.3393
 Oasis Restaurant,PE6 9NY,52.7169,-0.3644
@@ -86,23 +88,22 @@ Jalsagor LTD,PE9 1PJ,52.6534,-0.4774
 Cafe au Chocolat,PE9 1PL,52.6529,-0.4787
 Frothys coffeeshop,PE9 1PL,52.6529,-0.4787
 MCDONALDS,PE9 1TX,52.6579,-0.4653
+McDonald's,PE9 1TX,52.6585,-0.4655
 Paten & Co,PE9 2AG,52.6526,-0.4805
 The Crown Hotel,PE9 2AG,52.6527,-0.4809
 Central cafe & tea rooms,PE9 2AJ,52.6519,-0.4808
 Cafe Black,PE9 2AL,52.6524,-0.4791
-Caffe Nero,PE9 2AL,52.6524,-0.4791
 Strays Coffee,PE9 2AL,52.6524,-0.4791
 Hoppi Dorri,PE9 2AR,52.6518,-0.4811
 The Lean Pantry Company Stamford Ltd,PE9 2AW,52.6520,-0.4789
 ALLORO,PE9 2AX,52.6519,-0.4779
 Lambert's,PE9 2AX,52.6521,-0.4780
-Costa Coffee,PE9 2BB,52.6530,-0.4768
+Costa Coffee,PE9 2BB,52.6529,-0.4769
 Scandimania Coffee House,PE9 2BB,52.6529,-0.4771
 Subway,PE9 2BB,52.6530,-0.4768
 The Tobie Norris,PE9 2BE,52.6537,-0.4753
 The mad Turk,PE9 2BE,52.6537,-0.4753
 Aloha foods co,PE9 2DB,52.6516,-0.4804
-Ask Italian,PE9 2DB,52.6516,-0.4804
 THE LONDON INN LTD,PE9 2DB,52.6516,-0.4804
 Cloisters Bistro ,PE9 2DE,52.6515,-0.4793
 The Copper Room,PE9 2DP,52.6510,-0.4785
@@ -110,12 +111,12 @@ Zada,PE9 2DP,52.6510,-0.4785
 The Fine Food Store Ltd,PE9 2DS,52.6513,-0.4793
 The slanted door ,PE9 2DS,52.6513,-0.4793
 The George Hotel of Stamford,PE9 2LB,52.6496,-0.4782
-Pizza Express,PE9 2LE,52.6501,-0.4779
 The Bull and Swan at Burghley,PE9 2LJ,52.6473,-0.4761
 William Cecil Hotel,PE9 2LJ,52.6473,-0.4761
 Raj Of India ,PE9 2PA,52.6518,-0.4823
 Stamford Masonic Centre,PE9 2PA,52.6518,-0.4823
 The Jolly Brewer,PE9 2PP,52.6516,-0.4860
+The Stamford Post Stamford (Wetherspoon),PE9 2QZ,52.6511,-0.4808
 GOOCH'S,PE9 2RA,52.6512,-0.4805
 Street Food Station Ltd,PE9 2RA,52.6513,-0.4806
 The Bombay Cottage,PE9 2YQ,52.6529,-0.4851

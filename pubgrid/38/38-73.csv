@@ -1,12 +1,11 @@
 name,postcode,lat,lon
 Colchester High Street McDonalds,CO1 1DH,51.8895,0.9007
 Love Thy Burger,CO1 1DH,51.8895,0.9007
-Mcdonalds Restaurants Ltd,CO1 1DH,51.8895,0.9007
 Preto,CO1 1DH,51.8895,0.9007
 Brook Red Lion Hotel ,CO1 1DJ,51.8894,0.9003
 KASPAS DESSERTS COLCHESTER,CO1 1DN,51.8894,0.9027
 Three Wise Monkeys Colchester,CO1 1DN,51.8894,0.9027
-Prezzo,CO1 1LD,51.8892,0.9039
+Thyme,CO1 1HY,51.8930,0.9002
 Triple TWo Coffee,CO1 1LH,51.8889,0.9023
 Aburi restaurant LTD.,CO1 1LN,51.8879,0.9029
 Jacquelines tearoom,CO1 1LN,51.8879,0.9029
@@ -15,7 +14,7 @@ Chicago Cafe,CO1 1LS,51.8879,0.9007
 Small Talk Tearooms,CO1 1LS,51.8879,0.9007
 The Purple Dog Pub ,CO1 1LS,51.8879,0.9007
 Wild at Spirit,CO1 1LS,51.8879,0.9007
-Costa Coffee,CO1 1LX,51.8883,0.9007
+Costa Coffee,CO1 1LX,51.8885,0.9008
 Tanbell Ltd ,CO1 1LX,51.8883,0.9006
 Wimpy,CO1 1TB,51.8899,0.9016
 MAHARANI INDIAN RESTAURANT LTD,CO1 1TH,51.8898,0.9026
@@ -25,9 +24,9 @@ Mamma Mia Restaurant and Pizzeria(Colchester),CO1 1TN,51.8899,0.9024
 Sip & Tuck,CO1 1UE,51.8897,0.9047
 GREYFRIARS COLCHESTER,CO1 1UG,51.8901,0.9053
 Putt in the  Park ,CO1 1UG,51.8901,0.9053
+McDonald's,CO1 1US,51.8974,0.9069
 The Foresters Arms,CO1 1UW,51.8917,0.9063
 MT COFFEE LTD T/A MUFFIN BREAK,CO1 1XJ,51.8887,0.9002
-Tenpin,CO1 1YH,51.8971,0.9045
 THE BAMBOO HOUSE,CO1 2AN,51.8830,0.9094
 Sushi n Sake,CO1 2HG,51.8808,0.9217
 Yak & Yeti Colchester,CO1 2JT,51.8858,0.9046
@@ -36,7 +35,7 @@ Curzon Colchester,CO1 2PH,51.8892,0.9045
 Kimchi House,CO1 2PJ,51.8890,0.9040
 DICE & A SLICE LTD,CO1 2PQ,51.8885,0.9039
 NAKA THAI,CO1 2QX,51.8898,0.9104
-Costa Coffee,CO1 2TE,51.8852,0.9296
+Costa Coffee,CO1 2TE,51.8851,0.9304
 Rollerworld Ltd,CO1 2TJ,51.8882,0.9201
 The Old Siege House Bar and Brasserie,CO1 2TS,51.8903,0.9165
 ROSE AND CROWN HOTEL,CO1 2TZ,51.8907,0.9183
@@ -54,12 +53,15 @@ The Alma Inn and Dining Rooms,CO12 3EE,51.9473,1.2863
 The New Bell Inn,CO12 3EN,51.9472,1.2889
 Thai up at the Quay,CO12 3EZ,51.9474,1.2868
 The Pier at Harwich,CO12 3HH,51.9479,1.2865
+The Bottle Kiln Harwich (Wetherspoon),CO12 3JR,51.9364,1.2811
 The Tower Hotel (Dovercourt) Limited,CO12 3PJ,51.9364,1.2758
 Dovercourt Skate Rink,CO12 3ST,51.9270,1.2700
-Costa Coffee,CO12 4EN,51.9410,1.2604
 Costa Coffee,CO12 4FE,51.9390,1.2642
+Costa Coffee,CO12 4FE,51.9412,1.2581
 Harwich McDonalds,CO12 4GA,51.9393,1.2599
+McDonald's,CO12 4GA,51.9393,1.2600
 Shadowcat Coffee Shop,CO12 4HT,51.9333,1.2571
+Brewers Fayre The Mayflower,CO12 4NX,51.9392,1.2582
 Fryatts Hotel & Bar,CO12 4PA,51.9430,1.2559
 Skippers Fish & Chips,CO12 4PB,51.9425,1.2538
 STENA BRITANNICA,CO12 4SX,51.9474,1.2555
@@ -82,6 +84,7 @@ Connaughts Coffee House,CO13 9PP,51.8317,1.2452
 Youngs Fisheries,CO13 9PP,51.8317,1.2452
 Aimes Ltd t/a Costa Coffee Frinton,CO13 9PR,51.8318,1.2457
 BRITISH INDIA RESTAURANT,CO13 9PR,51.8318,1.2457
+Costa Coffee,CO13 9PR,51.8323,1.2455
 FREDS CAFE,CO13 9PR,51.8318,1.2457
 The Hat & The Mouse,CO13 9PR,51.8318,1.2457
 the lock and barrel,CO13 9PR,51.8318,1.2457
@@ -92,6 +95,7 @@ Marina Functions Ltd,CO14 8SL,51.8630,1.2583
 Nineteenth catering,CO15 1AJ,51.7812,1.1344
 Beachdiner,CO15 1BW,51.7812,1.1413
 Sun Tong Restaurant,CO15 1HN,51.7921,1.1479
+Costa Coffee,CO15 1HX,51.7900,1.1457
 Papa John's Clacton on Sea,CO15 1JA,51.7894,1.1505
 Waffle On Clacton,CO15 1JA,51.7894,1.1505
 The Haven Residential Care Home Ltd,CO15 1JN,51.7875,1.1509
@@ -108,14 +112,16 @@ T/A Tracys cafe bistro,CO15 1PQ,51.7888,1.1539
 Armstrongs at the Pavilion,CO15 1PS,51.7880,1.1558
 Playas at the Pavilion,CO15 1PS,51.7880,1.1558
 MY BIG FAT GREEK TAVERNA,CO15 1PU,51.7878,1.1543
+Moon and Starfish ClactononSea (Wetherspoon),CO15 1PU,51.7876,1.1543
 Franco's Italian,CO15 1PX,51.7883,1.1548
 Charnallies Restaurant and Bar,CO15 1QB,51.7878,1.1531
 Coffeelink ,CO15 1QE,51.7892,1.1515
 Clacton High Street McDonalds,CO15 1QN,51.7887,1.1529
-McDonalds,CO15 1QN,51.7887,1.1529
+Costa Coffee,CO15 1QN,51.7893,1.1522
 Taste,CO15 1QR,51.7885,1.1523
 Clacton Pier,CO15 1QX,51.7844,1.1572
 Jolly Roger Restaurant,CO15 1QX,51.7864,1.1546
+Thyme,CO15 1RD,51.7873,1.1525
 Blackrock Restaurant Ltd,CO15 1RH,51.7874,1.1534
 El Guaca Mexican Grill,CO15 1RH,51.7874,1.1533
 Tom Peppers,CO15 1RH,51.7874,1.1533
@@ -125,14 +131,13 @@ Greensward Cafe Ltd,CO15 1XB,51.7823,1.1440
 Pizza Hut,CO15 3AT,51.7947,1.1480
 eat one 8 one,CO15 3AU,51.7955,1.1484
 Mad hatters cafe ,CO15 3QL,51.7972,1.1506
-Elior UK,CO15 3TP,51.8121,1.1473
-KFC (Brook Retail Park),CO15 3TP,51.8121,1.1473
 KFC Clacton,CO15 3TP,51.8121,1.1474
-Pizza Hut,CO15 3TP,51.8121,1.1473
+KFC,CO15 3TP,51.8121,1.1474
 The Ship,CO15 4AR,51.8037,1.1566
+McDonald's,CO15 4EF,51.8105,1.1440
 SAFFRON INDIAN RESTAURANT ,CO15 4QH,51.8064,1.1559
 Village Cafe,CO15 4QH,51.8064,1.1559
-Burger King,CO15 4TL,51.8186,1.1673
+Costa Coffee,CO15 4TL,51.8183,1.1671
 Subway,CO15 4TL,51.8185,1.1684
 Kingscliff Hotel,CO15 5JB,51.7979,1.1830
 The vintage tea room,CO15 5UL,51.8031,1.1834
@@ -151,19 +156,18 @@ Clacton Brook Retail Park McDonalds,CO16 8FZ,51.7998,1.1586
 Dukes Tearoom and Bistro,CO16 8PA,51.7995,1.0787
 The Red Lion - Pub & Restaurant,CO16 8PA,51.7995,1.0787
 balti house indian cuisine,CO16 8RP,51.7985,1.0781
-McDonalds,CO16 9AD,51.8588,1.1020
+Table Table Bowling Green,CO16 9AA,51.8588,1.1020
+McDonald's,CO16 9AD,51.8595,1.1040
 Weeley McDonalds,CO16 9AD,51.8588,1.1020
 Floral Days Cafe,CO16 9DN,51.8489,1.1186
 The Black Boy,CO16 9JJ,51.8589,1.1171
 Homestead Cabin,CO16 9JN,51.8599,1.1205
 Tokyo Sizzle,CO2 7DA,51.8877,0.9000
 SONS WAY LIMITED,CO2 7DB,51.8874,0.9002
-Buzz Bingo,CO2 7DP,51.8871,0.9021
 L'Patisserie,CO2 7EA,51.8871,0.9038
 Britannia Gurkha Restaurant & Sport Bar,CO2 7QY,51.8791,0.9035
 SUBWAY ,CO2 8FR,51.8798,0.9316
 Pizza Hut Colchester South,CO2 8FU,51.8797,0.9273
-Pizza Hut,CO2 8FU,51.8797,0.9273
 Bambu,CO2 8GN,51.8792,0.9305
 the eat inn diner,CO2 8HG,51.8744,0.9276
 Colchester Kawasaki Race Cafe,CO2 8HH,51.8743,0.9310
@@ -174,13 +178,13 @@ Wivenhoe House Hotel Limited,CO4 3FA,51.8948,0.9445
 Greenstead Social Club,CO4 3QD,51.8898,0.9353
 Filling station cafe,CO4 3QE,51.8914,0.9369
 Fillpots Garden Centre LLP,CO4 5RB,51.9400,0.9039
-Costa Coffee,CO4 5TU,51.9016,0.9010
-Pizza Hut,CO4 5TU,51.9016,0.9010
+Costa Coffee,CO4 5TU,51.9011,0.9007
 SUBWAY ,CO4 5TU,51.9016,0.9022
 The Oak Tree Coffee House,CO4 9BB,51.9106,0.9187
 KFC Ardleigh,CO4 9HB,51.9176,0.9315
+KFC,CO4 9HB,51.9182,0.9324
 CHEFS EATING HOUSE LTD,CO4 9HT,51.9201,0.9270
-Elior (at Linklaters),CO4 9YQ,51.9237,0.9214
+Table Table Balkerne Gate,CO4 9WP,51.9197,0.9325
 Mimosa Restaurant,CO4 9YQ,51.9237,0.9214
 Jam jar ,CO5 7EA,51.8564,0.9469
 The Anchor Rowhedge,CO5 7ES,51.8561,0.9486

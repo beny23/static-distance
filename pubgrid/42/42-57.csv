@@ -1,11 +1,11 @@
 name,postcode,lat,lon
 The Old Olive Bush ,CV23 8AT,52.2671,-1.2456
 Northampton and County Club,NN1 1DF,52.2365,-0.8963
-KFC,NN1 1EE,52.2339,-0.9057
+KFC,NN1 1EE,52.2307,-0.9040
 Kazper Restaurants Limited,NN1 1EE,52.2339,-0.9057
-McDonalds,NN1 1EE,52.2339,-0.9057
-Starbucks Coffee,NN1 1EE,52.2339,-0.9057
+McDonald's,NN1 1EE,52.2344,-0.9048
 KFC - 102 St James Mill Rd Northampton,NN1 1ET,52.2318,-0.9053
+Thyme,NN1 1FA,52.2354,-0.8933
 Humpit - Northampton,NN1 1JA,52.2371,-0.8935
 MARMARIS TURKISH RESTAURANT,NN1 1JA,52.2371,-0.8935
 The Wig & Pen,NN1 1JA,52.2371,-0.8935
@@ -19,48 +19,43 @@ Brooklyn Social,NN1 1PA,52.2354,-0.8974
 SOPHIAS MEDITERRANEAN RESTAURANT,NN1 1PA,52.2354,-0.8974
 The Church Bar & Restaurant,NN1 1PD,52.2343,-0.8976
 Aspers Northampton Limited,NN1 1PJ,52.2348,-0.8985
+Costa Coffee,NN1 1PS,52.2358,-0.9002
 Cafe Coco,NN1 1PT,52.2365,-0.8995
 OREN PHO ,NN1 1PY,52.2355,-0.9008
-Oren Pho Bar Grill,NN1 1PY,52.2355,-0.9008
 The Sandwich Bar,NN1 1RA,52.2366,-0.8992
 coconut grove cafe,NN1 1RA,52.2366,-0.8992
 Jennys Restaurant,NN1 1RS,52.2369,-0.8991
-Turtle Bay,NN1 1RS,52.2369,-0.8991
 sorrentino pasta house ltd,NN1 1RS,52.2369,-0.8991
-Starbucks,NN1 1SP,52.2375,-0.9066
 Andrea's Italian,NN1 1SR,52.2366,-0.9019
 Balti Central Limited,NN1 1SR,52.2367,-0.9019
 DELHI HUT - INDIAN CUISINE,NN1 1SR,52.2367,-0.9019
 Gravity - Northampton,NN1 1SR,52.2367,-0.9019
 PJAYZ KITCHEN,NN1 1TY,52.2366,-0.8927
-Pizza Express,NN1 1UB,52.2369,-0.8942
 The Dining Room,NN1 1UH,52.2358,-0.8911
 Cafe Creperie,NN1 2AA,52.2378,-0.8931
 Market Tavern,NN1 2AA,52.2378,-0.8931
-Caffe Nero,NN1 2AJ,52.2379,-0.8945
-Costa Coffee,NN1 2AJ,52.2379,-0.8945
+Costa Coffee,NN1 2AJ,52.2382,-0.8937
 Albert J Ramsbottom,NN1 2AP,52.2385,-0.8921
 JENNY’S CAFE & RESTAURANT,NN1 2AP,52.2385,-0.8921
 THE SMOKE PIT,NN1 2AQ,52.2380,-0.8924
+The Cordwainer Northampton (Wetherspoon),NN1 2AQ,52.2379,-0.8927
 MATCHBOX CAFE,NN1 2AW,52.2389,-0.8927
 KFC - 73 Abington Street Northampton,NN1 2BH,52.2394,-0.8909
 THE COFFEE HOUSE,NN1 2BH,52.2394,-0.8910
 Burger King,NN1 2BP,52.2394,-0.8899
 Nuovo,NN1 2BP,52.2394,-0.8899
 Nando's,NN1 2DA,52.2374,-0.8954
-Prezzo,NN1 2DA,52.2374,-0.8954
 Burger King,NN1 2DF,52.2381,-0.8957
 Starbucks,NN1 2DF,52.2380,-0.8955
 Global Java Bean Limited T/A Esquires Coffee,NN1 2DG,52.2378,-0.8936
 Cafe Track ,NN1 2DL,52.2380,-0.8969
 Muffin Break Northampton,NN1 2EB,52.2386,-0.8944
 Kazper Restaurants Limited,NN1 2EL,52.2389,-0.8949
-McDonalds Restaurants Ltd,NN1 2EL,52.2390,-0.8944
 bewiched coffee,NN1 2EL,52.2389,-0.8949
-Costa Coffee,NN1 2EP,52.2393,-0.8946
+Costa Coffee,NN1 2EP,52.2389,-0.8947
 Kaspa’s Desserts Northampton,NN1 2ET,52.2371,-0.8978
 Kazper Restaurants Limited,NN1 2ET,52.2371,-0.8975
-McDonalds Restaurants Ltd,NN1 2ET,52.2371,-0.8978
+McDonald's,NN1 2ET,52.2374,-0.8974
 The Vintage Tearoom Northampton Ltd,NN1 2JL,52.2415,-0.9028
 Grosvenor Casino Northampton,NN1 2LA,52.2418,-0.8995
 ORIENTAL CHINA GARDEN LTD,NN1 2LT,52.2390,-0.8983
@@ -82,10 +77,8 @@ LaZeez Northants Ltd,NN1 3RJ,52.2447,-0.8971
 Kilwe Cafe,NN1 3RQ,52.2435,-0.8975
 Exotic Cuisine Grill & Restaurant Ltd,NN1 4AA,52.2399,-0.8883
 Caribbean DutchPot at The Press,NN1 4AE,52.2402,-0.8887
-KFC,NN1 4AE,52.2402,-0.8887
 SANDWICH WORLD ,NN1 4AE,52.2402,-0.8887
 Cheyne Walk Club,NN1 5PU,52.2371,-0.8885
-Elior @ Daventry Hill School,NN11 0QE,52.2631,-1.1641
 Reservoir Cafe,NN11 2JB,52.2729,-1.1548
 The White Horse,NN11 2JP,52.2902,-1.1487
 canalside restaurant,NN11 2NH,52.2757,-1.0971
@@ -98,13 +91,14 @@ Roso Cafe ,NN11 4AA,52.2575,-1.1639
 Asia tandoori ,NN11 4AJ,52.2564,-1.1669
 DAVENTRY CONSERVATIVE CLUB LTD,NN11 4BQ,52.2578,-1.1626
 COSTA COFFEE,NN11 4DR,52.2573,-1.1616
+Costa Coffee,NN11 4DR,52.2572,-1.1620
 KITCHEN,NN11 4DR,52.2576,-1.1614
 Kuni Coffee,NN11 4DR,52.2576,-1.1609
 A & N uk trading ltd,NN11 4EA,52.2502,-1.1579
 Eat! Eat!  ,NN11 4FG,52.2594,-1.1608
 McDonald's Restaurant,NN11 4GD,52.2580,-1.1568
-JD Wetherspoon,NN11 4GG,52.2577,-1.1648
-Everyone Active,NN11 4GP,52.2596,-1.1597
+McDonald's,NN11 4GD,52.2585,-1.1563
+The Saracens Head Inn Daventry (Wetherspoon),NN11 4GG,52.2577,-1.1645
 Abdul's Indian Restaurant,NN11 4HU,52.2580,-1.1628
 Abduls Indian Restaurant ,NN11 4HU,52.2580,-1.1628
 The Aroma Lounge,NN11 4HU,52.2578,-1.1641
@@ -117,22 +111,20 @@ The Countryman,NN11 6JH,52.2462,-1.2103
 Skylark Farm Cafe,NN11 6JY,52.2461,-1.2197
 Red Lion at Hellidon,NN11 6LG,52.2190,-1.2446
 THE ADMIRAL NELSON,NN11 7HJ,52.2894,-1.1997
-CH&Co @ JDW,NN11 8NF,52.2728,-1.1829
 olive tree restaurant,NN12 6AJ,52.1274,-0.9827
 Brave old oak,NN12 6BT,52.1329,-0.9893
-Costa Coffee,NN12 6BT,52.1329,-0.9893
 THE LITTLE BLUE BAKERY,NN12 6BT,52.1327,-0.9892
 TRUVA CHARCOAL GRILL & BAR,NN12 6BU,52.1313,-0.9883
 185 Watling ST. Pub & Kitchen,NN12 6BX,52.1322,-0.9892
 Clarke & Dean,NN12 6BX,52.1324,-0.9892
 Frank's hamburger house,NN12 6BX,52.1322,-0.9892
 Ten Hands Cafe Bar,NN12 6BX,52.1322,-0.9892
+Costa Coffee,NN12 6DB,52.1330,-0.9896
 The bull towcester,NN12 6DH,52.1314,-0.9946
 Bell Plantation Cafe,NN12 6GX,52.1415,-0.9969
 The Folly Inn,NN12 6LB,52.1224,-0.9727
 Kazper Restaurants Limited,NN12 6TQ,52.1267,-1.0046
-Mcdonalds Restaurants Ltd,NN12 6TQ,52.1267,-1.0046
-Starbucks,NN12 6TQ,52.1267,-1.0046
+McDonald's,NN12 6TQ,52.1286,-1.0037
 The ARTea Room,NN12 7FA,52.0853,-0.9108
 Super Sausage Cafe,NN12 7QD,52.0839,-0.9021
 The Old Talbot,NN12 7QD,52.0839,-0.9021
@@ -154,10 +146,10 @@ Barratts Club,NN2 6HT,52.2509,-0.8973
 Fairways Catering Co,NN2 6ND,52.2543,-0.9035
 Shajahan,NN2 6QE,52.2630,-0.9030
 The Cock Inn,NN2 7AZ,52.2605,-0.9008
-Costa Coffee,NN2 7BD,52.2622,-0.9013
+Costa Coffee,NN2 7BD,52.2622,-0.9011
 Fairways Catering co,NN2 7BU,52.2561,-0.8890
 KFC - Alexandra Terrace Northampton,NN2 7SJ,52.2643,-0.9001
-KFC,NN2 7SJ,52.2643,-0.9001
+KFC,NN2 7SJ,52.2643,-0.9000
 Cardamon,NN2 7SL,52.2646,-0.8996
 bombay Palace Restaurant ,NN2 8AE,52.2636,-0.9011
 The Parlour at Gallones,NN2 8AG,52.2645,-0.9018
@@ -168,10 +160,10 @@ Lasaan - Once Upon a Time in India Indian Restaurant,NN2 8EP,52.2766,-0.9044
 Whyte Melville,NN2 8SF,52.2858,-0.8969
 The Obelisk Centre,NN2 8UE,52.2798,-0.9001
 Virgin Active Northampton Collingtree,NN4 0EB,52.1984,-0.8996
+Costa Coffee,NN4 0JF,52.2155,-0.9117
 Campanile Northampton,NN4 5EZ,52.1850,-0.8918
 OG’s Eatery,NN4 5EZ,52.1850,-0.8918
 subway,NN4 6DE,52.2144,-0.8897
-Costa Coffee @,NN4 6HP,52.2100,-0.8927
 THE GIGGLING SAUSAGE,NN4 8AL,52.2264,-0.8970
 Restaurant Hibiscus ,NN4 8AW,52.2249,-0.8896
 The Orangery,NN4 8AW,52.2256,-0.8896
@@ -181,14 +173,12 @@ subway,NN4 8BU,52.2156,-0.9037
 Baloo Northampton,NN4 8DL,52.2282,-0.8978
 Baloo,NN4 8DL,52.2282,-0.8978
 SUPER SAUSAGE 2,NN4 8LB,52.2271,-0.9038
-Costa Coffee,NN4 9QS,52.2092,-0.9445
-McDonalds,NN4 9QY,52.2135,-0.9519
+Costa Coffee,NN4 9QY,52.2090,-0.9436
+McDonald's,NN4 9QY,52.2098,-0.9432
 HOPS AND CHOPS,NN5 4DR,52.2415,-0.9522
-KFC,NN5 4EG,52.2344,-0.9385
+KFC,NN5 4EG,52.2349,-0.9364
 TACO TIME-Northmapton,NN5 4EG,52.2344,-0.9384
-Tgi Fridays,NN5 4EG,52.2344,-0.9385
 La Terraza Upton Ltd,NN5 4GF,52.2365,-0.9434
-Tenpin Ltd,NN5 5BE,52.2404,-0.9171
 Beacon Bingo Northampton,NN5 5BG,52.2409,-0.9192
 Indian Brasserie,NN5 5BG,52.2409,-0.9192
 Thomas A Becket,NN5 5HY,52.2369,-0.9121
@@ -198,8 +188,7 @@ Square one cafe,NN5 5LE,52.2395,-0.9142
 Pizza Hut,NN5 5LF,52.2390,-0.9148
 KFC - Walter Tull Way,NN5 5QJ,52.2352,-0.9366
 Kazper Restaurants Limited,NN5 5QJ,52.2352,-0.9366
-McDonalds,NN5 5QJ,52.2352,-0.9366
-Pizza Hut,NN5 5QL,52.2378,-0.9321
+McDonald's,NN5 5QJ,52.2375,-0.9357
 Gj at the Square,NN5 6DT,52.2506,-0.9413
 Number 50 tearoom ,NN5 6JF,52.2434,-0.9449
 Squirrels,NN5 6JF,52.2434,-0.9449
@@ -220,6 +209,7 @@ The Oval Starbucks,NN7 3NT,52.2303,-1.0199
 Bakers Arms ,NN7 3PG,52.2088,-1.0097
 The Wharf Inn,NN7 3QB,52.2063,-1.0195
 THE OLDE RED LION ,NN7 4AQ,52.2292,-0.9793
+Beefeater Turnpike - Northampton,NN7 4DD,52.2356,-0.9856
 Live and Let Live,NN7 4DP,52.2419,-0.9864
 Northampton Golf Club,NN7 4EF,52.2736,-0.9750
 The Saracens Head ,NN7 4HS,52.2678,-1.0340

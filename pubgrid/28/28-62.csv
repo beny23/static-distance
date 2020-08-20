@@ -1,21 +1,18 @@
 name,postcode,lat,lon
+Burger King,GU1 1AJ,51.2481,-0.5795
+Costa Coffee,GU1 1AJ,51.2488,-0.5788
 Queensbury Coffee,GU1 1DL,51.2479,-0.5746
 Pizza Hut,GU1 1DY,51.2453,-0.5768
+Beefeater The Parkway,GU1 1UP,51.2482,-0.5694
 RUMWONG THAI RESTAURANT,GU1 2AF,51.2384,-0.5652
 Guildford Golf Club,GU1 2HL,51.2406,-0.5362
 ASHUKA TANDOORI,GU1 2RE,51.2463,-0.5294
 Gallery cafe,GU1 3AJ,51.2362,-0.5710
 Starbucks Guildford High Street,GU1 3AW,51.2369,-0.5694
-Starbucks,GU1 3AW,51.2369,-0.5694
-Pizza Express,GU1 3BJ,51.2376,-0.5674
 Guildford Harbour Hotel,GU1 3DA,51.2382,-0.5672
 Sis&bros Coffee Shop ,GU1 3DN,51.2356,-0.5757
 Starbucks White Lion Walk,GU1 3DN,51.2356,-0.5757
-Starbucks,GU1 3DN,51.2356,-0.5757
 The Tea Terrace Restaurant and Tea Room - Guildford Branch,GU1 3DP,51.2358,-0.5732
-Caffe Nero,GU1 3DU,51.2358,-0.5732
-Caffe Nero,GU1 3DY,51.2354,-0.5750
-Wagamama,GU1 3DY,51.2354,-0.5750
 OSQS Ltd T/A McDonald's Guildford ,GU1 3EJ,51.2355,-0.5759
 Sicool Food,GU1 3EX,51.2351,-0.5739
 GU1 Fitness Studios,GU1 3HE,51.2355,-0.5733
@@ -23,13 +20,10 @@ Positano restaurant,GU1 3HQ,51.2356,-0.5725
 Amor Amora,GU1 3HW,51.2363,-0.5701
 SHARDANA RESTAURANT,GU1 3HW,51.2363,-0.5701
 Carmona Steak & Tapas,GU1 3JL,51.2374,-0.5670
-KFC,GU1 3JL,51.2374,-0.5670
 L & Z FOODS LTD,GU1 3JL,51.2374,-0.5671
 Shah's Secreto,GU1 3JL,51.2374,-0.5671
-Zizzi,GU1 3JL,51.2374,-0.5670
 Maloncho Tandoori,GU1 3JT,51.2378,-0.5654
 Love Brownies Guildford,GU1 3QT,51.2350,-0.5716
-Pho,GU1 3QY,51.2352,-0.5721
 BLUE SARDINIA RESTAURANT,GU1 3RT,51.2350,-0.5707
 Robin Hood,GU1 3RT,51.2353,-0.5697
 The Robin Hood,GU1 3RT,51.2353,-0.5697
@@ -37,44 +31,39 @@ Thai Terrace,GU1 3RW,51.2353,-0.5712
 The Albany,GU1 3SA,51.2369,-0.5670
 The March Hare,GU1 3SY,51.2339,-0.5702
 OLIVO RESTAURANT,GU1 3UA,51.2345,-0.5741
-Giggling Squid,GU1 3UH,51.2349,-0.5736
 La Casita,GU1 3UH,51.2349,-0.5736
 Theion,GU1 3UH,51.2349,-0.5736
 MEAT THE GREEK,GU1 3UL,51.2349,-0.5734
+Costa Coffee,GU1 3UU,51.2347,-0.5761
 The Keep,GU1 3UW,51.2347,-0.5730
 Kings Head,GU1 3XQ,51.2324,-0.5727
 Creams Cafe Guildford,GU1 4AA,51.2372,-0.5710
 SUSHI NARA LTD,GU1 4AA,51.2372,-0.5710
-Turtle Bay,GU1 4AA,51.2372,-0.5710
 Coffee Culture,GU1 4AE,51.2362,-0.5739
-Caffe Nero,GU1 4AH,51.2364,-0.5740
 Hanki,GU1 4AP,51.2365,-0.5715
 Raviz,GU1 4AP,51.2365,-0.5716
-Five Guys,GU1 4EH,51.2353,-0.5765
-Franco Manca,GU1 4EH,51.2353,-0.5765
-Gourmet Burger Kitchen,GU1 4EH,51.2353,-0.5765
-Nandos,GU1 4EH,51.2353,-0.5765
+Nando's,GU1 4EH,51.2358,-0.5761
 Thaikhun,GU1 4EH,51.2353,-0.5765
-Tortilla,GU1 4EH,51.2353,-0.5765
 hungry buddha,GU1 4EH,51.2353,-0.5762
 PASTAOUT RESTAURANT,GU1 4EQ,51.2359,-0.5744
-Pret A Manger,GU1 4EQ,51.2360,-0.5745
+Pret A Manger,GU1 4EQ,51.2363,-0.5743
 Jeita Lebanese Cuisine,GU1 4HD,51.2378,-0.5705
 The Guildford Spice,GU1 4HD,51.2378,-0.5705
 Vida Cuatro Limited,GU1 4LB,51.2362,-0.5728
 Pizza & pasta Boom,GU1 4LS,51.2405,-0.5723
 Pepe's Piri Piri,GU1 4QH,51.2400,-0.5758
-Burger King,GU1 4TA,51.2364,-0.5753
+The Rodboro Buildings Guildford (Wetherspoon),GU1 4RY,51.2368,-0.5774
 KOKORO,GU1 4TE,51.2362,-0.5747
 KOKORO,GU1 4YL,51.2366,-0.5766
 Thai Express Retail Limited ,GU1 4YL,51.2366,-0.5766
+KFC,GU1 4YN,51.2371,-0.5764
 Guildford Muffin Limited t/a Muffin Break,GU1 4YT,51.2372,-0.5763
+McDonald's,GU1 4YT,51.2381,-0.5760
+Costa Coffee,GU1 4YW,51.2371,-0.5764
 The Cannon ,GU2 4BL,51.2345,-0.5779
 YE OLDE SHIP INN,GU2 4EB,51.2264,-0.5795
-Starbucks,GU2 7AD,51.2383,-0.6047
-Starbucks,GU2 7XH,51.2426,-0.5880
 Young's Kitchen,GU2 7XH,51.2427,-0.5879
-CH&Co Workplace,GU2 7YL,51.2471,-0.5903
+Costa Coffee,GU2 7XX,51.2406,-0.6084
 Southway Chicken,GU2 8DQ,51.2450,-0.5968
 Southway Pizza,GU2 8DQ,51.2450,-0.5968
 The Shahin Tandoori Restaurant,GU2 9AA,51.2488,-0.5858
@@ -101,26 +90,25 @@ Hurtwood Inn Bar and Restaurant,GU5 9RR,51.1919,-0.4477
 Cranleigh Golf and Country Club,GU6 7NG,51.1521,-0.4746
 Lemongrass,GU6 8AE,51.1406,-0.4871
 The Three Horseshoes,GU6 8AE,51.1406,-0.4871
-Pizza Express,GU6 8AJ,51.1411,-0.4901
 Subway,GU6 8AJ,51.1411,-0.4901
 Cromwell Coffee House,GU6 8AU,51.1417,-0.4899
 THE RICHARD ONSLOW,GU6 8AU,51.1417,-0.4899
 Yangaz Bistro Grill,GU6 8AU,51.1417,-0.4899
 Notcutts Cranleigh,GU6 8LT,51.1481,-0.5082
 ONE 40,GU6 8RF,51.1414,-0.4911
+Costa Coffee,GU6 8RG,51.1417,-0.4925
 Wild & Green Kitchen,GU6 8RG,51.1417,-0.4925
-Costa Coffee,GU6 8RJ,51.1415,-0.4922
 Curry Inn,GU6 8RL,51.1426,-0.4942
 Rania Restaurant,GU6 8RL,51.1426,-0.4942
-Prezzo,GU7 1BD,51.1851,-0.6115
+The Jack Phillips Godalming (Wetherspoon),GU7 1DY,51.1859,-0.6123
 GORNER LTD,GU7 1DZ,51.1859,-0.6116
 Deep Blue Restaurants,GU7 1HY,51.1864,-0.6095
 Thani Moon,GU7 1HY,51.1864,-0.6095
-Baxterstorey Cafe,GU7 1LQ,51.1857,-0.6053
 Hectors & Sons Limited,GU7 1NH,51.1913,-0.5973
 Roost Godalming,GU7 1NN,51.1856,-0.6102
 The Cricketers,GU7 2HU,51.1956,-0.6077
 Flexy Chicken ,GU7 3BA,51.1960,-0.6045
+Beefeater Manor Inn,GU7 3BX,51.1961,-0.5927
 Broadwater Pavilion,GU7 3DH,51.2003,-0.5904
 Natter Cafe Limited,GU7 3EH,51.1950,-0.6044
 THE THREE LIONS,GU7 3HR,51.1919,-0.6028
@@ -129,7 +117,7 @@ THE RAJASTHAN INDIAN RESTAURANT,GU7 3TW,51.2029,-0.6063
 The White Horse,GU8 4JA,51.1465,-0.5702
 THE SUN INN DUNSFOLD LIMITED,GU8 4LE,51.1161,-0.5639
 Smith & Western,KT20 7LB,51.2493,-0.3131
-Subway At Apple Green Service Station,RH10 8BA,51.1098,-0.2059
+Thyme,RH10 8BA,51.1103,-0.2060
 Zari Restaurant and Lounge,RH11 0DQ,51.1222,-0.2133
 SUBWAY IFIELD,RH11 0JP,51.1160,-0.2156
 The Maple Manor Hotel Ltd,RH11 0QA,51.1432,-0.2008
@@ -137,43 +125,38 @@ Squire's Garden Centre Crawley,RH11 8PL,51.1068,-0.2055
 Cottesmore Hotel Golf Country Club,RH11 9AT,51.0859,-0.2233
 The REC,RH12 1AU,51.0616,-0.3248
 Deep Blue Restaurants,RH12 1DW,51.0624,-0.3287
-Ask Italian,RH12 1EE,51.0625,-0.3273
 The Red Deer,RH12 1EE,51.0625,-0.3273
-Everyman Cinema,RH12 1EH,51.0623,-0.3264
-Miller & Carter,RH12 1EH,51.0625,-0.3265
-Starbucks Coffee,RH12 1EH,51.0622,-0.3270
+Kitchen,RH12 1EH,51.0625,-0.3261
 The M Bar,RH12 1EH,51.0622,-0.3270
 Chococo Horsham,RH12 1EQ,51.0628,-0.3283
-Prezzo Restaurant,RH12 1EQ,51.0628,-0.3283
 Buenos Aires Argentine Steakhouse ,RH12 1EU,51.0618,-0.3283
 Cafe Number4,RH12 1EU,51.0618,-0.3283
-Giggling Squid,RH12 1HH,51.0618,-0.3269
 Izmir Bar Grill,RH12 1HH,51.0618,-0.3269
-Nando's,RH12 1HH,51.0617,-0.3267
-Pizza Express,RH12 1HH,51.0618,-0.3269
+Nando's,RH12 1HH,51.0621,-0.3278
 Beeches Buffet,RH12 1HJ,51.0617,-0.3262
 Brewhouse and Kitchen Horsham,RH12 1HL,51.0617,-0.3273
-Wagamama,RH12 1HL,51.0617,-0.3273
+Costa Coffee,RH12 1HQ,51.0633,-0.3297
 Nadz Coffee,RH12 1HQ,51.0633,-0.3297
 Real Eating Company Ltd,RH12 1HQ,51.0633,-0.3291
 Restaurant Tristan,RH12 1HU,51.0619,-0.3266
 Zeytin restaurant,RH12 1JE,51.0610,-0.3268
 The Comodor ,RH12 1NR,51.0620,-0.3290
-Costa Coffee,RH12 1PB,51.0627,-0.3311
-Pret A Manger,RH12 1PB,51.0627,-0.3311
-Caffe Nero,RH12 1PP,51.0631,-0.3310
+Costa Coffee,RH12 1PB,51.0624,-0.3305
+Pret A Manger,RH12 1PB,51.0627,-0.3305
 Wimpy restaurant ,RH12 1PP,51.0631,-0.3310
 Esquires Coffee House Horsham,RH12 1PQ,51.0622,-0.3312
 D&D coffee and more limited ,RH12 1PT,51.0634,-0.3309
 LA PIAZZETTA,RH12 1QA,51.0636,-0.3330
-KFC,RH12 1QN,51.0645,-0.3349
+KFC,RH12 1QN,51.0642,-0.3340
 King Arms  Horsham,RH12 1QN,51.0645,-0.3349
 Lemongrass,RH12 1QN,51.0645,-0.3349
 Mangobean Coffee Wonderland,RH12 1QR,51.0638,-0.3325
 The Olive Branch,RH12 1QR,51.0638,-0.3325
+Beefeater The Station,RH12 1RB,51.0664,-0.3196
 China Brasserie,RH12 1RJ,51.0643,-0.3241
 The Cafe,RH12 2NW,51.0688,-0.3193
 RAJKUMAR,RH12 2PG,51.0650,-0.3307
+The Lynd Cross Horsham (Wetherspoon),RH12 2PG,51.0637,-0.3322
 Smith & Western,RH12 2QR,51.0747,-0.3294
 The Milk Churn,RH12 3DH,51.0968,-0.4535
 Kings Head,RH12 3EB,51.0975,-0.4442
@@ -183,7 +166,6 @@ The Greets Inn,RH12 3QY,51.0889,-0.3533
 Compass Group at Warnham Church of England Primary School,RH12 3RQ,51.0915,-0.3514
 Rookwood Golf Course,RH12 3RR,51.0787,-0.3447
 The Plough And Attic Rooms ,RH12 4PX,51.1225,-0.2791
-Elior,RH12 4QP,51.1074,-0.3240
 The star inn,RH12 4RA,51.1217,-0.2787
 the lamb inn,RH12 4RG,51.1168,-0.2611
 The Holmbush Inn,RH12 4SH,51.0936,-0.2628
@@ -219,9 +201,7 @@ Carmona Steak & Tapas,RH2 0AN,51.2377,-0.2047
 BERYL AND PEGS,RH2 0BA,51.2424,-0.2044
 FIVE SPICE,RH2 0BA,51.2424,-0.2044
 The Prince of Wales,RH2 0BQ,51.2417,-0.2015
-Avenance (Elior UK) At Esure Ltd,RH2 0SG,51.2384,-0.2030
 Pizza Hut,RH2 7AD,51.2372,-0.2051
-Wagamama,RH2 7AD,51.2368,-0.2049
 Cullenders Parkside,RH2 7AN,51.2352,-0.2039
 Dominos Pizza,RH2 7AQ,51.2360,-0.2047
 Venture Inn,RH2 7JP,51.2340,-0.2022
@@ -231,13 +211,11 @@ The Plough,RH2 8NJ,51.2086,-0.2498
 The Seven Stars,RH2 8NP,51.2102,-0.2585
 Reigate Heath Golf Club Limited,RH2 8QR,51.2330,-0.2322
 Skimmington Castle,RH2 8RL,51.2339,-0.2278
-Pizza Express,RH2 9AA,51.2374,-0.2064
-Giggling Squid,RH2 9AE,51.2377,-0.2088
-Nando's,RH2 9AE,51.2377,-0.2088
+Costa Coffee,RH2 9AB,51.2374,-0.2072
+Nando's,RH2 9AE,51.2377,-0.2093
 REIGATE TRADERS UK LIMITED,RH2 9AE,51.2377,-0.2087
 Buenos Aires Argentine Steakhouse ,RH2 9AN,51.2383,-0.2097
 Eighty Ate Burger,RH2 9AP,51.2380,-0.2093
-Starbucks Coffee,RH2 9AP,51.2381,-0.2093
 THE RIVER KWAI RESTAURANT,RH2 9AP,51.2381,-0.2093
 Island House Reigate,RH2 9AT,51.2378,-0.2079
 Regional Thai Taste,RH2 9AT,51.2378,-0.2079
@@ -246,15 +224,14 @@ VILLAGE BRASSERIE ,RH2 9BS,51.2387,-0.2110
 The Admiral Inn Pub,RH2 9EF,51.2427,-0.2116
 The Black Horse,RH2 9JZ,51.2403,-0.2210
 Reigate Manor,RH2 9PF,51.2490,-0.2030
-BaxterStorey Ltd At Kimberley Clark,RH2 9QP,51.2414,-0.2050
 Squire's Garden Centre Reigate,RH2 9RE,51.2422,-0.2352
 Hartsfield Manor,RH3 7AA,51.2384,-0.2609
 Red Lion & Cellar Room,RH3 7DS,51.2400,-0.2632
 Southdown Kitchen,RH3 7EL,51.2411,-0.2913
 The Grumpy Mole Brockham,RH3 7JS,51.2330,-0.2857
 The Royal Oak,RH3 7JS,51.2330,-0.2851
-Starbucks Coffee,RH4 1AR,51.2318,-0.3328
 Costa Coffee Dorking,RH4 1AT,51.2314,-0.3329
+Costa Coffee,RH4 1AT,51.2314,-0.3329
 Esquires coffee dorking,RH4 1AY,51.2317,-0.3318
 White Horse Hotel,RH4 1BE,51.2324,-0.3302
 ARTO RESTAURANT,RH4 1BG,51.2323,-0.3305
@@ -264,13 +241,12 @@ The Old House,RH4 1BY,51.2317,-0.3362
 Jam Pot Cafe,RH4 1HA,51.2349,-0.3365
 Hillier Garden Centre Dorking,RH4 1NP,51.2367,-0.3165
 Betchworth Park Golf Club,RH4 1NZ,51.2366,-0.3055
-Compass Group,RH4 1QA,51.2432,-0.3216
 Subway Dorking,RH4 1QR,51.2331,-0.3289
 The Surrey Yeoman,RH4 1QR,51.2331,-0.3289
+KFC,RH4 1QX,51.2344,-0.3267
 Deepdene Dorking,RH4 1RL,51.2345,-0.3273
 Rooster's Kitchen,RH4 1RQ,51.2349,-0.3267
 Tandoori Nights,RH4 1RQ,51.2348,-0.3267
-Pizza Express,RH4 1RT,51.2336,-0.3286
 Dorking kebab House ,RH4 1RU,51.2333,-0.3294
 Wimpy,RH4 1RU,51.2333,-0.3294
 Lincoln Arms Limited,RH4 1TF,51.2406,-0.3241

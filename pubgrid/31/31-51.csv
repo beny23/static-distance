@@ -1,12 +1,13 @@
 name,postcode,lat,lon
 Three Daggers,BA13 4PG,51.2784,-2.0983
 The Duke at Bratton ,BA13 4RW,51.2709,-2.1228
-Costa Coffee,SN10 1AG,51.3522,-1.9929
 1Spice,SN10 1AH,51.3523,-1.9925
 Brogans,SN10 1AJ,51.3522,-1.9938
+Costa Coffee,SN10 1AJ,51.3524,-1.9930
 REEVE THE BAKER LTD,SN10 1AJ,51.3522,-1.9938
 Massimo's Ristorante Italiano Limited,SN10 1AT,51.3517,-1.9946
 The Peppermill (Devizes) Ltd,SN10 1BL,51.3519,-1.9957
+The Silk Mercer Devizes (Wetherspoon),SN10 1BL,51.3518,-1.9954
 Bengal Bite Tandoori,SN10 1DJ,51.3507,-1.9910
 Jeffersons ,SN10 1DN,51.3526,-1.9922
 The White Bear,SN10 1DN,51.3526,-1.9922
@@ -17,9 +18,8 @@ Tea Inc Devizes,SN10 1HN,51.3529,-1.9952
 The Pelican Inn ,SN10 1HT,51.3525,-1.9965
 Devizes Times Square,SN10 1JG,51.3528,-1.9953
 New Society ,SN10 1JG,51.3530,-1.9957
-Pizza Express,SN10 1JG,51.3528,-1.9953
 Times Square,SN10 1JG,51.3528,-1.9953
-Costa Coffee,SN10 1JQ,51.3533,-1.9965
+Costa Coffee,SN10 1JQ,51.3531,-1.9961
 Bell by the Green,SN10 1LQ,51.3523,-1.9889
 Subway,SN10 2HW,51.3608,-1.9786
 The Bridge Inn,SN10 2JS,51.3680,-1.9457
@@ -39,7 +39,7 @@ Antica Roma ,SN11 0BJ,51.4383,-2.0055
 Infusions Tea Rooms,SN11 0BS,51.4389,-2.0053
 Spice of Bengal,SN11 0BZ,51.4400,-2.0050
 The Lansdowne Strand Hotel,SN11 0EH,51.4379,-2.0055
-Costa Coffee,SN11 0HA,51.4397,-2.0048
+Costa Coffee,SN11 0HA,51.4397,-2.0047
 The Farmhouse cafe  bakery and deli,SN11 0HA,51.4397,-2.0048
 Sampaguita,SN11 0QZ,51.4372,-2.0037
 Fay's Bistro,SN11 0RD,51.4382,-2.0049
@@ -50,8 +50,6 @@ Jester's Adventure Play,SN11 9PL,51.4528,-1.9964
 Bowood Hotel  Spa & Golf Resort,SN11 9PQ,51.4273,-2.0550
 The brewery inn,SN12 6PX,51.3485,-2.1014
 The Raj (Chippenham) Ltd,SN15 1EG,51.4609,-2.1174
-Elior UK Ltd,SN15 1ER,51.4609,-2.1153
-Prezzo,SN15 1ES,51.4605,-2.1186
 Subway ,SN15 1EX,51.4598,-2.1173
 Pizza Hut,SN15 1HH,51.4610,-2.1183
 La passione,SN15 1HZ,51.4637,-2.1176
@@ -69,28 +67,24 @@ The George Inn Sandy Lane,SN15 2PX,51.4133,-2.0537
 The Packhorse,SN15 3BA,51.4519,-2.1046
 Buckles,SN15 3BS,51.4569,-2.1145
 The Gladstone Arms (Chippenham) Ltd,SN15 3BW,51.4568,-2.1154
-Coffee#1,SN15 3EU,51.4585,-2.1149
-Costa Coffee,SN15 3EU,51.4586,-2.1151
+Costa Coffee,SN15 3EU,51.4587,-2.1154
 Angel Hotel     ,SN15 3HD,51.4579,-2.1150
 Sarah-Jaynes Cafe,SN15 3HD,51.4579,-2.1150
-Pizza Express,SN15 3HW,51.4574,-2.1136
 Boswells Cafe,SN15 3JP,51.4593,-2.1151
 Waterfall Elior,SN15 3QD,51.4624,-2.1121
-Caffe Nero,SN15 3WL,51.4585,-2.1169
+The Bridge House Chippenham (Wetherspoon),SN15 3WL,51.4584,-2.1178
 The Winterbourne,SN4 9QB,51.4748,-1.8569
 Pino’s Ristorante Ltd,SN8 1AH,51.4216,-1.7286
 Hilliers Small Plates and Wine,SN8 1BE,51.4197,-1.7308
 Mercers of Marlborough ,SN8 1BE,51.4197,-1.7308
 Bunce's,SN8 1HD,51.4190,-1.7335
-Prezzo,SN8 1HD,51.4190,-1.7335
 The Marlborough,SN8 1HF,51.4182,-1.7345
+Costa Coffee,SN8 1HN,51.4216,-1.7301
 The Food Gallery,SN8 1HQ,51.4182,-1.7334
 saint peters coffee shop limited,SN8 1HQ,51.4179,-1.7342
 Biteme Burger Marlborough,SN8 1HU,51.4221,-1.7305
 Tea Inc Marlborough,SN8 1HU,51.4220,-1.7304
 Rah indian cuisine ,SN8 1JE,51.4218,-1.7297
-Caffe Nero,SN8 1LW,51.4198,-1.7317
-Pizza Express,SN8 1LW,51.4196,-1.7314
 The Polly Tearooms,SN8 1LW,51.4196,-1.7314
 Dan's at The Crown,SN8 1NE,51.4211,-1.7281
 The Lamb Inn,SN8 1NE,51.4211,-1.7281

@@ -2,7 +2,6 @@ name,postcode,lat,lon
 Flying Aubergine Cafe Truro,TR1 1EP,50.2650,-5.0515
 Ganges Truro ,TR1 1EQ,50.2649,-5.0491
 The Heron Inn,TR1 1SL,50.2449,-5.0247
-Dunelm Cafe Pausa,TR1 1XD,50.2719,-5.0371
 Alverton Hotel Ltd,TR1 1ZQ,50.2665,-5.0453
 Colours Cafe & Wellbeing Centre,TR1 2AA,50.2638,-5.0489
 Lawrance's Bakery & Bar,TR1 2AA,50.2639,-5.0488
@@ -17,30 +16,28 @@ Lily's of Truro,TR1 2AY,50.2649,-5.0542
 Sole Plaice,TR1 2AY,50.2649,-5.0542
 Hooked in the city,TR1 2EJ,50.2615,-5.0515
 Cafe.Uneeka,TR1 2EL,50.2632,-5.0508
-Pizza Express,TR1 2ER,50.2634,-5.0500
 Bao Bites,TR1 2HB,50.2633,-5.0492
-Caffe Nero,TR1 2LL,50.2625,-5.0495
 Market Inn,TR1 2LL,50.2625,-5.0498
 Rowes Bakery,TR1 2LL,50.2626,-5.0496
 Subway,TR1 2LL,50.2626,-5.0496
+Try Dowr Truro (Wetherspoon),TR1 2LW,50.2621,-5.0504
 Truro Tandoori,TR1 2NR,50.2611,-5.0526
-Ask Italian,TR1 2PN,50.2619,-5.0521
 Bustopher Jones,TR1 2PN,50.2619,-5.0521
 Mannings Restaurant,TR1 2QB,50.2627,-5.0513
 Duke Street Sandwich Deli,TR1 2QE,50.2635,-5.0499
-Cafe Nero,TR1 2QQ,50.2635,-5.0507
 Charlotte's Tea House,TR1 2QU,50.2631,-5.0516
 Charlotte’s Tea House,TR1 2QU,50.2631,-5.0516
+Costa Coffee,TR1 2RS,50.2631,-5.0530
 Tea on the Square at Malletts Home Hardware,TR1 2RT,50.2628,-5.0532
 Coffee Traders,TR1 2RU,50.2629,-5.0537
 Subway,TR1 2RU,50.2629,-5.0537
 Indulge Waffle House Limited,TR1 2RX,50.2632,-5.0536
-Starbucks - Amsric Limited,TR1 2SD,50.2634,-5.0530
 Starbucks Victoria Square,TR1 2SD,50.2634,-5.0530
 Xen Noodle Bar,TR1 2SF,50.2626,-5.0541
 Arts Cafe Truro,TR1 2SJ,50.2637,-5.0541
 Bread & Butter,TR1 2SQ,50.2634,-5.0544
 Mai Thai,TR1 2SQ,50.2634,-5.0544
+Costa Coffee,TR1 2TN,50.2609,-5.0468
 Bambu Cafe,TR1 2UX,50.2642,-5.0538
 Tabb's Restaurant,TR1 3BZ,50.2627,-5.0576
 108 Coffee House,TR1 3DJ,50.2631,-5.0548
@@ -51,6 +48,7 @@ William IV,TR1 3DJ,50.2631,-5.0548
 Yak and Yeti Nepalese And Indian restaurant ,TR1 3DJ,50.2631,-5.0548
 The Old Cheese Shop ,TR1 3JH,50.2637,-5.0577
 Truro golf club,TR1 3LG,50.2640,-5.0881
+Costa Coffee,TR1 3LN,50.2647,-5.0980
 County Arms,TR1 3PY,50.2613,-5.0752
 City Inn Truro,TR1 3SP,50.2665,-5.0568
 Thirsty Scholar Ltd,TR10 8EW,50.1692,-5.1062
@@ -60,11 +58,12 @@ New Inn ,TR10 9HN,50.1631,-5.1322
 Restaurant Four,TR11 2AD,50.1568,-5.0714
 Stones Bakery,TR11 2AF,50.1575,-5.0723
 The Boathouse,TR11 2AG,50.1579,-5.0741
+McDonald's,TR11 2ER,50.1626,-5.0872
 McDonalds,TR11 2ER,50.1602,-5.0862
 The Greenbank Hotel (Falmouth) Ltd,TR11 2SR,50.1611,-5.0743
 UpperDeck Bar and Restaurant,TR11 2TF,50.1646,-5.0816
-Cafe Nero,TR11 3AE,50.1557,-5.0703
 Cavendish Coffee House,TR11 3AE,50.1557,-5.0703
+Costa Coffee,TR11 3AR,50.1554,-5.0691
 INDidog Eatery,TR11 3AT,50.1554,-5.0687
 The Four-Teas Tearoom ,TR11 3AU,50.1564,-5.0718
 Jacobs Ladder Inn,TR11 3BQ,50.1549,-5.0708
@@ -93,7 +92,7 @@ Phoenix Bar & Restaurant,TR11 3PL,50.1542,-5.0740
 Pennycomequick,TR11 3PN,50.1547,-5.0722
 Boo Koos LTD,TR11 3QA,50.1550,-5.0730
 GURKHA NEPALESE AND INDIAN CUSINE,TR11 3QA,50.1550,-5.0730
-Pizza Express,TR11 3XA,50.1516,-5.0631
+The Packet Station Falmouth (Wetherspoon),TR11 3QA,50.1548,-5.0731
 RICK STEIN'S FISH,TR11 3XA,50.1516,-5.0631
 The lemon Twist Tapas Bar,TR11 3XA,50.1515,-5.0633
 Koffiji Ltd,TR11 3XP,50.1510,-5.0624
@@ -133,17 +132,21 @@ The Cornish Seal Sanctuary,TR12 6UG,50.0957,-5.2050
 The Star Inn  Porkellis,TR13 0JR,50.1557,-5.2315
 Wheal Dream Restaurant,TR13 0LR,50.1196,-5.2633
 Flambards Theme Park ,TR13 0QA,50.0921,-5.2584
+Whitbread Inns The May Tree,TR13 0QD,50.1005,-5.2593
 Lakeside Cafe,TR13 0SR,50.0988,-5.2797
 The Bell Inn,TR13 8AA,50.1005,-5.2736
 Boo Koos,TR13 8AB,50.1006,-5.2733
+Costa Coffee,TR13 8AB,50.1004,-5.2731
 Costa Coffee,TR13 8AB,50.1006,-5.2733
 The Coffee Bean,TR13 8EQ,50.1004,-5.2759
 BEIJING CUISINE,TR13 8ER,50.1010,-5.2757
+The Coinage Hall Helston (Wetherspoon),TR13 8ER,50.1008,-5.2752
+Costa Coffee,TR13 8PJ,50.1051,-5.2652
 The Reel Pizza Co,TR13 8PT,50.1016,-5.2727
 hutchinsoins fish and chips,TR13 8RE,50.0982,-5.2718
 Henlys Bar And Restaurant,TR13 8TG,50.1015,-5.2748
 CAST Café,TR13 8TP,50.1022,-5.2731
-KFC Camborne,TR14 0BJ,50.2247,-5.2802
+KFC,TR14 8NQ,50.2257,-5.2786
 The Croust Hut,TR14 9HW,50.2032,-5.2745
 The Mount Ambrose Inn,TR15 1QR,50.2459,-5.2122
 Penventon Hotel (1970) Ltd,TR15 1TE,50.2337,-5.2349
@@ -156,6 +159,7 @@ The Meadery Company Ltd,TR15 2QE,50.2305,-5.2251
 Subway ,TR15 3ET,50.2252,-5.2770
 Sanders Fish and Chips,TR15 3NE,50.2289,-5.2597
 The Plume of Feathers,TR15 3PF,50.2274,-5.2696
+McDonald's,TR15 3PL,50.2258,-5.2768
 McDonalds,TR15 3PL,50.2273,-5.2716
 Rollers Roller Rink,TR15 3RH,50.2274,-5.2585
 Tricky's at The Tolgus Inn,TR15 3TA,50.2400,-5.2480
@@ -183,11 +187,12 @@ rosevine hotel,TR2 5EW,50.1905,-4.9720
 The Roseland Inn,TR2 5NB,50.2157,-4.9849
 New Inn,TR2 5QA,50.2187,-4.9228
 KINGS ARMS,TR2 5RW,50.2684,-4.9117
+McDonald's,TR3 6BA,50.2645,-5.1028
 McDonalds,TR3 6BA,50.2642,-5.1032
-Pizza Hut Restaurant,TR3 6BA,50.2642,-5.1032
 Cafe Chaos,TR3 6BW,50.2601,-5.1239
 The Victoria Inn,TR3 6BY,50.2634,-5.1134
 Subway,TR3 6FT,50.2639,-5.1213
+Beefeater Carnon Inn,TR3 6JZ,50.2260,-5.0828
 Carnon Downs Garden Centre Ltd,TR3 6LN,50.2287,-5.0893
 The Punchbowl and Ladle,TR3 6QY,50.2247,-5.0618
 The Stag Hunt Inn,TR3 7EE,50.1954,-5.1400

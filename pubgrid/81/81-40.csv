@@ -2,6 +2,7 @@ name,postcode,lat,lon
 Molly May’s Tea Room,DG1 1BG,55.0698,-3.6107
 The Back Street Restaurant,DG1 1BH,55.0701,-3.6114
 hideout scot ltd,DG1 1BT,55.0704,-3.6107
+The Robert the Bruce Dumfries (Wetherspoon),DG1 1DJ,55.0703,-3.6134
 Kings Coffee & Books,DG1 1EX,55.0686,-3.6099
 Mrs Green's Tea Lounge,DG1 1EX,55.0686,-3.6099
 Casa Mia Dumfries,DG1 1JW,55.0799,-3.6102
@@ -15,11 +16,9 @@ Cavens Arms Limited,DG1 2AH,55.0698,-3.6144
 The India Palm,DG1 2AH,55.0698,-3.6143
 R Barbour & Sons Ltd,DG1 2AL,55.0694,-3.6154
 Starbucks Dumfries,DG1 2BA,55.0695,-3.6115
-Starbucks,DG1 2BA,55.0693,-3.6112
 Cairndale Hotel,DG1 2DF,55.0696,-3.6056
 The Hitching Post ,DG1 2EQ,55.0677,-3.5955
-Costa Coffee,DG1 2JA,55.0673,-3.6096
-Buzz Bingo,DG1 2JJ,55.0689,-3.6067
+Costa Coffee,DG1 2JA,55.0675,-3.6099
 Burns Coffee House,DG1 2NX,55.0680,-3.6122
 The Corner Eatery and Bar Store,DG1 2NX,55.0680,-3.6122
 La Dolce Vita,DG1 2PB,55.0680,-3.6114
@@ -30,8 +29,8 @@ The Bank Bar and Tapas,DG1 2RS,55.0676,-3.6123
 The Frothy Bike Co,DG1 2RT,55.0671,-3.6116
 Domino's Pizza - Dumfries,DG1 2RX,55.0657,-3.6099
 Bruno's Restaurant,DG1 3BE,55.0719,-3.5955
+Table Table Solway Gate,DG1 3JX,55.0700,-3.5583
 Tarff coffee shop ,DG1 3PF,55.0754,-3.5814
-Starbucks Coffee,DG1 3SE,55.0685,-3.5510
 Cornerstone Cafe,DG1 4EJ,55.0639,-3.5868
 The Jolly Harvester,DG1 4HB,55.0606,-3.5815
 Hetland Garden Nursery Ltd,DG1 4JX,55.0364,-3.4204
@@ -43,8 +42,8 @@ The Boathouse Glencaple,DG1 4RE,55.0022,-3.5734
 The Swan,DG1 4SU,55.0461,-3.6061
 Easterbrook Bistro ,DG1 4TL,55.0524,-3.5905
 Hoddom Castle Coach House,DG11 1AS,55.0398,-3.3196
-Costa Coffee,DG11 1HD,55.2159,-3.4160
-McDonalds,DG11 1HD,55.2159,-3.4160
+Costa Coffee,DG11 1HD,55.2200,-3.4100
+McDonald's,DG11 1HD,55.2200,-3.4104
 Lochmaben Golf Club,DG11 1NT,55.1270,-3.4406
 Crown Hotel,DG11 1PD,55.1284,-3.4452
 Townhead Hotel Ltd,DG11 2AG,55.1244,-3.3568
@@ -55,7 +54,9 @@ SURE QUEENS HOTEL BEST WESTERN LOCKERBIE,DG11 2RB,55.1082,-3.3528
 dryfesdale hotel,DG11 2SF,55.1420,-3.3709
 Lockerbie Lorry Park,DG11 2SL,55.1967,-3.4088
 Cressfield Hotel,DG11 3DR,55.0574,-3.2607
-McDonalds Restaurants Ltd,DG2 0DY,55.0785,-3.6286
+McDonald's,DG2 0DY,55.0799,-3.6292
 McDonalds,DG2 0DY,55.0785,-3.6286
 Edenbank hotel,DG2 7AH,55.0675,-3.6206
+Costa Coffee,DG2 9BF,55.0757,-3.6252
 KFC,DG2 9BF,55.0763,-3.6275
+KFC,DG2 9BF,55.0767,-3.6242

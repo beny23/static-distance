@@ -1,20 +1,16 @@
 name,postcode,lat,lon
 BURGERKING,BT1 1DD,54.6006,-5.9343
 Beleaf Juice Bars,BT1 1DD,54.6006,-5.9343
-Burger King,BT1 1DD,54.6006,-5.9343
-KFC,BT1 1DD,54.6006,-5.9343
+KFC,BT1 1DD,54.5992,-5.9314
 Obriens Sandwich Bar,BT1 1DD,54.6006,-5.9343
 Starbucks Castle Court,BT1 1DD,54.6006,-5.9343
-Starbucks,BT1 1DD,54.6006,-5.9343
 Subway Castlecourt,BT1 1DD,54.6006,-5.9343
 Thorntons Ltd,BT1 1DD,54.6006,-5.9343
 Yangtze Castle Court,BT1 1DD,54.6006,-5.9343
 mitsuru,BT1 1DD,54.6006,-5.9343
 goldenwell 19 ltd,BT1 1FB,54.5998,-5.9303
-Caffe Nero,BT1 1FE,54.6015,-5.9311
 Clements,BT1 1FG,54.6029,-5.9304
 Foggy Brew,BT1 1FJ,54.6000,-5.9331
-Costa Coffee,BT1 1GB,54.5991,-5.9292
 La Taqueria,BT1 1GH,54.5994,-5.9324
 City Picnic,BT1 1HB,54.5990,-5.9307
 Maggie Mays Castle Street,BT1 1HB,54.5991,-5.9319
@@ -28,14 +24,13 @@ Northern Whig ,BT1 1LU,54.6005,-5.9276
 Blu Restaurant ,BT1 1QA,54.6005,-5.9289
 Clements,BT1 1QB,54.6003,-5.9302
 Whites Tavern,BT1 1QN,54.6001,-5.9285
-Caffe Nero,BT1 1RB,54.6000,-5.9288
 The Monico Bars ,BT1 1RB,54.6000,-5.9288
 Bright's Restaurant,BT1 2AA,54.5996,-5.9276
-Starbucks,BT1 2AA,54.5996,-5.9276
 isabeals cafe,BT1 2AA,54.5996,-5.9276
 METZ EXPRESS CAFE,BT1 2AB,54.6000,-5.9265
 River Coffee House Ltd,BT1 2BE,54.6004,-5.9265
 The National Grande Café,BT1 2BE,54.6005,-5.9260
+Bar + Block Belfast,BT1 2DX,54.6009,-5.9275
 Pizza Punks ,BT1 2DX,54.6006,-5.9270
 Six By Nico (Belfast) Limited,BT1 2DX,54.6011,-5.9264
 The Muddlers Club,BT1 2DX,54.6006,-5.9270
@@ -59,13 +54,11 @@ Mumbai 27 LTD,BT1 2LD,54.6027,-5.9277
 Ramada hotel Belfast,BT1 2LD,54.6025,-5.9278
 top blade steakhouse,BT1 2LD,54.6025,-5.9278
 39 Gordon Street,BT1 2LH,54.6023,-5.9259
-Pizza Express,BT1 2LN,54.6035,-5.9272
 Buba ,BT1 2LR,54.6033,-5.9275
 Coppi Restaurants Ltd,BT1 2LR,54.6030,-5.9272
 HOUSE OF ZEN RESTAURANT,BT1 2LR,54.6032,-5.9275
 Hadskis ,BT1 2NB,54.6018,-5.9276
 Alexanders Belfast ,BT1 3AJ,54.6048,-5.9225
-Baxterstorey at PWC,BT1 3BS,54.5966,-5.9167
 AC Marriott Belfast - Novelli at City Quays,BT1 3FE,54.6079,-5.9198
 McHughs Bar ,BT1 3FG,54.6009,-5.9227
 Malmaison Belfast,BT1 3GH,54.5999,-5.9239
@@ -74,7 +67,6 @@ Ox Restaurant ,BT1 3LA,54.5987,-5.9220
 Simply Fish & Chips,BT1 3LA,54.5981,-5.9224
 Holohans N.I. Ltd  t/a  Holohans At The Barge,BT1 3LG,54.5984,-5.9210
 TEDFORDs KITCHEN,BT1 3LG,54.5984,-5.9210
-Caffe Nero,BT1 3LP,54.5960,-5.9194
 Subway St Georges Market,BT1 3NQ,54.5962,-5.9216
 Carberry  at Concentrix ,BT1 3NR,54.5955,-5.9169
 Henrys and the Jailhouse,BT1 4DR,54.5995,-5.9268
@@ -85,57 +77,42 @@ Skompa Ltd T/A Fish City,BT1 4EB,54.5991,-5.9258
 12-14 Ann Street,BT1 4EF,54.5992,-5.9271
 Little Wing Pizzeria,BT1 4EF,54.5992,-5.9271
 Love and Death Belfast,BT1 4EF,54.5992,-5.9271
-Caffe Nero,BT1 4EG,54.5993,-5.9259
 Freemasons Hall Arthur Square,BT1 4FF,54.5986,-5.9272
 AMPM,BT1 4GH,54.5971,-5.9275
 Arthurs Coffee House & Sandwich Bar,BT1 4GJ,54.5968,-5.9275
 The Chubby Cherub Ristorante,BT1 4JA,54.5972,-5.9281
 The Garrick Bar,BT1 4JB,54.5972,-5.9269
 Granny Annies Kitchen Belfast,BT1 4JE,54.5970,-5.9242
-Caffe Nero,BT1 4LA,54.5976,-5.9284
 Arthurs Coffee House & Sandwich Bar,BT1 4LS,54.5967,-5.9249
-Compass Group at British Telecom,BT1 4NB,54.5959,-5.9249
 Cafe Carberry,BT1 4PE,54.5967,-5.9241
 The Mermaid Inn,BT1 4QD,54.5982,-5.9250
 Babel Rooftop Bar & Garden,BT1 4QG,54.5979,-5.9253
 Boojum Victoria Square,BT1 4QG,54.5979,-5.9253
-Caffe Nero,BT1 4QG,54.5979,-5.9253
 Five Guys Victoria Square Belfast,BT1 4QG,54.5979,-5.9253
-Five Guys,BT1 4QG,54.5979,-5.9253
 Flannels Cafe,BT1 4QG,54.5979,-5.9253
 Ground Espresso Bars Ltd,BT1 4QG,54.5979,-5.9253
-Nando's Restaurant,BT1 4QG,54.5979,-5.9253
-Pizza Express,BT1 4QG,54.5979,-5.9253
-Pizza Hut (Victoria Square),BT1 4QG,54.5979,-5.9253
+Nando's,BT1 4QG,54.5986,-5.9253
 Pizza hut,BT1 4QG,54.5979,-5.9253
 Starbucks Victoria Square,BT1 4QG,54.5979,-5.9253
-Starbucks,BT1 4QG,54.5979,-5.9253
-TGI Fridays (Victoria Square),BT1 4QG,54.5979,-5.9253
 The Kitchen Bar,BT1 4QG,54.5979,-5.9253
-Tony Macaroni,BT1 4QG,54.5979,-5.9253
-Wagamama,BT1 4QG,54.5979,-5.9253
 Wagamamas,BT1 4QG,54.5979,-5.9253
-Zizzi,BT1 4QG,54.5979,-5.9253
 the pocket,BT1 4QL,54.5988,-5.9244
 Bootleggers,BT1 4QN,54.5999,-5.9253
 Bullitt Hotel,BT1 4QN,54.5999,-5.9253
 Downtools,BT1 4QN,54.6000,-5.9252
 Taylor and Clay Grill,BT1 4QN,54.6000,-5.9252
 Thyme,BT1 4QN,54.5999,-5.9253
-KFC,BT1 5AA,54.5988,-5.9307
+KFC,BT1 5AA,54.5986,-5.9306
 Mc Donalds Restaurant,BT1 5BA,54.5989,-5.9299
-McDonalds,BT1 5BA,54.5989,-5.9299
+McDonald's,BT1 5BA,54.5991,-5.9301
 Yangzte Donegall,BT1 5BA,54.5989,-5.9299
 BURGERKING,BT1 5BB,54.5981,-5.9297
-Burger King,BT1 5BB,54.5981,-5.9297
 Ground Espresso Bars Ltd,BT1 5BB,54.5981,-5.9297
 Oscars coffee dock,BT1 5BB,54.5981,-5.9297
 Arthurs Coffee House & Sandwich Bar,BT1 5BN,54.5981,-5.9285
 Subway,BT1 5BN,54.5981,-5.9285
 Tribal Burger,BT1 5BN,54.5978,-5.9289
 Starbucks Castle Lane,BT1 5DA,54.5986,-5.9283
-Starbucks,BT1 5DA,54.5986,-5.9283
-Patisserie Valerie,BT1 5DB,54.5986,-5.9295
 Bob & Berts Belfast Limited,BT1 5EB,54.5977,-5.9320
 Subway Fountain St,BT1 5EB,54.5976,-5.9320
 Clover Pubs NI No. 2 Limited,BT1 5ED,54.5986,-5.9314
@@ -147,12 +124,9 @@ Clover Pubs NI No. 1 Limited,BT1 5HE,54.5962,-5.9283
 Ten Square Hotel,BT1 5JD,54.5957,-5.9303
 College Street Caffe,BT1 6BT,54.5979,-5.9326
 Starbucks Moneda House,BT1 6DG,54.5975,-5.9352
-Jurys Inn,BT1 6DY,54.5961,-5.9350
-Caffe Nero,BT1 6ET,54.5981,-5.9324
 EDO ,BT1 6FB,54.5969,-5.9335
 The Mount Charles Group Limited Translink,BT1 6FB,54.5969,-5.9335
 Stix and Stones NI Ltd,BT1 6FD,54.5966,-5.9330
-Starbucks,BT1 6GD,54.5973,-5.9337
 Home,BT1 6GE,54.5970,-5.9327
 The Juice Jar LTD,BT1 6GE,54.5970,-5.9327
 The Lantern Belfast,BT1 6GF,54.5968,-5.9339
@@ -160,9 +134,6 @@ Ground Espresso Bars Ltd,BT1 6HL,54.5975,-5.9327
 Yugo,BT1 6HT,54.5965,-5.9325
 Hell Cat Maggies ,BT1 6JA,54.5967,-5.9319
 Pizza on the Square,BT1 6JA,54.5967,-5.9319
-BaxterStorey at Danske Bank,BT1 6JH,54.5965,-5.9320
-Caffe Nero,BT1 6JH,54.5965,-5.9320
-Patisserie Valerie,BT1 6JH,54.5965,-5.9320
 The Rusty Saddle ,BT1 6NB,54.5962,-5.9326
 Deanes EIPIC,BT1 6PF,54.5957,-5.9329
 Deanes Love Fish,BT1 6PF,54.5957,-5.9329
@@ -173,7 +144,7 @@ The Green Goose,BT1 6PG,54.5957,-5.9340
 everestlyon,BT10 0BE,54.5614,-5.9844
 sarpn restaurant,BT10 0BE,54.5614,-5.9845
 The Devenish ,BT10 0JB,54.5652,-5.9846
-KFC,BT10 0LH,54.5617,-5.9845
+KFC,BT10 0LH,54.5616,-5.9848
 Spice Fusion,BT10 0LH,54.5617,-5.9845
 Subway Finaghy,BT10 0LH,54.5617,-5.9845
 Lady Anne,BT10 0ND,54.5607,-5.9997
@@ -182,7 +153,6 @@ McEnaney's Bar,BT11 8BA,54.5842,-5.9799
 THE GLENOWEN INN ,BT11 8BH,54.5828,-5.9848
 Cafe glen ,BT11 8BU,54.5766,-6.0203
 Applejacks Coffee Shop and Cafe,BT11 8RF,54.5808,-6.0004
-Burger King,BT11 9AB,54.5813,-5.9783
 Irish Republican Felons Association,BT11 9AB,54.5813,-5.9783
 26 West Bar & Grill Limited,BT11 9AE,54.5813,-5.9783
 BURGERKING,BT11 9AE,54.5813,-5.9783
@@ -193,7 +163,7 @@ The wolf and whistle limited,BT11 9AH,54.5758,-5.9825
 Tandoori Flame,BT11 9AN,54.5754,-5.9821
 Temple restaurant,BT11 9AN,54.5754,-5.9821
 McDonald's Restaurant Westwood,BT11 9AP,54.5766,-5.9775
-McDonalds,BT11 9AP,54.5766,-5.9775
+McDonald's,BT11 9AP,54.5753,-5.9758
 No Limits Fitbar,BT11 9AP,54.5781,-5.9822
 PIZZABAKER INVEST UK LTD,BT11 9BT,54.5742,-5.9865
 Chip Co Andersonstown,BT11 9BU,54.5739,-5.9878
@@ -217,24 +187,20 @@ STORE374 LTD - Hatch James Connolly Centre,BT12 6DG,54.5904,-5.9676
 BEEHIVE BAR,BT12 6FB,54.5923,-5.9620
 Jam Restaurant and Coffee Shop,BT12 6HN,54.5892,-5.9622
 STORE220 LTD - Subway - ParkCentre-58834,BT12 6HN,54.5892,-5.9622
-KFC,BT12 6HR,54.5794,-5.9632
+KFC,BT12 6HR,54.5802,-5.9624
 Synge & Byrne,BT12 6HR,54.5794,-5.9632
-KFC,BT12 6HS,54.5880,-5.9622
+KFC,BT12 6HS,54.5878,-5.9612
 Boucher Crescent,BT12 6HT,54.5800,-5.9639
-Costa Coffee,BT12 6HT,54.5796,-5.9643
-Five Guys,BT12 6HT,54.5796,-5.9643
-Burger King,BT12 6HU,54.5803,-5.9657
 Five Guys Boucher Road,BT12 6HU,54.5796,-5.9672
-Nando's,BT12 6HU,54.5803,-5.9657
+Nando's,BT12 6HU,54.5801,-5.9649
 Starbucks Boucher Park,BT12 6HU,54.5803,-5.9657
-Starbucks,BT12 6HU,54.5803,-5.9657
 Mc Donalds Restaurant,BT12 6JA,54.5874,-5.9581
-McDonalds,BT12 6JA,54.5874,-5.9581
+McDonald's,BT12 6JA,54.5880,-5.9580
 Beatties Chip Shop,BT12 6NB,54.5854,-5.9568
 Caulfield s Restaurant,BT12 7FP,54.5937,-5.9897
+KFC,BT13 1DS,54.6034,-5.9408
 The Old Tea Room,BT13 1FR,54.6042,-5.9513
 The Wee Cafe,BT13 1FT,54.6044,-5.9531
-KFC,BT13 2BA,54.6034,-5.9409
 Open Door,BT13 2BD,54.6037,-5.9460
 Mikali’s Kitchen,BT13 2BE,54.6039,-5.9474
 the tudor cafe,BT13 2BH,54.6039,-5.9487
@@ -251,9 +217,8 @@ Peppers Indian cuisine,BT14 7AA,54.6100,-5.9477
 hajibaba,BT14 7HX,54.6157,-5.9662
 spice king,BT14 7HX,54.6156,-5.9662
 The Lost City Adventure Golf,BT15 1JH,54.6087,-5.9265
-KFC,BT15 1JQ,54.6104,-5.9239
 BURGERKING,BT15 1WA,54.6087,-5.9265
-Burger King,BT15 1WA,54.6091,-5.9268
+KFC,BT15 1WA,54.6105,-5.9247
 The Continental Cafe,BT15 1WA,54.6091,-5.9268
 Angelas Sandwich Bar & Bistro,BT15 2HF,54.6184,-5.9382
 Burrito co...,BT15 3BP,54.6230,-5.9378
@@ -263,14 +228,13 @@ Crusaders Football Club,BT15 3PL,54.6249,-5.9229
 Cream Cafe Bistro,BT16 1DE,54.5892,-5.8244
 sams grow,BT16 1QT,54.5974,-5.7817
 st johns court,BT16 1RJ,54.5947,-5.8053
-MCDONALDS,BT16 1RQ,54.5946,-5.8078
 McDonald's Restaurant,BT16 1RQ,54.5946,-5.8078
+McDonald's,BT16 1RQ,54.5946,-5.8088
 The Village Kitchen,BT16 1XJ,54.5970,-5.7859
 The Secret Garden at Dundonald Nurseries,BT16 1XS,54.5872,-5.8105
 Blue Chicago,BT16 1XT,54.5872,-5.8157
 Polly Browns Ltd T/A BINKYS,BT16 1XT,54.5872,-5.8179
 SUGAR RAYS,BT16 1XT,54.5872,-5.8179
-WAGAMAMA,BT16 1XT,54.5872,-5.8179
 WOLFES DINER,BT16 1XT,54.5871,-5.8156
 Wagamamas,BT16 1XT,54.5872,-5.8179
 Carlito’s New York Italian,BT16 1YG,54.5893,-5.8229
@@ -291,7 +255,6 @@ MALONE GOLF CLUB,BT17 9LB,54.5358,-5.9730
 Robert Stewart Spirit Grocers ,BT17 9LL,54.5335,-5.9919
 Beechlawn House Hotel,BT17 9RR,54.5520,-5.9985
 McGlones Bar,BT17 9RY,54.5513,-6.0038
-Caffe Nero,BT2 7AB,54.5919,-5.9341
 Yahi GNM,BT2 7AB,54.5919,-5.9341
 INDIA GATE,BT2 7AF,54.5924,-5.9346
 NU DELHI RESTAURANT LOUNGE,BT2 7AF,54.5924,-5.9346
@@ -300,14 +263,12 @@ Boojum Great Victoria Street,BT2 7BA,54.5953,-5.9340
 ORA WINE & TAPAS,BT2 7BA,54.5953,-5.9340
 Robinsons Bars,BT2 7BA,54.5953,-5.9340
 Starbucks Great Victoria Street,BT2 7BA,54.5953,-5.9340
-Starbucks,BT2 7BA,54.5953,-5.9340
 Subway,BT2 7BA,54.5953,-5.9340
 Brennans Bar,BT2 7BB,54.5938,-5.9336
 vietnamese coffee co,BT2 7BE,54.5923,-5.9338
 Fitzwilliam Hotel Belfast,BT2 7BQ,54.5956,-5.9353
-Pizza Express,BT2 7EJ,54.5936,-5.9314
 Pug Uglys,BT2 7EJ,54.5936,-5.9314
-Wetherspoons,BT2 7EJ,54.5936,-5.9314
+The Bridge House Belfast (Wetherspoon),BT2 7EJ,54.5930,-5.9318
 Ventnors,BT2 7FD,54.5952,-5.9309
 Franklins Sports Bar,BT2 7FE,54.5949,-5.9308
 Deanes Deli Bistro & Vin Cafe,BT2 7FF,54.5943,-5.9310
@@ -330,13 +291,11 @@ Turkey Street Food ,BT2 7JP,54.5917,-5.9332
 COCO RESTAURANT,BT2 8AA,54.5954,-5.9302
 SNAX IN THE CITY,BT2 8AA,54.5954,-5.9302
 Urban Retreat Sandwich Co,BT2 8AA,54.5954,-5.9302
+Thyme,BT2 8ED,54.5938,-5.9274
 Zen Restaurant ,BT2 8FE,54.5943,-5.9287
-Starbucks,BT2 8GA,54.5954,-5.9283
 Starbucks Harvester House,BT2 8GE,54.5954,-5.9283
 Clayton Hotel Belfast - Avenue 22,BT2 8HS,54.5930,-5.9306
-Nando's,BT2 8HS,54.5930,-5.9306
 Just Dine at The Northern Ireland Housing Executive,BT2 8PB,54.5959,-5.9278
-Caffe Nero,BT2 8YB,54.5946,-5.9256
 Tuk Tuk Newtownards,BT23 4AE,54.5954,-5.7026
 Cyreth Ltd T/A Strangford Arms Hotel,BT23 4AL,54.5951,-5.7075
 LeWinters at the Strangford Arms,BT23 4AL,54.5951,-5.7075
@@ -344,13 +303,12 @@ The Gatelodge,BT23 4AS,54.5937,-5.7061
 Wild Coco Cafe Barista,BT23 4BN,54.5937,-5.7081
 del pieros,BT23 4BN,54.5937,-5.7081
 TLC Coffee House,BT23 4EA,54.6009,-5.7046
-COSTA COFFEE,BT23 4EU,54.5930,-5.7095
-MCDONALDS,BT23 4EU,54.5930,-5.7095
+KFC,BT23 4EU,54.5914,-5.7111
 McDonald's Restaurant Newtownards,BT23 4EU,54.5930,-5.7095
+McDonald's,BT23 4EU,54.5921,-5.7081
 Starbucks Ards SC,BT23 4EU,54.5930,-5.7095
-Starbucks Coffee,BT23 4EU,54.5930,-5.7095
 Subway Ards,BT23 4EY,54.6014,-5.7011
-J D WETHERSPOON PLC,BT23 4LP,54.5942,-5.7004
+The Spirit Merchant Newtownards (Wetherspoon),BT23 4LP,54.5943,-5.7012
 Eagle's nest on the hills,BT23 4SL,54.5730,-5.7205
 McKee's Farm Shop Ltd,BT23 4TQ,54.6121,-5.7588
 Relax Coffee Shop,BT23 4YH,54.5851,-5.7033
@@ -403,40 +361,38 @@ Taylors Ice Cream,BT27 5AG,54.5094,-6.0353
 The Highway Inn Bar & Kitchen,BT27 5BU,54.5100,-6.0313
 CONMC LTD,BT27 5EA,54.5089,-6.0376
 ASHVALE FARM SHOP LTD,BT27 5PE,54.4836,-5.9894
-MCDONALDS DRIVE THRU & RESTAURANT,BT27 5QE,54.4995,-6.0464
+Table Table Linen House,BT27 5QY,54.4964,-6.0553
 Greenview,BT27 5RQ,54.4874,-6.0780
 Ground Espresso Bars Ltd,BT27 5UJ,54.4911,-6.0589
 JMC Restaurants Ltd t/a McDonald's,BT27 5UN,54.4913,-6.0567
+McDonald's,BT27 5UN,54.4921,-6.0609
 Temple Golf Club Ltd,BT27 6UP,54.4668,-5.9182
 Fifteen Lisburn,BT28 1AE,54.5112,-6.0423
 The Daily Apron,BT28 1AF,54.5114,-6.0443
 2nd Avenue,BT28 1AU,54.5124,-6.0483
 Mauds Lisburn,BT28 1AU,54.5125,-6.0485
 Bob & Berts Lisburn Menarys,BT28 1AW,54.5118,-6.0510
+KFC,BT28 1AW,54.5120,-6.0507
 T2 Coffee Shop,BT28 1AW,54.5118,-6.0510
-BURGER KING,BT28 1BJ,54.5112,-6.0470
 Bob & Berts Lisburn Limited,BT28 1BJ,54.5112,-6.0470
-COSTA COFFEE,BT28 1BJ,54.5112,-6.0470
-Caffe Nero,BT28 1BJ,54.5112,-6.0470
 HEDLEYS,BT28 1BJ,54.5112,-6.0470
 MR THOMS HOT FOOD BAR,BT28 1DY,54.5101,-6.0584
-Costa Coffee,BT28 1EP,54.5107,-6.0496
 Thornbury's,BT28 1EP,54.5107,-6.0496
 Cafe Number 10,BT28 1JA,54.5072,-6.0808
 BODENES DINER,BT28 1LP,54.5069,-6.0512
 Beef and Bird Ltd,BT28 1LP,54.5070,-6.0512
+KFC,BT28 1LP,54.5077,-6.0507
 Lisburn Bowl Ltd,BT28 1LP,54.5069,-6.0512
 Lisburn Leisure Park,BT28 1LP,54.5069,-6.0512
 Pepes Piri Piri  Lisburn,BT28 1LP,54.5070,-6.0512
 Subway Lisburn Omniplex,BT28 1LP,54.5070,-6.0512
 JERSEY STREET GRILL,BT28 1LT,54.5035,-6.0526
-PIZZA HUT,BT28 1PP,54.5070,-6.0512
 The Baked Potato,BT28 1SZ,54.5083,-6.0694
 Coopers Restaurant,BT28 1TR,54.5097,-6.0564
 Glasshouse Coffee & Deli,BT28 1TS,54.5099,-6.0469
 Little Wing Pizzeria,BT28 1TS,54.5101,-6.0473
-TUESDAY BELL - WETHERSPOONS,BT28 1TS,54.5101,-6.0473
 The Cookie Box,BT28 1TS,54.5102,-6.0473
+The Tuesday Bell Lisburn (Wetherspoon),BT28 1TS,54.5102,-6.0466
 Toki ,BT28 1TS,54.5102,-6.0473
 square bistro,BT28 1TS,54.5101,-6.0473
 Coffeeinc,BT28 1TW,54.5106,-6.0466
@@ -462,7 +418,6 @@ BURGERKING,BT3 9EJ,54.6235,-5.8604
 SUBWAY,BT3 9EJ,54.6235,-5.8604
 Titanic Belfast Ltd,BT3 9EP,54.6081,-5.9099
 Clements,BT3 9HA,54.6026,-5.9105
-BaxterStorey at British Airways,BT3 9JH,54.6147,-5.8707
 STRABUCKS,BT3 9JH,54.6147,-5.8707
 THE ARTISAN,BT3 9JH,54.6147,-5.8707
 Odyssey Bowl,BT3 9QQ,54.6039,-5.9154
@@ -483,7 +438,7 @@ Cafe Smart,BT4 2AN,54.6005,-5.8764
 Morelli's (Belmont Road),BT4 2AN,54.6005,-5.8764
 Slim's Healthy Kitchen Belmont Road,BT4 2AN,54.6005,-5.8764
 no. 36,BT4 2AN,54.6005,-5.8764
-McDonalds,BT4 2PW,54.6185,-5.8536
+McDonald's,BT4 2PW,54.6218,-5.8571
 McDonald's Restaurant Knocknagoney,BT4 2WE,54.6204,-5.8556
 The arches cafe ,BT4 3BA,54.5982,-5.8866
 GOOD FORTUNE,BT4 3DX,54.5958,-5.8665
@@ -494,8 +449,6 @@ Subway Ballyhackamore,BT4 3EU,54.5959,-5.8729
 Yugo East,BT4 3EU,54.5961,-5.8735
 Cafe Mauds Ballyhackamore Ltd,BT4 3EX,54.5954,-5.8690
 Camile Thai,BT4 3EX,54.5954,-5.8690
-Caffe Nero,BT4 3EY,54.5953,-5.8671
-Pizza Express,BT4 3EY,54.5953,-5.8671
 Horatio Todds,BT4 3EZ,54.5953,-5.8652
 Piggly Wigglys,BT4 3EZ,54.5953,-5.8652
 GrazeNI LLP,BT4 3GE,54.5952,-5.8658
@@ -512,7 +465,6 @@ Caffe Zaza,BT4 3JF,54.5949,-5.8667
 Mandarin City (NI) Limited,BT4 3JF,54.5949,-5.8667
 Neills Hill,BT4 3JF,54.5949,-5.8667
 Greens Pizza,BT4 3JH,54.5948,-5.8644
-KFC,BT4 3JH,54.5948,-5.8644
 Clements,BT4 3JT,54.5957,-5.8564
 Olivers Restaurant,BT4 3LH,54.5945,-5.8562
 General Merchants,BT4 3LL,54.5942,-5.8481
@@ -520,12 +472,10 @@ The Stormont Hotel  Belfast,BT4 3LP,54.5943,-5.8416
 Orchard Cafe at Castle Buildings,BT4 3SR,54.5991,-5.8286
 Northern Ireland Civil Service Sports Club,BT4 3TA,54.6004,-5.8305
 McDonald's Restaurant,BT5 4AF,54.5976,-5.8924
+McDonald's,BT5 4AF,54.5963,-5.8917
 Catherine Napier,BT5 4LA,54.5972,-5.9087
 Taquitos Ltd,BT5 4TS,54.5992,-5.9095
-KFC,BT5 5DL,54.5957,-5.8923
-McDonalds,BT5 5DL,54.5957,-5.8923
 Starbucks Connswater,BT5 5DL,54.5957,-5.8923
-Starbucks,BT5 5DL,54.5957,-5.8923
 Subway Connswater,BT5 5DL,54.5971,-5.8915
 Tim Hortons,BT5 5DL,54.5957,-5.8923
 Lazy Claire Patisserie,BT5 5FH,54.5864,-5.8930
@@ -535,10 +485,11 @@ THAI HOUSE,BT5 5FP,54.5916,-5.8985
 Smokey Deli ,BT5 5HG,54.5851,-5.8886
 Sam Smith Contract Catering,BT5 5HW,54.5876,-5.8918
 BURGERKING,BT5 5LP,54.5958,-5.8895
-Burger King,BT5 5LP,54.5958,-5.8895
 Del pieros,BT5 5LP,54.5958,-5.8895
 Harlands Chip Shop Connswater Foodcourt,BT5 5LP,54.5958,-5.8895
+KFC,BT5 5LP,54.5967,-5.8930
 Relish Coffee Shop,BT5 5LP,54.5958,-5.8895
+KFC,BT5 6HX,54.5947,-5.8630
 Shandon Park Golf Club,BT5 6NY,54.5838,-5.8551
 Cherry Orchard Cafe,BT5 7EA,54.5891,-5.8444
 Loft on the square ltd,BT5 7EA,54.5897,-5.8442
@@ -581,7 +532,6 @@ Sphinx Botanic,BT7 1JL,54.5872,-5.9329
 The Sphinx Botanic,BT7 1JL,54.5872,-5.9329
 Cuban Sandwich Factory,BT7 1JN,54.5865,-5.9326
 CAFE ARIRANG,BT7 1JQ,54.5888,-5.9331
-Caffe Nero,BT7 1JQ,54.5888,-5.9331
 Lee Garden,BT7 1JQ,54.5888,-5.9331
 The Belfast Empire,BT7 1JQ,54.5888,-5.9331
 Bao Bun,BT7 1JR,54.5873,-5.9324
@@ -590,7 +540,6 @@ Clements,BT7 1JR,54.5873,-5.9324
 Himalayan Nepalese And Indian Restaurant,BT7 1JR,54.5873,-5.9324
 Maggie Mays,BT7 1JR,54.5873,-5.9324
 Starbucks Botanic Avenue,BT7 1JR,54.5873,-5.9324
-Starbucks,BT7 1JR,54.5873,-5.9324
 Subway Botanic Avenue,BT7 1JR,54.5873,-5.9324
 Tribal Burger,BT7 1JR,54.5872,-5.9324
 Hope Cafe,BT7 1LP,54.5839,-5.9313
@@ -603,12 +552,12 @@ Sephs ,BT7 1NH,54.5874,-5.9352
 Crescent Townhouse - Town Square Cafe & Bar,BT7 1NR,54.5879,-5.9342
 Press29,BT7 1QB,54.5831,-5.9257
 Benedicts Hotel,BT7 1RQ,54.5893,-5.9347
-KFC,BT7 1RQ,54.5893,-5.9347
 Flame Zone Grill & Griddle,BT7 1RR,54.5884,-5.9356
 Frango Belfast ,BT7 1RR,54.5884,-5.9356
 WOK-A-MOLEY LIMITED,BT7 1RR,54.5884,-5.9356
 D'ARCYS,BT7 1RS,54.5889,-5.9343
 Darcys,BT7 1RS,54.5889,-5.9343
+KFC,BT7 1RS,54.5893,-5.9347
 Hatfield House,BT7 2EB,54.5855,-5.9228
 Little O’s Restaurant,BT7 2EB,54.5860,-5.9228
 Lwr Ormeau Cafe,BT7 2EB,54.5855,-5.9228
@@ -625,7 +574,6 @@ Dirt Bird,BT7 3GL,54.5787,-5.9197
 General Merchants 361,BT7 3GL,54.5789,-5.9198
 Greens Pizza,BT7 3GL,54.5789,-5.9198
 C.M.M. kitchen,BT7 3GP,54.5774,-5.9188
-Caffe Nero,BT7 3GP,54.5773,-5.9187
 Kaffe O,BT7 3GP,54.5773,-5.9187
 L'Etoile du Nord,BT7 3GP,54.5773,-5.9187
 SOUL FOOD CAFE,BT7 3GP,54.5773,-5.9187
@@ -636,8 +584,6 @@ Pizza Hut Delivery,BT7 3GQ,54.5756,-5.9176
 bengal brasserie,BT7 3GQ,54.5756,-5.9176
 Shed Bistro,BT7 3GR,54.5743,-5.9167
 Subway ta Soul Feet Ltd,BT7 3GR,54.5743,-5.9167
-Caffe Nero,BT8 6FX,54.5639,-5.9095
-PATISSERIE VALERIE,BT8 6FX,54.5639,-5.9095
 The Four Winds,BT8 6LX,54.5557,-5.8940
 Atlantic Fish and Chips,BT8 6NN,54.5553,-5.9070
 Subway ta Soul Feet Ltd,BT8 6NN,54.5551,-5.9072
@@ -652,9 +598,10 @@ The Lockkeepers Inn,BT8 7XP,54.5501,-5.9471
 Funtastic Play Ltd,BT8 8AN,54.5177,-5.8786
 Eight South Restaurant,BT8 8DN,54.5153,-5.8884
 Rockmount Restaurant,BT8 8EQ,54.4940,-5.8879
+KFC,BT8 8ER,54.5330,-5.8964
 Ivanhoe Inn (Carryduff) Ltd,BT8 8EU,54.5298,-5.8946
-MCDONALDS RESTAURANT LTD,BT8 8EU,54.5301,-5.8947
 McDonald's Restaurant Saintfield Rd,BT8 8EU,54.5301,-5.8947
+McDonald's,BT8 8EU,54.5308,-5.8952
 PIZZA BOUTIQUE at LETS GO HYDRO,BT8 8GB,54.5257,-5.8937
 Cameron Landscapes & Garden Centre,BT8 8JU,54.5324,-5.9524
 Bob & Berts Stranmillis Limited,BT9 5AD,54.5792,-5.9344
@@ -676,7 +623,6 @@ Cutters Wharf,BT9 5FJ,54.5711,-5.9291
 Belfast Harlequins sports and conference center,BT9 5JX,54.5642,-5.9428
 Nico’s Pizzeria Restaurant ,BT9 6AF,54.5862,-5.9397
 Starbucks Lisburn University,BT9 6AG,54.5850,-5.9410
-Starbucks,BT9 6AG,54.5850,-5.9410
 Ryan's Bar & Restaurant,BT9 6AH,54.5836,-5.9439
 Absolutely Chicken,BT9 6AJ,54.5829,-5.9453
 Clements,BT9 6AY,54.5845,-5.9385
@@ -691,7 +637,6 @@ Bao Bun,BT9 6GH,54.5759,-5.9545
 Bengal Brasserie,BT9 6GH,54.5759,-5.9544
 Brew and Bake,BT9 6GH,54.5759,-5.9544
 Cafe Fish,BT9 6GH,54.5759,-5.9544
-Caffe Nero,BT9 6GH,54.5759,-5.9544
 Camile Thai,BT9 6GH,54.5759,-5.9544
 Little Wing Pizzeria,BT9 6GH,54.5759,-5.9544
 The Chelsea,BT9 6GH,54.5759,-5.9544
@@ -717,12 +662,10 @@ Cafe Fish,BT9 7GQ,54.5758,-5.9552
 Cafe Mauds Limited,BT9 7GQ,54.5758,-5.9552
 Deane and Decano,BT9 7GQ,54.5758,-5.9552
 Greens Pizza,BT9 7GQ,54.5757,-5.9553
-Pizza Express,BT9 7GQ,54.5758,-5.9552
 Barnams,BT9 7GS,54.5748,-5.9565
 KHAO,BT9 7GS,54.5748,-5.9565
 The Cookie Box,BT9 7GS,54.5748,-5.9565
 Kaffe O,BT9 7GT,54.5741,-5.9576
 SPRINGSTEENS DINER,BT9 7GT,54.5738,-5.9582
 Belfast Wood Fired Pizza Company,BT9 7GU,54.5721,-5.9611
-Starbucks,BT9 7GU,54.5721,-5.9611
 The Doyen,BT9 7GY,54.5671,-5.9712

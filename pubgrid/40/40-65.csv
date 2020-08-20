@@ -2,7 +2,6 @@ name,postcode,lat,lon
 THE CROWN AND THISTLE,CB10 1PL,52.0638,0.2027
 The Plough,CB10 1PL,52.0638,0.2027
 The Red Lion,CB10 1QY,52.0849,0.1815
-Elior UK Ltd,CB10 1SD,52.0801,0.1864
 Ananta Thai Food Pub,CB11 3UG,51.9779,0.1815
 The Cricketers Arms,CB11 3YG,51.9459,0.1967
 The Axe and Compasses,CB11 4EX,51.9882,0.1588
@@ -16,13 +15,11 @@ The Kings Head,CB22 3BG,52.1232,0.1694
 The Chequers,CB22 3ER,52.1106,0.1855
 The Brickhouse coffee shop,CB22 3FD,52.1241,0.1693
 McDonald's Whittlesford,CB22 3HD,52.1042,0.1757
+McDonald's,CB22 3HD,52.1040,0.1768
 Red Lion Hotel,CB22 4NL,52.1041,0.1636
 Tickell Arms,CB22 4NZ,52.1151,0.1451
 The John Barleycorn,CB22 4PP,52.0966,0.1584
-Waterfall Elior,CB22 4QB,52.0890,0.1652
 The Mess Cafe,CB22 4QH,52.0930,0.1230
-Waterfall Elior,CB22 4QX,52.1013,0.1581
-BaxterStorey,CB22 4RF,52.0945,0.1501
 The Plough Duxford,CB22 4RP,52.0913,0.1577
 The Lodge Duxford Hotel,CB22 4RT,52.0888,0.1564
 Holiday Inn Express Cambridge Duxford,CB22 4WL,52.1049,0.1663
@@ -49,6 +46,7 @@ Pixie’s,SG7 6AX,51.9884,-0.1882
 Cafe Luna,SG7 6BG,51.9875,-0.1863
 Il forno,SG7 6BJ,51.9875,-0.1871
 The White Lion,SG7 6BJ,51.9875,-0.1871
+Costa Coffee,SG7 6BN,51.9858,-0.1866
 KNKN limited,SG7 6EB,51.9872,-0.1872
 DB Herts Ltd,SG7 6QB,51.9907,-0.1883
 Tapp's Garden Centre,SG7 6RS,51.9869,-0.1777
@@ -63,6 +61,7 @@ Yuva Dining Room Ltd,SG8 5JL,52.0811,-0.0384
 the hoops,SG8 5LF,52.0784,-0.0530
 The Belle,SG8 5NZ,52.0814,-0.0610
 The Chequers,SG8 5QL,52.1339,-0.0127
+Costa Coffee,SG8 5UA,52.0599,-0.0320
 Bury Lane Farm Shop,SG8 6DF,52.0791,0.0042
 Sheene Mill (Vinura Ltd),SG8 6DX,52.0847,0.0147
 Sheene Mill Retail and Therapy,SG8 6DX,52.0847,0.0147
@@ -72,6 +71,7 @@ The British Queen,SG8 6LB,52.0973,0.0070
 The Green Man,SG8 6RA,52.1027,0.0397
 Hot Numbers Coffee - The Roastery,SG8 6RB,52.0997,0.0373
 Banyers House,SG8 7BZ,52.0484,-0.0227
+The Manor House Royston (Wetherspoon),SG8 7BZ,52.0483,-0.0231
 THE GREEN MAN,SG8 7RJ,52.0982,0.0951
 THE CHEQUERS,SG8 7SR,52.0930,0.0729
 September flowers and coffee bar,SG8 8EE,52.0044,0.0159
@@ -80,6 +80,7 @@ The Chequers Inn,SG8 8JQ,52.0247,0.0325
 Woodman Inn,SG8 8NB,51.9912,0.0547
 The King William IV,SG8 8PN,52.0364,0.0839
 The Red Cow,SG8 8RN,52.0319,0.1056
+Costa Coffee,SG8 9AA,52.0472,-0.0238
 Costa Coffee,SG8 9AA,52.0474,-0.0238
 Kooky Nohmad Royston Ltd,SG8 9AG,52.0474,-0.0236
 Rasa sayang,SG8 9AG,52.0475,-0.0236
@@ -87,7 +88,7 @@ The Old Bull Inn,SG8 9AW,52.0463,-0.0234
 The Royal Bengal,SG8 9AW,52.0463,-0.0234
 Lounge India,SG8 9JU,52.0459,-0.0214
 MCDONALD'S,SG8 9NT,52.0456,-0.0538
-McDonalds Restaurant,SG8 9NT,52.0456,-0.0538
+McDonald's,SG8 9NT,52.0454,-0.0544
 The Fox and Duck,SG8 9PN,52.0175,-0.0543
 Black Horse,SG9 0AP,51.9598,0.0836
 The Brewery Tap,SG9 0LL,51.9291,0.0870

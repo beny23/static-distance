@@ -1,10 +1,8 @@
 name,postcode,lat,lon
-KFC,G15 6RX,55.9051,-4.3775
-Starbucks,G15 6RX,55.9051,-4.3775
-Burger King,G15 6SA,55.9029,-4.3766
+Burger King,G15 6SA,55.9031,-4.3779
+KFC,G15 6SA,55.9037,-4.3785
+McDonald's,G15 6SA,55.9038,-4.3777
 McDonalds Drumchapel 1504,G15 6SA,55.9028,-4.3766
-Mecca Bingo,G15 6SA,55.9029,-4.3766
-Pizza Hut,G15 6SA,55.9029,-4.3766
 Subway Drumchapel,G15 7TG,55.9107,-4.3724
 THE BUTTY BAR,G15 8NA,55.9108,-4.3729
 The Glen Lusset,G60 5DA,55.9221,-4.4563
@@ -41,20 +39,23 @@ EDENMILL FARM SHOP AND CAFE,G63 9AX,55.9854,-4.3847
 Beech Tree Inn,G63 9LA,56.0213,-4.3725
 The Old Mill  Killearn,G63 9NJ,56.0452,-4.3717
 Laighparks Nurseries Ltd,G63 9PT,56.0337,-4.3868
-McDonalds Bakery,G81 1EA,55.9019,-4.4049
 Clyde Cross Fish & Chip Shop,G81 1RT,55.9011,-4.4050
 The Lounge by The Clyde,G81 1RT,55.9011,-4.4050
 SIXTY ATE BAR & KITCHEN,G81 1UG,55.9020,-4.4090
 BBQ Hut Peri Peri,G81 2JF,55.9078,-4.4025
 McDonalds Clydebank DriveThru 1121,G81 2PE,55.9056,-4.3960
 Club 3000 Bingo Clydebank,G81 2QB,55.9056,-4.3984
+McDonald's,G81 2QB,55.9064,-4.3980
 Kitchen Cafes,G81 2RR,55.9047,-4.4042
 bb's coffee & muffins,G81 2RR,55.9047,-4.4042
 MAHONYS ,G81 2RZ,55.9045,-4.4028
 Matzaluna ,G81 2RZ,55.9042,-4.4027
+McDonald's,G81 2RZ,55.9042,-4.4027
 McDonalds Clydebank 294,G81 2RZ,55.9045,-4.4028
-Nandos,G81 2RZ,55.9043,-4.4028
+Nando's,G81 2RZ,55.9041,-4.4026
 Costa Coffee,G81 2TL,55.9046,-4.4037
+Costa Coffee,G81 2TL,55.9050,-4.4034
+KFC,G81 2XA,55.9035,-4.3976
 Coffee Club Scotland Ltd,G81 2XT,55.9112,-4.3896
 Golden Jubilee Conference Hotel,G81 4SA,55.9094,-4.4362
 Q Kitchen Ltd,G81 5QY,55.9234,-4.3951
@@ -64,17 +65,21 @@ west park hotel ltd,G81 6DB,55.9215,-4.4132
 The Duntiglennan,G81 6DN,55.9238,-4.4174
 Dumbuck country house hotel ,G82 1EG,55.9375,-4.5378
 Benvenuti (Dumbarton) Limited,G82 1EL,55.9415,-4.5483
+The Captain James Lang Dumbarton (Wetherspoon),G82 1LF,55.9433,-4.5716
 Costa Coffee,G82 1LS,55.9430,-4.5702
+Costa Coffee,G82 1LS,55.9431,-4.5709
 Haveli Restaurant ,G82 1NH,55.9460,-4.5690
 Carlton Bingo  Dumbarton,G82 1NJ,55.9451,-4.5696
 Glencairn Dunbartonshire Ltd,G82 1NY,55.9444,-4.5738
 KFC,G82 1RB,55.9438,-4.5609
+KFC,G82 1RB,55.9446,-4.5611
+McDonald's,G82 1RB,55.9441,-4.5631
 McDonalds Dumbarton 359,G82 1RB,55.9437,-4.5607
 Subway Restaurant,G82 1RB,55.9437,-4.5607
 Subway,G82 1RB,55.9437,-4.5607
 The Abbotsford Hotel,G82 2PJ,55.9433,-4.5428
-Baxterstorey 5048 @ BBC Dumbarton,G82 2QW,55.9531,-4.5646
-Starbucks,G82 2TY,55.9663,-4.5828
+Brewers Fayre Malt & Myre,G82 2QU,55.9568,-4.5595
+Costa Coffee,G82 2QU,55.9568,-4.5622
 Masala Twist Milton,G82 2TZ,55.9354,-4.5163
 THE DINING ROOM AT NO 10,G82 4AB,55.9444,-4.5775
 Biggie Scoopz,G82 4JE,55.9480,-4.5854
@@ -92,6 +97,7 @@ Luss Fish & Chip Company,G83 8NY,56.1009,-4.6399
 The Village Rest,G83 8NY,56.1009,-4.6399
 The Lodge on Loch Lomond Hotel,G83 8PA,56.1016,-4.6394
 McDonalds Balloch 1048,G83 8PQ,55.9994,-4.5714
+McDonald's,G83 8QP,56.0004,-4.5902
 Duck Bay Hotel & Marina,G83 8QZ,56.0135,-4.6112
 The Boathouse,G83 8QZ,56.0135,-4.6111
 The Cameron Club,G83 8QZ,56.0135,-4.6111
@@ -104,16 +110,18 @@ Sugar Boat,G84 8AQ,56.0045,-4.7345
 La Barca Tapas & Wine Bar,G84 8AW,56.0036,-4.7368
 Padrone Pizzeria,G84 8AW,56.0036,-4.7368
 Ruby Restaurant,G84 8AW,56.0036,-4.7368
-Costa Coffee,G84 8TD,56.0042,-4.7341
+Costa Coffee,G84 8TD,56.0042,-4.7344
 Riverhill Courtyard,G84 8TD,56.0042,-4.7341
+Costa Coffee,PA14 5BP,55.9375,-4.6981
 McDonalds Port Glasgow 1535,PA14 5BP,55.9350,-4.6954
-McDonalds,PA14 5BQ,55.9357,-4.6930
-Burger King,PA14 5EP,55.9370,-4.6903
+McDonald's,PA14 5BQ,55.9365,-4.6979
+Burger King,PA14 5EP,55.9364,-4.6901
 Curry Lounge ,PA14 5JQ,55.9347,-4.6904
 Cawley Hotels & Leisure ltd,PA14 6XR,55.9243,-4.5843
 Gleddoch Resorts Ltd,PA14 6YE,55.9191,-4.5854
+Brewers Fayre The Point,PA15 2AD,55.9449,-4.7343
+McDonald's,PA15 2AD,55.9446,-4.7354
 McDonalds Greenock 749,PA15 2AD,55.9442,-4.7319
-McDonalds Restaurant Ltd,PA15 2AD,55.9442,-4.7319
 Craigend Resource Centre Ltd,PA15 2HD,55.9395,-4.7260
 The Cottage ,PA15 2UH,55.9398,-4.7195
 Angelinis,PA7 5JB,55.9085,-4.5066

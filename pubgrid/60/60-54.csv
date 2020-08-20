@@ -26,9 +26,9 @@ Waterfall Elior,S35 1WH,53.4564,-1.4704
 Waterfall Elior,S35 1ZD,53.4586,-1.4807
 Waterfall Elior,S35 2EU,53.4656,-1.4758
 the barrel,S35 2UL,53.4671,-1.4743
-Pizza Hut,S35 2UQ,53.4625,-1.4678
 come a casa,S35 2UQ,53.4625,-1.4678
 Waterfall Elior,S35 2UR,53.4640,-1.4691
+The Wagon  Horses Sheffield (Wetherspoon),S35 2UU,53.4617,-1.4655
 oak house restaurant ,S35 2XH,53.4636,-1.4652
 Miners Arms,S35 2YD,53.4749,-1.4654
 Norfolk Arms Chapeltown LTD ,S35 2YG,53.4715,-1.4596
@@ -55,6 +55,8 @@ Welbilt Staff Canteen,S35 9ZX,53.4507,-1.4581
 Waterfall Elior,S36 1AS,53.4742,-1.5995
 Waterfall Elior,S36 1EJ,53.4785,-1.5998
 Waterfall Elior,S36 1FD,53.4781,-1.5973
+Costa Coffee,S36 2AB,53.4823,-1.5900
+Costa Coffee,S36 2AD,53.4823,-1.5862
 McGilverays Restaurant & Bar,S36 2AE,53.4832,-1.5890
 Ponti’s Italian Kitchen,S36 2AE,53.4832,-1.5892
 The workslunchbox ltd T/a Samuels Kitchen,S36 2BU,53.4856,-1.5944
@@ -85,6 +87,7 @@ PANTRY GREEN LIMITED,S60 1PN,53.4318,-1.3566
 Subway,S60 1PP,53.4306,-1.3559
 hygge cafe,S60 1PP,53.4306,-1.3559
 McDonald's Bridgegate Rotherham,S60 1PQ,53.4319,-1.3574
+McDonald's,S60 1PQ,53.4318,-1.3572
 The Plaice To Be,S60 1PQ,53.4319,-1.3574
 Guests Tea Room and Coffee Shop,S60 1PT,53.4303,-1.3559
 The Corn Law,S60 1PT,53.4303,-1.3559
@@ -93,9 +96,11 @@ Tings Thai Kitchen,S60 1QA,53.4299,-1.3581
 Interchange Cafe Limited,S60 1QB,53.4331,-1.3566
 Caffe Cristinacce,S60 1RZ,53.4397,-1.3522
 McDonald's Parkgate Retail Park,S60 1SG,53.4417,-1.3485
-KFC,S60 1TG,53.4442,-1.3455
-Nando's,S60 1TG,53.4432,-1.3449
+McDonald's,S60 1SG,53.4422,-1.3489
+Costa Coffee,S60 1TG,53.4444,-1.3467
+KFC,S60 1TG,53.4437,-1.3462
 SUBWAY,S60 1TG,53.4432,-1.3449
+The Bluecoat Rotherham (Wetherspoon),S60 2DJ,53.4288,-1.3549
 Zaika kebabs and sweets ,S60 2LR,53.4295,-1.3542
 Mr tasty ltd,S60 2NN,53.4279,-1.3508
 Rajas Rotherham ,S60 2NW,53.4275,-1.3497
@@ -113,7 +118,6 @@ WJ CAFE,S61 4RN,53.4449,-1.3526
 Parkgate Fisheries ,S62 6DX,53.4520,-1.3438
 The Fitzwilliam Arms Hotel,S62 6EE,53.4501,-1.3473
 Starbucks Rotherham DT,S62 6EJ,53.4495,-1.3414
-Starbucks,S62 6EJ,53.4499,-1.3401
 Greetings cafe,S62 6EQ,53.4511,-1.3446
 Urban Fresh Burgers & Fries,S62 6FP,53.4475,-1.3471
 Pizza Hut,S62 6FR,53.4507,-1.3430
@@ -124,16 +128,15 @@ Big bs,S62 7JW,53.4688,-1.3446
 Le Bistro,S62 7TL,53.4786,-1.4183
 Village Tea Room and Garden,S62 7TL,53.4786,-1.4183
 THE GEORGE AND DRAGON,S62 7TN,53.4797,-1.4210
-BaxterStorey,S63 5AD,53.4987,-1.3127
-Compass Group at Capita House,S63 5DJ,53.5083,-1.3293
 Manvers Lake Cafe,S63 7DG,53.5068,-1.3367
-KFC,S63 7DQ,53.5078,-1.3369
+Costa Coffee,S63 7DQ,53.5107,-1.3585
+KFC,S63 7DQ,53.5106,-1.3584
 G J’s Cafe,S63 7EE,53.5026,-1.3277
-Compass Group,S63 7EW,53.4978,-1.3160
 Coffee St.,S63 7FN,53.5105,-1.3564
 ONYX FISH BAR & GRILL,S63 7FN,53.5105,-1.3564
 Thai Garden Cage Limited,S63 7FN,53.5102,-1.3566
 Cafe Naaz ,S63 7LW,53.5020,-1.3444
+The Church House WathuponDearne (Wetherspoon),S63 7RZ,53.5022,-1.3454
 Foodiez Takeaway and Desserts,S64 8AA,53.4893,-1.3002
 GLN traders ltd,S64 8AP,53.4880,-1.3033
 The Little Siam Tea Room,S64 8AP,53.4880,-1.3033
@@ -147,29 +150,32 @@ E'lupos Restaurant,S65 1BL,53.4361,-1.3538
 CORNER CAFE ,S65 1EL,53.4324,-1.3544
 Buzz Bingo,S65 1EN,53.4416,-1.3273
 KFC Fitzwilliam Road,S65 1EN,53.4416,-1.3266
+KFC,S65 1EN,53.4424,-1.3239
 Taco Bell,S65 1EN,53.4416,-1.3266
 Ginge's Snap,S65 1EQ,53.4322,-1.3539
 YOH BURGER (ROTHERHAM),S65 1PX,53.4369,-1.3459
 rotherham football centre ,S65 1SU,53.4423,-1.3320
 CLARKY'S SANDWICH SHOP,S65 2DE,53.4372,-1.3308
+Costa Coffee,S65 3LA,53.4423,-1.3237
 McDonald's Dalton - Rotherham Drive Thru,S65 3SR,53.4449,-1.3283
-McDonalds Restaurants,S65 3SR,53.4449,-1.3283
+McDonald's,S65 3SR,53.4426,-1.3210
 Coffee Boy,S70 1GW,53.5523,-1.4794
 Jar Bar,S70 1GW,53.5519,-1.4789
 KAY'S CAFE,S70 1GW,53.5522,-1.4786
 Khao Niew Thai Cafe,S70 1GW,53.5522,-1.4786
 MEZE TURKISH KITCHEN,S70 1GW,53.5522,-1.4786
 Rajah foods limited ,S70 1GW,53.5522,-1.4786
-McDonalds,S70 1LP,53.5493,-1.4810
+McDonald's,S70 1LQ,53.5492,-1.4796
 Albert Street Cafe,S70 1RS,53.5514,-1.4799
 Julie and Sue Catering Ltd t/a The Courtyard,S70 1RS,53.5514,-1.4802
 Pinocchios Retaurant,S70 1RX,53.5512,-1.4791
 Subway,S70 1SD,53.5544,-1.4775
-Costa Coffee,S70 1SJ,53.5527,-1.4804
+Costa Coffee,S70 1SJ,53.5526,-1.4804
 Chilli Restaurant,S70 1SN,53.5512,-1.4805
 Grille Steakhouse,S70 1SN,53.5512,-1.4805
 PJ CAFE,S70 1SN,53.5512,-1.4805
 Pasha ,S70 1SN,53.5512,-1.4805
+The Silkstone Inn Barnsley (Wetherspoon),S70 1SN,53.5512,-1.4805
 blackburns cafe,S70 1SN,53.5512,-1.4805
 Chennells,S70 1SS,53.5517,-1.4821
 Wellington st chippy,S70 1SS,53.5517,-1.4817
@@ -184,6 +190,7 @@ The White Bear,S70 2AH,53.5554,-1.4827
 Estabulo Bar & Grill,S70 2HG,53.5548,-1.4800
 Brasserie Ruelle,S70 2HT,53.5541,-1.4795
 The Garrison,S70 2HZ,53.5538,-1.4806
+The Joseph Bramah Barnsley (Wetherspoon),S70 2PX,53.5529,-1.4817
 Old George Coffee House,S70 2QE,53.5533,-1.4812
 Angelini's ,S70 2QN,53.5535,-1.4807
 Aroma Cafe Bar,S70 2QN,53.5535,-1.4806
@@ -193,16 +200,19 @@ Cafe Creme Barnsley,S70 2QP,53.5533,-1.4805
 Lemon Tree ,S70 2QT,53.5527,-1.4819
 Food hub barnsley,S70 2QX,53.5522,-1.4829
 The Pavilion Bar and Kitchen,S70 2RD,53.5535,-1.4869
-KFC,S70 2RL,53.5524,-1.4854
+Costa Coffee,S70 2RL,53.5525,-1.4858
 Taco Bell,S70 2RL,53.5526,-1.4850
+KFC,S70 2SB,53.5524,-1.4862
+Table Table Glass House,S70 2SB,53.5533,-1.4872
 Pieminister Barnsley,S70 2SW,53.5533,-1.4829
+McDonald's,S70 3NT,53.5449,-1.4377
 SUBWAY - BARNSLEY TRADE PARK,S70 3PB,53.5389,-1.4308
 Cardamom Lounge,S70 3RH,53.5468,-1.4504
 Boatmans rest ltd ,S70 4TD,53.5280,-1.4556
 The Red Lion Country Inn,S70 5LJ,53.5264,-1.4708
 Dale tavern,S70 5PG,53.5295,-1.4583
-KFC,S70 5SZ,53.5027,-1.4731
 Dunkin Donuts Rockingham,S70 5TW,53.5015,-1.4757
+KFC,S70 5TW,53.5027,-1.4731
 Taco Bell,S70 5TW,53.5015,-1.4757
 Travellers inn ,S70 5UX,53.5078,-1.4806
 Hadley’s ,S70 6AP,53.5492,-1.4898
@@ -210,10 +220,10 @@ puccinis,S70 6HL,53.5523,-1.4943
 Shaw Lane Sports Club,S70 6HZ,53.5504,-1.4933
 Rob Royd Farm Shop Ltd,S70 6NW,53.5382,-1.4912
 Metrodome Leisure Complex,S71 1AN,53.5532,-1.4735
-Buzz Bingo,S71 1AY,53.5539,-1.4763
 Subway,S71 1JE,53.5575,-1.4702
+McDonald's,S71 1LN,53.5599,-1.4741
 KFC Wakefield Road,S71 1NG,53.5681,-1.4718
-KFC,S71 1NG,53.5681,-1.4718
+KFC,S71 1NG,53.5679,-1.4717
 Barnsley Bowl Ltd,S71 2AZ,53.5734,-1.4629
 The Full House ,S71 2NW,53.5631,-1.4602
 Ruby's Ice Cream,S71 4QU,53.5980,-1.4537
@@ -224,12 +234,13 @@ Poppy's of Cudworth LTD,S72 8JN,53.5776,-1.4166
 Two Gates Fisheries,S72 8PZ,53.5897,-1.4070
 PRISSANA THAI RESTAURANT,S72 8QP,53.5894,-1.4058
 Burntwood Sports Ltd,S72 9ET,53.5916,-1.3640
+The Horseshoe Wombwell (Wetherspoon),S73 0AA,53.5227,-1.3984
 Squires Bar,S73 0DA,53.5219,-1.3978
 The Kitchen Witch Company,S73 0DA,53.5218,-1.3978
 Wombwell Hillies Golf Course,S73 0LA,53.5164,-1.3998
 The elephant and castle,S73 0NT,53.5065,-1.4063
-Pizza Hut Restaurant,S73 0TB,53.5074,-1.3893
-McDonalds,S73 0UF,53.5104,-1.3867
+McDonald's,S73 0TB,53.5078,-1.3886
+Brewers Fayre The Meadows,S73 0UN,53.5161,-1.3777
 The Old Moor Tavern,S73 0YQ,53.5206,-1.3704
 The Ash Inn,S73 8EP,53.5369,-1.4220
 Coffee Thyme,S73 8HS,53.5235,-1.4007
@@ -250,7 +261,8 @@ The Royal,S75 1LS,53.5738,-1.5268
 Millers Inn,S75 1LX,53.5758,-1.5228
 ALAMS LOUNGE,S75 1PL,53.5576,-1.5278
 Barnsley Hospice Appeal,S75 2RL,53.5601,-1.5147
-Baxterstorey - Mercedes Benz,S75 3DH,53.4933,-1.4910
+Brewers Fayre The Wentworth,S75 3DL,53.4877,-1.4957
+McDonald's,S75 3DL,53.4875,-1.4935
 Tankersley Manor Hotel,S75 3DQ,53.4896,-1.4869
 The Strafford Arms,S75 3EW,53.5302,-1.5103
 Holiday Inn Barnsley,S75 3JT,53.5455,-1.5234
@@ -292,16 +304,14 @@ Kaye Arms Bistro,WF4 4BG,53.6371,-1.6558
 CINNAMON LOUNGE,WF4 4BP,53.6280,-1.6777
 The Sun Inn ,WF4 4DW,53.6298,-1.6452
 The Kitchen at YSP,WF4 4LG,53.6073,-1.5632
-Burger King,WF4 4LQ,53.6220,-1.5446
-Costa Coffee,WF4 4LQ,53.6220,-1.5446
-Moto Hospitality Forecourt North,WF4 4LQ,53.6220,-1.5446
-Moto Hospitality Forecourt South,WF4 4LQ,53.6220,-1.5446
+Costa Coffee,WF4 4LQ,53.6222,-1.5456
 SeedRoom,WF4 4RG,53.6491,-1.6099
 Reindeer Inn (OVERTON) Ltd,WF4 4RL,53.6446,-1.6149
 Angel Inn,WF7 7AB,53.6410,-1.3469
 The ElectricTheatre ( Ackworth) Limited ,WF7 7AZ,53.6422,-1.3537
 EGO at the Beverley Arms,WF7 7BX,53.6413,-1.3358
 Ackworth Garden Centre (Secret Garden Cafe),WF7 7NB,53.6479,-1.3322
+The Blue Bell Pontefract (Wetherspoon),WF9 4LQ,53.6136,-1.3543
 Snack in a Box,WF9 4QZ,53.6130,-1.3602
 Elior Uk @ Four Seasons,WF9 5EA,53.6229,-1.3640
 Lakeside Cafe Bar,WF9 5JB,53.6265,-1.3583

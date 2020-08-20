@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+Costa Coffee,EH48 1NP,55.9006,-3.6410
 Costa Coffee,EH48 1NP,55.9007,-3.6410
 D'NISI BATHGATE LTD,EH48 1PA,55.9011,-3.6417
 Leonardo restaurant,EH48 1PD,55.9015,-3.6412
@@ -22,6 +23,7 @@ Mason Belles Kitchen ,EH49 7AE,55.9769,-3.5973
 The Crannog,EH49 7AE,55.9769,-3.5973
 The Coffee Neuk,EH49 7AH,55.9773,-3.6002
 Costa Coffee,EH49 7AQ,55.9770,-3.5984
+Costa Coffee,EH49 7AQ,55.9770,-3.5991
 cafebar 1807,EH49 7AQ,55.9770,-3.5990
 The Jersey Bean,EH49 7ED,55.9766,-3.5993
 Fenwicks of Linlithgow,EH49 7EJ,55.9762,-3.6033
@@ -43,13 +45,14 @@ Bo'ness Recreation Centre,EH51 9QB,56.0113,-3.5993
 Bakkavor Ltd,EH51 9SJ,56.0157,-3.5741
 chenzo restaurant ltd,EH52 5DW,55.9296,-3.5076
 The Open Door,EH52 5HY,55.9302,-3.5039
-Baxterstorey Scotland,EH52 6NH,55.9472,-3.5146
 Williamson Design Florist Ltd,EH52 6PA,55.9216,-3.5180
 Innoflate Livingston,EH54 5DB,55.9163,-3.5086
 Jamuna,EH54 5PY,55.9179,-3.5023
+Beefeater Deer Park,EH54 8AD,55.9153,-3.5259
 SUBWAY  BP CARMONDEAN  LIVINGSTON,EH54 8PT,55.9018,-3.5460
 Johnston's Bar - Bistro ,FK1 1DG,56.0002,-3.7869
 Costa Coffee,FK1 1HG,55.9984,-3.7863
+Costa Coffee,FK1 1HG,55.9987,-3.7868
 THE ALLOTMENT CAFE,FK1 1HG,55.9984,-3.7863
 Antonio's Deli,FK1 1HR,56.0032,-3.7842
 cafe corvina,FK1 1HR,56.0035,-3.7843
@@ -57,28 +60,27 @@ Central Perk Falkirk,FK1 1HS,56.0027,-3.7844
 The Fork & Mustard,FK1 1HX,56.0009,-3.7858
 Behind the Wall,FK1 1HZ,56.0011,-3.7854
 Sumo Noodle Cafe,FK1 1HZ,56.0011,-3.7854
+Costa Coffee,FK1 1JR,55.9997,-3.7848
 Costa Coffee,FK1 1JR,55.9998,-3.7850
 Costa Coffee,FK1 1LD,56.0029,-3.7835
+Costa Coffee,FK1 1LD,56.0029,-3.7837
 Finnegans,FK1 1LL,56.0013,-3.7841
 Monterey Jacks Falkirk Ltd,FK1 1LL,56.0009,-3.7841
 The Wine Library,FK1 1LS,56.0005,-3.7836
 Sportsters ,FK1 1LU,56.0007,-3.7835
-Dunelm Mill / Caffe Pausa,FK1 1LW,56.0038,-3.7799
+McDonald's,FK1 1LW,56.0037,-3.7769
 McDonalds ,FK1 1LW,56.0038,-3.7799
-Nando's,FK1 1LW,56.0038,-3.7799
-Pizza Hut Restaurant,FK1 1LW,56.0038,-3.7799
 The Corner Cafe,FK1 1LZ,55.9995,-3.7845
-Wetherspoons,FK1 1NB,56.0001,-3.7835
+The Carron Works Falkirk (Wetherspoon),FK1 1NB,56.0002,-3.7831
 JOLLY GIN AND CRAFT,FK1 1NJ,55.9995,-3.7838
 The Jolly Gin & Craft,FK1 1NJ,55.9995,-3.7838
 The Wooer,FK1 1NJ,55.9995,-3.7838
 Bob & Berts Falkirk Limited,FK1 1NR,55.9991,-3.7831
-Caffe Nero,FK1 1NR,55.9991,-3.7831
 Tea Jennys Scotland Limited,FK1 1PG,55.9988,-3.7840
 Pizza Hut,FK1 1PR,55.9976,-3.7808
 pots,FK1 1PU,55.9977,-3.7831
-Buzz Bingo,FK1 1RJ,55.9998,-3.7796
 KFC,FK1 1XS,55.9983,-3.7792
+KFC,FK1 1XS,55.9985,-3.7778
 eskers,FK1 1XS,55.9983,-3.7792
 fireaway,FK1 1XS,55.9983,-3.7792
 sanam restaurant,FK1 1XS,55.9983,-3.7792
@@ -88,7 +90,7 @@ THE MILK BARN,FK1 3AA,55.9811,-3.7888
 Cafe at Canada Wood,FK1 3AZ,55.9867,-3.8287
 Cawley Hotels & Leisure ltd,FK1 4AD,56.0069,-3.8390
 The Coppertop,FK1 4BN,56.0043,-3.8079
-Tenpin,FK1 4DD,56.0058,-3.8186
+Beefeater The Rosebank,FK1 4DS,56.0022,-3.8053
 Marco's deli and cafe,FK1 4EG,56.0033,-3.8135
 Mariner Centre,FK1 4HJ,56.0044,-3.8188
 Pepes Falkirk,FK1 4HJ,56.0045,-3.8194
@@ -101,37 +103,41 @@ Bar Aldo's,FK10 1EH,56.1139,-3.7925
 Costa Coffee,FK10 1JD,56.1156,-3.7922
 Syriana restaurant &Takeaway,FK10 1JD,56.1158,-3.7922
 D'NISI ALLOA LTD,FK10 1JE,56.1152,-3.7917
-J D Wetherspoon Plc,FK10 1JL,56.1160,-3.7912
+Costa Coffee,FK10 1JF,56.1157,-3.7921
+The Bobbing John Alloa (Wetherspoon),FK10 1JL,56.1159,-3.7912
 Mr Singhs Alloa,FK10 1JY,56.1148,-3.7896
 The Royal Oak Hotel,FK10 1LJ,56.1136,-3.7959
 Albacore,FK10 1NT,56.1124,-3.8140
+KFC,FK10 1RP,56.1162,-3.7774
 KFC,FK10 1RP,56.1163,-3.7774
-McDonalds Restaurants Ltd,FK10 1RY,56.1169,-3.7794
 clearmont hotel,FK10 2DW,56.1180,-3.7979
 Dam Good Coffee at Gartmorn Dam,FK10 3AZ,56.1245,-3.7558
 SV24-7 Vending,FK10 3LP,56.1223,-3.7781
 THE FUEL HOUSE CAFE LIMITED,FK10 3SA,56.1211,-3.7817
 The Puttery,FK10 4BB,56.0773,-3.7199
+McDonald's,FK10 4DA,56.1155,-3.7748
 McDonalds ,FK10 4DA,56.1159,-3.7745
 Canalside Bar and Restaurant,FK2 0DP,55.9827,-3.7393
 Braes Golf Centre Limited,FK2 0LS,55.9695,-3.6994
 J&AINNS LTD T/A CLAREMONT INN,FK2 0QP,55.9904,-3.7016
 Beancross Hotel & Restaurant,FK2 0XS,55.9957,-3.7216
 The Topiary Coffee Shop,FK2 0XS,55.9957,-3.7216
+Brewers Fayre Cadgers Brae,FK2 0YS,55.9963,-3.7231
 The Croft & Creel,FK2 7BZ,56.0067,-3.7847
 The Creamery,FK2 7NZ,56.0128,-3.7876
 Carronbridge Inn,FK2 7SR,56.0203,-3.7937
 Wonder World Falkirk,FK2 7XF,56.0126,-3.7807
-Compass Group (Staff Canteen),FK2 7XP,56.0142,-3.7690
 The Helix,FK2 7ZT,56.0124,-3.7775
 The Horsebox,FK2 7ZT,56.0124,-3.7775
 The Shore Restaurant,FK2 8ES,56.0276,-3.7844
 Airth Castle Hotel Limited,FK2 8JF,56.0620,-3.7736
 THE DUTCH INN,FK2 8NU,56.0304,-3.7540
 BP AIRTH,FK2 8PF,56.0538,-3.7593
+Brewers Fayre Kincardine Way,FK2 8PJ,56.0535,-3.7587
 BENNY T'S ,FK2 9PS,55.9959,-3.7476
 Grangemouth Stadium,FK3 0EE,56.0053,-3.7083
 THE EARL OF ZETLAND,FK3 8AF,56.0192,-3.7221
+Costa Coffee,FK3 8BG,56.0182,-3.7240
 Costa Coffee,FK3 8BG,56.0185,-3.7237
 Subway,FK3 8BG,56.0185,-3.7237
 Grangemouth Complex,FK3 8JB,56.0104,-3.7217
@@ -139,8 +145,7 @@ Afternoon Tea Room at The Scott's,FK3 8PP,56.0094,-3.7319
 McDonalds ,FK3 8UY,56.0155,-3.7332
 Cooks Bar & Kitchen,FK3 8XJ,56.0153,-3.7467
 The Grange Manor Hotel,FK3 8XJ,56.0153,-3.7467
-Mcdonalds Restaurants,FK3 8XP,56.0116,-3.7467
-Compass Group (Asda Canteen),FK3 8ZG,56.0154,-3.7433
+McDonald's,FK3 8XP,56.0116,-3.7467
 Abbotsinch,FK3 9BT,56.0161,-3.7062
 Leapark Hotel,FK3 9BX,56.0168,-3.7102
 Oxgang Bar Kitchen Rooms,FK3 9BY,56.0156,-3.7096
@@ -154,10 +159,11 @@ blossoms at torwood garden centre limited,FK5 4EG,56.0364,-3.8416
 The plough Hotel ,FK5 4EY,56.0257,-3.8174
 Tim Hortons,FK5 4HA,56.0273,-3.8150
 TWO Coffee shop & Bistro,FK5 4NT,56.0278,-3.8361
-Starbucks,FK5 4WR,56.0256,-3.8481
+Breakfast Room,FK5 4RX,56.0330,-3.8387
 The Stables ,FK5 4XA,56.0339,-3.8041
 Rost Coffee Co,FK5 4XT,56.0358,-3.8207
 The Courtyard Coffee Shop,FK6 5LH,56.0066,-3.8976
+Burger King,FK7 7TL,56.1144,-3.9088
 THE RED LION INN,KY12 8HN,56.0548,-3.6287
 TOPIARY TREE COFFEE SHOP FAIRLEYS GARDEN CENTRE,KY12 8QT,56.0604,-3.5277
 Saline golf club,KY12 9LT,56.1132,-3.5589

@@ -1,13 +1,11 @@
 name,postcode,lat,lon
 The Dartmoor (Watervale) Ltd,EX20 4AY,50.6479,-4.0909
 Castle Inn,EX20 4BH,50.6432,-4.1081
-The National Trust Waterfall Tearoom,EX20 4BH,50.6432,-4.1081
 The White Hart Inn,EX20 4EL,50.6847,-4.1053
 THE FOX AND HOUNDS HOTEL,EX20 4HF,50.6643,-4.0864
 Bearslake Inn,EX20 4HQ,50.6798,-4.0852
 The Pump and Pedal,EX20 4HT,50.7061,-4.0596
 The Clovelly Inn,EX20 4JZ,50.7070,-4.1770
-Burger King,EX20 4LY,50.7078,-4.0598
 Lewtrenchard Manor ,EX20 4PN,50.6539,-4.1816
 cheesewring hotel,PL14 5LE,50.5144,-4.4530
 Victoria Inn,PL14 5NB,50.5034,-4.4070
@@ -21,6 +19,7 @@ Eliot Arms,PL15 7EU,50.6290,-4.4074
 Steam Pipe Company Ltd,PL15 7LP,50.6114,-4.3883
 The Archers Arms,PL15 7QD,50.6007,-4.4389
 belindas cafe & takeaway,PL15 8AB,50.6365,-4.3613
+Costa Coffee,PL15 8AE,50.6368,-4.3610
 Mr & Mrs Perry t/a The Eagle House Hotel,PL15 8BA,50.6383,-4.3623
 Liberty Coffee,PL15 8BD,50.6382,-4.3606
 White Horse inn,PL15 8EL,50.6423,-4.3657
@@ -28,9 +27,11 @@ Tamar Otter and Wildlife Centre,PL15 8GW,50.6776,-4.4266
 launceston golf club ,PL15 8HF,50.6475,-4.3734
 COWSLIP CAFE,PL15 8JX,50.6453,-4.3861
 MW Davey & Brownbrink Ltd t/a Boringdon Park &Trethorne Golf Club,PL15 8QE,50.6224,-4.4245
+Costa Coffee,PL15 9DA,50.6270,-4.3573
 Panda House,PL15 9DP,50.6368,-4.3599
 Red Chair Cafe,PL15 9DX,50.6365,-4.3593
 Buddhas Kitchen & Lounge,PL15 9EB,50.6364,-4.3598
+Costa Coffee,PL15 9HG,50.6308,-4.3542
 PROPER ANSOME CAFE,PL15 9HS,50.6241,-4.3599
 Tre  Pol & Pen,PL15 9NN,50.5956,-4.3354
 THE SPRINGER SPANIEL,PL15 9NS,50.5765,-4.3342
@@ -60,7 +61,7 @@ Taylors,PL19 0DD,50.5501,-4.1460
 The Union Inn,PL19 0DS,50.5502,-4.1473
 Coffee and Cream Patisserie,PL19 0HD,50.5514,-4.1429
 Oggy Oggy pasty company Tavistock ,PL19 0HD,50.5514,-4.1429
-Costa Coffee,PL19 0HE,50.5515,-4.1422
+Costa Coffee,PL19 0HE,50.5513,-4.1427
 Karen's Restaurant,PL19 0HE,50.5515,-4.1422
 BIRDS NEST,PL19 0JF,50.5509,-4.1450
 The Secret Stable,PL19 0QD,50.6063,-4.2249
@@ -69,6 +70,7 @@ Church Lane,PL19 8AA,50.5495,-4.1456
 The Ganges Restaurant,PL19 8AD,50.5497,-4.1462
 A&S HOQUE LTD,PL19 8AJ,50.5495,-4.1477
 the cornish arms ,PL19 8AN,50.5492,-4.1479
+The Queens Head Hotel Tavistock (Wetherspoon),PL19 8AQ,50.5498,-4.1468
 CAM Trading Ltd -The Wharf Coffee Shop ,PL19 8AT,50.5475,-4.1470
 BEDFORD HOTEL,PL19 8BB,50.5493,-4.1446
 The Kitchen cafe,PL19 8BD,50.5488,-4.1467

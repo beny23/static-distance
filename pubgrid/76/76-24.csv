@@ -7,7 +7,6 @@ TORGRANGE SUBWAY,BT18 0NE,54.6451,-5.8162
 Brazilia bt18,BT18 9AB,54.6424,-5.8340
 Tulsi indian restaurant ,BT18 9AB,54.6425,-5.8338
 Coast,BT18 9AD,54.6422,-5.8335
-CAFFE NERO GROUP LTD,BT18 9AE,54.6411,-5.8352
 Fontana Restaurant,BT18 9AE,54.6412,-5.8351
 Little Wing Pizzeria,BT18 9AE,54.6411,-5.8352
 Alexanders Holywood,BT18 9AQ,54.6413,-5.8354
@@ -25,8 +24,6 @@ Coffee Cure,BT19 1DL,54.6585,-5.7037
 Carnalea catering ,BT19 1EZ,54.6644,-5.7057
 Ground Espresso Bars Ltd,BT19 1FH,54.6456,-5.6827
 The Old Inn,BT19 1JH,54.6588,-5.7284
-COSTA COFFEE,BT19 1ND,54.6548,-5.6976
-STARBUCKS COFFEE COMPANY,BT19 1ND,54.6548,-5.6976
 Starbucks Bangor,BT19 1ND,54.6548,-5.6976
 Subway ta Soul Feet Ltd,BT19 1ND,54.6550,-5.6977
 Cafe Havana,BT19 1RS,54.6427,-5.6935
@@ -37,15 +34,12 @@ Cottage kitchen ,BT19 6JR,54.6755,-5.6196
 The Groomsport Inn,BT19 6JR,54.6755,-5.6196
 the stables,BT19 6LG,54.6741,-5.6152
 Airtastic Bangor Limited,BT19 7AG,54.6451,-5.6742
-BURGER KING,BT19 7HB,54.6475,-5.6565
-COSTA COFFEE,BT19 7HB,54.6475,-5.6565
 McDonald's Restaurant Bangor,BT19 7HB,54.6475,-5.6565
+McDonald's,BT19 7HB,54.6471,-5.6585
 Starbucks Bloomfield DT,BT19 7HB,54.6475,-5.6565
-Starbucks Drive Thru Pod,BT19 7HB,54.6475,-5.6565
 Subway,BT19 7HB,54.6475,-5.6565
-Tony Macaroni Ltd,BT19 7HB,54.6475,-5.6565
 Cafe b ,BT19 7HJ,54.6448,-5.6699
-KENTUCKY FRIED CHICKEN (KFC),BT19 7HJ,54.6448,-5.6701
+KFC,BT19 7HJ,54.6458,-5.6694
 BLUE CHICAGO GRILL LTD,BT19 7HR,54.6463,-5.6589
 Ground Espresso Bars Ltd,BT19 7JB,54.6442,-5.6608
 The Pit Stop Cafe,BT19 7PG,54.6393,-5.6725
@@ -78,11 +72,11 @@ Roka Coffee House,BT20 4LE,54.6607,-5.6644
 The Yogurt Tree,BT20 4LF,54.6609,-5.6659
 Cafe Uno Ltd,BT20 4RH,54.6600,-5.6556
 teddys bar and grill,BT20 4SU,54.6595,-5.6654
+Thyme,BT20 4TH,54.6533,-5.6630
 Captain's Table,BT20 5AF,54.6616,-5.6677
 KOOK,BT20 5AF,54.6616,-5.6678
 Little Wing Pizzeria,BT20 5AF,54.6616,-5.6678
 The Goats Toe,BT20 5AF,54.6615,-5.6677
-CAFFE NERO,BT20 5AG,54.6623,-5.6681
 Pickie Fun Park,BT20 5AG,54.6623,-5.6681
 Subway ta Soul Feet Ltd,BT20 5AG,54.6623,-5.6681
 The Red Berry,BT20 5AG,54.6623,-5.6681
@@ -123,7 +117,7 @@ Dobbins Inn ,BT38 7AF,54.7154,-5.8060
 Espresso at etc,BT38 7AF,54.7154,-5.8060
 Mizo's,BT38 7AF,54.7154,-5.8060
 Alfie's (Rima's Cafe Restaurant),BT38 7AG,54.7157,-5.8072
-The Central Bar (J D Wetherspoon),BT38 7AN,54.7151,-5.8057
+The Central Bar Carrickfergus (Wetherspoon),BT38 7AN,54.7147,-5.8063
 NIX Bistro,BT38 7AQ,54.7153,-5.8073
 Mayur Indian Restaurant,BT38 7BE,54.7142,-5.8073
 Glasshouse Bistro ,BT38 7DG,54.7158,-5.8060
@@ -135,18 +129,19 @@ papa browns grill,BT38 7FG,54.7153,-5.8054
 Dillingers,BT38 7JE,54.7224,-5.7907
 The Mount Charles Group Limited Kilroot,BT38 7LX,54.7254,-5.7674
 Morellis at oakland stores,BT38 7QN,54.7325,-5.8104
+Brewers Fayre The Harbour (Carrickfergus),BT38 8BE,54.7116,-5.8091
 JOSH MACS FLAME GRILL,BT38 8BE,54.7114,-5.8126
 McDonald's Restaurant Carrickfergus,BT38 8BE,54.7114,-5.8126
+McDonald's,BT38 8BE,54.7126,-5.8136
 The Windrose Bar and Restaurant,BT38 8BE,54.7115,-5.8118
 springsteens diner,BT38 8BE,54.7115,-5.8118
-KFC,BT38 8BX,54.7108,-5.8273
 BURGERKING,BT38 8BY,54.7124,-5.8196
-Burger King,BT38 8BY,54.7119,-5.8211
 Little India Restaurant  Carrickfergus,BT38 8BY,54.7124,-5.8196
 Little Indian Restaurant,BT38 8BY,54.7124,-5.8196
 Carrickfergus Golf Club,BT38 8LP,54.7211,-5.8066
 Mauds Ice Creams Whiteabbey,BT38 8LR,54.7215,-5.8083
 The Brown Cow,BT38 8PY,54.7214,-5.8272
+KFC,BT38 8SQ,54.7113,-5.8237
 Season coffee shop ,BT38 9DE,54.7356,-5.8095
 Weavers cafe,BT38 9HG,54.7737,-5.7517
 Whitehead Golf Club Restaurant,BT38 9NZ,54.7657,-5.6982
@@ -155,6 +150,7 @@ THE BANK HOUSE CAFE,BT38 9QB,54.7532,-5.7106
 The Whistlestop Cafe,BT38 9QF,54.7524,-5.7102
 coastal coffee,BT38 9QF,54.7524,-5.7103
 Subway,BT40 1AX,54.8456,-5.8039
+KFC,BT40 1AY,54.8457,-5.8100
 BROOKLYN BAY DINER,BT40 1FD,54.8460,-5.8071
 Curran Court Hotel,BT40 1FD,54.8460,-5.8071
 Dairyside Stores Limited,BT40 3LE,54.8061,-5.8323

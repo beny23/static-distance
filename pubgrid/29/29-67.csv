@@ -16,24 +16,24 @@ TEAPOT ISLAND,ME18 6HG,51.2224,0.4177
 The Village Tearooms,ME18 6JA,51.2260,0.4322
 The Walnut Tree Pub and Dining Rooms Ltd,ME18 6JB,51.2279,0.4327
 COSTA COFFEE - KINGS HILL 2,ME19 4AU,51.2723,0.4011
-Costa Coffee,ME19 4AU,51.2726,0.4011
+Costa Coffee,ME19 4AU,51.2718,0.4032
 Humphreys of kings hill,ME19 4AU,51.2726,0.4011
 COSTA COFFEE - KINGS HILL 1,ME19 4DA,51.2724,0.4004
-Costa Coffee,ME19 4DA,51.2724,0.4004
-BaxterStorey Ltd,ME19 4HA,51.2783,0.4015
+Costa Coffee,ME19 4DA,51.2722,0.4002
 West Malling Golf Club,ME19 5AR,51.3019,0.3671
 The Angel,ME19 5BB,51.3070,0.3744
 Bowleys Restaurant Ltd - The Plough Inn,ME19 5DR,51.3162,0.3529
 The George,ME19 5DR,51.3162,0.3529
 The Nevill Bull,ME19 5JW,51.3184,0.4090
 Duke of Wellington,ME19 5LS,51.3137,0.3959
+Brewers Fayre Castle Lake,ME19 5TR,51.3065,0.4241
 King & Queen,ME19 6DD,51.2889,0.4396
 BaxterStorey,ME19 6DZ,51.2949,0.4419
 Swan Bar and Brasserie,ME19 6JU,51.2948,0.4096
 Desh,ME19 6LU,51.2943,0.4084
 Bombay Cuisine,ME19 6NA,51.2939,0.4086
 COSTA COFFEE - WEST MALLING ,ME19 6NA,51.2939,0.4086
-Costa Coffee,ME19 6NA,51.2939,0.4086
+Costa Coffee,ME19 6NA,51.2944,0.4089
 The Farmhouse,ME19 6NA,51.2937,0.4088
 The Five Pointed Star,ME19 6NE,51.2934,0.4078
 Franks Restaurant and Mussel Bar Limited,ME19 6QH,51.2954,0.4094
@@ -46,37 +46,35 @@ Kathmandu Palace,ME20 6PA,51.2985,0.4464
 Village Pantry,ME20 7AU,51.3034,0.4828
 The Hengist Village Bar and Dining Rooms Ltd,ME20 7AX,51.3035,0.4809
 THE CHEQUERS PUB AND DINING ROOMS LTD,ME20 7AY,51.3037,0.4791
+McDonald's,ME20 7PT,51.2919,0.4762
 Basecamp Cafe,ME20 7QX,51.2967,0.4742
+Costa Coffee,ME20 7TP,51.2938,0.4701
+Nando's,ME20 7TP,51.2929,0.4710
 Freemasons arms,ME6 5JR,51.3194,0.4366
 Bengal brassiere ,TN1 1BS,51.1295,0.2622
 Coco Retro,TN1 1BS,51.1295,0.2622
+Thyme,TN1 1DN,51.1300,0.2601
 subway,TN1 1DQ,51.1271,0.2597
 Thackerays Restaurant,TN1 1EA,51.1345,0.2606
 Trinity Arts Enterprises Ltd,TN1 1JP,51.1327,0.2605
 Basil Lime Hill Road,TN1 1LJ,51.1340,0.2619
-Patisserie Valerie,TN1 1LP,51.1336,0.2640
-ASK Italian,TN1 1LS,51.1332,0.2657
 La Follia,TN1 1LS,51.1332,0.2657
 Souper Juice,TN1 1LS,51.1332,0.2657
 The Superfood Company,TN1 1NT,51.1303,0.2632
 The Barn Pub and Restaurant,TN1 1NU,51.1309,0.2617
-Starbucks,TN1 1PX,51.1331,0.2629
-Pret A Manger,TN1 1QR,51.1342,0.2634
+Pret A Manger,TN1 1QR,51.1343,0.2635
 Kai's Kitchen ,TN1 1QU,51.1300,0.2637
-Wagamama,TN1 1RB,51.1312,0.2637
 Estro Pizza and More,TN1 1RJ,51.1319,0.2637
 W Jacobs Ltd,TN1 1RJ,51.1319,0.2637
-Prezzo Restaurant,TN1 1RT,51.1338,0.2640
+Opera House Royal Tunbridge Wells (Wetherspoon),TN1 1RT,51.1337,0.2639
 Raj Pavilion,TN1 1RZ,51.1292,0.2641
 The Claremont,TN1 1RZ,51.1293,0.2641
-Caffe Nero,TN1 1UX,51.1291,0.2625
 The Bedford,TN1 1UX,51.1291,0.2625
 Geography,TN1 1XF,51.1284,0.2618
 Soprano Wine Bar,TN1 1XF,51.1284,0.2618
 Domehill ltd,TN1 1XJ,51.1280,0.2609
 The inside ,TN1 1XS,51.1275,0.2608
-Zizzi,TN1 1YF,51.1275,0.2602
-Pizza Express,TN1 1YG,51.1272,0.2600
+Costa Coffee,TN1 2AH,51.1347,0.2635
 SUBWAY ,TN1 2AH,51.1349,0.2632
 Hot Spot Tunbridge Wells Limited,TN1 2AN,51.1357,0.2624
 Italiart,TN1 2AY,51.1365,0.2621
@@ -100,13 +98,12 @@ Pizzeria,TN1 2SP,51.1343,0.2664
 Wok & Sushi,TN1 2SP,51.1343,0.2664
 Fenwicks,TN1 2SR,51.1350,0.2657
 MandC Restaurants TA McDonald's,TN1 2SR,51.1350,0.2658
-McDonalds,TN1 2SR,51.1350,0.2658
-Caffe Nero,TN1 2SS,51.1350,0.2657
+McDonald's,TN1 2SR,51.1349,0.2666
 SUBWAY ,TN1 2SS,51.1348,0.2652
 Taste Wells,TN1 2SS,51.1350,0.2657
 The Guinea ,TN1 2UJ,51.1336,0.2667
-Giggling Squid,TN1 2UY,51.1333,0.2678
 Townhouse Wine & tapas bar,TN1 2UY,51.1333,0.2678
+Beefeater Hilden Manor,TN10 3AN,51.2063,0.2613
 Subway  Shipbourne Road ,TN10 3ED,51.2053,0.2768
 Carpenters Arms ,TN11 0AD,51.2130,0.3145
 The Rose Revived,TN11 0AN,51.2224,0.3216
@@ -132,8 +129,9 @@ Red Fort Gurkha,TN12 5HL,51.2143,0.3938
 Mulberry Tree Coffee Shop Ltd,TN12 5JG,51.2220,0.3924
 C W Barsley & Son Ltd,TN12 6EJ,51.1811,0.3884
 COSTA COFFEE - PADDOCK WOOD,TN12 6EN,51.1808,0.3888
-Costa Coffee,TN12 6EN,51.1808,0.3888
+Costa Coffee,TN12 6EN,51.1807,0.3886
 SIMLA,TN12 6EZ,51.1812,0.3903
+Brewers Fayre Brookers Oast,TN12 6PY,51.2008,0.3954
 Mama Moos Ice Cream House,TN12 6PY,51.1972,0.3951
 The Barn,TN12 6PY,51.1972,0.3951
 The Hop Farm ,TN12 6PY,51.1974,0.3952
@@ -151,46 +149,42 @@ Eatnmess  ,TN13 1AU,51.2717,0.1905
 Hattusa Sevenoaks ,TN13 1BH,51.2744,0.1876
 Oaks Spice,TN13 1BH,51.2744,0.1876
 COSTA COFFEE - SEVENOAKS ,TN13 1DA,51.2725,0.1922
-Costa Coffee,TN13 1DA,51.2725,0.1922
-Nando's,TN13 1DA,51.2725,0.1922
+Costa Coffee,TN13 1DA,51.2721,0.1921
+Nando's,TN13 1DA,51.2724,0.1920
 Kazoku Pan Asian & Sushi,TN13 1DB,51.2719,0.1919
 Dulce's Patisserie,TN13 1DF,51.2716,0.1923
-Prezzo,TN13 1DH,51.2764,0.1837
 The Raj Bari,TN13 1DH,51.2764,0.1837
-Costa Coffee,TN13 1DP,51.2767,0.1818
+Costa Coffee,TN13 1DP,51.2769,0.1825
 NONNA CAPPUCCINIS,TN13 1DS,51.2714,0.1922
 EPHESUS RESTAURANT,TN13 1JF,51.2693,0.1931
 Branded two ltd ta Branded Sevenoaks,TN13 1JY,51.2695,0.1929
 The Chequers,TN13 1LD,51.2725,0.1900
 Malabar Coffee House,TN13 1LE,51.2705,0.1927
 Subway,TN13 1LH,51.2708,0.1926
-Giggling Squid,TN13 1LL,51.2709,0.1921
 Soprano,TN13 1LL,51.2709,0.1921
 Hive,TN13 1UN,51.2712,0.1917
 The Oak,TN13 1UP,51.2716,0.1924
 Basil Sevenoaks Bank Street,TN13 1UW,51.2711,0.1918
-Caffe Nero,TN13 1UZ,51.2712,0.1928
+The Sennockian Sevenoaks (Wetherspoon),TN13 1UX,51.2725,0.1926
 Life On High ,TN13 1XE,51.2731,0.1930
-Pizza Express,TN13 1XE,51.2727,0.1929
-Wagamama,TN13 1XE,51.2731,0.1930
 The Stag Cinema ,TN13 1ZZ,51.2701,0.1920
 Longhouse Sevenoaks ,TN13 2BU,51.2848,0.1697
 Malabar Coffee House,TN13 2DE,51.2859,0.1693
-Miller & Carter Steakhouse,TN13 2EN,51.2830,0.1708
 The Kings Head,TN13 2PT,51.2789,0.1581
-Costa Coffee,TN13 2QS,51.2898,0.1647
+Costa Coffee,TN13 2QS,51.2886,0.1655
 George & Dragon  Chipstead,TN13 2RW,51.2846,0.1536
 The Bricklayers Arms,TN13 2RZ,51.2856,0.1484
 Principals By CH&Co @ Chevening St Botolphs CEVA School,TN13 2SA,51.2880,0.1466
 Donnington Manor Hotel,TN13 2TD,51.3010,0.1607
 Bojangles coffee house,TN13 2UT,51.2945,0.1668
 The Taj Restaurant,TN13 2UT,51.2945,0.1667
+Thyme,TN13 3BE,51.2777,0.1830
 Principals By CH&Co @ Lady Boswell C Of E Primary School,TN13 3RW,51.2741,0.1949
 Lingalonga Limited T/A Rafferty’s Café ,TN13 3TL,51.2814,0.1947
 FAIRDINE LTD ,TN13 3UE,51.2816,0.1965
 Principals By CH&Co @ St Johns C Of E Primary School,TN13 3XD,51.2814,0.2003
+McDonald's,TN14 5EG,51.2990,0.1927
 McDonalds,TN14 5EG,51.2957,0.1920
-McDonalds,TN14 5EZ,51.3010,0.1929
 WILLOW C  ,TN14 5PQ,51.3133,0.1890
 Coblands Garden Centre,TN14 6AA,51.2738,0.1426
 Principals By CH&Co @ Sundridge And Brasted CP School,TN14 6EA,51.2747,0.1271
@@ -213,9 +207,10 @@ Principals By CH&Co @ Kemsing CP School,TN15 6PU,51.3071,0.2291
 Tamarind Fine Dining Indian Restaurant,TN15 6RE,51.3076,0.2096
 The Bull Hotel,TN15 7RF,51.3087,0.3125
 HOLIDAY INN MAIDSTONE SEVENOAKS,TN15 7RS,51.3007,0.3385
+Beefeater Royal Oak,TN15 7RX,51.2978,0.3422
 ming restaurant,TN15 7RX,51.2978,0.3425
 COSTA COFFEE - BOROUGH GREEN,TN15 8BX,51.2925,0.3063
-Costa Coffee,TN15 8BX,51.2925,0.3063
+Costa Coffee,TN15 8BX,51.2926,0.3064
 Great Comp Garden Old Dairy tearoom,TN15 8QS,51.2866,0.3388
 Perfetto Restaurant,TN15 9AQ,51.2873,0.2817
 T N Leisure ltd,TN15 9HH,51.2868,0.2859
@@ -223,19 +218,17 @@ Flint & Oak,TN16 1QP,51.2764,0.0870
 Squerryes Winery,TN16 1QP,51.2764,0.0870
 The Star and Eagle Hotel Ltd,TN17 1AL,51.1132,0.4597
 The Goudhurst Pub Co Ltd,TN17 1DX,51.1136,0.4717
-Costa Coffee,TN2 3FB,51.1558,0.2878
-KFC,TN2 3FB,51.1558,0.2878
 Tunbridge Wells Constitutional Club,TN2 3PX,51.1362,0.2784
 The Fairmile,TN2 3UU,51.1360,0.2831
-Hollywood Bowl,TN2 3UW,51.1537,0.2970
+Costa Coffee,TN2 3UY,51.1566,0.2889
+KFC,TN2 3UY,51.1565,0.2897
 M and c Restaurants ta Mcdonalds Crown House,TN2 3UY,51.1552,0.2851
-McDonalds,TN2 3UY,51.1552,0.2851
+McDonald's,TN2 3UY,51.1563,0.2899
 Wilson Vale,TN2 4AX,51.1635,0.3254
 Happydays Pembury ,TN2 4DY,51.1431,0.3211
 King William IV,TN2 4JS,51.1413,0.3276
 The Black Horse,TN2 4NY,51.1431,0.3196
 The Camden Arms Hotel,TN2 4PH,51.1429,0.3185
-Costa Coffee,TN2 4QJ,51.1492,0.3073
 Notcutts Tunbridge Wells,TN2 4QN,51.1455,0.3092
 Aspens Charities,TN2 4QU,51.1373,0.3092
 The Royal Oak,TN2 4SY,51.1311,0.2730
@@ -283,7 +276,7 @@ Basil St Johns Road,TN4 9NY,51.1409,0.2605
 Saint Johns Yard,TN4 9PE,51.1416,0.2604
 Shuffle House,TN4 9PE,51.1416,0.2604
 COSTA COFFEE - SOUTHBOROUGH ,TN4 9PH,51.1436,0.2606
-Goldex Investments Ltd T/a Costa Coffee,TN4 9PH,51.1442,0.2608
+Costa Coffee,TN4 9PH,51.1431,0.2604
 Junahki,TN4 9TT,51.1415,0.2598
 Pizza Hut,TN4 9TT,51.1415,0.2598
 Even Flow,TN4 9TU,51.1418,0.2598
@@ -298,22 +291,21 @@ King Henry VIII Inn,TN8 7NH,51.1835,0.1110
 Principals By CH&Co @ Hever C Of E Primary School,TN8 7NH,51.1835,0.1110
 Hever Castle Golf Club Limited,TN8 7NP,51.1987,0.1135
 The Wheatsheaf,TN8 7NU,51.2013,0.1281
-KFC,TN9 1AP,51.1951,0.2743
+KFC,TN9 1AP,51.1953,0.2746
+The Humphrey Bean Tonbridge (Wetherspoon),TN9 1AP,51.1951,0.2744
 oriental buffet club,TN9 1AP,51.1951,0.2743
 Havet Restaurant,TN9 1BB,51.1972,0.2751
 Ivy House ,TN9 1BW,51.1995,0.2764
 Ela Bella ,TN9 1BX,51.1983,0.2759
 Alishan Restaurant ,TN9 1DH,51.1973,0.2756
-Pizza Express,TN9 1DR,51.1956,0.2754
-Starbucks,TN9 1EE,51.1945,0.2737
 Basil Tonbridge High Street,TN9 1EJ,51.1931,0.2723
 Ian Chatfield Butchers & Deli,TN9 1EJ,51.1931,0.2723
 Kathmandu Valley Sevenoaks Ltd,TN9 1EJ,51.1931,0.2723
 Subway  Cannon Lane  Tonbridge,TN9 1FT,51.1959,0.2826
+Costa Coffee,TN9 1PN,51.1965,0.2821
+McDonald's,TN9 1PP,51.1971,0.2841
 McDonald's,TN9 1PP,51.1971,0.2851
-McDonalds,TN9 1PP,51.1971,0.2851
 FirstPort - Castle Court,TN9 1QU,51.2000,0.2814
-Cafe Nero,TN9 1SG,51.1926,0.2725
 Finch House Cafe and Bakery,TN9 1TE,51.1928,0.2731
 OUYUE LTD,TN9 1TJ,51.1934,0.2736
 Paws Cat Cafe Limited,TN9 1TJ,51.1934,0.2736

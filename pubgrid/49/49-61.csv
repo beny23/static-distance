@@ -3,15 +3,15 @@ The Berkeley Arms  Wymondham ,LE14 2AG,52.7603,-0.7398
 Wymondham Windmill Tearooms,LE14 2BU,52.7626,-0.7404
 0rbis Oakham,LE15 6AA,52.6707,-0.7297
 COSTA COFFEE,LE15 6AA,52.6707,-0.7297
+Costa Coffee,LE15 6AA,52.6701,-0.7299
 EVEREST LOUNGE,LE15 6AA,52.6707,-0.7297
 The Daily Grind,LE15 6AA,52.6707,-0.7297
 Baobab cafe,LE15 6AJ,52.6700,-0.7302
-Wildwood Kitchen,LE15 6AJ,52.6700,-0.7302
+The Captain Noel Newton Oakham (Wetherspoon),LE15 6AJ,52.6702,-0.7312
 Strays Coffee,LE15 6AL,52.6695,-0.7286
 The Admiral Hornblower ,LE15 6AS,52.6699,-0.7311
 Kavanagh's Tearoom,LE15 6DR,52.6706,-0.7282
 Brook Whipper-In Hotel,LE15 6DT,52.6699,-0.7275
-Caffe Nero,LE15 6DT,52.6700,-0.7275
 The Lord Nelson,LE15 6DT,52.6700,-0.7275
 Fika,LE15 6EA,52.6689,-0.7272
 Rutland Balti House,LE15 6EA,52.6689,-0.7272
@@ -19,7 +19,6 @@ The Larder,LE15 6EA,52.6689,-0.7272
 The Old Wisteria Hotel Ltd,LE15 6HW,52.6684,-0.7256
 the royal duke Bar & Grill,LE15 6LU,52.6696,-0.7363
 The Grainstore Brewery Tap,LE15 6RE,52.6725,-0.7342
-Wilson Vale Catering Management at Lands End,LE15 6US,52.6805,-0.7340
 Oakham Co-op Food Store,LE15 7AA,52.6794,-0.7129
 The sun inn,LE15 7DH,52.7121,-0.6659
 The Plough,LE15 7NJ,52.7193,-0.6290
@@ -46,10 +45,9 @@ The Woodhouse Arms,NG33 4NS,52.8108,-0.5167
 Rasells Nurseries The Tea House,NG33 4RA,52.7464,-0.4943
 Willoughby Arms ,NG33 4RA,52.7464,-0.4943
 Fox & Hounds ,NG33 4RZ,52.7545,-0.5380
+McDonald's,NG33 5FF,52.8052,-0.6111
 Cross Swords Inn,NG33 5HB,52.8215,-0.6681
-Burger King,NG33 5JN,52.8035,-0.6077
 OK Diner OK Diner New Fox,NG33 5LN,52.7657,-0.6106
-Starbucks,NG33 5LN,52.7650,-0.6101
 The White Lion,NG33 5NE,52.8072,-0.6205
 The Angel inn,NG33 5PJ,52.7645,-0.6277
 The Blue Cow Inn,NG33 5QB,52.7624,-0.6281
@@ -57,8 +55,10 @@ The Tollemache Arms,NG33 5SA,52.7961,-0.6957
 The Wishing Well Inn,PE10 0AF,52.7890,-0.3643
 The Horseshoe,PE10 0EL,52.7364,-0.3679
 MCDONALDS,PE10 0ET,52.7546,-0.3692
+McDonald's,PE10 0ET,52.7546,-0.3691
 The Six Bells,PE10 0JH,52.7358,-0.4415
 China Hand Lincs Ltd,PE10 9AB,52.7696,-0.3767
+Costa Coffee,PE10 9AB,52.7685,-0.3771
 Costa Coffee,PE10 9AB,52.7696,-0.3767
 Jubilee Garage,PE10 9AB,52.7696,-0.3767
 Cafe 35,PE10 9AE,52.7691,-0.3775
@@ -66,7 +66,6 @@ Galaxy91 Limited,PE10 9AE,52.7691,-0.3775
 Smiths of Bourne,PE10 9AE,52.7691,-0.3775
 The Beanbag (bourne) ltd trading as The Angel Hotel,PE10 9AE,52.7691,-0.3775
 Wild Heart Cafe,PE10 9AE,52.7691,-0.3775
-Bourne Leisure Centre,PE10 9DX,52.7737,-0.3729
 Dont Lose Hope Cafe,PE10 9EA,52.7683,-0.3767
 Ginger Fox Cafe,PE10 9EF,52.7678,-0.3760
 The Nags Head,PE10 9EF,52.7678,-0.3760
@@ -89,23 +88,22 @@ Jalsagor LTD,PE9 1PJ,52.6534,-0.4774
 Cafe au Chocolat,PE9 1PL,52.6529,-0.4787
 Frothys coffeeshop,PE9 1PL,52.6529,-0.4787
 MCDONALDS,PE9 1TX,52.6579,-0.4653
+McDonald's,PE9 1TX,52.6585,-0.4655
 Paten & Co,PE9 2AG,52.6526,-0.4805
 The Crown Hotel,PE9 2AG,52.6527,-0.4809
 Central cafe & tea rooms,PE9 2AJ,52.6519,-0.4808
 Cafe Black,PE9 2AL,52.6524,-0.4791
-Caffe Nero,PE9 2AL,52.6524,-0.4791
 Strays Coffee,PE9 2AL,52.6524,-0.4791
 Hoppi Dorri,PE9 2AR,52.6518,-0.4811
 The Lean Pantry Company Stamford Ltd,PE9 2AW,52.6520,-0.4789
 ALLORO,PE9 2AX,52.6519,-0.4779
 Lambert's,PE9 2AX,52.6521,-0.4780
-Costa Coffee,PE9 2BB,52.6530,-0.4768
+Costa Coffee,PE9 2BB,52.6529,-0.4769
 Scandimania Coffee House,PE9 2BB,52.6529,-0.4771
 Subway,PE9 2BB,52.6530,-0.4768
 The Tobie Norris,PE9 2BE,52.6537,-0.4753
 The mad Turk,PE9 2BE,52.6537,-0.4753
 Aloha foods co,PE9 2DB,52.6516,-0.4804
-Ask Italian,PE9 2DB,52.6516,-0.4804
 THE LONDON INN LTD,PE9 2DB,52.6516,-0.4804
 Cloisters Bistro ,PE9 2DE,52.6515,-0.4793
 The Copper Room,PE9 2DP,52.6510,-0.4785
@@ -113,12 +111,12 @@ Zada,PE9 2DP,52.6510,-0.4785
 The Fine Food Store Ltd,PE9 2DS,52.6513,-0.4793
 The slanted door ,PE9 2DS,52.6513,-0.4793
 The George Hotel of Stamford,PE9 2LB,52.6496,-0.4782
-Pizza Express,PE9 2LE,52.6501,-0.4779
 The Bull and Swan at Burghley,PE9 2LJ,52.6473,-0.4761
 William Cecil Hotel,PE9 2LJ,52.6473,-0.4761
 Raj Of India ,PE9 2PA,52.6518,-0.4823
 Stamford Masonic Centre,PE9 2PA,52.6518,-0.4823
 The Jolly Brewer,PE9 2PP,52.6516,-0.4860
+The Stamford Post Stamford (Wetherspoon),PE9 2QZ,52.6511,-0.4808
 GOOCH'S,PE9 2RA,52.6512,-0.4805
 Street Food Station Ltd,PE9 2RA,52.6513,-0.4806
 The Bombay Cottage,PE9 2YQ,52.6529,-0.4851

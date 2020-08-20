@@ -15,7 +15,6 @@ Willingdon Golf Club,BN20 9AA,50.7891,0.2549
 The Wheatsheaf Inn,BN20 9HP,50.7994,0.2513
 the red lion,BN20 9HQ,50.7977,0.2514
 The British Queen,BN20 9PG,50.8074,0.2478
-Prezzo,BN21 1BA,50.7694,0.2793
 Jocelyn’s Coffee Shop,BN21 1BD,50.7700,0.2807
 The Thai Brasserie Eastbourne ,BN21 1BD,50.7700,0.2807
 Yummy Noodle Bar,BN21 1BD,50.7700,0.2807
@@ -32,12 +31,11 @@ Priti Indian,BN21 1SB,50.7770,0.2567
 Trident Fish and Seafood Restaurant,BN21 1SD,50.7775,0.2567
 The Boardwalk Cafe,BN21 3AD,50.7662,0.2914
 West Rocks beach club,BN21 3AD,50.7662,0.2914
-Caffe Nero,BN21 3AN,50.7682,0.2863
-Patisserie Valerie,BN21 3AN,50.7682,0.2863
 The Snug - Eastbourne,BN21 3BX,50.7668,0.2885
 Harleywood Diner,BN21 3DE,50.7666,0.2902
 Harry Ramsdens,BN21 3DE,50.7663,0.2906
 tuk tuk ,BN21 3DE,50.7666,0.2902
+Thyme,BN21 3DF,50.7671,0.2894
 Athens restaurant ,BN21 3DH,50.7670,0.2903
 FRESCO,BN21 3DH,50.7670,0.2903
 MALAYALAM Restaurant,BN21 3DH,50.7670,0.2903
@@ -47,7 +45,6 @@ Torreros Restaurant ,BN21 3DH,50.7670,0.2903
 gr/eat Greek deli & cuisine,BN21 3DH,50.7670,0.2903
 Crown and Anchor,BN21 3DX,50.7685,0.2940
 The Pier Hotel,BN21 3EH,50.7678,0.2926
-Nandos,BN21 3FA,50.7695,0.2838
 Taylor's Restaurant and Sports Bar LTD,BN21 3FA,50.7695,0.2838
 la grange,BN21 3HG,50.7684,0.2892
 Leo Leisure Bingo,BN21 3HJ,50.7690,0.2883
@@ -55,7 +52,6 @@ Leo's Play Den,BN21 3HJ,50.7690,0.2883
 exquis,BN21 3HJ,50.7687,0.2886
 meze restaurant ,BN21 3HR,50.7690,0.2900
 DejaVu Eastbourne ltd.,BN21 3JU,50.7678,0.2855
-Zizzi,BN21 3JU,50.7678,0.2855
 Anema e Core,BN21 3JX,50.7680,0.2860
 Urban Ground,BN21 3JX,50.7680,0.2860
 HoneyBee Donuts,BN21 3LP,50.7690,0.2807
@@ -64,14 +60,16 @@ Pedro's fish restaurant and take-away LTD,BN21 3LP,50.7690,0.2807
 A Star Enterprise Limited T/A Creams Cafe,BN21 3LX,50.7686,0.2824
 Cafe Oriental ,BN21 3LX,50.7686,0.2824
 Haberdashers Kitchen,BN21 3LX,50.7686,0.2824
+The London  County Eastbourne (Wetherspoon),BN21 3LX,50.7688,0.2815
 COFFEE REPUBLIC,BN21 3NJ,50.7687,0.2850
-Costa Coffee,BN21 3NJ,50.7687,0.2850
+Costa Coffee,BN21 3NJ,50.7685,0.2854
 Taco Bell,BN21 3NS,50.7686,0.2871
 Cafe Ruby,BN21 3NW,50.7692,0.2851
+Costa Coffee,BN21 3NW,50.7691,0.2818
 EASTBOURNE COFFEE LTD T/A MUFFIN BREAK ,BN21 3NW,50.7692,0.2851
 Jamaica Blue Eastbourne,BN21 3NW,50.7693,0.2847
+Nando's,BN21 3NW,50.7696,0.2833
 Shades Restaurant (Eastbourne) Ltd,BN21 3NW,50.7692,0.2851
-Starbucks,BN21 3NW,50.7692,0.2851
 The Bok Shop,BN21 3NW,50.7693,0.2847
 PORT AND STARBOARD ,BN21 3NX,50.7681,0.2885
 Pianta Del Caffe,BN21 3NX,50.7681,0.2885
@@ -81,10 +79,10 @@ Seafare restaurant ,BN21 3PD,50.7686,0.2912
 COSMO World Buffet Restaurant,BN21 3PH,50.7689,0.2932
 Jesters (Eastbourne) Limited,BN21 3PH,50.7689,0.2932
 Fresh grill foods limited ,BN21 3QA,50.7690,0.2877
-KFC,BN21 3QA,50.7690,0.2877
 steam,BN21 3QA,50.7690,0.2877
 Subway Eastbourne,BN21 3QJ,50.7694,0.2810
 McDonald's Eastbourne 1,BN21 3QP,50.7689,0.2833
+McDonald's,BN21 3QP,50.7689,0.2831
 The Hart,BN21 3RR,50.7708,0.2890
 DQ Terrace Bar & Café,BN21 4BP,50.7628,0.2845
 Little Italy,BN21 4BT,50.7624,0.2853
@@ -107,12 +105,11 @@ Morgans Bistro,BN21 4LU,50.7667,0.2840
 CHEERS FOOD LTD,BN21 4NS,50.7659,0.2848
 La Locanda Del Duca Ltd,BN21 4NS,50.7659,0.2848
 Pomodoro E Mozzarella,BN21 4NS,50.7659,0.2848
-Wetherspoon Plc,BN21 4QD,50.7675,0.2847
+Cornfield Garage Eastbourne (Wetherspoon),BN21 4QD,50.7676,0.2846
 7 Bone Burger Co - Eastbourne,BN21 4QE,50.7676,0.2840
 Deliciously Gorgeous Cafe Et,BN21 4QE,50.7676,0.2840
 Solo Pasta Sussex ltd,BN21 4QG,50.7672,0.2848
 Coffee & Carrot,BN21 4QH,50.7669,0.2844
-Pizza Express,BN21 4QH,50.7669,0.2844
 StrEAT Thai,BN21 4QU,50.7687,0.2810
 Cafe Chi,BN21 4RG,50.7685,0.2821
 Lincolns Bakery & Sandwich Bar,BN21 4RJ,50.7682,0.2822
@@ -150,12 +147,10 @@ Seeracha Thai Restaurant,BN22 7QP,50.7722,0.2948
 KERALA FLAVOURS,BN22 7QW,50.7732,0.2953
 Rosy Lee Cafe,BN22 7RP,50.7818,0.3024
 Arlington Arms,BN22 7RY,50.7843,0.3045
-KFC Drive Thru',BN22 7SG,50.7851,0.3071
+KFC,BN22 7SG,50.7850,0.3082
 KFC,BN22 7SG,50.7851,0.3071
 Mandy's Kitchen,BN22 9BU,50.7984,0.2814
 Cuckoo cakes and café ,BN22 9NG,50.7972,0.2771
-Eastbourne Tenpin,BN22 9PZ,50.7940,0.2767
-Tenpin Eastbourne,BN22 9PZ,50.7940,0.2767
 EASTBOURNE AND DISTRICT INDOOR BOWLS,BN22 9QR,50.7925,0.2691
 Sovereign Harbour Yacht Club Ltd,BN23 5QF,50.7955,0.3265
 Breakfast Club @ The Haven VA C of E Methodist Primary School,BN23 5SW,50.7903,0.3192
@@ -169,19 +164,17 @@ Thai Marina,BN23 5UZ,50.7940,0.3263
 seamoors,BN23 5UZ,50.7940,0.3263
 Early bird cafe ,BN23 6NL,50.7887,0.3087
 McDonald's Eastbourne 2,BN23 6QD,50.7870,0.3031
-Pizza Hut Restaurant,BN23 6QD,50.7870,0.3031
+McDonald's,BN23 6QD,50.7870,0.3031
 The Fairway Restaurant at  Lottbridge Golf Club,BN23 6QJ,50.7884,0.2874
-Caffe Pausa @ Dunelm Mill,BN23 6QU,50.7947,0.2862
+Costa Coffee,BN23 7RT,50.8035,0.3039
 Windmills Bakery and Coffee Shop,BN23 7RT,50.8034,0.3039
 The Farm at Friday Street,BN23 8AP,50.8064,0.3030
 Hillier Garden Centre Eastbourne,BN24 5BS,50.8369,0.2787
 Sharnfold Farm and The Hop Farm ,BN24 5BU,50.8235,0.2853
 The Red Lion,BN24 5EG,50.8163,0.2917
-Starbucks,BN24 5JW,50.8226,0.3432
 Castle Cottage Tearoom,BN24 5LE,50.8201,0.3366
 Royal Oak and Castle Inn ,BN24 5LE,50.8201,0.3366
 The Smugglers,BN24 5LF,50.8203,0.3361
-Park Holidays Uk,BN24 6DH,50.8057,0.3424
 CASTLE INN,BN24 6HS,50.8112,0.3481
 The Star Inn,BN24 6QG,50.8311,0.3956
 Church Lane Tea Room,BN25 1HG,50.7712,0.1013
@@ -216,31 +209,31 @@ Rathfinny Wine Estate - The Tasting Room,BN26 5TU,50.7982,0.1394
 Smugglers Alfriston Ltd,BN26 5UE,50.8082,0.1563
 Badgers Tea House,BN26 5UG,50.8087,0.1570
 COSTA COFFEE - POLEGATE,BN26 6AQ,50.8215,0.2447
-Costa Coffee,BN26 6AQ,50.8215,0.2446
+Costa Coffee,BN26 6AQ,50.8215,0.2444
 Lite Bites,BN26 6QL,50.8297,0.2371
 McDonald's Polegate,BN26 6QL,50.8297,0.2371
-Mcdonalds Ltd,BN26 6QL,50.8297,0.2371
+McDonald's,BN26 6QL,50.8291,0.2361
+Whitbread Inns The Treacle Mine,BN26 6QL,50.8296,0.2371
 K2 INDIAN RESTAURANT,BN26 6RF,50.8352,0.2390
 Arlington tea garden (room) ,BN26 6RU,50.8424,0.1990
 The Berwick Inn,BN26 6SZ,50.8392,0.1654
 the barley mow,BN26 6UE,50.8400,0.1383
 Crosslink Shop Ltd,BN27 1AD,50.8619,0.2593
-JD Wetherspoon plc,BN27 1AD,50.8619,0.2593
+The George Hotel Hailsham (Wetherspoon),BN27 1AD,50.8620,0.2595
 Ribs & Co,BN27 1AE,50.8625,0.2590
 Bucklers,BN27 1AF,50.8628,0.2591
 The Crown,BN27 1AL,50.8628,0.2597
 Truffles Bakery and Confectioners Ltd,BN27 1AL,50.8628,0.2597
 Truffles Bakery,BN27 1AL,50.8628,0.2597
-Prezzo PLC,BN27 1AR,50.8644,0.2581
 The Snug - Hailsham,BN27 1AR,50.8643,0.2582
 Callenders Restuarant,BN27 1AU,50.8652,0.2572
-Freedom Leisure,BN27 1BA,50.8652,0.2600
 Subway Hailsham,BN27 1BB,50.8641,0.2588
 Hays cafe,BN27 1BG,50.8638,0.2595
 B12 Bar & Kitchen,BN27 1BJ,50.8630,0.2598
 COSTA COFFEE - HAILSHAM ,BN27 1BJ,50.8630,0.2598
-Costa Coffee,BN27 1BJ,50.8630,0.2598
+Costa Coffee,BN27 1BJ,50.8634,0.2595
 Knockhatch Adventure Park,BN27 3GD,50.8634,0.2328
+KFC,BN27 3JJ,50.8590,0.2524
 KFC,BN27 3JJ,50.8592,0.2525
 The Village Shop & Cafe,BN27 3QE,50.8672,0.2058
 The Plough,BN27 3QJ,50.8655,0.1998
@@ -288,6 +281,7 @@ Bentleys Steakhouse,TN40 1DX,50.8404,0.4722
 Meyrem Restaurant,TN40 1DX,50.8404,0.4722
 The burger shack ,TN40 1DX,50.8404,0.4722
 The Courtyard cafe ,TN40 1DY,50.8404,0.4708
+The Picture Playhouse Bexhill On Sea (Wetherspoon),TN40 1DY,50.8403,0.4711
 Cinnamon Cafe,TN40 1ED,50.8404,0.4768
 MYIA LOUNGE,TN40 1ED,50.8404,0.4768
 The Colonnade,TN40 1FH,50.8371,0.4719

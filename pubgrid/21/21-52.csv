@@ -1,7 +1,5 @@
 name,postcode,lat,lon
-Turtle Bay,BH1 1AR,50.7236,-1.8742
 Belgium and Blues,BH1 1BA,50.7204,-1.8784
-Patisserie Valerie,BH1 1BA,50.7204,-1.8784
 Subway,BH1 1BA,50.7204,-1.8784
 W2 Bubble,BH1 1BA,50.7204,-1.8784
 Creams Cafe Bournemouth,BH1 1BZ,50.7211,-1.8776
@@ -9,24 +7,23 @@ Del Marco coffee ltd,BH1 1DF,50.7214,-1.8770
 Real Eating Company Ltd,BH1 1DF,50.7213,-1.8769
 bentos,BH1 1DF,50.7214,-1.8770
 McDonald's,BH1 1DS,50.7205,-1.8776
-McDonalds,BH1 1DS,50.7205,-1.8776
+McDonald's,BH1 1DS,50.7205,-1.8778
 Cremma,BH1 1DT,50.7209,-1.8770
 KOKORO,BH1 1DT,50.7209,-1.8770
 Leo Cafe,BH1 1EN,50.7219,-1.8760
 Kala Thai,BH1 1EP,50.7221,-1.8751
+Costa Coffee,BH1 1EW,50.7214,-1.8765
 Zazacafe ,BH1 1EW,50.7215,-1.8764
 Frieda's tearoom Ltd,BH1 1JH,50.7231,-1.8689
 Agora Restaurant,BH1 1JU,50.7223,-1.8702
 The Coconut Tree,BH1 1JU,50.7224,-1.8700
 Zorbas Greek Restaurant,BH1 1JU,50.7223,-1.8702
 Smokin Rooster,BH1 1JZ,50.7224,-1.8679
-Caffe Nero,BH1 1LL,50.7211,-1.8763
 churros and paella,BH1 1LL,50.7211,-1.8763
 Doner kebab uk,BH1 1NL,50.7223,-1.8733
 Taco Bell,BH1 1NL,50.7223,-1.8733
 Tasty,BH1 1NU,50.7220,-1.8721
 subway,BH1 1NU,50.7220,-1.8721
-Eat Pho,BH1 1PD,50.7220,-1.8709
 The Mandarin Fusion Restaurant,BH1 1PD,50.7220,-1.8709
 Halabway restaurant ,BH1 1PF,50.7222,-1.8686
 Little India restaurant,BH1 1PF,50.7222,-1.8686
@@ -38,7 +35,7 @@ Eaters Pizza,BH1 1RU,50.7224,-1.8670
 FULL PLATE RESTAURANT LIMITED,BH1 1RZ,50.7233,-1.8668
 KAZOKU NOODLE BAR ,BH1 1RZ,50.7233,-1.8668
 Ki-cchin Sushi Bar,BH1 1SD,50.7227,-1.8671
-Pizza Express,BH1 1XX,50.7209,-1.8779
+The Mary Shelley Bournemouth (Wetherspoon),BH1 2AD,50.7206,-1.8762
 7 Bone Burger Co - Bournemouth,BH1 2AL,50.7201,-1.8767
 yobu,BH1 2AL,50.7201,-1.8767
 Picnic Park Deli,BH1 2AQ,50.7197,-1.8793
@@ -46,11 +43,9 @@ Pavilion Theatre,BH1 2BU,50.7175,-1.8752
 The Bournemouth Stable,BH1 2BU,50.7175,-1.8752
 Bowl Central,BH1 2BZ,50.7186,-1.8747
 Grosvenor Casino Bournemouth,BH1 2BZ,50.7186,-1.8744
-KFC,BH1 2BZ,50.7189,-1.8742
+KFC,BH1 2BZ,50.7188,-1.8751
 Mixed Bournemouth ,BH1 2BZ,50.7186,-1.8747
-Pizza Hut,BH1 2BZ,50.7189,-1.8742
-Prezzo,BH1 2BZ,50.7189,-1.8742
-Wagamama,BH1 2BZ,50.7189,-1.8742
+Thyme,BH1 2BZ,50.7182,-1.8735
 Desi Dhaba,BH1 2EP,50.7190,-1.8712
 Russell Court Hotel,BH1 2EP,50.7190,-1.8712
 Royal Bath Hotel ,BH1 2EW,50.7176,-1.8726
@@ -75,8 +70,9 @@ Hotel Celebrity,BH1 3DD,50.7195,-1.8669
 Britannia Bournemouth Hotel,BH1 3DP,50.7196,-1.8665
 The Royal Grill Room,BH1 3EQ,50.7210,-1.8634
 Normandie Hotel,BH1 3HL,50.7210,-1.8524
-Buzz Bingo,BH1 3JP,50.7218,-1.8638
 Naked Coffee,BH1 3LT,50.7223,-1.8653
+Thyme,BH1 3ND,50.7226,-1.8619
+Table Table Lynton Court,BH1 3PA,50.7228,-1.8531
 Water Garden Hotel,BH1 3PG,50.7235,-1.8594
 Carrington House Hotel Bournemouth,BH1 3QQ,50.7243,-1.8539
 Compton Acres Limited,BH13 7ES,50.7050,-1.9254
@@ -108,20 +104,18 @@ The Dancing Moose Bar & Cook House,BH14 8UB,50.7232,-1.9513
 Jenkins  & Sons Ltd,BH14 9NB,50.7232,-1.9259
 NICK THE FISH LTD,BH14 9NB,50.7232,-1.9259
 Penn Central,BH14 9NB,50.7232,-1.9259
-Costa Coffee Lifeboat Quay,BH15 1AE,50.7187,-1.9849
+Costa Coffee,BH15 1AE,50.7185,-1.9849
 Subway,BH15 1AE,50.7187,-1.9849
 Hortons of Poole,BH15 1AF,50.7142,-1.9858
 Ginalis ,BH15 1AH,50.7145,-1.9852
 Aroma Poole ,BH15 1AS,50.7163,-1.9831
 Taco Bell,BH15 1AS,50.7163,-1.9834
-Caffe Nero,BH15 1AU,50.7172,-1.9824
 Quay Spice Dorset Ltd,BH15 1BT,50.7140,-1.9867
 Tandoori nights,BH15 1BT,50.7140,-1.9866
 Just Bean Ground,BH15 1DA,50.7144,-1.9861
 Sandwiches etc,BH15 1DF,50.7164,-1.9837
-Coffee#1,BH15 1DN,50.7174,-1.9829
 Butterfingers ,BH15 1DX,50.7193,-1.9787
-Costa Coffee Falkland Square,BH15 1ER,50.7182,-1.9824
+Costa Coffee,BH15 1ER,50.7185,-1.9818
 Quay Cafe,BH15 1HH,50.7123,-1.9843
 Custom House Cafe,BH15 1HJ,50.7123,-1.9864
 Da Vincis ,BH15 1HJ,50.7123,-1.9864
@@ -129,25 +123,25 @@ Oriel on the Quay,BH15 1HJ,50.7123,-1.9864
 Poole quay fish bar LTD ,BH15 1HJ,50.7123,-1.9864
 ROCKFISH POOLE,BH15 1HJ,50.7123,-1.9864
 The Lord Nelson,BH15 1HJ,50.7123,-1.9864
+The Quay Poole (Wetherspoon),BH15 1HJ,50.7122,-1.9872
 quay grill,BH15 1HJ,50.7123,-1.9864
 quay roast,BH15 1HJ,50.7123,-1.9864
 Deli on the Quay,BH15 1HU,50.7121,-1.9843
 Rancho South American Steak House,BH15 1HU,50.7121,-1.9843
-Compass Group Limited,BH15 1JQ,50.7173,-1.9858
 Lakeside Fish and Chips,BH15 1LS,50.7192,-1.9869
 Crown Hotel,BH15 1NB,50.7143,-1.9875
 The Guildhall Tavern,BH15 1NB,50.7143,-1.9875
 Brewhouse and Kitchen Poole,BH15 1NZ,50.7156,-1.9851
+The Lord Wimborne Poole (Wetherspoon),BH15 1QD,50.7165,-1.9826
 Holiday Inn Express Poole,BH15 1RZ,50.7162,-1.9754
 soho bar and kitchen ,BH15 1SD,50.7137,-1.9851
 Eva's cafe grab and go,BH15 1SP,50.7179,-1.9786
 The Clipper Restaurant,BH15 1SS,50.7175,-1.9801
-KFC,BH15 1SZ,50.7184,-1.9801
+KFC,BH15 1SZ,50.7185,-1.9794
 POOLE MB COFFEE LTD T/A MUFFIN BREAK ,BH15 1SZ,50.7186,-1.9796
-Starbucks,BH15 1SZ,50.7184,-1.9801
 Subway,BH15 1SZ,50.7186,-1.9796
 naked coffee,BH15 1SZ,50.7186,-1.9796
-Costa Coffee,BH15 2JB,50.7220,-1.9731
+Costa Coffee,BH15 2JB,50.7219,-1.9733
 Royal Voluntary Service,BH15 2JB,50.7220,-1.9731
 ISANTHAI RESTAURANTS LIMITED,BH15 2PB,50.7231,-1.9632
 Subway,BH15 2PB,50.7231,-1.9632
@@ -157,7 +151,6 @@ The Kitchen,BH15 2SF,50.7208,-1.9652
 The Salt Pig Too Ltd,BH19 1AB,50.6093,-1.9579
 deja brew,BH19 1AD,50.6096,-1.9589
 Harry Ramsdens,BH19 1AE,50.6095,-1.9579
-The Cornish Bakery Shops Ltd,BH19 1BT,50.6088,-1.9567
 WIMPY SWANAGE,BH19 1BT,50.6088,-1.9567
 Haymans Bakery ,BH19 1BX,50.6088,-1.9571
 Chococo Swanage,BH19 1DF,50.6090,-1.9579
@@ -199,18 +192,13 @@ BarSo,BH2 5AG,50.7179,-1.8788
 Eighteen Twelve,BH2 5AG,50.7179,-1.8788
 Hardy's Restaurant,BH2 5AH,50.7171,-1.8771
 Neo Restaurant,BH2 5AH,50.7171,-1.8771
+The Moon in the Square Bournemouth (Wetherspoon),BH2 5AQ,50.7196,-1.8803
 The Shed,BH2 5AQ,50.7184,-1.8805
-Ask Italian,BH2 5AU,50.7184,-1.8793
-Five Guys,BH2 5AU,50.7184,-1.8793
-Pizza Express,BH2 5AU,50.7184,-1.8793
-Prezzo,BH2 5AU,50.7184,-1.8793
+Nando's,BH2 5AU,50.7188,-1.8790
 Urban Garden,BH2 5AY,50.7185,-1.8777
 Bournemouth International Centre,BH2 5BH,50.7166,-1.8784
 THAT Bournemouth Street Bar Ltd,BH2 5BR,50.7185,-1.8819
-Miller & Carter,BH2 5DD,50.7188,-1.8795
 Mr Mulligans Bournemouth,BH2 5DD,50.7188,-1.8795
-Nando's,BH2 5DD,50.7186,-1.8791
-TGI Fridays,BH2 5DD,50.7188,-1.8795
 Hotel Collingwood,BH2 5DF,50.7170,-1.8820
 Trouville Hotel,BH2 5DH,50.7173,-1.8809
 Brasserie Blanc Bournemouth ,BH2 5DU,50.7156,-1.8825
@@ -222,12 +210,11 @@ Indian Ocean,BH2 5EY,50.7166,-1.8831
 Miso Asian Market,BH2 5EY,50.7166,-1.8831
 Durley Dene Limited ,BH2 5HE,50.7162,-1.8879
 Bournemouth West Cliff Hotel,BH2 5JS,50.7188,-1.8905
-Burger King,BH2 5LP,50.7204,-1.8815
-Pret A Manger,BH2 5LP,50.7204,-1.8815
-Caffe Nero,BH2 5LR,50.7199,-1.8832
+Burger King,BH2 5LP,50.7204,-1.8816
+Pret A Manger,BH2 5LP,50.7201,-1.8809
+Costa Coffee,BH2 5LR,50.7203,-1.8833
 Brewhouse and Kitchen Bournemouth,BH2 5LU,50.7196,-1.8858
 Funchal by Night,BH2 5LU,50.7196,-1.8858
-Franco Manca @ Debenhams,BH2 5LY,50.7199,-1.8808
 THE CONNAUGHT HOTEL,BH2 5PH,50.7173,-1.8845
 Olive Cafe ,BH2 5PS,50.7199,-1.8872
 Pinocchio Restaurant,BH2 5PS,50.7199,-1.8869
@@ -235,9 +222,9 @@ Zim Braai II - Bournemouth,BH2 5PS,50.7199,-1.8872
 Dancing Jug,BH2 5PW,50.7195,-1.8873
 Mighty Wieners Bournemouth Ltd,BH2 5PW,50.7195,-1.8873
 Crave Kitchen,BH2 5QR,50.7204,-1.8926
+Thyme,BH2 5QU,50.7210,-1.8923
 Flirt Cafe Bar,BH2 5RG,50.7206,-1.8844
-KFC,BH2 5RH,50.7204,-1.8831
-Starbucks Coffee Company,BH2 5RH,50.7204,-1.8841
+KFC,BH2 5RH,50.7203,-1.8838
 Lolas,BH2 5RT,50.7199,-1.8846
 Tealith Bubble Tea,BH2 5RT,50.7199,-1.8846
 the four horsemen pub,BH2 5RT,50.7199,-1.8846
@@ -250,11 +237,7 @@ Monty's Burger Lounge,BH2 6DP,50.7211,-1.8803
 All Fired Up,BH2 6DT,50.7210,-1.8800
 The Dancing Moose Bar & Cook House,BH2 6DT,50.7210,-1.8800
 South Coast Roast,BH2 6EJ,50.7209,-1.8794
-Zizzi,BH2 6EJ,50.7209,-1.8794
 The Norfolk Royale Hotel,BH2 6EN,50.7214,-1.8792
-Baxterstorey Limited,BH2 6EP,50.7223,-1.8786
-Starbucks,BH2 6HE,50.7206,-1.8791
-Wildwood,BH2 6HE,50.7207,-1.8790
 Christchurch Catering Co Limited,BH23 4AB,50.7244,-1.7420
 Cafe Argyll,BH4 8AB,50.7153,-1.8997
 Westbourne Conservative Club,BH4 8DX,50.7203,-1.9029
@@ -262,6 +245,7 @@ The Riviera Hotel,BH4 8JF,50.7123,-1.8999
 Ginjams,BH4 9AA,50.7224,-1.9019
 INDI'S RESTAURANT LIMITED,BH4 9AA,50.7224,-1.9019
 Costa Coffee,BH4 9AE,50.7224,-1.9038
+Costa Coffee,BH4 9AE,50.7230,-1.9045
 Cotea,BH4 9AE,50.7224,-1.9038
 Dilli Haat,BH4 9AE,50.7224,-1.9038
 Dot Teas,BH4 9AE,50.7224,-1.9038
@@ -270,7 +254,6 @@ Lazy Fox,BH4 9AR,50.7219,-1.9028
 Camden Bar Westbourne ,BH4 9AS,50.7223,-1.9043
 Westbourne Tandoori Dorset Ltd,BH4 9AS,50.7223,-1.9043
 Cotea83,BH4 9BB,50.7230,-1.9034
-Pizza Express,BH4 9BB,50.7230,-1.9035
 Romanzo,BH4 9BB,50.7230,-1.9035
 Masini's cafe ltd,BH4 9BG,50.7234,-1.9053
 Westbourne Grill House,BH4 9BG,50.7234,-1.9053
@@ -279,7 +262,6 @@ Coffee Club Restaurant ,BH4 9DZ,50.7231,-1.9023
 LE PETIT PRINCE PATISSERIE,BH4 9DZ,50.7231,-1.9023
 Renoufs,BH4 9DZ,50.7231,-1.9023
 MiYa Japanese restaurant,BH4 9EF,50.7235,-1.9044
-Starbucks,BH4 9EF,50.7235,-1.9044
 The Duck,BH4 9EF,50.7235,-1.9044
 Urban Reef,BH5 1BN,50.7198,-1.8431
 James and White  Boscombe Spa,BH5 1BQ,50.7216,-1.8418
@@ -287,13 +269,13 @@ Urban Beach,BH5 1EB,50.7241,-1.8423
 Cliff house hotel,BH6 3DA,50.7240,-1.8071
 Bistro on the beach,BH6 4BE,50.7198,-1.7913
 Beachhouse,BH6 4EN,50.7192,-1.7686
-KFC,BH8 8AA,50.7222,-1.8659
+KFC,BH8 8AA,50.7222,-1.8658
 Aroma ,BH8 8AD,50.7227,-1.8652
 Kayla Brasserie,BH8 8AD,50.7228,-1.8652
+The Christopher Creeke Bournemouth (Wetherspoon),BH8 8AD,50.7224,-1.8657
 sprinkles Gelato,BH8 8AD,50.7228,-1.8652
 La Piccola Italia,BH8 8EH,50.7228,-1.8660
 Subway,BH8 8EH,50.7228,-1.8660
 Tea 4ever Ltd,BH8 8EH,50.7229,-1.8658
-Starbucks Coffee,BH8 8FT,50.7242,-1.8646
 Naked Deli,BH8 8GN,50.7238,-1.8650
 The Lighthouse,SO41 0PY,50.7210,-1.5883

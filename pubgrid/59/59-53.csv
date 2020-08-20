@@ -35,12 +35,11 @@ Amber Hotels Ltd,S1 2AB,53.3855,-1.4615
 Hotel ibis Sheffield City,S1 2AR,53.3832,-1.4632
 Extra Life Gaming Lounge,S1 2AT,53.3828,-1.4636
 KFC Haymarket,S1 2AW,53.3838,-1.4645
-KFC,S1 2AW,53.3838,-1.4645
+KFC,S1 2AW,53.3834,-1.4646
 SUBWAY,S1 2AW,53.3838,-1.4644
 Hygge Coffee shop,S1 2AZ,53.3828,-1.4650
-Mecca Bingo Club,S1 2BA,53.3820,-1.4653
 Old Queens Head,S1 2BG,53.3809,-1.4630
-Burger King UK Ltd,S1 2BP,53.3775,-1.4629
+Burger King,S1 2BQ,53.3784,-1.4627
 Kollective Coffee & Kitchen ,S1 2BS,53.3769,-1.4660
 The Rutland Arms,S1 2BS,53.3766,-1.4662
 Feast,S1 2DW,53.3849,-1.4705
@@ -48,41 +47,29 @@ Couch,S1 2EG,53.3832,-1.4712
 Sakushi Limited,S1 2EG,53.3832,-1.4712
 urbandeli,S1 2EG,53.3832,-1.4712
 Blue Moon Cafe Sheffield Ltd,S1 2EW,53.3830,-1.4703
-Costa Coffee,S1 2FB,53.3818,-1.4707
+Costa Coffee,S1 2FB,53.3817,-1.4704
 MACPOT LIMITED ,S1 2FB,53.3817,-1.4703
 Subway Orchard Square,S1 2FB,53.3817,-1.4703
 Cavells Cafe Bar,S1 2GA,53.3830,-1.4677
-Pizza Hut Restaurant,S1 2GB,53.3831,-1.4669
-Caffe Nero,S1 2GE,53.3825,-1.4676
 Cara Restaurants Limited McDonalds 496,S1 2GE,53.3825,-1.4676
-McDonalds (496),S1 2GE,53.3825,-1.4676
+McDonald's,S1 2GE,53.3826,-1.4678
 Tokyou Restaurant,S1 2GF,53.3827,-1.4655
+The Bankers Draft Sheffield (Wetherspoon),S1 2GH,53.3832,-1.4664
 Caffe Piazza,S1 2GN,53.3826,-1.4715
-Turtle Bay,S1 2GT,53.3816,-1.4725
 GRAZIE,S1 2GY,53.3819,-1.4711
 HUMPIT,S1 2GY,53.3819,-1.4711
 Smokin Bull Burger and Grill,S1 2GY,53.3821,-1.4712
-Patisserie Valerie,S1 2HB,53.3803,-1.4710
-Pret A Manger,S1 2HE,53.3818,-1.4694
 Starbucks Fargate,S1 2HE,53.3818,-1.4694
-Starbucks,S1 2HE,53.3818,-1.4694
 Bar Public limited,S1 2HH,53.3804,-1.4700
-Costa Coffee,S1 2HJ,53.3792,-1.4702
+Costa Coffee,S1 2HJ,53.3792,-1.4704
 Head of Steam (Sheffield),S1 2JE,53.3804,-1.4682
 Mamas and Leonies,S1 2JE,53.3804,-1.4682
 Aagrah Leopold ,S1 2JG,53.3816,-1.4721
 Cubana Tapas Bar & Restaurant,S1 2JG,53.3815,-1.4716
-PHO Trading,S1 2JG,53.3815,-1.4716
-Wagamama,S1 2JG,53.3815,-1.4716
-Zizzi,S1 2JG,53.3815,-1.4716
 Lisboa Patisserie,S1 2JL,53.3793,-1.4700
-Caffe Nero,S1 2JX,53.3794,-1.4690
 Starbucks Tudor Square,S1 2LA,53.3808,-1.4676
-Starbucks,S1 2LA,53.3808,-1.4676
 Lynne's Pantry Limited,S1 2LG,53.3807,-1.4691
-Miller & Carter,S1 2LG,53.3806,-1.4685
 EGO Mediterranean Restaurant Sheffield,S1 2LH,53.3799,-1.4674
-Pizza Express,S1 2LN,53.3790,-1.4683
 Howard Hotel,S1 2LW,53.3783,-1.4651
 Howst,S1 2LX,53.3783,-1.4661
 Roebuck Tavern,S1 2NB,53.3784,-1.4694
@@ -101,19 +88,16 @@ BANG BANG HOT POT RESTAURANT ,S1 4DA,53.3805,-1.4810
 YEPSS,S1 4DE,53.3847,-1.4744
 Noodle Doodle,S1 4EL,53.3820,-1.4746
 Tsuki Restaurant and Bar,S1 4EP,53.3815,-1.4744
-Pizza Hut Delivery,S1 4EQ,53.3812,-1.4739
 FirePit Rocks,S1 4ES,53.3809,-1.4765
 ISTANBUL RESTAURANT,S1 4ES,53.3809,-1.4765
 Bloo88,S1 4ET,53.3806,-1.4779
 Subway West Street,S1 4EU,53.3803,-1.4794
 Bar&Beyond Sheffield,S1 4EW,53.3801,-1.4791
 KFC West Street,S1 4EW,53.3801,-1.4791
-KFC,S1 4EW,53.3801,-1.4791
+KFC,S1 4EW,53.3800,-1.4792
 MOUNT LEBANON,S1 4EW,53.3801,-1.4791
-Nando's,S1 4EW,53.3801,-1.4791
 The Wick,S1 4EW,53.3801,-1.4791
 200 Degrees,S1 4GE,53.3800,-1.4734
-Caffe Nero,S1 4GE,53.3798,-1.4750
 Heavenly Desserts,S1 4GE,53.3797,-1.4748
 Pieminister Sheffield,S1 4GE,53.3798,-1.4748
 SIMMONITE,S1 4GE,53.3798,-1.4750
@@ -122,11 +106,12 @@ Copper Pot,S1 4GF,53.3800,-1.4745
 Lonestar,S1 4GF,53.3800,-1.4745
 Luckyfox,S1 4GF,53.3800,-1.4745
 MR MIYAGI REVOLVING SUSHI BAR,S1 4GF,53.3800,-1.4745
+Sheffield Water Works Company Sheffield (Wetherspoon),S1 4GF,53.3803,-1.4730
 UNIQUE SUSHI LTD T/A LETS SUSHI,S1 4GF,53.3801,-1.4744
 Chilli Flow,S1 4GH,53.3800,-1.4764
 Noodle Inn Centro,S1 4GH,53.3800,-1.4764
-J D Wetherspoons Ltd,S1 4HP,53.3792,-1.4722
 Marmadukes Cambridge St,S1 4HP,53.3788,-1.4720
+The Benjamin Huntsman Sheffield (Wetherspoon),S1 4HP,53.3799,-1.4724
 Akbar's,S1 4JB,53.3797,-1.4804
 Gaard West one,S1 4JB,53.3795,-1.4805
 Ginseng Korean restaurant ,S1 4JB,53.3797,-1.4804
@@ -135,16 +120,12 @@ WEST ONE SUSHI LTD T/A LETS SUSHI,S1 4JB,53.3797,-1.4804
 han restaurant,S1 4JB,53.3797,-1.4804
 China Red Restaurant,S1 4JD,53.3767,-1.4743
 The Cabin Pancake and Waffle House Ltd,S1 4JH,53.3755,-1.4754
-Wildwood Artisan Coffee Shop,S1 4JH,53.3754,-1.4753
 Wildwood Artisan Gifts and Coffee Shop Ltd,S1 4JH,53.3754,-1.4753
 sushi express,S1 4JU,53.3770,-1.4769
-Gourmet Burger Kitchen,S1 4PA,53.3765,-1.4737
-Nando's Chickenland Ltd,S1 4PA,53.3765,-1.4737
-Zizzi,S1 4PA,53.3765,-1.4737
 SUBWAY,S1 4PB,53.3754,-1.4746
 AUNTIE ANNES SHEFFIELD,S1 4PF,53.3762,-1.4735
 Bitz & bitez ,S1 4PF,53.3753,-1.4731
-Caffe Nero,S1 4PF,53.3765,-1.4728
+Costa Coffee,S1 4PF,53.3764,-1.4731
 Lemongrass thai street food,S1 4PF,53.3765,-1.4728
 Pizza Express,S1 4PF,53.3765,-1.4728
 The Market Chippy,S1 4PF,53.3768,-1.4725
@@ -154,13 +135,12 @@ Shapla Tandoori Restaurant ,S1 4PT,53.3745,-1.4739
 Fresh Choice Noodles,S1 4QB,53.3768,-1.4714
 Brunch and Lunch The Moor Ltd,S1 4QD,53.3767,-1.4720
 Wongting,S1 4QD,53.3767,-1.4719
-Waterfall Elior,S1 4QF,53.3752,-1.4684
 Lane7 Sheffield,S1 4QN,53.3775,-1.4713
 Dashu bakery and cafe ,S1 4QP,53.3773,-1.4707
-Jurys Inn,S1 4QW,53.3758,-1.4712
 ALS Gongcha,S1 4QY,53.3771,-1.4705
 Birdhouse Tea Bar & Kitchen,S1 4RG,53.3753,-1.4687
 Twisted Burger Company,S1 4SQ,53.3743,-1.4684
+Thyme,S1 4UP,53.3738,-1.4762
 Chez Lahlou,S10 1GB,53.3873,-1.4978
 cinque terre restuarant ltd,S10 1GB,53.3873,-1.4978
 The Closed Shop,S10 1GG,53.3852,-1.4984
@@ -189,6 +169,7 @@ the potato oven,S10 2HP,53.3790,-1.4894
 Chong Qing Restaurant ,S10 2HS,53.3802,-1.4817
 New Pot Restaurant ltd / Jimmys Kitchen,S10 2HS,53.3802,-1.4817
 So Famous,S10 2HS,53.3802,-1.4818
+The Francis Newton Sheffield (Wetherspoon),S10 2LA,53.3768,-1.4921
 Lokanta,S10 2QA,53.3769,-1.5005
 Thyme Cafe,S10 2QA,53.3769,-1.5005
 La Vaca,S10 2QE,53.3769,-1.5014
@@ -198,8 +179,8 @@ Butcher and Catch,S10 2SP,53.3777,-1.4999
 Nottingham House,S10 2SR,53.3790,-1.4984
 Taste of Thailand ,S10 2SS,53.3779,-1.5002
 Bar One ,S10 2TG,53.3806,-1.4877
+Costa Coffee,S10 2TH,53.3806,-1.4900
 Starbucks Broomhill,S10 2TJ,53.3809,-1.4927
-Starbucks,S10 2TJ,53.3810,-1.4927
 The York,S10 3BA,53.3774,-1.5008
 Balti King,S10 3BB,53.3776,-1.5016
 Bambukat,S10 3BD,53.3768,-1.5027
@@ -220,6 +201,7 @@ HALLAMSHIRE GOLF CLUB CATERING,S10 4LA,53.3744,-1.5415
 Hallamshire Golf Club Ltd,S10 4LA,53.3744,-1.5415
 sportsman pub,S10 4LJ,53.3716,-1.5824
 the three merry lads,S10 4LJ,53.3717,-1.5816
+Costa Coffee,S10 5BA,53.3777,-1.5011
 The Steel Cauldron,S10 5BL,53.3779,-1.5014
 Waterfall Elior,S10 5DP,53.3769,-1.5154
 PAPA CICCOS ,S10 5NH,53.3797,-1.5200
@@ -236,13 +218,11 @@ Waterfall Elior,S11 7LG,53.3595,-1.5211
 Waterfall Elior,S11 7LH,53.3578,-1.5213
 Waterfall Elior,S11 7PQ,53.3577,-1.5158
 Rossi’s Italian Restaurant ,S11 8AE,53.3671,-1.4772
-Nando's Chickenland Ltd,S11 8AP,53.3668,-1.4841
 Dumpling City,S11 8FJ,53.3726,-1.4773
 The Beer Engine,S11 8FJ,53.3726,-1.4773
-Compass Group,S11 8JF,53.3714,-1.4850
+The Sheaf Island Sheffield (Wetherspoon),S11 8HG,53.3726,-1.4821
 Waterfall Elior,S11 8JN,53.3706,-1.4887
 Ashoka Restaurant ,S11 8NX,53.3714,-1.4880
-Caffe Nero PLC,S11 8NX,53.3714,-1.4880
 Graze Inn,S11 8NX,53.3714,-1.4880
 Uncle Sams Diner ltd,S11 8PE,53.3714,-1.4893
 friesday s11 limited,S11 8PE,53.3714,-1.4893
@@ -250,12 +230,9 @@ TRIO FOOD UK LIMITED,S11 8PF,53.3706,-1.4906
 The Italian kitchen ,S11 8PF,53.3706,-1.4906
 Aysha's PrithiRaj Restaurant,S11 8PG,53.3700,-1.4924
 Starbucks Ecclesall Sheffield,S11 8PG,53.3700,-1.4924
-Starbucks,S11 8PG,53.3700,-1.4924
 Coffika Eccy Rd,S11 8PJ,53.3702,-1.4927
-Costa Coffee,S11 8PN,53.3691,-1.4936
-KFC,S11 8PN,53.3691,-1.4936
+Costa Coffee,S11 8PN,53.3690,-1.4941
 Cafe Marco,S11 8PP,53.3692,-1.4947
-Pizza Express Ltd,S11 8PP,53.3691,-1.4950
 Koko Restaurant Limited,S11 8PR,53.3687,-1.4971
 ALL SIAM LIMITED,S11 8PT,53.3679,-1.5006
 Hopper  Coffee  Bar & Kitchen,S11 8PT,53.3679,-1.5006
@@ -284,9 +261,10 @@ Waterfall Elior,S11 9QH,53.3512,-1.5291
 Waterfall Elior,S2 1TR,53.3823,-1.4379
 Waterfall Elior,S2 2PJ,53.3648,-1.4459
 Cara Restaurants Limited McDonalds 719,S2 2TP,53.3735,-1.4620
-McDonalds Restaurant (719),S2 2TP,53.3735,-1.4620
+McDonald's,S2 2TP,53.3741,-1.4622
 Waterfall Elior,S2 3DJ,53.3618,-1.4691
 Royal Standard,S2 4AX,53.3741,-1.4651
+KFC,S2 4DL,53.3691,-1.4651
 H Ponsford Ltd,S2 4HS,53.3610,-1.4726
 India Garden,S2 4HT,53.3598,-1.4740
 Olam-D Kitchen ,S2 4HT,53.3598,-1.4740
@@ -325,8 +303,6 @@ pbz,S2 4QF,53.3720,-1.4748
 Breeze Shisha lounge,S2 4QU,53.3705,-1.4740
 Smokey bar and grill,S2 4QU,53.3706,-1.4742
 Bramall Subway,S2 4QZ,53.3725,-1.4717
-Burger King,S2 5AU,53.3840,-1.4415
-Buzz Bingo,S2 5AU,53.3840,-1.4415
 Waterfall Elior,S2 5ED,53.3794,-1.4437
 Waterfall Elior,S2 5QD,53.3817,-1.4585
 South Street Kitchen,S2 5QX,53.3803,-1.4687
@@ -338,9 +314,7 @@ BB's Italian Restaurant Ltd,S3 7SB,53.3793,-1.4772
 Forum Kitchen & Bar,S3 7SB,53.3793,-1.4772
 The Common Room,S3 7SB,53.3793,-1.4772
 The Old House,S3 7SB,53.3793,-1.4772
-Brewdog,S3 7SF,53.3795,-1.4780
 Little Snack Bar,S3 7SF,53.3795,-1.4780
-Pizza Express,S3 7SF,53.3795,-1.4780
 Taco Bell,S3 7SF,53.3795,-1.4780
 sweet house ,S3 7SF,53.3795,-1.4780
 Bagel Shack,S3 7SP,53.3756,-1.4837
@@ -366,6 +340,7 @@ The Harlequin,S3 8GG,53.3885,-1.4659
 AU Village African Restaurant ,S3 8HT,53.3876,-1.4627
 Wicker Kebabish,S3 8HT,53.3876,-1.4627
 Agha Lounge ,S3 8JT,53.3863,-1.4620
+Thyme,S3 8LN,53.3839,-1.4663
 Depot Pizza Company at Kommune ,S3 8LS,53.3815,-1.4635
 Kommune,S3 8LS,53.3815,-1.4635
 MorMor,S3 8LS,53.3815,-1.4635
@@ -404,9 +379,9 @@ Waterfall Elior,S35 1WH,53.4564,-1.4704
 Waterfall Elior,S35 1ZD,53.4586,-1.4807
 Waterfall Elior,S35 2EU,53.4656,-1.4758
 the barrel,S35 2UL,53.4671,-1.4743
-Pizza Hut,S35 2UQ,53.4625,-1.4678
 come a casa,S35 2UQ,53.4625,-1.4678
 Waterfall Elior,S35 2UR,53.4640,-1.4691
+The Wagon  Horses Sheffield (Wetherspoon),S35 2UU,53.4617,-1.4655
 oak house restaurant ,S35 2XH,53.4636,-1.4652
 Miners Arms,S35 2YD,53.4749,-1.4654
 Norfolk Arms Chapeltown LTD ,S35 2YG,53.4715,-1.4596
@@ -433,6 +408,8 @@ Welbilt Staff Canteen,S35 9ZX,53.4507,-1.4581
 Waterfall Elior,S36 1AS,53.4742,-1.5995
 Waterfall Elior,S36 1EJ,53.4785,-1.5998
 Waterfall Elior,S36 1FD,53.4781,-1.5973
+Costa Coffee,S36 2AB,53.4823,-1.5900
+Costa Coffee,S36 2AD,53.4823,-1.5862
 McGilverays Restaurant & Bar,S36 2AE,53.4832,-1.5890
 Ponti’s Italian Kitchen,S36 2AE,53.4832,-1.5892
 The workslunchbox ltd T/a Samuels Kitchen,S36 2BU,53.4856,-1.5944
@@ -468,6 +445,7 @@ My chicken 2 Nite,S4 8GS,53.4092,-1.4476
 Capillies sandwich bar and cafe,S5 0QF,53.4227,-1.4556
 Costa Coffee,S5 0QG,53.4227,-1.4548
 KFC Lane Top,S5 0QG,53.4227,-1.4548
+KFC,S5 0QG,53.4224,-1.4548
 Soowes coffee pot café ,S5 0QG,53.4228,-1.4546
 A TASTE OF ARABIA,S5 6HH,53.4181,-1.4473
 Henrys cafe ,S5 6HH,53.4175,-1.4457
@@ -481,20 +459,19 @@ Noor pizza,S5 7AE,53.4069,-1.4525
 Northern Perk,S5 7AU,53.4098,-1.4561
 Big Baps,S5 7TR,53.4217,-1.4567
  Cafe express ,S5 8BA,53.4189,-1.4809
-Pizza Hut Delivery,S6 1LH,53.4207,-1.4926
-Burger King,S6 1LR,53.4151,-1.5016
 Niagara Conference & Leisure,S6 1LU,53.4160,-1.5030
-Costa Coffee,S6 1NN,53.4184,-1.4958
-Dunelm (Soft Furnishings Ltd),S6 1NN,53.4188,-1.4959
+Costa Coffee,S6 1NN,53.4189,-1.4962
 Subway,S6 1QB,53.4126,-1.4996
 Napoleons Casino,S6 2BL,53.4041,-1.4901
 Sette Colli restaurant ,S6 2BY,53.4032,-1.5001
 OEC Sheffield,S6 2DE,53.4060,-1.4933
 Owlerton Stadium,S6 2DE,53.4060,-1.4933
-McDonalds Restaurants Ltd,S6 2GB,53.4018,-1.4935
+McDonald's,S6 2GB,53.4022,-1.4930
 The Garrison Hotel,S6 2GB,53.4018,-1.4935
 KFC Penistone Road,S6 2GF,53.4030,-1.4951
-Pizza Hut Restaurant,S6 2GF,53.4030,-1.4951
+KFC,S6 2GF,53.4043,-1.4958
+The Rawson Spring Sheffield (Wetherspoon),S6 2LN,53.4019,-1.5003
+Costa Coffee,S6 2LX,53.4021,-1.4999
 Hillsborough Tap,S6 2LX,53.4022,-1.4999
 Waterfall Elior,S6 2NU,53.4005,-1.5000
 Waterfall Elior,S6 2PL,53.3992,-1.5024
@@ -566,16 +543,17 @@ KAY'S CAFE,S70 1GW,53.5522,-1.4786
 Khao Niew Thai Cafe,S70 1GW,53.5522,-1.4786
 MEZE TURKISH KITCHEN,S70 1GW,53.5522,-1.4786
 Rajah foods limited ,S70 1GW,53.5522,-1.4786
-McDonalds,S70 1LP,53.5493,-1.4810
+McDonald's,S70 1LQ,53.5492,-1.4796
 Albert Street Cafe,S70 1RS,53.5514,-1.4799
 Julie and Sue Catering Ltd t/a The Courtyard,S70 1RS,53.5514,-1.4802
 Pinocchios Retaurant,S70 1RX,53.5512,-1.4791
 Subway,S70 1SD,53.5544,-1.4775
-Costa Coffee,S70 1SJ,53.5527,-1.4804
+Costa Coffee,S70 1SJ,53.5526,-1.4804
 Chilli Restaurant,S70 1SN,53.5512,-1.4805
 Grille Steakhouse,S70 1SN,53.5512,-1.4805
 PJ CAFE,S70 1SN,53.5512,-1.4805
 Pasha ,S70 1SN,53.5512,-1.4805
+The Silkstone Inn Barnsley (Wetherspoon),S70 1SN,53.5512,-1.4805
 blackburns cafe,S70 1SN,53.5512,-1.4805
 Chennells,S70 1SS,53.5517,-1.4821
 Wellington st chippy,S70 1SS,53.5517,-1.4817
@@ -590,6 +568,7 @@ The White Bear,S70 2AH,53.5554,-1.4827
 Estabulo Bar & Grill,S70 2HG,53.5548,-1.4800
 Brasserie Ruelle,S70 2HT,53.5541,-1.4795
 The Garrison,S70 2HZ,53.5538,-1.4806
+The Joseph Bramah Barnsley (Wetherspoon),S70 2PX,53.5529,-1.4817
 Old George Coffee House,S70 2QE,53.5533,-1.4812
 Angelini's ,S70 2QN,53.5535,-1.4807
 Aroma Cafe Bar,S70 2QN,53.5535,-1.4806
@@ -599,15 +578,18 @@ Cafe Creme Barnsley,S70 2QP,53.5533,-1.4805
 Lemon Tree ,S70 2QT,53.5527,-1.4819
 Food hub barnsley,S70 2QX,53.5522,-1.4829
 The Pavilion Bar and Kitchen,S70 2RD,53.5535,-1.4869
-KFC,S70 2RL,53.5524,-1.4854
+Costa Coffee,S70 2RL,53.5525,-1.4858
 Taco Bell,S70 2RL,53.5526,-1.4850
+KFC,S70 2SB,53.5524,-1.4862
+Table Table Glass House,S70 2SB,53.5533,-1.4872
 Pieminister Barnsley,S70 2SW,53.5533,-1.4829
+McDonald's,S70 3NT,53.5449,-1.4377
 Cardamom Lounge,S70 3RH,53.5468,-1.4504
 Boatmans rest ltd ,S70 4TD,53.5280,-1.4556
 The Red Lion Country Inn,S70 5LJ,53.5264,-1.4708
 Dale tavern,S70 5PG,53.5295,-1.4583
-KFC,S70 5SZ,53.5027,-1.4731
 Dunkin Donuts Rockingham,S70 5TW,53.5015,-1.4757
+KFC,S70 5TW,53.5027,-1.4731
 Taco Bell,S70 5TW,53.5015,-1.4757
 Travellers inn ,S70 5UX,53.5078,-1.4806
 Hadley’s ,S70 6AP,53.5492,-1.4898
@@ -615,10 +597,10 @@ puccinis,S70 6HL,53.5523,-1.4943
 Shaw Lane Sports Club,S70 6HZ,53.5504,-1.4933
 Rob Royd Farm Shop Ltd,S70 6NW,53.5382,-1.4912
 Metrodome Leisure Complex,S71 1AN,53.5532,-1.4735
-Buzz Bingo,S71 1AY,53.5539,-1.4763
 Subway,S71 1JE,53.5575,-1.4702
+McDonald's,S71 1LN,53.5599,-1.4741
 KFC Wakefield Road,S71 1NG,53.5681,-1.4718
-KFC,S71 1NG,53.5681,-1.4718
+KFC,S71 1NG,53.5679,-1.4717
 Barnsley Bowl Ltd,S71 2AZ,53.5734,-1.4629
 The Full House ,S71 2NW,53.5631,-1.4602
 Abbey Fisheries,S71 5PN,53.5577,-1.4385
@@ -633,7 +615,8 @@ The Crown & Anchor,S75 1LL,53.5716,-1.5290
 The Royal,S75 1LS,53.5738,-1.5268
 ALAMS LOUNGE,S75 1PL,53.5576,-1.5278
 Barnsley Hospice Appeal,S75 2RL,53.5601,-1.5147
-Baxterstorey - Mercedes Benz,S75 3DH,53.4933,-1.4910
+Brewers Fayre The Wentworth,S75 3DL,53.4877,-1.4957
+McDonald's,S75 3DL,53.4875,-1.4935
 Tankersley Manor Hotel,S75 3DQ,53.4896,-1.4869
 The Strafford Arms,S75 3EW,53.5302,-1.5103
 Holiday Inn Barnsley,S75 3JT,53.5455,-1.5234
@@ -649,11 +632,12 @@ rileys at the potting shed,S75 4JU,53.5480,-1.5602
 The Bells Bar and Kitchen,S75 4LN,53.5456,-1.5638
 The Fairway ,S75 4LS,53.5466,-1.5362
 The Chillilodge ,S75 4RD,53.5303,-1.5665
+Costa Coffee,S8 0RG,53.3567,-1.4780
 Everest Tandoori,S8 0RL,53.3584,-1.4754
 The vintage pantry,S8 0XL,53.3612,-1.4758
-Virgin Active - Sheffield (Elior),S8 0XQ,53.3598,-1.4788
 Virgin Active Sheffield,S8 0XQ,53.3598,-1.4788
 The cosy tearoom ,S8 0YD,53.3600,-1.4758
 Apna Style LTD,S8 0ZT,53.3637,-1.4750
 Waterfall Elior,S8 9EH,53.3526,-1.4786
 Waterfall Elior,S8 9HJ,53.3546,-1.4660
+Costa Coffee,S9 3YE,53.3958,-1.4431

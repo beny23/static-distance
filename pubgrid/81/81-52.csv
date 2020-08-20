@@ -1,11 +1,9 @@
 name,postcode,lat,lon
 The Station,NE12 6RA,55.0325,-1.5810
-Baxterstorey Limited,NE12 8BU,55.0209,-1.5808
 BENTO BOX (NE) LTD,NE12 8BW,55.0202,-1.5821
 Eat,NE12 8BW,55.0202,-1.5821
 Olivia's Kitchen Ltd,NE12 8EW,55.0193,-1.5882
 subway,NE12 8GA,55.0115,-1.5913
-Burger King,NE13 6BP,55.0665,-1.6339
 Holiday Inn Seaton Burn,NE13 6BP,55.0666,-1.6344
 Horton Grange Country House Hotel ,NE13 6BU,55.0737,-1.6910
 Plantsplus Garden Centre,NE13 6BU,55.0737,-1.6910
@@ -13,7 +11,6 @@ The Cheese Farm,NE13 6BZ,55.0867,-1.6964
 THE TREVELLERS REST,NE13 6LN,55.0483,-1.6245
 White Swan Inn,NE13 7AG,55.0543,-1.6840
 sevenoaks vending and catering,NE13 7BA,55.0466,-1.6442
-Burger King,NE13 8BZ,55.0370,-1.7101
 Doubletree by Hilton Newcastle International Airport Hotel,NE13 8BZ,55.0370,-1.7101
 Britannia Hotel Newcastle Airport,NE13 8DJ,55.0387,-1.7143
 The Robin Hood Inn,NE18 0LL,55.0093,-1.9268
@@ -25,6 +22,7 @@ Jan's Kitchen,NE20 9BD,55.0501,-1.7390
 NEW RENDEZVOUS,NE20 9BD,55.0501,-1.7390
 Yolo Ponteland,NE20 9BD,55.0500,-1.7386
 FRATELLI,NE20 9BE,55.0499,-1.7403
+Thyme,NE20 9DB,55.0362,-1.7155
 Ponteland Tandoori,NE20 9NH,55.0497,-1.7425
 RIALTOS,NE20 9NH,55.0497,-1.7425
 Chinese Harry Ltd,NE20 9NZ,55.0493,-1.7432
@@ -35,28 +33,27 @@ New Mogul Raj,NE20 9PY,55.0505,-1.7453
 The Blackbird Inn,NE20 9UH,55.0524,-1.7428
 The Mustard Seed Coffee House Ltd,NE22 5DN,55.1308,-1.5927
 LA TORRE RESTAURANT,NE22 5EN,55.1284,-1.5891
+The Red Lion Bedlington (Wetherspoon),NE22 5TZ,55.1313,-1.6005
 ASHIANNA,NE22 5UB,55.1314,-1.5976
+John The Clerk of Cramlington Cramlington (Wetherspoon),NE23 1DN,55.0866,-1.5851
 Box Cafe,NE23 1WA,55.1028,-1.6060
 THE DELI-DINER,NE23 1WG,55.1023,-1.6140
 Thyme Bistro,NE23 1XZ,55.0956,-1.5843
 Panuccis Restaurant ,NE23 6QL,55.0861,-1.5849
-Nando's,NE23 6UL,55.0847,-1.5882
 Kitchen Cafes,NE23 6UT,55.0855,-1.5901
 subway,NE23 6UT,55.0855,-1.5901
 Lal Qila,NE23 6UW,55.0863,-1.5853
 Mandarin Bay,NE23 6UW,55.0863,-1.5853
-Costa Coffee Cramlington,NE23 6UY,55.0867,-1.5943
-Buzz Bingo,NE23 6YD,55.0849,-1.5908
+Costa Coffee,NE23 6UY,55.0857,-1.5952
 McDONALD'S 354,NE23 6YD,55.0849,-1.5908
-McDonalds Restaurant,NE23 6YD,55.0849,-1.5908
+McDonald's,NE23 6YD,55.0850,-1.5948
+Beefeater Moor Farm,NE23 7QA,55.0653,-1.5816
+McDonald's,NE23 7QA,55.0647,-1.5809
 Dudley Deli,NE23 7QE,55.0611,-1.5930
 Northumberland Catering Ltd,NE23 7QP,55.0687,-1.6272
-McDonalds Restaurant,NE23 7RG,55.0872,-1.5887
-Wilson Vale Catering,NE23 8AD,55.0899,-1.6153
+The Job Bulman Newcastle upon Tyne (Wetherspoon),NE3 1AA,55.0047,-1.6194
 Deli espresso,NE3 1DH,55.0069,-1.6218
 Gosforth Palace Limited,NE3 1DJ,55.0073,-1.6220
-Caffe Nero,NE3 1HA,55.0044,-1.6206
-Pizza Express,NE3 1HA,55.0044,-1.6206
 SanLorenzo,NE3 1HA,55.0044,-1.6205
 Adriano’s Restaurant & Deli,NE3 1HB,55.0044,-1.6200
 Ahad Tandoori Restaurant ,NE3 1HB,55.0044,-1.6200
@@ -67,6 +64,7 @@ New New Bengal,NE3 1HH,55.0080,-1.6195
 Oli&Joes Gosforth Ltd,NE3 1HQ,55.0078,-1.6201
 Pizza Hut,NE3 1HQ,55.0078,-1.6202
 THE BAKE ONE GOSFORTH LTD,NE3 1HQ,55.0078,-1.6201
+Costa Coffee,NE3 1JZ,55.0055,-1.6199
 Rosie's Bistro and Patisserie,NE3 1JZ,55.0054,-1.6194
 The Naked Deli,NE3 1JZ,55.0054,-1.6194
 Brandling Villa,NE3 1QL,55.0042,-1.6037
@@ -74,12 +72,10 @@ The Millstone Hotel,NE3 1QL,55.0042,-1.6037
 Northumbrian Piper ,NE3 2AH,55.0204,-1.6477
 City of Newcastle Golf Club,NE3 2DR,55.0181,-1.6225
 SPRINGS SANCTUARY SPA(KINGSTON PARK)LIMITED,NE3 2FP,55.0137,-1.6675
-Starbucks,NE3 2FP,55.0134,-1.6689
 subway,NE3 2FP,55.0134,-1.6689
-Costa Coffee,NE3 2PA,55.0121,-1.6658
+Costa Coffee,NE3 2PA,55.0121,-1.6667
 McDONALD'S 883,NE3 2PA,55.0121,-1.6658
-McDonalds,NE3 2PA,55.0121,-1.6658
-Baxterstorey At Partnership House,NE3 3AF,55.0104,-1.6256
+McDonald's,NE3 2PA,55.0126,-1.6663
 Shahe Restaurant,NE3 3HQ,55.0128,-1.6350
 John Watt at Accord Healthcare,NE3 3NB,55.0132,-1.6453
 Cosentinos ,NE3 3PF,55.0111,-1.6234
@@ -91,12 +87,12 @@ Barluga Gosforth,NE3 4ES,55.0048,-1.6225
 Gosforth Traders,NE3 4HJ,55.0057,-1.6270
 The Apothecary ,NE3 4XN,55.0026,-1.6346
 McDONALD'S,NE3 5EH,55.0358,-1.6253
-McDonalds,NE3 5EH,55.0358,-1.6253
 Mimis Ice Cream Parlour,NE3 5EH,55.0362,-1.6269
 subway,NE3 5EH,55.0358,-1.6253
 Border Minstrel Public House,NE3 5EJ,55.0354,-1.6132
 Nics kitchen gosforth golf club,NE3 5ER,55.0176,-1.6148
 Grand Hotel Gosforth Park,NE3 5HN,55.0354,-1.6220
+McDonald's,NE3 5HN,55.0359,-1.6246
 Parklands Golf Course,NE3 5HQ,55.0339,-1.6224
 Parklands Mini Golf,NE3 5HQ,55.0339,-1.6224
 Gormans fish and chips,NE5 1NB,55.0031,-1.6955
@@ -108,10 +104,9 @@ Harrys Coffee bar,NE61 1BA,55.1683,-1.6904
 Nadon Thai Morpeth,NE61 1BA,55.1684,-1.6905
 Cafe des Amis,NE61 1BE,55.1691,-1.6910
 Gianni's,NE61 1HG,55.1678,-1.6902
-Pizza Express,NE61 1HG,55.1678,-1.6902
 Manzil Tandoori Restaurant,NE61 1LX,55.1676,-1.6915
 G. RUTHERFORD & CO. LIMITED,NE61 1NJ,55.1670,-1.6894
-Costa Coffee Morpeth,NE61 1NL,55.1671,-1.6881
+Costa Coffee,NE61 1NL,55.1672,-1.6887
 LOLLO ROSSO ITALIA,NE61 1NL,55.1671,-1.6881
 Barluga Morpeth,NE61 1NS,55.1680,-1.6894
 CENTRAL BEAN MORPETH,NE61 1NS,55.1680,-1.6894
@@ -123,9 +118,9 @@ Nikos Greek Taberna,NE61 1PQ,55.1672,-1.6867
 The Auction House,NE61 1PQ,55.1672,-1.6869
 ephesus restaurant,NE61 1PQ,55.1672,-1.6867
 Primo Piano  Partnership,NE61 1PS,55.1671,-1.6910
+The Electrical Wizard Morpeth (Wetherspoon),NE61 1PS,55.1668,-1.6908
 Mulan Restaurant,NE61 1QU,55.1699,-1.6957
 Stobhill bait,NE61 2SA,55.1593,-1.6779
-Costa Coffee,NE61 3DA,55.1989,-1.7283
 Longhirst Hall Golf Club,NE61 3LL,55.1951,-1.6517
 The Dyke Neuk Inn Ltd,NE61 3SL,55.1656,-1.8156
 The Beresford Arms,NE61 3UZ,55.1278,-1.8000
@@ -137,8 +132,8 @@ The Cherry Tree Bar & Grill,NE62 5JZ,55.1632,-1.5888
 The Half Moon Inn,NE62 5TT,55.1644,-1.5787
 The Portland,NE63 8HG,55.1825,-1.5848
 The Block and Tackle,NE63 8NW,55.1726,-1.5773
+KFC,NE63 8QG,55.1853,-1.5902
 KFC,NE63 8QG,55.1854,-1.5872
-Compass Group UK & Ireland Ltd,NE63 9XG,55.1859,-1.5892
 THE COFFEE HOUSE,NE7 7DN,55.0028,-1.5934
 Pizzeria Italia,NE7 7EZ,55.0087,-1.5793
 Lezzet Restaurant,NE7 7XE,55.0097,-1.5757

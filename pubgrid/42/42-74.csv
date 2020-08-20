@@ -1,25 +1,23 @@
 name,postcode,lat,lon
+McDonald's,IP1 5NP,52.0854,1.1133
 McDonalds,IP1 5PX,52.0854,1.1133
-Mcdonalds Drive In Restaurant,IP1 5PX,52.0854,1.1133
+Costa Coffee,IP1 5QP,52.0846,1.1167
 KFC Ipswich - Bury Road,IP1 5QP,52.0845,1.1183
-KFC,IP1 5QP,52.0845,1.1183
-Pizza Hut Restaurant,IP1 5QP,52.0845,1.1183
+KFC,IP1 5QP,52.0843,1.1163
 Al’s cafe T/A Ace Coffee Ltd,IP1 6EB,52.0785,1.1272
 Bekash Tandoori Restaurant,IP1 6EB,52.0785,1.1272
 Waterfall Elior,IP1 6ET,52.0810,1.1280
 Best Western Gatehouse Hotel,IP1 6LH,52.0866,1.1223
 Laurel Farm Garden Centre,IP1 6TE,52.0894,1.1533
-Costa Coffee,IP12 1AA,52.0930,1.3172
+Costa Coffee,IP12 1AA,52.0930,1.3174
 The Sandwich Shop,IP12 1AA,52.0929,1.3173
 Mrs pipers ,IP12 1AH,52.0938,1.3197
 Christine's Patisserie and tea room,IP12 1AL,52.0937,1.3200
 Honey and Harveys Woodbridge,IP12 1AL,52.0936,1.3199
-Caffe Nero,IP12 1AQ,52.0929,1.3181
 Wild Tayberry Cafe Ltd,IP12 1BW,52.0903,1.3193
 Anchor trading Ltd ,IP12 1BX,52.0915,1.3170
 Coffeelink ,IP12 1BY,52.0907,1.3207
 East Coast Diner,IP12 1DH,52.0932,1.3155
-Prezzo,IP12 1DS,52.0929,1.3156
 Shapla Cuisine Ltd,IP12 1DS,52.0929,1.3156
 new street canteen,IP12 1DX,52.0943,1.3165
 The Coach & Horses ,IP12 1PD,52.1028,1.3282
@@ -69,6 +67,7 @@ The Black Horse Inn,IP23 7JR,52.2839,1.1359
 The Four Horseshoes,IP23 8HD,52.2944,1.0842
 Best Western Claydon Hotel,IP6 0AR,52.1057,1.1113
 The Greyhound,IP6 0AR,52.1057,1.1112
+Thyme,IP6 0BE,52.0992,1.1076
 CHEQUERS ,IP6 0LP,52.1156,1.0908
 Sorrel Horse Inn Ltd,IP6 0PG,52.1206,1.1032
 Manor Farm Coffee Shop Ltd,IP6 0PU,52.1161,1.1264
@@ -76,7 +75,6 @@ THE SWAN NEEDHAM MARKET LTD,IP6 8AL,52.1525,1.0528
 The angel needham market ,IP6 8AP,52.1530,1.0529
 Coffee Craft N Moore,IP6 8DQ,52.1549,1.0503
 Lion,IP6 8EH,52.1500,1.0550
-Burger King,IP6 8LP,52.1475,1.0799
 The Highwayman,IP6 8PD,52.1589,1.0888
 The Railway  Inn,IP6 9AA,52.0817,1.1661
 The Swan Inn,IP6 9AJ,52.0876,1.1748

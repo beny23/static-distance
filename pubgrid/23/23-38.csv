@@ -1,31 +1,28 @@
 name,postcode,lat,lon
 Buffet City Exeter,EX1 1BU,50.7217,-3.5326
 Lloyd's Lounge,EX1 1DY,50.7239,-3.5297
-JD Wetherspoon Georges Meeting House,EX1 1ED,50.7207,-3.5301
+Georges Meeting House Exeter (Wetherspoon),EX1 1ED,50.7206,-3.5300
 Grow Coffee House,EX1 1EG,50.7209,-3.5312
+KFC,EX1 1EN,50.7220,-3.5323
 Board,EX1 1EQ,50.7215,-3.5316
 How On Earth Deli,EX1 1EQ,50.7215,-3.5316
 Drakes Coffee House,EX1 1EU,50.7236,-3.5296
 Hubbox Exeter,EX1 1EU,50.7237,-3.5295
 Lloyd's Kitchen,EX1 1EU,50.7236,-3.5297
-Ask Italian,EX1 1EZ,50.7230,-3.5291
 Tea on the Green,EX1 1EZ,50.7231,-3.5291
-Nandos Chickenland Ltd,EX1 1GE,50.7245,-3.5274
+Nando's,EX1 1GE,50.7248,-3.5266
+Costa Coffee,EX1 1GG,50.7238,-3.5282
 Coal Kitchen,EX1 1GJ,50.7233,-3.5280
 Chandos Deli,EX1 1GN,50.7242,-3.5278
-Pizza Express,EX1 1HF,50.7230,-3.5317
 ALFARID (UK) LTD,EX1 1HJ,50.7224,-3.5320
 The Thai Orchid Restaurant,EX1 1HJ,50.7224,-3.5320
-KFC,EX1 1HX,50.7215,-3.5296
 Sparkles Indian Cuisine,EX1 1JA,50.7211,-3.5300
-Costa Coffee,EX1 1LL,50.7236,-3.5290
-Wagamama,EX1 1LL,50.7236,-3.5290
-Yo Sushi,EX1 1LL,50.7236,-3.5290
+Costa Coffee,EX1 1LL,50.7238,-3.5288
 Kaspas Exeter Ltd T/A Kaspas Exeter,EX1 1PB,50.7218,-3.5266
 Rendezvous Wine Bar,EX1 1PE,50.7216,-3.5268
+Thyme,EX1 1SG,50.7213,-3.5272
 Kate’s at Sitel,EX1 1ST,50.7245,-3.5242
 The Clifton Inn ,EX1 2BR,50.7259,-3.5198
-Jurys Inn Exeter,EX1 2DB,50.7258,-3.5216
 No 1 Polsloe,EX1 2HL,50.7296,-3.5137
 Kids Hub Coffee,EX1 2JB,50.7252,-3.5260
 Imperial Games Gaming Centre & Restaurant,EX1 2JX,50.7252,-3.5251
@@ -42,12 +39,12 @@ The Red Lion Inn,EX17 1AT,50.8006,-3.6086
 The Old Fi,EX17 2BA,50.7914,-3.6639
 the three little pigs,EX17 2BP,50.7913,-3.6569
 The Old Fire Station Steak House,EX17 2BT,50.7909,-3.6571
-Costa Coffee,EX17 3AH,50.7904,-3.6592
+Costa Coffee,EX17 3AH,50.7906,-3.6596
 Jurassic Coast Coffee Ltd t/a Costa Coffee Crediton,EX17 3AH,50.7904,-3.6592
 The Kitchen at 25,EX17 3AH,50.7904,-3.6592
 Union Road Moto Velo,EX17 3AL,50.7893,-3.6543
-Union Road Moto-Velo,EX17 3AL,50.7893,-3.6543
 Mole Avon Country Store Crediton,EX17 3FD,50.7835,-3.6450
+The General Sir Redvers Buller Crediton (Wetherspoon),EX17 3JP,50.7907,-3.6611
 The Trawler's Catch,EX17 3JP,50.7906,-3.6609
 SPECTRUM CAFE ,EX17 3LG,50.7908,-3.6599
 The Ship Hotel,EX17 3LQ,50.7907,-3.6584
@@ -74,23 +71,21 @@ Hotel Du Vin Exeter,EX2 4HY,50.7205,-3.5268
 Meat59 (Exeter) Limited,EX2 4TA,50.7211,-3.5210
 St Leonard's Bakery,EX2 4TA,50.7211,-3.5210
 the tasting room,EX2 6AA,50.7108,-3.5134
-Elior Catering/Six Rifles,EX2 6AR,50.7123,-3.5114
 MILLBROOK VILLAGE MANAGEMENT LIMITED,EX2 6FD,50.7072,-3.5084
 The Tally Ho Inn,EX2 6LG,50.7022,-3.5016
-Nando's Chickenland,EX2 8AA,50.7085,-3.5368
 Starbucks Exeter Alphington Road,EX2 8AA,50.7085,-3.5368
 The Quay Climbing Centre Ltd,EX2 8AX,50.7164,-3.5305
 The Ridge Coffee Shop ,EX2 8AX,50.7164,-3.5305
-Tenpin Ltd,EX2 8BY,50.7151,-3.5318
 ROCKFISH EXETER,EX2 8GT,50.7174,-3.5302
 Tea at the quay,EX2 8GT,50.7172,-3.5305
 Veg Box Cafe Ltd,EX2 8GT,50.7172,-3.5305
 VENEZIA EXETER,EX2 8GY,50.7176,-3.5305
 Quayside Cafe,EX2 8GZ,50.7175,-3.5317
 Taste Cafe,EX2 8LB,50.6957,-3.5161
-Costa Coffee,EX2 8LH,50.7096,-3.5360
+Costa Coffee,EX2 8LH,50.7091,-3.5350
+McDonald's,EX2 8LH,50.7091,-3.5358
 McDonald's,EX2 8LH,50.7096,-3.5360
-Mcdonalds Restaurants,EX2 8LH,50.7096,-3.5360
+KFC,EX2 8NA,50.7076,-3.5371
 iBounce (Exeter) Limited,EX2 8PN,50.7060,-3.5310
 Pitstop cafe ,EX2 8PQ,50.7067,-3.5276
 Cafe 53,EX2 8RG,50.7028,-3.5308
@@ -105,11 +100,12 @@ The Post Inn,EX20 2QT,50.7195,-3.8521
 North Devon Leisure Centre,EX31 2AP,50.7325,-3.7975
 Ilfracombe Golf Club,EX34 9RT,50.7325,-3.7975
 The Kings,EX4 1AA,50.7179,-3.5386
-Pizza Hut,EX4 1AH,50.7167,-3.5379
+Costa Coffee,EX4 1AH,50.7166,-3.5376
 Subway,EX4 1AL,50.7169,-3.5401
 MAZUMDER (EXETER) LTD,EX4 1AP,50.7162,-3.5415
 Cafe at 36,EX4 1AW,50.7165,-3.5409
 the coffee cup,EX4 1DG,50.7176,-3.5407
+The Sawyers Arms Exeter (Wetherspoon),EX4 1JD,50.7155,-3.5443
 Argee Bhajee,EX4 1JU,50.7153,-3.5478
 The Thatched House,EX4 2BQ,50.7264,-3.5488
 Travellers Rest,EX4 2HQ,50.7231,-3.6143
@@ -119,43 +115,36 @@ Ganges Restaurant,EX4 3AT,50.7215,-3.5344
 Jasmine  Thai Restaurant,EX4 3AT,50.7212,-3.5345
 Tapitapa,EX4 3AT,50.7215,-3.5343
 Margoux,EX4 3AZ,50.7223,-3.5347
-Burger King,EX4 3DJ,50.7233,-3.5312
-Caffe Nero,EX4 3DT,50.7228,-3.5320
+McDonald's,EX4 3DU,50.7228,-3.5325
 McDonald's,EX4 3DU,50.7230,-3.5326
-Mcdonalds Restaurants Ltd,EX4 3DU,50.7230,-3.5326
 Patisserie Valerie,EX4 3DU,50.7230,-3.5326
 Arthur’s deli cafe ltd,EX4 3EB,50.7234,-3.5321
-Pho,EX4 3FB,50.7260,-3.5335
 The Terrace,EX4 3FB,50.7260,-3.5335
 Absurd Bird,EX4 3HP,50.7236,-3.5328
 Comptoir Exeter,EX4 3HP,50.7236,-3.5328
-Franco Manca,EX4 3HP,50.7236,-3.5329
+The Chevalier Inn Exeter (Wetherspoon),EX4 3HR,50.7222,-3.5329
 The Oggy Oggy Pasty Shop Exeter,EX4 3HW,50.7244,-3.5325
-Turtle Bay,EX4 3HW,50.7242,-3.5320
 Exeter arcade,EX4 3JQ,50.7204,-3.5350
 The Glorious Art House,EX4 3JQ,50.7204,-3.5350
-Starbucks Coffee Co,EX4 3LF,50.7248,-3.5280
 Starbucks Exeter,EX4 3LF,50.7248,-3.5280
+Costa Coffee,EX4 3LR,50.7241,-3.5307
 Chococo Exeter,EX4 3LS,50.7248,-3.5313
 Coolings on Gandy Street,EX4 3LS,50.7248,-3.5313
 Phoenix Cafebar,EX4 3LS,50.7248,-3.5313
 The Cork & Tile,EX4 3LS,50.7248,-3.5313
-Zizzi,EX4 3LS,50.7248,-3.5313
+Costa Coffee,EX4 3NJ,50.7246,-3.5321
 Bouzayen (Exeter) Ltd ta The Owl & The Pussycat Coffee House,EX4 3PQ,50.7251,-3.5305
 Artigiano ,EX4 3PZ,50.7255,-3.5279
 Artigiano,EX4 3PZ,50.7255,-3.5279
-Pret A Manger  Unit 1,EX4 3PZ,50.7255,-3.5279
+Pret A Manger,EX4 3PZ,50.7251,-3.5286
 Coffery & Co.,EX4 3QR,50.7229,-3.5328
 Herbies vegetarian restaurant ,EX4 3QS,50.7230,-3.5336
-Mecca Bingo Clubs,EX4 3QS,50.7230,-3.5338
 Steaks n Sushi,EX4 3QS,50.7230,-3.5336
 The Conservatory Restaurant,EX4 3QS,50.7230,-3.5336
 Mulberry Tree Cafe,EX4 3RG,50.7249,-3.5370
-Caffe Nero,EX4 3RP,50.7245,-3.5316
 Devon Coffee,EX4 3RP,50.7245,-3.5316
 Subway,EX4 3RP,50.7245,-3.5316
 The Boston Tea Party Group Limited,EX4 3RP,50.7245,-3.5316
-Five Guys,EX4 3RX,50.7253,-3.5325
 Pieminister Exeter,EX4 3SB,50.7259,-3.5331
 The Exploding Bakery Limited,EX4 3SB,50.7260,-3.5333
 The exploding bakery ,EX4 3SB,50.7260,-3.5333
@@ -164,18 +153,19 @@ Brodys Exeter limited,EX4 3SH,50.7250,-3.5327
 Beijing Beijing Limited,EX4 3SR,50.7267,-3.5350
 Clock Tower Fish&Chips,EX4 3SR,50.7268,-3.5350
 Pink Moon Exeter,EX4 3SR,50.7267,-3.5350
+The Imperial Exeter (Wetherspoon),EX4 4AH,50.7302,-3.5397
+Thyme,EX4 4BG,50.7293,-3.5421
+Costa Coffee,EX4 4BX,50.7290,-3.5425
 The Oddfellows,EX4 4EP,50.7269,-3.5283
 Wake Up Coffee,EX4 4EP,50.7269,-3.5281
 Dinosaur Cafe,EX4 4HH,50.7277,-3.5359
 Karma,EX4 4NU,50.7306,-3.5422
-Pret a Manger,EX4 4SZ,50.7352,-3.5344
 Harry's restaurant,EX4 6AP,50.7277,-3.5262
 Allstars Exeter,EX4 6NN,50.7264,-3.5256
 St Sidwell's Centre Cafe,EX4 6NN,50.7264,-3.5256
 Terrys Cafe Exeter,EX4 6NN,50.7264,-3.5256
 Subway,EX4 6NS,50.7274,-3.5240
 TwistersCafe,EX4 6NS,50.7274,-3.5240
-KFC,EX4 6PH,50.7291,-3.5212
 Pizza Hut,EX4 6PH,50.7291,-3.5212
 Pura Vida,EX4 6QR,50.7289,-3.5233
 SHIMIZU SUSHI & JAPANESE LTD,EX4 6QR,50.7289,-3.5233

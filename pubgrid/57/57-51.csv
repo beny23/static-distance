@@ -26,9 +26,11 @@ Shoulder of Mutton,S33 9HJ,53.3263,-1.7393
 Ye Olde Bowling Green,S33 9JQ,53.3301,-1.7457
 Johnson Inns Limited T/A The Samuel Fox Country Inn,S33 9JT,53.3351,-1.7361
 Chilli Banana Thai Restaurant,SK10 1JX,53.2600,-2.1196
+Costa Coffee,SK10 2AB,53.2643,-2.1224
 SUBSTATION MACCLESFIELD LIMITED,SK10 2BN,53.2692,-2.1183
-McDonalds Restaurant Ltd,SK10 2SF,53.2722,-2.1180
+McDonald's,SK10 2SF,53.2728,-2.1191
 McDonald’s Restaurants 723 t/a LEMACA Ltd,SK10 2SF,53.2722,-2.1180
+Beefeater Springwood Park,SK10 2XA,53.2849,-2.1230
 Miner Arms,SK10 4PF,53.3348,-2.0944
 Miners,SK10 4PF,53.3348,-2.0944
 The Miners Arms,SK10 4PF,53.3348,-2.0944
@@ -61,17 +63,18 @@ De Jour Bar & Kitchen,SK11 6LB,53.2598,-2.1249
 The Salt Bar Macclesfield ,SK11 6LB,53.2598,-2.1249
 Macclesfield Golf Club Trading Ltd,SK11 7EA,53.2521,-2.1131
 Samira (nw)ltd t/a balti kitchen,SK11 7NA,53.2566,-2.1235
+The Society Rooms Macclesfield (Wetherspoon),SK11 7NA,53.2564,-2.1244
 Paprika indian dining ltd,SK11 7NE,53.2563,-2.1223
 Fig & Fennel,SK12 1AX,53.3486,-2.1141
 deli cofano,SK12 1AX,53.3486,-2.1141
 The Topiary Coffee Shop,SK12 1BY,53.3615,-2.1151
 THE POYNTON PAKORA ,SK12 1JX,53.3484,-2.1222
 Panache 1 london road,SK12 1NF,53.3488,-2.1221
-The Kingfisher Wetherspoons,SK12 1NJ,53.3475,-2.1236
+The Kingfisher Poynton (Wetherspoon),SK12 1NJ,53.3465,-2.1240
 Tom Yam,SK12 1QX,53.3495,-2.1225
 apayon inn ltd,SK12 1QX,53.3494,-2.1225
+Costa Coffee,SK12 1RD,53.3488,-2.1178
 Fire & Ice Cafe Bar ,SK12 1RD,53.3489,-2.1197
-Pizza Express,SK12 1RD,53.3489,-2.1197
 The Snap Tin Bar Ltd,SK12 1RD,53.3488,-2.1179
 ciao restaurant,SK12 1RD,53.3489,-2.1197
 Farmers Arms,SK12 1RE,53.3487,-2.1198
@@ -81,8 +84,6 @@ Eat out to help out ,SK12 2AA,53.3591,-2.0384
 The Dandy Cock,SK12 2AA,53.3591,-2.0384
 sasso ,SK12 2AA,53.3591,-2.0383
 The White Horse,SK12 2BB,53.3580,-2.0382
-The National Trust - Timber Yard Coffee Shop,SK12 2NX,53.3382,-2.0551
-The National Trust Refreshment Kiosk,SK12 2NX,53.3382,-2.0551
 Palace Hotel & Spa,SK17 6AG,53.2610,-1.9154
 RedWillow Buxton,SK17 6AT,53.2596,-1.9146
 St moritz ,SK17 6AT,53.2596,-1.9146
@@ -95,9 +96,11 @@ Old Hall Hotel,SK17 6BD,53.2583,-1.9152
 Ice Cream Parlour - Pavilion Gardens,SK17 6BE,53.2580,-1.9186
 Tearooms - Pavilion Gardens,SK17 6BE,53.2580,-1.9186
 Sam's Plaice ,SK17 6BJ,53.2594,-1.9111
+KFC,SK17 6BP,53.2595,-1.9093
 The Hydro,SK17 6BP,53.2596,-1.9091
 stars licensed cafe,SK17 6BP,53.2596,-1.9091
 Costa Coffee,SK17 6BZ,53.2591,-1.9104
+Costa Coffee,SK17 6BZ,53.2592,-1.9106
 The Chakra Lounge,SK17 6BZ,53.2591,-1.9104
 Kwei Lin Chinese Restaurant,SK17 6DQ,53.2587,-1.9122
 The Cafe at the Green Pavilion,SK17 6DR,53.2586,-1.9127
@@ -110,6 +113,7 @@ The Old Sun Inn,SK17 6HA,53.2541,-1.9150
 Sushi Kaji,SK17 6HB,53.2537,-1.9151
 The Leewood Hotel,SK17 6TQ,53.2615,-1.9208
 The Duke,SK17 6UR,53.2537,-1.9344
+The Wye Bridge House Buxton (Wetherspoon),SK17 7DJ,53.2595,-1.9053
 Little Rascals Play Buxton Ltd,SK17 7LF,53.2601,-1.8926
 THE MERCHANT'S YARD,SK17 8NE,53.2794,-1.7723
 George Inn,SK17 8NU,53.2784,-1.7723
@@ -118,6 +122,7 @@ The Blind Bull ,SK17 8RT,53.3039,-1.7566
 The Yondermann Café,SK17 8RW,53.2768,-1.7298
 The Refreshment Room,SK17 8SN,53.2567,-1.7899
 Parks Inn,SK17 9JD,53.2364,-1.9055
+Thyme,SK17 9NW,53.2502,-1.9105
 High Peak Bookstore and Cafe,SK17 9PY,53.2258,-1.8705
 The Duke of York,SK17 9QG,53.2050,-1.8248
 Selden research staff canteen,SK17 9RZ,53.2444,-1.8967
@@ -163,6 +168,7 @@ Navigation Inn,SK23 7NE,53.3355,-1.9674
 Swan Inn ,SK23 7QU,53.3142,-2.0191
 HANGING GATE,SK23 9UH,53.3167,-1.9396
 The beehive inn,SK23 9UT,53.3041,-1.9442
+McDonald's,SK6 2QR,53.4233,-2.1215
 Duke of York ,SK6 3AN,53.4136,-2.0961
 Qurashi Romiley LTD,SK6 3AN,53.4136,-2.0961
 SPOILT 4 CHOICE,SK6 3AU,53.4158,-2.1043
@@ -189,7 +195,7 @@ PERUGA AT WOODHEYS,SK6 5RX,53.4228,-2.0288
 Big Matt's Burgers and Shakes,SK6 6AA,53.3949,-2.0667
 Cloudberry Cafe,SK6 6AB,53.3949,-2.0650
 Costa Coffee - Marple,SK6 6AY,53.3947,-2.0628
-Costa Coffee,SK6 6AY,53.3947,-2.0628
+Costa Coffee,SK6 6AY,53.3946,-2.0625
 La Dolce Vita Restaurant (Marple) Ltd,SK6 6BD,53.3944,-2.0619
 Angkor Soul (Marple),SK6 6BJ,53.3948,-2.0613
 The Railway marple limited,SK6 6EN,53.3963,-2.0791
@@ -202,7 +208,8 @@ Lime Lounge Restaurant,SK6 8DX,53.3644,-2.0695
 M & J Restaurant,SK6 8DX,53.3644,-2.0695
 The Red Lion,SK6 8ED,53.3638,-2.0674
 Jack’s bar and grill Ltd ,SK7 4AX,53.3823,-2.1242
-KFC,SK7 4DA,53.3786,-2.1187
+KFC,SK7 4DA,53.3782,-2.1185
+The Wilfred Wood Stockport (Wetherspoon),SK7 4DF,53.3794,-2.1205
 Topkapi Palace,SK7 4DF,53.3794,-2.1204
 The Three Tunnes,SK7 4DQ,53.3798,-2.1220
 Bean and baguette ,SK7 4HH,53.3810,-2.1230
@@ -210,6 +217,7 @@ Gnammy Italy,SK7 4HH,53.3810,-2.1229
 Pasha restaurant ,SK7 4HJ,53.3802,-2.1218
 zayaans stockport ,SK7 4HJ,53.3802,-2.1218
 Boogeta lounge,SK7 4PS,53.3782,-2.1172
+McDonald's,SK7 4RD,53.3780,-2.1178
 Ristorante Benvenuti,SK7 4RF,53.3755,-2.1143
 BLUE NILE RESTAURANT ,SK7 6AA,53.3760,-2.1141
 The Rising Sun,SK7 6AD,53.3749,-2.1126

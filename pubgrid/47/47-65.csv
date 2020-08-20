@@ -1,6 +1,7 @@
 name,postcode,lat,lon
-Burger King,PE13 1AR,52.6658,0.1617
+Costa Coffee,PE13 1AR,52.6652,0.1613
 Costa Coffee,PE13 1AR,52.6658,0.1617
+The Wheatsheaf Inn Wisbech (Wetherspoon),PE13 1BL,52.6632,0.1630
 The Rose and Crown Hotel Limited,PE13 1DG,52.6654,0.1596
 Loafers coffee shop,PE13 1DP,52.6652,0.1614
 The Red Lion,PE13 1JR,52.6648,0.1549
@@ -14,18 +15,16 @@ The Oliver Twist,PE13 4EA,52.6099,0.0628
 The Sportsman Pub,PE14 0AG,52.6380,0.1713
 The Elm Tree Inn,PE14 0DD,52.6466,0.1736
 MCDONALDS,PE14 0RD,52.6577,0.1506
-KFC,PE14 0RG,52.6542,0.1464
-Prezzo,PE14 0RG,52.6542,0.1464
-Dunelm Mill Coffee Shop,PE14 0SL,52.6532,0.1471
+McDonald's,PE14 0RD,52.6532,0.1471
+Costa Coffee,PE14 0SL,52.6505,0.1426
 KFC Wisbech Retail Park,PE14 0SL,52.6526,0.1477
-McDonalds Restaurant Limited,PE14 0SL,52.6532,0.1471
-Costa Coffee,PE14 0SW,52.6544,0.1498
-Starbucks,PE14 7BD,52.6711,0.2089
-KFC,PE15 0BA,52.5684,0.0610
+KFC,PE14 0SL,52.6555,0.1483
+KFC,PE15 0GB,52.5627,0.0654
 Skylark Country Store & Garden Centre,PE15 0PE,52.5016,0.1163
 The Three Tuns,PE15 0SP,52.4952,0.0595
 The Anchor Inn,PE15 5BQ,52.5514,0.0868
 DEURALI TRADING LIMITED,PE15 8AB,52.5512,0.0876
+The Hippodrome March (Wetherspoon),PE15 8AQ,52.5515,0.0873
 Diana Tandoori,PE15 8BQ,52.5526,0.0819
 KFC MARCH,PE15 8EH,52.5561,0.0752
 cook family vintage tea room,PE15 8HL,52.5531,0.0884
@@ -33,7 +32,7 @@ The Barn Restaurant,PE15 8LB,52.5514,0.0891
 Purple Diamond ,PE15 8LE,52.5520,0.0906
 Johanna's,PE15 8TW,52.5508,0.0889
 ANNE'S THAI KITCHEN,PE15 8TX,52.5515,0.0884
-Costa Coffee,PE15 9JA,52.5494,0.0878
+Costa Coffee,PE15 9JA,52.5494,0.0880
 Subway,PE15 9JA,52.5494,0.0878
 The acre,PE15 9JD,52.5492,0.0874
 The Exchange (March) Ltd,PE15 9JF,52.5490,0.0892
@@ -46,19 +45,19 @@ Pera Palace,PE16 6BA,52.4544,0.0497
 The Old Bakery Tea Room & Restaurant,PE16 6BB,52.4543,0.0502
 Islas Emporium & Café ,PE16 6BH,52.4570,0.0480
 Spice Lounge ,PE16 6BH,52.4567,0.0481
+Costa Coffee,PE16 6RN,52.4642,0.0439
 Green Welly Cafe,PE16 6UA,52.4661,0.0413
 Waterfall Elior Limited,PE26 1JA,52.4501,-0.1101
 The Old Nene Golf and Country Club,PE26 2XQ,52.4696,-0.1066
 Dog in a Doublet,PE6 0FH,52.5776,-0.1218
 The 19th Hole Thorney Lakes Ltd,PE6 0TJ,52.6389,-0.0806
 Elior at The Spinney,PE6 7GH,52.6109,-0.1838
-Starbucks,PE6 7SZ,52.6128,-0.1878
 MCDONALDS,PE6 7TN,52.6124,-0.1869
-McDonalds Restaurants,PE6 7TN,52.6124,-0.1869
+McDonald's,PE6 7TN,52.6120,-0.1881
 House of Feasts,PE6 7TP,52.6174,-0.1869
 Casa Mattoni ltd,PE6 7YB,52.6058,-0.1993
 Subway,PE7 1AB,52.5561,-0.1277
-The George JD Wetherspoon,PE7 1AB,52.5561,-0.1279
+The George Hotel Whittlesey (Wetherspoon),PE7 1AB,52.5565,-0.1276
 The Ivy Leaf Club Whittlesey 2019 Limited,PE7 1AP,52.5588,-0.1282
 Mandarin,PE7 1BA,52.5564,-0.1292
 Fontanellas,PE7 1BD,52.5566,-0.1289

@@ -2,17 +2,14 @@ name,postcode,lat,lon
 Feni Rec Cafe,BB2 5EG,53.7240,-2.5376
 Pleasington Golf Club,BB2 5JF,53.7297,-2.5432
 The Butlers Arms,BB2 5JH,53.7326,-2.5431
-608 Costa Coffee Shop at BAE Systems,BB2 7LE,53.7760,-2.5804
-609 Costa Coffee Bar at BAE Systems,BB2 7LE,53.7760,-2.5804
 Stanley House Hotel & Spa,BB2 7NP,53.7645,-2.5390
 feildens arms,BB2 7PR,53.7760,-2.5473
-KFC,BB2 7PU,53.7698,-2.5552
 The Miller Arms,FY6 8LL,53.8365,-2.9410
 singleton lodge country house hotel LTD,FY6 8LT,53.8437,-2.9452
 The Captain’s Table,FY6 8NB,53.8528,-2.9286
 The Water’s Edge Bistro,FY6 8NB,53.8528,-2.9286
 McDonald's Restaurants Ltd,FY8 5HU,53.7468,-2.9379
-McDonalds,FY8 5HU,53.7468,-2.9379
+McDonald's,FY8 5HU,53.7455,-2.9373
 Pullmarsh Limited ta Rufford Arms Hotel,L40 1SQ,53.6502,-2.8242
 1260 Craft & Crust,PR1 0AD,53.7503,-2.7293
 No 15 Cafe,PR1 0AR,53.7509,-2.7297
@@ -34,17 +31,14 @@ BURGER HUT,PR1 1TS,53.7638,-2.6947
 SNA Preston Ltd,PR1 1YT,53.7612,-2.6963
 FORUM BAR & KITCHEN,PR1 2AA,53.7574,-2.7019
 Kimji Korean,PR1 2AA,53.7574,-2.7019
-Pizza Express,PR1 2AA,53.7574,-2.7019
 The Cafe Bar,PR1 2AA,53.7573,-2.7018
-Turtle Bay,PR1 2AP,53.7586,-2.6990
+Thyme,PR1 2AB,53.7585,-2.7039
 Cafune - South American Cafe,PR1 2AR,53.7591,-2.6998
-Nando's,PR1 2AR,53.7590,-2.6997
 Istanbul shawarma ,PR1 2AT,53.7606,-2.7045
 Jaffa,PR1 2AT,53.7607,-2.7045
 Shahzaad Tandoori Restaurant ,PR1 2AT,53.7606,-2.7045
 Town House Coffee and Brew Bar,PR1 2AT,53.7606,-2.7045
 Subway,PR1 2AU,53.7595,-2.7009
-Patisserie Valerie,PR1 2AY,53.7582,-2.7023
 tinos restaurant,PR1 2BB,53.7602,-2.7043
 Cocos ,PR1 2ED,53.7618,-2.7059
 Cool Panda,PR1 2ED,53.7618,-2.7059
@@ -56,9 +50,9 @@ AZUMA RESTAURANT,PR1 2EE,53.7611,-2.7043
 Food savour ltd,PR1 2EE,53.7611,-2.7043
 Grillaz ,PR1 2EE,53.7611,-2.7043
 Plau,PR1 2EE,53.7611,-2.7043
-Caffe Nero,PR1 2EJ,53.7598,-2.7011
 McDonald's Restaurants Ltd,PR1 2EJ,53.7598,-2.7011
-McDonalds,PR1 2EJ,53.7598,-2.7011
+McDonald's,PR1 2EJ,53.7597,-2.7006
+The Grey Friar Preston (Wetherspoon),PR1 2EJ,53.7604,-2.7028
 Aunty Dollys cafe,PR1 2JA,53.7610,-2.7000
 Brew and Bake,PR1 2JA,53.7610,-2.7000
 CHERRY PIE COFFEE & CO,PR1 2JA,53.7610,-2.7000
@@ -66,14 +60,14 @@ Jonah's,PR1 2JA,53.7610,-2.7000
 NURCAN & STEVE LTD,PR1 2JA,53.7610,-2.7000
 Pickles of Preston ltd,PR1 2LA,53.7605,-2.6997
 BISTROT PIERRE - PRESTON,PR1 2NJ,53.7577,-2.7047
-Caffe Nero,PR1 2NJ,53.7577,-2.7047
 KFC,PR1 2NJ,53.7577,-2.7047
+KFC,PR1 2NJ,53.7578,-2.7038
 Laviva Café ,PR1 2NJ,53.7577,-2.7047
 Moka cafe bar and restaurant,PR1 2NJ,53.7577,-2.7047
 Subway Fishergate,PR1 2NJ,53.7577,-2.7047
 1842 Restaurant & Bar,PR1 2NL,53.7586,-2.7033
-Burger King,PR1 2NQ,53.7589,-2.7018
 Burger king- Preston St George,PR1 2NQ,53.7589,-2.7018
+Costa Coffee,PR1 2NQ,53.7587,-2.7018
 Raffles coffee house,PR1 2NQ,53.7589,-2.7017
 The Harris Cafe,PR1 2PP,53.7593,-2.6984
 BALUGA BAR & CLUB,PR1 2QY,53.7588,-2.6980
@@ -98,9 +92,11 @@ Legacy Preston International Hotel,PR1 2YF,53.7599,-2.7074
 Angelos,PR1 3BN,53.7576,-2.6977
 Stratos,PR1 3BN,53.7576,-2.6977
 Authentic Cuisine (Preston) Ltd,PR1 3BQ,53.7592,-2.6958
+The Twelve Tellers Preston (Wetherspoon),PR1 3BQ,53.7588,-2.6969
 Mamma Mia Preston,PR1 3BT,53.7590,-2.6947
 Pepe's Piri Piri,PR1 3BT,53.7590,-2.6947
 MAHARAJA RESTAURANT,PR1 3DH,53.7597,-2.6941
+Costa Coffee,PR1 3NN,53.7582,-2.6996
 Delilicious cafe,PR1 3NR,53.7571,-2.6993
 Ravenous,PR1 3NR,53.7571,-2.6993
 Thai Orchid,PR1 3NS,53.7571,-2.6995
@@ -116,7 +112,6 @@ Club 3000 Bingo Preston,PR1 4DT,53.7610,-2.6834
 Traian Ltd/ Steakhouse Saloon,PR1 4DT,53.7610,-2.6834
 chicos preston limited,PR1 4HL,53.7573,-2.6910
 zingas,PR1 4HL,53.7573,-2.6910
-Costa Coffee - Drive Thru,PR1 4HZ,53.7601,-2.6890
 Flipout Preston,PR1 4LQ,53.7607,-2.6827
 The Destination ,PR1 4LQ,53.7588,-2.6839
 new hall lane cafe,PR1 4ST,53.7637,-2.6741
@@ -130,28 +125,24 @@ Fiza Foods Ltd,PR1 6PZ,53.7652,-2.6924
 Marco & Carl ,PR1 6PZ,53.7653,-2.6926
 Grill Shack ,PR1 6QA,53.7677,-2.6912
 Chaiiwala,PR1 6QB,53.7691,-2.6908
-Costa Coffee,PR1 6QY,53.7734,-2.6784
+Costa Coffee,PR1 6QY,53.7724,-2.6772
 Goffys,PR1 6QY,53.7734,-2.6784
 KFC - DEEPDALE,PR1 6QY,53.7739,-2.6768
-KFC,PR1 6QY,53.7739,-2.6768
+KFC,PR1 6QY,53.7726,-2.6780
 McDonald's Restaurants Ltd,PR1 6QY,53.7739,-2.6768
-McDonalds Restaurants,PR1 6QY,53.7739,-2.6768
-Nandos,PR1 6QY,53.7739,-2.6768
-Pizza Hut Restaurant,PR1 6QY,53.7739,-2.6768
+McDonald's,PR1 6QY,53.7728,-2.6786
+Nando's,PR1 6QY,53.7725,-2.6774
 Subway Deepdale,PR1 6QY,53.7739,-2.6768
 Ultimate Cafe Preston,PR1 6QY,53.7738,-2.6766
-Starbucks Coffee Co,PR1 6UY,53.7733,-2.6828
 Naafiah,PR1 6XH,53.7699,-2.6862
 RK Dining,PR1 7EN,53.7696,-2.7113
 Khan'z,PR1 7JN,53.7673,-2.7155
 Pizza Hut (Delivery),PR1 7RB,53.7688,-2.7102
-Starbucks,PR1 8AP,53.7560,-2.7072
 THEATRE STREET BAR & GRILL,PR1 8BQ,53.7570,-2.7044
-Costa Coffee,PR1 8HJ,53.7570,-2.7058
 MOKA ON THE BALCONY,PR1 8HJ,53.7570,-2.7058
 McDonald's Restaurants Ltd,PR1 8HJ,53.7570,-2.7058
-McDonalds Restaurants Ltd,PR1 8HJ,53.7570,-2.7058
-Starbucks Coffee Co,PR1 8HJ,53.7570,-2.7058
+McDonald's,PR1 8HJ,53.7573,-2.7053
+Costa Coffee,PR1 8HL,53.7577,-2.7046
 Starbucks Fishergate,PR1 8HL,53.7568,-2.7058
 Origin Juice and Brew Bar,PR1 8JB,53.7555,-2.7118
 The Continental,PR1 8JP,53.7506,-2.7089
@@ -172,26 +163,26 @@ MAHARANI SOUTH INDIAN RESTAURANT LTD,PR2 2NN,53.7638,-2.7236
 gusto italia ashton,PR2 2NN,53.7638,-2.7236
 Take 5 coffee shop ,PR2 2PD,53.7604,-2.7518
 McDonald's Restaurants Ltd,PR2 2TX,53.7622,-2.7418
-McDonalds Restaurant,PR2 2TX,53.7622,-2.7418
+McDonald's,PR2 2TX,53.7622,-2.7404
 The Beach Hut Cafe Bar,PR2 2YP,53.7608,-2.7432
 KFC,PR2 2YQ,53.7603,-2.7271
+KFC,PR2 2YQ,53.7608,-2.7271
 Plungington Hotel,PR2 3AR,53.7767,-2.7178
 Preston Golf Club,PR2 4DD,53.7830,-2.6859
 Giddy Kids,PR2 5BE,53.7874,-2.6325
 Clip n Climb Preston Limited,PR2 5BW,53.7864,-2.6478
 The Plough,PR2 5JR,53.8053,-2.6233
-Starbucks Preston East,PR2 5PZ,53.7900,-2.6586
+Beefeater Norman Jepson,PR2 5PZ,53.7900,-2.6586
 TVC Cafe,PR2 7BX,53.7866,-2.7453
 Marinos Restaurant Ltd,PR2 8AH,53.7786,-2.6900
-Costa Coffee - Drive Thru,PR2 9BQ,53.7852,-2.6823
 Subway,PR2 9BQ,53.7852,-2.6823
 Booths,PR2 9HD,53.7923,-2.7056
 Subway,PR2 9HD,53.7924,-2.7056
 Mellors Catering Services Ltd,PR2 9HT,53.7914,-2.7074
 McDonald's Restaurants Ltd,PR2 9NP,53.7911,-2.6850
-McDonalds Restaurants,PR2 9NP,53.7911,-2.6850
+McDonald's,PR2 9NP,53.7918,-2.6852
 Costa Coffee - Fulwood Village,PR2 9RX,53.7919,-2.7132
-Costa Coffee,PR2 9RX,53.7919,-2.7132
+Costa Coffee,PR2 9RX,53.7913,-2.7131
 Sai Surbhi,PR2 9UP,53.7925,-2.7142
 The ginger bistro ,PR2 9UP,53.7925,-2.7142
 Maeve and Willow,PR25 1XB,53.6986,-2.7130
@@ -200,10 +191,11 @@ New Wonderland Ltd,PR25 2EX,53.6905,-2.6998
 The Hideout ,PR25 2LD,53.6944,-2.6952
 Emmas Coffee House at the Museum Ltd,PR25 2LE,53.6946,-2.6928
 Antonellos,PR25 2SA,53.6958,-2.6926
+The Leyland Lion Leyland (Wetherspoon),PR25 2SA,53.6955,-2.6927
 The Gables,PR25 2SD,53.6945,-2.6958
 Withy Arms,PR25 3EL,53.6881,-2.6983
 McDonald's Restaurants Ltd,PR25 3LZ,53.6977,-2.6907
-McDonalds,PR25 3LZ,53.6977,-2.6907
+McDonald's,PR25 3LZ,53.6971,-2.6906
 Sweet Delight,PR25 3NH,53.6972,-2.6897
 The Cookie Jar,PR25 3NP,53.6980,-2.6902
 the viceroy,PR25 3NP,53.6980,-2.6906
@@ -284,9 +276,8 @@ Buraq(kirkham)limited ,PR4 2RE,53.7843,-2.9037
 Indulge Desserts,PR4 2SD,53.7829,-2.8717
 New Fortune House,PR4 3BL,53.7887,-2.8856
 The Stanley Arms,PR4 3BL,53.7887,-2.8856
-Mill Farm KFC,PR4 3HD,53.7984,-2.8876
+KFC,PR4 3HD,53.7959,-2.8897
 Ashiana goldstar ltd ,PR4 3HE,53.8092,-2.8924
-Euro Garages Ltd (Starbucks),PR4 3HE,53.8092,-2.8924
 Laleham Kirkham,PR4 3JA,53.8025,-2.8900
 Eagle At Weeton,PR4 3NB,53.8038,-2.9415
 Ream Hills Cafe and Bar Ltd,PR4 3NB,53.8043,-2.9390
@@ -327,24 +318,21 @@ Samlesbury Hall Limited,PR5 0UP,53.7693,-2.5725
 Nabs Head Hotel,PR5 0UQ,53.7616,-2.5758
 New Hall Tavern ,PR5 0XA,53.7572,-2.6219
 The Yew Tree,PR5 4AU,53.7497,-2.6748
-Dunelm Mill Shop,PR5 4AW,53.7488,-2.6791
 McDonald's Restaurants Ltd,PR5 4AW,53.7488,-2.6791
-McDonalds Restaurants Ltd,PR5 4AW,53.7488,-2.6791
-Prezzo,PR5 4AW,53.7490,-2.6774
+McDonald's,PR5 4AW,53.7480,-2.6782
 SUBWAY,PR5 4AW,53.7488,-2.6791
 Starbucks Capitol Retail Park,PR5 4AW,53.7488,-2.6791
-Starbucks,PR5 4AW,53.7488,-2.6791
 Holland house cafe,PR5 4HD,53.7463,-2.6667
 RAEES,PR5 4HT,53.7441,-2.6467
 Pinocchios ,PR5 4JA,53.7469,-2.6724
 Youngs,PR5 5JD,53.7263,-2.6949
 SANGAM BALTI HOUSE,PR5 5RU,53.7260,-2.6928
 KFC - LOSTOCK HALL,PR5 5RY,53.7269,-2.6936
-KFC,PR5 5RY,53.7269,-2.6936
+KFC,PR5 5RY,53.7269,-2.6935
 The Hunters,PR5 5UL,53.7402,-2.6829
 The Mill Cafe,PR5 5XU,53.7237,-2.6777
-Burger King,PR5 6BA,53.7216,-2.6710
 Cuerden View Cafe,PR5 6BY,53.7086,-2.6628
+Breakfast Room,PR5 6BZ,53.7190,-2.6734
 SUBWAY,PR5 6EJ,53.7222,-2.6622
 YE OLDE HOB INN,PR5 6EP,53.7210,-2.6613
 WA Bar and Bistro,PR5 6EQ,53.7223,-2.6620
@@ -368,6 +356,7 @@ Whittle Vintage Tearoom,PR6 7LD,53.6887,-2.6364
 SHAW HILL GOLF & COUNTRY CLUB,PR6 7PP,53.6831,-2.6404
 Lord Nelson,PR6 7RD,53.7041,-2.6365
 THE BEAUMONT,PR6 7TY,53.7067,-2.6450
+Breakfast Room,PR6 8AB,53.6778,-2.6223
 The Little Tiger ,PR6 8DA,53.7005,-2.5469
 Hare & Hounds,PR6 8DP,53.6982,-2.5440
 The Red Lion,PR6 8EU,53.6853,-2.6068
@@ -382,13 +371,14 @@ The Cottage Tea Room,PR6 8QS,53.6878,-2.5668
 Boatel Party Cruises,PR6 9AE,53.6651,-2.6165
 Caffe Latte,PR7 1AB,53.6547,-2.6299
 McDonald's Restaurants Ltd,PR7 1AQ,53.6529,-2.6282
-McDonalds Restaurants Ltd,PR7 1AQ,53.6529,-2.6282
+McDonald's,PR7 1AQ,53.6552,-2.6280
 Woodchats Coffee Shop,PR7 1AQ,53.6529,-2.6282
 SUBWAY,PR7 1BG,53.6531,-2.6321
 Tapas Esteban,PR7 1BH,53.6530,-2.6316
 GOODIES COFFEE SHOP,PR7 1BJ,53.6535,-2.6319
 Chorley Town Cafe Limited,PR7 1BW,53.6525,-2.6321
 Chorley Town Café ,PR7 1BW,53.6525,-2.6321
+The Sir Henry Tate Chorley (Wetherspoon),PR7 1DB,53.6539,-2.6307
 Costa Coffee,PR7 1DE,53.6533,-2.6296
 La Rocca Ristorante Limited,PR7 1EX,53.6595,-2.6290
 Lean & Green,PR7 1EX,53.6595,-2.6290
@@ -412,10 +402,9 @@ TWENTY SEVEN CHORLEY,PR7 6TE,53.6727,-2.6665
 Cappuccino,PR7 7HZ,53.6787,-2.6582
 Tiggis Xpress,PR7 7JA,53.6758,-2.6588
 Costa Coffee - Buckshaw Village,PR7 7LJ,53.6760,-2.6546
-Costa Coffee,PR7 7LJ,53.6760,-2.6546
+Costa Coffee,PR7 7LJ,53.6760,-2.6547
 Starbucks,PR7 7ND,53.6865,-2.6681
 KFC - BUCKSHAW,PR7 7NH,53.6768,-2.6575
 KFC,PR7 7NH,53.6768,-2.6575
-Mcdonalds,WN8 6LN,53.8612,-2.5693
 Siesta Coffee,WN8 6LN,53.8612,-2.5693
 Subway,WN8 6LN,53.8612,-2.5693

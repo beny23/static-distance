@@ -1,18 +1,15 @@
 name,postcode,lat,lon
 Delfino Caffe,PE21 6EU,52.9780,-0.0227
 Boston Spice ,PE21 6HE,52.9766,-0.0228
-Caffe Nero,PE21 6LR,52.9790,-0.0237
 The Little Kitchen,PE21 6NA,52.9782,-0.0249
 CAPTAIN COD TRADITIONAL FISH AND CHIP,PE21 6NF,52.9780,-0.0244
 KFC,PE21 6NF,52.9780,-0.0244
-KFC,PE21 6NH,52.9772,-0.0238
+KFC,PE21 6NH,52.9779,-0.0242
 Resteuracja Syrenka,PE21 6NH,52.9772,-0.0238
 GOODBARNS YARD,PE21 6NP,52.9791,-0.0258
 Churches Restaurant,PE21 6NW,52.9778,-0.0250
 The Ridge Rooms,PE21 6QQ,52.9782,-0.0208
-Costa Coffee,PE21 6QX,52.9787,-0.0217
-Prezzo,PE21 6RF,52.9799,-0.0226
-Buzz Bingo,PE21 6RY,52.9813,-0.0199
+Costa Coffee,PE21 6QU,52.9794,-0.0215
 Eagles Fish Restaurant ,PE21 6ST,52.9780,-0.0179
 Bulgarian Spring and Restaurant,PE21 8QA,52.9768,-0.0251
 THE ITALIAN CONNECTION,PE21 8QH,52.9760,-0.0255
@@ -22,12 +19,15 @@ WELL SPICY LTD,PE21 8QN,52.9764,-0.0276
 rose of bengal restaurant,PE21 8QZ,52.9762,-0.0290
 Thai House Restaurant,PE21 8RN,52.9778,-0.0311
 The Bus Station Cafe,PE21 8RS,52.9764,-0.0292
+The Moon Under Water Boston (Wetherspoon),PE21 8SH,52.9768,-0.0243
 White Hart Hotel,PE21 8SH,52.9764,-0.0242
 Boston Kebab Limited,PE21 8SP,52.9758,-0.0245
 CM Restaurants (Holdings) Ltd,PE21 8XZ,52.9757,-0.0316
+McDonald's,PE21 8XZ,52.9752,-0.0314
 Baltic Food Park Boston Restaurant,PE21 9HG,52.9849,-0.0215
 Boston Lock Cafe,PE21 9JU,52.9836,-0.0319
 The Mill Inn,PE21 9QN,52.9881,-0.0072
+Brewers Fayre Burton House,PE21 9RW,52.9881,-0.0035
 Johnsons Garden Centre (Boston) Ltd,PE21 9RZ,52.9849,0.0203
 kings head freiston,PE22 0NT,52.9766,0.0459
 The Castle Inn,PE22 0PF,52.9859,0.0387
@@ -63,7 +63,6 @@ Greenacres Club & Restaurant,PE25 1JJ,53.1884,0.3359
 Aqua Lounge,PE25 1JU,53.1931,0.3470
 The Point Cafe,PE25 1JU,53.1931,0.3470
 JUMP WARRIORS LIMITED,PE25 1LY,53.1981,0.3309
-Burger King,PE25 1NJ,53.1782,0.3499
 vincent's restuarant,PE25 1NL,53.1920,0.3348
 Candles Restaurant,PE25 1NT,53.1938,0.3346
 Classic Coffee Shop,PE25 1NU,53.1933,0.3384
@@ -74,6 +73,7 @@ Arcade Bar,PE25 1RH,53.1911,0.3496
 Cafe,PE25 1RH,53.1911,0.3496
 Explorer Bar,PE25 1RH,53.1911,0.3496
 House Of Coffee,PE25 1RH,53.1911,0.3496
+KFC,PE25 1RH,53.1459,0.3459
 Odyssey Cafe & Bar,PE25 1RH,53.1923,0.3471
 The Ranch,PE25 1RH,53.1911,0.3496
 Tiny Tots Village / Mrs M's cafe diner,PE25 1RH,53.1922,0.3479
@@ -83,6 +83,7 @@ Pitch & Putt Inn,PE25 1SL,53.1552,0.3415
 Cafe Dansant,PE25 2AX,53.1448,0.3422
 The Welcome Inn ltd,PE25 2LJ,53.1557,0.3206
 Mario’s ,PE25 2RA,53.1501,0.3375
+The Red Lion Skegness (Wetherspoon),PE25 2RU,53.1439,0.3364
 Lincolnshire Imp Cafe,PE25 2RZ,53.1447,0.3362
 Roman Bank Bingo,PE25 2SG,53.1449,0.3371
 ADYAN LIMITED,PE25 2SN,53.1462,0.3373
@@ -95,7 +96,7 @@ Hollywood Bar & Diner,PE25 2UE,53.1449,0.3463
 Cafe Magna,PE25 2UG,53.1437,0.3442
 Empire Bowl,PE25 2UG,53.1433,0.3447
 McDonald's,PE25 2UG,53.1437,0.3442
-Mcdonalds Restaurants Ltd,PE25 2UG,53.1437,0.3442
+McDonald's,PE25 2UG,53.1442,0.3452
 Meanie BoBini's,PE25 2UG,53.1437,0.3442
 Seafood café & bar,PE25 2UG,53.1437,0.3442
 Skeg Vegas Diner,PE25 2UG,53.1437,0.3442
@@ -106,6 +107,7 @@ The links hotel,PE25 3BU,53.1326,0.3388
 The Vine Hotel ,PE25 3DB,53.1319,0.3377
 Hussey’s Fish & Chips,PE25 3DY,53.1417,0.3431
 Tarantinos Restaurant Ltd,PE25 3EB,53.1404,0.3430
+Cookhouse + Pub The Steamboat,PE25 3HH,53.1461,0.3452
 Skegness Aquarium,PE25 3HH,53.1418,0.3468
 The Boardwalk,PE25 3HH,53.1418,0.3468
 Chips on parade,PE25 3HN,53.1417,0.3434
@@ -115,7 +117,6 @@ mooch cafe ,PE25 3LS,53.1430,0.3404
 Tower Cafe,PE25 3LZ,53.1424,0.3427
 marine boathouse ltd,PE25 3NA,53.1420,0.3421
 Lusso by lanzetta ,PE25 3NG,53.1433,0.3374
-Burger King,PE25 3NU,53.1421,0.3403
 The cottage loaf ,PE25 3NU,53.1421,0.3403
 Coffee Owl,PE25 3NW,53.1429,0.3372
 Yorkies Cafe,PE25 3NW,53.1429,0.3374
@@ -124,6 +125,6 @@ Coffee Bean,PE25 3NX,53.1426,0.3392
 EPTONS fish and chips,PE25 3NY,53.1430,0.3377
 freds sandwich bar and cafe,PE25 3NY,53.1430,0.3378
 THE LUMLEY BAR & RESTAURANT,PE25 3QJ,53.1438,0.3356
+Costa Coffee,PE25 3QL,53.1434,0.3358
 The Elysium,PE25 3SB,53.1442,0.3298
-Pizza Hut Restaurant,PE25 3ST,53.1425,0.3252
 Richmond Holiday Centre,PE25 3TQ,53.1364,0.3288

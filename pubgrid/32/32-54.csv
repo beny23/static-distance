@@ -1,9 +1,8 @@
 name,postcode,lat,lon
-Pret A Manger,RG14 1AA,51.4020,-1.3246
+Pret A Manger,RG14 1AA,51.4024,-1.3245
 Starbucks,RG14 1AA,51.4020,-1.3246
-Caffe Nero,RG14 1AE,51.4034,-1.3248
 McDonald's,RG14 1AE,51.4034,-1.3248
-McDonalds,RG14 1AE,51.4034,-1.3248
+McDonald's,RG14 1AE,51.4041,-1.3249
 Soyami,RG14 1AE,51.4033,-1.3247
 Lebanese House restaurant ,RG14 1AL,51.4037,-1.3252
 Lusso,RG14 1AL,51.4037,-1.3252
@@ -11,9 +10,11 @@ Weavers Coffee Shop,RG14 1AL,51.4037,-1.3252
 Thai Golden Horse,RG14 1AN,51.4048,-1.3251
 GURKHA CHEF LTD,RG14 1AU,51.4059,-1.3249
 Red Peppers,RG14 1AU,51.4059,-1.3249
+Costa Coffee,RG14 1AY,51.4038,-1.3236
 Kings Cafe,RG14 1BA,51.4053,-1.3243
 FUSION DELI NEWBURY,RG14 1BS,51.4019,-1.3274
-Costa Coffee,RG14 1DJ,51.4032,-1.3241
+Costa Coffee,RG14 1DJ,51.4018,-1.3241
+Thyme,RG14 1EE,51.4056,-1.3222
 victoria park cafe ,RG14 1EH,51.4049,-1.3212
 Waterfall Elior Ltd at Willows Edge,RG14 1HJ,51.4083,-1.3165
 Chequers Hotel,RG14 1JB,51.4061,-1.3258
@@ -22,18 +23,15 @@ restaurant Valle D'Oro,RG14 1JG,51.4059,-1.3272
 The Hare and Hounds Hotel,RG14 1QY,51.4103,-1.3457
 Northcroft Leisure Centre,RG14 1RS,51.4029,-1.3311
 Mrs B's Kitchen Cafe,RG14 2AD,51.4033,-1.3175
-Caffe Pausa At Dunelm Mill,RG14 2BP,51.4032,-1.3057
 Pizza Hut,RG14 2BX,51.4054,-1.3155
-CH&Co at Vodafone,RG14 2FN,51.4167,-1.3198
 DONNINGTON GROVE,RG14 2LA,51.4177,-1.3396
 The Castle,RG14 3AA,51.4179,-1.3285
 Donnington Valley Hotel,RG14 3AG,51.4217,-1.3283
 Donnington Valley Golf Club,RG14 3BG,51.4293,-1.3314
-Pizza Express,RG14 5AA,51.4008,-1.3237
 The Spare Wheel,RG14 5AA,51.4006,-1.3234
 The Sushi Maki,RG14 5AA,51.4007,-1.3235
-Ask Italian,RG14 5AG,51.4014,-1.3233
 Teashop by the canal,RG14 5AS,51.4014,-1.3216
+The Hatchet Inn Newbury (Wetherspoon),RG14 5BD,51.4008,-1.3229
 Arigato Japanese Restaurant and Sushi Bar,RG14 5BE,51.4013,-1.3246
 KING CHARLES PUB,RG14 5BX,51.3996,-1.3222
 Taj of India,RG14 5BX,51.3996,-1.3222
@@ -44,9 +42,8 @@ The Dolphin ,RG14 5DT,51.3988,-1.3261
 Jaipur Indian cuisine,RG14 5DY,51.3983,-1.3264
 KHONKAEN THAI CUISINE,RG14 5DY,51.3983,-1.3264
 Boswells Cafe,RG14 5EN,51.4000,-1.3241
-Nando's Chickenland Ltd,RG14 5EN,51.4000,-1.3241
+Nando's,RG14 5EN,51.3993,-1.3231
 7 Bone Burger Co - Newbury,RG14 5EX,51.4015,-1.3240
-Caffe Nero plc,RG14 5HB,51.4008,-1.3240
 The Newbury ,RG14 5HB,51.4008,-1.3240
 Big Tongue Oriental Cafe,RG14 5LL,51.4005,-1.3247
 The Ugly Duckling Pottery Painting Coffee House,RG14 5LL,51.4000,-1.3253
@@ -58,15 +55,16 @@ The Gun,RG14 6NE,51.3826,-1.3403
 NuMee LTD,RG14 6QW,51.3825,-1.3409
 FAIRCLOSE DAY CENTRE,RG14 7BH,51.3964,-1.3256
 Waterfall Elior Ltd at Phoenix Resource Centre,RG14 7EB,51.3887,-1.3220
-Costa Coffee At Tesco Extra,RG14 7HU,51.3851,-1.3180
-Pizza Hut Restaurant,RG14 7HU,51.3851,-1.3180
-Starbucks,RG14 7HU,51.3863,-1.3182
-Burger King (UK) Limited,RG14 7HZ,51.3973,-1.3198
+Costa Coffee,RG14 7HB,51.3830,-1.3183
+Thyme,RG14 7HL,51.3817,-1.3182
+Costa Coffee,RG14 7HU,51.3862,-1.3179
+McDonald's,RG14 7HU,51.3847,-1.3193
+Burger King,RG14 7HZ,51.3966,-1.3198
 Plough on the Green,RG14 7JF,51.3931,-1.3162
-Chartwell & Starbucks @ Newbury College,RG14 7TD,51.3825,-1.3231
 John O’Gaunt,RG17 0EG,51.4172,-1.5138
-Dobbies Hungerford (incl Costa Coffee),RG17 0HE,51.4184,-1.5048
+Costa Coffee,RG17 0HE,51.4179,-1.5035
 COSTA COFFEE HUNGERFORD,RG17 0LX,51.4151,-1.5153
+Costa Coffee,RG17 0LX,51.4150,-1.5153
 The Three Swans Hotel,RG17 0LZ,51.4148,-1.5153
 Borough Arms,RG17 0NA,51.4126,-1.5163
 The Plume of Hungerford ltd,RG17 0NB,51.4140,-1.5156
@@ -79,17 +77,11 @@ The Wheatsheaf,RG17 0TE,51.4316,-1.5382
 The Pheasant Inn,RG17 7AA,51.4579,-1.4801
 THE GREAT SHEFFORD (THE SWAN INN),RG17 7DS,51.4745,-1.4488
 The Plough Inn,RG17 7JN,51.4942,-1.5035
-Burger King At Welcome Break Membury Services  Eastbound,RG17 7TY,51.4805,-1.5576
-Burger King At Welcome Break Membury Services  Westbound,RG17 7TY,51.4805,-1.5576
-Days Inn At Welcome Break Membury Services  Westbound,RG17 7TY,51.4805,-1.5576
-Harry Ramsden's @ Welcome Break Westbound,RG17 7TY,51.4805,-1.5576
-KFC,RG17 7TY,51.4805,-1.5576
-Starbucks At Welcome Break Membury Services  Eastbound,RG17 7TY,51.4805,-1.5576
 Starbucks Drive -Thru @ Welcome Break Westbound,RG17 7TY,51.4805,-1.5576
 Starbucks at Membury Services Westbound,RG17 7TY,51.4805,-1.5576
-Starbucks at Welcome Break Membury Services  Westbound,RG17 7TY,51.4805,-1.5576
 WH Smith At Welcome Break Membury Services  Westbound,RG17 7TY,51.4805,-1.5576
-Starbucks Drive Thru At Welcome Break,RG17 7TZ,51.4842,-1.5581
+KFC,RG17 7TZ,51.4813,-1.5574
+KFC,RG17 7TZ,51.4834,-1.5572
 Subway @ Welcome Break Eastbound,RG17 7TZ,51.4842,-1.5581
 WH Smith At Welcome Break Membury Services  Eastbound,RG17 7TZ,51.4842,-1.5581
 Goodies Cafe ,RG17 8XL,51.5075,-1.5320
@@ -98,9 +90,7 @@ THE GEORGE,RG17 8XU,51.5085,-1.5309
 Blandy's,RG17 9AA,51.3974,-1.4768
 Waterfall Elior Ltd at Notrees,RG17 9TW,51.3992,-1.4521
 The Dundas Arms,RG17 9UT,51.4004,-1.4473
-Arlos At Moto Services Chieveley,RG18 9XX,51.4511,-1.3085
-Burger King At Moto Services Chieveley,RG18 9XX,51.4511,-1.3085
-Costa Coffee,RG18 9XX,51.4511,-1.3085
+Costa Coffee,RG18 9XX,51.4490,-1.3109
 The Craven Arms,RG20 0HG,51.3809,-1.3876
 The Whte Hart Inn,RG20 0HW,51.3866,-1.4056
 Yew Tree Cafe,RG20 0NG,51.3677,-1.3875
@@ -118,8 +108,7 @@ The Red House,RG20 8LY,51.4051,-1.3855
 Crab & Boar,RG20 8UE,51.4641,-1.3457
 Ye Olde Red Lion,RG20 8XB,51.4588,-1.3155
 The Swan Inn,RG20 9BH,51.3725,-1.3166
-McDonalds,RG20 9BX,51.3486,-1.3413
-Starbucks,RG20 9BX,51.3486,-1.3413
+McDonald's,RG20 9BX,51.3486,-1.3413
 The Carpenter's Arms,RG20 9JY,51.3432,-1.3376
 The Pheasant  Highclere,RG20 9SE,51.3274,-1.3810
 Rampant Cat (Newbury) LTD,RG20 9TP,51.3590,-1.3736

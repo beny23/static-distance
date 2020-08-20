@@ -1,6 +1,7 @@
 name,postcode,lat,lon
-Direct Line Insurance (CH&CO Catering Group Ltd ),BR1 1DP,51.3992,0.0166
 PRIVE LOUNGE,BR1 1DS,51.3998,0.0163
+The Richmal Crompton Bromley (Wetherspoon),BR1 1DS,51.3997,0.0167
+Thyme,BR2 0QL,51.3986,0.0144
 Truffles kitchen ,BR2 0TY,51.3924,0.0024
 COSTA COFFEE   WESTMORELAND ROAD,BR2 0TZ,51.3920,0.0011
 Daisy Grey Keston,BR2 6BP,51.3636,0.0286
@@ -8,7 +9,6 @@ The Greyhound  ,BR2 6BP,51.3636,0.0286
 Metropolitan Police Hayes Sports Club Ltd,BR2 7AL,51.3706,0.0086
 The New Inn,BR2 7EA,51.3760,0.0113
 COSTA COFFEE   HAYES,BR2 7EB,51.3764,0.0115
-Costa Coffee,BR2 7EB,51.3764,0.0115
 MUMBAI CENTRAL,BR2 7EH,51.3772,0.0104
 ELACHI (HAYES) LIMITED,BR2 7EJ,51.3767,0.0109
 Elachi (Hayes) ltd t/a Ginger,BR2 7EJ,51.3766,0.0109
@@ -16,6 +16,7 @@ tugra restaurant ltd,BR2 7EJ,51.3766,0.0109
 Hayes Street Kitchen ,BR2 7LD,51.3790,0.0176
 Hello Burger Hayes,BR2 7LD,51.3790,0.0176
 Old Village Cafe,BR2 7LD,51.3790,0.0176
+McDonald's,BR2 8NH,51.3755,0.0449
 McDonalds,BR2 8NH,51.3751,0.0450
 Yasmin Restaurant,BR2 8NQ,51.3744,0.0454
 The darjeeling,BR2 9HT,51.3972,0.0233
@@ -27,8 +28,7 @@ Rosie lee cafe & Deli,BR2 9LD,51.3969,0.0293
 Pink Garlic,BR2 9QN,51.3927,0.0347
 The Fireball Pizza Company,BR2 9QN,51.3927,0.0347
 Virgin Active Bromley,BR2 9RB,51.3969,0.0389
-Nando's,BR2 9UY,51.3994,0.0150
-Pizza Express,BR2 9UY,51.3994,0.0150
+Nando's,BR2 9UY,51.3989,0.0163
 The Langley Quarter ,BR3 3DE,51.3907,-0.0277
 The Amber Fort,BR3 3DY,51.3915,-0.0389
 Agra Beckenham,BR3 3HG,51.3908,-0.0290
@@ -40,26 +40,25 @@ Kemer Ltd,BR3 3RB,51.3988,-0.0416
 Our Kitchen,BR3 3RB,51.3988,-0.0416
 Spice Society,BR3 3RB,51.3988,-0.0416
 Zi Teresa Ristorante Italiano Ltd,BR3 3RB,51.3988,-0.0416
+Costa Coffee,BR3 4AA,51.3965,-0.0501
 Langley Park Golf Club Limited,BR3 6SZ,51.3877,-0.0085
 PRIMA DONNAS,BR4 0EL,51.3805,-0.0139
 RAIFE'S LTD,BR4 0EL,51.3804,-0.0141
-Miller & Carter,BR4 0HH,51.3848,0.0023
 Marmaris Restaurant ,BR4 0JH,51.3793,-0.0170
 Blue Hook Limited,BR4 0LP,51.3757,-0.0155
 Ollie Polly play cafe ,BR4 0LP,51.3757,-0.0159
-Pizza Express,BR4 0LP,51.3757,-0.0156
-Caffe Nero,BR4 0LR,51.3759,-0.0170
 IL PRIMO (WW) LIMITED ,BR4 0LS,51.3764,-0.0188
 SUPER FOOD ENTERPRISE LTD,BR4 0LS,51.3764,-0.0192
 Corza Cafe Bar,BR4 0LT,51.3767,-0.0200
 Harpers,BR4 0LT,51.3767,-0.0200
 Indian Diner,BR4 0LT,51.3767,-0.0200
 KFC,BR4 0LZ,51.3773,-0.0212
+KFC,BR4 0LZ,51.3778,-0.0253
 Topolino Italian Restaurant,BR4 0LZ,51.3773,-0.0212
 DINESTYLE LTD,BR4 0ND,51.3771,-0.0200
 Hisar Meze Bar ,BR4 0NH,51.3765,-0.0178
 Prayosha enterprises ltd ,BR4 0NH,51.3764,-0.0177
-Pizza Hut Delivery,BR4 0RL,51.3751,-0.0114
+Costa Coffee,BR4 0NJ,51.3761,-0.0163
 SONARGAON TANDOORI,BR4 0RL,51.3751,-0.0114
 Coneys cafe,BR4 9HZ,51.3702,0.0020
 Smoque Coney,BR4 9HZ,51.3702,0.0020
@@ -70,6 +69,7 @@ Oakley Coffee,BR5 1DF,51.3891,0.0729
 Queensway Tearooms and Bakery ,BR5 1DG,51.3895,0.0718
 RAJDOOT,BR5 1DG,51.3895,0.0718
 Thai Moom,BR5 1DG,51.3895,0.0718
+The Sovereign of the Seas Petts Wood (Wetherspoon),BR5 1DG,51.3893,0.0721
 As u like it,BR5 1DQ,51.3885,0.0729
 COSTA COFFEE  PETTSWOOD 2,BR5 1DQ,51.3884,0.0730
 Cafe Dolce Vita,BR5 1DQ,51.3885,0.0729
@@ -90,14 +90,14 @@ Desperados Petts Wood,BR5 1NA,51.3896,0.0744
 Little India Restaurant,BR5 1NA,51.3896,0.0744
 Pizza Hut Delivery,BR5 2DD,51.3899,0.1064
 Berils' Cafe,BR5 2HE,51.3906,0.1072
-Nando's,BR5 3RP,51.3928,0.1129
-Pret A Manger,BR5 3RP,51.3928,0.1129
+Costa Coffee,BR5 3RP,51.3930,0.1121
+Nando's,BR5 3RP,51.3938,0.1121
+Pret A Manger,BR5 3RP,51.3929,0.1125
 The Taj,BR6 0JB,51.3825,0.1071
 COSTA COFFEE   ORPINGTON,BR6 0JN,51.3772,0.0999
 Scala Bar & Grill,BR6 0JS,51.3787,0.1014
 ORPINGTON CRISPY COD LTD,BR6 0JT,51.3791,0.1020
-KFC,BR6 0JW,51.3776,0.1002
-Pizza Express,BR6 0LF,51.3794,0.1027
+KFC,BR6 0JW,51.3778,0.1005
 Ela Caterers Ltd,BR6 0LG,51.3786,0.1019
 HENDEK LTD,BR6 0LG,51.3786,0.1019
 Orpington GPO,BR6 0LS,51.3763,0.0993
@@ -109,6 +109,8 @@ Star Cafe,BR6 0ND,51.3751,0.0986
 Masala Dabbas,BR6 0NF,51.3746,0.0981
 JOY KITCHEN,BR6 0NG,51.3741,0.0978
 Shimla Pink Restaurant ,BR6 0NG,51.3741,0.0978
+Costa Coffee,BR6 0NH,51.3734,0.0968
+McDonald's,BR6 0NN,51.3742,0.0984
 McDonalds,BR6 0NN,51.3738,0.0983
 Cafe Medi,BR6 0NQ,51.3736,0.0974
 The Palace8 ltd  t/a  King Palace,BR6 0NQ,51.3736,0.0974
@@ -118,7 +120,8 @@ Orpington Palace Superbowl,BR6 0RT,51.3758,0.1006
 CHACHAMOON,BR6 0TW,51.3764,0.1012
 EASY COFFEE - THE KIOSK,BR6 0TW,51.3773,0.1019
 EASY COFFEE,BR6 0TW,51.3770,0.1017
-Nando's,BR6 0TW,51.3773,0.1019
+The Harvest Moon Orpington (Wetherspoon),BR6 0TW,51.3779,0.1011
+Thyme,BR6 0TW,51.3773,0.1021
 Bombay Spicy,BR6 6BJ,51.3513,0.0895
 The Rose and Crown PH,BR6 6BT,51.3503,0.0882
 Belmondo Coffee Limited,BR6 6DD,51.3556,0.0898
@@ -147,11 +150,9 @@ Chelsfield Lakes Golf Centre,BR6 9BX,51.3617,0.1157
 Piccalilly’s cafe limited,BR8 7AE,51.3972,0.1728
 Principals By CH&Co @ St Marys C Of E Primary School,BR8 7BU,51.3949,0.1685
 COSTA COFFEE - SWANLEY,BR8 7TQ,51.3967,0.1738
-Costa Coffee,BR8 7TQ,51.3968,0.1738
-KFC,BR8 7TQ,51.3968,0.1738
+Costa Coffee,BR8 7TQ,51.3967,0.1740
 Swanley KFC Store,BR8 7TQ,51.3967,0.1738
 The Step Inn Cafe,BR8 7TQ,51.3968,0.1738
-Compass Group @ Asda Customer Restaurant,BR8 7UN,51.3971,0.1747
 Namaste Swanley!,BR8 8AE,51.3955,0.1775
 Principals By CH&Co @ Downsview C P School,BR8 8AU,51.3958,0.1835
 The clove,BR8 8ES,51.3949,0.1758
@@ -159,14 +160,14 @@ The Chequers,BR8 8LP,51.3834,0.1572
 Principals By CH&Co @ Crockenhill Primary School,BR8 8LT,51.3872,0.1595
 Costa Coffee,CR0 0JB,51.3421,-0.0158
 KFC New Addington,CR0 0JB,51.3421,-0.0157
+KFC,CR0 0JB,51.3418,-0.0150
 Addington Palace Golf Club,CR0 5BB,51.3553,-0.0442
 Royal garden restaurant ,CR0 5HQ,51.3623,-0.0519
 Waterfall Elior At Oasis Academy Shirley Park,CR0 7AL,51.3861,-0.0622
 Shirley Park Golf Club ,CR0 7LB,51.3758,-0.0614
-Olive Dining At Monks Orchard Primary School,CR0 7UF,51.3908,-0.0488
 Lorenzo,CR0 8BE,51.3742,-0.0512
 MCDONALD'S RESTAURANT LIMITED- SHIRLEY POPPY,CR0 8DN,51.3767,-0.0329
-McDonalds,CR0 8DN,51.3767,-0.0329
+McDonald's,CR0 8DN,51.3765,-0.0349
 Shahi dawat,CR0 8NG,51.3698,-0.0303
 Goodfella Vapes Limited,CR0 8TE,51.3746,-0.0504
 Q Cafe,CR0 8TE,51.3747,-0.0503
@@ -175,10 +176,10 @@ Addington Court Golf Club,CR0 9AA,51.3461,-0.0340
 Fatboyz cafe,CR2 8JJ,51.3514,-0.0398
 Planet Spice,CR2 8JT,51.3507,-0.0400
 COSTA COFFEE   SELSDON,CR2 8LB,51.3437,-0.0619
-Costa Coffee (Goldex Investments Ltd),CR2 8LB,51.3437,-0.0619
 Favorite Chicken & Ribs,CR2 8LB,51.3437,-0.0619
 KFC SELSDON,CR2 8LB,51.3437,-0.0619
-KFC,CR2 8LB,51.3437,-0.0619
+KFC,CR2 8LB,51.3437,-0.0620
+The Sir Julian Huxley Selsdon (Wetherspoon),CR2 8LB,51.3434,-0.0624
 Royal Tandoori,CR2 8LD,51.3443,-0.0605
 Star express ,CR2 8LD,51.3443,-0.0605
 Shaw’s Pie & Eel House,CR2 8LH,51.3442,-0.0619
@@ -194,7 +195,7 @@ Medirest Healthcare Compass Group At Shirley Oaks Hospital,CR9 8AB,51.3823,-0.05
 Principals By CH&Co @ Langafel C Of E Primary School,DA3 7PW,51.3944,0.3176
 Longfield Tandoori,DA3 7QA,51.3964,0.3007
 COSTA COFFEE - LONGFIELD ,DA3 7QD,51.3978,0.3003
-Costa Coffee,DA3 7QD,51.3978,0.3003
+Costa Coffee,DA3 7QD,51.3980,0.2998
 Fruit & Veg Stall On Fridays,DA3 7QD,51.3978,0.3003
 Hartley Country Club Ltd,DA3 8BS,51.3842,0.3035
 Lyn s breakfast bar ltd ,DA3 8JB,51.3660,0.3049
@@ -217,24 +218,21 @@ Coffee at Kiwi House,RH8 0DR,51.2590,0.0139
 The Bull Inn Limpsfield,RH8 0DR,51.2590,0.0140
 Ber-Gur Lt t/a Brisk,RH8 0PG,51.2578,-0.0022
 COSTA COFFEE   OXTED ,RH8 0PG,51.2578,-0.0022
-Costa Coffee,RH8 0PG,51.2578,-0.0022
 Cucina Italiana,RH8 0PG,51.2578,-0.0022
-Caffe Nero,RH8 0QE,51.2584,-0.0046
-Pizza Express,RH8 0QE,51.2584,-0.0046
 The Grumpy Mole Oxted,RH8 0RR,51.2186,0.0128
 Billy's Bistro,RH8 0SJ,51.2578,0.0191
 Limpsfield Chart Golf Club,RH8 0SL,51.2566,0.0238
 The Carpenters Arms,RH8 0TG,51.2483,0.0399
 The Diamond (Just Baker Catering),RH8 9BQ,51.2337,0.0100
-Everyman Oxted,RH8 9EE,51.2576,-0.0057
 Contessa Trading Ltd t/a Thai Pad,RH8 9HR,51.2575,-0.0046
-Freedom Leisure Ltd,RH8 9HT,51.2560,-0.0058
+The Oxted Inn Oxted (Wetherspoon),RH8 9HR,51.2575,-0.0046
 The Crown Inn,RH8 9LN,51.2526,-0.0152
 The George Inn,RH8 9LP,51.2528,-0.0156
 Tandridge Golf Club,RH8 9NQ,51.2492,-0.0218
 Knights Garden Centre,RH9 8DB,51.2484,-0.0467
 The Spice Yard at The Lagham ,RH9 8EZ,51.2196,-0.0486
 Fox and Hounds,RH9 8LY,51.2283,-0.0612
+Beefeater Hilden Manor,TN10 3AN,51.2063,0.2613
 Subway  Shipbourne Road ,TN10 3ED,51.2053,0.2768
 Carpenters Arms ,TN11 0AD,51.2130,0.3145
 The Rose Revived,TN11 0AN,51.2224,0.3216
@@ -258,46 +256,42 @@ Eatnmess  ,TN13 1AU,51.2717,0.1905
 Hattusa Sevenoaks ,TN13 1BH,51.2744,0.1876
 Oaks Spice,TN13 1BH,51.2744,0.1876
 COSTA COFFEE - SEVENOAKS ,TN13 1DA,51.2725,0.1922
-Costa Coffee,TN13 1DA,51.2725,0.1922
-Nando's,TN13 1DA,51.2725,0.1922
+Costa Coffee,TN13 1DA,51.2721,0.1921
+Nando's,TN13 1DA,51.2724,0.1920
 Kazoku Pan Asian & Sushi,TN13 1DB,51.2719,0.1919
 Dulce's Patisserie,TN13 1DF,51.2716,0.1923
-Prezzo,TN13 1DH,51.2764,0.1837
 The Raj Bari,TN13 1DH,51.2764,0.1837
-Costa Coffee,TN13 1DP,51.2767,0.1818
+Costa Coffee,TN13 1DP,51.2769,0.1825
 NONNA CAPPUCCINIS,TN13 1DS,51.2714,0.1922
 EPHESUS RESTAURANT,TN13 1JF,51.2693,0.1931
 Branded two ltd ta Branded Sevenoaks,TN13 1JY,51.2695,0.1929
 The Chequers,TN13 1LD,51.2725,0.1900
 Malabar Coffee House,TN13 1LE,51.2705,0.1927
 Subway,TN13 1LH,51.2708,0.1926
-Giggling Squid,TN13 1LL,51.2709,0.1921
 Soprano,TN13 1LL,51.2709,0.1921
 Hive,TN13 1UN,51.2712,0.1917
 The Oak,TN13 1UP,51.2716,0.1924
 Basil Sevenoaks Bank Street,TN13 1UW,51.2711,0.1918
-Caffe Nero,TN13 1UZ,51.2712,0.1928
+The Sennockian Sevenoaks (Wetherspoon),TN13 1UX,51.2725,0.1926
 Life On High ,TN13 1XE,51.2731,0.1930
-Pizza Express,TN13 1XE,51.2727,0.1929
-Wagamama,TN13 1XE,51.2731,0.1930
 The Stag Cinema ,TN13 1ZZ,51.2701,0.1920
 Longhouse Sevenoaks ,TN13 2BU,51.2848,0.1697
 Malabar Coffee House,TN13 2DE,51.2859,0.1693
-Miller & Carter Steakhouse,TN13 2EN,51.2830,0.1708
 The Kings Head,TN13 2PT,51.2789,0.1581
-Costa Coffee,TN13 2QS,51.2898,0.1647
+Costa Coffee,TN13 2QS,51.2886,0.1655
 George & Dragon  Chipstead,TN13 2RW,51.2846,0.1536
 The Bricklayers Arms,TN13 2RZ,51.2856,0.1484
 Principals By CH&Co @ Chevening St Botolphs CEVA School,TN13 2SA,51.2880,0.1466
 Donnington Manor Hotel,TN13 2TD,51.3010,0.1607
 Bojangles coffee house,TN13 2UT,51.2945,0.1668
 The Taj Restaurant,TN13 2UT,51.2945,0.1667
+Thyme,TN13 3BE,51.2777,0.1830
 Principals By CH&Co @ Lady Boswell C Of E Primary School,TN13 3RW,51.2741,0.1949
 Lingalonga Limited T/A Rafferty’s Café ,TN13 3TL,51.2814,0.1947
 FAIRDINE LTD ,TN13 3UE,51.2816,0.1965
 Principals By CH&Co @ St Johns C Of E Primary School,TN13 3XD,51.2814,0.2003
+McDonald's,TN14 5EG,51.2990,0.1927
 McDonalds,TN14 5EG,51.2957,0.1920
-McDonalds,TN14 5EZ,51.3010,0.1929
 WILLOW C  ,TN14 5PQ,51.3133,0.1890
 Coblands Garden Centre,TN14 6AA,51.2738,0.1426
 Principals By CH&Co @ Sundridge And Brasted CP School,TN14 6EA,51.2747,0.1271
@@ -332,15 +326,16 @@ The Green Man,TN15 7LE,51.3427,0.3329
 The Black Horse Stansted ,TN15 7PR,51.3330,0.3044
 The Bull Hotel,TN15 7RF,51.3087,0.3125
 HOLIDAY INN MAIDSTONE SEVENOAKS,TN15 7RS,51.3007,0.3385
+Beefeater Royal Oak,TN15 7RX,51.2978,0.3422
 ming restaurant,TN15 7RX,51.2978,0.3425
 COSTA COFFEE - BOROUGH GREEN,TN15 8BX,51.2925,0.3063
-Costa Coffee,TN15 8BX,51.2925,0.3063
+Costa Coffee,TN15 8BX,51.2926,0.3064
 Great Comp Garden Old Dairy tearoom,TN15 8QS,51.2866,0.3388
 Perfetto Restaurant,TN15 9AQ,51.2873,0.2817
 T N Leisure ltd,TN15 9HH,51.2868,0.2859
 Sicilly restaurant ,TN16 1AN,51.2669,0.0715
 Rendezvous Brasserie Limited,TN16 1AR,51.2673,0.0704
-Costa Coffee,TN16 1AS,51.2673,0.0726
+Costa Coffee,TN16 1AS,51.2672,0.0719
 GRASSHOPPER ON THE GREEN LTD,TN16 1AS,51.2673,0.0726
 Tudor Rose,TN16 1AS,51.2673,0.0726
 La Luna Restaurant ,TN16 1BD,51.2674,0.0718
@@ -349,11 +344,8 @@ Squerryes Winery,TN16 1QP,51.2764,0.0870
 The Courtyard,TN16 1RA,51.2667,0.0698
 The Bakery Bar and Restaurant ,TN16 2AG,51.2935,0.0247
 PARK WOOD GOLF CLUB,TN16 2EG,51.2889,0.0506
-Costa Coffee (South),TN16 2ER,51.2710,0.0398
-Costa Coffee,TN16 2ER,51.2710,0.0398
-McDonalds (North),TN16 2ER,51.2710,0.0398
-McDonalds (South),TN16 2ER,51.2710,0.0398
-Pret a Manger,TN16 2ER,51.2710,0.0398
+Costa Coffee,TN16 2ER,51.2711,0.0398
+McDonald's,TN16 2ER,51.2711,0.0398
 Spar - Roadchef Motorways Limited,TN16 2ER,51.2710,0.0398
 Cherry Lodge Golf Club,TN16 3AX,51.3149,0.0523
 spitfire cafe ltd,TN16 3BA,51.3103,0.0356
@@ -364,7 +356,6 @@ BLACK HORSE ,TN16 3DX,51.3151,0.0337
 Nightingale Cafe,TN16 3EJ,51.3270,0.0234
 Longhouse Edenbridge Ltd,TN8 5AD,51.1974,0.0649
 COSTA COFFEE   EDENBRIDGE,TN8 5AJ,51.1972,0.0644
-Costa Coffee,TN8 5AJ,51.1972,0.0644
 The Minstrel,TN8 5AR,51.1956,0.0651
 KING & QUEEN EDENBRIDGE,TN8 5AU,51.1953,0.0657
 The Old Eden,TN8 5AX,51.1938,0.0661
@@ -378,22 +369,21 @@ King Henry VIII Inn,TN8 7NH,51.1835,0.1110
 Principals By CH&Co @ Hever C Of E Primary School,TN8 7NH,51.1835,0.1110
 Hever Castle Golf Club Limited,TN8 7NP,51.1987,0.1135
 The Wheatsheaf,TN8 7NU,51.2013,0.1281
-KFC,TN9 1AP,51.1951,0.2743
+KFC,TN9 1AP,51.1953,0.2746
+The Humphrey Bean Tonbridge (Wetherspoon),TN9 1AP,51.1951,0.2744
 oriental buffet club,TN9 1AP,51.1951,0.2743
 Havet Restaurant,TN9 1BB,51.1972,0.2751
 Ivy House ,TN9 1BW,51.1995,0.2764
 Ela Bella ,TN9 1BX,51.1983,0.2759
 Alishan Restaurant ,TN9 1DH,51.1973,0.2756
-Pizza Express,TN9 1DR,51.1956,0.2754
-Starbucks,TN9 1EE,51.1945,0.2737
 Basil Tonbridge High Street,TN9 1EJ,51.1931,0.2723
 Ian Chatfield Butchers & Deli,TN9 1EJ,51.1931,0.2723
 Kathmandu Valley Sevenoaks Ltd,TN9 1EJ,51.1931,0.2723
 Subway  Cannon Lane  Tonbridge,TN9 1FT,51.1959,0.2826
+Costa Coffee,TN9 1PN,51.1965,0.2821
+McDonald's,TN9 1PP,51.1971,0.2841
 McDonald's,TN9 1PP,51.1971,0.2851
-McDonalds,TN9 1PP,51.1971,0.2851
 FirstPort - Castle Court,TN9 1QU,51.2000,0.2814
-Cafe Nero,TN9 1SG,51.1926,0.2725
 Finch House Cafe and Bakery,TN9 1TE,51.1928,0.2731
 OUYUE LTD,TN9 1TJ,51.1934,0.2736
 Paws Cat Cafe Limited,TN9 1TJ,51.1934,0.2736

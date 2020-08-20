@@ -1,6 +1,6 @@
 name,postcode,lat,lon
 Vaqueiros Brazilian Rodizio,YO1 1JG,53.9575,-1.0854
-Costa Coffee,YO1 2SJ,53.9589,-1.0820
+Costa Coffee,YO1 2SJ,53.9589,-1.0822
 AB travel inn,YO1 6DA,53.9575,-1.0849
 L’uva vino e cucina ,YO1 6DD,53.9572,-1.0847
 Middletons,YO1 6DS,53.9552,-1.0836
@@ -11,8 +11,6 @@ Park Inn by Radisson York,YO1 6JF,53.9584,-1.0854
 Fortyfive Vinyl Cafe,YO1 6JH,53.9571,-1.0861
 ALAN(YORK)LIMITED T/A RED CHILLI YORK RESTAURANT,YO1 6JL,53.9580,-1.0872
 Karoo Bar & Kitchen,YO1 6JL,53.9580,-1.0872
-Baxterstorey - Network Rail  York,YO1 6JT,53.9570,-1.0903
-Brewdog,YO1 6JX,53.9566,-1.0903
 Fish&Forest,YO1 6JX,53.9565,-1.0903
 Partisan,YO1 6JX,53.9566,-1.0903
 Safestay York,YO1 6JX,53.9566,-1.0903
@@ -26,18 +24,16 @@ Regency Restaurant,YO1 6LP,53.9579,-1.0866
 Sushi Waka,YO1 6LP,53.9579,-1.0866
 The Orchid Vegan Restaurant,YO1 6LP,53.9580,-1.0868
 Hungate Reading Cafe,YO1 7AF,53.9586,-1.0764
-Pizza Express,YO1 7DJ,53.9604,-1.0864
 Baileys Cafe & Tea Rooms,YO1 7DT,53.9609,-1.0858
 Bakeshop by Brew & Brownie ,YO1 7DT,53.9610,-1.0856
 Brew & Brownie,YO1 7DT,53.9609,-1.0858
-Costa Coffee,YO1 7DT,53.9609,-1.0858
+Costa Coffee,YO1 7DT,53.9607,-1.0860
 BENNETTS,YO1 7EH,53.9624,-1.0844
 Lamb & Lion Inn,YO1 7EH,53.9624,-1.0844
 Eagle and Child,YO1 7EN,53.9624,-1.0847
 Bean & Gone Coffee Limited,YO1 7EW,53.9622,-1.0851
 Sketch by Origin,YO1 7EW,53.9622,-1.0851
 Guy Fawkes Inn,YO1 7HP,53.9616,-1.0830
-Five Guys,YO1 7HT,53.9613,-1.0822
 Betty & Derek Ltd t/a 1331,YO1 7HU,53.9609,-1.0821
 El Piano Ltd  T/A Los Moros,YO1 7HU,53.9609,-1.0821
 Drake's Fisheries,YO1 7HY,53.9607,-1.0812
@@ -62,7 +58,6 @@ Cafe Luca,YO1 7LS,53.9612,-1.0796
 Coffee Culture,YO1 7LS,53.9612,-1.0796
 Fancy Hank's Bar & Kitchen,YO1 7LS,53.9612,-1.0796
 LA PIAZZA (YORK) LTD,YO1 7LS,53.9612,-1.0796
-Wagamama,YO1 7LS,53.9612,-1.0796
 Yak and yeti Gurkha Restaurant ,YO1 7LS,53.9612,-1.0796
 Yakamoz ,YO1 7LS,53.9612,-1.0796
 caesars italian restaurant,YO1 7LS,53.9612,-1.0796
@@ -78,7 +73,6 @@ The Flax & Twine,YO1 7LZ,53.9595,-1.0800
 Supersonic Cafe,YO1 7NP,53.9593,-1.0781
 Black Swan,YO1 7PR,53.9604,-1.0750
 Trembling Madness Lendal Ltd,YO1 8AA,53.9603,-1.0857
-Zizzi,YO1 8AA,53.9603,-1.0860
 rustique Lendal,YO1 8AA,53.9603,-1.0860
 Lucia Restaurant ,YO1 8AJ,53.9608,-1.0816
 Mannetti's Ltd,YO1 8AQ,53.9604,-1.0852
@@ -88,7 +82,6 @@ Spring Espresso Ltd (Lendal) ,YO1 8AQ,53.9604,-1.0852
 The Judge's Lodging,YO1 8AQ,53.9604,-1.0852
 Zaap Thai Street Food,YO1 8AQ,53.9604,-1.0852
 The Printer's Apprentice,YO1 8AR,53.9610,-1.0827
-Bettys Stonegate,YO1 8AS,53.9610,-1.0835
 Plush Cafe,YO1 8AS,53.9610,-1.0835
 The York Roast Co,YO1 8AS,53.9610,-1.0835
 Trembling Madness Ltd,YO1 8AS,53.9610,-1.0835
@@ -96,8 +89,6 @@ Gusto Italian,YO1 8AX,53.9605,-1.0829
 Kennedy's Bar & Restaurant,YO1 8AX,53.9605,-1.0830
 Manahatta  York,YO1 8AX,53.9605,-1.0830
 Sotano Limited,YO1 8AX,53.9605,-1.0830
-Stonegate Yard Bar & Brasserie,YO1 8AX,53.9605,-1.0830
-Turtle Bay Restaurants,YO1 8AX,53.9605,-1.0830
 Coto Kitchen,YO1 8AZ,53.9602,-1.0817
 D'Vine Restaurant and Social Bar,YO1 8AZ,53.9604,-1.0816
 Oscars wine bar and bistro,YO1 8AZ,53.9603,-1.0815
@@ -110,19 +101,17 @@ HUMPIT,YO1 8BE,53.9601,-1.0807
 JORVIK Doner House,YO1 8BE,53.9600,-1.0808
 Double Dutch Pancake House Ltd,YO1 8BG,53.9602,-1.0810
 Cafe Harlequin,YO1 8BH,53.9604,-1.0802
-Caffe Nero,YO1 8BH,53.9604,-1.0802
 Duke of York,YO1 8BH,53.9604,-1.0802
 Chloes of York,YO1 8BN,53.9600,-1.0797
 The Cornish Bakery,YO1 8BN,53.9600,-1.0797
+Costa Coffee,YO1 8HE,53.9706,-1.0836
+McDonald's,YO1 8QG,53.9607,-1.0847
 McDonalds Blake Street,YO1 8QG,53.9607,-1.0849
-McDonalds Restaurants Ltd,YO1 8QG,53.9607,-1.0849
 Ippuku Tea House,YO1 8QJ,53.9608,-1.0844
 The Larder Club,YO1 8QJ,53.9608,-1.0844
 Bettys York,YO1 8QP,53.9600,-1.0842
 W P Brown Ltd,YO1 8QT,53.9598,-1.0827
 bluefly t/a the drawingboard york,YO1 8RA,53.9595,-1.0834
-Caffe Nero,YO1 8RJ,53.9596,-1.0830
-Pizza Express,YO1 8RN,53.9599,-1.0816
 The Cut & Craft,YO1 8RN,53.9601,-1.0821
 Krep,YO1 8RR,53.9596,-1.0815
 wme cafe,YO1 8RR,53.9596,-1.0815
@@ -130,25 +119,21 @@ Dough Eyed,YO1 8RT,53.9592,-1.0810
 Gert & Henry's,YO1 8RT,53.9593,-1.0810
 Market Cat,YO1 8RT,53.9593,-1.0810
 LUCKY DAYS,YO1 8RU,53.9590,-1.0808
-Pret a Manger,YO1 8RU,53.9590,-1.0808
 Victor J's bar,YO1 8RW,53.9601,-1.0819
 Doghouse York,YO1 8RY,53.9594,-1.0812
 Nukkad Indian Street Food,YO1 8RY,53.9594,-1.0812
 The Dark Horse Espresso Bar ,YO1 8RY,53.9594,-1.0812
 The Taylor Made Kitchen ,YO1 8RY,53.9594,-1.0812
 Ate O'Clock Restaurant,YO1 8RZ,53.9582,-1.0815
-Costa Coffee,YO1 8RZ,53.9582,-1.0815
-Nando's,YO1 8RZ,53.9582,-1.0815
+Costa Coffee,YO1 8RZ,53.9583,-1.0810
+Nando's,YO1 8RZ,53.9583,-1.0814
 AB travel inn,YO1 8SH,53.9589,-1.0825
-Patisserie Valerie,YO1 8SH,53.9589,-1.0825
-Starbucks Coffee Company (UK) Limited,YO1 9NA,53.9597,-1.0842
 Starbucks York Coney Street,YO1 9NA,53.9597,-1.0842
 Drift-In York,YO1 9NP,53.9577,-1.0819
 THREE TUNS,YO1 9NR,53.9577,-1.0809
-Caffe Nero,YO1 9NT,53.9576,-1.0801
-Patisserie Valerie,YO1 9NT,53.9576,-1.0801
 Cresci Pizzeria,YO1 9NU,53.9579,-1.0798
 Pavement Vaults,YO1 9NU,53.9580,-1.0799
+The Postern Gate York (Wetherspoon),YO1 9NX,53.9547,-1.0770
 Dogs Nose Taqueria ,YO1 9PB,53.9580,-1.0795
 Doner Summer,YO1 9PB,53.9568,-1.0775
 RAD PIZZA SHOP LTD,YO1 9PB,53.9568,-1.0775
@@ -158,7 +143,6 @@ Sloppys burgers ,YO1 9PB,53.9568,-1.0775
 Spark York,YO1 9PB,53.9580,-1.0795
 Tricoloryork,YO1 9PB,53.9580,-1.0795
 BELLS OF YORK,YO1 9QU,53.9578,-1.0832
-Prezzo,YO1 9RG,53.9568,-1.0815
 31 Castlegate,YO1 9RN,53.9573,-1.0807
 BLUE BOAR,YO1 9RN,53.9573,-1.0807
 Burgsy’s Burger House,YO1 9RN,53.9573,-1.0807
@@ -194,12 +178,10 @@ Chopping Block at Walmgate Ale House,YO1 9TX,53.9571,-1.0771
 Le Cochon Aveugle,YO1 9TX,53.9572,-1.0771
 Shiitakeya,YO1 9TX,53.9572,-1.0771
 The Press Kitchen,YO1 9TY,53.9566,-1.0752
-Pizza Hut Restaurant,YO1 9UP,53.9587,-1.0794
 Hilton York,YO1 9WD,53.9565,-1.0805
 Merchants' Coffee House,YO1 9XD,53.9580,-1.0788
 millfield munchies,YO10 3AP,53.9562,-1.0488
 Rose & Crown,YO10 3BP,53.9550,-1.0692
-A1 Moto,YO10 3BU,53.9547,-1.0667
 LAHORE'S ,YO10 3BX,53.9544,-1.0670
 Bamboo Thai Restaurant and Takeaway,YO10 3JL,53.9546,-1.0605
 Pizza Hut,YO10 3JW,53.9543,-1.0584
@@ -224,18 +206,12 @@ Jolly Farmers Inn,YO17 9SA,54.0574,-0.8017
 The Blacksmiths Arms,YO19 4PN,53.9024,-1.0910
 Waterfront Cafe York Marina,YO19 4RW,53.9075,-1.0875
 Bagel Nash York Designer Outlet,YO19 4TA,53.9222,-1.0775
-Caffe Nero,YO19 4TA,53.9222,-1.0775
+McDonald's,YO19 4TA,53.9219,-1.0775
 McDonalds Designer Outlet,YO19 4TA,53.9222,-1.0775
-McDonalds Restaurants Ltd,YO19 4TA,53.9222,-1.0775
-Patisserie Valerie,YO19 4TA,53.9222,-1.0775
-Pizza Express,YO19 4TA,53.9222,-1.0775
 Pizza Hut,YO19 4TA,53.9222,-1.0775
-Pret a Manger,YO19 4TA,53.9222,-1.0775
-Starbucks Coffee Company (UK) Limited,YO19 4TA,53.9222,-1.0775
 Starbucks McArthur Glen,YO19 4TA,53.9222,-1.0775
 Subway,YO19 4TA,53.9222,-1.0775
 The Fishermans fourth wife ltd,YO19 4TA,53.9222,-1.0775
-Wagamama,YO19 4TA,53.9222,-1.0775
 YORK AUCTION CENTRE CAFE,YO19 5GF,53.9601,-1.0085
 Twine and Barrel,YO19 5LP,53.9554,-0.9755
 The Cross Keys,YO19 5NG,53.9642,-0.9781
@@ -259,22 +235,18 @@ The Royal Oak,YO23 3ST,53.9137,-1.1418
 SOL AST - THOR'S BARS LIMITED,YO24 1AA,53.9587,-1.0922
 Blossom Cafe,YO24 1AJ,53.9549,-1.0931
 Everyman,YO24 1AJ,53.9549,-1.0931
+Table Table The Longboat,YO24 1AJ,53.9549,-1.0926
 Lo Spuntino,YO24 1AP,53.9543,-1.0938
 The Bar Convent Cafe,YO24 1AQ,53.9549,-1.0918
 VALENTINOS YORK,YO24 1AR,53.9537,-1.0947
+The Punch Bowl York (Wetherspoon),YO24 1AU,53.9556,-1.0910
 Hotel Du Vin York,YO24 1AX,53.9531,-1.0945
-Burger King Limited,YO24 1AY,53.9583,-1.0930
-Costa Coffee - Old Signal Box,YO24 1AY,53.9583,-1.0930
-Costa Coffee - Platform 8,YO24 1AY,53.9583,-1.0930
-Starbucks Coffee Company (UK) Limited,YO24 1AY,53.9583,-1.0930
 KFC YORK 02002,YO24 1AZ,53.9542,-1.0931
-KFC,YO24 1AZ,53.9542,-1.0931
 The Bay Horse,YO24 1AZ,53.9542,-1.0931
 Elmbank Hotel,YO24 1GE,53.9510,-1.0986
 TOWN COFFEE HOUSE,YO24 3BJ,53.9553,-1.1252
 Wilson Vale Catering at The Mount School,YO24 4DD,53.9524,-1.0977
 The Carlton Tavern,YO24 4HA,53.9559,-1.1165
-Baxterstorey,YO26 4AB,53.9561,-1.0972
 GEAR4MUSIC LIMITED,YO26 4GN,53.9589,-1.1084
 Leeman Hotel/Cafe Leemo,YO26 4YE,53.9630,-1.1075
 Indian Ocean,YO26 5LL,53.9555,-1.1305
@@ -287,24 +259,25 @@ LORD COLLINGWOOD,YO26 6DP,53.9796,-1.1540
 The Lemon Tree,YO26 6HN,53.9854,-1.1487
 The Poppleton Social,YO26 6JT,53.9838,-1.1556
 The Red Lion,YO26 6PR,53.9756,-1.1624
+McDonald's,YO26 6QD,53.9716,-1.1436
 McDonalds Poppleton,YO26 6QD,53.9717,-1.1429
-McDonalds Restaurants Ltd,YO26 6QD,53.9717,-1.1429
 Luigi's Restaurant,YO26 6QF,53.9690,-1.1484
 Agility,YO26 6QY,53.9749,-1.1344
 Maxi's (York) Limited,YO26 6RA,53.9798,-1.1334
 Wetherby Whaler,YO26 6RA,53.9798,-1.1334
+Beefeater The Millfield,YO26 6RL,53.9803,-1.1329
+KFC,YO3 2AZ,53.9544,-1.0928
 The Dawnay Arms,YO30 1AB,54.0211,-1.1580
 Mollie Coates Skelton Nurseries Ltd,YO30 1XW,53.9958,-1.1333
 The Mulan LTD,YO30 4WL,53.9856,-1.1013
 KFC CLIFTON MOOR 02035,YO30 4WZ,53.9930,-1.0976
+KFC,YO30 4WZ,53.9920,-1.1064
 Brunch Cafe & Sandwich Bar ,YO30 4XA,53.9892,-1.0934
 Subway,YO30 4XF,53.9875,-1.0996
+McDonald's,YO30 4XU,53.9916,-1.1095
 McDonalds Clifton Moor,YO30 4XU,53.9903,-1.1104
-McDonalds Restaurants Ltd,YO30 4XU,53.9903,-1.1104
-Burger King Limited,YO30 4XZ,53.9916,-1.1028
-Dunelm Mill Shop,YO30 4XZ,53.9916,-1.1028
-KFC,YO30 4XZ,53.9916,-1.1028
-Tenpin,YO30 4XZ,53.9916,-1.1028
+Costa Coffee,YO30 4XZ,53.9924,-1.1044
+Breakfast Room,YO30 5PA,53.9759,-1.1100
 York Sports Club,YO30 5RE,53.9725,-1.1041
 The Grange Hotel,YO30 6AA,53.9659,-1.0914
 Marmadukes Hotel,YO30 6AQ,53.9678,-1.0913
@@ -323,9 +296,7 @@ MAMMA MIA RESTAURANT LTD,YO31 7EQ,53.9640,-1.0840
 osbornes of york limited,YO31 7EQ,53.9640,-1.0840
 YORK LAGOON LIMITED,YO31 7EW,53.9670,-1.0821
 VICEROY OF INDIA (YORK) LIMITED,YO31 7PF,53.9639,-1.0758
-Starbucks,YO31 7UL,53.9568,-1.0699
 bean on the green,YO31 7YB,53.9655,-1.0653
-Costa Coffee,YO31 8HE,53.9706,-1.0837
 Jaipur Spice,YO31 8JS,53.9701,-1.0798
 Red Lion Haxby,YO32 2HX,54.0169,-1.0770
 Millers Fish & Chips,YO32 2JE,54.0167,-1.0787
@@ -337,18 +308,13 @@ Willow farm cafe ltd,YO32 2RH,54.0031,-1.0896
 The Parvin Indian Restaurant,YO32 3HB,54.0057,-1.0736
 Janna Spice,YO32 3HS,54.0163,-1.0742
 Janna spice ,YO32 3HS,54.0163,-1.0742
+Costa Coffee,YO32 3SA,54.0160,-1.0730
 Costa Coffee,YO32 3SA,54.0160,-1.0733
 the ship,YO32 5XS,54.0399,-1.0362
-Caffe Nero,YO32 9AE,53.9835,-1.0493
-Costa Coffee,YO32 9AE,53.9835,-1.0493
+Costa Coffee,YO32 9AE,53.9830,-1.0511
 Estabulo Bar & Grill,YO32 9AE,53.9835,-1.0493
-Nandos,YO32 9AE,53.9835,-1.0493
-Prezzo,YO32 9AE,53.9835,-1.0494
-Starbucks,YO32 9AF,53.9840,-1.0523
-McDonalds Restaurants Ltd,YO32 9GW,53.9887,-1.0492
-Costa Coffee,YO32 9GX,53.9886,-1.0453
-Pizza Hut Restaurant,YO32 9GX,53.9886,-1.0453
-Starbucks Coffee Company (UK) Limited,YO32 9GX,53.9886,-1.0453
+McDonald's,YO32 9GW,53.9889,-1.0489
+Costa Coffee,YO32 9GX,53.9875,-1.0472
 Starbucks Monks Cross,YO32 9GX,53.9886,-1.0453
 McDonalds Monk Cross,YO32 9GZ,53.9896,-1.0477
 Taco Bell,YO32 9GZ,53.9895,-1.0477
@@ -371,8 +337,7 @@ The Oddfellows Arms,YO41 5NN,53.9488,-0.8898
 Thai Season By Pritsana,YO41 5PF,53.9363,-0.8570
 Carpenters Arms,YO41 5QG,53.9684,-0.8349
 Bakery Pocklington Services,YO42 1AD,53.9204,-0.7957
-Pocklington KFC,YO42 1AD,53.9207,-0.7961
-Starbucks,YO42 1AD,53.9204,-0.7957
+KFC,YO42 1AD,53.9205,-0.7954
 Subway Pocklington Services,YO42 1AD,53.9204,-0.7957
 Mr Chu The Plough Inn Hayton,YO42 1RJ,53.9006,-0.7522
 The Fleece Inn,YO42 1RU,53.9844,-0.7876
@@ -381,7 +346,7 @@ The Wolds Ltd,YO42 2AG,53.9312,-0.7786
 The Feathers Hotel,YO42 2AH,53.9309,-0.7777
 Sonali Pocklington,YO42 2AJ,53.9308,-0.7774
 Pane e Vino (Pocklington) Ltd,YO42 2AR,53.9303,-0.7784
-Costa Coffee,YO42 2AS,53.9304,-0.7792
+Costa Coffee,YO42 2AS,53.9305,-0.7789
 Market Tap,YO42 2AS,53.9304,-0.7792
 Woody's Cookhouse,YO42 2AS,53.9304,-0.7792
 The Station Hotel,YO42 2AU,53.9304,-0.7802

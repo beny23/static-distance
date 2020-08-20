@@ -2,7 +2,6 @@ name,postcode,lat,lon
 The Dory Bistro & Gallery,KY10 2NH,56.2129,-2.7278
 West End Bar,KY10 2QB,56.2136,-2.7319
 The Anstruther Boathouse,KY10 3AQ,56.2225,-2.6983
-The Haven Bar And Restaurant,KY10 3BD,56.2259,-2.6832
 Cake Lab,KY10 3DF,56.2236,-2.7009
 Dreel Tavern,KY10 3DL,56.2222,-2.7056
 1B Westport ,KY15 4AN,56.3188,-3.0192
@@ -27,6 +26,7 @@ St Michaels Golf Club,KY16 0DX,56.3895,-2.8975
 Commercial Arms,KY16 0HE,56.3822,-2.8866
 Eden Coffee Shop ( Malcolm Antiques),KY16 0UD,56.3600,-2.8769
 The Garden Room at Rufflets,KY16 8EF,56.3318,-2.7975
+Thyme,KY16 8NH,56.3320,-2.8046
 Duke’s Clubhouse,KY16 8NS,56.3252,-2.8353
 Scotland's Secret Bunker,KY16 8QH,56.2737,-2.7127
 Maisha ,KY16 9AA,56.3409,-2.7949
@@ -48,29 +48,24 @@ The Cottage Kitchen,KY16 9NL,56.3400,-2.7964
 CAFE IN THE SQUARE ,KY16 9NN,56.3400,-2.7958
 Tulsi,KY16 9NT,56.3404,-2.7935
 CombiniCafé,KY16 9NU,56.3402,-2.7945
-Nando's,KY16 9NU,56.3402,-2.7945
 Blackhorn,KY16 9NW,56.3400,-2.7949
-Costa Coffee,KY16 9NX,56.3407,-2.7959
-Pret A Manger,KY16 9NX,56.3407,-2.7959
+Costa Coffee,KY16 9NX,56.3405,-2.7954
+Pret A Manger,KY16 9NX,56.3406,-2.7966
 Dr Noodles,KY16 9PA,56.3402,-2.7958
 JA Fife Ltd T/A Subway,KY16 9PA,56.3402,-2.7958
 Forgan's Restaurant,KY16 9PB,56.3402,-2.7968
 Mitchell's St Andrews,KY16 9PB,56.3402,-2.7968
 TAILEND RESTAURANT (ST ANDREWS) LIMITED,KY16 9PD,56.3401,-2.7976
-Starbucks Coffee Shop,KY16 9PE,56.3406,-2.7971
 Jahangir Balti and Tandoori Restaurant,KY16 9QD,56.3390,-2.7967
 CombiniCo ,KY16 9QW,56.3398,-2.7942
 The Criterion,KY16 9QW,56.3398,-2.7942
 Zest Cafe,KY16 9QW,56.3398,-2.7942
-Zizzi's,KY16 9QW,56.3398,-2.7942
 The Tavern at Strathkinness,KY16 9RS,56.3368,-2.8781
 Private Dining  Old Course Hotel,KY16 9SP,56.3441,-2.8112
 The Road Hole Restaurant,KY16 9SP,56.3441,-2.8112
 Next Door,KY16 9UH,56.3397,-2.7966
-Pizza Express,KY16 9UH,56.3397,-2.7968
 The Adamson restaurant and bar ,KY16 9UH,56.3397,-2.7968
 the vineleaf restaurant,KY16 9UN,56.3395,-2.7974
-Prezzo,KY16 9UP,56.3395,-2.7981
 Gorgeous St Andrews,KY16 9UR,56.3398,-2.7985
 MOZZA RESTAURANT,KY16 9UR,56.3398,-2.7985
 Aikman's Bar-Bistro,KY16 9UX,56.3396,-2.7988

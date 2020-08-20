@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 The Belmont,DH1 1BJ,54.7859,-1.5310
+Beefeater Broomside Park,DH1 1GG,54.7868,-1.5426
 Infinite Air Cafe,DH1 1GG,54.7884,-1.5425
 Lickety Split,DH1 1GG,54.7884,-1.5425
 La Piazza Durham Ltd,DH1 1LJ,54.7792,-1.5627
@@ -10,21 +11,20 @@ Ajiwai,DH1 1RG,54.7780,-1.5734
 The Drunken Duck ,DH1 1RG,54.7778,-1.5739
 Tia's Mexican,DH1 1RG,54.7778,-1.5739
 Co Ho,DH1 1SL,54.7795,-1.5762
-ASK Italian,DH1 1SQ,54.7780,-1.5763
-Nandos,DH1 1SQ,54.7780,-1.5763
+Nando's,DH1 1SQ,54.7783,-1.5757
+Thyme,DH1 1SQ,54.7785,-1.5760
 ebony champagne and cocktail bar ,DH1 1SQ,54.7780,-1.5763
 Ramside Golf Club,DH1 1TD,54.7952,-1.5150
 Ramside Hall Hotel,DH1 1TD,54.7952,-1.5150
 SPA at Ramside,DH1 1TD,54.7952,-1.5150
 Chapter Two,DH1 1TH,54.7895,-1.5378
+The Bishops Mill Durham (Wetherspoon),DH1 1WA,54.7783,-1.5757
 The Coffee House ,DH1 1WA,54.7780,-1.5746
 Apollo Bingo Durham,DH1 2EP,54.7764,-1.5433
 SUBWAY,DH1 2HN,54.7823,-1.5386
 The Queens Head,DH1 2JR,54.7787,-1.5547
 Treats2go,DH1 2LH,54.7790,-1.5550
-Cafe Pausa at Dunelm,DH1 2RP,54.7808,-1.5370
-KFC,DH1 2RP,54.7808,-1.5370
-Pizza Hut Restaurant,DH1 2RP,54.7808,-1.5370
+KFC,DH1 2RP,54.7810,-1.5376
 KFC,DH1 2RS,54.7801,-1.5348
 Zest Kitchen,DH1 2RS,54.7801,-1.5348
 Leazes Ltd,DH1 3AA,54.7763,-1.5743
@@ -34,7 +34,6 @@ Tango,DH1 3AG,54.7757,-1.5728
 Tealicious Tearoom Limited,DH1 3AG,54.7757,-1.5728
 Zaps Burrito Bar,DH1 3AG,54.7756,-1.5723
 Cafedral,DH1 3HB,54.7752,-1.5751
-Dunelm Club,DH1 3HN,54.7752,-1.5690
 GJK (Durham) Ltd T/A Bells Fish & Chips,DH1 3NE,54.7767,-1.5758
 Spice Lounge Durham,DH1 3NJ,54.7772,-1.5760
 cafe cenno,DH1 3NJ,54.7772,-1.5760
@@ -42,28 +41,23 @@ La Spaghettata,DH1 3NP,54.7761,-1.5753
 Fat Hippo Durham,DH1 3NU,54.7758,-1.5745
 Flat White Durham Limited,DH1 3NU,54.7759,-1.5746
 The cellar door,DH1 3NU,54.7758,-1.5745
-Zizzi,DH1 3NU,54.7758,-1.5745
 hatters,DH1 3NU,54.7759,-1.5746
-Pizza Express,DH1 3PG,54.7760,-1.5753
 Leonard’s Coffee House ,DH1 3RA,54.7768,-1.5772
 OiSaki Kitchen,DH1 3RB,54.7760,-1.5770
 Riverview kitchen ,DH1 3RB,54.7760,-1.5770
 Akarsu Turkish Restaurant & Grill Ltd,DH1 3RD,54.7764,-1.5769
-Caffe Nero,DH1 3RD,54.7764,-1.5769
 Coviello Coffee&Barber ,DH1 3RD,54.7761,-1.5772
 ESQUIRES COFFEE HOUSES DURHAM,DH1 3RD,54.7764,-1.5769
 Sweet treat Durham ltd,DH1 3RD,54.7764,-1.5769
 Uno momento,DH1 3RD,54.7764,-1.5769
-Costa Coffee,DH1 3UJ,54.7772,-1.5743
+Costa Coffee,DH1 3UJ,54.7766,-1.5744
 TJ Hughes Durham,DH1 3UJ,54.7770,-1.5741
 AB travel inn ,DH1 3UL,54.7767,-1.5744
-Patisserie Valerie,DH1 3UL,54.7768,-1.5744
 Kingslodge Inn,DH1 4BG,54.7781,-1.5866
 Garden House Inn,DH1 4NQ,54.7831,-1.5857
 The Fighting Cocks,DH1 4PP,54.7759,-1.5790
 Nadon Thai Durham,DH1 4PR,54.7762,-1.5802
-Starbucks Coffee,DH1 4PW,54.7760,-1.5786
-Costa Coffee,DH1 4RB,54.7791,-1.5817
+Costa Coffee,DH1 4RB,54.7798,-1.5819
 The Head of Steam,DH1 4RZ,54.7770,-1.5801
 Bean Social,DH1 4SF,54.7777,-1.5819
 NORTH ROAD INDIAN LIMITED,DH1 4SF,54.7778,-1.5820
@@ -82,13 +76,15 @@ Thai River Restaurant,DH1 4SL,54.7768,-1.5789
 The Food Pit,DH1 4SL,54.7768,-1.5789
 CLX LTD ,DH1 4SP,54.7765,-1.5792
 Green Machine CBD Durham Ltd,DH1 4SQ,54.7771,-1.5806
+The Water House Durham (Wetherspoon),DH1 4SQ,54.7773,-1.5810
 Whispers coffee lounge,DH1 4SQ,54.7771,-1.5807
 La Spada Ristorante ,DH1 5DE,54.8052,-1.5880
+KFC,DH1 5DG,54.8062,-1.5783
 Millennium Restaurant,DH1 5EE,54.7965,-1.5906
-Costa Coffee,DH1 5GB,54.8068,-1.5818
-Dunelm Ridge Brewers Fayre,DH1 5GB,54.8068,-1.5818
-McDonalds,DH1 5GB,54.8068,-1.5818
+Brewers Fayre Dunelm Ridge,DH1 5GB,54.8070,-1.5858
+Costa Coffee,DH1 5GB,54.8081,-1.5814
 subway,DH1 5GB,54.8068,-1.5818
+McDonald's,DH1 5GD,54.8082,-1.5800
 KFC,DH1 5GF,54.8057,-1.5791
 The Kitchen,DH1 5LX,54.7993,-1.5763
 GJK (Durham) Ltd T/A Bells Fish & Chips,DH1 5RW,54.8035,-1.5796
@@ -105,13 +101,12 @@ The Bowes Incline,DH3 1RF,54.9085,-1.5697
 The Board Inn,DH3 2JL,54.8899,-1.5610
 Ala Turka Turkish Cuisine,DH3 2PF,54.8933,-1.5770
 RAILWAY ,DH3 2PQ,54.8959,-1.5774
-Burger King,DH3 2SJ,54.8893,-1.5599
-Costa Coffee,DH3 2SJ,54.8893,-1.5599
 Fabios Restaurant,DH3 3AX,54.8526,-1.5735
+The Wicket Gate ChesterleStreet (Wetherspoon),DH3 3AX,54.8522,-1.5735
 Mr Pickwicks cafe,DH3 3BB,54.8562,-1.5736
 Sambuca front street ltd,DH3 3BE,54.8580,-1.5736
 Costa Coffee - Chester Le Street,DH3 3BG,54.8575,-1.5737
-Costa Coffee,DH3 3BG,54.8575,-1.5737
+Costa Coffee,DH3 3BG,54.8574,-1.5738
 Cafe 91/Bar Utopia,DH3 3BJ,54.8561,-1.5742
 The Lambton Arms,DH3 3BJ,54.8561,-1.5742
 Sarahs Deli,DH3 3BQ,54.8584,-1.5748
@@ -127,8 +122,10 @@ Lambton Worm,DH3 4AJ,54.8712,-1.5757
 Lumley Castle Hotel Ltd,DH3 4NX,54.8533,-1.5537
 EVOLUTION FITNESS,DH4 4AL,54.8431,-1.4708
 Costa Coffee - Houghton le Spring,DH4 4AR,54.8449,-1.4717
+Costa Coffee,DH4 4AR,54.8449,-1.4718
 HOUGHTON INDIAN LIMITED,DH4 4AR,54.8449,-1.4717
 Scugnizzi ltd T/a vesuvio ristorante italiano,DH4 4AR,54.8449,-1.4717
+The Wild Boar HoughtonleSpring (Wetherspoon),DH4 4BN,54.8434,-1.4692
 Mamas Italian kitchen ,DH4 4EF,54.8552,-1.4768
 Amalfi Restaurant,DH4 4EG,54.8562,-1.4777
 The Nutmeg Tree,DH4 4GB,54.8450,-1.4723
@@ -163,7 +160,6 @@ The New Board Inn,DH7 9RL,54.7936,-1.6671
 The Dig Inn-Diggerland Durham,DH7 9TT,54.8015,-1.6728
 The Rams Head,DH7 9UU,54.7989,-1.6749
 paws for a cuppa,DH7 9XE,54.7986,-1.6709
-McDonalds,DH9 0AQ,54.8687,-1.6964
 The Spa Hotel (Breakfast Club),DH9 0DQ,54.8723,-1.6920
 Yoyo pizza,DH9 0HU,54.8694,-1.6991
 Ball Alley,DH9 0LH,54.8793,-1.6895
@@ -176,6 +172,7 @@ Shepherd and Shepherdess ,DH9 0RS,54.8789,-1.6569
 BLACK HORSE BEAMISH ,DH9 0RW,54.8931,-1.6796
 Shamrock ,DH9 0TY,54.8686,-1.7005
 McDonald's ,DH9 0XG,54.8696,-1.6979
+McDonald's,DH9 0XG,54.8687,-1.6965
 The Stables Bar & Restaurant ,DH9 0YB,54.8879,-1.6712
 Punchbowl Craghead Limited,DH9 6EF,54.8524,-1.6700
 ALA SPICERY LTD,DH9 6RN,54.8756,-1.6450
@@ -195,7 +192,6 @@ COOP Chicken House,NE1 1JE,54.9697,-1.6133
 The Continental,NE1 1JE,54.9697,-1.6133
 subway,NE1 1JW,54.9700,-1.6124
 COLONEL PORTERS EMPORIUM,NE1 1LF,54.9698,-1.6103
-Pizza Express,NE1 1PG,54.9705,-1.6097
 SURTEES HOTEL,NE1 1PG,54.9705,-1.6097
 Soju & Gogi Korean BBQ Restaurant ,NE1 1PG,54.9705,-1.6098
 Topolino ,NE1 1PG,54.9705,-1.6097
@@ -204,7 +200,6 @@ El Torero,NE1 1PR,54.9697,-1.6111
 The Maven Restaurant,NE1 1RQ,54.9688,-1.6103
 The French Quarter,NE1 1SA,54.9695,-1.6132
 Sleeperz Hotel (Newcastle),NE1 1SE,54.9693,-1.6138
-Nando's,NE1 1TT,54.9699,-1.6149
 Okana (formerly Union Rooms),NE1 1TT,54.9699,-1.6149
 DOG AND SCONE,NE1 1UE,54.9707,-1.6140
 Raj Cuisine Ltd,NE1 1UF,54.9708,-1.6144
@@ -213,6 +208,7 @@ MEAT STACK BIGG MARKET,NE1 1UG,54.9710,-1.6138
 Hibou Blanc,NE1 1UW,54.9714,-1.6136
 Kafeneon,NE1 1UW,54.9714,-1.6136
 Simply Greek Tavern,NE1 1UW,54.9714,-1.6136
+Thyme,NE1 2AN,54.9723,-1.5959
 Hotel Du Vin Newcastle,NE1 2BE,54.9725,-1.5920
 Cafe Twenty One Newcastle Ltd,NE1 2HH,54.9707,-1.6048
 Silk Room Restaurant,NE1 2HH,54.9707,-1.6047
@@ -224,6 +220,7 @@ THE CLUNY,NE1 2PQ,54.9749,-1.5917
 Under The Bridge,NE1 2PZ,54.9755,-1.5946
 moji,NE1 2ST,54.9742,-1.6028
 1901 Caffe Deli (Manors- Near City Centre),NE1 2SZ,54.9742,-1.6041
+Thyme,NE1 3AE,54.9687,-1.6064
 Aveika Restaurant,NE1 3AF,54.9688,-1.6074
 Unos Trattoria,NE1 3AF,54.9690,-1.6076
 Harvey's Cafe and Deli,NE1 3DE,54.9691,-1.6050
@@ -243,6 +240,7 @@ deli central,NE1 3NZ,54.9683,-1.6142
 The Geordie Stottie,NE1 3PZ,54.9679,-1.6240
 The Tipsy Cow ,NE1 3PZ,54.9679,-1.6240
 DH BENVENUTO LTD,NE1 3RG,54.9683,-1.6083
+The Quayside Newcastle upon Tyne (Wetherspoon),NE1 3RN,54.9674,-1.6102
 Crowne Plaza Newcastle - Hawthorns Restaurant,NE1 3SA,54.9670,-1.6176
 MANTRA THAI LIMITED,NE1 3SG,54.9665,-1.6176
 Sachins Restaraunt ,NE1 3SG,54.9665,-1.6176
@@ -251,7 +249,6 @@ Dobson and Parnell,NE1 3UG,54.9693,-1.6070
 Rani Indian Restaurant,NE1 3UG,54.9693,-1.6069
 URY RESTAURANT - NEWCASTLE  ,NE1 3UG,54.9693,-1.6070
 SABATINI,NE1 3UQ,54.9695,-1.6065
-Jurys Inn,NE1 4AD,54.9664,-1.6224
 St Sushi Limited,NE1 4AE,54.9703,-1.6195
 NUDO SUSHI BOX LTD ,NE1 4AG,54.9706,-1.6215
 Lane7 Newcastle,NE1 4BN,54.9673,-1.6239
@@ -262,6 +259,7 @@ Dixy Chicken,NE1 4EG,54.9687,-1.6215
 The Dog and Parrot,NE1 4EX,54.9687,-1.6207
 Wafi lounge and restaurnt ,NE1 4EX,54.9687,-1.6207
 vegano,NE1 4HZ,54.9696,-1.6235
+Costa Coffee,NE1 4LP,54.9797,-1.6193
 El Coto,NE1 4PF,54.9750,-1.6175
 NEW ERA (NE) LTD,NE1 4PF,54.9750,-1.6175
 Soho Korean & Japanese Street Food,NE1 4PF,54.9750,-1.6175
@@ -274,6 +272,7 @@ Bealim House,NE1 4SG,54.9739,-1.6181
 Chicken Cottage,NE1 4SG,54.9739,-1.6181
 La Yuan,NE1 4SG,54.9739,-1.6181
 New Canton Kitchen ,NE1 4SG,54.9739,-1.6181
+Costa Coffee,NE1 4TD,54.9739,-1.6197
 Manjaros Newcastle,NE1 4XE,54.9707,-1.6199
 Blackfriars Restaurant,NE1 4XN,54.9718,-1.6194
 AMAYSIA,NE1 4XQ,54.9726,-1.6201
@@ -285,16 +284,11 @@ Spot White ,NE1 4XQ,54.9726,-1.6201
 master restaurant,NE1 4XQ,54.9726,-1.6201
 Chinatown Express,NE1 4YB,54.9722,-1.6201
 Landmark Oriental restaurant ,NE1 4YB,54.9720,-1.6203
-Yo Sushi,NE1 5AE,54.9727,-1.6143
 MOKASAN LTD,NE1 5AN,54.9733,-1.6146
-Caffe Nero,NE1 5BS,54.9739,-1.6125
 GUNNER TAVERN,NE1 5DF,54.9694,-1.6174
-Starbucks,NE1 5DF,54.9694,-1.6174
 The Hudson,NE1 5DF,54.9694,-1.6174
-Burger King,NE1 5DG,54.9689,-1.6175
 Centurion Bar,NE1 5DG,54.9689,-1.6175
 Royal Station Hotel,NE1 5DH,54.9693,-1.6154
-Caffe Nero,NE1 5DL,54.9683,-1.6169
 Destination 1850,NE1 5DL,54.9683,-1.6169
 CHICKALICIOUS ,NE1 5DQ,54.9698,-1.6166
 Zapatista Burrito Bar,NE1 5DQ,54.9696,-1.6169
@@ -307,14 +301,12 @@ Newcastle Tap,NE1 5EN,54.9696,-1.6159
 MARK TONEY,NE1 5JE,54.9708,-1.6161
 Super Natural Restaurant,NE1 5JE,54.9709,-1.6159
 McDONALD'S 299,NE1 5JF,54.9717,-1.6153
-McDonalds,NE1 5JF,54.9717,-1.6153
+McDonald's,NE1 5JF,54.9719,-1.6149
 Yo Yo Noodle,NE1 5JG,54.9709,-1.6153
 TJ Hughes Newcastle,NE1 5JQ,54.9718,-1.6145
 Taco Bell,NE1 5JQ,54.9718,-1.6145
-Caffe Nero,NE1 5PE,54.9725,-1.6164
 Kaspas Newcastle ,NE1 5PG,54.9711,-1.6185
 olive and bean ,NE1 5PN,54.9729,-1.6156
-Burger King,NE1 5PW,54.9722,-1.6161
 My Delhi,NE1 5PY,54.9715,-1.6171
 Meeple Perk,NE1 5PZ,54.9709,-1.6182
 Eats Cafe Limited,NE1 5QE,54.9729,-1.6150
@@ -325,17 +317,15 @@ Redheads Mac 'N' Cheese Ltd,NE1 5QQ,54.9728,-1.6148
 Maldron Hotel Newcastle,NE1 5RE,54.9717,-1.6164
 eden Newcastle,NE1 5RE,54.9714,-1.6157
 subway,NE1 5RE,54.9717,-1.6164
+Bar + Block Newcastle,NE1 5RF,54.9733,-1.6181
 Point Blank Shooting,NE1 5RF,54.9719,-1.6172
+The Keel Row Newcastle upon Tyne (Wetherspoon),NE1 5RF,54.9723,-1.6185
 JUNSTERIK LTD,NE1 5RQ,54.9722,-1.6167
 KFC,NE1 5RQ,54.9738,-1.6161
 Mr Mulligans Newcastle,NE1 5RZ,54.9729,-1.6183
-Turtle Bay,NE1 5RZ,54.9729,-1.6183
 Zaap Thai Street Food,NE1 5RZ,54.9729,-1.6183
 SWEET DREAMS DESSERT CAFE LTD,NE1 5SF,54.9735,-1.6187
 Aspers Newcastle Limited,NE1 5TG,54.9723,-1.6184
-Cineworld/Starbucks,NE1 5TG,54.9727,-1.6194
-Nandos,NE1 5TG,54.9727,-1.6194
-Pizza Hut Restaurant,NE1 5TG,54.9723,-1.6184
 The Mayfair Pub & Kitchen,NE1 5TG,54.9723,-1.6184
 The Wonderbar,NE1 5TG,54.9723,-1.6184
 Breadpoint,NE1 5UE,54.9713,-1.6183
@@ -344,10 +334,10 @@ NUDO LEISURE LTD,NE1 5UE,54.9713,-1.6183
 S & L (NE) LTD,NE1 5XD,54.9715,-1.6187
 The Canny Goat,NE1 5XD,54.9715,-1.6187
 Hotel Indigo Newcastle - Marco Pierre White Steakhouse Bar & Grill,NE1 5XU,54.9702,-1.6170
+The Mile Castle Newcastle upon Tyne (Wetherspoon),NE1 5XU,54.9703,-1.6163
 Dacantus,NE1 6AE,54.9715,-1.6109
 Leila Lily's,NE1 6AE,54.9712,-1.6105
 Pizza Punks ,NE1 6AE,54.9715,-1.6109
-Zizzi,NE1 6AE,54.9715,-1.6109
 Eatali,NE1 6AP,54.9740,-1.6112
 Fat Hippo Newcastle,NE1 6AQ,54.9726,-1.6114
 LADY GREYS,NE1 6AQ,54.9726,-1.6114
@@ -357,9 +347,9 @@ Zucchini Pasta Bar,NE1 6BL,54.9717,-1.6087
 Pani's cafe,NE1 6BX,54.9724,-1.6114
 STREET FOOD HIGHBRIDGE LIMITED,NE1 6BX,54.9724,-1.6113
 Barluga Grey Street,NE1 6EE,54.9715,-1.6117
-Everyman Cinema,NE1 6EF,54.9726,-1.6130
 The Muddler,NE1 6EF,54.9726,-1.6130
 The Naked Deli,NE1 6EG,54.9733,-1.6130
+Costa Coffee,NE1 6JE,54.9728,-1.6127
 Lola Jeans Newcastle,NE1 6JE,54.9726,-1.6130
 THE CHARLES GREY,NE1 6JG,54.9738,-1.6126
 dAt bAr,NE1 6JN,54.9728,-1.6119
@@ -377,19 +367,16 @@ HORTICULTURE,NE1 6QQ,54.9720,-1.6108
 DON VITOS,NE1 6SG,54.9720,-1.6106
 Intermezzo ,NE1 6SG,54.9719,-1.6105
 Flat Caps Coffee,NE1 6UF,54.9730,-1.6083
-Caffe Nero,NE1 7AF,54.9753,-1.6130
+Costa Coffee,NE1 7AG,54.9766,-1.6134
+KFC,NE1 7AG,54.9766,-1.6134
 KFC,NE1 7AG,54.9768,-1.6136
-Pret A Manger,NE1 7AG,54.9768,-1.6136
-Starbucks,NE1 7AG,54.9768,-1.6136
+Pret A Manger,NE1 7AG,54.9771,-1.6135
 Banyan  Newcastle,NE1 7AL,54.9742,-1.6134
-Ask Italian,NE1 7AP,54.9739,-1.6147
 Chaophraya,NE1 7AP,54.9739,-1.6147
 Chatime,NE1 7AP,54.9739,-1.6147
 Georges Great British Kitchen,NE1 7AP,54.9739,-1.6147
-TGI Fridays,NE1 7AP,54.9739,-1.6147
 Tapas Revolution Newcastle,NE1 7AP,54.9739,-1.6147
 The Alchemist Newcastle,NE1 7AP,54.9739,-1.6147
-Tortilla,NE1 7AP,54.9739,-1.6147
 UM INTERNATIONAL LTD,NE1 7AP,54.9739,-1.6147
 Fuego,NE1 7AS,54.9760,-1.6136
 International Set,NE1 7AS,54.9760,-1.6136
@@ -397,21 +384,20 @@ Mason and Rye,NE1 7AS,54.9760,-1.6136
 Patio,NE1 7AS,54.9760,-1.6136
 Terrace,NE1 7AS,54.9760,-1.6136
 The Purple Bear,NE1 7AT,54.9750,-1.6151
-Burger King,NE1 7DE,54.9749,-1.6118
-Five Guys,NE1 7DE,54.9749,-1.6118
+Burger King,NE1 7DE,54.9749,-1.6119
+Costa Coffee,NE1 7DF,54.9764,-1.6133
+McDonald's,NE1 7DF,54.9759,-1.6125
 McDonalds Northumberland Street,NE1 7DF,54.9759,-1.6122
-McDonalds,NE1 7DF,54.9759,-1.6122
 MELI CAFE,NE1 7DQ,54.9773,-1.6131
 CrepeAffaire Newcastle,NE1 7JB,54.9745,-1.6167
 Smashburger,NE1 7JB,54.9745,-1.6167
-Nandos,NE1 7JD,54.9750,-1.6151
-Pizza Express,NE1 7JD,54.9750,-1.6151
-Starbucks,NE1 7JD,54.9750,-1.6151
+Costa Coffee,NE1 7JD,54.9745,-1.6163
+Nando's,NE1 7JD,54.9748,-1.6155
 shijo,NE1 7PF,54.9772,-1.6139
 Bubble Cha,NE1 7PG,54.9777,-1.6125
-Caffe Nero,NE1 7PG,54.9777,-1.6125
 Chinabowl ,NE1 7PG,54.9777,-1.6125
 QIAOCHU CATERING MANAGEMENT LTD,NE1 7PG,54.9777,-1.6125
+The Five Swans Newcastle upon Tyne (Wetherspoon),NE1 7PG,54.9777,-1.6118
 The Teahouse,NE1 7RD,54.9793,-1.6131
 Cream Curls,NE1 7RN,54.9758,-1.6164
 HAOWEI (NE) LTD,NE1 7RW,54.9764,-1.6159
@@ -419,9 +405,6 @@ Mark Toney,NE1 7RW,54.9764,-1.6161
 subway,NE1 7RW,54.9764,-1.6161
 Anyone Coffee,NE1 7RY,54.9781,-1.6143
 The Hotspur,NE1 7RY,54.9772,-1.6151
-Starbucks,NE1 7XD,54.9738,-1.6161
-Caffe Nero,NE1 7XS,54.9750,-1.6151
-Wagamama,NE1 7YG,54.9753,-1.6165
 Totally Delicious  Laing Art Gallery,NE1 8AG,54.9749,-1.6095
 Journey Cafe,NE1 8AN,54.9749,-1.6087
 Cafe at Newcastle City Library,NE1 8AX,54.9751,-1.6107
@@ -437,60 +420,43 @@ AL BAIT ,NE10 0AQ,54.9542,-1.5775
 Saji's restaurant,NE10 0AR,54.9549,-1.5791
 KFC,NE10 0AZ,54.9538,-1.5598
 All Day Dine,NE10 0JP,54.9526,-1.5651
+KFC,NE10 0NE,54.9526,-1.5579
 Olivia's Kitchen Ltd,NE10 8HQ,54.9417,-1.5162
 Nine and Dine Limited,NE10 8XY,54.9399,-1.5327
-Burger King,NE10 8YB,54.9457,-1.5191
 The Lakeside Inn,NE10 8YD,54.9513,-1.5088
 Mister Twisters,NE10 8YG,54.9398,-1.5190
 Redfox Coffeeshop,NE10 8YS,54.9435,-1.5048
 The Pantry,NE10 9LS,54.9525,-1.5700
 Felling Bingo,NE10 9LX,54.9500,-1.5705
 Sutherlands,NE10 9RY,54.9407,-1.5741
-Costa Coffee,NE11 0BD,54.9236,-1.6199
+Costa Coffee,NE11 0BD,54.9233,-1.6186
 GJK (Durham) Ltd T/A Bells Fish & Chips,NE11 0BD,54.9238,-1.6194
-McDonalds,NE11 0BD,54.9236,-1.6199
+McDonald's,NE11 0BD,54.9237,-1.6193
+Thyme,NE11 0BE,54.9424,-1.6248
 subway,NE11 0BE,54.9432,-1.6242
 Giuseppe’s Italian Bistro ,NE11 0XE,54.9050,-1.6187
 Tudor rose,NE11 9DU,54.9564,-1.6404
 Ramside Event Catering,NE11 9JR,54.9532,-1.6565
 JETSCO LTD,NE11 9XG,54.9575,-1.6701
-Buzz Bingo,NE11 9XU,54.9600,-1.6753
+McDonald's,NE11 9XU,54.9582,-1.6754
 McDonalds Cameron Park,NE11 9XU,54.9600,-1.6753
-McDonalds,NE11 9XU,54.9600,-1.6753
-Pizza Hut Restaurant,NE11 9XU,54.9600,-1.6753
 Beckleberrys,NE11 9XX,54.9579,-1.6669
 Greek Gyros,NE11 9XX,54.9579,-1.6669
-Ask Italian,NE11 9XY,54.9577,-1.6686
+Wetherspoons Gateshead (Wetherspoon),NE11 9XX,54.9579,-1.6661
 Big Lukes Metrocentre Limited,NE11 9XY,54.9577,-1.6686
-Five Guys,NE11 9XY,54.9577,-1.6686
-KFC,NE11 9XY,54.9577,-1.6686
+McDonald's,NE11 9XY,54.9586,-1.6706
 McDonalds Metro Yellow,NE11 9XY,54.9582,-1.6698
-McDonalds,NE11 9XY,54.9577,-1.6686
 Muffin Break Metrocentre,NE11 9XY,54.9582,-1.6698
 Namco Funscape,NE11 9XY,54.9582,-1.6698
-Wagamama,NE11 9XY,54.9577,-1.6686
 Angry Birds Adverture Golf,NE11 9XZ,54.9577,-1.6686
-Nando's (The Qube),NE11 9XZ,54.9577,-1.6686
-Pizza Express (Qube),NE11 9XZ,54.9577,-1.6686
+Nando's,NE11 9XZ,54.9582,-1.6691
 Subway,NE11 9XZ,54.9580,-1.6698
 Thaikhun,NE11 9XZ,54.9580,-1.6698
-Zizzi,NE11 9XZ,54.9577,-1.6686
-Caffe Nero,NE11 9YG,54.9577,-1.6686
 FATTOUSH LOUNGE METRO LIMITED,NE11 9YG,54.9559,-1.6689
-Pret A Manger,NE11 9YJ,54.9577,-1.6686
-Starbucks (Upper Red Mall),NE11 9YP,54.9577,-1.6686
-Wetherspoons,NE11 9YP,54.9577,-1.6686
-Costa Coffee (Green Mall),NE11 9YQ,54.9577,-1.6686
+Costa Coffee,NE11 9YQ,54.9566,-1.6669
 McDonalds Metro Green,NE11 9YR,54.9577,-1.6686
-McDonalds,NE11 9YR,54.9577,-1.6686
-Starbucks (Lower Red Mall),NE11 9YR,54.9577,-1.6686
-TGI Fridays,NE11 9YU,54.9576,-1.6686
-Burger King,NE11 9YZ,54.9577,-1.6686
-Caffe Nero,NE11 9YZ,54.9576,-1.6686
 KFC,NE11 9YZ,54.9577,-1.6686
-Nando's (Blue Mall),NE11 9YZ,54.9577,-1.6686
-Pizza Hut Restaurant,NE11 9YZ,54.9577,-1.6686
-Team Sport,NE15 6UX,54.9669,-1.6842
+KFC,NE11 9YZ,54.9577,-1.6687
 Maximo's Deli,NE15 6XY,54.9736,-1.7040
 Kitchi's Kitchen,NE15 7BD,54.9701,-1.6917
 Solomons Restaurant,NE15 7EX,54.9827,-1.6856
@@ -503,14 +469,16 @@ Maguires Fish and Chips,NE16 3AA,54.9536,-1.6867
 Pedalling squares,NE16 3AQ,54.9523,-1.6862
 GLASSHOUSE (T/A SAMBUCA METRO) LTD,NE16 3BE,54.9627,-1.6830
 KFC,NE16 3BE,54.9627,-1.6830
-TGI Fridays,NE16 3BE,54.9627,-1.6830
+KFC,NE16 3BE,54.9629,-1.6838
 The Skiff Inn,NE16 3BE,54.9627,-1.6830
+Brewers Fayre Derwent Crossing,NE16 3BL,54.9615,-1.6874
 JASHN ,NE16 3BP,54.9527,-1.6897
 Chutneys ,NE16 4AB,54.9463,-1.6811
 Amore Whickham Ltd,NE16 4DN,54.9463,-1.6775
 Milligans Whickham Limited,NE16 4DN,54.9463,-1.6775
 Milligans Whickham,NE16 4DN,54.9463,-1.6775
 SANTANA WHICKHAM LTD,NE16 4DT,54.9457,-1.6754
+The Harry Clasper Whickham (Wetherspoon),NE16 4HF,54.9459,-1.6734
 Jamdani Restaurant Limited,NE16 4JB,54.9460,-1.6811
 Gibside Hotel,NE16 4JG,54.9460,-1.6792
 The Coachman,NE16 5AW,54.9367,-1.6891
@@ -548,12 +516,9 @@ Jam jar jesmond LTD,NE2 2AP,54.9917,-1.6035
 The Caledonian Hotel,NE2 2AT,54.9907,-1.6040
 NUDO SUSHI BOX LTD - JESMOND,NE2 2DJ,54.9924,-1.6048
 1901 Caffe Bistro (Jesmond),NE2 2DL,54.9935,-1.6057
-Caffe Nero,NE2 2DY,54.9925,-1.6039
 pizzeria francesca,NE2 2NA,54.9913,-1.5984
 Fat Hippo Jesmond,NE2 2SU,54.9917,-1.6069
-Starbucks,NE2 2SX,54.9926,-1.6067
 New Kent Hotel,NE2 2TB,54.9945,-1.6045
-Pizza Express,NE2 2TD,54.9930,-1.6029
 CAIRN HOTEL,NE2 2TJ,54.9929,-1.6037
 Dabbawal Jesmond,NE2 3DG,54.9918,-1.6086
 ARLO cafe bar bistro,NE2 3DH,54.9919,-1.6092
@@ -562,13 +527,10 @@ bistro forty six,NE2 3DH,54.9919,-1.6092
 The Northumberland Club,NE2 3JU,54.9962,-1.6050
 The north terrace,NE2 4AN,54.9846,-1.6276
 Cosy Dove ,NE2 4NA,54.9841,-1.6304
-CH&Co Catering Ltd,NE2 4NF,54.9805,-1.6301
 Wylam Brewery Tap,NE2 4PZ,54.9859,-1.6149
 Country Whey,NE2 4RP,54.9857,-1.6096
 Willis Cafe,NE2 4RP,54.9857,-1.6096
 Costa Coffee - Blaydon,NE21 5BT,54.9647,-1.7121
-Costa Coffee,NE21 5BT,54.9647,-1.7121
-McDonalds,NE21 5BT,54.9647,-1.7121
 NUDO SUSHI BOX LTD - MONUMENT,NE21 5NH,54.9678,-1.6988
 PETROS,NE21 6RT,54.9428,-1.7118
 Pineapple and bears,NE21 6RT,54.9431,-1.7116
@@ -577,14 +539,17 @@ The Red Kite,NE21 6RU,54.9416,-1.7119
 Tots Tea Rooms,NE28 6QY,54.9914,-1.5309
 Sambuca Restaurant,NE28 6ST,54.9901,-1.4805
 kl ne ltd,NE28 7RH,54.9916,-1.5296
+KFC,NE28 8HX,54.9905,-1.5355
 KFC,NE28 8HX,54.9906,-1.5352
 Costa Coffee - Wallsend,NE28 8JA,54.9909,-1.5357
-Costa Coffee,NE28 8JA,54.9909,-1.5357
-Burger King,NE28 8JD,54.9905,-1.5372
+Costa Coffee,NE28 8JA,54.9909,-1.5350
+The Ritz Wallsend (Wetherspoon),NE28 8JD,54.9906,-1.5369
 Burger King,NE28 8JN,54.9911,-1.5364
 Centurion Park Golf Club,NE28 8SU,54.9944,-1.5527
 Gutterball Alley,NE29 6DA,54.9962,-1.4625
+Brewers Fayre Royal Quays,NE29 6DL,54.9947,-1.4611
 the lock,NE29 6DU,54.9958,-1.4507
+Costa Coffee,NE29 6DW,54.9949,-1.4652
 LP4 Cafe,NE29 6DW,54.9952,-1.4652
 subway,NE29 6DW,54.9952,-1.4651
 Peacock ,NE3 4TS,54.9991,-1.6442
@@ -595,19 +560,19 @@ Mariellie’s ,NE32 3JY,54.9811,-1.4904
 Tino’s Italian restaurant ,NE32 4LZ,54.9550,-1.4778
 The Lord Nelson,NE32 5NN,54.9666,-1.5013
 Vespa Italian,NE32 5UB,54.9640,-1.4796
+Costa Coffee,NE33 1AX,54.9973,-1.4337
 Cafe 42 Ltd,NE33 1BN,54.9973,-1.4369
 The smithy cafe ,NE33 1BT,54.9982,-1.4333
-Cafe Nero plc,NE33 1DA,54.9984,-1.4332
 McDonald's,NE33 1DA,54.9984,-1.4332
-McDonalds,NE33 1DA,54.9984,-1.4332
+McDonald's,NE33 1DA,54.9985,-1.4325
 Riverview,NE33 1EQ,54.9949,-1.4397
 Dame Bellas Green Room,NE33 1ES,54.9950,-1.4410
 Ristorante Bravi,NE33 1HD,54.9989,-1.4355
-Costa Coffee,NE33 1LX,54.9979,-1.4320
 Orangegrass,NE33 1PN,54.9959,-1.4318
 Bangla Spice Ltd,NE33 1PP,54.9973,-1.4314
 Mambos Italiano,NE33 1QD,54.9945,-1.4321
 Goldies Independent Music Hub,NE33 1QQ,54.9947,-1.4304
+The Wouldhave South Shields (Wetherspoon),NE33 1TA,54.9999,-1.4334
 Charlestons coffee house,NE33 1TS,54.9994,-1.4326
 Victorian Pantry ,NE33 2JA,54.9987,-1.4315
 Davincis,NE33 2JD,54.9993,-1.4289
@@ -620,7 +585,6 @@ Indigo South Shields ltd,NE33 2JF,54.9997,-1.4270
 Italian Spanish,NE33 2JF,54.9998,-1.4269
 Platform 33,NE33 2LD,54.9986,-1.4134
 daa (t/a sambuca south shields) ltd,NE33 2LD,54.9986,-1.4134
-Buzz Bingo,NE33 2LR,54.9984,-1.4313
 Dixy Chicken  South Shields,NE33 2LR,54.9983,-1.4311
 ejs cafe,NE33 2LR,54.9984,-1.4313
 Annie's Guest House,NE33 2NE,54.9975,-1.4229
@@ -631,6 +595,7 @@ Mac N Alli,NE33 3PE,54.9942,-1.4188
 LASUN INDIAN CUISINE LTD,NE33 4DZ,54.9868,-1.4253
 Greek street food ,NE33 4EA,54.9860,-1.4249
 KFC,NE33 4HN,54.9900,-1.4295
+KFC,NE33 4HN,54.9907,-1.4292
 SOUTHSHIELDS INDIAN LIMITED,NE33 4SS,54.9776,-1.4344
 The Owl and The Swan Coffee,NE33 5BD,54.9837,-1.4460
 Aneesas Buffet Restaurant,NE33 5DU,54.9877,-1.4368
@@ -641,16 +606,14 @@ Spice One,NE34 6QZ,54.9722,-1.4119
 Caffé Mio,NE34 6RB,54.9722,-1.4102
 The Grotto,NE34 7BS,54.9770,-1.3776
 Marsden Inn,NE34 7HN,54.9788,-1.3868
-Waterfall Elior,NE34 7JA,54.9817,-1.3931
 RAZZ LOUNGE LTD,NE34 8AQ,54.9640,-1.4137
-Burger King,NE34 9QD,54.9702,-1.4640
+Brewers Fayre Cinder Path,NE34 9PQ,54.9751,-1.4539
 McDonald's ,NE34 9QD,54.9702,-1.4640
-Mcdonalds,NE34 9QD,54.9702,-1.4640
-Starbucks,NE34 9QE,54.9752,-1.4516
+McDonald's,NE34 9QD,54.9706,-1.4626
 Greek street food ,NE35 9HS,54.9537,-1.4652
 McDonald's ,NE35 9PB,54.9468,-1.4663
-McDonalds,NE35 9PB,54.9468,-1.4663
-Nando's,NE35 9PB,54.9468,-1.4663
+McDonald's,NE35 9PB,54.9468,-1.4663
+Nando's,NE35 9PB,54.9475,-1.4659
 Pizza Hut Restaurant,NE35 9PB,54.9468,-1.4663
 Clarion Hotel Boldon,NE35 9PE,54.9440,-1.4715
 Beggar's Bridge pub and kitchen,NE36 0AB,54.9475,-1.4198
@@ -662,6 +625,7 @@ red lion inn,NE36 0PZ,54.9423,-1.4553
 The Black Horse,NE36 0QQ,54.9435,-1.4550
 Sambuca Boldon,NE36 0QR,54.9430,-1.4538
 kylin oriental,NE37 1BH,54.9077,-1.5339
+Breakfast Room,NE37 1LB,54.8872,-1.5579
 Campanile Washington,NE37 1LE,54.8861,-1.5517
 The Blue Bell,NE37 1NP,54.9200,-1.5357
 The George Washington Hotel & Golf Club Ltd,NE37 1PH,54.9265,-1.5356
@@ -669,9 +633,10 @@ Willow Brook Community Cafe,NE37 2AH,54.9121,-1.5218
 Pizza Hut,NE37 2AN,54.9126,-1.5204
 Clay's Garden Centre Limited,NE37 2PA,54.9072,-1.5031
 McDonald's Restaurants,NE37 2PA,54.9066,-1.5025
-McDonalds,NE37 2PA,54.9066,-1.5025
+McDonald's,NE37 2PA,54.9065,-1.5024
 Building blocks day centre community interest company ,NE37 2SS,54.9134,-1.5228
 Concord tandoori ltd,NE37 2SY,54.9126,-1.5230
+The Sir William de Wessyngton Washington (Wetherspoon),NE37 2SY,54.9127,-1.5230
 concord tandoori limited,NE37 2SY,54.9126,-1.5230
 NAC Outsourcing,NE37 3ES,54.9088,-1.5015
 ELM Tree Farm Tea Room Ltd,NE37 3HQ,54.9140,-1.4988
@@ -681,16 +646,18 @@ Ox & Plough,NE38 0LZ,54.8971,-1.5457
 The forge,NE38 7AB,54.9036,-1.5161
 The green ,NE38 7AB,54.9036,-1.5161
 Ragamy limited,NE38 7PE,54.9002,-1.5270
+Costa Coffee,NE38 7RR,54.9000,-1.5330
 Alice and Elsie's Tearoom and Cafe Limited,NE38 7RT,54.8996,-1.5325
 Lebanos,NE38 7RT,54.8996,-1.5325
 KFC,NE38 7RU,54.9001,-1.5327
+KFC,NE38 7RU,54.9008,-1.5329
+Costa Coffee,NE38 7RW,54.9035,-1.5312
 Gillies Restaurant,NE38 7SA,54.9001,-1.5327
 redz traditional fish and chips,NE38 7SA,54.9001,-1.5327
 McDonald's Restaurants,NE38 7SB,54.9001,-1.5327
-McDonalds Restaurants Ltd,NE38 7SB,54.9001,-1.5327
+McDonald's,NE38 7SB,54.8999,-1.5325
 Am coffee,NE38 7SD,54.9001,-1.5327
 Muffin Break,NE38 7SD,54.8996,-1.5325
-Everyone Active Cafe,NE38 7SS,54.8977,-1.5315
 The Courtyard Cafe Bar,NE38 8AB,54.8857,-1.5192
 Fiume and River Bar,NE38 8AJ,54.8795,-1.5173
 The Biddick Inn,NE38 8AJ,54.8795,-1.5172
@@ -715,11 +682,8 @@ salt & pepper cafe ltd,NE4 6AD,54.9711,-1.6257
 Luigikhans ,NE4 6NU,54.9727,-1.6345
 SHAWARMA FATTOUSH LTD,NE4 6PB,54.9732,-1.6393
 The Mealcastle,NE4 6QB,54.9734,-1.6404
-Baxterstorey At Environment Agency,NE4 7AR,54.9604,-1.6326
 MOSOB RESTAURANT,NE4 7JB,54.9671,-1.6224
 Courtyard by Marriott Glasgow Airport Hotel,NE4 7LB,54.9684,-1.6318
-Baxterstorey @ AA,NE4 7YA,54.9627,-1.6478
-Baxterstorey At British Airways,NE4 7YA,54.9627,-1.6478
 The Oven Door,NE4 9AX,54.9806,-1.6482
 Kilimanjaro Newcastle,NE4 9BL,54.9753,-1.6502
 Supreme crust pizza ,NE4 9HD,54.9752,-1.6501
@@ -732,25 +696,25 @@ Fortune Cookie Xpress,NE4 9PY,54.9757,-1.6533
 Pepes Newcastle ,NE4 9QB,54.9762,-1.6563
 pepes piri piri,NE4 9QB,54.9762,-1.6563
 Achellos,NE4 9RX,54.9861,-1.6631
-McDonalds,NE5 2NF,54.9950,-1.6827
+McDonald's,NE5 2NF,54.9955,-1.6824
 Caffe Ginevra Denton,NE5 2QZ,54.9930,-1.6990
+Costa Coffee,NE5 2SF,54.9906,-1.6749
 KFC,NE5 3AJ,54.9898,-1.6531
+KFC,NE5 3AL,54.9897,-1.6540
 Oliandjoes Italian Resturant ,NE5 5HB,54.9990,-1.6927
 The Cycle Hub,NE6 1BU,54.9707,-1.5874
+The High Main Newcastle upon Tyne (Wetherspoon),NE6 1DL,54.9768,-1.5842
 Singin Hinny Cafe,NE6 1DQ,54.9779,-1.5766
-McDonalds,NE6 1ED,54.9772,-1.5752
+McDonald's,NE6 1ED,54.9772,-1.5752
 The Bake,NE6 1LA,54.9751,-1.5870
 KFC,NE6 1LL,54.9721,-1.5871
+KFC,NE6 1LL,54.9757,-1.5863
 Kiln,NE6 1LN,54.9730,-1.5888
 Brinkburn St Bar & Kitchen,NE6 1NW,54.9730,-1.5888
-Buzz Bingo,NE6 1PG,54.9759,-1.5855
-KFC,NE6 1PG,54.9759,-1.5855
 Bear Natural Kitchen Garden LTD,NE6 1SB,54.9791,-1.5803
 the merchants tavern,NE6 1TW,54.9664,-1.5738
 APOCALYPSE COW NEWCASTLE LTD,NE6 2HL,54.9703,-1.5807
 The Snack Box,NE6 2PR,54.9740,-1.5531
-Baxterstorey,NE6 2YL,54.9823,-1.5660
-Elior At GE Oil & Gas,NE6 3PF,54.9650,-1.5414
 The Valentia,NE6 4AN,54.9808,-1.5617
 Fun Shack Newcastle,NE6 4NQ,54.9858,-1.5629
 InflateSpace / Clip N Climb Newcastle,NE6 4NQ,54.9858,-1.5629
@@ -773,30 +737,25 @@ cafe spice,NE6 5XL,54.9835,-1.5762
 New Adventurelands soft play,NE7 7DT,54.9967,-1.5809
 Dean And Daniela ,NE7 7HP,54.9985,-1.5902
 lochside,NE7 7LJ,54.9972,-1.5691
-Burger King,NE8 1AG,54.9624,-1.6027
 Costa Coffee - Gateshead,NE8 1AG,54.9624,-1.6027
-Costa Coffee,NE8 1AG,54.9624,-1.6027
-Nando's,NE8 1AG,54.9624,-1.6027
+Costa Coffee,NE8 1AG,54.9624,-1.6019
 sambuca trinity square ltd,NE8 1AG,54.9627,-1.6015
 NU TO GO ltd,NE8 1AQ,54.9623,-1.6010
 subway,NE8 1AZ,54.9630,-1.6015
-Burger King,NE8 1BF,54.9623,-1.6027
+The Tilley Stone Gateshead (Wetherspoon),NE8 1EE,54.9618,-1.6022
 Cup & Cake,NE8 1EH,54.9612,-1.6027
 Hilton Newcastle,NE8 2AR,54.9662,-1.6063
 Raval,NE8 2AT,54.9659,-1.6033
 Riverbeat,NE8 2BJ,54.9664,-1.6070
 The Staiths Cafe,NE8 2BZ,54.9573,-1.6277
 By The River Brew Co,NE8 2FD,54.9625,-1.6129
-Powerleague Fives Limited,NE8 2HD,54.9520,-1.6305
 cafe under the Spire ,NE8 2SH,54.9553,-1.6146
 Ramada Encore Hotel Newcastle Gateshead,NE8 3AD,54.9684,-1.5951
-Jurys Inn,NE8 3AE,54.9691,-1.5899
 The Schooner,NE8 3AF,54.9637,-1.5805
 JJ's Kitchen,NE8 3AH,54.9659,-1.5872
-Mecca Bingo,NE8 3AR,54.9651,-1.5994
 Baltic Kitchen,NE8 3BA,54.9694,-1.5975
 Six Restaurant,NE8 3BA,54.9694,-1.5975
-McDonalds,NE8 3EJ,54.9631,-1.5900
+McDonald's,NE8 3EJ,54.9619,-1.5880
 McDONALD'S 394,NE8 3EN,54.9635,-1.5904
 Swallow Filling Station Subway,NE8 4BL,54.9557,-1.5981
 Spice Connection,NE8 4JR,54.9484,-1.5995
@@ -804,7 +763,6 @@ DOMINICS CAFE,NE8 4TL,54.9474,-1.6133
 Bensham Hospital Restaurant,NE8 4YL,54.9450,-1.6150
 Stairwayz Cafe,NE9 5AN,54.9375,-1.5994
 The Nest Cafe and Community rooms,NE9 5AN,54.9375,-1.5994
-Starbucks (Metroasis),NE9 5EX,54.9366,-1.5993
 The Imperial Restaurant,NE9 5EX,54.9366,-1.5993
 Ilbays Finest Turkish cuisine ,NE9 5EY,54.9351,-1.5990
 The Victoria ,NE9 5HU,54.9320,-1.5972
@@ -816,8 +774,8 @@ Peyote Mexican Cantina,NE9 6HX,54.9349,-1.5998
 Piazza Latina Restaurant ,NE9 6HX,54.9347,-1.5995
 Rosa12,NE9 6HX,54.9349,-1.5998
 Costa Coffee - Low Fell,NE9 6LQ,54.9368,-1.6001
-Costa Coffee,NE9 6LQ,54.9368,-1.6001
-Costa Coffee,NE9 6SX,54.9389,-1.5811
+Costa Coffee,NE9 6LQ,54.9369,-1.6001
+Costa Coffee,NE9 6SX,54.9382,-1.5820
 Quenellies,NE9 6SX,54.9394,-1.5808
 Surgery Centre Coffee Lounge (Jubilee wing),NE9 6SX,54.9394,-1.5808
 The Restaurant at Ravensworth Golf Club,NE9 7NE,54.9168,-1.5782
@@ -827,8 +785,6 @@ The Waggon Inn,NE9 7XB,54.9185,-1.5647
 The Engine Room,NE9 7XR,54.9154,-1.5648
 THE SHIP,NE9 7YP,54.9147,-1.5607
 The Ship at Eighton Limited ,NE9 7YP,54.9147,-1.5607
-Baxterstorey UK LTD,NE99 1RN,54.9677,-1.6158
-CH&Co Catering Ltd ( Aka Lusso),NE99 1SB,54.9677,-1.6158
 Angelo's Ristorante,SR1 1BA,54.9072,-1.3792
 Thai Bay Bar and restaurant ,SR1 1BU,54.9063,-1.3786
 D'acqua ,SR1 1JG,54.9051,-1.3798
@@ -836,11 +792,11 @@ BURGER ONE SUNDERLAND LTD,SR1 1LT,54.9049,-1.3793
 Shafs shack ,SR1 1NA,54.9059,-1.3795
 Chilli Mangoes,SR1 1PB,54.9043,-1.3773
 808 Bar & Kitchen,SR1 1QD,54.9064,-1.3810
+The William Jameson Sunderland (Wetherspoon),SR1 1RH,54.9046,-1.3809
 Wendys Place,SR1 1SE,54.9068,-1.3821
 AFK Bar,SR1 1TQ,54.9078,-1.3825
 Sunderland Bowl,SR1 1TR,54.9079,-1.3797
 Infinity pizza Rd ltd,SR1 1TX,54.9077,-1.3805
-Nando's,SR1 1TX,54.9078,-1.3803
 Kaspas Sunderland,SR1 1TZ,54.9074,-1.3811
 Baba-Ghanosh ,SR1 1UB,54.9076,-1.3790
 Baba-Ghanoush Restaurant ,SR1 1UB,54.9076,-1.3790
@@ -850,27 +806,25 @@ sambuca sunderland ltd,SR1 2JR,54.9095,-1.3737
 subway,SR1 3BT,54.9069,-1.3832
 Barista,SR1 3DE,54.9072,-1.3837
 McDonald's Restaurants,SR1 3DE,54.9072,-1.3837
-McDonalds Restaurant Limited,SR1 3DE,54.9072,-1.3837
+McDonald's,SR1 3DE,54.9073,-1.3839
 SUNDERLAND 3 DP LTD,SR1 3DP,54.9074,-1.3854
 ESQUIRES COFFEE HOUSES SUNDERLAND,SR1 3DR,54.9064,-1.3855
 Luciano Ristorante ,SR1 3DZ,54.9069,-1.3864
 Aperitif,SR1 3EX,54.9063,-1.3894
 The Rabbit,SR1 3EX,54.9063,-1.3896
-KFC  1A ,SR1 3HW,54.9062,-1.3824
+Costa Coffee,SR1 3HW,54.9063,-1.3828
 Dr Q's Food Factory Limited,SR1 3JE,54.9045,-1.3833
 Pizza king,SR1 3JE,54.9044,-1.3840
 crumb on in tearooms,SR1 3JE,54.9044,-1.3848
 subway,SR1 3JE,54.9045,-1.3836
 Flanagans Bar,SR1 3JG,54.9044,-1.3854
-Burger King,SR1 3JU,54.9050,-1.3859
 Fatso's,SR1 3JU,54.9050,-1.3859
-Starbucks,SR1 3LB,54.9068,-1.3856
-Caffe Nero,SR1 3LE,54.9068,-1.3856
 Nudo Sushi Box - Sunderland,SR1 3LE,54.9061,-1.3840
 Proper roast,SR1 3NA,54.9038,-1.3876
 Shandiz Restaurant,SR1 3NA,54.9038,-1.3876
 ttonic bar & kitchen,SR1 3NE,54.9037,-1.3871
 Marcellos Ristorante,SR1 3NG,54.9032,-1.3880
+The Cooper Rose Sunderland (Wetherspoon),SR1 3NG,54.9034,-1.3879
 Roma Restauarnt ,SR1 3NH,54.9029,-1.3876
 Chaplins ,SR1 3NR,54.9031,-1.3873
 ENFES Turkish Restaurant,SR1 3NT,54.9036,-1.3866
@@ -878,22 +832,22 @@ Gatsby,SR1 3NT,54.9038,-1.3859
 Donna Chan t/a The Good Apple Cafe,SR1 3NU,54.9034,-1.3863
 Tosca Sunderland Ltd trading as Tosca,SR1 3NU,54.9034,-1.3863
 Port of Call,SR1 3NX,54.9039,-1.3853
-Mecca,SR1 3PD,54.9041,-1.3839
 Coppertree Cafe,SR1 3PE,54.9032,-1.3856
 Spice hut Sunderland ,SR1 3PE,54.9031,-1.3857
 2 Church Lane ,SR1 3PT,54.9061,-1.3884
 MOTIRAJ LIMITED,SR1 3PT,54.9060,-1.3883
 RAFI'S SPICE LTD,SR1 3PT,54.9060,-1.3884
 Victors,SR1 3PY,54.9056,-1.3898
+Thyme,SR1 3QD,54.9059,-1.3909
 The Ship Isis,SR1 3QJ,54.9071,-1.3933
 ThePlace Cafe ,SR1 3QJ,54.9070,-1.3932
 McDonald's Restaurants,SR2 0SP,54.8785,-1.3613
+McDonald's,SR2 0SP,54.8785,-1.3614
 The Ivy House,SR2 7AW,54.9014,-1.3878
 MUMBAI ASHBROOKE LTD,SR2 7DX,54.8996,-1.3819
 Yuvraaj ,SR2 7DX,54.8994,-1.3819
 The Stumble Inn,SR2 7PR,54.9028,-1.3963
 North East Autism Society - 115 Dunelm South,SR2 7QY,54.8935,-1.3999
-McDonalds Restaurants,SR2 7TN,54.8951,-1.3778
 Youngs Fisheries,SR2 8RD,54.8948,-1.3733
 SAN MATTEO LTD,SR2 8RT,54.8931,-1.3746
 PascalattheAshbrookeLtd,SR2 9JT,54.8862,-1.3807
@@ -902,41 +856,40 @@ LAYWAWA'S LTD,SR2 9RN,54.8847,-1.3664
 Gusto at the cavalier,SR3 1AQ,54.8769,-1.4164
 The Scullery Silksworth ,SR3 1BN,54.8791,-1.4074
 Signatures Italian Restaurant and Bar,SR3 1HP,54.8737,-1.4037
-McDonalds Restaurants Ltd,SR3 1TJ,54.8813,-1.4233
+McDonald's,SR3 1TJ,54.8817,-1.4236
 Crazy Chops Deli,SR3 2SH,54.8631,-1.4162
 The Prior Moorside,SR3 2SW,54.8660,-1.4219
-'Royal And Sun Alliance'- Atalian Servest Food Co,SR3 3XE,54.8644,-1.4392
 Subway,SR3 3XL,54.8641,-1.4347
-David Lloyd Clubs,SR3 3XN,54.8624,-1.4297
 Tastebuds,SR4 6AH,54.9095,-1.3957
 Hanover Place,SR4 6BY,54.9133,-1.3944
 Dixy Chicken Sunderland,SR4 6NF,54.9075,-1.4144
 Pizza Hut,SR4 6NQ,54.9086,-1.4141
 Sunderland wall ,SR4 6TQ,54.9146,-1.4152
-Buzz Bingo,SR4 6UA,54.9115,-1.4123
 Goodfillas,SR4 7AA,54.9071,-1.3960
 NEW HONG KONG,SR4 7AA,54.9071,-1.3960
 san marino restaurant,SR4 7HS,54.9015,-1.4034
 Royal Voluntary Service,SR4 7TP,54.9010,-1.4095
 Mackem & Tackem Kitchen,SR4 8AB,54.9015,-1.4295
 Costa Coffee - Sunderland Broadway,SR4 8NP,54.8938,-1.4310
+Costa Coffee,SR4 8NP,54.8943,-1.4298
+KFC,SR4 9EN,54.8917,-1.4525
 KFC,SR4 9EN,54.8935,-1.4529
-KFC,SR4 9EP,54.8915,-1.4516
 The Hastings Hill Pub,SR4 9LP,54.8902,-1.4527
 Bear Natural Kitchen Garden LTD,SR5 1AD,54.9138,-1.3826
 La Cozza Restorante,SR5 1AD,54.9138,-1.3826
-Everyone Active Cafe,SR5 1SU,54.9141,-1.3893
-Stadium Of Light- Elior,SR5 1SU,54.9141,-1.3893
 Olivia's Kitchen Ltd,SR5 2TA,54.9183,-1.4150
 Adriano's Pizzeria ,SR5 3BQ,54.9163,-1.4408
+Brewers Fayre The Wessington,SR5 3HR,54.9111,-1.4561
 Rustica Trattoria,SR5 3HZ,54.9235,-1.4712
 KFC,SR5 3NU,54.9186,-1.4332
+KFC,SR5 3NU,54.9189,-1.4323
 McDonald's Restaurants,SR5 3NU,54.9186,-1.4332
-McDonalds Restaurant,SR5 3NU,54.9186,-1.4332
+McDonald's,SR5 3NU,54.9186,-1.4333
+Costa Coffee,SR5 3XG,54.9175,-1.4334
 The Palm,SR5 3XG,54.9184,-1.4307
 Youngs,SR5 5SE,54.9297,-1.4126
 McDonald's Restaurants,SR6 0DA,54.9156,-1.3814
-McDonalds Restaurants Ltd,SR6 0DA,54.9156,-1.3814
+McDonald's,SR6 0DA,54.9168,-1.3822
 The Avenue,SR6 0EQ,54.9162,-1.3748
 the wolsey,SR6 0ES,54.9183,-1.3698
 Grannie annies pub and pantry,SR6 0PL,54.9250,-1.3659
@@ -945,8 +898,6 @@ The Scullery Pier Point ,SR6 0PP,54.9221,-1.3649
 Queen Victoria Hotel,SR6 0PQ,54.9214,-1.3665
 Marina Vista,SR6 0PW,54.9198,-1.3677
 Taste Italian Ltd,SR6 7BZ,54.9494,-1.3645
-The National Trust (SHOP),SR6 7NH,54.9704,-1.3646
-The National Trust,SR6 7NH,54.9704,-1.3646
 Hillhead tearooms and farm shop,SR6 7NN,54.9674,-1.3755
 J & C Graham Ltd t/a Bon Appetit,SR6 7PG,54.9544,-1.4024
 La Vina Cafe,SR6 7PG,54.9544,-1.4024
@@ -976,7 +927,7 @@ Seaton Lane Inn,SR7 0LP,54.8441,-1.3816
 Fun Shack Seaham,SR7 0PU,54.8478,-1.3713
 Seaham Hall Management Company Ltd,SR7 7AG,54.8483,-1.3488
 Martino's Seaham,SR7 7DA,54.8383,-1.3342
-Costa Coffee,SR7 7DR,54.8364,-1.3312
+Costa Coffee,SR7 7DR,54.8372,-1.3309
 Nicey Icey,SR7 7EE,54.8364,-1.3312
 Pancake Kitchen,SR7 7EE,54.8385,-1.3273
 THE LooKoUT,SR7 7EE,54.8386,-1.3267
@@ -988,6 +939,7 @@ Humbles,SR7 7EU,54.8391,-1.3322
 Lickety split creamery,SR7 7EU,54.8391,-1.3322
 PORT OF CALL SEAHAM,SR7 7EU,54.8390,-1.3322
 The Lamp Room,SR7 7EU,54.8391,-1.3322
+The Hat and Feathers Seaham (Wetherspoon),SR7 7HF,54.8371,-1.3336
 Valentes,SR7 7HF,54.8373,-1.3336
 sambuca seaham ltd,SR7 7HN,54.8367,-1.3320
 Caruso's,SR7 7HQ,54.8368,-1.3338
@@ -998,11 +950,10 @@ Sagar Seaham Limited,SR7 7XR,54.8450,-1.3391
 The Mallard,SR7 8EP,54.8331,-1.3660
 The Stapylton Arms,SR7 8SD,54.8019,-1.3482
 Codrophenia Fish and Chips,SR7 9HU,54.8154,-1.3747
+KFC,SR7 9HU,54.8140,-1.3766
 KFC,SR7 9HU,54.8154,-1.3747
 McDonald's Restaurants,SR7 9HU,54.8154,-1.3747
-McDonalds,SR7 9HU,54.8154,-1.3747
-Pizza Express,SR7 9HU,54.8154,-1.3747
-Starbucks Coffee,SR7 9HU,54.8154,-1.3747
+McDonald's,SR7 9HU,54.8145,-1.3766
 Thorntons Ltd,SR7 9HZ,54.8158,-1.3791
 The Half Moon,SR8 3AZ,54.7809,-1.3581
 East Durham Garden Centre,SR8 3BZ,54.7930,-1.3702

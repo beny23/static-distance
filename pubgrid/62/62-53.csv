@@ -1,31 +1,25 @@
 name,postcode,lat,lon
 NJ Sweet Cakes Ltd,BD1 1AH,53.7945,-1.7492
-Zizzi,BD1 1EJ,53.7940,-1.7517
-Pizza Express,BD1 1EY,53.7938,-1.7511
-KFC,BD1 1HA,53.7940,-1.7517
+KFC,BD1 1HA,53.7946,-1.7500
 Subway,BD1 1HA,53.7940,-1.7514
 Starbucks Bradford Centenary Square,BD1 1HY,53.7923,-1.7533
-Starbucks,BD1 1HY,53.7923,-1.7533
+The Turls Green Bradford (Wetherspoon),BD1 1HY,53.7930,-1.7548
 Subway,BD1 1JD,53.7931,-1.7522
-Buzz Bingo,BD1 1JE,53.7933,-1.7533
 Yangtze Bradford,BD1 1JR,53.7928,-1.7511
 The Avenue Restaurant,BD1 1JX,53.7922,-1.7505
 The Cake'ole Bradford,BD1 1LA,53.7918,-1.7542
-Caffe Nero,BD1 1LH,53.7940,-1.7525
 The Ginger Goose,BD1 1LH,53.7941,-1.7524
 69 Market Street Limited,BD1 1NE,53.7934,-1.7525
 The City Vaults,BD1 1NS,53.7945,-1.7525
 Tiffin Coffee,BD1 1PR,53.7942,-1.7526
 Geek Retreat,BD1 1PU,53.7938,-1.7531
 D&H Taylor t/as McDonald's,BD1 1PZ,53.7944,-1.7545
-McDonalds,BD1 1PZ,53.7944,-1.7545
 Griller,BD1 1QB,53.7949,-1.7525
-Nando's,BD1 1SD,53.7930,-1.7545
 Bees Cafe Limited,BD1 1SQ,53.7940,-1.7549
 Takeaway getaway ,BD1 1SX,53.7940,-1.7552
 Java Joe,BD1 1TU,53.7916,-1.7503
 Burger King  - Bradford,BD1 1US,53.7941,-1.7500
-Burger King,BD1 1US,53.7941,-1.7500
+Costa Coffee,BD1 1US,53.7943,-1.7486
 FRANKIE'S BROADWAY,BD1 1US,53.7941,-1.7500
 KFC,BD1 1US,53.7941,-1.7500
 Kitchen cafe,BD1 1US,53.7941,-1.7500
@@ -36,7 +30,6 @@ My Thai Cafe,BD1 2AZ,53.7933,-1.7542
 the deli,BD1 2BX,53.7928,-1.7579
 The Great Turka LTD,BD1 2DG,53.7933,-1.7592
 The Lord Clyde,BD1 2DG,53.7933,-1.7592
-Jurys Inn Bradford,BD1 2DH,53.7930,-1.7578
 Junoon cafe limited,BD1 2HS,53.7949,-1.7632
 Subway Westgate,BD1 2QL,53.7944,-1.7560
 Zaffran,BD1 2RN,53.7972,-1.7610
@@ -50,27 +43,25 @@ Smorgasbord Coffee Bar,BD1 3QQ,53.7959,-1.7554
 Pizza Design,BD1 3QR,53.7960,-1.7540
 Northgate bistro,BD1 3SN,53.7964,-1.7571
 Andie's African Kitchen,BD1 3SR,53.7963,-1.7578
-McDonalds,BD1 4AG,53.7985,-1.7518
 Napoleons Casino,BD1 4DR,53.7969,-1.7488
 Refresh,BD1 4HP,53.7959,-1.7530
 intouch cafe/diner,BD1 4HP,53.7962,-1.7534
 The Midland Hotel,BD1 4HU,53.7956,-1.7519
 Tres Marias at Son Filipino Restobar,BD1 4PB,53.7965,-1.7538
 The Rooftop Cafe ,BD1 4TY,53.7953,-1.7488
-Baxterstorey at Santander,BD1 5AN,53.7904,-1.7514
 BITE BURGER,BD1 5AY,53.7923,-1.7470
 Bradford cafe limited ta arabian krush ,BD1 5BD,53.7948,-1.7450
 Cafe Jinnah LLP,BD1 5BL,53.7935,-1.7439
-Pizza Hut,BD1 5DL,53.7937,-1.7456
 Samchai Ltd.  Trading As Bangkok Thai Restaurant,BD1 5EE,53.7938,-1.7438
 Frankies,BD1 5LD,53.7916,-1.7478
-Hollywood Bowl,BD1 5LD,53.7916,-1.7478
-Nando's,BD1 5LD,53.7916,-1.7478
+Nando's,BD1 5LD,53.7909,-1.7476
+Thyme,BD1 5LD,53.7917,-1.7478
 Jacobs Well,BD1 5RL,53.7907,-1.7537
 AZUMA BUFFET AND RESTAURANT,BD1 5SH,53.7920,-1.7516
 The Bradford Hotel,BD1 5SH,53.7920,-1.7516
 Prashad,BD11 1AT,53.7546,-1.6676
 Amico Espresso & Cafe Bar,BD11 1BB,53.7552,-1.6671
+Brewers Fayre Old Brickworks,BD11 1EA,53.7501,-1.6436
 Romano’s ,BD11 1EJ,53.7548,-1.6577
 The Railway,BD11 1JJ,53.7485,-1.6644
 THE SPOTTED COW,BD11 1LJ,53.7577,-1.6605
@@ -98,8 +89,8 @@ On a roll,BD14 6AX,53.7835,-1.8205
 The Superfood Bowl,BD19 3HS,53.7248,-1.7140
 Blend Cafe Bar,BD19 3HW,53.7241,-1.7144
 The Surf Shack  Cleckheaton,BD19 3JD,53.7247,-1.7131
+The Obediah Brooke Cleckheaton (Wetherspoon),BD19 3JH,53.7246,-1.7124
 Aakash Restaurant,BD19 3PN,53.7279,-1.7131
-Cleckheaton Starbucks,BD19 3QB,53.7358,-1.7223
 EASTERN SPICE,BD19 3QL,53.7290,-1.7181
 Millers Coffee House/Tea At Three,BD19 3RT,53.7238,-1.7125
 Aldo's Restaurant,BD19 3RU,53.7234,-1.7122
@@ -118,12 +109,10 @@ The Rose and Crown,BD19 5ET,53.7230,-1.7146
 Ribbon Tree Communitea Room,BD19 5EY,53.7231,-1.7166
 Cafe Pango,BD19 5LJ,53.7186,-1.7060
 DM's Diner,BD19 5LY,53.7180,-1.7020
-Waterfall Elior at Hanover,BD3 0BJ,53.7971,-1.7402
+Brewers Fayre The Hunsworth,BD19 6HG,53.7366,-1.7217
 The Rooftop Barbecue Garden LTD,BD3 0RP,53.7991,-1.7423
 Cafe de Akbar,BD3 7AE,53.7978,-1.7111
 Aagrah Midpoint,BD3 7AY,53.7985,-1.7039
-Baxterstorey (Catering Within Yorkshire Water),BD3 7AY,53.7989,-1.7050
-KFC,BD3 7AY,53.7989,-1.7050
 Habibs Restaurant,BD3 7JD,53.7991,-1.7203
 icestone gelato,BD3 8DG,53.7937,-1.7177
 berries bagels & Shakes,BD3 8DS,53.7946,-1.7192
@@ -161,17 +150,15 @@ Vibes deli & dessert bar,BD4 6HD,53.7715,-1.7217
 Top of the range cafe,BD4 6LY,53.7679,-1.7101
 Campanile Bradford,BD4 6SA,53.7551,-1.7403
 KFC,BD4 6SX,53.7648,-1.7103
+KFC,BD4 6SX,53.7660,-1.7103
 Pizza Express,BD4 7EJ,53.7839,-1.7379
 McDonald's Restaurant,BD4 7SE,53.7743,-1.7301
-Starbucks,BD4 7SJ,53.7718,-1.7310
-McDonalds at Asda Store,BD4 7SR,53.7724,-1.7321
+McDonald's,BD4 7SR,53.7688,-1.7476
 Gap Cafe,BD4 8JH,53.7910,-1.7112
 Java Joe,BD4 8RH,53.7768,-1.7271
 The Three Singhs Restaurant & Bar,BD4 8RN,53.7809,-1.7219
 CHARLIES CAFE,BD4 8SF,53.7878,-1.7408
 Subway,BD4 9PZ,53.7727,-1.7229
-Buzz Bingo,BD4 9RD,53.7670,-1.7115
-KFC,BD4 9RQ,53.7660,-1.7081
 Omar khans ,BD5 0AL,53.7899,-1.7580
 babtooma lts,BD5 0AX,53.7902,-1.7589
 Classic Persian restaurant (bradford)limited ,BD5 0NB,53.7834,-1.7640
@@ -179,19 +166,19 @@ Anglo-Asian Foods Ltd T/A Lahori Gate,BD5 0TG,53.7865,-1.7539
 LISTER ARMS SUBWAY,BD5 7JX,53.7822,-1.7574
 Sugar Snap Kitchen Ltd,BD5 8HB,53.7703,-1.7484
 Cedar Court Hotel Bradford,BD5 8HW,53.7714,-1.7532
-McDonalds,BD5 8JY,53.7691,-1.7485
+McDonald's,BD5 8JY,53.7688,-1.7476
 TAFZALHSHAH LTD,BD5 8JY,53.7691,-1.7485
 Food Fusion,BD5 8NN,53.7686,-1.7631
 Fuzebox ,BD5 8NN,53.7686,-1.7631
 dessert bus ,BD5 8PQ,53.7743,-1.7498
 P F HOLDINGS UK LTD T/A PEARLS TEA ROOM ,BD6 1DA,53.7684,-1.7517
 Pizza Hut,BD6 1JQ,53.7616,-1.7688
+KFC,BD6 1PR,53.7644,-1.7628
 KFC,BD6 1PR,53.7653,-1.7641
 Saltys Fish and Chips,BD6 1TB,53.7671,-1.7807
 Aunty Wainwright's Kitchen,BD6 1UL,53.7657,-1.7758
 Mangosteen,BD6 2EA,53.7585,-1.7957
 SHEZZAANS RESTAURANT BFD LTD,BD6 2LH,53.7598,-1.7851
-Caterplus Elior at Woodside Court,BD6 2QW,53.7564,-1.7879
 The Kashmir Restaurant,BD7 1AG,53.7903,-1.7595
 Cafe Liza,BD7 1AH,53.7910,-1.7616
 Aleppo,BD7 1AL,53.7915,-1.7589
@@ -199,7 +186,6 @@ LEGENDS DESSERTS BURGERS (BFD) LTD,BD7 1AL,53.7915,-1.7589
 Mylahore,BD7 1AL,53.7915,-1.7589
 OMARS BALTI HOUSE,BD7 1AL,53.7915,-1.7589
 boston burgers and shakes,BD7 1AL,53.7915,-1.7589
-Caterlink at Bradford College Starbucks,BD7 1AY,53.7910,-1.7616
 Burger Time ,BD7 1AZ,53.7906,-1.7625
 Subway Great Horton Rd,BD7 1AZ,53.7906,-1.7625
 The Real Doner co,BD7 1AZ,53.7908,-1.7627
@@ -207,7 +193,6 @@ friesday limited,BD7 1AZ,53.7906,-1.7625
 Bky limited t/a International Restaurant,BD7 1BA,53.7904,-1.7616
 H kitchen ,BD7 1BA,53.7904,-1.7616
 Just coffee,BD7 1BA,53.7904,-1.7616
-Baxter Storey at Starbucks,BD7 1DP,53.7917,-1.7621
 STARBAKE PATISSERIES LTD,BD7 1JR,53.7942,-1.7690
 Perry frangos,BD7 1ND,53.7925,-1.7731
 Subway ,BD7 1ND,53.7931,-1.7721
@@ -233,27 +218,24 @@ Ambala The Spice Lounge,BD7 1RP,53.7874,-1.7726
 Anams Restaurant,BD7 1RP,53.7874,-1.7726
 Candia cafe,BD7 2AA,53.7912,-1.7791
 Insane Air ,BD7 2BR,53.7842,-1.7845
-Team Sport Indoor Karting,BD7 2JZ,53.7832,-1.7890
-Starbucks,BD7 2SG,53.7837,-1.7974
 Food2go express clayton ltd,BD7 2SQ,53.7831,-1.8025
 ROMEOS DINER,BD7 3BZ,53.7829,-1.7815
 Bharat Restaurant Bar & Grill,BD7 3HR,53.7844,-1.7793
 Mumtaz,BD7 3HS,53.7856,-1.7771
 Peri Fusion,BD7 4EG,53.7797,-1.7859
 Burning Bull,BD7 4EY,53.7792,-1.7885
-McDonalds,BD8 9AH,53.7975,-1.7829
 Cha Cha Chai Donuts,BD8 9AN,53.7971,-1.7853
-KFC,BD8 9AP,53.7985,-1.7842
+McDonald's,BD8 9AP,53.7976,-1.7844
 Subway,BD8 9AP,53.7974,-1.7840
 TAFZALHSHAH LTD,BD8 9AP,53.7974,-1.7840
 KFC,BD8 9BH,53.7985,-1.7843
+KFC,BD8 9BH,53.7985,-1.7844
 Aleysha Bower T/A Mamma Leeshas Soul Kitchen,BD8 9BS,53.7992,-1.7828
 Yam spice foods ,BD8 9BS,53.7992,-1.7828
-Pizza Hut Restaurant,HD1 1BA,53.6472,-1.7823
+The Cherry Tree Huddersfield (Wetherspoon),HD1 1BA,53.6475,-1.7821
 heavenly desserts,HD1 1BG,53.6479,-1.7825
 pepes peri peri,HD1 1BG,53.6477,-1.7824
 AIS Ko LTD,HD1 1BR,53.6473,-1.7828
-Nandos,HD1 1BR,53.6473,-1.7828
 icestone gelato,HD1 1BR,53.6472,-1.7827
 Keys Kitchen and Coffee House,HD1 1BU,53.6474,-1.7807
 Zephyr Bar And Kitchen,HD1 1BX,53.6473,-1.7817
@@ -272,15 +254,15 @@ Nawaab,HD1 1NY,53.6468,-1.7852
 Mc Noodle King,HD1 1QH,53.6467,-1.7814
 Merrie England Coffee Shops Ltd,HD1 1QH,53.6467,-1.7814
 McDonald's Restaurant,HD1 1QJ,53.6470,-1.7822
-McDonalds,HD1 1QJ,53.6470,-1.7822
+McDonald's,HD1 1QJ,53.6470,-1.7823
 Parish,HD1 1QQ,53.6469,-1.7805
 Espresso Corner,HD1 1QS,53.6471,-1.7817
 SAN VITO ITALIAN RESTAURANT,HD1 1QT,53.6473,-1.7795
 Cafe Ollo,HD1 1RL,53.6491,-1.7809
 Subway,HD1 2AN,53.6466,-1.7827
 KFC NEW STREET 02022,HD1 2AX,53.6461,-1.7823
-Kfc,HD1 2AX,53.6461,-1.7823
-Costa Coffee,HD1 2BU,53.6454,-1.7833
+KFC,HD1 2AX,53.6461,-1.7822
+Costa Coffee,HD1 2BU,53.6457,-1.7830
 Merrie England Coffee Shops Ltd,HD1 2BW,53.6448,-1.7834
 Hart Bar,HD1 2DX,53.6459,-1.7839
 WIMPY,HD1 2DX,53.6458,-1.7835
@@ -297,18 +279,16 @@ Dixy Chicken,HD1 2PY,53.6463,-1.7809
 Grillish,HD1 2PY,53.6460,-1.7808
 Malaika Huddersfield Ltd,HD1 2PY,53.6463,-1.7809
 Cafe Mandalay,HD1 2PZ,53.6459,-1.7808
-Patisserie Valerie,HD1 2PZ,53.6459,-1.7808
 The Chinese Buffet,HD1 2PZ,53.6459,-1.7808
+The Lord Wilson Huddersfield (Wetherspoon),HD1 2PZ,53.6456,-1.7791
 Bagel Nash Huddersfield,HD1 2QB,53.6460,-1.7800
-Costa Coffee,HD1 2QB,53.6460,-1.7800
+Costa Coffee,HD1 2QB,53.6455,-1.7785
 Eat Like a Greek,HD1 2QB,53.6459,-1.7791
 Kingsgate Shopping Centre ,HD1 2QB,53.6459,-1.7791
 Little Lotus Huddersfield,HD1 2QB,53.6460,-1.7800
 SrinonKitchen,HD1 2QB,53.6459,-1.7791
-Caffe Nero,HD1 2QD,53.6460,-1.7823
 Choosy's Tea & Coffee House,HD1 2QD,53.6460,-1.7823
 Northern Tea House,HD1 2QT,53.6455,-1.7798
-Burger King,HD1 2RT,53.6463,-1.7814
 Escale Kaffeine Ltd,HD1 2RT,53.6463,-1.7814
 Merrie England Coffee Shops Ltd,HD1 2RT,53.6463,-1.7814
 Peters fashions limited,HD1 2RT,53.6463,-1.7814
@@ -335,11 +315,10 @@ Marsh Cafe,HD1 4LE,53.6517,-1.8046
 Playworld Huddersfield Ltd,HD1 4LF,53.6515,-1.8073
 The Croppers Arms,HD1 4LF,53.6515,-1.8073
 KFC MARSH 02004,HD1 4LG,53.6513,-1.8060
-Kfc,HD1 4LG,53.6513,-1.8060
+KFC,HD1 4LG,53.6513,-1.8060
 MARHABA,HD1 5AY,53.6504,-1.7842
 Thai Sakon Restaurant,HD1 5AY,53.6507,-1.7844
 The Scullery kitchen and bar Ltd,HD1 5BZ,53.6512,-1.7876
-Cafe Pausa  Dunelm Store,HD1 5DG,53.6547,-1.7842
 Apadana ,HD1 5DL,53.6507,-1.7831
 Gringos Restaurant ,HD1 5DL,53.6507,-1.7831
 Peppers Grill and Pizza Bar,HD1 5EY,53.6577,-1.7900
@@ -350,27 +329,23 @@ Barni's,HD1 6EF,53.6569,-1.7822
 Kobane cuisine ltd,HD1 6HY,53.6535,-1.7815
 Shama Balti Ltd,HD1 6LJ,53.6593,-1.7809
 HELLO CAKES LIMITED,HD1 6LQ,53.6614,-1.7804
-Burger King Unit H1,HD1 6PF,53.6579,-1.7679
+Costa Coffee,HD1 6ND,53.6552,-1.7756
 Burger King,HD1 6PF,53.6579,-1.7679
 Starbucks Huddersfield Leeds Rd Retail Park,HD1 6PF,53.6579,-1.7679
-Starbucks Unit J1,HD1 6PF,53.6579,-1.7679
 Subway,HD1 6PF,53.6579,-1.7679
-Costa Coffee,HD1 6PG,53.6547,-1.7689
-Pizza Hut Restaurant,HD1 6PG,53.6547,-1.7689
-Elior,HD1 6RA,53.6480,-1.7743
+Table Table The Aspley,HD1 6SB,53.6449,-1.7742
 GC's Cafe Limited,HD2 1GQ,53.6802,-1.7620
 Old post office cafe,HD2 1XE,53.6808,-1.7411
 KFC LEEDS RD 02024,HD2 1YJ,53.6608,-1.7616
-Kfc,HD2 1YJ,53.6608,-1.7616
+KFC,HD2 1YJ,53.6602,-1.7632
+McDonald's,HD2 1YJ,53.6604,-1.7627
 McDonalds Restaurants,HD2 1YJ,53.6608,-1.7616
-McDonalds,HD2 1YJ,53.6608,-1.7616
 Huddersfield Golf Club Limited,HD2 2EP,53.6716,-1.8007
 Mumbai spice restaurant,HD2 2LL,53.6712,-1.7800
-Compass Group Ltd,HD2 2LQ,53.6725,-1.7772
 SHEPHERDS ARMS,HD2 2NB,53.6686,-1.7904
 Sharans Deli.com,HD2 2QA,53.6623,-1.7814
 The old wire works,HD3 3DZ,53.6547,-1.8184
-Costa Coffee,HD3 3EA,53.6555,-1.8164
+Costa Coffee,HD3 3EA,53.6555,-1.8163
 Raffertys of Lindley,HD3 3HD,53.6534,-1.8177
 Home on Lindley Ltd,HD3 3JB,53.6598,-1.8230
 Manor House Lindley,HD3 3JB,53.6598,-1.8230
@@ -402,7 +377,7 @@ LAXMI Restaurant ,HD4 7NE,53.6197,-1.7960
 SONS OF THE NORTH LIMITED,HD4 7NR,53.6184,-1.7995
 Cardamon Green HD5LTD,HD5 0AL,53.6453,-1.7319
 McDonald's Restaurant,HD5 0AN,53.6453,-1.7316
-McDonalds,HD5 0BS,53.6459,-1.7327
+McDonald's,HD5 0BS,53.6460,-1.7326
 Blacksmiths Arms,HD5 0PH,53.6640,-1.7209
 The Royal & Anicent ,HD5 0RE,53.6754,-1.7346
 Royal City Cantoness Restaurant ,HD5 8AA,53.6447,-1.7624
@@ -411,7 +386,6 @@ ivy green,HD5 8DE,53.6455,-1.7601
 T&Cake,HD5 8RX,53.6339,-1.7487
 Bengal Aroma Almondbury Ltd,HD5 8UU,53.6330,-1.7474
 The Barn Restaurant,HD5 8XF,53.6310,-1.7471
-KFC,HD5 9AB,53.6435,-1.7710
 Subway  Molgreen,HD5 9AB,53.6435,-1.7710
 Pizza Hut Delivery,HD5 9AN,53.6432,-1.7695
 CoffeeBoy,HD5 9BD,53.6427,-1.7655
@@ -419,13 +393,14 @@ MAMMA MILLY'S,HD5 9XN,53.6445,-1.7478
 Mamma Milly’s ,HD5 9XN,53.6445,-1.7478
 icicles huddersfield ltd,HD5 9XP,53.6452,-1.7378
 The Office,HD6 1AB,53.7021,-1.7801
+Costa Coffee,HD6 1AF,53.7019,-1.7823
 Merrie England Coffee Shops Ltd,HD6 1AF,53.7021,-1.7807
 Villain bar ,HD6 1AQ,53.7023,-1.7814
 The Edge cafe and Play Gym,HD6 1AT,53.7031,-1.7825
 The Millers Bar,HD6 1EB,53.7015,-1.7819
 The Golden Hind,HD6 1EP,53.7003,-1.7831
 Station cafe,HD6 1HF,53.6981,-1.7806
-Richard Oastler (J D Wetherspoons),HD6 1JN,53.7013,-1.7802
+The Richard Oastler Brighouse (Wetherspoon),HD6 1JN,53.7014,-1.7799
 Meze Restaurant ,HD6 1JR,53.7010,-1.7810
 No.43 The Coffee House,HD6 1JR,53.7010,-1.7810
 The Secret Tearooms,HD6 1JR,53.7010,-1.7810
@@ -447,14 +422,14 @@ FOUR SONS INN,HD6 3QP,53.6802,-1.7916
 Big Shots Cafe,HD6 4AH,53.7089,-1.7797
 Thaal,HD6 4AS,53.7095,-1.7811
 McDonald's Restaurant,HD6 4BT,53.7179,-1.7784
-McDonalds Restaurants Ltd,HD6 4BT,53.7179,-1.7784
+McDonald's,HD6 4BT,53.7165,-1.7789
 Verity's at the Bridge,HD6 4DN,53.7220,-1.7773
 Big Baps at J25,HD6 4HA,53.6935,-1.7448
+Breakfast Room,HD6 4HA,53.6923,-1.7430
 The Black Horse Inn,HD6 4HJ,53.6996,-1.7548
-Burger King,HD6 4JX,53.7132,-1.7466
+KFC,HD6 4JX,53.7136,-1.7444
 Starbucks (East),HD6 4JX,53.7132,-1.7466
 Starbucks (West),HD6 4JX,53.7132,-1.7466
-Starbucks Drive Thru,HD6 4JX,53.7132,-1.7466
 Welcome Break Petrol Station (East),HD6 4JX,53.7132,-1.7466
 Welcome Break Petrol Station (West),HD6 4JX,53.7132,-1.7466
 Harveys Bar & Kitchen,HD8 0AS,53.6360,-1.7260
@@ -495,7 +470,6 @@ The Tannery Bar,HX3 8HQ,53.7261,-1.8182
 BARDOLINOS LTD,HX3 8JQ,53.7290,-1.8141
 Lightcliffe Tea Rooms,HX3 8SH,53.7257,-1.7994
 White Horse Inn,HX3 8SX,53.7302,-1.7992
-Baxterstorey Limited,HX3 9SY,53.7285,-1.8417
 Song Bird Cafe,HX5 0AB,53.6840,-1.8383
 The Fleece Inn ,HX5 0BB,53.6856,-1.8407
 Olivers,HX5 0BJ,53.6866,-1.8385
@@ -504,8 +478,6 @@ Sunny Gym Soft Play Centre ,HX5 0DF,53.6849,-1.8381
 Sanam balti house,HX5 0JH,53.6833,-1.8372
 Willows Bistro,HX5 0PL,53.6828,-1.8462
 Famiglia Halifax Limited,HX5 0PY,53.6844,-1.8409
-Baxterstorey Limited,HX5 9HT,53.6932,-1.8332
-Starbucks (West One),LS1 1BA,53.7971,-1.5563
 Starbucks Leeds - Wellington St,LS1 1BA,53.7971,-1.5563
 The Queens Hotel ,LS1 1PJ,53.7957,-1.5478
 Iberica Leeds,LS1 2BH,53.7993,-1.5494
@@ -519,13 +491,11 @@ LIVIN'Italy Dough House,LS1 2HD,53.7955,-1.5405
 REDS TRUE BARBECUE,LS1 2HD,53.7955,-1.5405
 DC Bars Ltd T/A Dirty Martini Leeds,LS1 2HL,53.7973,-1.5496
 Starbucks Leeds City Point,LS1 2HL,53.7973,-1.5496
-Starbucks,LS1 2JG,53.7979,-1.5513
-Pret A Manger (Infirmary Street),LS1 2JP,53.7974,-1.5491
+Pret A Manger,LS1 2JP,53.7977,-1.5484
 Box  Leeds,LS1 2JS,53.7976,-1.5494
 La Bottega Milanese,LS1 2JZ,53.7975,-1.5480
 Moose Coffee (UK) Ltd,LS1 2JZ,53.7975,-1.5480
 Sesame Healthy Food Limited ,LS1 2LE,53.7981,-1.5508
-Pizza Express (Park Square),LS1 2PS,53.7977,-1.5501
 Bagel Nash St Paul,LS1 2QB,53.7987,-1.5541
 Delicious Enterprises UK,LS1 2QH,53.7985,-1.5505
 Town Hall Tavern,LS1 2RA,53.7994,-1.5524
@@ -536,8 +506,6 @@ Chaophraya,LS1 4AG,53.7941,-1.5440
 FARRANDS BAR,LS1 4AG,53.7942,-1.5435
 Koibito ,LS1 4AG,53.7943,-1.5435
 Malmaison Leeds,LS1 4AG,53.7943,-1.5435
-CH&Co Catering Group In Squire Patton Boggs,LS1 4AP,53.7959,-1.5583
-Caffe Nero,LS1 4AP,53.7959,-1.5583
 Hoist House Pub,LS1 4AP,53.7955,-1.5557
 Veeno Leeds,LS1 4AP,53.7959,-1.5583
 Brasserie Blanc Leeds ,LS1 4BJ,53.7935,-1.5435
@@ -545,18 +513,12 @@ Archies Bar & Kitchen,LS1 4BR,53.7937,-1.5490
 DoubleTree by Hilton Leeds City Centre,LS1 4BR,53.7938,-1.5490
 LIVIN'Italy,LS1 4BR,53.7938,-1.5490
 La Casita Leeds ,LS1 4BR,53.7938,-1.5490
-Caffe Nero,LS1 4DL,53.7964,-1.5540
 Crowne Plaza Leeds,LS1 4DL,53.7964,-1.5540
-Cafe Nero,LS1 4DT,53.7942,-1.5476
-KFC (City Station),LS1 4DT,53.7942,-1.5476
-McDonalds (City Station),LS1 4DT,53.7942,-1.5476
-Pret A Manger,LS1 4DT,53.7942,-1.5476
-Starbucks (City Station),LS1 4DT,53.7942,-1.5476
 Subway,LS1 4DT,53.7951,-1.5476
-Wetherspoons,LS1 4DT,53.7942,-1.5476
 McDonald's Restaurant,LS1 4DY,53.7951,-1.5467
+Wetherspoons Leeds (Wetherspoon),LS1 4DY,53.7957,-1.5486
 Appetite Deli,LS1 4EA,53.7962,-1.5517
-Cafe Nero,LS1 4ER,53.7939,-1.5443
+Thyme,LS1 4EQ,53.7952,-1.5539
 Little Bao Boy,LS1 4ER,53.7939,-1.5443
 Fazenda Rodizio Bar & Grill,LS1 4GL,53.7935,-1.5487
 Out of the Woods,LS1 4GL,53.7935,-1.5487
@@ -565,31 +527,24 @@ Mans Market,LS1 4JJ,53.7962,-1.5533
 Lazy Lounge,LS1 4JY,53.7959,-1.5533
 The Whitehall Restaurant and Bar Limited,LS1 4JY,53.7958,-1.5533
 Toast Bar,LS1 4JY,53.7959,-1.5533
-Caffe Nero,LS1 5AT,53.7968,-1.5443
 CrepeAffaire Leeds,LS1 5AT,53.7965,-1.5446
 MEATLiquor,LS1 5AT,53.7965,-1.5446
 Comptoir Leeds,LS1 5AY,53.7966,-1.5439
-Everyman Cinema,LS1 5AY,53.7988,-1.5460
-Nandos (Trinity),LS1 5AY,53.7988,-1.5460
+Costa Coffee,LS1 5AY,53.7968,-1.5447
 PIZZALUXE,LS1 5AY,53.7965,-1.5437
-Pho,LS1 5AY,53.7965,-1.5437
 Rola Wala Leeds,LS1 5AY,53.7966,-1.5439
 Rosa's Thai Cafe,LS1 5AY,53.7965,-1.5437
-TGI Fridays,LS1 5AY,53.7988,-1.5460
-Tortilla,LS1 5AY,53.7965,-1.5437
-Wagamama,LS1 5AY,53.7988,-1.5460
 Wasabi Sushi & Bento,LS1 5AY,53.7966,-1.5439
 Wasabi,LS1 5AY,53.7965,-1.5437
-Yo Sushi,LS1 5AY,53.7988,-1.5460
 200 Degrees,LS1 5BQ,53.7977,-1.5460
 McDonald's Restaurant,LS1 5BQ,53.7976,-1.5457
-McDonalds Restaurant,LS1 5BQ,53.7976,-1.5457
-Pret A Manger (Bond Street),LS1 5BQ,53.7977,-1.5461
+Pret A Manger,LS1 5BQ,53.7968,-1.5446
 Roxy Lanes Ltd,LS1 5BQ,53.7977,-1.5460
 Wok to Walk,LS1 5BQ,53.7977,-1.5461
 Mowgli Street Food - Leeds,LS1 5DA,53.7958,-1.5461
 Friends of Ham (Leeds),LS1 5DL,53.7955,-1.5451
 Laynes Espresso ltd,LS1 5DL,53.7955,-1.5451
+Pret A Manger,LS1 5DL,53.7954,-1.5475
 Rudys Leeds,LS1 5DL,53.7954,-1.5451
 The Brewery Tap,LS1 5DL,53.7955,-1.5451
 Bundobust Leeds,LS1 5DQ,53.7952,-1.5453
@@ -601,10 +556,10 @@ Absurd Bird,LS1 5ER,53.7963,-1.5461
 Döner Shack Leeds Trinity,LS1 5EY,53.7974,-1.5462
 Gino D'acampo My Restaurant ,LS1 5HD,53.7983,-1.5467
 The Head of Steam leeds Park Row,LS1 5HN,53.7972,-1.5469
+Becketts Bank Leeds (Wetherspoon),LS1 5HU,53.7986,-1.5473
 Indian Tiffin Room Leeds Ltd,LS1 5JD,53.7981,-1.5475
 Le Chalet Ltd,LS1 5JD,53.7981,-1.5475
 GAUCHO Leeds,LS1 5JF,53.7990,-1.5467
-Caffe Nero (The Headrow),LS1 5JW,53.7993,-1.5461
 Sukhothai,LS1 5PQ,53.7989,-1.5477
 Manahatta  Greek Street,LS1 5PS,53.7982,-1.5490
 Tattu Leeds,LS1 5PS,53.7982,-1.5490
@@ -612,19 +567,14 @@ San Carlo Leeds,LS1 5QX,53.7992,-1.5480
 Gusto Italian,LS1 5RU,53.7982,-1.5478
 Bar Soba (Greek Street),LS1 5RW,53.7986,-1.5473
 The Alchemist Greek St,LS1 5SH,53.7986,-1.5480
-Starbucks Coffee Company,LS1 6AB,53.7975,-1.5450
 Starbucks Leeds Albion Street,LS1 6AB,53.7975,-1.5450
 AB travel inn,LS1 6AD,53.7984,-1.5449
-Patisserie Valerie,LS1 6AD,53.7984,-1.5447
-Franco Manca,LS1 6AP,53.7972,-1.5435
-Pret A Manger (Lands Lane),LS1 6AW,53.7977,-1.5439
+Pret A Manger,LS1 6AW,53.7977,-1.5434
 Harvey Nichols Leeds,LS1 6AZ,53.7979,-1.5412
 Mc noodle king,LS1 6BY,53.7971,-1.5410
 Kitty Cafe Leeds Ltd,LS1 6BZ,53.7974,-1.5415
 Little Tokyo ,LS1 6DE,53.7965,-1.5411
-Nandos (Briggate),LS1 6DL,53.7958,-1.5420
 Doner Summer,LS1 6DN,53.7965,-1.5401
-Five Guys,LS1 6DQ,53.7962,-1.5417
 Pieminister Leeds,LS1 6DQ,53.7962,-1.5417
 Power Corruption and Lies,LS1 6DT,53.7954,-1.5413
 Flamingos Coffee House,LS1 6DX,53.7964,-1.5416
@@ -634,29 +584,25 @@ Doh’hut,LS1 6ET,53.7957,-1.5431
 itsu Leeds,LS1 6EX,53.7973,-1.5437
 WHITELOCKS ALE HOUSE LTD,LS1 6HB,53.7972,-1.5434
 McDonald's Restaurant,LS1 6HD,53.7967,-1.5429
-McDonalds (Briggate),LS1 6HD,53.7967,-1.5429
+McDonald's,LS1 6HD,53.7962,-1.5429
 BARBURRITO,LS1 6HW,53.7960,-1.5446
-Burger King (Boar Lane),LS1 6HW,53.7961,-1.5434
-Caffe Nero (Boar Lane),LS1 6HW,53.7961,-1.5434
+Burger King,LS1 6HW,53.7962,-1.5431
 Roxy Ball Room,LS1 6HW,53.7960,-1.5446
 The Alchemist Trinity,LS1 6HW,53.7961,-1.5441
 KOKORO,LS1 6HX,53.7967,-1.5449
 Kaspas Desserts,LS1 6JB,53.7987,-1.5436
 BURGERKING,LS1 6JD,53.7989,-1.5439
-Burger King (The Core),LS1 6JD,53.7988,-1.5438
 ROOSTERS PIRI PIRI,LS1 6JD,53.7988,-1.5438
 Subway,LS1 6JD,53.7988,-1.5438
 Graveleys core ltd ,LS1 6JE,53.7988,-1.5438
 Graveleys fish and chips ,LS1 6JE,53.7988,-1.5438
-Pizza Express,LS1 6JL,53.7980,-1.5446
 The New Conservatory,LS1 6JL,53.7980,-1.5446
-Caffe Nero (Albion Place),LS1 6JS,53.7977,-1.5432
 LUCKY DAYS,LS1 6JS,53.7977,-1.5432
 spuds4u,LS1 6LA,53.7986,-1.5437
+Costa Coffee,LS1 6LB,53.7980,-1.5434
 Olive&Rye,LS1 6LF,53.7983,-1.5427
 Simpatico Pizza,LS1 6LF,53.7983,-1.5427
 The White Swan,LS1 6LG,53.7990,-1.5432
-Starbucks,LS1 6LH,53.7983,-1.5424
 Starbucks Leeds Briggate,LS1 6LQ,53.7986,-1.5428
 Viet Guy ,LS1 6LY,53.7953,-1.5422
 San co co,LS1 6NU,53.7999,-1.5412
@@ -671,11 +617,11 @@ Oporto,LS1 7BT,53.7953,-1.5409
 Riveresque ,LS1 7HG,53.7943,-1.5419
 Viva Italian Restuarnt ,LS1 7HG,53.7943,-1.5419
 Subway,LS1 7JH,53.7984,-1.5395
-Compass (Costa Coffee - Broad Gate),LS1 8EQ,53.7996,-1.5442
 Haute Dolci,LS1 8EQ,53.7996,-1.5442
 Starbucks The Light Leeds,LS1 8EQ,53.7997,-1.5444
 Fleur Cafe,LS1 8TL,53.8000,-1.5457
-Costa Coffee (Hunslet),LS10 1ET,53.7888,-1.5405
+Nando's,LS1 8TL,53.7999,-1.5463
+Costa Coffee,LS10 1ET,53.7872,-1.5411
 Subway,LS10 1EW,53.7871,-1.5405
 Sheaf St,LS10 1HD,53.7914,-1.5380
 Cha Lounge Ltd,LS10 1JF,53.7937,-1.5395
@@ -683,71 +629,55 @@ Ciao Bella restaurant,LS10 1JF,53.7937,-1.5395
 The Tetley ,LS10 1JQ,53.7930,-1.5406
 Printworks Kitchen and bar,LS10 1JY,53.7874,-1.5351
 Holiday Inn Express Leeds Armouries ,LS10 1LE,53.7912,-1.5312
-Baxterstorey,LS10 1LJ,53.7899,-1.5339
-Pizza Express (Hunslet),LS10 1LU,53.7898,-1.5287
 Cafe YumYum,LS10 1NE,53.7939,-1.5377
-Jurys Inn Leeds (Hotel),LS10 1NE,53.7939,-1.5378
 North Star Coffee Shop & General Store,LS10 1PZ,53.7906,-1.5319
 MUMTAZ LEEDS LTD,LS10 1QD,53.7909,-1.5333
-McDonalds,LS10 1QR,53.7816,-1.5270
+McDonald's,LS10 1QR,53.7822,-1.5279
 Ronnies Ltd t/a McDonalds 672,LS10 1QR,53.7816,-1.5270
 Subway,LS10 1QR,53.7816,-1.5270
 Parnaby Tavern,LS10 2AB,53.7707,-1.5233
-KFC (Hunslet),LS10 2AG,53.7781,-1.5314
 KFC HUNSLET 02031,LS10 2AG,53.7781,-1.5314
+KFC,LS10 2AG,53.7782,-1.5313
 Costa Coffee,LS10 2AP,53.7789,-1.5287
-Mecca Bingo (Hunslet),LS10 2HU,53.7743,-1.5299
 The Crooked Clock,LS10 2LF,53.7755,-1.5173
 Grille & Co Ltd,LS10 4AX,53.7486,-1.5355
-Burger King,LS11 0BD,53.7728,-1.5826
-Elior In Alliance Healthcare,LS11 0LR,53.7636,-1.5792
 Starbucks Leeds Bridgewater Place,LS11 5BZ,53.7916,-1.5478
 John Charles Centre for Sport Flavour Café,LS11 5DJ,53.7642,-1.5420
-Restaurant Associates (Compass Group In Eversheds),LS11 5DR,53.7915,-1.5478
 Casa Das Fransecinha ,LS11 5EG,53.7784,-1.5445
 Bison steakhouse,LS11 5NW,53.7794,-1.5445
 Nosso prego cafe & restaurant ltd,LS11 5NW,53.7794,-1.5445
 Water Lane Boathouse,LS11 5PS,53.7930,-1.5502
 The Midnight Bell,LS11 5QN,53.7917,-1.5514
-Starbucks Coffee Company.,LS11 5QS,53.7915,-1.5478
 Out of the Woods,LS11 5WD,53.7917,-1.5531
 THE CROSS KEYS,LS11 5WD,53.7917,-1.5527
 Taste,LS11 5WH,53.7913,-1.5524
 taste cafe ,LS11 7HL,53.7670,-1.5617
 Dolce Vita - Craft & Kitchen,LS11 7HX,53.7741,-1.5636
-KFC (Hunslet),LS11 7JX,53.7669,-1.5565
 NAAN’IZZA CO,LS11 8AX,53.7707,-1.5787
 Alfies Burger Joint,LS11 8BB,53.7781,-1.5545
 McDonald's Restaurant,LS11 8BU,53.7798,-1.5633
-McDonalds (Holbeck),LS11 8BY,53.7742,-1.5636
+McDonald's,LS11 8BU,53.7780,-1.5677
 Whistlestop,LS11 8DG,53.7719,-1.5711
 KFC WHITE ROSE 02017,LS11 8EW,53.7603,-1.5701
+KFC,LS11 8EW,53.7585,-1.5740
 SPUDULIKE LEEDS,LS11 8EW,53.7603,-1.5701
-Bakers + Baristas,LS11 8LL,53.7579,-1.5741
-Costa Coffee (White Rose Shopping Centre),LS11 8LL,53.7586,-1.5742
-Costa Coffee,LS11 8LL,53.7586,-1.5742
-Nandos (White Rose Centre),LS11 8LL,53.7586,-1.5742
 Bagel Nash White Rose,LS11 8LU,53.7579,-1.5741
 COFFEE CREATIONS,LS11 8LU,53.7586,-1.5742
+Costa Coffee,LS11 8LU,53.7596,-1.5742
 FRANKSTER'S,LS11 8LU,53.7579,-1.5741
-Five Guys,LS11 8LU,53.7562,-1.5738
 Graveley’s fish and chips ,LS11 8LU,53.7579,-1.5741
-KFC (White Rose),LS11 8LU,53.7586,-1.5742
 McDonald's Restaurant,LS11 8LU,53.7579,-1.5741
-Mcdonalds,LS11 8LU,53.7579,-1.5741
+McDonald's,LS11 8LU,53.7584,-1.5739
+Nando's,LS11 8LU,53.7586,-1.5739
 Pavs Dhaba,LS11 8LU,53.7562,-1.5738
 Pizza Express,LS11 8LU,53.7586,-1.5742
-Pizza Hut,LS11 8LU,53.7562,-1.5738
-Prezzo,LS11 8LU,53.7586,-1.5742
 Subway,LS11 8LU,53.7586,-1.5742
-Wagamama,LS11 8LU,53.7562,-1.5738
 wrapchic,LS11 8LU,53.7579,-1.5741
 A & A Restaurants (LS11) Ltd ,LS11 8TU,53.7766,-1.5721
 Subway,LS11 8TU,53.7765,-1.5722
 Clayton Hotel Leeds,LS11 9AT,53.7884,-1.5478
 VENUS FOODS (LEEDS) LIMITED,LS11 9NS,53.7858,-1.5603
 Gazzas Cafe,LS12 1DX,53.7911,-1.5714
-Dunelm Ltd,LS12 1EF,53.7910,-1.5667
 Leeds Bar & Grill,LS12 1HQ,53.7918,-1.5790
 The sugar suite ,LS12 1TZ,53.7951,-1.5885
 Resolute Leeds Limited,LS12 2DS,53.7962,-1.5668
@@ -757,17 +687,17 @@ Armley Starbucks,LS12 2QN,53.7982,-1.5765
 Legends Desserts and Burger Bar Ltd,LS12 3AQ,53.7977,-1.5884
 Sambuca (Leeds) Ltd,LS12 3HB,53.7959,-1.5925
 the candy basket leeds ltd,LS12 3RA,53.7975,-1.6014
-Buzz Bingo,LS12 4QN,53.7916,-1.6138
 The Beulah,LS12 5EP,53.7885,-1.6340
 Clip 'n Climb Leeds Ltd,LS12 6BF,53.7832,-1.5733
 Jump INC Leeds,LS12 6DP,53.7818,-1.5772
 The mailbox Leeds,LS12 6LT,53.7838,-1.5749
-Mcdonalds Restaurant,LS13 4JE,53.7958,-1.6215
+McDonald's,LS13 4JE,53.7951,-1.6216
 TAFZALHSHAH LTD,LS13 4JE,53.7958,-1.6214
 Subway,LS13 4JF,53.7956,-1.6207
 Dominos Pizza,LS13 4LS,53.7956,-1.6206
 Chopstix Leeds Skelton Lake,LS15 0AE,53.7844,-1.4597
 morenos restaurant,LS15 0DR,53.7940,-1.4720
+Breakfast Room,LS15 7AY,53.7982,-1.4502
 Rice Paper Cantonese Restaurant and Takeaway,LS15 7HW,53.7961,-1.4711
 New spice house Ltd ,LS15 7JR,53.7963,-1.4701
 Bengal lounge leeds,LS15 7RN,53.7972,-1.4678
@@ -775,16 +705,12 @@ Marimonte Restaurant,LS15 7RN,53.7973,-1.4678
 Skyliner Fish Restaurant ,LS15 8NN,53.7983,-1.4409
 Skyliner fish restaurant,LS15 8NN,53.7983,-1.4409
 Amorino,LS2 7AR,53.7982,-1.5384
-Benugo (within John Lewis),LS2 7AR,53.7982,-1.5384
-Pret A Manger,LS2 7AR,53.7982,-1.5384
 The Yorkshire Deli & Pizza Bar,LS2 7AU,53.7979,-1.5385
 The Fishermans third wife ltd,LS2 7BR,53.7970,-1.5379
-Pizza Express (Crown Street),LS2 7DA,53.7955,-1.5405
 Safran Charcoal Restaurant ,LS2 7DJ,53.7958,-1.5380
 Wapentake ,LS2 7DJ,53.7958,-1.5380
 Al baba restaurant ,LS2 7DR,53.7962,-1.5383
 Eat Your Greens Leeds,LS2 7DY,53.7963,-1.5367
-Mecca Bingo (Leeds),LS2 7DY,53.7963,-1.5367
 Outlaws Yacht Club,LS2 7DY,53.7963,-1.5367
 Crowd of Favours,LS2 7EA,53.7962,-1.5377
 Shears Yard,LS2 7EH,53.7951,-1.5387
@@ -798,6 +724,7 @@ Fat Annie's Hot Dogs,LS2 7HY,53.7976,-1.5383
 Jenny’s Jerk Chicken ,LS2 7HY,53.7976,-1.5387
 Manjit's Kitchen ,LS2 7HY,53.7976,-1.5383
 khao gaeng thai ,LS2 7HY,53.7976,-1.5383
+Pret A Manger,LS2 7JL,53.7984,-1.5381
 Akbar's Restaurant,LS2 7LY,53.7990,-1.5385
 Pizza Fella Pizzeria Ltd,LS2 7NL,53.7997,-1.5394
 The Old Red Bus Station,LS2 7NL,53.7997,-1.5394
@@ -816,12 +743,11 @@ SALUTE AT THE WHITE SWAN,LS26 0QL,53.7495,-1.4814
 Oulton Hall Hotel,LS26 8HN,53.7447,-1.4586
 Zoya Restaurant ,LS26 8HP,53.7516,-1.4479
 New Masons Arms,LS26 8JR,53.7470,-1.4530
-McDonalds (Morley),LS27 0BN,53.7331,-1.6071
 McDonald's Restaurant,LS27 0BP,53.7352,-1.6101
+McDonald's,LS27 0BP,53.7356,-1.6100
 morley dashers ltd,LS27 0BY,53.7389,-1.6023
 Zoya Restaurant ,LS27 0LF,53.7415,-1.6207
 The needless inn,LS27 0NZ,53.7263,-1.6252
-Plantation Starbucks,LS27 7FP,53.7487,-1.6321
 The workshop cafe,LS27 7ND,53.7656,-1.6071
 Baan Thai Restaurant,LS27 8AG,53.7445,-1.5980
 Kasa Rosa Restaurant,LS27 8AQ,53.7429,-1.5978
@@ -833,10 +759,10 @@ Nigella's Cafe,LS27 8DX,53.7462,-1.6016
 Junglecatz Ltd,LS27 8FZ,53.7468,-1.6016
 The Coffee Conservatory,LS27 8HA,53.7447,-1.6001
 EIGHTEEN90 LTD,LS27 8HE,53.7432,-1.5992
+The Picture House Leeds (Wetherspoon),LS27 8HE,53.7442,-1.6001
 Sambuca Lounge,LS27 8HG,53.7440,-1.5996
 The Miners Arms,LS27 8LG,53.7480,-1.5932
 The Full Monty,LS27 8LL,53.7541,-1.5979
-Starbucks,LS27 8PU,53.7553,-1.5710
 Red brick cafe,LS27 8PW,53.7497,-1.5722
 Cafe Nicoles,LS27 8QH,53.7452,-1.5981
 Sportsman inn,LS27 9AD,53.7426,-1.6011
@@ -846,22 +772,19 @@ Pizza Hut Delivery,LS27 9EW,53.7424,-1.5988
 Carriers Arms,LS27 9HG,53.7399,-1.5947
 Olde Booths tea rooms,LS28 7AA,53.7974,-1.6609
 Wetherby Whaler,LS28 7AA,53.7974,-1.6609
+The Crossed Shuttle Leeds (Wetherspoon),LS28 7BJ,53.7965,-1.6618
 Open mode limited,LS28 7LJ,53.7975,-1.6640
 7 Steps,LS28 7RZ,53.7926,-1.6700
 Fox and grapes Pudsey ,LS28 8HU,53.7905,-1.6773
 No54 Tearooms and Antiques,LS28 8NT,53.7841,-1.6643
 The Britannia ,LS28 9AP,53.7992,-1.6518
 The Fox and Newt Public House,LS3 1LD,53.8000,-1.5595
+Breakfast Room,LS3 1LW,53.7978,-1.5618
 Grosvenor Casinos Leeds Westgate,LS3 1LW,53.7978,-1.5620
-TGI Fridays,LS3 1LW,53.7977,-1.5618
 Napoleons Casino,LS3 1LX,53.7991,-1.5622
-Burger King,LS9 0AS,53.7727,-1.4713
-Nandos,LS9 0AS,53.7727,-1.4713
-Starbucks,LS9 0AS,53.7727,-1.4713
 Cafe 164,LS9 8AG,53.7968,-1.5339
 Sarto Leeds ltd,LS9 8AG,53.7968,-1.5339
 Aagrah Restaurant Leeds,LS9 8AH,53.7975,-1.5329
-Baxterstorey Café BBC Leeds 5045,LS9 8AH,53.7975,-1.5329
 Kendells Bistro,LS9 8AH,53.7975,-1.5329
 The Wardrobe,LS9 8AH,53.7975,-1.5329
 Casa Peri Peri,LS9 8AQ,53.7971,-1.5330
@@ -891,11 +814,11 @@ Lobby 1867,WF1 1EP,53.6817,-1.5023
 iris restaurant,WF1 1HA,53.6834,-1.4990
 Marmalade on the square ,WF1 1HB,53.6832,-1.4984
 Mr and Mrs C’s,WF1 1HB,53.6832,-1.4984
-Costa Coffee,WF1 1HD,53.6832,-1.4980
+Costa Coffee,WF1 1HD,53.6832,-1.4979
 Al's Tea and coffee Shop ,WF1 1HX,53.6824,-1.4938
 Harry's Fish & Chip Restaurant,WF1 1HX,53.6824,-1.4938
+The Six Chimneys Wakefield (Wetherspoon),WF1 1HX,53.6829,-1.4943
 Sweet Sensation Creamery Limited,WF1 1JG,53.6813,-1.4927
-Buzz Bingo,WF1 1JN,53.6798,-1.4995
 Holiday Inn Express Wakefield,WF1 1JU,53.6821,-1.4994
 Syhiba restaurant ,WF1 1NE,53.6808,-1.4952
 Montys,WF1 1PJ,53.6832,-1.4967
@@ -904,14 +827,10 @@ neptune diner,WF1 1PN,53.6836,-1.4970
 Tet resteraunt,WF1 1PQ,53.6829,-1.4986
 cafe lounge 46,WF1 1PQ,53.6829,-1.4986
 Trinity Bakehouse & cafe,WF1 1QG,53.6837,-1.4956
-Burger King,WF1 1QR,53.6850,-1.4968
-Pizza Express,WF1 1QR,53.6840,-1.4968
 Starbucks Wakefield Trinity Walk,WF1 1QR,53.6850,-1.4968
-Starbucks,WF1 1QR,53.6850,-1.4968
-Caffe Nero,WF1 1QS,53.6836,-1.4945
 Muffin Break Wakefield,WF1 1QS,53.6843,-1.4961
 The Chinese Buffet,WF1 1QS,53.6843,-1.4961
-Costa Coffee,WF1 1QU,53.6847,-1.4951
+Costa Coffee,WF1 1QU,53.6848,-1.4940
 love jacobs ltd,WF1 1QU,53.6848,-1.4947
 TRINITY LOUNGE,WF1 1QW,53.6840,-1.4968
 CAFE RED,WF1 1TU,53.6807,-1.4928
@@ -925,8 +844,6 @@ Jay Dee’s,WF1 1XQ,53.6822,-1.5018
 lala's wakefied,WF1 1XQ,53.6822,-1.5018
 the black horse,WF1 1XR,53.6820,-1.5032
 R Spice Wakefield Limited,WF1 2AT,53.6985,-1.5167
-Baxterstorey,WF1 2DF,53.7010,-1.5077
-Starbucks,WF1 2DH,53.6865,-1.5059
 Wetherby Whaler,WF1 2DX,53.7097,-1.5019
 Meghna India restaurant & takeaway limited ,WF1 2DY,53.7093,-1.5016
 Create Cafe,WF1 2EB,53.6842,-1.5037
@@ -935,17 +852,15 @@ Smokehouse Real BBQ Limited,WF1 2ED,53.6834,-1.4996
 The Golden Pineapple,WF1 2ED,53.6834,-1.4996
 damelio,WF1 2ED,53.6834,-1.4996
 QUBANA ,WF1 2EL,53.6833,-1.5001
-Starbucks,WF1 2GS,53.6958,-1.5041
 Festive Fusion,WF1 2HB,53.6838,-1.5002
 Kirklands Hotel,WF1 2LU,53.7128,-1.4997
 Capri At The Vine,WF1 2QF,53.6934,-1.5046
-Costa Coffee,WF1 2QN,53.6833,-1.5062
+Costa Coffee,WF1 2QN,53.6829,-1.5057
 The Priory Bar,WF1 2TJ,53.6827,-1.5048
 Estabulo Bar & Grill,WF1 2TS,53.6831,-1.5036
-Burger King,WF1 2UJ,53.6988,-1.5079
+Brewers Fayre Rhubarb Triangle,WF1 2UF,53.6988,-1.5079
 Kashmiri Aroma (Wakefield) LLP,WF1 2UJ,53.6988,-1.5079
-Costa Coffee,WF1 2UZ,53.6970,-1.5073
-McDonalds Restaurant,WF1 2UZ,53.6970,-1.5073
+McDonald's,WF1 2UZ,53.6966,-1.5062
 Ronnies Limited t/a McDonalds 1505,WF1 2UZ,53.6970,-1.5073
 Subway,WF1 2UZ,53.6970,-1.5073
 Delphi Cafe,WF1 3AN,53.6841,-1.4981
@@ -966,14 +881,11 @@ Abduls,WF1 3NR,53.6868,-1.4939
 Taste Buds At The Station,WF1 4EL,53.6787,-1.4894
 Kashmiri Posh Nosh,WF1 5DY,53.6720,-1.4824
 RAJA'S DESI GRILL,WF1 5DY,53.6720,-1.4824
-Starbucks,WF1 5FW,53.6680,-1.4839
 Aagrah Sandal ,WF1 5NX,53.6661,-1.4868
 Thornes Lane Cafe,WF1 5RS,53.6745,-1.4971
 The Kings Arms,WF1 5SL,53.6761,-1.4621
 Woolpack Country Inn,WF12 0LZ,53.6566,-1.6672
-Costa Coffee,WF12 8EN,53.6892,-1.6280
-Kfc,WF12 8EQ,53.6904,-1.6245
-Mecca Bingo,WF12 8EQ,53.6904,-1.6245
+KFC,WF12 8EB,53.6885,-1.6264
 Spinners arms,WF12 8PX,53.6916,-1.5983
 Deli Delicious ,WF12 9AU,53.6851,-1.6281
 yaadgaar,WF12 9AY,53.6822,-1.6258
@@ -986,6 +898,7 @@ Pops,WF13 1DX,53.6932,-1.6296
 Islamabad Catering Ltd T/A The Royal Palm Restaurant,WF13 1HD,53.6906,-1.6350
 Royal King Grill Restaurant,WF13 1JS,53.6903,-1.6315
 Costa Coffee,WF13 1NH,53.6904,-1.6287
+Costa Coffee,WF13 1NH,53.6913,-1.6281
 Cafe Mon Amis,WF13 1QG,53.6926,-1.6279
 Subway,WF13 1QH,53.6922,-1.6283
 Pizza GoGo,WF13 1QN,53.6927,-1.6288
@@ -1000,7 +913,6 @@ chill and chat cafe ,WF13 3NT,53.6941,-1.6570
 The Pie Shed,WF13 4DH,53.6982,-1.6511
 The Shoulder of Mutton,WF14 0AE,53.6845,-1.6910
 spice of bengal restaurant,WF14 0AT,53.6884,-1.6917
-Starbucks,WF14 0BY,53.6870,-1.7229
 Whitegate Inn,WF14 0DB,53.6905,-1.7129
 Capri Mirfield,WF14 0HY,53.6882,-1.6936
 Chelle’s Deli Cafe,WF14 0NL,53.6903,-1.6963
@@ -1032,8 +944,9 @@ Crafty Kids ,WF16 0HH,53.7072,-1.6782
 Cafe 54,WF16 0HX,53.7073,-1.6743
 Samarkand Restaurant ,WF16 0JA,53.7073,-1.6733
 Shama Heckmondwike Ltd,WF16 9BJ,53.7211,-1.6688
+Costa Coffee,WF16 9RL,53.7095,-1.6763
 McDonald's Restaurant,WF16 9RL,53.7085,-1.6762
-McDonalds,WF16 9RL,53.7085,-1.6762
+McDonald's,WF16 9RL,53.7092,-1.6769
 Chaiiwala Batley,WF17 5DA,53.7143,-1.6341
 Exotica Cafe ,WF17 5DR,53.7150,-1.6328
 K&K GELATO LTD,WF17 5EP,53.7131,-1.6308
@@ -1041,6 +954,7 @@ icestone gelato,WF17 5EP,53.7131,-1.6309
 Yorem Turkish Restaurant Ltd,WF17 5EY,53.7132,-1.6300
 Desi Dhaba ,WF17 5HJ,53.7127,-1.6295
 brew batley ltd,WF17 5HU,53.7122,-1.6329
+The Union Rooms Batley (Wetherspoon),WF17 5HW,53.7126,-1.6286
 Indian Nights,WF17 5JE,53.7120,-1.6333
 Mr T's,WF17 5LZ,53.7116,-1.6267
 CEYLON DOSA LTD,WF17 5PN,53.7105,-1.6275
@@ -1058,19 +972,14 @@ Oasis sandwich &Coffee  Bar,WF17 7BA,53.7053,-1.6502
 All Stars Sports Cafe Ltd,WF17 7NZ,53.7081,-1.6327
 Jems Pit Stop,WF17 8ND,53.7263,-1.6537
 Subway,WF17 8NN,53.7276,-1.6583
-Pizza Express Unit M Junction 27,WF17 9AD,53.7441,-1.6448
-Zizzi,WF17 9AD,53.7441,-1.6448
-Caffe Nero,WF17 9DT,53.7462,-1.6443
+Costa Coffee,WF17 9DT,53.7459,-1.6429
 Mizzika 555 ,WF17 9EY,53.7323,-1.6615
 Hannahs restaurant,WF17 9HA,53.7325,-1.6623
 KFC CENTRE 27 02018,WF17 9TB,53.7431,-1.6424
-Kfc,WF17 9TB,53.7431,-1.6424
 McDonald's Restaurant,WF17 9TB,53.7431,-1.6424
-McDonalds,WF17 9TB,53.7431,-1.6424
-Nandos,WF17 9TB,53.7431,-1.6424
-Pizza Hut Restaurant,WF17 9TB,53.7439,-1.6422
+McDonald's,WF17 9TB,53.7439,-1.6421
+Nando's,WF17 9TB,53.7448,-1.6411
 Starbucks Centre 27,WF17 9TB,53.7431,-1.6424
-Starbucks,WF17 9TB,53.7431,-1.6424
 Carr Gate Garden Centre,WF2 0SY,53.7153,-1.5322
 BaxterStorey @ WY Met Ambulance,WF2 0XQ,53.7087,-1.5180
 The Spring Community Cafe,WF2 6EG,53.6615,-1.4836
@@ -1082,9 +991,7 @@ LAKESIDE,WF2 6QG,53.6384,-1.4979
 Campanile Wakefield,WF2 7AL,53.6652,-1.5100
 Wetherby Whaler,WF2 7AW,53.6638,-1.5053
 BURGER KING-Peel Avenue Wakefield,WF2 7BL,53.6520,-1.5240
-Burger King,WF2 7BL,53.6520,-1.5240
 KFC,WF2 7BL,53.6520,-1.5240
-Starbucks,WF2 7BL,53.6520,-1.5240
 Fortythree Boutique Coffee Shop,WF2 7EE,53.6486,-1.4964
 Rinaldis Restaurant  ,WF2 7JE,53.6494,-1.4978
 Elior UK,WF2 7LJ,53.6415,-1.5155
@@ -1094,18 +1001,14 @@ Cross lane fisheries ,WF2 8BQ,53.6742,-1.5186
 The Queens Arms ,WF2 8ED,53.6706,-1.5037
 Mother Hubbards,WF2 8TU,53.6777,-1.5160
 Pizza Hut,WF2 8TU,53.6777,-1.5160
-McDonalds Restaurant,WF2 9BL,53.6787,-1.5166
 coffeeboy,WF2 9BL,53.6788,-1.5163
+McDonald's,WF2 9BY,53.6785,-1.5229
 Ronnies Limited t/a McDonalds 569,WF2 9BY,53.6784,-1.5252
 Smokie joes,WF2 9RG,53.6801,-1.5089
+KFC,WF2 9SD,53.6785,-1.5045
 KFC,WF2 9SE,53.6781,-1.5025
-Mcdonalds Restaurant,WF2 9SE,53.6781,-1.5026
+McDonald's,WF2 9SE,53.6761,-1.5027
 Ronnies Limited t/a McDonalds 668,WF2 9SE,53.6781,-1.5026
-Costa Coffee,WF2 9SH,53.6772,-1.5061
-KFC,WF2 9SH,53.6772,-1.5061
-Mecca Bingo,WF2 9SH,53.6772,-1.5061
-Nandos,WF2 9SH,53.6772,-1.5061
-Pizza Hut,WF2 9SH,53.6772,-1.5061
 Subway,WF2 9SH,53.6772,-1.5061
 Beans,WF3 1AE,53.7240,-1.5696
 British Oak,WF3 1AF,53.7240,-1.5772
@@ -1117,7 +1020,9 @@ Ma B's Kitchen,WF3 4DF,53.7098,-1.4778
 NORMANTON GOLF CLUB LIMITED,WF3 4JP,53.7066,-1.4843
 Redbeck Motel Ltd,WF4 1RR,53.6647,-1.4474
 YOH BURGER (WAKEFIELD),WF4 1RR,53.6648,-1.4464
+KFC,WF4 3AD,53.6518,-1.5245
 HAMPSONSPLANTWORLD LTD,WF4 3AZ,53.6541,-1.5192
+Breakfast Room,WF4 3BB,53.6528,-1.5222
 Kingfisher Fish and Chips,WF4 3DA,53.6471,-1.5385
 Blackerhall Farm Shop Limited,WF4 3DN,53.6347,-1.5456
 STATION PUB,WF4 3ER,53.6342,-1.5437
@@ -1127,10 +1032,7 @@ Kaye Arms Bistro,WF4 4BG,53.6371,-1.6558
 CINNAMON LOUNGE,WF4 4BP,53.6280,-1.6777
 The Sun Inn ,WF4 4DW,53.6298,-1.6452
 The Kitchen at YSP,WF4 4LG,53.6073,-1.5632
-Burger King,WF4 4LQ,53.6220,-1.5446
-Costa Coffee,WF4 4LQ,53.6220,-1.5446
-Moto Hospitality Forecourt North,WF4 4LQ,53.6220,-1.5446
-Moto Hospitality Forecourt South,WF4 4LQ,53.6220,-1.5446
+Costa Coffee,WF4 4LQ,53.6222,-1.5456
 The Spiced Mango,WF4 4NS,53.6508,-1.5963
 SeedRoom,WF4 4RG,53.6491,-1.6099
 Reindeer Inn (OVERTON) Ltd,WF4 4RL,53.6446,-1.6149

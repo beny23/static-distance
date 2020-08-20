@@ -1,6 +1,5 @@
 name,postcode,lat,lon
 Casa Rastelli,LA1 1AL,54.0481,-2.8012
-Pizza Hut Restaurant,LA1 1BS,54.0539,-2.7948
 The Three Mariners,LA1 1EE,54.0511,-2.8031
 Etna,LA1 1EG,54.0493,-2.8021
 Lewis's of Lancaster,LA1 1EG,54.0493,-2.8021
@@ -8,8 +7,6 @@ The Cornerhouse,LA1 1EG,54.0493,-2.8021
 The Sun Hotel and Bar,LA1 1ET,54.0499,-2.8027
 Sun Pizza,LA1 1EW,54.0494,-2.8024
 cafe Dolce,LA1 1HT,54.0488,-2.8004
-Caffe Nero,LA1 1HZ,54.0486,-2.8008
-Starbucks Coffee Company,LA1 1HZ,54.0486,-2.8008
 Starbucks Lancaster - Market Street,LA1 1HZ,54.0486,-2.8008
 Diggle’s ,LA1 1JG,54.0485,-2.8023
 The Brasserie,LA1 1JG,54.0486,-2.8024
@@ -24,7 +21,7 @@ Buccelli's,LA1 1LP,54.0495,-2.8002
 ESQUIRES COFFEE HOUSES LANCASTER,LA1 1LY,54.0491,-2.7995
 Medusa restaurant ,LA1 1LY,54.0491,-2.7995
 McDonald's Restaurants,LA1 1LZ,54.0491,-2.8001
-Costa Coffee,LA1 1ND,54.0493,-2.7991
+Costa Coffee,LA1 1ND,54.0492,-2.7997
 Vincenzo’s Coffee House,LA1 1NF,54.0490,-2.7986
 The Herbarium Bar,LA1 1NQ,54.0487,-2.7978
 Araya Thai ,LA1 1NZ,54.0504,-2.7997
@@ -36,6 +33,7 @@ Kanteena LTD,LA1 1QL,54.0497,-2.7958
 QUITE SIMPLY FRENCH,LA1 1RD,54.0541,-2.8065
 Wagon & Horses,LA1 1RD,54.0541,-2.8065
 Journey Social Espresso Bar,LA1 1RE,54.0472,-2.8015
+The Sir Richard Owen Lancaster (Wetherspoon),LA1 1RQ,54.0469,-2.8003
 The Waterwitch,LA1 1SU,54.0436,-2.8008
 The Mad Hunter ,LA1 1TJ,54.0481,-2.8055
 Eat indian,LA1 1UA,54.0483,-2.7997
@@ -50,10 +48,10 @@ The Spaghetti House,LA1 1UW,54.0481,-2.7989
 Full House Noodle Bar,LA1 1XD,54.0474,-2.8008
 DamGood coffee shop,LA1 1XF,54.0470,-2.8000
 THE BROWN COW,LA1 1XF,54.0470,-2.8000
-The Cornish Bakery & Cafe,LA1 1XF,54.0470,-2.8000
 The cornish bakery,LA1 1XF,54.0470,-2.8000
 Aquila Wood Fired Neapolitan Pizza,LA1 1XN,54.0458,-2.7996
 KFC,LA1 1XN,54.0458,-2.7996
+KFC,LA1 1XN,54.0458,-2.8001
 Subway Penny Street,LA1 1XN,54.0458,-2.7996
 Whale Tail Cafe Limited,LA1 1XN,54.0458,-2.7996
 Golden Dragon,LA1 1XQ,54.0469,-2.7994
@@ -63,7 +61,9 @@ Toll House Inn,LA1 1XT,54.0450,-2.7996
 The Royal Hotel & Bar,LA1 1YD,54.0468,-2.7985
 Merchants 1688,LA1 1YN,54.0491,-2.8040
 Lancaster Brewery,LA1 3LA,54.0399,-2.7803
+Brewers Fayre Cottams Field,LA1 3PE,54.0696,-2.7784
 McDonald's Restaurants,LA1 3PE,54.0639,-2.7867
+McDonald's,LA1 3PE,54.0674,-2.7842
 Vintage india,LA1 3QY,54.0634,-2.7901
 Lancaster House Hotel,LA1 4GJ,54.0065,-2.7884
 The White Cross Pub,LA1 4XT,54.0461,-2.7959
@@ -72,6 +72,7 @@ Costa Coffee,LA1 4YW,54.0104,-2.7865
 The Deli,LA1 4YW,54.0105,-2.7869
 babar elephant,LA1 5JB,54.0568,-2.8206
 Packforce Ltd,LA1 5NA,54.0473,-2.8195
+Costa Coffee,LA1 5NL,54.0486,-2.8075
 Costa Coffee,LA1 5NW,54.0488,-2.8081
 Ashton Hall Garden Centre,LA2 0AJ,54.0078,-2.8251
 Lancaster Golf Club,LA2 0AJ,54.0078,-2.8251
@@ -87,17 +88,14 @@ Hornby Tearooms,LA2 8JR,54.1087,-2.6360
 THE GEORGE AND DRAGON,LA2 8QG,54.1031,-2.6094
 Bridge House Farm Tearooms,LA2 8QP,54.1011,-2.6058
 The Fleece Inn Ltd,LA2 9AQ,53.9737,-2.7524
-BURGER KING,LA2 9DU,53.9617,-2.7606
-COSTA COFFEE,LA2 9DU,53.9617,-2.7606
-MOTO HOSPITALITY LTD,LA2 9DU,53.9616,-2.7614
+Costa Coffee,LA2 9DU,53.9616,-2.7602
 THE SHIP CATON LIMITED ,LA2 9QJ,54.0757,-2.7189
 Station Hotel,LA2 9QS,54.0762,-2.7160
 Bellas Bistro and Coffee Shop,LA3 1BU,54.0648,-2.8831
 The Royal Heysham,LA3 2RN,54.0465,-2.9006
 The Old Hall Inn,LA3 2RT,54.0431,-2.8952
 McDonald's Restaurants,LA3 3AB,54.0625,-2.8315
-McDonalds Restaurant,LA3 3AB,54.0625,-2.8315
-Caffe Pausa  Dunelm Mill,LA3 3FE,54.0546,-2.8441
+McDonald's,LA3 3AB,54.0625,-2.8314
 Heysham Golf Club,LA3 3JH,54.0325,-2.8971
 Grafters,LA3 3PP,54.0211,-2.8931
 No.9 ,LA4 4AR,54.0721,-2.8687
@@ -105,22 +103,22 @@ Jump Rush,LA4 4AY,54.0718,-2.8699
 Costa Coffee Morecambe ,LA4 4BJ,54.0727,-2.8672
 Crown bar and Bistro ,LA4 4BJ,54.0727,-2.8672
 Costa Coffee Morecambe 219,LA4 4BU,54.0720,-2.8720
-Costa Coffee,LA4 4BU,54.0720,-2.8720
+Costa Coffee,LA4 4BU,54.0724,-2.8705
+Costa Coffee,LA4 4BU,54.0768,-2.8586
 Midland,LA4 4BU,54.0723,-2.8716
 Vista Italian Restaurant and Soul Bar,LA4 4BU,54.0720,-2.8720
 b-eatonthestreet,LA4 4BU,54.0723,-2.8716
-KFC,LA4 4DE,54.0704,-2.8754
+KFC,LA4 4DB,54.0709,-2.8747
 KFC,LA4 4DW,54.0710,-2.8737
 Trimpell SSC,LA4 4UP,54.0682,-2.8568
 Aspect Bar and Bistro,LA4 5AA,54.0750,-2.8624
 The Auckland Hotel,LA4 5AA,54.0749,-2.8624
-Costa Coffee,LA4 5BX,54.0732,-2.8657
 Grandma's Puppet Shop/Bayside Brew,LA4 5BX,54.0732,-2.8659
 Secret bistro,LA4 5BZ,54.0732,-2.8654
+The Eric Bartholomew Morecambe (Wetherspoon),LA4 5DD,54.0722,-2.8669
 Burger King,LA4 5DN,54.0720,-2.8665
 Subway Morecambe,LA4 5DW,54.0724,-2.8668
 The Sandwich Bar,LA4 5EQ,54.0731,-2.8646
-Buzz Bingo,LA4 5HY,54.0758,-2.8595
 York hotel kitchen,LA4 5QH,54.0707,-2.8561
 BLUE MOUNTAIN RESTAURANT,LA4 6AB,54.0779,-2.8437
 Morecambe Golf Club Limited,LA4 6AJ,54.0817,-2.8349

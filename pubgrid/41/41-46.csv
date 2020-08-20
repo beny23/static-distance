@@ -1,24 +1,24 @@
 name,postcode,lat,lon
 Secret Garden,HR1 1LH,52.0793,-2.7179
 Mosaic Spa and Health Club (Holmer Park) limited,HR1 1LL,52.0765,-2.7187
-Coffee#1,HR1 2AA,52.0568,-2.7158
+Costa Coffee,HR1 2AA,52.0568,-2.7152
 TIFFANY'S CAFE AND TAKEAWAY LIMITED,HR1 2AA,52.0568,-2.7156
 The Coffee Cart Co Ltd High Town,HR1 2AE,52.0567,-2.7160
 KFC,HR1 2BB,52.0581,-2.7119
+KFC,HR1 2BB,52.0593,-2.7079
 Mowchak,HR1 2BD,52.0586,-2.7111
 The Commercial,HR1 2BG,52.0591,-2.7094
-KFC,HR1 2BJ,52.0587,-2.7096
 Planet Buffet ,HR1 2BJ,52.0587,-2.7096
 The Glass Tandoori,HR1 2BP,52.0579,-2.7113
+The Kings Fee Hereford (Wetherspoon),HR1 2BP,52.0583,-2.7106
 Sensory & Rye,HR1 2BS,52.0574,-2.7123
 Babar Cafe,HR1 2BT,52.0571,-2.7127
 Golden River Restaurant,HR1 2BT,52.0571,-2.7127
-Burger King,HR1 2DB,52.0571,-2.7140
 Creams Cafe ,HR1 2DE,52.0576,-2.7130
 Earthing Zero Waste Shop C.I.C,HR1 2DE,52.0575,-2.7132
 Pepes Piri Piri,HR1 2DE,52.0575,-2.7135
 McDonald's,HR1 2DJ,52.0569,-2.7139
-Mcdonalds,HR1 2DJ,52.0569,-2.7139
+McDonald's,HR1 2DJ,52.0571,-2.7132
 Gilbies Bar & Bistro,HR1 2DL,52.0567,-2.7142
 The Walk Cafe,HR1 2EP,52.0583,-2.7096
 The Venue,HR1 2HU,52.0560,-2.7115
@@ -49,15 +49,12 @@ The Crown Inn,HR1 4QP,52.0183,-2.5679
 The Wye Inn,HR2 6EF,52.0412,-2.7044
 Edison's Catering Ltd,HR2 6JT,52.0416,-2.6931
 PIKADISH ESTATE CANTEEN,HR2 6JU,52.0378,-2.6894
-McDonalds,HR2 7HB,52.0432,-2.7329
+McDonald's,HR2 7HB,52.0432,-2.7328
 McLean Restaurants Ltd,HR2 7HB,52.0432,-2.7329
-Customer Cafe ASDA - Compass Group UK & Ireland,HR2 7JE,52.0494,-2.7224
 Pizza Hut Delivery,HR2 7RG,52.0494,-2.7187
 THE THREE HORSESHOES ALLENSMORE,HR2 9AS,52.0007,-2.7946
-Caffe Nero,HR4 0AB,52.0564,-2.7190
 RAZBARI,HR4 0AP,52.0571,-2.7224
 Cookies cafe,HR4 0BB,52.0569,-2.7170
-Buzz Bingo,HR4 0BJ,52.0554,-2.7193
 BurgerShop Hereford,HR4 0BU,52.0554,-2.7181
 Burgershop (Worcester)Ltd,HR4 0BU,52.0554,-2.7181
 The Bookshop ,HR4 0BU,52.0556,-2.7186
@@ -73,7 +70,6 @@ the nags head,HR4 8NY,52.1362,-2.7862
 Bill's Kitchen ,HR4 9AA,52.0563,-2.7171
 Bills Kitchen Hereford Limited,HR4 9AA,52.0563,-2.7171
 Cotto,HR4 9AP,52.0558,-2.7173
-Pizza Express,HR4 9AP,52.0554,-2.7172
 Queens Arms,HR4 9AP,52.0554,-2.7172
 thai gallery ,HR4 9AR,52.0553,-2.7176
 Green Dragon Hotel,HR4 9BG,52.0555,-2.7179
@@ -89,15 +85,12 @@ the oxford arms,HR4 9EZ,52.0613,-2.7147
 EN Sushi,HR4 9HG,52.0588,-2.7152
 THE HERDSMAN,HR4 9HG,52.0591,-2.7149
 Play Planet,HR4 9HN,52.0613,-2.7143
-Zizzi,HR4 9HR,52.0586,-2.7168
 Kitchen cafe,HR4 9HT,52.0587,-2.7186
-Miller & Carter Hereford,HR4 9HU,52.0589,-2.7170
-Nandos,HR4 9HU,52.0589,-2.7170
+Costa Coffee,HR4 9HU,52.0585,-2.7158
 THE BEEFY BOYS ,HR4 9HU,52.0589,-2.7170
 The Coffee Cart Co Ltd Old Market,HR4 9HU,52.0589,-2.7170
-Wagamama,HR4 9HU,52.0589,-2.7170
-Wildwood Kitchen,HR4 9HU,52.0589,-2.7170
-Pizza Hut Restaurant,HR4 9LQ,52.0643,-2.7162
+Thyme,HR4 9JU,52.0608,-2.7172
+Beefeater Starting Gate,HR4 9RS,52.0749,-2.7225
 Dunelm,HR4 9SB,52.0696,-2.7210
 Grove Golf and Bowl Ltd,HR6 0LE,52.1919,-2.7160
 Orangery Cafe  Hampton Court Castle,HR6 0PN,52.1686,-2.7037
@@ -120,7 +113,6 @@ Meerkat Manor B&B ,HR8 1JJ,52.0812,-2.4116
 FARMERS ARMS (LEDBURY) LTD,HR8 1LS,52.0588,-2.4223
 FARMERS ARMS ,HR8 1LS,52.0588,-2.4223
 The Oak Inn Staplow,HR8 1NP,52.0703,-2.4515
-Coffee#1,HR8 2AA,52.0371,-2.4238
 The Full Pitcher,HR8 2EN,52.0298,-2.4336
 The Royal Oak,HR8 2ND,52.0046,-2.4931
 Trumpet Corner Tearooms,HR8 2RA,52.0539,-2.5027

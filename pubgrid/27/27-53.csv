@@ -1,6 +1,6 @@
 name,postcode,lat,lon
-Costa Coffee Drive Thru,SO16 8AP,50.9529,-1.4520
-Costa Coffee,SO16 8AP,50.9529,-1.4520
+Costa Coffee,SO16 8AP,50.9566,-1.4483
+McDonald's,SO16 8AP,50.9564,-1.4482
 Abbots Mitre,SO20 6BA,51.1573,-1.4397
 Chilbolton Village Stores ,SO20 6BE,51.1583,-1.4395
 The Peat Spade,SO20 6DR,51.1318,-1.4880
@@ -20,7 +20,6 @@ The Goat at Timsbury,SO51 0NG,51.0265,-1.5126
 THE KITCHEN CAFE,SO51 0PD,51.0108,-1.4810
 DOG AND CROOK,SO51 0QB,51.0155,-1.4704
 Wheatsheaf Inn,SO51 0QE,51.0181,-1.4675
-Compass Group At Roke Manor Research Centre,SO51 0ZN,50.9993,-1.5198
 The Montfort,SO51 0ZS,51.0072,-1.5204
 Waterfall Elior - The Mountbatten School,SO51 5SY,50.9840,-1.4697
 Paultons Golf Centre,SO51 6AN,50.9593,-1.5538
@@ -28,12 +27,13 @@ The Rockingham Arms,SO51 6DE,50.9589,-1.5885
 Gilberts Nursery Tea Room,SO51 6DT,50.9947,-1.5787
 The Shoe Inn,SO51 6EE,50.9732,-1.6042
 Hatchet Inn (L & L) Ltd,SO51 6FP,51.0018,-1.5954
-MCDONALDS RESTAURANT,SO51 6GF,50.9550,-1.5356
 McDonald's,SO51 6GF,50.9550,-1.5356
+McDonald's,SO51 6GF,50.9554,-1.5363
+Breakfast Room,SO51 6ZJ,50.9520,-1.5372
 THE SUN INN ,SO51 7JG,50.9914,-1.4859
 Hunters Inn,SO51 7NW,50.9987,-1.4694
 Medirest Healthcare Compass Group,SO51 7ZA,50.9921,-1.4820
-Costa Coffee,SO51 8AF,50.9885,-1.4892
+Costa Coffee,SO51 8AF,50.9865,-1.4891
 Miss Moody's Tudor Tea Room,SO51 8BT,50.9904,-1.5000
 Paws For Thought Cat Cafe ,SO51 8BU,50.9895,-1.5003
 The Phoenix Bar and Eatery,SO51 8BW,50.9891,-1.4983
@@ -45,14 +45,12 @@ Dish Deli and Kitchen ,SO51 8DG,50.9895,-1.4979
 Teacups,SO51 8DG,50.9895,-1.4979
 NATRAJ ROMSEY,SO51 8GD,50.9888,-1.4979
 REEVE THE BAKER LTD,SO51 8GD,50.9888,-1.4979
-Prezzo,SO51 8GF,50.9881,-1.4961
 Purbani The Romsey Tandoori,SO51 8GY,50.9882,-1.4999
 Three Tuns ,SO51 8HL,50.9857,-1.5010
 Cork and Bean Ltd,SO51 8LA,50.9897,-1.4976
-Costa Coffee,SO51 8NA,50.9891,-1.4992
+Costa Coffee,SO51 8NA,50.9892,-1.4997
 Josies Romsey Ltd,SO51 8NA,50.9893,-1.4997
 Cafe Fresh of Romsey,SO51 8NB,50.9891,-1.5003
-Caffe Nero,SO51 8NB,50.9891,-1.5003
 Restaurant 1837,SO51 8ZE,50.9884,-1.4994
 The Courtyard Cafe,SO51 8ZE,50.9884,-1.4994
 The White Horse,SO51 8ZJ,50.9892,-1.4994
@@ -63,31 +61,24 @@ ARMAN'S COFFEE HOUSE,SP1 1BD,51.0695,-1.7978
 Qudos,SP1 1BN,51.0711,-1.7960
 ELIF2017 Jenny's Restaurant Cafe,SP1 1BT,51.0697,-1.7973
 Nuggs1268 Limited,SP1 1DA,51.0698,-1.7961
-Pizza Express,SP1 1DA,51.0701,-1.7957
-Pizza Hut Restaurant,SP1 1DA,51.0701,-1.7957
-Buzz Bingo,SP1 1DP,51.0709,-1.7947
 The Pheasant,SP1 1DT,51.0707,-1.7940
 Tinga ,SP1 1DU,51.0706,-1.7938
 GREAT WALL CHINESE RESTAURANT,SP1 1DX,51.0700,-1.7933
 Subway,SP1 1EL,51.0694,-1.7936
-Costa Coffee,SP1 1EP,51.0689,-1.7954
+Costa Coffee,SP1 1EP,51.0689,-1.7953
 Pickup,SP1 1EP,51.0688,-1.7957
 REEVE THE BAKER LTD,SP1 1EP,51.0689,-1.7954
 STONES KITCHEN CAFE,SP1 1EP,51.0689,-1.7954
 ALLIUM SALISBURY,SP1 1EU,51.0689,-1.7955
 Mauls Wine and Cheese Bar,SP1 1EX,51.0688,-1.7945
 Well Natural,SP1 1EY,51.0692,-1.7939
-Wildwood Restaurant,SP1 1EY,51.0692,-1.7939
+McDonald's,SP1 1HB,51.0698,-1.7936
 McDonald's,SP1 1HB,51.0698,-1.7937
-McDonalds,SP1 1HB,51.0698,-1.7937
 Haunch of Venison,SP1 1TB,51.0690,-1.7964
 HENDERSON'S ARTISAN BAKERY LTD,SP1 1TH,51.0692,-1.7961
 Dinghams,SP1 1TL,51.0695,-1.7969
-Giggling Squid,SP1 1TL,51.0695,-1.7969
-Zizzi,SP1 1TT,51.0706,-1.7967
-Pret A Manger,SP1 2AA,51.0682,-1.7956
-Costa Coffee,SP1 2AG,51.0676,-1.7962
-Nandos,SP1 2AJ,51.0689,-1.7934
+Pret A Manger,SP1 2AA,51.0682,-1.7957
+Costa Coffee,SP1 2AG,51.0679,-1.7955
 The Cathedral Hotel,SP1 2AJ,51.0688,-1.7936
 RED LION HOTEL,SP1 2AN,51.0683,-1.7931
 The Huntsman Tavern,SP1 2BQ,51.0672,-1.7914
@@ -95,27 +86,23 @@ The Swedish Den Limited,SP1 2DD,51.0675,-1.7941
 Bell and Crown,SP1 2DH,51.0670,-1.7934
 Noodle Camp ,SP1 2DH,51.0673,-1.7935
 The Antelope Cafe,SP1 2DH,51.0673,-1.7935
-Garden Tea Room  The National Trust,SP1 2EL,51.0667,-1.7980
 Salisbury Museum Cafe,SP1 2EN,51.0645,-1.8008
 The Riflemans Table,SP1 2EX,51.0662,-1.7997
+McDonald's,SP1 2FF,51.0615,-1.7735
 McDonald's,SP1 2FF,51.0615,-1.7739
-Starbucks,SP1 2LB,51.0640,-1.7803
-Waterfall Elior at,SP1 2LW,51.0646,-1.7876
+Thyme,SP1 2FF,51.0614,-1.7740
 Carwardines,SP1 2LX,51.0688,-1.7976
-Wagamama,SP1 2LX,51.0688,-1.7976
-Caffe Nero,SP1 2NE,51.0687,-1.7968
-Burger King,SP1 2NH,51.0684,-1.7971
+The Kings Head Inn Salisbury (Wetherspoon),SP1 2ND,51.0685,-1.7980
 The Boston Tea Party Group Limited,SP1 2NJ,51.0677,-1.7973
 Wafflemeister ,SP1 2NJ,51.0676,-1.7973
-Prezzo,SP1 2PF,51.0672,-1.7979
 Lotus 8 Ltd,SP1 2PH,51.0671,-1.7961
 The New Inn,SP1 2PH,51.0671,-1.7961
 The Wig and Quill,SP1 2PH,51.0671,-1.7959
 Cafe Diwali,SP1 2QD,51.0676,-1.7986
 The Old Ale and Coffee House ,SP1 2QD,51.0676,-1.7986
-Pausa Cafe at Dunelm,SP1 2QQ,51.0637,-1.7745
 Chapter Hospitality Ltd,SP1 2SB,51.0663,-1.7934
 Mercure Salisbury,SP1 2SD,51.0667,-1.7934
+Table Table Hampton Inn,SP1 3GU,51.0893,-1.7713
 George and dragon,SP1 3SP,51.0717,-1.7965
 The Avon Brewery,SP1 3SP,51.0717,-1.7965
 Milford Hall Hotel,SP1 3TE,51.0749,-1.7968
@@ -133,6 +120,7 @@ Thai Orchid,SP2 7RB,51.0696,-1.8001
 Everest Brasserie,SP2 7RP,51.0717,-1.8050
 Caboose Salisbury,SP2 7RR,51.0704,-1.8040
 The shah jahan,SP2 7RR,51.0704,-1.8040
+Costa Coffee,SP2 7RS,51.0706,-1.8070
 Lalahan Restaurant,SP2 7SP,51.0704,-1.8030
 Fisherton Warehouse Cafe Limited,SP2 7ST,51.0702,-1.8022
 Hedgerows Cafe at SDH,SP2 8BJ,51.0439,-1.7898
@@ -149,6 +137,7 @@ The Stones Hotel,SP4 6AT,51.1278,-1.7862
 winterbourne arms,SP4 6EW,51.1112,-1.7504
 Bridge Inn,SP4 6NU,51.1319,-1.8244
 REEVE THE BAKER LTD,SP4 7AW,51.1722,-1.7801
+The Bell Amesbury (Wetherspoon),SP4 7AW,51.1721,-1.7810
 A Date With Thyme,SP4 7DB,51.1735,-1.7798
 Tandoori nights ,SP4 7DL,51.1729,-1.7805
 PIAZZA,SP4 7ES,51.1724,-1.7824
@@ -159,7 +148,6 @@ The Friar Tuck,SP4 7HD,51.1718,-1.7809
 Evergreen Cafe  Amesbury,SP4 7YT,51.1620,-1.7685
 Silver Plough,SP5 1DU,51.0805,-1.6989
 The lord Nelson Arms ,SP5 1QS,51.0957,-1.6618
-The Haven,SP5 1ST,51.1017,-1.7100
 Green Hill Farm Caravan Park Ltd,SP5 2AZ,50.9688,-1.6195
 Les Mirabelles ,SP5 2BN,50.9579,-1.6372
 The Lamb Inn,SP5 2BP,50.9539,-1.6413

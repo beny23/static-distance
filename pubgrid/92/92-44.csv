@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 Dalhousie Castle,EH19 3JB,55.8608,-3.0825
+The David Macbeth Moir Musselburgh (Wetherspoon),EH21 6AA,55.9436,-3.0580
 Bistro at the Brunton,EH21 6AF,55.9439,-3.0572
 lanna thai,EH21 6AG,55.9434,-3.0576
 East Coast ,EH21 6AN,55.9441,-3.0604
@@ -8,7 +9,6 @@ Ravelston House,EH21 6BH,55.9438,-3.0642
 Ship Inn,EH21 6BH,55.9438,-3.0642
 The Musselburgh Golf Club Limited,EH21 6SA,56.0223,-2.6811
 Jumpin Edinburgh,EH21 6SY,55.9388,-3.0778
-1875 Baxterstorey,EH21 6UU,55.9313,-3.0731
 Dal Patino,EH21 7AB,55.9434,-3.0484
 S. Luca Dairy Ice Cream Musselburgh,EH21 7AG,55.9431,-3.0466
 BUENOS AIRES CAFE & GRILL,EH21 7BX,55.9428,-3.0485
@@ -16,17 +16,21 @@ shish mahal tandori,EH21 7BZ,55.9431,-3.0490
 Muss Bar & Kitchen,EH21 7DA,55.9428,-3.0502
 Miros Village,EH21 7DD,55.9426,-3.0513
 SUBWAY MUSSELBURGH,EH21 7DD,55.9425,-3.0519
-Costa Coffee,EH21 7EA,55.9425,-3.0501
+Costa Coffee,EH21 7EA,55.9424,-3.0507
 Crollas Italian Kitchen,EH21 7PQ,55.9384,-3.0596
 One Essence Ltd,EH21 8AA,55.9392,-3.0134
 Mercat Grill,EH21 8PG,55.9222,-3.0362
+Brewers Fayre Craig House,EH21 8PT,55.9256,-3.0349
 Carberry Tower,EH21 8PY,55.9167,-3.0189
 The Cavalier Restaurant,EH22 1AU,55.8946,-3.0688
+The Blacksmiths Forge Dalkeith (Wetherspoon),EH22 1DU,55.8932,-3.0688
 Carlton Bingo  Dalkeith,EH22 1HA,55.8928,-3.0715
 THE PELICAN CLUB LTD T/A ITIHAAS RESTAURANT,EH22 1HD,55.8928,-3.0723
 Cafe Troy,EH22 1HU,55.8937,-3.0703
 The Buccleuch,EH22 1HZ,55.8943,-3.0693
 Restoration Yard Limited,EH22 1ST,55.8976,-3.0857
+McDonald's,EH22 3FU,55.8816,-3.0866
+Costa Coffee,EH22 3PP,55.8829,-3.0853
 The Dean Tavern,EH22 4NA,55.8691,-3.0688
 The Sun Inn,EH22 4TR,55.8728,-3.0782
 Memories of India,EH23 4LZ,55.8570,-3.0648
@@ -62,7 +66,7 @@ Pancake Heaven,EH41 3ES,55.9552,-2.7760
 Falko (Konditormeister) Limited,EH41 3ET,55.9556,-2.7760
 Number7,EH41 3JL,55.9561,-2.7760
 Eastern Eye Indian Restaurant,EH41 3JW,55.9557,-2.7746
-Costa Coffee,EH41 3LZ,55.9571,-2.7777
+Costa Coffee,EH41 3LZ,55.9564,-2.7795
 China Garden CC Ltd,EH41 3NA,55.9563,-2.7776
 The Waterside Bistro,EH41 4AT,55.9547,-2.7708
 THE GOLF TAVERN,EH41 4AU,55.9551,-2.7702

@@ -11,6 +11,7 @@ Café Rayner,LL28 4RB,53.3097,-3.7405
 Tea at Sally's,LL28 4RB,53.3097,-3.7405
 Hickory's Smokehouse,LL28 4TR,53.3077,-3.7498
 Mountain View,LL28 5AT,53.2901,-3.7622
+Brewers Fayre Afon Conwy,LL28 5LB,53.2795,-3.7899
 Bodnant furnace farm ,LL28 5RP,53.2338,-3.8049
 Conwy Garden World  Lavender Tea Room ,LL28 5TH,53.2525,-3.7911
 The Bee Inn,LL28 5UD,53.2171,-3.7931
@@ -23,10 +24,11 @@ Chicago 1935 limited,LL29 7RU,53.2937,-3.7245
 Porter's Coffee Shop,LL29 7SP,53.2910,-3.7174
 Porter's Coffee Shop,LL29 8BP,53.2958,-3.7272
 Costa Coffee,LL29 8DG,53.2952,-3.7258
+Costa Coffee,LL29 8DG,53.2957,-3.7251
 The Bay Bistro ,LL29 8DG,53.2953,-3.7251
 good taste bistro,LL29 8DG,53.2952,-3.7258
 Shel Restaurant Limited ,LL29 8HH,53.2972,-3.7227
-J D Wetherspoon Plc,LL29 8LA,53.2966,-3.7276
+The Picture House Colwyn Bay (Wetherspoon),LL29 8LA,53.2967,-3.7278
 Flat White Cafe,LL29 8LG,53.2961,-3.7283
 Haus ,LL29 8LG,53.2962,-3.7282
 Sheldons Bar Ltd,LL29 8LG,53.2956,-3.7280
@@ -47,9 +49,9 @@ BODAFON FARM PARK,LL30 1BW,53.3212,-3.8058
 FirstPort - Cwrt Sant Tudno,LL30 1BZ,53.3218,-3.8145
 Maesdu Golf Club,LL30 1HU,53.3128,-3.8301
 Debenhams Restaurant LLandudno,LL30 1PG,53.3138,-3.8148
-Costa Coffee,LL30 1PX,53.3213,-3.8216
+Costa Coffee,LL30 1PJ,53.3215,-3.8235
 Bodysgallen Hall and Spa,LL30 1RS,53.2985,-3.8066
-Mcdonalds,LL30 1RY,53.3189,-3.8173
+McDonald's,LL30 1RY,53.3183,-3.8196
 PGL Enterprises Limited T/a McDonald's,LL30 1RY,53.3189,-3.8173
 Compass Group Ltd at Queen Elizabeth Court,LL30 1TR,53.3180,-3.8142
 Troop Cafe,LL30 1YL,53.3222,-3.8228
@@ -59,7 +61,7 @@ East,LL30 2AD,53.3213,-3.8271
 MOLLY'S CAFE,LL30 2AD,53.3210,-3.8275
 The Lilly,LL30 2BD,53.3182,-3.8425
 West Shore Beach Cafe,LL30 2BG,53.3165,-3.8420
-J D Wetherspoon Plc,LL30 2DD,53.3249,-3.8326
+The Palladium Llandudno (Wetherspoon),LL30 2DD,53.3252,-3.8324
 BLUE ELEPHANT,LL30 2DS,53.3256,-3.8323
 Take a break cafe ,LL30 2DS,53.3256,-3.8324
 Yummy Thai Food Café - Thai Restaurant ,LL30 2DS,53.3255,-3.8328
@@ -91,15 +93,13 @@ Love to Eat ,LL30 2NG,53.3234,-3.8292
 Casa Mia Cafe,LL30 2NL,53.3231,-3.8268
 Jasmine House,LL30 2NL,53.3228,-3.8257
 KFC,LL30 2NL,53.3228,-3.8257
+KFC,LL30 2NL,53.3229,-3.8264
 KINGS ARMS,LL30 2NL,53.3230,-3.8258
 Starbucks Llandudno,LL30 2NL,53.3228,-3.8257
-Starbucks,LL30 2NL,53.3228,-3.8257
 Fortes Restaurant,LL30 2NN,53.3239,-3.8288
 White Heather Hotel,LL30 2NR,53.3247,-3.8298
-Caffe Nero,LL30 2PD,53.3250,-3.8305
 Clares of Llandudno,LL30 2PD,53.3250,-3.8305
 Thaitastic,LL30 2PD,53.3250,-3.8305
-Wildwood Kitchen,LL30 2PD,53.3248,-3.8303
 Home Cookin',LL30 2PE,53.3265,-3.8323
 Johnny doughs ,LL30 2PE,53.3265,-3.8323
 L C Drink & Dine,LL30 2PE,53.3263,-3.8321
@@ -135,6 +135,7 @@ Four Saints Brig Y Don Hotel,LL30 2XS,53.3235,-3.8252
 Candles Restaurant,LL30 2YA,53.3231,-3.8316
 Tribells restaurant  ,LL30 2YA,53.3233,-3.8322
 Rosaire Guest House,LL30 2YY,53.3196,-3.8333
+Brewers Fayre Craigside Inn,LL30 3AL,53.3228,-3.7860
 Home from Home,LL30 3EF,53.3176,-3.7770
 the beach cafe-bar,LL30 3PR,53.3179,-3.7639
 Chapter 2 Coffee Shop,LL31 9AL,53.2838,-3.8010
@@ -147,12 +148,11 @@ Enochs Fish & Chips,LL31 9DU,53.2837,-3.8047
 Providero Llandudno Junction,LL31 9DU,53.2837,-3.8047
 sarahs bakery cafe,LL31 9EG,53.2839,-3.8040
 The Queen's Head,LL31 9JP,53.3073,-3.7771
-Compass Group at Welsh Assembly Building,LL31 9RZ,53.2838,-3.7934
 Castle View,LL31 9TH,53.2904,-3.8225
+KFC,LL31 9XX,53.2828,-3.8095
 KFC,LL31 9XX,53.2830,-3.8072
-McDonalds,LL31 9XX,53.2830,-3.8072
+McDonald's,LL31 9XX,53.2830,-3.8089
 PGL Enterprises Limited T/a McDonald's,LL31 9XX,53.2830,-3.8072
-Pizza Hut Restaurant,LL31 9XX,53.2830,-3.8072
 Mocha House,LL32 8AL,53.2819,-3.8283
 The Midland Conwy,LL32 8AY,53.2812,-3.8276
 Tower Coffee House,LL32 8AY,53.2812,-3.8279

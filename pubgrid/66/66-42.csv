@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 Costa Coffee,FY5 1AG,53.8771,-3.0422
+Costa Coffee,FY5 1AG,53.8772,-3.0427
 FAMILY BAKERY,FY5 1AG,53.8771,-3.0422
 FAYEZ TANDOORI LTD,FY5 1AG,53.8771,-3.0422
 The Shipwreck Brewhouse ,FY5 1AJ,53.8775,-3.0427
@@ -10,7 +11,6 @@ The Bakehouse,FY5 1BS,53.8779,-3.0446
 Cafe Marina,FY5 1BU,53.8774,-3.0451
 Cafe Renoir,FY5 1BU,53.8774,-3.0451
 Steve's Fish & Chips,FY5 1DA,53.8786,-3.0458
-Pizza Hut Restaurant,FY5 1DB,53.8825,-3.0466
 Joel's,FY5 1DG,53.8766,-3.0440
 pulcinella restaurant,FY5 1DG,53.8766,-3.0441
 Cafe Cove,FY5 1LW,53.8844,-3.0471
@@ -18,10 +18,10 @@ The Venue,FY5 1LW,53.8844,-3.0471
 Linden tree tea room ,FY5 2EZ,53.8794,-3.0208
 Papa Johns,FY5 3LA,53.8767,-3.0371
 Great Fortune House,FY5 3LG,53.8765,-3.0392
-J D WETHERSPOON PLC,FY5 3NE,53.8763,-3.0373
+KFC,FY5 3NA,53.8764,-3.0380
 KFC Cleveleys,FY5 3NE,53.8763,-3.0373
-KFC,FY5 3NE,53.8763,-3.0373
 Mr Nitro's Ice Cream & Desserts (Cleveleys),FY5 3NE,53.8765,-3.0382
+The Jolly Tars Cleveleys (Wetherspoon),FY5 3NE,53.8764,-3.0377
 Michaels Restaurant,FY5 4AF,53.8758,-3.0126
 Pizza Calcio,FY5 4HX,53.8849,-3.0054
 cozy corner cafe,FY5 4HX,53.8849,-3.0054
@@ -34,19 +34,19 @@ Lakeside Bistro,FY6 9BG,53.8850,-2.9594
 GRANADA FISH BAR,FY7 6AA,53.9244,-3.0090
 Tasty Bite Cafe,FY7 6AD,53.9236,-3.0072
  Costa Coffee Fleetwood,FY7 6AE,53.9170,-3.0137
-COSTA COFFEE(Redracz),FY7 6AE,53.9171,-3.0135
 Katie's Affinity Lancashire,FY7 6AE,53.9171,-3.0135
 McDonald's Restaurants Ltd,FY7 6AE,53.9171,-3.0135
+McDonald's,FY7 6AE,53.9187,-3.0121
 SUBWAY,FY7 6AE,53.9171,-3.0135
 The Cosy Cafe and Bistro,FY7 6AR,53.9260,-3.0088
 North Euston Hotel,FY7 6BN,53.9280,-3.0089
 SUBWAY,FY7 6DS,53.9224,-3.0116
 KFC Fleetwood,FY7 6DT,53.9230,-3.0110
-KFC,FY7 6DT,53.9230,-3.0110
+KFC,FY7 6DT,53.9230,-3.0108
 Lords deli,FY7 6DU,53.9231,-3.0099
-J D WETHERSPOON PLC,FY7 6EU,53.9245,-3.0142
 Additions Cafe Bar,FY7 6HL,53.9265,-3.0118
 Richardsons Fish House,FY7 6JB,53.9211,-3.0114
+The Thomas Drummond Fleetwood (Wetherspoon),FY7 6JE,53.9219,-3.0116
 Food For Thought ,FY7 6JH,53.9227,-3.0121
 The five-0,FY7 6LF,53.9233,-3.0148
 the eating plaice,FY7 6LH,53.9216,-3.0144
@@ -54,5 +54,6 @@ Barneys Leisure Ltd,FY7 6NW,53.9198,-3.0161
 The Mount Hotel,FY7 6QE,53.9249,-3.0205
 Strawberry Gardens Pub & Bistro,FY7 6TF,53.9210,-3.0194
 Fleetwood Town FC,FY7 6TX,53.9169,-3.0229
+Costa Coffee,FY7 8BA,53.9167,-3.0152
 Farmer Parrs Animal World,FY7 8JP,53.8974,-3.0322
 The Clarkes Hotel,LA13 0PX,54.0874,-3.1609

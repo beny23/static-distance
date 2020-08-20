@@ -1,8 +1,6 @@
 name,postcode,lat,lon
-Gourmet Burger Kitchen,BA16 0BB,51.1283,-2.7402
-Pret A Manger,BA16 0BB,51.1283,-2.7402
-Prezzo Limited,BA16 0BB,51.1283,-2.7402
-The Cornish Bakery,BA16 0BB,51.1283,-2.7402
+Costa Coffee,BA16 0BB,51.1278,-2.7398
+Pret A Manger,BA16 0BB,51.1291,-2.7401
 The Village Cafe,BA16 0BJ,51.1273,-2.7402
 The Street Inn,BA16 0DR,51.1300,-2.7353
 Grape&Grain brasserie ltd,BA16 0EG,51.1269,-2.7387
@@ -11,8 +9,8 @@ Subway,BA16 0EN,51.1267,-2.7404
 Tamburino Village,BA16 0EQ,51.1271,-2.7396
 Break N Dish Ltd,BA16 0EX,51.1252,-2.7424
 Peggys Diner,BA16 0EX,51.1252,-2.7424
+The Lantokay Street (Wetherspoon),BA16 0EY,51.1256,-2.7411
 Crispin Hall Café,BA16 0EZ,51.1262,-2.7403
-Caffe Nero,BA16 0HN,51.1272,-2.7411
 877 Street McDonalds - Lambtrad Ltd T/A McDonalds,BA16 0HW,51.1261,-2.7564
 Thai Elephant,BA16 0NH,51.1238,-2.7447
 Waterfall Elior at Walton Primary,BA16 9LA,51.1245,-2.7688
@@ -29,24 +27,24 @@ The Drawing Room Butleigh,BA6 8SF,51.1012,-2.6888
 Rose and Portcullis Ltd,BA6 8TQ,51.0960,-2.6874
 Cafe Sol,BA6 9DP,51.1479,-2.7168
 The George & Pilgrim,BA6 9DP,51.1479,-2.7169
-Lord of Wildwood Community Tea Room,BA6 9DU,51.1475,-2.7171
 Coffee Zero,BA6 9DX,51.1477,-2.7154
 Abbey Tea Rooms & Restaurant,BA6 9EH,51.1464,-2.7183
 The Old Tannery,BA6 9FT,51.1390,-2.7362
+Brewers Fayre Glastonbury,BA6 9FW,51.1407,-2.7336
 THE KING WILLIAM INN,BA6 9HL,51.1474,-2.7184
 Hawthorns Hotel Bar and Restaurant,BA6 9JJ,51.1478,-2.7186
 Knights Fish Restaurant ,BA6 9JJ,51.1476,-2.7187
 the who'd a thought it,BA6 9JJ,51.1479,-2.7191
-KFC,BA6 9XE,51.1419,-2.7300
+KFC,BA6 9XE,51.1431,-2.7290
 subway,BA6 9XE,51.1419,-2.7300
 1567 Taunton McDonalds - Lambtrad Ltd T/A McDonalds,TA1 2AN,51.0231,-3.0837
-McDonalds Restaurant Ltd - Asda,TA1 2AN,51.0231,-3.0837
+McDonald's,TA1 2AN,51.0231,-3.0832
+Beefeater White Lodge,TA1 2DU,51.0228,-3.0722
 THE SPICE LOVER LTD,TA1 2EL,51.0182,-3.0821
 554 Taunton DT McDonalds -  Lambtrad Ltd T/A McDonalds,TA1 2LP,51.0242,-3.0669
-Hollywood Bowl,TA1 2LP,51.0236,-3.0664
-Mcdonalds Restaurants Ltd,TA1 2LP,51.0236,-3.0664
+McDonald's,TA1 2LP,51.0242,-3.0669
 Tiffin ,TA1 2LP,51.0242,-3.0669
-Pizza Hut Restaurant,TA1 2LR,51.0210,-3.0643
+Costa Coffee,TA1 2LR,51.0202,-3.0643
 TNS Catering_WPA,TA1 2PE,51.0152,-3.0678
 Subway taunton deane service,TA1 2UH,51.0200,-3.0661
 Lamb and Lion,TA10 0AT,50.9911,-2.8635
@@ -96,6 +94,7 @@ Silver's Pantry,TA2 8QN,51.0428,-3.0548
 The Maypole Inn,TA2 8RF,51.0590,-3.0372
 The little red cafe,TA2 8RX,51.0278,-3.0805
 The Ruishton Inn,TA3 5JW,51.0202,-3.0504
+Breakfast Room,TA3 5LU,51.0180,-3.0605
 The Farmers Arms West Hatch Ltd,TA3 5RS,50.9729,-3.0373
 The Greyhound Inn,TA3 5SP,50.9606,-3.0502
 The Far Canal,TA3 6DF,50.9977,-2.9874
@@ -105,28 +104,26 @@ The Hatch Inn,TA3 6SG,50.9794,-2.9970
 Taunton & Pickeridge Golf Club Limited,TA3 7BY,50.9609,-3.0799
 Enmore Park Golf Club Ltd,TA5 2AN,51.1114,-3.0743
 Greenway Farm,TA5 2AX,51.1321,-3.0394
-Elior UK,TA5 2HE,51.1511,-3.0655
 SAFFRON,TA5 2HE,51.1511,-3.0655
 Blackmore Farm,TA5 2NE,51.1421,-3.0808
 Piggy's Sandwich Bar,TA6 3BE,51.1282,-3.0047
 subway,TA6 3BE,51.1282,-3.0047
-KFC,TA6 3BH,51.1286,-3.0047
 Wild Rocket Cafe Grill Bar,TA6 3BJ,51.1283,-3.0055
-Costa Coffee,TA6 3BU,51.1281,-3.0035
-Prezzo,TA6 3BY,51.1284,-3.0042
+Costa Coffee,TA6 3BU,51.1283,-3.0033
 The Great Escape,TA6 3EN,51.1282,-3.0066
 The Old Vicarage,TA6 3EQ,51.1274,-3.0047
 Admirals landing ltd,TA6 3EX,51.1324,-3.0052
 Green Olive Restaurant,TA6 3HL,51.1293,-3.0020
 ADMIRAL BLAKE FISH BAR,TA6 3LT,51.1270,-3.0023
 The Tudor Hotel & Restaurant ltd,TA6 3LX,51.1273,-3.0037
+The Carnival Inn Bridgwater (Wetherspoon),TA6 3LY,51.1275,-3.0041
 Made in Italy,TA6 3NJ,51.1285,-3.0013
 The Bridge Cafe/Restaurant,TA6 3NJ,51.1285,-3.0013
 MALIWANS THAI RESTAURANT,TA6 3PF,51.1274,-3.0078
-Mecca Social Club,TA6 3PH,51.1279,-3.0084
 431 Bridgewater McDonalds - Lambtrad Ltd T/A McDonalds,TA6 4AB,51.1329,-2.9985
-McDonalds,TA6 4AB,51.1329,-2.9985
+Costa Coffee,TA6 4AB,51.1328,-2.9981
 Subway (Bridgwater),TA6 4AB,51.1330,-2.9989
+Cookhouse + Pub King Sedgemoor Inn,TA6 4RR,51.1457,-2.9916
 Subway  Bridgewater,TA6 4RR,51.1453,-2.9920
 SAB TRADE LTD,TA6 4TS,51.1413,-2.9775
 The Bower Inn,TA6 4TY,51.1316,-2.9730
@@ -143,7 +140,7 @@ The Canalside,TA6 6LQ,51.1105,-2.9922
 The Compass Tavern,TA6 6PR,51.1001,-3.0023
 Taart Cafe,TA6 6QA,51.0928,-3.0146
 The Walnut Tree Hotel,TA6 6QA,51.0928,-3.0143
-Moto Services,TA6 6TS,51.1044,-2.9925
+Costa Coffee,TA6 6TS,51.1047,-2.9959
 Waterfall Elior at St Mary's School,TA6 7LX,51.1240,-3.0262
 HARVEST MOON,TA7 0BG,51.0748,-2.9999
 Waterfall Elior at North Newton County Primary School,TA7 0BG,51.0748,-2.9999

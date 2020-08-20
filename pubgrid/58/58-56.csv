@@ -1,6 +1,5 @@
 name,postcode,lat,lon
 The Classic & Contemporary Cake Co Coffee Shop ,DN10 6DG,53.4538,-1.0262
-Baxterstorey,DN11 0BG,53.4813,-1.0991
 Waterfall Elior @,DN11 0EZ,53.4801,-1.0584
 Rossington Hall Limited,DN11 0HR,53.4623,-1.0400
 Mount Pleasant Hotel,DN11 0HW,53.4713,-1.0365
@@ -18,7 +17,6 @@ Jamps Restaurant,DN11 9LX,53.4327,-1.1098
 WINDCOURT RESTAURANTS LTD T/A ROCCOS,DN11 9LX,53.4327,-1.1096
 Zara’s ,DN11 9PT,53.4325,-1.1070
 Daisy's Coffee Shop & Bistro,DN11 9QU,53.4313,-1.1095
-Compass Group UK @ Wavin,DN12 1BY,53.4887,-1.1849
 Robbo's Diner,DN12 1NP,53.4767,-1.1884
 The Topiary Coffee Shop,DN12 2AE,53.4811,-1.2150
 The Indus Restaurant & Bar ,DN12 2BT,53.4787,-1.2295
@@ -50,23 +48,22 @@ Elior - Balmoral Care Home,S13 7PR,53.3573,-1.3643
 Brunswick Gardens,S13 7RB,53.3607,-1.3612
 Waterfall Elior,S13 7RB,53.3607,-1.3612
 Waterfall Elior,S13 8HH,53.3726,-1.3988
+Costa Coffee,S13 8HR,53.3761,-1.3947
 KFC Handsworth,S13 8HR,53.3732,-1.3976
 Waterfall Elior,S13 8LT,53.3639,-1.4028
-Eurest-Compass Group UK & Ireland,S13 9BN,53.3732,-1.3897
+KFC,S13 9BH,53.3760,-1.3944
 D&H Taylor t/as McDonald's,S13 9BS,53.3740,-1.3925
-McDonalds,S13 9BS,53.3740,-1.3925
 Waterfall Elior,S13 9HH,53.3690,-1.3776
 Waterfall Elior,S13 9HJ,53.3696,-1.3733
 Everest Inn,S13 9HS,53.3704,-1.3759
 Waterfall Elior,S2 1AA,53.3729,-1.4166
 Waterfall Elior,S2 1EE,53.3614,-1.4266
 Waterfall Elior,S2 1EY,53.3648,-1.4206
+KFC,S2 1GJ,53.3640,-1.4342
 KFC,S2 1GJ,53.3649,-1.4355
-KFC,S2 1GN,53.3632,-1.4329
 LITTLE JACKS,S2 1LB,53.3647,-1.4279
 Waterfall Elior,S2 1PL,53.3687,-1.4251
 The rhubarb shed ltd,S2 1UL,53.3764,-1.4349
-Starbucks,S20 1DP,53.3483,-1.3386
 The Meeting Place,S20 1EF,53.3488,-1.3361
 Waterfall Elior,S20 1EG,53.3427,-1.3326
 Pulpd Ltd,S20 3AB,53.3294,-1.3340
@@ -77,16 +74,14 @@ The British Oak,S20 5AY,53.3301,-1.3727
 Mosborough Hall Hotel,S20 5EA,53.3215,-1.3567
 D&H Taylor t/as McDonald's,S20 7JJ,53.3446,-1.3569
 KFC,S20 7JJ,53.3446,-1.3569
-McDonalds Restaurants Ltd,S20 7JJ,53.3452,-1.3565
-Starbucks,S20 7JJ,53.3446,-1.3569
-Pizza Hut Restaurant,S20 7JL,53.3436,-1.3530
+KFC,S20 7JL,53.3444,-1.3538
 Waterfall Elior,S20 7JU,53.3364,-1.3514
-Compass Group UK & Ireland,S20 7JZ,53.3443,-1.3610
 Shhhh Coffee Shop LTD,S20 7PH,53.3416,-1.3534
 The ginger publican company limited,S20 7PH,53.3416,-1.3535
 D&H Taylor t/as McDonald's,S20 7PJ,53.3420,-1.3514
 KFC,S20 7PJ,53.3416,-1.3511
-McDonalds Restaurants Ltd,S20 7PJ,53.3420,-1.3514
+McDonald's,S20 7PJ,53.3416,-1.3512
+Costa Coffee,S20 7PN,53.3419,-1.3510
 Waterfall Elior,S20 8FB,53.3305,-1.3485
 Akhtars In Killarmarsh Ltd,S21 1DX,53.3250,-1.3215
 The Travellers Rest,S21 2BW,53.3179,-1.2979
@@ -113,21 +108,16 @@ The Vintage Tack Room and Playbarn,S26 5PQ,53.3494,-1.2994
 ASIA PALACE,S26 5QJ,53.3413,-1.2918
 The station pub,S26 6NP,53.3366,-1.2407
 Traditionals of Kiveton Park,S26 6RD,53.3409,-1.2707
-Burger King,S26 7XR,53.3152,-1.2815
-KFC,S26 7XR,53.3152,-1.2815
-McDonalds,S26 7XR,53.3152,-1.2815
-Starbucks Drive-Thru,S26 7XR,53.3152,-1.2815
-Starbucks,S26 7XR,53.3152,-1.2815
+KFC,S26 7XR,53.3151,-1.2814
 Welcome Break South Retail,S26 7XR,53.3152,-1.2815
 The Beehive,S26 7YH,53.3220,-1.2605
 The Royal Oak,S43 4EU,53.2901,-1.2901
-Baxterstorey Ltd,S43 4PZ,53.2815,-1.2866
 Van Dyk By Wildes ,S43 4TD,53.2879,-1.2550
 THE PEBLEY INN,S43 4TH,53.3085,-1.2813
 Cara Restaurants Limited McDonalds 1027,S43 4WP,53.2836,-1.2909
-Cara Restaurants Ltd T/A McDonalds Restaurants Ltd,S43 4WP,53.2837,-1.2921
-Costa Coffee,S43 4WP,53.2837,-1.2921
-KFC,S43 4WP,53.2837,-1.2921
+Costa Coffee,S43 4WP,53.2836,-1.2923
+KFC,S43 4WP,53.2837,-1.2920
+McDonald's,S43 4WP,53.2844,-1.2913
 Sabirs grill,S60 1AS,53.4285,-1.3574
 Big Apple Play City,S60 1DE,53.4251,-1.3609
 GW Boutique Hotel,S60 1DJ,53.4211,-1.3684
@@ -139,6 +129,7 @@ PANTRY GREEN LIMITED,S60 1PN,53.4318,-1.3566
 Subway,S60 1PP,53.4306,-1.3559
 hygge cafe,S60 1PP,53.4306,-1.3559
 McDonald's Bridgegate Rotherham,S60 1PQ,53.4319,-1.3574
+McDonald's,S60 1PQ,53.4318,-1.3572
 The Plaice To Be,S60 1PQ,53.4319,-1.3574
 Guests Tea Room and Coffee Shop,S60 1PT,53.4303,-1.3559
 The Corn Law,S60 1PT,53.4303,-1.3559
@@ -147,18 +138,21 @@ Tings Thai Kitchen,S60 1QA,53.4299,-1.3581
 Interchange Cafe Limited,S60 1QB,53.4331,-1.3566
 Caffe Cristinacce,S60 1RZ,53.4397,-1.3522
 McDonald's Parkgate Retail Park,S60 1SG,53.4417,-1.3485
-KFC,S60 1TG,53.4442,-1.3455
-Nando's,S60 1TG,53.4432,-1.3449
+McDonald's,S60 1SG,53.4422,-1.3489
+Costa Coffee,S60 1TG,53.4444,-1.3467
+KFC,S60 1TG,53.4437,-1.3462
 SUBWAY,S60 1TG,53.4432,-1.3449
 Carlton Park Hotel,S60 2BG,53.4190,-1.3480
+The Bluecoat Rotherham (Wetherspoon),S60 2DJ,53.4288,-1.3549
 KFC Canklow,S60 2JH,53.4178,-1.3608
-KFC,S60 2JH,53.4177,-1.3608
+KFC,S60 2JH,53.4152,-1.3621
 Zaika kebabs and sweets ,S60 2LR,53.4295,-1.3542
 Mr tasty ltd,S60 2NN,53.4279,-1.3508
 Rajas Rotherham ,S60 2NW,53.4275,-1.3497
 Rotherham Hospice,S60 2SW,53.4240,-1.3408
+Costa Coffee,S60 2UD,53.4146,-1.3428
 McDonald's Canklow,S60 2XG,53.4095,-1.3609
-McDonalds Restaurants,S60 2XG,53.4093,-1.3608
+McDonald's,S60 2XG,53.4104,-1.3613
 The Chequers Inn,S60 4HB,53.4061,-1.3315
 The Sitwell Arms,S60 4HQ,53.4040,-1.3286
 Cuccinis ltd,S60 4LA,53.4166,-1.3215
@@ -183,7 +177,6 @@ WJ CAFE,S61 4RN,53.4449,-1.3526
 Parkgate Fisheries ,S62 6DX,53.4520,-1.3438
 The Fitzwilliam Arms Hotel,S62 6EE,53.4501,-1.3473
 Starbucks Rotherham DT,S62 6EJ,53.4495,-1.3414
-Starbucks,S62 6EJ,53.4499,-1.3401
 Greetings cafe,S62 6EQ,53.4511,-1.3446
 Urban Fresh Burgers & Fries,S62 6FP,53.4475,-1.3471
 Pizza Hut,S62 6FR,53.4507,-1.3430
@@ -194,8 +187,6 @@ Big bs,S62 7JW,53.4688,-1.3446
 Le Bistro,S62 7TL,53.4786,-1.4183
 Village Tea Room and Garden,S62 7TL,53.4786,-1.4183
 THE GEORGE AND DRAGON,S62 7TN,53.4797,-1.4210
-BaxterStorey,S63 5AD,53.4987,-1.3127
-Compass Group,S63 7EW,53.4978,-1.3160
 KNEAD BAKERY,S64 0AJ,53.4977,-1.2834
 Pekish Cafe & Desserts ,S64 0DB,53.4951,-1.2814
 Pastures Lodge,S64 0JJ,53.4968,-1.2583
@@ -219,11 +210,12 @@ GOA SPICE,S64 9JB,53.4935,-1.2926
 South yorkshire,S64 9JB,53.4933,-1.2941
 The Old College Coffee Shop and dining room,S64 9JP,53.4955,-1.2847
 Casper’s Coffee House ,S64 9LL,53.4929,-1.2852
-Wetherspoon,S64 9QA,53.4928,-1.2874
+The Old Market Hall Mexborough (Wetherspoon),S64 9QA,53.4928,-1.2874
 E'lupos Restaurant,S65 1BL,53.4361,-1.3538
 CORNER CAFE ,S65 1EL,53.4324,-1.3544
 Buzz Bingo,S65 1EN,53.4416,-1.3273
 KFC Fitzwilliam Road,S65 1EN,53.4416,-1.3266
+KFC,S65 1EN,53.4424,-1.3239
 Taco Bell,S65 1EN,53.4416,-1.3266
 Ginge's Snap,S65 1EQ,53.4322,-1.3539
 YOH BURGER (ROTHERHAM),S65 1PX,53.4369,-1.3459
@@ -231,16 +223,19 @@ rotherham football centre ,S65 1SU,53.4423,-1.3320
 CLARKY'S SANDWICH SHOP,S65 2DE,53.4372,-1.3308
 bay tree bistro ltd,S65 3HU,53.4235,-1.3060
 mark woodward t/a brecks social club,S65 3HZ,53.4215,-1.3069
+Beefeater The Brecks,S65 3JB,53.4199,-1.3081
+Costa Coffee,S65 3LA,53.4423,-1.3237
 McDonald's Dalton - Rotherham Drive Thru,S65 3SR,53.4449,-1.3283
-McDonalds Restaurants,S65 3SR,53.4449,-1.3283
+McDonald's,S65 3SR,53.4426,-1.3210
 earl of strafford,S65 4PF,53.4675,-1.2732
 Seven Seas Limited,S66 1AG,53.4199,-1.2875
 McDonald's Bramley - Bawtry Rd,S66 1YY,53.4220,-1.2542
-McDonalds,S66 1YY,53.4220,-1.2542
+McDonald's,S66 1YY,53.4230,-1.2549
 Chaudrys Restaurant Ltd,S66 2BW,53.4218,-1.2844
 Gas Lamp Wickersley Limited,S66 2BW,53.4218,-1.2844
 The Courtyard ,S66 2BW,53.4218,-1.2844
 The Olive Lounge Wickersley Limited,S66 2BW,53.4218,-1.2844
+The Queens Hotel Rotherham (Wetherspoon),S66 7NQ,53.4233,-1.1966
 The Three Tuns,S66 7QT,53.4361,-1.1701
 Grazing Harts ,S66 7RR,53.4468,-1.2269
 The Haynook,S66 8HZ,53.4293,-1.2135
@@ -260,33 +255,35 @@ piccolo espresso bar,S80 1HS,53.3013,-1.1248
 Best Western Lion Hotel,S80 1HT,53.3017,-1.1248
 Cypriana Coffee House,S80 1JA,53.3030,-1.1249
 Cafe Neo,S80 1JR,53.3058,-1.1251
-Costa Coffee,S80 1JR,53.3058,-1.1251
+Costa Coffee,S80 1JR,53.3064,-1.1251
 THE SHIREOAKS INN,S80 1LT,53.3026,-1.1283
 The Avenue Coffee House Ltd,S80 1NH,53.3033,-1.1316
 THE MILLHOUSE,S80 1NN,53.3031,-1.1359
 Chocolate Orange Tearooms,S80 1PH,53.3084,-1.1217
 THE STATION HOTEL,S80 1PS,53.3104,-1.1212
 Stop & Pour,S80 2AR,53.3041,-1.1224
+The Liquorice Gardens Worksop (Wetherspoon),S80 2AS,53.3043,-1.1236
 Cuckoo Wharf Coffee Shop,S80 2EH,53.3068,-1.1195
 WORKSOP GOLF CLUB LTD,S80 2SQ,53.2923,-1.1107
+McDonald's,S80 3AT,53.3101,-1.1437
 McDonald's,S80 3AT,53.3101,-1.1477
 Woodshed Cafe & Bar at Clumber Park Lodges,S80 3BQ,53.2763,-1.0945
 Laing O Rourke,S80 3DT,53.2978,-1.1678
 ARROW FARM SHOP,S80 3DZ,53.3021,-1.1870
 Half Moon,S80 3EE,53.2937,-1.2008
-McDonalds Restaurants Ltd,S80 3EZ,53.3113,-1.1403
 Woodhouse Inn,S80 3HD,53.3162,-1.1507
 The Parish Oven  Thorpe Salvin,S80 3JU,53.3237,-1.2158
 Creswell Heritage Trust,S80 3LH,53.2790,-1.2054
-Starbucks,S80 3QD,53.3033,-1.1400
 Kilton Forest Golf Clubhouse,S81 0TL,53.3206,-1.1069
 Gateford grill,S81 7BP,53.3206,-1.1316
 Three Legged Stool,S81 7DY,53.3259,-1.1305
 The turbine cafe,S81 8AP,53.3229,-1.1585
 The White Swan Inn,S81 8EQ,53.3761,-1.0611
 AASHA ,S81 8HB,53.3773,-1.0612
+Costa Coffee,S81 8HG,53.3876,-1.0611
 The Angel inn blyth ltd,S81 8HG,53.3821,-1.0624
 The Red Hart Hotel,S81 8HG,53.3821,-1.0624
+Brewers Fayre King William IV,S81 8HU,53.3920,-1.1176
 The Black Lion,S81 8JY,53.3892,-1.1573
 The butchers arms ,S81 8QA,53.3492,-1.1710
 Blue Bell Inn,S81 9DT,53.3552,-1.1119
@@ -295,35 +292,29 @@ Waterfall Elior (Taylor Shaw),S9 1AN,53.4141,-1.4267
 Waterfall Elior,S9 1AS,53.4115,-1.4210
 SUBWAY - MEADOWHALL INTERCHANGE,S9 1BS,53.4104,-1.4222
 Coffika Meadowhall,S9 1EH,53.4149,-1.4101
-Pret A Manger,S9 1EH,53.4149,-1.4101
-Starbucks Coffee Company,S9 1EH,53.4149,-1.4101
 Caffe Rizzoli Prosecco Bar,S9 1EL,53.4149,-1.4101
-Costa Coffee Cafe,S9 1EL,53.4149,-1.4101
+Costa Coffee,S9 1EL,53.4146,-1.4085
 Debenhams Restaurant Meadowhall,S9 1EL,53.4149,-1.4101
+Costa Coffee,S9 1EN,53.4142,-1.4108
 BARBURRITO,S9 1EP,53.4130,-1.4125
 Barnis,S9 1EP,53.4141,-1.4128
 Chaobaby,S9 1EP,53.4130,-1.4125
-Costa Coffee,S9 1EP,53.4130,-1.4125
-Five Guys,S9 1EP,53.4149,-1.4101
 KFC Meadowhall,S9 1EP,53.4141,-1.4128
-KFC,S9 1EP,53.4130,-1.4125
+KFC,S9 1EP,53.4140,-1.4131
 McDonald's The Oasis  Meadowhall,S9 1EP,53.4141,-1.4128
-McDonalds Restaurants Ltd,S9 1EP,53.4130,-1.4125
-Nando's Restaurant,S9 1EP,53.4130,-1.4125
-Pizza Express,S9 1EP,53.4130,-1.4125
+McDonald's,S9 1EP,53.4140,-1.4135
+Nando's,S9 1EP,53.4138,-1.4127
 Pizza Hut,S9 1EP,53.4130,-1.4125
 Subway Meadowhall Oasis,S9 1EP,53.4141,-1.4128
 Tapas Revolution Sheffield,S9 1EP,53.4149,-1.4101
 Tasty plaice,S9 1EP,53.4130,-1.4125
-Wagamama,S9 1EP,53.4149,-1.4101
+The Steel Foundry Sheffield (Wetherspoon),S9 1EP,53.4142,-1.4138
 Wrapchic,S9 1EP,53.4149,-1.4101
 Yangtze Sheffield,S9 1EP,53.4141,-1.4128
-Zizzi,S9 1EP,53.4130,-1.4125
 let's sushi,S9 1EP,53.4130,-1.4125
-Caffe Nero,S9 1ER,53.4130,-1.4125
-Starbucks,S9 1ER,53.4130,-1.4125
 Subway Meadowhall High Street,S9 1ES,53.4124,-1.4121
 Air Haus ,S9 1EW,53.4126,-1.4068
+Costa Coffee,S9 1EW,53.4112,-1.4091
 Jump INC Sheffield,S9 1EW,53.4126,-1.4068
 Waterfall Elior,S9 1LU,53.4188,-1.4260
 Waterfall Elior,S9 1NR,53.4211,-1.4267
@@ -332,25 +323,18 @@ Waterfall elior,S9 1SG,53.4138,-1.3965
 The Green Room,S9 1XH,53.3956,-1.3855
 Waterfall Elior,S9 2AE,53.3984,-1.4274
 Costa Coffee,S9 2DD,53.4026,-1.4187
+KFC,S9 2DD,53.4026,-1.4187
 Taco Bell,S9 2DD,53.4026,-1.4187
 big filla ltd,S9 2DE,53.4012,-1.4172
-Baxterstorey,S9 2EG,53.4068,-1.4147
 39 Desserts Sheffield,S9 2EP,53.4013,-1.4139
-Burger King,S9 2EP,53.4015,-1.4150
-Five Guys JV Limited,S9 2EP,53.4015,-1.4150
-Hollywood Bowl,S9 2EP,53.4015,-1.4150
-Miller & Carter,S9 2EP,53.4015,-1.4150
 Monkey Bizness Sheffield,S9 2EP,53.4013,-1.4139
-Nando's,S9 2EP,53.4015,-1.4150
-Pizza Express,S9 2EP,53.4015,-1.4150
+Nando's,S9 2EP,53.4012,-1.4143
 Subway Centretainment,S9 2EP,53.4015,-1.4150
-Wagamama Group Limited,S9 2EP,53.4015,-1.4150
-Starbucks,S9 2FJ,53.4055,-1.4166
-TGI Fridays Sheffield,S9 2YL,53.4099,-1.4068
+Thyme,S9 2FA,53.4015,-1.4230
+Thyme,S9 2YL,53.4099,-1.4069
 tinsley subway,S9 2YL,53.4095,-1.4077
 McDonald's Meadowhall Retail Park  near Valley Centertainment,S9 2YZ,53.4052,-1.4124
-McDonalds Restaurant,S9 2YZ,53.4052,-1.4124
-Pizza Hut Restaurant,S9 2YZ,53.4052,-1.4124
+McDonald's,S9 2YZ,53.4057,-1.4146
 BAIG COFFEE N CREAM,S9 3FR,53.3882,-1.4204
 BAIG DESSERTS PARLOUR,S9 3FR,53.3882,-1.4204
 Courtyard Cafe-Bar,S9 3QS,53.3927,-1.4332
@@ -364,4 +348,4 @@ waverley road cafe,S9 4PJ,53.3852,-1.4083
 Waterfall Elior,S9 5EF,53.3946,-1.4172
 Subway,S9 5HZ,53.3873,-1.4084
 Cara Restaurants Limited McDonalds 1189,S9 5PA,53.3912,-1.4087
-McDonalds Restaurant,S9 5PA,53.3912,-1.4087
+McDonald's,S9 5PA,53.3922,-1.4095

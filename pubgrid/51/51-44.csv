@@ -3,8 +3,8 @@ The Boat at Erbistock,LL13 0DL,52.9669,-2.9605
 Two Doves Coffee and Gift Shop Overton,LL13 0EE,52.9690,-2.9348
 The Trotting Mare,LL13 0LE,52.9507,-2.9330
 THE LITTLE KITCHEN (CYMRU) LIMITED,LL14 3YD,52.9749,-3.0701
+McDonald's,LL14 5AZ,52.9503,-3.0431
  Glyn Wylfa Ltd /Caffi Wylfa,LL14 5BS,52.9307,-3.0599
-Dobbies Garden Centres Ltd,LL14 5DG,52.9209,-3.0452
 Lord moreton Restaurant,LL14 5DG,52.9209,-3.0452
 hand hotel chirk,LL14 5EY,52.9322,-3.0566
 CASTLE BISTRO,LL14 5EZ,52.9321,-3.0565
@@ -18,15 +18,18 @@ The Lodge Inn - Top House,SY10 7RG,52.9138,-3.0666
 The Cross Keys ,SY10 8DB,52.7826,-2.9848
 Munchies Diner,SY10 8GA,52.8436,-3.0417
 KFC,SY10 8NN,52.8450,-3.0351
+KFC,SY10 8NN,52.8499,-3.0288
 OK Diner Oswestry,SY10 8NN,52.8450,-3.0351
-Starbucks,SY10 8NN,52.8450,-3.0351
+Table Table Oswalds Cross,SY10 8NN,52.8503,-3.0321
 weston village clubhouse ltd,SY10 9ER,52.8469,-3.0493
 Stonehouse Brewery,SY10 9ES,52.8414,-3.0450
 Sweeney Hall Hotel,SY10 9EU,52.8347,-3.0555
+The Wilfred Owen Oswestry (Wetherspoon),SY11 1AF,52.8595,-3.0564
 RED ROSE,SY11 1AQ,52.8604,-3.0577
 Townhouse Bar & Brasserie,SY11 1AQ,52.8604,-3.0577
 Cambrian Coffee and Cakes,SY11 1HS,52.8631,-3.0472
 Carriages Coffee Lounge & Bar ltd ,SY11 1HT,52.8641,-3.0475
+Costa Coffee,SY11 1PN,52.8590,-3.0553
 AROMA CAFE BAR LTD,SY11 1PU,52.8600,-3.0546
 Baileys,SY11 1PU,52.8600,-3.0546
 Fat Rabbit,SY11 1PX,52.8602,-3.0551
@@ -37,7 +40,6 @@ Cafe Life,SY11 2LQ,52.8645,-3.0364
 Raj mahal,SY11 2NN,52.8594,-3.0533
 Salop Fish Bar,SY11 2NU,52.8584,-3.0522
 Milanos Cafe Oswestry,SY11 2PD,52.8584,-3.0553
-Prezzo,SY11 2SP,52.8585,-3.0565
 The Kings Head,SY11 2SP,52.8588,-3.0561
 The Cemist,SY11 2SU,52.8584,-3.0561
 Wynnstay Hotel  ,SY11 2SZ,52.8570,-3.0571
@@ -53,11 +55,9 @@ The Venue at Park Hall,SY11 4AS,52.8755,-3.0298
 The White Lion,SY11 4DF,52.8729,-3.0019
 Ye Olde Boote Inn,SY11 4DF,52.8729,-3.0019
 Queens Head,SY11 4EB,52.8350,-2.9825
-Burger King,SY11 4JA,52.8493,-3.0267
 Mile End Golf Club & Driving Range,SY11 4JF,52.8444,-3.0196
 Black Country Metal Works Ltd,SY11 4JH,52.8417,-2.9984
 The 19th bar and catering ,SY11 4JJ,52.8358,-2.9867
-Compass Group At BT Whittington House,SY11 4TB,52.8714,-3.0314
 Meze Greek Restaurant,SY12 0AW,52.9082,-2.8932
 The vault,SY12 0DE,52.9071,-2.8939
 cherry tree cafe,SY12 0DG,52.9065,-2.8957
@@ -74,6 +74,7 @@ Swallow Chinese Restaurant,SY13 1AA,52.9691,-2.6817
 The Wheatsheaf Whitchurch Limited,SY13 1AD,52.9693,-2.6818
 Benjamins's,SY13 1AW,52.9691,-2.6833
 The Black Bear,SY13 1AZ,52.9702,-2.6846
+Costa Coffee,SY13 1BB,52.9696,-2.6843
 Etzio Italian kitchen ,SY13 1BB,52.9700,-2.6849
 Reubens Bar and BBQ,SY13 1BG,52.9693,-2.6847
 fiona's coffee shop,SY13 1DP,52.9679,-2.6831
@@ -81,13 +82,11 @@ the bulls head,SY13 1DP,52.9679,-2.6831
 Cafe Bon Sol,SY13 1DW,52.9686,-2.6835
 Nicky bs Cakes and Catering Limited,SY13 1DW,52.9686,-2.6835
 The Dodington Lodge,SY13 1EN,52.9655,-2.6799
+McDonald's,SY13 1JZ,52.9666,-2.7052
 McDonald's,SY13 1JZ,52.9670,-2.7053
-McDonalds @ Whitchurch Services,SY13 1JZ,52.9670,-2.7053
-Starbucks,SY13 1JZ,52.9665,-2.7053
 Blue Water Spices Indian Ltd,SY13 1QP,52.9697,-2.6786
 THAI VINTAGE,SY13 1SH,52.9678,-2.6859
 Bull and Dog,SY13 2RA,52.9044,-2.7015
-Compass Group At Nesscliffe Training Camp,SY4 1BH,52.7589,-2.9253
 Veeranar Limited,SY4 1BZ,52.7715,-2.9229
 the old three pigeons,SY4 1DB,52.7672,-2.9165
 Adi exclusive ltd T/A Admiral Spice ,SY4 2AY,52.7911,-2.8533
@@ -97,6 +96,7 @@ New Inn Baschurch,SY4 2EF,52.7921,-2.8574
 Atalian Servest @ Walford And North Shropshire College,SY4 2HL,52.7799,-2.8386
 Mercure Albrighton Hall Hotel & Spa,SY4 3AG,52.7609,-2.7468
 Sparrows Cafe  Battlefield 1403,SY4 3DB,52.7526,-2.7201
+Whitbread Inns The Bridgewater Arms,SY4 3DS,52.7932,-2.7575
 The Red Lion,SY4 3RP,52.8097,-2.7907
 Maypole court cafe bistro ,SY4 5AA,52.8561,-2.7230
 The Castle Hotel,SY4 5AA,52.8559,-2.7237

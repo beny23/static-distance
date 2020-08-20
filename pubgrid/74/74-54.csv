@@ -1,9 +1,8 @@
 name,postcode,lat,lon
-Baxterstorey,DL1 1AS,54.5283,-1.5169
-Burger King,DL1 1LS,54.5258,-1.5540
 Esquire Coffee,DL1 1LS,54.5258,-1.5540
 The Crown Buttery,DL1 1LU,54.5268,-1.5531
-Costa Coffee,DL1 1NR,54.5260,-1.5545
+The William Stead Darlington (Wetherspoon),DL1 1LU,54.5257,-1.5528
+Costa Coffee,DL1 1NR,54.5260,-1.5544
 Mercure Darlington Kings Hotel,DL1 1NW,54.5258,-1.5540
 Allegria,DL1 1QU,54.5305,-1.5524
 Darlington Kaspas,DL1 1QU,54.5291,-1.5526
@@ -12,27 +11,24 @@ Tiyatro,DL1 1RX,54.5242,-1.5483
 Meze Turkish Restaurant,DL1 1RZ,54.5243,-1.5475
 Sweet escape Ltd,DL1 1UB,54.5307,-1.5531
 THE WHEATSHEAF,DL1 1XN,54.5219,-1.5234
-KFC,DL1 2EE,54.5352,-1.5516
+KFC,DL1 2JQ,54.5358,-1.5519
 The Springfield,DL1 2RB,54.5457,-1.5324
 Hall Garth Hotel and Country club,DL1 3LU,54.5798,-1.5561
 Holiday Inn Darlington North,DL1 3NL,54.5862,-1.5675
-McDonalds,DL1 3NL,54.5858,-1.5638
+McDonald's,DL1 3NL,54.5857,-1.5638
 Mcdonald's Newton Aycliffe,DL1 3NL,54.5858,-1.5638
-Costa Coffee,DL1 4AA,54.5214,-1.5465
-Elior UK,DL1 4BS,54.5180,-1.5107
+Costa Coffee,DL1 4AA,54.5210,-1.5466
 copper beech pub,DL1 4DH,54.5146,-1.5407
-McDonalds,DL1 4PJ,54.5206,-1.5014
-Medirest Healthcare-Compass Group At Woodlands Hospital,DL1 4PL,54.5205,-1.5048
-Costa Coffee Drive Thru,DL1 4PU,54.5232,-1.5165
-KFC,DL1 4PU,54.5227,-1.5159
+Beefeater Morton Park,DL1 4PJ,54.5187,-1.5034
+McDonald's,DL1 4PJ,54.5187,-1.5011
+KFC,DL1 4PU,54.5221,-1.5174
 Taylors Cafe ,DL1 4PZ,54.5218,-1.5091
 Roarsome soft play,DL1 4WE,54.5214,-1.5047
 Nobia Staff Canteen,DL1 4XT,54.5263,-1.5125
-Elior UK Services At EE,DL1 4XW,54.5210,-1.5093
 Estabulo Bar & Grill,DL1 5AD,54.5225,-1.5527
-Nando's,DL1 5AD,54.5229,-1.5528
 Subway ,DL1 5AD,54.5229,-1.5528
 The Chinese Buffet,DL1 5AD,54.5229,-1.5528
+Thyme,DL1 5AD,54.5226,-1.5528
 Hatch Luncheonette ,DL1 5HG,54.5238,-1.5567
 Uno momento,DL1 5HL,54.5240,-1.5572
 JUNIPER TREE,DL1 5NA,54.5232,-1.5578
@@ -42,8 +38,6 @@ SALT - STREET FOOD KITCHEN ,DL1 5NG,54.5229,-1.5584
 Manjaros,DL1 5NQ,54.5234,-1.5582
 The Waterhouse Kitchen,DL1 5PL,54.5243,-1.5561
 HOLE IN THE WALL,DL1 5PT,54.5240,-1.5546
-Caffe Nero,DL1 5PW,54.5240,-1.5554
-Pizza Hut Restaurant,DL1 5PW,54.5240,-1.5554
 The Diner,DL1 5PX,54.5245,-1.5552
 The Pennyweight,DL1 5QA,54.5246,-1.5542
 Tomahawk Steakhouse Darlington,DL1 5RD,54.5221,-1.5542
@@ -65,6 +59,7 @@ The smokehouse railway street,DL14 7LR,54.6589,-1.6735
 BREAKING BREAD KITCHEN AND BAKEHOUSE,DL14 7NJ,54.6653,-1.6730
 Chang Thai Restaurant,DL14 7NJ,54.6653,-1.6730
 Fifteas  vintage Tearooms,DL14 7NJ,54.6653,-1.6730
+The Stanley Jefferson Bishop Auckland (Wetherspoon),DL14 7NJ,54.6653,-1.6730
 reading rooms,DL14 7NJ,54.6653,-1.6730
 Bishop Auckland Town Hall,DL14 7NP,54.6660,-1.6726
 merry monk,DL14 7NP,54.6660,-1.6726
@@ -78,13 +73,15 @@ Park Head Hotel,DL14 8QB,54.6661,-1.6475
 THE TOP HOUSE,DL14 8QB,54.6661,-1.6475
 Dene Valley Heritage Cafe,DL14 8TD,54.6443,-1.6487
 KFC,DL14 9AE,54.6377,-1.6934
-Costa Coffee,DL14 9FA,54.6410,-1.6955
+Brewers Fayre Tindale Crossing,DL14 9AP,54.6385,-1.6873
+Costa Coffee,DL14 9SX,54.6404,-1.6952
 JOEYS WAFFLE HOUSE,DL14 9TT,54.6404,-1.6929
-McDonalds,DL14 9TT,54.6402,-1.6931
-Starbucks Coffee,DL14 9TT,54.6402,-1.6931
+KFC,DL14 9TT,54.6392,-1.6918
+McDonald's,DL14 9TT,54.6406,-1.6934
 The Joiners Arms,DL15 0JW,54.6866,-1.7092
 The Quarry Burn Guest House & Restaurant Ltd,DL15 0LG,54.6929,-1.7089
 KJ's Coffee Shot,DL16 6BB,54.6984,-1.6039
+The Grand Electric Hall Spennymoor (Wetherspoon),DL16 6DJ,54.6996,-1.6002
 The village Inn ,DL16 7JQ,54.6756,-1.5980
 THE WHISTLING TEAPOT,DL16 7LR,54.6968,-1.6109
 CLEMS SPENNYMOOR LTD,DL16 7SE,54.6966,-1.6058
@@ -117,7 +114,7 @@ Countryman Estates,DL2 2UW,54.5974,-1.6929
 The Burtree Inn,DL2 2XZ,54.5624,-1.5961
 The Fox Hole,DL2 3SJ,54.5381,-1.6766
 Sammies Cafe Piercebridge,DL2 3TS,54.5407,-1.6738
-McDonalds,DL3 0YQ,54.5391,-1.5567
+McDonald's,DL3 0YQ,54.5380,-1.5568
 Cafe Quick,DL3 6HX,54.5318,-1.5647
 Hollies Restaurant,DL3 6HX,54.5318,-1.5647
 Viraj Restaurant LTD,DL3 6JR,54.5284,-1.5546
@@ -132,13 +129,12 @@ Imperial Express Cafe,DL3 7HJ,54.5230,-1.5585
 Bannatyne Hotels,DL3 7HZ,54.5223,-1.5616
 Picco Bar and Pizzeria,DL3 7JG,54.5262,-1.5574
 The Old Yard Tapas Bar,DL3 7JY,54.5265,-1.5569
+The Tanners Hall Darlington (Wetherspoon),DL3 7LL,54.5256,-1.5572
 Cafe Valente,DL3 7LU,54.5249,-1.5568
 Al Forno Darlington,DL3 7LX,54.5246,-1.5574
 Phixx coffee lounge,DL3 7LX,54.5246,-1.5574
 Tre Amici,DL3 7LX,54.5245,-1.5574
 Voodoo Cafe,DL3 7LX,54.5246,-1.5574
-Pizza Express,DL3 7ND,54.5238,-1.5581
-Buzz Bingo,DL3 7NR,54.5258,-1.5575
 1,DL3 7QH,54.5247,-1.5565
 Cafe spice Indian restaurant ltd ,DL3 7QH,54.5247,-1.5565
 Echo 3 coffee house ,DL3 7QH,54.5247,-1.5565
@@ -152,12 +148,10 @@ Peartree Hill Cafe,DL3 9AA,54.5335,-1.5787
 Shildon Civic Hall,DL4 1AH,54.6324,-1.6499
 Salvos Cucina Italiana,DL4 1AJ,54.6328,-1.6490
 corner cafe,DL4 1DS,54.6336,-1.6472
-Costa Coffee,DL4 1DX,54.6342,-1.6463
 The Sweet Shake Shack,DL4 1DX,54.6342,-1.6459
 Breaking Bread Restaurants Ltd,DL4 1HH,54.6258,-1.6474
 Douglas's Desserts at the whistle stop cafe,DL4 2JF,54.6249,-1.6451
 Locomotion,DL4 2RE,54.6237,-1.6321
-Costa Coffee,DL5 4DH,54.6214,-1.5697
 Love thy Cupcake,DL5 4DP,54.6205,-1.5717
 Coffee pronto,DL5 4DZ,54.6203,-1.5709
 Elachi Limited,DL5 4EE,54.6197,-1.5721
@@ -165,8 +159,7 @@ Woodham Country Club Ltd,DL5 4PN,54.6397,-1.5768
 thames diner,DL5 4SB,54.6188,-1.5727
 Bengal Lounge Woodham Ltd,DL5 4UE,54.6334,-1.5664
 THE HUNTSMAN (NA) LIMITED,DL5 4UE,54.6335,-1.5664
-Elior UK,DL5 6AF,54.5957,-1.5683
-Atalian Servest,DL5 6AP,54.5961,-1.5776
+Costa Coffee,DL5 5RT,54.6207,-1.5691
 Siesta Coffee,DL5 6AU,54.5991,-1.5732
 Steam Machine Brewing Company Ltd,DL5 6EJ,54.6121,-1.5803
 The Hammer and Pincers,DL5 6JH,54.6102,-1.5316
@@ -174,7 +167,6 @@ The County Restaurant,DL5 6LX,54.5970,-1.5613
 Redworth Hall Hotel,DL5 6NL,54.6038,-1.6307
 Bayhorse,DL5 6PE,54.5958,-1.6179
 George and Dragon,DL5 6PP,54.5953,-1.6137
-The Restaurant  Baxterstorey,DL5 6UG,54.5932,-1.5882
 The Fish Tank,DL5 6YA,54.6001,-1.5765
 The Bay Horse,DL5 7JD,54.6299,-1.6131
 Luna Blu,TS15 9AE,54.5085,-1.3537
@@ -182,12 +174,11 @@ Osbournes,TS15 9AE,54.5085,-1.3536
 Strickland and Holt Ltd,TS15 9AE,54.5085,-1.3536
 Tomahawk Steakhouse Yarm,TS15 9AE,54.5085,-1.3536
 Treats Of Yarm Ltd,TS15 9AE,54.5085,-1.3536
-Costa Coffee,TS15 9AH,54.5095,-1.3541
+Costa Coffee,TS15 9AH,54.5094,-1.3540
 Lebaneat yarm ltd,TS15 9AH,54.5091,-1.3538
 Santoro's Ltd,TS15 9AH,54.5095,-1.3541
 Muse,TS15 9AU,54.5112,-1.3555
 Lost property restaurant ,TS15 9AY,54.5111,-1.3561
-Caffe Nero,TS15 9BB,54.5103,-1.3556
 Uno Ristorante ,TS15 9BB,54.5103,-1.3556
 Cena,TS15 9BG,54.5094,-1.3551
 Fourteen drops,TS15 9BG,54.5094,-1.3551
@@ -210,12 +201,12 @@ The Griffin,TS17 0EH,54.5334,-1.3041
 Al Forno Ingleby Barwick,TS17 5AA,54.5223,-1.3223
 Three Rivers Ingleby Barwick Limited,TS17 5AA,54.5223,-1.3223
 Ingleby Bistro & Bar,TS17 5GJ,54.5297,-1.3248
-Baxterstorey (Santander),TS17 6BJ,54.5634,-1.3089
 Pier 22 Cafe,TS17 6BN,54.5575,-1.3060
 Elior,TS17 8HJ,54.5364,-1.3004
 Subway,TS18 1AG,54.5636,-1.3123
 Remember me tearooms ,TS18 1AR,54.5642,-1.3118
 The George Pub & Grill,TS18 1BD,54.5627,-1.3133
+The Thomas Sheraton StocktononTees (Wetherspoon),TS18 1BH,54.5614,-1.3130
 Ramsgates Take5 Caffe,TS18 1BS,54.5631,-1.3139
 Cafe Express,TS18 1BW,54.5627,-1.3121
 MDZ Restaurant t/a Vadah,TS18 1BZ,54.5616,-1.3105
@@ -231,21 +222,18 @@ Carpaccio Bar Restaurant,TS18 1LJ,54.5640,-1.3168
 Ivy House,TS18 1LN,54.5645,-1.3145
 Wags & Whiskers Pet Boutique & Canine Cafe,TS18 1LN,54.5645,-1.3143
 Flavours Coffee House,TS18 1NA,54.5664,-1.3141
-Costa Coffee,TS18 1PL,54.5669,-1.3133
  Ramsgate Cafe ,TS18 1PQ,54.5649,-1.3185
 KFC,TS18 1QX,54.5660,-1.3178
-Caffe Nero,TS18 1RG,54.5653,-1.3147
-Costa Coffee,TS18 1SB,54.5644,-1.3123
+KFC,TS18 1QX,54.5665,-1.3156
+Costa Coffee,TS18 1SB,54.5645,-1.3126
 Shakes Ice Cream Cafe,TS18 1SB,54.5644,-1.3123
 Hope and Union,TS18 1SL,54.5648,-1.3117
 Hampton by Hilton Stockton,TS18 1TW,54.5675,-1.3082
 SORRISO N LTD,TS18 1UB,54.5671,-1.3128
 The Bygone Bakery Tearoom,TS18 2AA,54.5681,-1.3138
 Peking Garden,TS18 3AA,54.5607,-1.3124
-Burger King,TS18 3BA,54.5594,-1.3093
-Grosvenor Casinos Limited,TS18 3BA,54.5594,-1.3093
-Mecca Bingo Club,TS18 3BA,54.5594,-1.3093
 The Pit Stop Diner,TS18 3FB,54.5485,-1.3201
+Brewers Fayre Preston Farm,TS18 3RT,54.5460,-1.3321
 Café 81,TS18 4AR,54.5615,-1.3281
 THE OXBRIDGE HOTEL,TS18 4AW,54.5615,-1.3254
 The Village Deli ,TS18 5BD,54.5554,-1.3362
@@ -257,7 +245,7 @@ LJ's Cafe,TS19 0AP,54.5694,-1.3217
 Justlovepies.co.uk,TS19 0RP,54.5733,-1.3324
 Buttercup House Bed and Breakfast,TS19 8FE,54.5783,-1.3499
 Reliance Subway,TS19 8HJ,54.5899,-1.3508
-Costa Coffee,TS19 8PE,54.5829,-1.3468
+Costa Coffee,TS19 8PE,54.5836,-1.3472
 The Mitre,TS19 8TF,54.5752,-1.3657
 CAFE LILLI LTD,TS20 1AE,54.5895,-1.3120
 Canteen and Cocktails Ltd,TS20 1AH,54.5869,-1.3104
@@ -265,14 +253,13 @@ Scruffy Duck,TS20 1AH,54.5869,-1.3104
 The Open Jar Ltd,TS20 1AH,54.5866,-1.3101
 Betsy place ltd trading as 12 Harland place,TS20 1AL,54.5866,-1.3097
 Jolsha Limited,TS20 1AL,54.5866,-1.3097
+The Highland Laddie Norton (Wetherspoon),TS20 1AQ,54.5879,-1.3107
 NORTON CAFE,TS20 1DH,54.5875,-1.3093
-Costa Coffee,TS20 1DL,54.5873,-1.3093
 The Hambletonian,TS20 1DT,54.5924,-1.3116
 The Violet Green,TS20 1DT,54.5924,-1.3116
 Norton Tavern,TS20 1PE,54.5971,-1.3193
 La porto italiano Norton,TS20 2QQ,54.5847,-1.3108
 Scrann ,TS20 2QQ,54.5865,-1.3095
-Hydes Bar,TS20 2RZ,54.5875,-1.3088
 The Derry,TS21 1BX,54.5424,-1.4090
 The Smiths Arms,TS21 1EA,54.5896,-1.3912
 The Ship Redmarshall,TS21 1EP,54.5839,-1.4005
@@ -289,11 +276,12 @@ The Impeccable Pig,TS21 3AT,54.6538,-1.4484
 The Vane Arms,TS21 3JU,54.6048,-1.3808
 Hamilton Russell arms ,TS21 3JW,54.6038,-1.3815
 McDonald's Restaurant,TS21 3LU,54.5932,-1.3533
-McDonalds,TS21 3LU,54.5932,-1.3533
+McDonald's,TS21 3LU,54.5909,-1.3505
 Billingham Golf Club Ltd,TS22 5NA,54.6089,-1.3126
-Costa Coffee,TS22 5PZ,54.6286,-1.3069
+Breakfast Room,TS22 5PZ,54.6292,-1.3061
 KFC,TS22 5PZ,54.6285,-1.3057
-McDonalds,TS22 5PZ,54.6286,-1.3069
+KFC,TS22 5PZ,54.6286,-1.3069
+McDonald's,TS22 5PZ,54.6282,-1.3078
 WOLVISTON DP LTD,TS22 5PZ,54.6285,-1.3057
 The Stables (Wynyard) LTD,TS22 5QQ,54.6359,-1.3523
 OK Diner Elwick,TS27 3HH,54.6552,-1.3084

@@ -7,13 +7,14 @@ Man ho restaurant ,LU1 1EH,51.8844,-0.4268
 A 1 Lahori Zaiqa LTD ,LU1 1EW,51.8856,-0.4283
 Shahi Grill,LU1 1EW,51.8857,-0.4284
 Tiagos,LU1 1HE,51.8862,-0.4278
+The White House Luton (Wetherspoon),LU1 1SA,51.8813,-0.4177
 dial a kebab,LU1 1SE,51.8827,-0.4199
 subway,LU1 1SE,51.8827,-0.4199
 German Doner Kebab (GDK),LU1 2AL,51.8789,-0.4164
 Creams Cafe Luton,LU1 2AN,51.8785,-0.4139
 Subway George Street,LU1 2AQ,51.8785,-0.4156
 HONG BUFFET,LU1 2AZ,51.8788,-0.4153
-McDonalds Restaurants Ltd,LU1 2AZ,51.8789,-0.4156
+McDonald's,LU1 2AZ,51.8790,-0.4160
 NLQ ltd t/a deserts rose ,LU1 2EP,51.8807,-0.4151
 The Engine,LU1 2EP,51.8807,-0.4151
 George II,LU1 2EY,51.8811,-0.4141
@@ -21,11 +22,10 @@ BEDFORDSHIRE COFFEE LTD T/A MUFFIN BREAK ,LU1 2LJ,51.8794,-0.4128
 Chopstix Luton,LU1 2LJ,51.8794,-0.4128
 Frankster's,LU1 2LJ,51.8794,-0.4128
 Nucrema,LU1 2LJ,51.8794,-0.4128
-Starbucks Coffee Shop,LU1 2LT,51.8821,-0.4136
 Jamaica Jerk and Burger Hut ltd,LU1 2NA,51.8828,-0.4185
 Cookies and Cream,LU1 2NB,51.8817,-0.4180
 Luton Tenpin,LU1 2NB,51.8819,-0.4177
-Nando's Chickenland,LU1 2NB,51.8819,-0.4177
+Nando's,LU1 2NB,51.8816,-0.4174
 Subway Galaxy Luton,LU1 2NF,51.8812,-0.4172
 Villa Ada Restaurant,LU1 2NQ,51.8806,-0.4126
 Tastys Chicken Limited,LU1 2QB,51.8804,-0.4180
@@ -46,24 +46,24 @@ Table 21 Karahi House,LU1 2SE,51.8776,-0.4161
 Debenhams Restaurant Luton,LU1 2SZ,51.8788,-0.4139
 Asian Town cafe ,LU1 2TA,51.8794,-0.4113
 Beebs bubbles,LU1 2TE,51.8790,-0.4128
-Costa Coffee,LU1 2TF,51.8795,-0.4133
+Costa Coffee,LU1 2TF,51.8791,-0.4134
 Go coffee,LU1 2TJ,51.8796,-0.4153
-KFC,LU1 2TJ,51.8791,-0.4155
 BURGER KING-The Mall Luton,LU1 2TL,51.8801,-0.4165
-Burger King,LU1 2TL,51.8801,-0.4165
+Costa Coffee,LU1 2TL,51.8805,-0.4170
 Greenfields Restaurant,LU1 2TW,51.8792,-0.4126
 Robbys Teashop,LU1 2TW,51.8792,-0.4126
+KFC,LU1 2TY,51.8793,-0.4157
 Lime House Cafe,LU1 2TY,51.8792,-0.4158
 O'Sheas,LU1 3AL,51.8737,-0.4173
 The Living Room Cafe ,LU1 3BE,51.8771,-0.4129
 grill 33 limited,LU1 3BW,51.8767,-0.4108
 La Dolce Vita (Luton) Limited,LU1 3ET,51.8774,-0.4118
-Pizza Hut Delivery,LU1 3ET,51.8774,-0.4119
 MEAH INDIAN RESTAURANT ,LU1 3EY,51.8757,-0.4091
 The Chequers,LU1 3EZ,51.8756,-0.4089
 QUALITY FOOD LUTON LIMITED,LU1 3HG,51.8757,-0.4084
 Wamimichi Noodle Bar,LU1 3HG,51.8757,-0.4084
-Pizza Express,LU1 3JE,51.8789,-0.4119
+Beefeater The Brache,LU1 3HJ,51.8735,-0.4021
+McDonald's,LU1 3JH,51.8724,-0.3979
 313 Burger,LU1 3UA,51.8745,-0.4184
 Frog & Rhubarb,LU1 4BJ,51.8556,-0.4321
 The Rising Sun Pub,LU1 4BP,51.8538,-0.4316
@@ -71,6 +71,7 @@ The Plough ,LU1 4LU,51.8594,-0.4380
 CAFE SHIMLA,LU1 5AA,51.8780,-0.4195
 CARIBSPICE LTD,LU1 5AA,51.8780,-0.4195
 Peri Peri Original,LU1 5DA,51.8759,-0.4173
+Thyme,LU1 5FA,51.8771,-0.4181
 Jill Jenkins Court,LU1 5QY,51.8764,-0.4383
 Lagoa café,LU2 0BW,51.8843,-0.4126
 Vault Lounge (Taste of Africa) ,LU2 0BW,51.8843,-0.4126
@@ -79,7 +80,6 @@ TJ’s Peri Peri Grill and Pizza Ltd ,LU2 0DQ,51.8852,-0.4109
 Hampton by Hilton London Luton Airport,LU2 0FP,51.8736,-0.3959
 Youngs Fish Bar,LU2 0LX,51.8866,-0.4003
 Victoria Kitchen,LU2 0NP,51.8842,-0.4157
-Barnfield College Starbucks,LU2 7BF,51.9063,-0.4221
 CJ's Cafe ,LU2 7SF,51.9083,-0.4116
 ASBA Restaurant Limited T/A Baltistan Restaurant,LU2 7SL,51.8901,-0.4029
 Old Skool Pantry Limited,LU2 7SW,51.8915,-0.4022
@@ -90,19 +90,14 @@ KING WILLIAM,LU2 8QE,51.9017,-0.3674
 Courtyard by Marriott Luton Airport,LU2 9LF,51.8758,-0.3848
 Holiday Inn Luton Airport,LU2 9LF,51.8758,-0.3848
 I'AMME UK LIMITED,LU2 9LU,51.8798,-0.3772
-Burger King,LU2 9LY,51.8779,-0.3764
 Frankie and Benny's,LU2 9LY,51.8778,-0.3763
-Pret A Manger,LU2 9LY,51.8779,-0.3764
-Starbucks Landside,LU2 9LY,51.8779,-0.3764
+Pret A Manger,LU2 9LY,51.8808,-0.3751
 The Smithfield ,LU2 9LY,51.8778,-0.3763
 Wasabi Sushi & Bento,LU2 9LY,51.8778,-0.3763
-Wasabi,LU2 9LY,51.8779,-0.3764
-Benugo Ltd,LU2 9NQ,51.8823,-0.3777
 Ace Sandwich Bar LTD,LU2 9PA,51.8801,-0.3818
 The Bright Star ,LU2 9QP,51.8575,-0.3432
-Starbucks (Airside),LU2 9QT,51.8750,-0.3797
-KFC,LU2 9TA,51.8892,-0.3729
 Buffalo grill,LU2 9XG,51.8884,-0.3714
+KFC,LU2 9XG,51.8889,-0.3714
 Grill Hut Peri Peri,LU3 1AN,51.8912,-0.4292
 DESSERT ISLAND UK LTD,LU3 1AR,51.8947,-0.4320
 Flava,LU3 1AW,51.8926,-0.4303
@@ -110,9 +105,11 @@ Azure Restaurant,LU3 1BT,51.8843,-0.4195
 Tasty Corner,LU3 1JH,51.8925,-0.4336
 Amor Dessert Lounge,LU3 1PB,51.8988,-0.4366
 uk periperi,LU3 1PB,51.8988,-0.4366
+Beefeater The Warden,LU3 2BL,51.9181,-0.4277
 Ashiyana Indian,LU3 2DQ,51.9134,-0.4306
 Pizza Hut Delivery,LU3 2QL,51.9046,-0.4528
 Arianaz Restaurant and Wine Bar,LU3 2QQ,51.9045,-0.4535
+McDonald's,LU3 2TU,51.9069,-0.4575
 SUNDON PERI GRILL,LU3 3AZ,51.9198,-0.4716
 Dildar Restaurant,LU3 3BH,51.9162,-0.4701
 INDIAN OCEAN ,LU3 3BH,51.9162,-0.4701
@@ -120,12 +117,10 @@ MR FISH AND GRILL ,LU3 3BH,51.9162,-0.4701
 SKF,LU3 3BL,51.9191,-0.4735
 cedric booles,LU3 3PE,51.9395,-0.4799
 THE COFFEE HOUSE,LU4 0DZ,51.8942,-0.4743
-Mecca Bingo,LU4 0JB,51.8906,-0.4842
 Subway,LU4 8DA,51.8906,-0.4450
-McDonalds Restaurants Limited,LU4 8EZ,51.8901,-0.4562
+KFC,LU4 8EZ,51.8893,-0.4558
+McDonald's,LU4 8EZ,51.8907,-0.4545
 Orbital Trampoline Park (Luton) Limited,LU4 8EZ,51.8901,-0.4554
-KFC,LU4 8FD,51.8889,-0.4546
-Pizza Hut Restaurant,LU4 8FD,51.8889,-0.4546
 Arabella lounge,LU4 8FG,51.8864,-0.4300
 Coffeepot ,LU4 8FG,51.8864,-0.4300
 CAFE LUTON ,LU4 8HX,51.8883,-0.4317
@@ -134,26 +129,24 @@ Peri Peri Original,LU4 8JJ,51.8868,-0.4312
 Alankar,LU4 8JL,51.8872,-0.4342
 pepes piri piri,LU4 8JS,51.8893,-0.4398
 The Coffee Tree,LU4 9ND,51.9010,-0.4710
-Whitbread Plc (Hotels),LU4 9QH,51.9013,-0.4645
 Chiltern Hotel Ltd,LU4 9RU,51.8928,-0.4518
-Elior - Vauxhall Motors Restaurant,LU4 9TT,51.9145,-0.4811
 Dunstable Tandoori,LU5 4EX,51.8884,-0.5226
+The Gary Cooper Dunstable (Wetherspoon),LU5 4GP,51.8897,-0.5211
 GObowling,LU5 4JD,51.8907,-0.5213
+Costa Coffee,LU5 4JU,51.8896,-0.4858
+Beefeater Halfway House,LU5 4LL,51.8914,-0.4864
 CURRY GARDEN (DUNSTABLE) LTD T/A CURRY GARDEN FINEST INDIAN CUISINE,LU5 4NP,51.8928,-0.4981
 CURRY GARDEN,LU5 4NP,51.8928,-0.4981
 Kazmicks Restaurant,LU5 4RH,51.8871,-0.5205
 The Old Palace Lodge Hotel ,LU5 4RT,51.8870,-0.5176
 Chez Jerome ,LU5 4RU,51.8861,-0.5199
-KFC,LU5 4WL,51.8905,-0.5139
-Pizza Hut Restaurant,LU5 4WL,51.8905,-0.5139
-Costa Coffee,LU5 5XE,51.9005,-0.5075
+KFC,LU5 4SE,51.8898,-0.5120
+McDonald's,LU5 4UR,51.8877,-0.5106
+Costa Coffee,LU5 4WL,51.8897,-0.5130
 The Bell,LU5 6BP,51.9490,-0.5316
 Bistro Twenty Four ,LU5 6BY,51.9479,-0.5331
-Costa Coffee,LU5 6HP,51.9483,-0.5038
-KFC,LU5 6HP,51.9483,-0.5038
-Burger King (Northbound),LU5 6HR,51.9474,-0.5031
-Burger King (Southbound),LU5 6HR,51.9474,-0.5031
-MOTO Services Southbound,LU5 6HR,51.9474,-0.5031
+Costa Coffee,LU5 6HR,51.9477,-0.5015
+KFC,LU5 6HR,51.9473,-0.5032
 The Fancott,LU5 6HT,51.9374,-0.5188
 Coconut Garden,LU6 1AU,51.8939,-0.5315
 Donatellos ,LU6 1AU,51.8939,-0.5315
@@ -168,7 +161,7 @@ White Lion Pub ,LU6 1RS,51.9019,-0.5455
 SPICE LOUNGE,LU6 1SL,51.8855,-0.5218
 The Way Coffee House,LU6 1SX,51.8859,-0.5219
 Costa Coffee Dunstable,LU6 1TD,51.8869,-0.5214
-Costa Coffee,LU6 1TD,51.8868,-0.5214
+Costa Coffee,LU6 1TD,51.8877,-0.5210
 The Cross Keys ,LU6 2DA,51.8868,-0.5782
 The White Horse,LU6 2DG,51.8786,-0.5935
 The Swan,LU6 2EY,51.8696,-0.6066
@@ -178,14 +171,14 @@ The Farmers Boy,LU6 2PJ,51.8530,-0.5081
 Zeera ,LU6 2PX,51.8796,-0.5424
 Jaccs coffee,LU6 3AH,51.8825,-0.5223
 Holiday Inn Express Dunstable,LU6 3DX,51.8757,-0.5052
-Wilson Vale Catering,LU6 3EJ,51.8768,-0.5090
-KFC,LU6 3RZ,51.8851,-0.5195
+Table Table Horse & Jockey,LU6 3QP,51.8575,-0.4805
 Priory House Tearooms,LU6 3RZ,51.8851,-0.5195
 Sugar 'n' Spice,LU6 3RZ,51.8854,-0.5196
 VANTAGE INDIAN RESTAURANT,LU6 3RZ,51.8851,-0.5195
 Peri Peri Original Dunstable ,LU6 3SF,51.8842,-0.5178
 The White Swan,LU6 3SF,51.8842,-0.5178
 MCDONALD'S,LU7 9LZ,51.9280,-0.5814
+McDonald's,LU7 9LZ,51.9257,-0.5777
 CURRY GARDEN EGGINGTON LIMITED,LU7 9PD,51.9167,-0.6120
 THE ANCHOR PUB,LU7 9PU,51.9099,-0.5778
 Tilsworth Golf Centre Ltd,LU7 9PU,51.9092,-0.5756
@@ -195,16 +188,13 @@ The Cross Keys Public House and Restaurant,MK43 0JB,52.0724,-0.6047
 Lounge India Mm Ltd,MK43 0LE,52.0708,-0.5408
 The Bell,MK43 0ND,52.0621,-0.5496
 Marston Vale Services t/as The Forest Centre Limited,MK43 0PR,52.0647,-0.5354
-Marston Moretaine Burger King,MK43 0PZ,52.0641,-0.5520
 The White Horse,MK43 0XE,52.0116,-0.6012
 Waterfall Elior at Kimberley College,MK43 9AE,52.0721,-0.5246
-Costa Coffee,MK45 1DS,52.0047,-0.4951
  INDIAN LODGE balti limited,MK45 1DU,52.0075,-0.4973
 SPICE INDIAN CUISINE,MK45 1HZ,51.9981,-0.4956
 Waterfall Elior,MK45 2BX,52.0257,-0.4955
 The White Hart,MK45 2DH,52.0301,-0.4668
 Surfin Cafe Limited Ampthill,MK45 2EH,52.0323,-0.4921
-Starbucks Village Square,MK45 2GZ,52.0253,-0.5316
 the Hide,MK45 2HP,52.0318,-0.4942
 Huck's American Bar and Grill,MK45 2HZ,52.0220,-0.5255
 Leisure Bowl,MK45 2HZ,52.0220,-0.5255
@@ -221,13 +211,12 @@ Donatellos,MK45 2NG,52.0308,-0.4934
 FRATELLI AMPTHILL LTD t/a Fratelli,MK45 2NG,52.0309,-0.4933
 The White Hart,MK45 2NG,52.0309,-0.4933
 The coffee pot,MK45 2NG,52.0309,-0.4933
+Costa Coffee,MK45 2NH,52.0315,-0.4932
 Big 10 Smoke and Grill,MK45 2PJ,52.0313,-0.4920
 The Knife & Cleaver,MK45 3LA,52.0611,-0.4783
-Whitbread Farms Ltd,MK45 3QA,52.0713,-0.3893
 The Greyhound,MK45 3QD,52.0625,-0.3898
 The Stone Jug,MK45 4BY,52.0305,-0.4240
 English Heritage Shop,MK45 4HR,52.0080,-0.4117
-English Heritage Tea Room,MK45 4HR,52.0080,-0.4117
 CAFE GOA,MK45 4JU,51.9657,-0.4266
 Passage to India ,MK45 4LL,51.9672,-0.4275
 Boutique-e-licious,MK45 4RF,51.9688,-0.4344
@@ -239,36 +228,30 @@ The White Hart,MK45 5EJ,52.0116,-0.4591
 The Cross Keys,MK45 5HB,51.9955,-0.4520
 The Bell Westoning,MK45 5JH,51.9824,-0.4951
 The Chequers,MK45 5LA,51.9801,-0.4980
+McDonald's,NN4 9QS,51.9471,-0.5032
 Noodlestop,SG1 1BP,51.9019,-0.2024
 SUBWAY ,SG1 1BP,51.9019,-0.2018
-Starbucks Coffee Co (UK) Ltd,SG1 1BP,51.9019,-0.2024
 KARAKURT LTD T/A BELLA VISTA,SG1 1BS,51.9008,-0.2013
 Nefs,SG1 1DA,51.9008,-0.2009
 JJ’s Plaice ,SG1 1DH,51.9013,-0.2001
+Costa Coffee,SG1 1DN,51.9025,-0.2015
 Mad Hatter Cafe,SG1 1DN,51.9020,-0.2012
 SUBWAY ,SG1 1EH,51.9037,-0.2025
 Esquires Coffee Stevenage,SG1 1QR,51.9030,-0.2024
-Mecca Bingo,SG1 1XB,51.9003,-0.2034
-Wilson Vale Catering,SG1 2AN,51.8981,-0.2095
-Starbucks,SG1 2GX,51.8891,-0.2027
+Costa Coffee,SG1 1XT,51.9016,-0.2069
+KFC,SG1 2DD,51.8992,-0.2081
+Thyme,SG1 2DD,51.8956,-0.2125
 The Fisherman,SG1 2JA,51.9187,-0.2219
-Elior,SG1 2ST,51.8988,-0.2132
 360 Play (Stevenage) Limited,SG1 2UA,51.8998,-0.2086
-Ask Italian,SG1 2UA,51.8998,-0.2086
 Bar&Beyond Stevenage,SG1 2UA,51.8999,-0.2083
-Hollywood Bowl,SG1 2UA,51.8998,-0.2086
-KFC Stevenage,SG1 2UA,51.8999,-0.2083
-McDonalds,SG1 2UA,51.8998,-0.2086
+McDonald's,SG1 2UA,51.9005,-0.2085
 Mr Mulligan's Lost World Stevenage,SG1 2UA,51.8999,-0.2083
-Nando's,SG1 2UA,51.8998,-0.2086
-Pizza Hut Restaurant,SG1 2UA,51.8998,-0.2086
-Prezzo Plc,SG1 2UA,51.8998,-0.2086
-Starbucks,SG1 2UA,51.8999,-0.2083
-Wagamama Group,SG1 2UA,51.8990,-0.2091
+Nando's,SG1 2UA,51.9009,-0.2084
 SUBWAY ,SG1 3AH,51.9115,-0.2080
 El Bar De Tapas,SG1 3AN,51.9115,-0.2078
 CHICKAROS,SG1 3AQ,51.9111,-0.2079
 The Broken Seal Tap Room,SG1 3AU,51.9121,-0.2080
+The Standing Order Stevenage (Wetherspoon),SG1 3AU,51.9121,-0.2080
 TARLA RESTAURANT,SG1 3AW,51.9110,-0.2076
 Rump & Wade,SG1 3AZ,51.9128,-0.2079
 The Cromwell Hotel,SG1 3AZ,51.9128,-0.2079
@@ -282,8 +265,10 @@ Sala Thong Stevenage,SG1 3DW,51.9101,-0.2078
 Pizza Hut,SG1 3EF,51.9127,-0.2093
  Spice Rouge,SG1 3HR,51.9103,-0.2072
 Bombay restaurant ,SG1 3HR,51.9106,-0.2072
+Costa Coffee,SG1 3HR,51.9103,-0.2072
 MISYA (EAST) LTD,SG1 3HS,51.9094,-0.2068
 The Royal Oak,SG1 3RA,51.9140,-0.2047
+Beefeater Coreys Mill,SG1 4AA,51.9236,-0.2163
 Stevenage Garden Centre,SG1 4AH,51.9285,-0.2105
 The Marquis of Granby,SG1 4BS,51.9211,-0.2084
 White Horse,SG15 6TA,52.0163,-0.2636
@@ -299,7 +284,7 @@ Bangkok Lounge Shefford,SG17 5DJ,52.0414,-0.3356
 the loft,SG17 5DQ,52.0396,-0.3346
 Golden Lion,SG17 5ES,52.0365,-0.3026
 Tawa Restaurant ,SG17 5QQ,52.0647,-0.3795
-Samuel Whitbread Academy,SG17 5QS,52.0378,-0.3177
+Costa Coffee,SG18 8PS,52.0743,-0.2467
 MCDONALD'S,SG18 8QB,52.0748,-0.2411
 SOUTHILL VILLAGE STORE & TEA ROOM,SG18 9JB,52.0644,-0.3205
 The Green Man,SG18 9JD,52.0555,-0.3113
@@ -329,10 +314,10 @@ THE ALBERT INN,SG4 9SU,51.9517,-0.2683
 Bosphorus Restaurant,SG5 1AE,51.9465,-0.2786
 Four Leaf Clover,SG5 1AE,51.9465,-0.2786
 Mevan Ocakbasi,SG5 1AE,51.9465,-0.2786
+The Angel Vaults Inn Hitchin (Wetherspoon),SG5 1AE,51.9465,-0.2786
 Deroka Restaurant ,SG5 1AH,51.9465,-0.2790
 Deroka restaurant,SG5 1AH,51.9465,-0.2790
 Lussmanns Hitchin,SG5 1AH,51.9465,-0.2790
-Zizzi,SG5 1AH,51.9465,-0.2790
 Fussey & Baer,SG5 1AT,51.9484,-0.2782
 Los Reyes ,SG5 1BB,51.9466,-0.2793
 peri peri original ,SG5 1BB,51.9466,-0.2793
@@ -340,14 +325,13 @@ Bar Azita,SG5 1BG,51.9467,-0.2796
 Chilli B's,SG5 1BG,51.9467,-0.2796
 Kite at The Red Hart,SG5 1BG,51.9467,-0.2796
 ACH Leisure Limited,SG5 1BH,51.9481,-0.2790
-Caffe Nero,SG5 1BH,51.9483,-0.2792
 Regent Cottage Restaurant,SG5 1BH,51.9483,-0.2792
 Hermitage Road Bar and Restaurant,SG5 1BT,51.9496,-0.2759
 RDTI LIMITED,SG5 1BT,51.9496,-0.2759
 Raj Douth Tandoori Cuisine,SG5 1BT,51.9496,-0.2759
 Hitchin Cafe,SG5 1DB,51.9491,-0.2753
+Thyme,SG5 1DJ,51.9483,-0.2754
 Chia Naturally Healthy ,SG5 1DR,51.9477,-0.2785
-Starbucks Coffee Co,SG5 1DR,51.9477,-0.2785
 Starbucks,SG5 1DR,51.9477,-0.2785
 Halsey's Deli & Eatery,SG5 1DS,51.9474,-0.2782
 Bar Amigo,SG5 1DT,51.9471,-0.2790
@@ -356,16 +340,14 @@ Casbah Grill Ltd,SG5 1HR,51.9481,-0.2781
 The Groundworks,SG5 1HR,51.9481,-0.2781
 North Hertfordshire Museum Cafe,SG5 1JE,51.9492,-0.2792
 Costa Coffee Hitchin,SG5 1JQ,51.9495,-0.2779
-Costa Coffee,SG5 1JQ,51.9495,-0.2779
-Prezzo,SG5 1JQ,51.9495,-0.2779
-The Haven Cafe,SG5 1JW,51.9504,-0.2770
+Costa Coffee,SG5 1JQ,51.9494,-0.2777
 Chicken George JNR,SG5 1NB,51.9502,-0.2762
 Payitaht Limited,SG5 1NB,51.9502,-0.2762
 Taste Buds,SG5 1NB,51.9503,-0.2764
 MOLLY'S TEA ROOM LTD.,SG5 1NQ,51.9512,-0.2763
 Mint Leaf Hitchin,SG5 1NQ,51.9512,-0.2763
 Paprika Spice Ltd,SG5 1QU,51.9539,-0.2723
-McDonalds Restaurants,SG5 1RQ,51.9543,-0.2680
+McDonald's,SG5 1RQ,51.9544,-0.2671
 bridge street bistro,SG5 2DF,51.9454,-0.2779
 The Highlander,SG5 2EF,51.9472,-0.2854
 Red Lion Lodge and Hotel,SG5 3DZ,51.9264,-0.3349
@@ -381,17 +363,15 @@ The Stag,SG5 4LA,52.0140,-0.2311
 India Lodge,SG5 4LD,52.0137,-0.2272
 Three Horseshoes,SG6 1AG,51.9930,-0.2100
 Teamworks Karting Letchworth,SG6 1JS,51.9814,-0.2166
-Burger King (UK) Ltd,SG6 1UP,51.9827,-0.2024
 The Fox,SG6 2AE,51.9616,-0.2197
 Three Horseshoes,SG6 2AE,51.9616,-0.2197
-Costa Coffee,SG6 2HB,51.9801,-0.2069
 MCDONALD'S,SG6 2HB,51.9799,-0.2077
-McDonalds Restaurant,SG6 2HU,51.9782,-0.2083
+McDonald's,SG6 2HB,51.9791,-0.2075
 Jackmans chippy,SG6 2NH,51.9703,-0.2104
 DRAGON KING,SG6 3AU,51.9800,-0.2279
 USA Fried Chicken,SG6 3BE,51.9808,-0.2254
+Thyme,SG6 3BG,51.9805,-0.2267
 Shapla Restaurant GB Ltd,SG6 3BJ,51.9804,-0.2253
-Prezzo,SG6 3BY,51.9779,-0.2294
 Alloro,SG6 3DA,51.9783,-0.2288
 Khoi Khoi bar and Vino,SG6 3DA,51.9781,-0.2289
 Miss Green Fingers,SG6 3DE,51.9791,-0.2280
@@ -400,11 +380,11 @@ Wallace Books Ltd  T/A David's Cafe,SG6 3DE,51.9787,-0.2281
 IZ Restaurant,SG6 3DG,51.9790,-0.2285
 Letchworth Pizza Pasta Limited,SG6 3DG,51.9790,-0.2285
 Ciao Italia,SG6 3DL,51.9781,-0.2278
-Wildwood,SG6 3DL,51.9779,-0.2280
-Costa Coffee,SG6 3DN,51.9784,-0.2272
+Costa Coffee,SG6 3DN,51.9779,-0.2269
 ESQUIRES COFFEE LETCHWORTH LIMITED,SG6 3ED,51.9788,-0.2265
 Vutie Beets,SG6 3EN,51.9796,-0.2255
 Thegrapevine,SG6 3EU,51.9795,-0.2276
+The Three Magnets Letchworth (Wetherspoon),SG6 3EW,51.9792,-0.2269
 Letchworth Golf Trust,SG6 3NQ,51.9638,-0.2311
 The Broadway Hotel,SG6 3NZ,51.9791,-0.2302
 The Cloisters,SG6 3TH,51.9678,-0.2242
@@ -416,5 +396,3 @@ EL MEXICANA,SG7 5TR,52.0145,-0.2025
 KFC BALDOCK SERVICE,SG7 5TR,52.0145,-0.2025
 KFC,SG7 5TR,52.0145,-0.2025
 MCDONALD'S,SG7 5TR,52.0145,-0.2025
-McDonalds,SG7 5TR,52.0145,-0.2025
-Starbucks,SG7 5TR,52.0145,-0.2025

@@ -1,6 +1,5 @@
 name,postcode,lat,lon
 Feni Rec Cafe,BB2 5EG,53.7240,-2.5376
-Baxterstorey Ltd,BL5 1FJ,53.5882,-2.5389
 India gate,BL5 3NB,53.5673,-2.5440
 Royal Oak Carvery,BL5 3ND,53.5704,-2.5491
 Sagar Indian restaurant ,BL6 5EE,53.5944,-2.5848
@@ -11,11 +10,10 @@ Goose and Gander,BL6 5LW,53.5925,-2.5949
 The Goose and Gander,BL6 5LW,53.5925,-2.5949
 Namma Ooru Dosa,BL6 5NP,53.5945,-2.5457
 CHESTERS HORWICH LTD,BL6 5NY,53.5932,-2.5436
-Burger King (Rivington North),BL6 5UZ,53.6010,-2.5728
-Burger King (Rivington South),BL6 5UZ,53.6010,-2.5728
 Starbucks (Rivington North),BL6 5UZ,53.6010,-2.5728
 Starbucks (Rivington South),BL6 5UZ,53.6010,-2.5728
 Il Toro,BL6 6AA,53.5990,-2.5397
+Nando's,BL6 6JA,53.5840,-2.5377
 THYME DELI,BL6 7AA,53.5992,-2.5468
 Home bakery /cafe latte,BL6 7AD,53.5994,-2.5471
 Max Italia,BL6 7AE,53.6003,-2.5471
@@ -33,6 +31,7 @@ Great House Barn,BL6 7SB,53.6247,-2.5618
 Rivington Hall Barn,BL6 7SB,53.6247,-2.5618
 Village green tearooms limited,BL6 7SD,53.6315,-2.5615
 The Rivington,BL6 7SE,53.6249,-2.5690
+Costa Coffee,L31 0DQ,53.5165,-2.9425
 Costa Coffee,L31 0DQ,53.5166,-2.9419
 MAGHULL SQUARE BAR AND GRILL,L31 0DQ,53.5166,-2.9419
 Bay of Bengal Tanduri Ltd,L31 2HB,53.5133,-2.9450
@@ -41,18 +40,18 @@ Suzys Cafe,L31 2PH,53.5141,-2.9435
 MUGHAL DELIVERY LTD,L31 2PN,53.5130,-2.9441
 Tokala Ltd,L31 3EW,53.5113,-2.9265
 Bernie's Deli Too,L31 3HF,53.5068,-2.9328
+The Frank Hornby Liverpool (Wetherspoon),L31 6BR,53.5153,-2.9367
  Shake shack,L31 6DG,53.5158,-2.9311
 Subway,L31 6DG,53.5158,-2.9311
 Mossock Hall Golf Club,L39 0EE,53.5238,-2.8833
-Starbucks,L39 0EZ,53.5396,-2.8276
 Quattros,L39 0HF,53.5340,-2.8144
 The Cherry House Ltd.,L39 1NN,53.5745,-2.8873
 Flavours cafe & fish bar,L39 2AA,53.5672,-2.8847
 Costa Coffee,L39 2AN,53.5730,-2.8793
+Costa Coffee,L39 2AN,53.5733,-2.8804
 M R (OMSKIRK)LTD  TRADING AS PASSAGE TO INDIA,L39 2AQ,53.5669,-2.8845
 Shamraat 2,L39 2AQ,53.5669,-2.8844
 Starbucks Ormskirk,L39 2AQ,53.5669,-2.8844
-Starbucks,L39 2AQ,53.5669,-2.8844
 Ormskirk hospital restaurant,L39 2AZ,53.5646,-2.8713
 The Fat Italian Ormskirk,L39 2BW,53.5683,-2.8785
 AGA Catering Ltd,L39 2DN,53.5677,-2.8837
@@ -63,26 +62,27 @@ Becks Sandwich Bar,L39 2ES,53.5685,-2.8850
 Il Padrino,L39 2ES,53.5685,-2.8850
 Left Bank Brasserie,L39 2ES,53.5685,-2.8850
 Barnyard Churrasco and grill,L39 2XA,53.5681,-2.8852
+The Court Leet Ormskirk (Wetherspoon),L39 2XA,53.5680,-2.8850
 Cobble Coffee,L39 3AE,53.5676,-2.8867
+McDonald's,L39 3AE,53.5677,-2.8873
 McDonalds,L39 3AE,53.5676,-2.8866
 Dinky Dory,L39 3AG,53.5681,-2.8871
 Subway,L39 3AG,53.5681,-2.8871
 Market Cross,L39 3AN,53.5680,-2.8865
 Turquaz turkish bbq restaurant ,L39 3AW,53.5686,-2.8872
 Costa Coffee,L39 3BH,53.5661,-2.8869
+Costa Coffee,L39 3BH,53.5671,-2.8859
 The Old Post Office,L39 3BH,53.5663,-2.8856
 Brooke’s Bistro ,L39 3BS,53.5652,-2.8897
 O'BRIENS TEA ROOMS ,L39 3BY,53.5678,-2.8901
 the royal oak,L39 3LW,53.5555,-2.9089
 Bramleys Coffee House  ,L39 3QS,53.5681,-2.8861
-McDonalds,L39 3RN,53.5677,-2.8873
 The Cricketers,L39 4QF,53.5648,-2.8837
 Jill Martin Ltd trading as The Edge,L39 4QJ,53.5663,-2.8829
 Mandrakes A Magical Experience,L39 4QR,53.5666,-2.8835
 The Dog and Gun Inn,L39 5BU,53.5522,-2.8911
 The Barn at Moor Hall,L39 6RT,53.5416,-2.8896
 The Stanley Arms,L39 6SA,53.5430,-2.9206
-Miller & Carter Aughton,L39 6ST,53.5357,-2.9254
 Saracens Head,L39 8RH,53.5806,-2.9435
 the village bakehouse,L39 8RN,53.5883,-2.9496
 The Farm Burscough Ltd,L40 0RT,53.6086,-2.8873
@@ -104,7 +104,6 @@ Hugo's,L40 5RZ,53.6027,-2.8424
 The Blue Mallard,L40 5RZ,53.6027,-2.8424
 Briars Hall Hotel,L40 5TH,53.5925,-2.8236
 The Old Packet House,L40 5TN,53.6017,-2.8440
-Baxterstorey,L40 5UF,53.5728,-2.8179
 the plough inn ,L40 6JG,53.5652,-2.8230
 Warbreck Garden Centre,L40 6JW,53.5555,-2.8341
 Booths,L40 8AD,53.5878,-2.8632
@@ -119,6 +118,7 @@ The Kicking Donkey,L40 8HY,53.5836,-2.8912
 The Farmers Arms ,L40 8JA,53.6049,-2.8646
 Brew and Buddies Play & Learn Centre Ltd,L40 8JY,53.5988,-2.8634
 Master McGraths,L40 9RF,53.6125,-2.9389
+Beefeater Morris Dancers,L40 9RG,53.6101,-2.9344
 The Tearoom at Scarisbrick Marina,L40 9RH,53.6006,-2.9266
 Maeve and Willow,PR25 1XB,53.6986,-2.7130
 THE CAFE LTD,PR25 2AA,53.6954,-2.6947
@@ -126,10 +126,11 @@ New Wonderland Ltd,PR25 2EX,53.6905,-2.6998
 The Hideout ,PR25 2LD,53.6944,-2.6952
 Emmas Coffee House at the Museum Ltd,PR25 2LE,53.6946,-2.6928
 Antonellos,PR25 2SA,53.6958,-2.6926
+The Leyland Lion Leyland (Wetherspoon),PR25 2SA,53.6955,-2.6927
 The Gables,PR25 2SD,53.6945,-2.6958
 Withy Arms,PR25 3EL,53.6881,-2.6983
 McDonald's Restaurants Ltd,PR25 3LZ,53.6977,-2.6907
-McDonalds,PR25 3LZ,53.6977,-2.6907
+McDonald's,PR25 3LZ,53.6971,-2.6906
 Sweet Delight,PR25 3NH,53.6972,-2.6897
 The Cookie Jar,PR25 3NP,53.6980,-2.6902
 the viceroy,PR25 3NP,53.6980,-2.6906
@@ -164,8 +165,8 @@ The Barn,PR4 6UP,53.6792,-2.8312
 The Cock and Bottle,PR4 6UP,53.6792,-2.8312
 The Royal Oak at Riley Green,PR5 0SL,53.7245,-2.5747
 The Mill Cafe,PR5 5XU,53.7237,-2.6777
-Burger King,PR5 6BA,53.7216,-2.6710
 Cuerden View Cafe,PR5 6BY,53.7086,-2.6628
+Breakfast Room,PR5 6BZ,53.7190,-2.6734
 SUBWAY,PR5 6EJ,53.7222,-2.6622
 YE OLDE HOB INN,PR5 6EP,53.7210,-2.6613
 WA Bar and Bistro,PR5 6EQ,53.7223,-2.6620
@@ -182,6 +183,7 @@ Whittle Vintage Tearoom,PR6 7LD,53.6887,-2.6364
 SHAW HILL GOLF & COUNTRY CLUB,PR6 7PP,53.6831,-2.6404
 Lord Nelson,PR6 7RD,53.7041,-2.6365
 THE BEAUMONT,PR6 7TY,53.7067,-2.6450
+Breakfast Room,PR6 8AB,53.6778,-2.6223
 The Little Tiger ,PR6 8DA,53.7005,-2.5469
 Hare & Hounds,PR6 8DP,53.6982,-2.5440
 The Red Lion,PR6 8EU,53.6853,-2.6068
@@ -204,13 +206,14 @@ CARDWELL LEISURE LTD t/a THE CARDWELL,PR6 9LH,53.6205,-2.6019
 Elephant and Castle,PR6 9NH,53.6174,-2.5969
 Caffe Latte,PR7 1AB,53.6547,-2.6299
 McDonald's Restaurants Ltd,PR7 1AQ,53.6529,-2.6282
-McDonalds Restaurants Ltd,PR7 1AQ,53.6529,-2.6282
+McDonald's,PR7 1AQ,53.6552,-2.6280
 Woodchats Coffee Shop,PR7 1AQ,53.6529,-2.6282
 SUBWAY,PR7 1BG,53.6531,-2.6321
 Tapas Esteban,PR7 1BH,53.6530,-2.6316
 GOODIES COFFEE SHOP,PR7 1BJ,53.6535,-2.6319
 Chorley Town Cafe Limited,PR7 1BW,53.6525,-2.6321
 Chorley Town Café ,PR7 1BW,53.6525,-2.6321
+The Sir Henry Tate Chorley (Wetherspoon),PR7 1DB,53.6539,-2.6307
 Costa Coffee,PR7 1DE,53.6533,-2.6296
 La Rocca Ristorante Limited,PR7 1EX,53.6595,-2.6290
 Lean & Green,PR7 1EX,53.6595,-2.6290
@@ -221,7 +224,7 @@ The Astley,PR7 1XA,53.6611,-2.6462
 The Cosmopolitan Restaurant  Wine & Cocktail Bar,PR7 2AA,53.6520,-2.6308
 Diets2go Limited,PR7 2BE,53.6500,-2.6306
 KFC -CHORLEY,PR7 2BE,53.6500,-2.6306
-KFC,PR7 2BN,53.6499,-2.6286
+KFC,PR7 2BN,53.6500,-2.6277
 SUBWAY,PR7 2BN,53.6496,-2.6271
 ITALIAN COTTAGE ,PR7 2EX,53.6503,-2.6322
 Big Lamp Chippy & Cafe,PR7 2LA,53.6500,-2.6319
@@ -241,8 +244,7 @@ Corner house cafe,PR7 4HF,53.6099,-2.6052
 Oh My Cod,PR7 5BY,53.6218,-2.6615
 The Dog and Partridge ,PR7 5ES,53.6348,-2.6647
 THE HINDS HEAD,PR7 5HL,53.6246,-2.6792
-Burger King,PR7 5LR,53.6300,-2.6926
-KFC,PR7 5LR,53.6300,-2.6926
+KFC,PR7 5LR,53.6316,-2.6913
 Starbucks (Charnock Richard Northbound),PR7 5LR,53.6300,-2.6926
 Starbucks (Charnock Richard Southbound),PR7 5LR,53.6300,-2.6926
 The Farmers Arms,PR7 5NP,53.6304,-2.7097
@@ -257,7 +259,7 @@ TWENTY SEVEN CHORLEY,PR7 6TE,53.6727,-2.6665
 Cappuccino,PR7 7HZ,53.6787,-2.6582
 Tiggis Xpress,PR7 7JA,53.6758,-2.6588
 Costa Coffee - Buckshaw Village,PR7 7LJ,53.6760,-2.6546
-Costa Coffee,PR7 7LJ,53.6760,-2.6546
+Costa Coffee,PR7 7LJ,53.6760,-2.6547
 Starbucks,PR7 7ND,53.6865,-2.6681
 KFC - BUCKSHAW,PR7 7NH,53.6768,-2.6575
 KFC,PR7 7NH,53.6768,-2.6575
@@ -271,7 +273,9 @@ Lou's Diner,WN1 1AR,53.5482,-2.6321
 The Little Kitchen,WN1 1AR,53.5482,-2.6321
 Pat & Dad Kitchen and Bar,WN1 1BA,53.5443,-2.6337
 SWAN & RAILWAY HOTEL,WN1 1BA,53.5444,-2.6338
+Costa Coffee,WN1 1BH,53.5469,-2.6294
 Donut king,WN1 1BH,53.5464,-2.6288
+Thyme,WN1 1BL,53.5437,-2.6275
 Red Door Bistro,WN1 1DF,53.5445,-2.6305
 Francos Italian Restaurant,WN1 1DG,53.5440,-2.6299
 La Sentidos loca restaurant ,WN1 1HX,53.5477,-2.6336
@@ -283,7 +287,7 @@ The Raven,WN1 1LD,53.5454,-2.6320
 Mr Chips& Cafe Select,WN1 1LR,53.5466,-2.6333
 THE MUAY THAI KITCHEN LIMITED,WN1 1LR,53.5466,-2.6334
 Starbucks Market Place - Wigan,WN1 1PE,53.5463,-2.6314
-Starbucks,WN1 1PE,53.5463,-2.6314
+The Moon Under Water Wigan (Wetherspoon),WN1 1PE,53.5459,-2.6317
 Gallimore’s Fine Restsurant ,WN1 1PF,53.5459,-2.6314
 Uptown diner,WN1 1PL,53.5471,-2.6318
 Country larder,WN1 1QF,53.5484,-2.6322
@@ -293,9 +297,8 @@ Cafe Santos Ltd,WN1 1QP,53.5485,-2.6311
 Cassinellis Cafe,WN1 1QP,53.5485,-2.6311
 The Tudor House Hotel Ltd,WN1 1SE,53.5483,-2.6343
 Bap,WN1 1UE,53.5475,-2.6311
-Caffe Nero,WN1 1UE,53.5474,-2.6306
+McDonald's,WN1 1UP,53.5482,-2.6300
 McDonalds ,WN1 1UP,53.5485,-2.6298
-McDonalds,WN1 1UP,53.5485,-2.6298
 The Chinese Buffet,WN1 1UP,53.5485,-2.6298
 Subway,WN1 1UW,53.5484,-2.6304
 The Whitesmiths Arms,WN1 1XA,53.5495,-2.6294
@@ -304,6 +307,7 @@ Caffe Rosso,WN1 1XR,53.5523,-2.6274
 Ella Turkish Restaurant ,WN1 1XR,53.5523,-2.6278
 Casino De Cuba,WN1 1YB,53.5464,-2.6307
 THE FAT OLIVE RESTAURANT ,WN1 2AD,53.5506,-2.6310
+The Brocket Arms Wigan (Wetherspoon),WN1 2DD,53.5569,-2.6344
 Basmati restaurant wigan,WN1 2LF,53.5535,-2.6280
 The Cherry Gardens Hotel,WN1 2NT,53.5631,-2.6304
 FORBES ,WN1 2NU,53.5628,-2.6311
@@ -312,7 +316,7 @@ The Crown Hotel,WN1 2XF,53.5971,-2.6414
 The White Crow,WN1 2XL,53.6072,-2.6322
 Jks kitchen,WN1 3EU,53.5433,-2.6227
 India Lounge ,WN1 3LU,53.5463,-2.6209
-McDonalds,WN1 3RB,53.5477,-2.6241
+McDonald's,WN1 3RB,53.5485,-2.6239
 Mercure Wigan Oak Hotel,WN1 3SS,53.5484,-2.6264
 The Mount cafe,WN2 1DA,53.5572,-2.6091
 Alexanders Coffee Shop ,WN2 1PE,53.5733,-2.6097
@@ -320,16 +324,16 @@ Two Left Feet Tap,WN2 1PE,53.5733,-2.6097
 SHIVA FOOD AND CATERERS LIMITED,WN2 1PP,53.5669,-2.5872
 GERRARD ARMS,WN2 1PZ,53.5627,-2.5647
 KFC - WIGAN,WN2 2AT,53.5433,-2.6060
-KFC,WN2 2AT,53.5433,-2.6060
+KFC,WN2 2AT,53.5436,-2.6059
 Charlie's coffee factory,WN2 3AN,53.5362,-2.5775
 Summat To Ate,WN2 3AN,53.5362,-2.5775
 Alisons restaurant ,WN2 3AS,53.5359,-2.5779
 mahabharat restaurant,WN2 3AY,53.5345,-2.5802
 Gore's Sweet Shop Cafe,WN2 3EE,53.5322,-2.5775
 PNBD RESTAURANT LTD,WN2 3PR,53.5307,-2.5710
+McDonald's,WN2 5BD,53.5207,-2.5973
 McDonalds,WN2 5BD,53.5218,-2.5962
 The Bucks Head,WN2 5RQ,53.5103,-2.5941
-Hollywood Bowl,WN3 4AG,53.5430,-2.6390
 Fresh Choice Cafes Ltd,WN3 4AR,53.5426,-2.6429
 Power Kitchen Nutrition Limited,WN3 4DP,53.5448,-2.6376
 Plata Tapas Limited,WN3 4DY,53.5431,-2.6335
@@ -337,27 +341,24 @@ Hideout,WN3 4HX,53.5418,-2.6320
 Shimlar,WN3 4UG,53.5264,-2.6108
 Postcode Coffee House,WN3 5AB,53.5411,-2.6420
 Foodie Cafe & Resto,WN3 5BD,53.5396,-2.6403
+McDonald's,WN3 6XA,53.5202,-2.6529
 McDonalds ,WN3 6XA,53.5202,-2.6530
-McDonalds,WN3 6XA,53.5202,-2.6530
+Brewers Fayre Wheatlea Park,WN3 6XB,53.5161,-2.6537
 Velocity Leisure Ltd Wigan,WN3 6XU,53.5176,-2.6543
 BURAQ,WN4 0AR,53.5009,-2.6474
 Workin Lunch Ltd (Rustic Kitchen),WN4 0AR,53.5009,-2.6474
 Park Hotel,WN4 0BY,53.5096,-2.6506
 The coffee shop ,WN5 0DU,53.5368,-2.6847
 Computionics Ltd,WN5 0LD,53.5530,-2.6743
-Elior - Wincanton - Heinz Wigan,WN5 0LR,53.5538,-2.6754
 Heinz,WN5 0LR,53.5538,-2.6754
 ISTANBUL BBQ LTD,WN5 0PS,53.5519,-2.6661
-Starbucks,WN5 0PS,53.5521,-2.6658
-Burger King,WN5 0UH,53.5452,-2.6541
-Costa Coffee,WN5 0UH,53.5452,-2.6541
+Costa Coffee,WN5 0UH,53.5452,-2.6540
 KFC - ROBIN PARK,WN5 0UH,53.5451,-2.6528
-KFC,WN5 0UH,53.5450,-2.6529
+KFC,WN5 0UH,53.5432,-2.6536
 Subway,WN5 0UH,53.5450,-2.6529
-Buzz Bingo,WN5 0UJ,53.5463,-2.6571
 Nutri Licious Restaurant,WN5 0UJ,53.5463,-2.6571
 Pizza Hut,WN5 0UJ,53.5460,-2.6578
-Powerleague,WN5 0UN,53.5495,-2.6584
+KFC,WN5 3EY,53.5366,-2.6851
 concept bars and restaurants limited,WN5 7DJ,53.5234,-2.7157
 Holts arms,WN5 7DT,53.5186,-2.7149
 THE VILLAGE KITCHEN,WN5 7HR,53.5025,-2.7043
@@ -370,6 +371,7 @@ Pipsqueaks Play Cafe Limited,WN5 8QZ,53.5403,-2.7135
 Raj gate limited ,WN5 8QZ,53.5403,-2.7135
 The old bank coffee and wine bar,WN5 8TG,53.5328,-2.7113
 Gelato House,WN5 8TQ,53.5307,-2.7091
+McDonald's,WN5 9AD,53.5402,-2.6497
 Boars head,WN6 0AD,53.5734,-2.6446
 Ajmeer Manzil Indian Restaurant ,WN6 0HA,53.5858,-2.6635
 LAMAMA BAR AND RESTAURANT,WN6 0HA,53.5859,-2.6635
@@ -389,7 +391,7 @@ The Boathouse Pub & Kitchen,WN6 9DA,53.5779,-2.7202
 Pesto at the Dicconson Arms,WN6 9DY,53.5905,-2.7246
 Wrightington Hotel & Health Club,WN6 9PB,53.5952,-2.7061
 The Rigbye Arms,WN6 9QB,53.6017,-2.7470
-Costa Coffee,WN6 9RA,53.5884,-2.6932
+Costa Coffee,WN6 9RB,53.5910,-2.6967
 YM Roof Ltd,WN6 9RB,53.5916,-2.6951
 THE PADDOCK COFFEE HOUSE & RESTAURANT,WN6 9RE,53.6014,-2.6980
 The White Lion,WN6 9RE,53.5986,-2.6975
@@ -397,19 +399,16 @@ Rivaj of India ,WN6 9RN,53.6084,-2.7017
 Cornerhouse,WN6 9SE,53.6163,-2.7042
 The Fox,WN8 0QF,53.5603,-2.7291
 Leisuretime,WN8 6LB,53.5499,-2.7743
-Cafe (Compass Group),WN8 6LH,53.5522,-2.7785
+KFC,WN8 6LN,53.5506,-2.7716
+McDonald's,WN8 6LQ,53.5500,-2.7717
 McDonalds,WN8 6LQ,53.5499,-2.7743
-Kfc Drive Through Restaurant,WN8 6NS,53.5499,-2.7706
 WAYFARER RESTAURANT LTD,WN8 7NL,53.5872,-2.7699
 The Stocks Tavern,WN8 7NN,53.5878,-2.7675
 Coffee Etc Cafe,WN8 7NU,53.5899,-2.7700
 The Windmill Pub,WN8 7NW,53.5880,-2.7697
 YOURS IS THE EARTH LTD,WN8 7NW,53.5880,-2.7697
-Miller & Carter Parbold,WN8 7TG,53.5908,-2.7445
 eden tearoom and galleries,WN8 7UB,53.5871,-2.7907
 JMO SPORTS LTD,WN8 8BX,53.5453,-2.8111
-Compass Group UK,WN8 8DY,53.5591,-2.8106
 Mellors Catering Services Ltd,WN8 9PG,53.5310,-2.7652
 Balcony Restaurant,WN8 9QD,53.5315,-2.7452
 LANCASHIRE MANOR HOTEL,WN8 9QD,53.5315,-2.7452
-Elior Uk,WN8 9RA,53.5278,-2.7524

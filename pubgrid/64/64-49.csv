@@ -1,6 +1,6 @@
 name,postcode,lat,lon
+KFC,BB1 1TQ,53.7865,-2.2495
 Mezbaan,BB10 1AS,53.7973,-2.2398
-KFC,BB10 1DY,53.8036,-2.2350
 Clau and Cris,BB10 1DZ,53.8046,-2.2345
 Pepe's Piri Piri,BB10 1DZ,53.8048,-2.2344
 Samosa chaat ,BB10 1QX,53.7996,-2.2397
@@ -10,6 +10,7 @@ Oaks Hotel,BB10 2LF,53.8164,-2.2355
 THE COFFEE HOUSE,BB10 2QP,53.8162,-2.2232
 Cuppa Cake Limited ,BB10 2TP,53.7996,-2.2190
 Spar,BB10 3DY,53.8050,-2.2281
+Brewers Fayre Queen Victoria,BB10 3EF,53.7963,-2.2334
 The Thornton,BB10 3JS,53.7877,-2.2076
 Hare and Hounds,BB10 3QH,53.8134,-2.1956
 Horses and Ponies Protection Association,BB10 3QU,53.8105,-2.1757
@@ -25,6 +26,7 @@ Astoria (Burnley) Ltd,BB11 1DR,53.7891,-2.2443
 Mr Greens Diner Ltd,BB11 1DW,53.7888,-2.2439
 Brambles tearooms,BB11 1EP,53.7885,-2.2438
 Illuminati,BB11 1NA,53.7888,-2.2457
+The Boot Inn Burnley (Wetherspoon),BB11 1NG,53.7889,-2.2408
 The Hideaway Bar & Kitchen,BB11 1NG,53.7890,-2.2405
 Lancashire coffee ltd,BB11 1NH,53.7891,-2.2434
 Quick Crepes Burnley,BB11 1NH,53.7890,-2.2435
@@ -32,21 +34,21 @@ RHODE ISLAND COFFEE LTD,BB11 1NH,53.7890,-2.2435
 St James coffee House,BB11 1NL,53.7896,-2.2462
 Starvin Marvin,BB11 1PP,53.7899,-2.2461
 Costa Coffee,BB11 1QE,53.7893,-2.2431
+Costa Coffee,BB11 1QE,53.7894,-2.2430
 McDonald's,BB11 1QL,53.7893,-2.2410
 Salva Fast Food ,BB11 1QL,53.7893,-2.2408
 Whats 4 Dessert,BB11 1RA,53.7894,-2.2540
 Bannys Drive Thru,BB11 1TQ,53.7865,-2.2495
 KFC BURNLEY 02032,BB11 1TQ,53.7865,-2.2494
-KFC,BB11 1TQ,53.7865,-2.2494
 Subway,BB11 1TQ,53.7877,-2.2505
 The Bridge Bier Huis Ltd,BB11 1UH,53.7902,-2.2416
 The Palazzo,BB11 2AS,53.7879,-2.2424
 Ivy Joans Diner,BB11 2DB,53.7891,-2.2400
 Aroma Asian Restaurant ,BB11 2DL,53.7919,-2.2393
 Shimla spice,BB11 2DW,53.7917,-2.2384
-Burger King,BB11 2EG,53.7842,-2.2473
+Burger King,BB11 2EG,53.7845,-2.2475
 star cafe ltd,BB11 2EQ,53.7881,-2.2399
-Costa Coffee,BB11 2HE,53.7853,-2.2417
+Costa Coffee,BB11 2HE,53.7860,-2.2409
 Rosehill House Hotel Limited,BB11 2PW,53.7801,-2.2531
 The Boathouse ,BB11 2RU,53.7931,-2.2366
 Lahori Kebabish,BB11 3AB,53.7878,-2.2358
@@ -56,7 +58,6 @@ Cramptons Catering,BB11 3RW,53.7717,-2.2517
 Chocstop dessert cafe ,BB11 4HU,53.7853,-2.2488
 zil mil,BB11 4HU,53.7853,-2.2488
 BALLERO,BB11 4SB,53.7894,-2.2611
-Barracks Starbucks,BB11 4SB,53.7890,-2.2606
 Usha Limited,BB11 5BZ,53.7779,-2.2686
 Subway,BB11 5DB,53.7810,-2.2774
 New Waggonners ltd,BB11 5NS,53.7620,-2.2613
@@ -105,14 +106,18 @@ Yankeez ,BB5 1EH,53.7520,-2.3611
 Frankies Cafe,BB5 1ER,53.7535,-2.3644
 BRUNCH COFFEE SHOP LTD,BB5 1EW,53.7542,-2.3637
 Lancashire Tea Rooms & More,BB5 1EX,53.7545,-2.3654
+Costa Coffee,BB5 1EY,53.7542,-2.3645
 Mitali Accrington Ltd,BB5 1HN,53.7521,-2.3631
 Carers Link Lancashire,BB5 1LE,53.7534,-2.3664
 Subway,BB5 1PL,53.7540,-2.3665
 mickimorgans,BB5 1PR,53.7546,-2.3678
 McDonald's,BB5 1PY,53.7546,-2.3766
+McDonald's,BB5 1PY,53.7551,-2.3689
 GRANTS BAR,BB5 2BQ,53.7500,-2.3597
+The Commercial Hotel Accrington (Wetherspoon),BB5 2EN,53.7527,-2.3640
 Red Buddha bar and restaurant ,BB5 2ER,53.7514,-2.3652
 The Gallery Kitchen,BB5 2JS,53.7412,-2.3566
+McDonald's,BB5 2SB,53.7250,-2.3279
 McDonald's,BB5 2SB,53.7259,-2.3326
 Spice Room,BB5 2SB,53.7259,-2.3326
 Royal Phoenix Restaurant,BB5 3DA,53.7475,-2.3926
@@ -120,7 +125,7 @@ The Pavillion coffee shop,BB5 3DE,53.7474,-2.3898
 The Plough,BB5 3RY,53.7369,-2.3838
 MR GATTY'S TEA ROOM,BB5 4AA,53.7568,-2.3820
 Monte Cristo Italian Restaurant,BB5 4EP,53.7549,-2.3876
-KFC,BB5 4EQ,53.7560,-2.3827
+KFC,BB5 4EQ,53.7559,-2.3821
 Balti Stan Indian Cuisine ,BB5 5HD,53.7718,-2.3822
 The Hare and Hounds,BB5 5HE,53.7725,-2.3821
 The Hyndburn Restaurant & Bar,BB5 5SQ,53.7858,-2.3843
@@ -140,7 +145,6 @@ Spinning Block Hotel,BB7 1EB,53.8678,-2.3949
 Swan with Two Necks,BB7 1PT,53.8519,-2.3720
 Calfs Head Limited,BB7 1QA,53.8798,-2.3528
 Leaping Lizards Playcentre Ltd,BB7 1QD,53.8762,-2.3777
-Caffè Nero,BB7 2BT,53.8720,-2.3921
 Costa Coffee,BB7 2BT,53.8720,-2.3921
 ROSE AND CROWN HOTEL,BB7 2BT,53.8720,-2.3921
 Swan and Royal Hotel,BB7 2BX,53.8719,-2.3916
@@ -163,14 +167,15 @@ Freemasons ,BB7 9DF,53.8321,-2.3887
 Sanwitches cafe,BB7 9ED,53.8299,-2.3403
 Loom Loft Ltd,BB7 9FL,53.8398,-2.3968
 wellsprings(pendlehill)ltd,BB7 9HN,53.8465,-2.3468
-KFC,BB7 9WF,53.8404,-2.3955
+KFC,BB7 9WA,53.8398,-2.3957
+McDonald's,BB7 9WF,53.8399,-2.3944
 McDonald's,BB7 9WF,53.8404,-2.3955
-McDonalds Restaurants Ltd,BB7 9WF,53.8404,-2.3955
 Starbucks,BB7 9WF,53.8404,-2.3955
 Carlos Ristorante Ltd,BB8 0AD,53.8562,-2.1742
 Chosen By Jessica,BB8 0AD,53.8562,-2.1742
 Rileys bar,BB8 0AG,53.8555,-2.1782
 Tubbs of Colne,BB8 0AG,53.8555,-2.1781
+The Wallace Hartley Colne (Wetherspoon),BB8 0EB,53.8567,-2.1704
 J wild (Confectioners) Ltd,BB8 0HS,53.8570,-2.1660
 Pendle Kitchen,BB8 0HS,53.8570,-2.1660
 About Coffee LTD,BB8 0LG,53.8572,-2.1696
@@ -182,8 +187,8 @@ Four Elephants,BB8 7PY,53.8782,-2.1674
 The Spinning Mill ,BB8 8LF,53.8463,-2.1963
 Trawden Arms,BB8 8RU,53.8453,-2.1351
 The Old Rock Cafe,BB8 8RW,53.8471,-2.1355
-McDonalds,BB8 9AG,53.8590,-2.1741
 KFC - COLNE,BB8 9DR,53.8605,-2.1678
+KFC,BB8 9DR,53.8594,-2.1717
 Vanillaz ,BB8 9HT,53.8577,-2.1655
 BB's Coffee Shop c/o Boundary Outlet,BB8 9NW,53.8578,-2.1775
 Bannisters Restaurant c/o Boundary Outlet,BB8 9NW,53.8575,-2.1787
@@ -207,7 +212,6 @@ The Village Pizzeria & Restaurant Ltd,BB9 7SG,53.8308,-2.2294
 Subway,BB9 7YL,53.8423,-2.2172
 M I FOODS LTD,BB9 8EP,53.8429,-2.2033
 S R Desserts Ltd,BB9 8EP,53.8429,-2.2033
-KFC,BB9 9DR,53.8345,-2.2112
 Samsons cafe/sandwich shop ,BB9 9HL,53.8393,-2.2042
 Costa Coffee,BB9 9SL,53.8361,-2.2137
 Rehmans Grill House,BB9 9SS,53.8368,-2.2125
@@ -219,8 +223,8 @@ The Hideaway Cafe,BD20 8TB,53.9016,-1.9909
 The Slaters Arms,BD20 9DE,53.9296,-1.9955
 Rendezvous Hotel  Skipton ,BD23 2TA,53.9429,-2.0120
 The Krafty Kitchen,BD23 2TA,53.9429,-2.0120
-McDonalds,BD23 2TZ,53.9413,-2.0148
 McDonald's Restaurant,BD23 2UB,53.9413,-2.0138
+McDonald's,BD23 2UB,53.9411,-2.0129
 Tempest Arms,BD23 3AY,53.9444,-2.1134
 The Swan Inn,BD23 3DR,53.9435,-2.0429
 Kitties Restaurant,HX7 6AA,53.7414,-2.0170

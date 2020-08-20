@@ -2,8 +2,7 @@ name,postcode,lat,lon
 Al Forno,LA10 5BL,54.3236,-2.5278
 Smatt's Duo Cafe,LA10 5BL,54.3236,-2.5278
 The Black Bull Inn,LA10 5BL,54.3236,-2.5278
-Burger King,LA6 1JF,54.1791,-2.7338
-Costa Coffee,LA6 1JF,54.1791,-2.7338
+Costa Coffee,LA6 1JF,54.1791,-2.7337
 smithy inn,LA6 1PS,54.2033,-2.7333
 Royal Hotel (Kirkby Lonsdale),LA6 2AE,54.2013,-2.5970
 The Red Dragon,LA6 2AH,54.2026,-2.5968
@@ -28,8 +27,8 @@ ship inn,LA7 7HW,54.2217,-2.7986
 Crooklands Hotel Ltd,LA7 7NW,54.2468,-2.7157
 No3 Curry House,LA7 7QL,54.2264,-2.7727
 The Bulls Head,LA7 7QL,54.2261,-2.7726
-Costa Coffee,LA8 0NW,54.3105,-2.6281
-McDonalds,LA8 0NW,54.3105,-2.6281
+Costa Coffee,LA8 0NW,54.3136,-2.6359
+McDonald's,LA8 0NW,54.3140,-2.6351
 Low Sizergh Barn Ltd,LA8 8AE,54.2841,-2.7716
 Wheatsheaf Inn,LA8 8AN,54.2995,-2.7991
 The Strickland Arms,LA8 8DZ,54.2786,-2.7697
@@ -49,7 +48,6 @@ SUBWAY,LA9 4BH,54.3282,-2.7440
 Mumbai restaurant ,LA9 4BN,54.3284,-2.7447
 19 The Wine bar,LA9 4DH,54.3268,-2.7464
 Booths,LA9 4DP,54.3282,-2.7481
-Pizza Express,LA9 4DP,54.3282,-2.7481
 Waterside cafe,LA9 4DZ,54.3268,-2.7452
 BREW BROTHERS,LA9 4ED,54.3262,-2.7472
 Jintana Thai Restaurant (Kendal),LA9 4EN,54.3246,-2.7472
@@ -57,22 +55,23 @@ Comida food,LA9 4HE,54.3254,-2.7481
 Fish express ,LA9 4HE,54.3254,-2.7481
 Shakespeare Inn,LA9 4HE,54.3254,-2.7481
 Farmhouse kitchen Ltd,LA9 4JH,54.3269,-2.7487
-McDonalds,LA9 4LR,54.3290,-2.7466
+The Miles Thompson Kendal (Wetherspoon),LA9 4JH,54.3268,-2.7485
 Nina’s coffee shop,LA9 4LR,54.3290,-2.7466
 McDonald's Restaurants,LA9 4LT,54.3294,-2.7470
+McDonald's,LA9 4LT,54.3294,-2.7469
 The Bristly Hog,LA9 4LT,54.3294,-2.7470
 2 sisters at Kendal,LA9 4LU,54.3294,-2.7466
 Farrers,LA9 4LY,54.3281,-2.7471
-Costa Coffee,LA9 4LZ,54.3291,-2.7486
 Thai Kitchen in Kendal,LA9 4ND,54.3280,-2.7476
 Kendal Golf Club,LA9 4PQ,54.3268,-2.7542
 Stanley's Coffeehouse & Kitchen,LA9 4QB,54.3288,-2.7490
+Table Table Wakefield Arms,LA9 4QD,54.3308,-2.7478
 Corner 124,LA9 4QG,54.3309,-2.7479
 PEDRO'S CASA,LA9 4QG,54.3309,-2.7479
+Costa Coffee,LA9 4QQ,54.3290,-2.7473
 Charlies Cafe Bar,LA9 4RA,54.3299,-2.7468
 The new union Kendal ,LA9 4RF,54.3309,-2.7475
 Ye Olde Fleece Inn,LA9 4SX,54.3273,-2.7478
-Caffe Nero,LA9 4TN,54.3286,-2.7461
 Globe Inn ,LA9 4TN,54.3286,-2.7461
 Relish No 37 Ltd,LA9 4TP,54.3283,-2.7457
 The Union Jack Cafe,LA9 5AF,54.3227,-2.7461

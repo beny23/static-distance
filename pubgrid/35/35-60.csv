@@ -1,6 +1,5 @@
 name,postcode,lat,lon
 Boxmoor Steakhouse,HP1 1JR,51.7448,-0.4762
-Everyone Active  Sports & Leisure Management,HP1 1JS,51.7465,-0.4765
 fishery wharf cafe,HP1 1NA,51.7449,-0.4909
 The Steam Coach,HP1 1NP,51.7458,-0.4812
 Boxmoor Social Club,HP1 1PY,51.7460,-0.4885
@@ -9,7 +8,8 @@ SA Catering LTD,HP1 1QQ,51.7463,-0.4877
 Sitar Restaurant,HP1 1QQ,51.7463,-0.4877
 The Three Horseshoes,HP1 2RZ,51.7469,-0.5141
 McDonald's 517,HP1 2SB,51.7416,-0.5298
-McDonalds,HP1 2SB,51.7416,-0.5298
+McDonald's,HP1 2SB,51.7411,-0.5299
+Thyme,HP1 2SB,51.7416,-0.5298
 Hillier Garden Centre Hemel Hempstead,HP1 3BA,51.7743,-0.4839
 Gadebridge cafe ,HP1 3LG,51.7651,-0.4898
 Ginger Dog Company T/A  The Red Lion,HP10 0EU,51.5881,-0.6840
@@ -24,37 +24,31 @@ The Red Lion,HP10 8LF,51.6356,-0.6904
 The Stag Pub & Dining,HP10 9ES,51.6058,-0.7204
 The Green Dragon ,HP10 9LD,51.5945,-0.7014
 COSTA COFFEE FLACKWELL HEATH,HP10 9LS,51.6007,-0.7087
-Costa Coffee,HP10 9LS,51.6007,-0.7087
+Costa Coffee,HP10 9LS,51.6001,-0.7085
 La Bodega Del Vino Ltd,HP10 9LS,51.6007,-0.7087
 THE CHERRY TREE,HP10 9LS,51.6007,-0.7087
 Flackwell Heath Golf Club,HP10 9PE,51.6025,-0.7055
-Cafe Pausa - Dunelm,HP10 9QR,51.6038,-0.6953
 the derehams inn,HP10 9RH,51.6095,-0.6973
+Costa Coffee,HP10 9RT,51.6048,-0.6927
 Wycombe Heights Golf Centre,HP10 9SZ,51.6168,-0.7011
 Mr India ,HP10 9TB,51.6109,-0.7006
+Brewers Fayre Papermill,HP10 9YL,51.6080,-0.6947
 New Youngs Takeaway,HP11 1EP,51.6207,-0.7204
+KFC,HP11 1FY,51.6188,-0.7208
 PLV ENTERPRISES LTD t/a KFC,HP11 1FY,51.6186,-0.7197
-Pizza Hut Restaurant,HP11 1FY,51.6186,-0.7197
 Chutney,HP11 1NT,51.6279,-0.7449
 Holiday Inn High Wycombe,HP11 1TL,51.6133,-0.7707
-McDonalds,HP11 2AG,51.6286,-0.7498
+Costa Coffee,HP11 1UA,51.6132,-0.7733
+McDonald's,HP11 2AG,51.6289,-0.7509
 McDonald’s Restaurants limited ,HP11 2AG,51.6286,-0.7498
+The Falcon High Wycombe (Wetherspoon),HP11 2AX,51.6292,-0.7512
 The Works,HP11 2AZ,51.6293,-0.7504
 Kappad restaurant,HP11 2BE,51.6288,-0.7488
-Costa Coffee,HP11 2BN,51.6295,-0.7505
+Costa Coffee,HP11 2BN,51.6296,-0.7508
 R Kelly Ltd - Trading as  Lunch ,HP11 2BW,51.6296,-0.7513
-Patisserie Valerie,HP11 2BY,51.6296,-0.7551
-Pret A Manger,HP11 2BY,51.6297,-0.7554
-Starbucks Coffee,HP11 2BY,51.6297,-0.7554
+Costa Coffee,HP11 2BY,51.6298,-0.7564
 Starbucks High Wycombe - Eden Centre,HP11 2BY,51.6297,-0.7554
-Cafe Nero (House Of Fraser),HP11 2BZ,51.6304,-0.7566
-Hollywood Bowl,HP11 2DB,51.6308,-0.7562
-Nandos,HP11 2DB,51.6308,-0.7562
-Pizza Express,HP11 2DB,51.6308,-0.7562
-Wagamama,HP11 2DB,51.6308,-0.7562
 Wok & Go,HP11 2DB,51.6308,-0.7562
-Yo Sushi,HP11 2DB,51.6308,-0.7562
-Zizzi,HP11 2DB,51.6308,-0.7562
 Mad Squirrel Tap,HP11 2DE,51.6300,-0.7517
 Roosters Peri Peri High Wycombe,HP11 2DG,51.6306,-0.7531
 Treatz High Wycombe ,HP11 2DG,51.6307,-0.7533
@@ -70,18 +64,18 @@ The White Horse,HP11 2LR,51.6345,-0.7637
 ENZO SRILANKAN STREET FOOD LTD,HP11 2QA,51.6315,-0.7605
 LA-KOCO COFFEE,HP11 2QA,51.6314,-0.7599
 Gul's Grill,HP12 3PB,51.6274,-0.7691
-BaxterStorey @ Instron Limited,HP12 3SY,51.6185,-0.7760
-McDonalds,HP12 4NT,51.6115,-0.7799
+McDonald's,HP12 4NU,51.6111,-0.7800
 McDonald’s Restaurants limited ,HP12 4NU,51.6112,-0.7805
 The Squirrel Pub,HP12 4RZ,51.6198,-0.7907
 K S PIRI PIRI LIMITED,HP12 4UA,51.6166,-0.7808
 Taste of India ,HP13 5AF,51.6442,-0.7320
 Pepe's Piri Piri,HP13 5DG,51.6316,-0.7524
-KFC,HP13 5DQ,51.6315,-0.7531
+KFC,HP13 5DQ,51.6312,-0.7531
 TUCKIN CATERERS LTD t/a KFC,HP13 5DQ,51.6312,-0.7532
 The Air Raid Shelter Cafe and Tea Room,HP13 5ES,51.6312,-0.7518
-McDonalds,HP13 5HL,51.6318,-0.7531
+McDonald's,HP13 5HL,51.6326,-0.7540
 McDonald’s Restaurants limited ,HP13 5HL,51.6318,-0.7531
+Thyme,HP13 5HL,51.6319,-0.7532
 The Mowchak Indian Restaurant ,HP13 5UW,51.6454,-0.7773
 Coffee shop on the common ,HP13 5XJ,51.6490,-0.7753
 Ks starlight ,HP13 5XJ,51.6490,-0.7753
@@ -116,7 +110,6 @@ Hazlemere Golf Club,HP15 7LR,51.6514,-0.7089
 The Mayflower Pub,HP15 7NE,51.6485,-0.7011
 The Canny Cafe,HP15 7PH,51.6437,-0.7020
 Fan Fan Pizza,HP16 0AL,51.7028,-0.7065
-Costa Coffee,HP16 0AU,51.7037,-0.7075
 Cross Keys ,HP16 0AU,51.7035,-0.7074
 New Akash,HP16 0AU,51.7033,-0.7078
 Sukhothai ,HP16 0AU,51.7033,-0.7078
@@ -149,7 +142,6 @@ Champneys Tring,HP23 6HY,51.7690,-0.6281
 La Crepe Escape Ltd,HP27 0AE,51.7236,-0.8313
 Duke street wine bar,HP27 0AT,51.7251,-0.8326
 The Chilterns Cafe,HP27 0AT,51.7250,-0.8326
-Costa Coffee,HP27 0AX,51.7233,-0.8304
 Crumbs Too,HP27 0AX,51.7237,-0.8308
 Risborough Curry LTD,HP27 0AX,51.7237,-0.8308
 THE PLOUGH AT CADSDEN,HP27 0NB,51.7354,-0.8069
@@ -167,12 +159,10 @@ POLATS CAFE LTD,HP3 0HJ,51.7227,-0.5322
 The Bell,HP3 0HP,51.7220,-0.5305
 Zeera,HP3 0HP,51.7223,-0.5311
 Bricklayers Arms,HP3 0PH,51.7012,-0.5292
-ASK Italian,HP4 1AB,51.7615,-0.5684
 Cafe Epicure Ltd,HP4 1AD,51.7609,-0.5668
 Mario's Espresso Bar & Gelateria,HP4 1AG,51.7612,-0.5663
 PER TUTTI BERKHAMSTED,HP4 1AG,51.7610,-0.5659
 SIMMONS BAKERS  BERKHAMSTED,HP4 1AG,51.7612,-0.5663
-Giggling Squid,HP4 1AH,51.7618,-0.5684
 The Lamb Berkhamsted LTD,HP4 1AJ,51.7623,-0.5707
 Verandah,HP4 1AL,51.7627,-0.5721
 WAMIMICHI LIMITED,HP4 1AL,51.7628,-0.5721
@@ -199,18 +189,17 @@ Compass Group UK & Ireland,HP4 3BG,51.7581,-0.5679
 Bueno Ltd  3 Prince Edward Street,HP4 3EZ,51.7596,-0.5639
 Tabure,HP4 3HB,51.7602,-0.5645
 Thai Cottage,HP4 3HH,51.7597,-0.5633
+The Crown Berkhamsted (Wetherspoon),HP4 3HH,51.7598,-0.5632
 The Kings Arms,HP4 3HL,51.7598,-0.5634
-Everyone Active Sports & Leisure Management,HP4 3QQ,51.7643,-0.5803
 Poppins Cafe Restaurant/Chesham,HP5 1BG,51.7044,-0.6129
 Wotnot Vintage Cafe Ltd,HP5 1BG,51.7043,-0.6130
 COSTA COFFEE CHESHAM,HP5 1BW,51.7052,-0.6123
-Costa Coffee,HP5 1BW,51.7052,-0.6123
+Costa Coffee,HP5 1BW,51.7051,-0.6125
 Jasmine Thai Kitchen,HP5 1BW,51.7052,-0.6123
 FILO FILO LTD,HP5 1BX,51.7061,-0.6119
 The General's Arms,HP5 1BX,51.7061,-0.6119
 Pizzeria Liri,HP5 1EB,51.7068,-0.6119
 THE JUNCTION (CHESHAM) LIMITED,HP5 1EB,51.7068,-0.6119
-Caffe Nero,HP5 1EG,51.7062,-0.6129
 The Tavern Chesham,HP5 1EG,51.7064,-0.6127
 Roots Coffee Food... Ltd,HP5 1EP,51.7049,-0.6130
 Periperi Chesham ltd,HP5 1ES,51.7037,-0.6136
@@ -228,11 +217,11 @@ Amersham subway,HP6 5BG,51.6750,-0.6080
 The Beech House Amersham,HP6 5BW,51.6759,-0.6080
 Black Tooth Coffee Limited,HP6 5BX,51.6762,-0.6073
 Gelateria Paradiso,HP6 5BX,51.6760,-0.6074
-Pizza Express,HP6 5DR,51.6775,-0.6063
 A Little Street Kitchen ,HP6 5EJ,51.6786,-0.6056
 Barracuda Amersham Ltd ,HP6 5EN,51.6784,-0.6050
 Gusto ,HP6 5EN,51.6784,-0.6050
 Mad Squirrel Tap,HP6 5EN,51.6784,-0.6050
+Costa Coffee,HP6 5EQ,51.6776,-0.6068
 cafe 67 at Gatsby & Miller,HP6 5EQ,51.6776,-0.6068
 Cafe Africa,HP6 5HN,51.6774,-0.6074
 Wilson Vale at The Beacon School,HP6 5PF,51.6877,-0.6148
@@ -244,6 +233,7 @@ Indian crown restaurant Ltd t/a Hawkyns Restaurant ,HP7 0DH,51.6663,-0.6168
 Pluma,HP7 0DH,51.6663,-0.6168
 The Kings Arms,HP7 0DJ,51.6666,-0.6184
 Seasons Cafe,HP7 0DQ,51.6662,-0.6163
+Costa Coffee,HP7 0HA,51.6656,-0.6121
 Mughal Palace ,HP7 0HP,51.6659,-0.6149
 Zaza Old Amersham,HP7 0HT,51.6658,-0.6162
 Spice Society,HP7 0HU,51.6653,-0.6172
@@ -256,6 +246,7 @@ The Hit or Miss,HP7 0PX,51.6522,-0.6669
 Red Lion Little Missenden,HP7 0QZ,51.6818,-0.6673
 THE CHEQUERS AMERSHAM,HP7 9DA,51.6646,-0.6070
 Ego at the Pomeroy,HP7 9JY,51.6706,-0.5822
+Costa Coffee,HP7 9PH,51.6668,-0.5640
 Costa Coffee,HP7 9PH,51.6669,-0.5638
 Rex Artisan Bakery,HP7 9PH,51.6669,-0.5638
 The Metropolitan,HP7 9PN,51.6677,-0.5622
@@ -266,19 +257,14 @@ OAKLAND PARK GOLF CLUB,HP8 4LW,51.6262,-0.5879
 KAYA RESTAURANT,HP8 4ND,51.6302,-0.5645
 Fox and Hounds,HP8 4PS,51.6327,-0.5729
 Merlins Cave,HP8 4QF,51.6322,-0.5693
-Costa Coffee,HP8 4QQ,51.6317,-0.5706
 The Feathers,HP8 4QQ,51.6317,-0.5706
 THE IVY HOUSE,HP8 4RS,51.6498,-0.5786
 Harewood Downs Golf Club,HP8 4TA,51.6555,-0.5808
 thirst4coffee,HP9 1DA,51.6006,-0.6699
-Costa Coffee,HP9 1HG,51.6104,-0.6458
 Basmati Indian Restaurant ,HP9 1LU,51.6027,-0.6381
-Zizzi,HP9 1LU,51.6027,-0.6381
 BEACONSFIELD DELIGHT LIMITED T/A THE OLD BENGAL RESTAUARANT,HP9 1LZ,51.6014,-0.6397
 THE OLD BENGAL RESTAUARANT,HP9 1LZ,51.6014,-0.6397
 China Diner,HP9 1QD,51.6106,-0.6453
-Starbucks,HP9 1QH,51.6096,-0.6432
-Prezzo,HP9 1QR,51.6099,-0.6455
 SAJNA INDIAN CUISINE,HP9 1QR,51.6099,-0.6455
 PRIME STEAK & GRILL LIMITED,HP9 1QX,51.6104,-0.6442
 Royal Standard of England ,HP9 1XT,51.6176,-0.6657
@@ -286,8 +272,6 @@ No. 5,HP9 2HN,51.6021,-0.6358
 Beaconsfield Restaurants Limited,HP9 2HW,51.6023,-0.6338
 Brasserie Blanc Beaconsfield ,HP9 2HW,51.6024,-0.6338
 The Swan,HP9 2JD,51.6021,-0.6329
-Giggling Squid,HP9 2JH,51.6019,-0.6348
-Pizza Express,HP9 2JH,51.6019,-0.6348
 Prelibato,HP9 2JJ,51.6009,-0.6354
 The Old Tea House,HP9 2JJ,51.6009,-0.6354
 The Greyhound,HP9 2JN,51.5999,-0.6356
@@ -298,12 +282,12 @@ The Beech House Beaconsfield,HP9 2PN,51.6130,-0.6481
 CH&Co Catering Group Ltd,HP9 2PZ,51.6145,-0.6462
 CHOZEN NOODLE BEACONSFIELD,HP9 2SE,51.5878,-0.6282
 EL MEXICANA,HP9 2SE,51.5874,-0.6279
-McDonalds Beaconsfield,HP9 2SE,51.5878,-0.6282
-Nandos Chickenland,HP9 2SE,51.5874,-0.6279
-Patisserie Valerie,HP9 2SE,51.5874,-0.6279
+KFC,HP9 2SE,51.5878,-0.6278
+McDonald's,HP9 2SE,51.5878,-0.6279
+Nando's,HP9 2SE,51.5877,-0.6277
 Pizza Express,HP9 2SE,51.5874,-0.6279
-Starbucks Drive-Thru,HP9 2SE,51.5874,-0.6279
 Tapori Curry Bar,HP9 2SE,51.5878,-0.6282
+The Hope  Champion Beaconsfield (Wetherspoon),HP9 2SE,51.5882,-0.6276
 David Jennings (UK) Ltd,HP9 2UR,51.6096,-0.6088
 Crown Plaza Gerrards Cross,HP9 2XE,51.5954,-0.5974
 The Three Horseshoes,HP9 2XX,51.6182,-0.6074
@@ -314,6 +298,7 @@ The Stag and Huntsman ltd,RG9 6RP,51.5722,-0.8697
 The Lambourne Club,SL1 8NF,51.5620,-0.6582
 Jolly Woodman,SL1 8PF,51.5692,-0.6543
 THE BLACKWOOD ARMS,SL1 8PP,51.5660,-0.6505
+Costa Coffee,SL2 3NE,51.5552,-0.6156
 MOI RED FARNHAM LTD,SL2 3PQ,51.5552,-0.6156
 The Foresters,SL2 3QQ,51.5552,-0.6151
 Black Horse    ,SL3 6HD,51.5608,-0.5614
@@ -321,12 +306,11 @@ Astor Grill,SL6 0JF,51.5582,-0.6883
 Cliveden Dining Room,SL6 0JF,51.5582,-0.6883
 Mango Lounge - The Chequers,SL6 9BQ,51.5632,-0.7441
 COSTA COFFEE COOKHAM,SL6 9HJ,51.5577,-0.7235
-Costa Coffee,SL6 9HJ,51.5577,-0.7235
+Costa Coffee,SL6 9HJ,51.5576,-0.7227
 Mole and Badger Limited ,SL6 9NZ,51.5599,-0.7450
 The Jolly Farmer,SL6 9PD,51.5587,-0.7449
 THE OLD SWAN UPPERS,SL6 9QE,51.5586,-0.7178
 The White Oak,SL6 9QE,51.5586,-0.7178
-Wilson Vale Catering Management At CIM Moor Hall,SL6 9QH,51.5587,-0.7114
 The Crown Inn,SL6 9SB,51.5603,-0.7117
 Beta UK Ltd,SL6 9SF,51.5600,-0.7100
 Anong Thai,SL6 9SJ,51.5597,-0.7083
@@ -335,11 +319,7 @@ JK Restaurants limited,SL6 9SL,51.5598,-0.7096
 Fego Restaurant Marlow,SL7 1AB,51.5698,-0.7744
 Maliks of Marlow Ltd,SL7 1AB,51.5695,-0.7742
 Strawberry Grove Marlow Ltd,SL7 1AB,51.5698,-0.7745
-Starbucks Coffee,SL7 1AH,51.5703,-0.7755
 Starbucks Marlow,SL7 1AH,51.5704,-0.7756
-Zizzi's,SL7 1AH,51.5703,-0.7756
-Prezzo,SL7 1AU,51.5712,-0.7760
-Pizza Express,SL7 1AW,51.5707,-0.7760
 The Chequers,SL7 1BA,51.5705,-0.7752
 Suum Vietnamese Kitchen LTD ,SL7 1DB,51.5726,-0.7764
 The Oarsman,SL7 1DB,51.5730,-0.7759
@@ -350,6 +330,7 @@ Crowne Plaza Marlow,SL7 1GJ,51.5713,-0.7517
 The Marlow Club,SL7 1LU,51.5709,-0.7597
 PRINCE OF WALES,SL7 1PX,51.5698,-0.7706
 The Bull Inn Bisham Limited,SL7 1RR,51.5581,-0.7751
+Whitbread Inns George and Dragon - Marlow,SL7 2AA,51.5690,-0.7738
 Hand and Flowers ,SL7 2BP,51.5704,-0.7809
 Danesfield House Hotel Ltd,SL7 2EY,51.5520,-0.8287
 The Dog and Badger,SL7 2HE,51.5540,-0.8424
@@ -357,8 +338,6 @@ The Royal Oak,SL7 2JF,51.5757,-0.7958
 The Coach,SL7 2LS,51.5710,-0.7780
 The Ship Ltd,SL7 2LS,51.5710,-0.7780
 Tiger Garden,SL7 2LS,51.5710,-0.7780
-Costa Coffee,SL7 2NB,51.5714,-0.7780
-Giggling Squid,SL7 2NB,51.5714,-0.7778
 The Cedar,SL7 2NB,51.5714,-0.7780
 Clayton's Marlow,SL7 2NL,51.5723,-0.7803
 Notcutts Booker,SL7 3DH,51.6070,-0.8043
@@ -370,7 +349,7 @@ Kings Head,SL7 3RZ,51.5846,-0.7413
 THE CROOKED BILLET,SL7 3SG,51.5969,-0.7263
 The Queens Head,SL7 3SR,51.5837,-0.7413
 COSTA COFFEE BOURNE END,SL8 5SB,51.5790,-0.7129
-Costa Coffee,SL8 5SB,51.5790,-0.7130
+Costa Coffee,SL8 5SB,51.5795,-0.7134
 Chanak Restaurant,SL8 5SS,51.5793,-0.7123
 Coriander Restaurant,SL8 5SS,51.5792,-0.7121
 Kongs Restaurant,SL8 5SS,51.5792,-0.7121
@@ -381,7 +360,6 @@ Gerrards Cross Golf Club Ltd,SL9 0QA,51.5978,-0.5487
 Dumb Bell ,SL9 0QY,51.6225,-0.5305
 Luna Rossa Restaurant,SL9 7DA,51.5875,-0.5538
 Fego Restaurant Gerrards Cross,SL9 7QE,51.5868,-0.5545
-Wildwood,SL9 7QN,51.5870,-0.5580
 Di Paolo ,SL9 8BR,51.5887,-0.5509
 Hillmart Ltd,SL9 8BR,51.5887,-0.5506
 Thai Rack,SL9 8BR,51.5886,-0.5506
@@ -389,10 +367,8 @@ Gerrard cross subway,SL9 8EB,51.5885,-0.5527
 Jack and Alice,SL9 8EB,51.5884,-0.5528
 Huddle,SL9 8ES,51.5882,-0.5511
 The White Oak,SL9 8NL,51.5975,-0.5569
-Caffe Nero,SL9 8PE,51.5878,-0.5542
-Pizza Express,SL9 8PE,51.5878,-0.5542
 lomito,SL9 8PE,51.5878,-0.5542
-Everyman Cinema,SL9 8PN,51.5889,-0.5531
+Costa Coffee,SL9 8PQ,51.5891,-0.5525
 one4six coffee,SL9 8PQ,51.5891,-0.5525
 Crumbs Cafe shop,SL9 9DX,51.6073,-0.5575
 Chef Zhu Authentic Chinese Restaurant ,SL9 9EA,51.6069,-0.5587
@@ -401,16 +377,14 @@ Delhi Spice,SL9 9EH,51.6069,-0.5574
 The Jolly Farmer,SL9 9HH,51.6032,-0.5656
 The Madeira Coffee Shop & Restaurant,SL9 9QE,51.6066,-0.5563
 LA BODEGA TAPAS LTD,SL9 9QL,51.6079,-0.5556
+Costa Coffee,SL9 9QQ,51.6074,-0.5557
 Greyhound Inn,SL9 9RA,51.6074,-0.5567
 Caffe Kix  The Clubhouse,UB8 1DH,51.5559,-0.4803
-Compass Group at Mondelez,UB8 1DH,51.5559,-0.4803
-Wilson Vale Catering at Amgen Ltd,UB8 1DH,51.5559,-0.4803
-McDonalds,UB9 4DA,51.5521,-0.4875
+McDonald's,UB9 4DA,51.5532,-0.4891
 LUMBINI RESTAURANT,UB9 4DQ,51.5518,-0.4863
 KFC Uxbridge,UB9 4DW,51.5582,-0.4919
-KFC,UB9 4DW,51.5582,-0.4919
+KFC,UB9 4DW,51.5583,-0.4925
 The King Denham,UB9 5AE,51.5686,-0.5012
-Compass Group at Martin Baker Aircraft Co Ltd,UB9 5AJ,51.5792,-0.5253
 Da remo restaurant,UB9 5BE,51.5727,-0.4986
 David Brench T/A The Falcon Inn,UB9 5BE,51.5727,-0.4986
 The Green Man,UB9 5BH,51.5731,-0.4986
@@ -424,16 +398,15 @@ NABAB RESTAURANT,UB9 6BU,51.6035,-0.4826
 WE LOVE COFFEE,UB9 6BU,51.6035,-0.4825
 The Harefield,UB9 6BY,51.6020,-0.4832
 The Bear on the Barge,UB9 6PE,51.5889,-0.4817
-BaxterStorey @ Skanska,WD3 2RA,51.6250,-0.5070
 MORE THAN BEANS,WD3 4DF,51.6411,-0.4915
 Herons restaurant ,WD3 5BB,51.6470,-0.5284
 The Stag,WD3 5BT,51.6448,-0.5257
 The Black Horse,WD3 5EG,51.6531,-0.5053
 COSTA COFFEE CHORLEYWOOD,WD3 5LB,51.6526,-0.5183
+Costa Coffee,WD3 5LB,51.6534,-0.5191
 NONNO'S EXPRESS PIZZA LTD,WD3 5NJ,51.6551,-0.5220
 Rootz coffee lounge,WD3 5RB,51.6554,-0.5215
 SIMMONS BAKERS  CHORLEYWOOD,WD3 5RB,51.6554,-0.5215
-Costa Coffee,WD3 5YY,51.6534,-0.5192
 The Cricketers,WD3 6AS,51.6821,-0.4918
 The Boot,WD3 6BL,51.6853,-0.4938
 The Red Lion,WD3 6ED,51.6718,-0.5243
@@ -443,7 +416,6 @@ DOLCE CAFFÈ & RESTAURANT ,WD3 7BE,51.6361,-0.4844
 Subway ,WD3 7BQ,51.6364,-0.4837
 Cara a limited,WD3 7DW,51.6356,-0.4846
 KFC RICKMANSWORTH,WD3 7DW,51.6356,-0.4846
-KFC,WD3 7DW,51.6356,-0.4846
 Mill end cafe,WD3 7DW,51.6356,-0.4846
 Pepes Piri Piri  Rickmansworth,WD3 7DW,51.6356,-0.4846
 BA Align ,WD3 9XN,51.6136,-0.5150

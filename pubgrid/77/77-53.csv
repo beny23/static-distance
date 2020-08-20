@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 The Belmont,DH1 1BJ,54.7859,-1.5310
+Beefeater Broomside Park,DH1 1GG,54.7868,-1.5426
 Infinite Air Cafe,DH1 1GG,54.7884,-1.5425
 Lickety Split,DH1 1GG,54.7884,-1.5425
 La Piazza Durham Ltd,DH1 1LJ,54.7792,-1.5627
@@ -10,13 +11,14 @@ Ajiwai,DH1 1RG,54.7780,-1.5734
 The Drunken Duck ,DH1 1RG,54.7778,-1.5739
 Tia's Mexican,DH1 1RG,54.7778,-1.5739
 Co Ho,DH1 1SL,54.7795,-1.5762
-ASK Italian,DH1 1SQ,54.7780,-1.5763
-Nandos,DH1 1SQ,54.7780,-1.5763
+Nando's,DH1 1SQ,54.7783,-1.5757
+Thyme,DH1 1SQ,54.7785,-1.5760
 ebony champagne and cocktail bar ,DH1 1SQ,54.7780,-1.5763
 Ramside Golf Club,DH1 1TD,54.7952,-1.5150
 Ramside Hall Hotel,DH1 1TD,54.7952,-1.5150
 SPA at Ramside,DH1 1TD,54.7952,-1.5150
 Chapter Two,DH1 1TH,54.7895,-1.5378
+The Bishops Mill Durham (Wetherspoon),DH1 1WA,54.7783,-1.5757
 The Coffee House ,DH1 1WA,54.7780,-1.5746
 Apollo Bingo Durham,DH1 2EP,54.7764,-1.5433
 SUBWAY,DH1 2HN,54.7823,-1.5386
@@ -27,9 +29,7 @@ Poplar Tree Garden Centre,DH1 2NG,54.7599,-1.5528
 The Seven Stars,DH1 2NU,54.7603,-1.5469
 Betty Bee's Coffee Shop,DH1 2PF,54.7550,-1.5425
 The Avenue,DH1 2PT,54.7536,-1.5399
-Cafe Pausa at Dunelm,DH1 2RP,54.7808,-1.5370
-KFC,DH1 2RP,54.7808,-1.5370
-Pizza Hut Restaurant,DH1 2RP,54.7808,-1.5370
+KFC,DH1 2RP,54.7810,-1.5376
 KFC,DH1 2RS,54.7801,-1.5348
 Zest Kitchen,DH1 2RS,54.7801,-1.5348
 The Three Horseshoes,DH1 2SR,54.7569,-1.4853
@@ -49,7 +49,6 @@ Lebaneat North Bailey,DH1 3ET,54.7749,-1.5748
 shaheen’s indian,DH1 3ET,54.7749,-1.5748
 Cafedral,DH1 3HB,54.7752,-1.5751
 Hotel Indigo Durham - Marco Pierre White Steakhouse Bar & Grill,DH1 3HL,54.7750,-1.5701
-Dunelm Club,DH1 3HN,54.7752,-1.5690
 Zen UK Limited,DH1 3JS,54.7744,-1.5701
 Durham Amateur Rowing Club,DH1 3JU,54.7736,-1.5632
 Durham City Rugby Supporters Club,DH1 3JU,54.7736,-1.5629
@@ -60,32 +59,27 @@ La Spaghettata,DH1 3NP,54.7761,-1.5753
 Fat Hippo Durham,DH1 3NU,54.7758,-1.5745
 Flat White Durham Limited,DH1 3NU,54.7759,-1.5746
 The cellar door,DH1 3NU,54.7758,-1.5745
-Zizzi,DH1 3NU,54.7758,-1.5745
 hatters,DH1 3NU,54.7759,-1.5746
-Pizza Express,DH1 3PG,54.7760,-1.5753
 Amaani at the Pumphouse,DH1 3PJ,54.7629,-1.5572
 Leonard’s Coffee House ,DH1 3RA,54.7768,-1.5772
 OiSaki Kitchen,DH1 3RB,54.7760,-1.5770
 Riverview kitchen ,DH1 3RB,54.7760,-1.5770
 Akarsu Turkish Restaurant & Grill Ltd,DH1 3RD,54.7764,-1.5769
-Caffe Nero,DH1 3RD,54.7764,-1.5769
 Coviello Coffee&Barber ,DH1 3RD,54.7761,-1.5772
 ESQUIRES COFFEE HOUSES DURHAM,DH1 3RD,54.7764,-1.5769
 Sweet treat Durham ltd,DH1 3RD,54.7764,-1.5769
 Uno momento,DH1 3RD,54.7764,-1.5769
 The Stonebridge inn,DH1 3RX,54.7665,-1.5999
-Costa Coffee,DH1 3UJ,54.7772,-1.5743
+Costa Coffee,DH1 3UJ,54.7766,-1.5744
 TJ Hughes Durham,DH1 3UJ,54.7770,-1.5741
 AB travel inn ,DH1 3UL,54.7767,-1.5744
-Patisserie Valerie,DH1 3UL,54.7768,-1.5744
 Kingslodge Inn,DH1 4BG,54.7781,-1.5866
 Holi and Bhang Restaurant,DH1 4DX,54.7734,-1.5900
 Antico durham,DH1 4JX,54.7715,-1.5950
 Garden House Inn,DH1 4NQ,54.7831,-1.5857
 The Fighting Cocks,DH1 4PP,54.7759,-1.5790
 Nadon Thai Durham,DH1 4PR,54.7762,-1.5802
-Starbucks Coffee,DH1 4PW,54.7760,-1.5786
-Costa Coffee,DH1 4RB,54.7791,-1.5817
+Costa Coffee,DH1 4RB,54.7798,-1.5819
 The Head of Steam,DH1 4RZ,54.7770,-1.5801
 Bean Social,DH1 4SF,54.7777,-1.5819
 NORTH ROAD INDIAN LIMITED,DH1 4SF,54.7778,-1.5820
@@ -104,13 +98,15 @@ Thai River Restaurant,DH1 4SL,54.7768,-1.5789
 The Food Pit,DH1 4SL,54.7768,-1.5789
 CLX LTD ,DH1 4SP,54.7765,-1.5792
 Green Machine CBD Durham Ltd,DH1 4SQ,54.7771,-1.5806
+The Water House Durham (Wetherspoon),DH1 4SQ,54.7773,-1.5810
 Whispers coffee lounge,DH1 4SQ,54.7771,-1.5807
 La Spada Ristorante ,DH1 5DE,54.8052,-1.5880
+KFC,DH1 5DG,54.8062,-1.5783
 Millennium Restaurant,DH1 5EE,54.7965,-1.5906
-Costa Coffee,DH1 5GB,54.8068,-1.5818
-Dunelm Ridge Brewers Fayre,DH1 5GB,54.8068,-1.5818
-McDonalds,DH1 5GB,54.8068,-1.5818
+Brewers Fayre Dunelm Ridge,DH1 5GB,54.8070,-1.5858
+Costa Coffee,DH1 5GB,54.8081,-1.5814
 subway,DH1 5GB,54.8068,-1.5818
+McDonald's,DH1 5GD,54.8082,-1.5800
 KFC,DH1 5GF,54.8057,-1.5791
 The Kitchen,DH1 5LX,54.7993,-1.5763
 GJK (Durham) Ltd T/A Bells Fish & Chips,DH1 5RW,54.8035,-1.5796
@@ -127,13 +123,12 @@ The Bowes Incline,DH3 1RF,54.9085,-1.5697
 The Board Inn,DH3 2JL,54.8899,-1.5610
 Ala Turka Turkish Cuisine,DH3 2PF,54.8933,-1.5770
 RAILWAY ,DH3 2PQ,54.8959,-1.5774
-Burger King,DH3 2SJ,54.8893,-1.5599
-Costa Coffee,DH3 2SJ,54.8893,-1.5599
 Fabios Restaurant,DH3 3AX,54.8526,-1.5735
+The Wicket Gate ChesterleStreet (Wetherspoon),DH3 3AX,54.8522,-1.5735
 Mr Pickwicks cafe,DH3 3BB,54.8562,-1.5736
 Sambuca front street ltd,DH3 3BE,54.8580,-1.5736
 Costa Coffee - Chester Le Street,DH3 3BG,54.8575,-1.5737
-Costa Coffee,DH3 3BG,54.8575,-1.5737
+Costa Coffee,DH3 3BG,54.8574,-1.5738
 Cafe 91/Bar Utopia,DH3 3BJ,54.8561,-1.5742
 The Lambton Arms,DH3 3BJ,54.8561,-1.5742
 Sarahs Deli,DH3 3BQ,54.8584,-1.5748
@@ -149,8 +144,10 @@ Lambton Worm,DH3 4AJ,54.8712,-1.5757
 Lumley Castle Hotel Ltd,DH3 4NX,54.8533,-1.5537
 EVOLUTION FITNESS,DH4 4AL,54.8431,-1.4708
 Costa Coffee - Houghton le Spring,DH4 4AR,54.8449,-1.4717
+Costa Coffee,DH4 4AR,54.8449,-1.4718
 HOUGHTON INDIAN LIMITED,DH4 4AR,54.8449,-1.4717
 Scugnizzi ltd T/a vesuvio ristorante italiano,DH4 4AR,54.8449,-1.4717
+The Wild Boar HoughtonleSpring (Wetherspoon),DH4 4BN,54.8434,-1.4692
 Mamas Italian kitchen ,DH4 4EF,54.8552,-1.4768
 Amalfi Restaurant,DH4 4EG,54.8562,-1.4777
 The Nutmeg Tree,DH4 4GB,54.8450,-1.4723
@@ -178,10 +175,10 @@ Seventeen Cafe Bar Bistro,DH6 4DD,54.7158,-1.5036
 Italian farmhouse ,DH6 4HX,54.7233,-1.5120
 Pub & Kitchen Cassop,DH6 4RJ,54.7393,-1.4654
 Coach and horses ,DH6 5JU,54.7149,-1.5712
-Burger King,DH6 5JY,54.7057,-1.5662
-Costa Coffee,DH6 5JY,54.7057,-1.5662
 The Poachers,DH6 5LQ,54.7093,-1.5362
 Bowburn Hall Hotel,DH6 5NH,54.7408,-1.5194
+Costa Coffee,DH6 5NP,54.7288,-1.5228
+McDonald's,DH6 5NP,54.7287,-1.5225
 The Old Mill,DH6 5NX,54.7101,-1.5309
 The Garage Bar and Grille Ltd,DH7 0BN,54.8287,-1.7096
 ravello ltd,DH7 0ES,54.8215,-1.7430
@@ -212,11 +209,13 @@ The Old Court House and Kitchen,DH8 5AX,54.8539,-1.8332
 Geraldine cafe,DH8 5AY,54.8534,-1.8341
 sambuca consett ltd,DH8 5AY,54.8534,-1.8341
 EDWARDS COFFEE HOUSE AND BAKERY LTD,DH8 5BJ,54.8523,-1.8327
+The Company Row Consett (Wetherspoon),DH8 5BQ,54.8520,-1.8308
 Jo Allan's Cocktail Bar and Grill,DH8 5LQ,54.8544,-1.8351
 Nobles Amusements,DH8 5QP,54.8519,-1.8333
+Costa Coffee,DH8 5SB,54.8488,-1.8364
 KFC,DH8 5SB,54.8480,-1.8350
-Consett Starbucks,DH8 5XP,54.8502,-1.8381
-McDonalds,DH8 5XP,54.8502,-1.8381
+KFC,DH8 5SB,54.8487,-1.8369
+McDonald's,DH8 5XP,54.8491,-1.8380
 Hunger hangout ,DH8 6DP,54.8608,-1.8063
 The Miners Arms,DH8 6QN,54.8844,-1.8142
 The Royal Oak ,DH8 6QN,54.8844,-1.8142
@@ -227,7 +226,6 @@ Sweetharts  Bakery  Coffee Shop & Deli,DH8 8RR,54.8611,-1.8495
 The Chillin' Dog Ltd,DH8 8RX,54.8609,-1.8492
 pauline thompson t/as The Old Mill,DH8 9EL,54.8277,-1.8165
 Knitsley Grange Farm Shop Ltd,DH8 9EW,54.8311,-1.8106
-McDonalds,DH9 0AQ,54.8687,-1.6964
 The Spa Hotel (Breakfast Club),DH9 0DQ,54.8723,-1.6920
 Yoyo pizza,DH9 0HU,54.8694,-1.6991
 Ball Alley,DH9 0LH,54.8793,-1.6895
@@ -240,6 +238,7 @@ Shepherd and Shepherdess ,DH9 0RS,54.8789,-1.6569
 BLACK HORSE BEAMISH ,DH9 0RW,54.8931,-1.6796
 Shamrock ,DH9 0TY,54.8686,-1.7005
 McDonald's ,DH9 0XG,54.8696,-1.6979
+McDonald's,DH9 0XG,54.8687,-1.6965
 The Stables Bar & Restaurant ,DH9 0YB,54.8879,-1.6712
 Punchbowl Craghead Limited,DH9 6EF,54.8524,-1.6700
 ALA SPICERY LTD,DH9 6RN,54.8756,-1.6450
@@ -261,6 +260,7 @@ The Bait Room,DL15 0PF,54.7117,-1.6953
 Duke of York,DL15 8DG,54.7060,-1.7854
 Cafe J's,DL15 9AZ,54.7157,-1.7442
 Viva restaurant ,DL15 9BG,54.7148,-1.7443
+The Horse Shoe Inn Crook (Wetherspoon),DL15 9BH,54.7150,-1.7431
 Blue Stone Tea Shop,DL15 9HP,54.7146,-1.7480
 The Butchers Tap ,DL15 9HS,54.7157,-1.7470
 The Crook Hotel,DL15 9HU,54.7170,-1.7473
@@ -270,12 +270,11 @@ The Green Tree,DL16 6LE,54.7142,-1.5965
 TASTY BITES SPENNYMOOR LIMITED ,DL16 6PZ,54.7005,-1.5985
 The Black Horse Inn,DL16 6TD,54.7129,-1.5888
 Whitworth Hall Hotel,DL16 7QX,54.7070,-1.6369
-KFC,DL17 8RU,54.7044,-1.5676
-McDonalds,DL17 8RU,54.7044,-1.5676
-Starbucks Coffee,DL17 8RU,54.7044,-1.5676
-Costa Coffee,NE11 0BD,54.9236,-1.6199
+KFC,DL17 8RU,54.7037,-1.5672
+McDonald's,DL17 8RU,54.7047,-1.5667
+Costa Coffee,NE11 0BD,54.9233,-1.6186
 GJK (Durham) Ltd T/A Bells Fish & Chips,NE11 0BD,54.9238,-1.6194
-McDonalds,NE11 0BD,54.9236,-1.6199
+McDonald's,NE11 0BD,54.9237,-1.6193
 Giuseppe’s Italian Bistro ,NE11 0XE,54.9050,-1.6187
 Beamish Park Hotel,NE16 5EG,54.8993,-1.6777
 Oli and Joe's Sunniside,NE16 5LR,54.9238,-1.6744
@@ -284,15 +283,17 @@ THE JOINERY,NE16 6DP,54.9042,-1.7213
 Hobson hotel ,NE16 6EE,54.8960,-1.7314
 Weemacs Cafe & Takeaway,NE16 6EE,54.8960,-1.7314
 kylin oriental,NE37 1BH,54.9077,-1.5339
+Breakfast Room,NE37 1LB,54.8872,-1.5579
 Campanile Washington,NE37 1LE,54.8861,-1.5517
 The Blue Bell,NE37 1NP,54.9200,-1.5357
 Willow Brook Community Cafe,NE37 2AH,54.9121,-1.5218
 Pizza Hut,NE37 2AN,54.9126,-1.5204
 Clay's Garden Centre Limited,NE37 2PA,54.9072,-1.5031
 McDonald's Restaurants,NE37 2PA,54.9066,-1.5025
-McDonalds,NE37 2PA,54.9066,-1.5025
+McDonald's,NE37 2PA,54.9065,-1.5024
 Building blocks day centre community interest company ,NE37 2SS,54.9134,-1.5228
 Concord tandoori ltd,NE37 2SY,54.9126,-1.5230
+The Sir William de Wessyngton Washington (Wetherspoon),NE37 2SY,54.9127,-1.5230
 concord tandoori limited,NE37 2SY,54.9126,-1.5230
 NAC Outsourcing,NE37 3ES,54.9088,-1.5015
 ELM Tree Farm Tea Room Ltd,NE37 3HQ,54.9140,-1.4988
@@ -302,16 +303,18 @@ Ox & Plough,NE38 0LZ,54.8971,-1.5457
 The forge,NE38 7AB,54.9036,-1.5161
 The green ,NE38 7AB,54.9036,-1.5161
 Ragamy limited,NE38 7PE,54.9002,-1.5270
+Costa Coffee,NE38 7RR,54.9000,-1.5330
 Alice and Elsie's Tearoom and Cafe Limited,NE38 7RT,54.8996,-1.5325
 Lebanos,NE38 7RT,54.8996,-1.5325
 KFC,NE38 7RU,54.9001,-1.5327
+KFC,NE38 7RU,54.9008,-1.5329
+Costa Coffee,NE38 7RW,54.9035,-1.5312
 Gillies Restaurant,NE38 7SA,54.9001,-1.5327
 redz traditional fish and chips,NE38 7SA,54.9001,-1.5327
 McDonald's Restaurants,NE38 7SB,54.9001,-1.5327
-McDonalds Restaurants Ltd,NE38 7SB,54.9001,-1.5327
+McDonald's,NE38 7SB,54.8999,-1.5325
 Am coffee,NE38 7SD,54.9001,-1.5327
 Muffin Break,NE38 7SD,54.8996,-1.5325
-Everyone Active Cafe,NE38 7SS,54.8977,-1.5315
 The Courtyard Cafe Bar,NE38 8AB,54.8857,-1.5192
 Fiume and River Bar,NE38 8AJ,54.8795,-1.5173
 The Biddick Inn,NE38 8AJ,54.8795,-1.5172
@@ -330,9 +333,9 @@ The Waggon Inn,NE9 7XB,54.9185,-1.5647
 The Engine Room,NE9 7XR,54.9154,-1.5648
 THE SHIP,NE9 7YP,54.9147,-1.5607
 The Ship at Eighton Limited ,NE9 7YP,54.9147,-1.5607
-'Royal And Sun Alliance'- Atalian Servest Food Co,SR3 3XE,54.8644,-1.4392
+KFC,SR4 9EN,54.8917,-1.4525
 KFC,SR4 9EN,54.8935,-1.4529
-KFC,SR4 9EP,54.8915,-1.4516
 The Hastings Hill Pub,SR4 9LP,54.8902,-1.4527
 Adriano's Pizzeria ,SR5 3BQ,54.9163,-1.4408
+Brewers Fayre The Wessington,SR5 3HR,54.9111,-1.4561
 Rustica Trattoria,SR5 3HZ,54.9235,-1.4712

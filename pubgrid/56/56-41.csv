@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 McDonald's,CH6 5BG,53.2480,-3.1381
 RAJ BALTI HOUSE LIMITED,CH6 5DH,53.2480,-3.1312
+McDonald's,CH6 5GB,53.2508,-3.1360
 Temptations Retail Ltd,CH6 5GB,53.2503,-3.1402
 Eastern Spice,CH6 5NR,53.2490,-3.1331
 Thaidee Flint,CH6 5NR,53.2490,-3.1331
@@ -11,7 +12,6 @@ AJS TEA ROOM & BAR,CH60 0AF,53.3280,-3.0986
 Barton Rouge,CH60 0AH,53.3272,-3.0954
 Blind Pig Heswall,CH60 0AH,53.3273,-3.0958
 Gusto Italian,CH60 0AH,53.3272,-3.0955
-Pizza Express,CH60 0AH,53.3272,-3.0954
 Silk Rd Heswall,CH60 0AH,53.3272,-3.0954
 Paolos Neapolitan Pizza Ltd,CH60 0AJ,53.3278,-3.0968
 Rubens Coffee Ltd,CH60 0AJ,53.3278,-3.0968
@@ -26,6 +26,7 @@ Barcode Cafe and Bar,CH60 7RE,53.3295,-3.0979
 Nova Restaurant ,CH60 7RE,53.3295,-3.0979
 Brunch Cafe,CH60 7RJ,53.3352,-3.0968
 M & Ems ltd t/a Subway,CH60 7SE,53.3286,-3.1002
+Costa Coffee,CH60 7SG,53.3289,-3.0995
 Costa Coffee,CH60 7SG,53.3292,-3.1000
 Sheldrakes Restaurant ,CH60 9JS,53.3257,-3.1194
 Dine India ,CH61 9ND,53.3437,-3.0945
@@ -33,6 +34,7 @@ Spoons and Forks,CH7 1AL,53.1677,-3.1430
 lucy mays,CH7 1AP,53.1662,-3.1428
 The Gathering,CH7 1AX,53.1672,-3.1442
 Costa Coffee,CH7 1AZ,53.1672,-3.1421
+Costa Coffee,CH7 1AZ,53.1673,-3.1417
 Gerrards Confectioners North Wales Ltd,CH7 1AZ,53.1672,-3.1421
 Rubens Coffee Ltd,CH7 1AZ,53.1672,-3.1421
 Just Steak,CH7 1BH,53.1687,-3.1437
@@ -41,9 +43,11 @@ Lovelies Delights,CH7 1BQ,53.1683,-3.1426
 The Fat Boar Yr Wyddgrug,CH7 1EG,53.1672,-3.1401
 Y Baedd Bach,CH7 1ER,53.1667,-3.1412
 Deadwood Smokehouse Mold ,CH7 1ES,53.1661,-3.1411
+The Gold Cape Mold (Wetherspoon),CH7 1ES,53.1664,-3.1412
 Maria’s Cafe,CH7 1LA,53.1680,-3.1418
 McDonald's,CH7 1LA,53.1682,-3.1415
-Starbucks,CH7 1UE,53.1670,-3.1340
+McDonald's,CH7 1LA,53.1694,-3.1383
+Costa Coffee,CH7 1LB,53.1705,-3.1388
 Queens Head,CH7 1UQ,53.1662,-3.1288
 The Haven School,CH7 4AE,53.1581,-3.1545
 The Woodworks Cafe,CH7 4HE,53.1556,-3.1278
@@ -59,12 +63,12 @@ Druid Inn,CH7 5SN,53.1335,-3.2153
 Edenshine Restaurant,CH7 5UB,53.2344,-3.3080
 Compass Group-Education Sector,CH7 6AA,53.2120,-3.1448
 highfield hall,CH7 6AZ,53.2059,-3.1093
-Northop Hall Starbucks,CH7 6HF,53.1979,-3.0902
 McDonald's,CH7 6HS,53.2023,-3.0978
 Beaufort Park Hotel,CH7 6RQ,53.1837,-3.1165
 The Celtic Arms,CH7 6WA,53.2018,-3.1233
 Penymaes stores ,CH8 7BX,53.2762,-3.2096
 The Ship Inn ,CH8 7EY,53.2859,-3.2023
+The Market Cross Holywell (Wetherspoon),CH8 7LA,53.2743,-3.2228
 Bells Cafe,CH8 7LH,53.2736,-3.2225
 Kassidys tea rooms ,CH8 7LH,53.2742,-3.2232
 Stamford Gate Hotel Ltd,CH8 7SJ,53.2628,-3.2107
@@ -72,8 +76,8 @@ Rosie'z Ltd,CH8 7TQ,53.2730,-3.2234
 Tea Rooms at the Pet Cemetery,CH8 8AD,53.2627,-3.2311
 Betty Berkins Coffee Shop at Glasdir,CH8 8BD,53.2470,-3.1895
 Springfield Hotel,CH8 8BD,53.2472,-3.1893
-Burger King,CH8 8DF,53.2277,-3.1711
 Holywell Golf Club,CH8 8LQ,53.2626,-3.2355
+McDonald's,CH8 8RF,53.2737,-3.3052
 McDonald's,CH8 8RF,53.2737,-3.3053
 Doris’s Bunker,CH8 9BD,53.3119,-3.3246
 Cafe at Abakhan,CH8 9DX,53.3008,-3.2330
@@ -98,20 +102,21 @@ Lyons Eryl Hall,LL17 0EW,53.2442,-3.4478
 The Plough,LL17 0LU,53.2587,-3.4501
 The Salusbury Arms,LL17 0UN,53.2462,-3.3768
 Blas Clwyd Cafe,LL17 0UY,53.2360,-3.4283
-KFC,LL18 1BA,53.3194,-3.4915
 SC2,LL18 1BF,53.3209,-3.4963
 KFC,LL18 1BG,53.3203,-3.4903
 Tilly's Rhyl,LL18 1BG,53.3203,-3.4903
 Les & Rita’s Fish Bar,LL18 1BN,53.3191,-3.4926
 McDonald's,LL18 1ES,53.3216,-3.4915
-McDonalds,LL18 1ES,53.3216,-3.4915
+McDonald's,LL18 1ES,53.3217,-3.4915
 Piazza Reastaurant,LL18 1ES,53.3217,-3.4915
-Costa Coffee,LL18 1ET,53.3210,-3.4908
+Costa Coffee,LL18 1ET,53.3213,-3.4909
 Sayers Cafe,LL18 1EW,53.3218,-3.4903
+Cookhouse + Pub The Submariner,LL18 1HE,53.3210,-3.4946
 Geronimos Cafe at the Palace,LL18 1HG,53.3200,-3.4960
 Jays cafe ltd,LL18 1RL,53.3203,-3.4907
+KFC,LL18 1SD,53.3194,-3.4913
+The Sussex Rhyl (Wetherspoon),LL18 1SG,53.3208,-3.4920
 Costa Coffee,LL18 2PH,53.3160,-3.4775
-Pizza Hut,LL18 2TJ,53.3042,-3.4693
 The kingshead pub,LL18 2TU,53.2913,-3.4657
 The New Inn Rhuddlan,LL18 2TY,53.2909,-3.4669
 Porter's Coffee Shop,LL18 3AA,53.3217,-3.4890
@@ -124,6 +129,7 @@ New Pines holiday Home park,LL18 4DY,53.3206,-3.4531
 KFC,LL18 5AQ,53.2878,-3.4723
 The Old Crown at The Castle,LL18 5AW,53.2906,-3.4648
 HARVEYS RHUDDLAN,LL18 5UA,53.2892,-3.4699
+Table Table Morfa Rhuddlan,LL18 5UA,53.2880,-3.4716
 The village massala,LL18 5UA,53.2892,-3.4699
 KFC,LL18 5UB,53.2897,-3.4730
 FAENOL FAWR HOTEL,LL18 5UN,53.2743,-3.4934
@@ -144,7 +150,7 @@ Tudor House Cafe Bar,LL19 9AS,53.3333,-3.4022
 CookHouse Pub & Carvery,LL19 9BB,53.3354,-3.4058
 Patagonia Welsh Roots Limited,LL19 9BE,53.3345,-3.4046
 Chynna garden,LL19 9BH,53.3341,-3.4039
+Costa Coffee,LL19 9BJ,53.3360,-3.4046
 Lets Paint Pottery & Ice Cream Bar ,LL19 9BN,53.3335,-3.4031
 La Ricetta,LL19 9BP,53.3323,-3.4015
 Lyons Nant Hall Hotel,LL19 9LD,53.3386,-3.3902
-Presthaven Sands Burger King,LL19 9TT,53.3496,-3.3508

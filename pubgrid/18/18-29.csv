@@ -14,12 +14,17 @@ Edie's Kitchen,PL25 3PH,50.3367,-4.7493
 The Carlyon Bay Hotel,PL25 3RD,50.3360,-4.7397
 St Austell Garden Centre Tea Room,PL25 3RH,50.3446,-4.7441
 The white hart hotel LTD ,PL25 4AT,50.3381,-4.7918
+Whitbread Inns The Carclaze,PL25 4EJ,50.3579,-4.7815
 Number Four Pizza Cafe,PL25 4FD,50.3589,-4.7822
 Capitol Bingo Club,PL25 4QL,50.3385,-4.7797
-KFC,PL25 5BU,50.3329,-4.7926
+Costa Coffee,PL25 5AZ,50.3375,-4.7942
+Costa Coffee,PL25 5BU,50.3336,-4.7923
+KFC,PL25 5BU,50.3338,-4.7931
+McDonald's,PL25 5BU,50.3329,-4.7926
 McDonalds,PL25 5BU,50.3329,-4.7926
 Niles bakery ltd,PL25 5BU,50.3329,-4.7926
 Subway,PL25 5ER,50.3384,-4.7945
+The Rann Wartha St Austell (Wetherspoon),PL25 5EW,50.3387,-4.7934
 moustache jacks ,PL25 5EW,50.3386,-4.7937
 The western inn ,PL25 5EY,50.3367,-4.7979
 The western inn,PL25 5EY,50.3367,-4.7979
@@ -46,8 +51,8 @@ Subway,PL26 8LH,50.4340,-4.8242
 The Victoria Inn,PL26 8LQ,50.4219,-4.8322
 The Bugle Inn,PL26 8PB,50.3967,-4.7937
 Rockhill Cafe,PL26 8RA,50.3868,-4.7945
+Costa Coffee,PL26 8UF,50.4255,-4.8174
 Holiday Inn Express,PL26 8UF,50.4260,-4.8158
-McDonalds,PL26 8UF,50.4260,-4.8158
 Open Oven Pizza Co Ltd,PL26 8UF,50.4260,-4.8158
 Wheal Martyn Cafe,PL26 8XG,50.3692,-4.8060
 Knightor Winery,PL26 8YQ,50.3681,-4.7621
@@ -81,6 +86,7 @@ Atlantic view cafe ltd,TR7 1BH,50.4138,-5.0807
 Bertie O'Flannigans Irish Bar,TR7 1DB,50.4147,-5.0788
 Hotel Victoria,TR7 1DB,50.4147,-5.0788
 Senor Dicks Mexican Restaurant,TR7 1DB,50.4147,-5.0788
+Costa Coffee,TR7 1DH,50.4137,-5.0845
 MisoMiso,TR7 1DH,50.4136,-5.0850
 Subway,TR7 1DL,50.4137,-5.0826
 Victoria ,TR7 1DN,50.4142,-5.0809
@@ -102,7 +108,6 @@ The wild food kitchen,TR7 1HT,50.4160,-5.0869
 Fistral beach bar,TR7 1HY,50.4189,-5.0972
 RICK STEIN,TR7 1HY,50.4189,-5.0972
 The Fistral Stable,TR7 1HY,50.4189,-5.0972
-Caffe Nero,TR7 1JF,50.4132,-5.0862
 Bush Pepper,TR7 1LN,50.4145,-5.0871
 Cove 24,TR7 1LN,50.4145,-5.0871
 Cafe cloud,TR7 1LW,50.4157,-5.0876
@@ -111,10 +116,10 @@ The Lewinnick Lodge,TR7 1NX,50.4119,-5.0968
 The Esplanade Hotel,TR7 1PS,50.4120,-5.1035
 The Fistral Beach Hotel,TR7 1PT,50.4122,-5.1064
 El Huichol,TR7 1QZ,50.4117,-5.0862
+The Towan Blystra Newquay (Wetherspoon),TR7 1SG,50.4143,-5.0774
 The Griffin Hotel,TR7 1SP,50.4148,-5.0774
 McDonald's Restaurant Newquay,TR7 2BB,50.4023,-5.0631
-McDonalds,TR7 2BB,50.4023,-5.0631
-Pizza Express,TR7 2FD,50.4166,-5.0746
+McDonald's,TR7 2BB,50.4022,-5.0618
 Lakeside Cafe & Restaurant,TR7 2HX,50.4082,-5.0762
 The Tavern Inn,TR7 2LQ,50.4057,-5.0706
 Courtside Cafe,TR7 2LZ,50.4106,-5.0682
@@ -125,10 +130,10 @@ Great Western Hotel,TR7 2NE,50.4157,-5.0762
 The Cod End,TR7 2NE,50.4157,-5.0760
 The Maharajah,TR7 2NE,50.4157,-5.0760
 The Slope Beach Bar & Kitchen,TR7 2NE,50.4157,-5.0762
-Burger King,TR7 2NF,50.4150,-5.0761
 Burger King,TR7 2NG,50.4152,-5.0753
 Kahuna restaurant,TR7 2NG,50.4152,-5.0753
 Hotel Bristol (Newquay) Ltd,TR7 2PQ,50.4174,-5.0712
+Thyme,TR7 2PR,50.4166,-5.0733
 Colonial ,TR7 2QN,50.4173,-5.0725
 sandy lodge hotel,TR7 2QY,50.4175,-5.0688
 kilbirnie hotel,TR7 2RS,50.4187,-5.0686
@@ -149,6 +154,7 @@ St Mawgan Tea Room,TR8 4EP,50.4542,-4.9972
 The Smugglers Inn ,TR8 4EQ,50.4481,-4.9984
 Shiva Cafe,TR8 4GZ,50.4139,-5.0438
 Trewlawny Taverns Ltd,TR8 4LA,50.4044,-5.0277
+Table Table Treffry Tavern,TR8 4LE,50.4026,-5.0284
 darwin piran Meadow limited,TR8 4LW,50.3995,-4.9705
 Hendra Holiday Park,TR8 4NY,50.4011,-5.0487
 The Two Clomes,TR8 4PD,50.4013,-5.0223
@@ -169,8 +175,7 @@ Lucys,TR9 6DW,50.4407,-4.9281
 The Port & Starboard,TR9 6JZ,50.3936,-4.9298
 New Garden Chinese Restaurant ,TR9 6LB,50.3937,-4.9304
 blue anchor inn,TR9 6LS,50.3841,-4.9395
+Cookhouse + Pub Penhale Round,TR9 6NA,50.3780,-4.9434
 McDonald's Drive Thru - Fraddon ,TR9 6NA,50.3786,-4.9453
-McDonalds Fraddon,TR9 6NA,50.3786,-4.9453
-Starbucks - Amsric Cornwall,TR9 6NA,50.3786,-4.9453
+McDonald's,TR9 6NA,50.3783,-4.9422
 Starbucks Fraddon,TR9 6NA,50.3785,-4.9437
-Whitbread Plc,TR9 6NA,50.3786,-4.9453

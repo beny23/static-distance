@@ -3,7 +3,6 @@ Claytons and The Glasshouse,EX31 1BA,51.0799,-4.0610
 Subway,EX31 1BD,51.0797,-4.0606
 LUNCHBOX,EX31 1BH,51.0796,-4.0592
 Barnstaple Wimpy,EX31 1BL,51.0805,-4.0601
-Caffe Nero,EX31 1BL,51.0805,-4.0601
 Banburys Ltd,EX31 1BN,51.0808,-4.0601
 Artisarni Food Company Ltd,EX31 1BW,51.0803,-4.0593
 Block,EX31 1BW,51.0804,-4.0591
@@ -22,27 +21,28 @@ Coffee Lounge ,EX31 1GB,51.0846,-4.0717
 The Royal & Fortescue Hotel,EX31 1HG,51.0787,-4.0587
 The Southgate,EX31 1HG,51.0787,-4.0587
 Latitude 48,EX31 1HR,51.0795,-4.0598
-Pizza Express,EX31 1HX,51.0803,-4.0605
+Costa Coffee,EX31 1HX,51.0807,-4.0608
 The rolle quay inn,EX31 1JE,51.0826,-4.0634
 The Barnstaple Hotel,EX31 1LE,51.0855,-4.0754
 Burger King,EX31 1LG,51.0856,-4.0761
 WWDP LTD,EX31 1LG,51.0858,-4.0760
 Giovannis Restaurant,EX31 1RX,51.0807,-4.0580
+The Panniers Barnstaple (Wetherspoon),EX31 1RX,51.0808,-4.0581
 Lush bar and restaurant,EX31 1SH,51.0793,-4.0581
 Upstairs at the Queens,EX31 1SY,51.0811,-4.0585
 Bull & Bear,EX31 1TD,51.0826,-4.0600
 Green Lanes Cafe,EX31 1UL,51.0820,-4.0607
 Tarka Tennis Centre,EX31 2AS,51.0730,-4.0591
+Costa Coffee,EX31 2AU,51.0747,-4.0622
 station masters cafe,EX31 2AU,51.0740,-4.0635
-Costa Coffee,EX31 2BP,51.0751,-4.0611
-Pizza Hut Restaurant,EX31 2BP,51.0754,-4.0605
 wrey arms,EX31 2BX,51.0725,-4.0750
 The Old Barn Inn,EX31 2JU,51.0721,-4.0981
 The fremington quay cafe,EX31 2NH,51.0815,-4.1175
 HAN COURT,EX31 2NX,51.0721,-4.1225
-Costa Coffee,EX31 3RY,51.0658,-4.0858
+Costa Coffee,EX31 3RY,51.0653,-4.0844
 McDonald's Roundswell,EX31 3RY,51.0658,-4.0858
-Mcdonalds Restaurants Ltd,EX31 3RY,51.0658,-4.0858
+McDonald's,EX31 3RY,51.0650,-4.0851
+KFC,EX31 3RZ,51.0629,-4.0839
 Subway,EX31 3RZ,51.0630,-4.0839
 Air Extreme Ltd ,EX31 3TA,51.0644,-4.0844
 Sandbanks Cafe,EX31 3UH,51.0683,-4.1660
@@ -58,11 +58,13 @@ Castle Inn,EX32 0NF,51.0621,-4.0014
 Next Steps Development (The Wooden Bowl),EX32 7AS,51.0855,-4.0585
 Silver Cod,EX32 7DB,51.0810,-4.0573
 The New Inn,EX32 7LX,51.0895,-4.0007
+The Water Gate Barnstaple (Wetherspoon),EX32 8LD,51.0787,-4.0599
 LILICOS 1844,EX32 8LW,51.0785,-4.0591
 TREAT TIME ,EX32 8LW,51.0785,-4.0591
 The Imperial Hotel,EX32 8NB,51.0774,-4.0576
 McDonald's Barnstaple,EX32 8PB,51.0757,-4.0460
-Mcdonalds Restaurant,EX32 8PB,51.0757,-4.0460
+McDonald's,EX32 8PB,51.0752,-4.0447
+Table Table Barum Gate,EX32 8RY,51.0735,-4.0339
 The Park Hotel,EX32 9AE,51.0752,-4.0537
 The Ganges,EX32 9BE,51.0726,-4.0498
 St Johns Garden Centre,EX32 9DD,51.0709,-4.0398
@@ -107,6 +109,7 @@ Trimstone Manor House Country House Hotel,EX34 8NR,51.1706,-4.1478
 Lakeside Restaurant,EX34 8NU,51.1529,-4.1394
 GFD DEPOT,EX34 8NY,51.1773,-4.1435
 Ilfracombe Holiday Park,EX34 8PF,51.2016,-4.1144
+The Admiral Collingwood Ilfracombe (Wetherspoon),EX34 9AP,51.2102,-4.1192
 THE ILFRACOMBE FRYER,EX34 9BD,51.2102,-4.1204
 THE ILFRACOMBE PIZZA,EX34 9BD,51.2102,-4.1204
 Maddys chippy ltd,EX34 9BJ,51.2104,-4.1166
@@ -118,7 +121,7 @@ George & Dragon,EX34 9ED,51.2097,-4.1172
 ROYAL BRITANNIA HOTEL,EX34 9EE,51.2102,-4.1160
 The Starter Bar,EX34 9EE,51.2102,-4.1160
 The Dolphin,EX34 9EQ,51.2107,-4.1147
-Costa Coffee,EX34 9EY,51.2082,-4.1230
+Costa Coffee,EX34 9EY,51.2081,-4.1235
 Jurassic Coast Coffee Ltd t/a Costa Coffee Ilfracombe,EX34 9EY,51.2082,-4.1230
 Dice And A Slice Ilfracombe,EX34 9NH,51.2073,-4.1247
 Grassroots Cafe ,EX34 9NH,51.2073,-4.1247
@@ -152,6 +155,7 @@ Market Street Kitchen,EX39 1PP,51.0538,-4.1912
 Appledore Flame Factory,EX39 1QS,51.0531,-4.1911
 Sailors Rest,EX39 1QS,51.0540,-4.1910
 The Beaver Inn,EX39 1RY,51.0565,-4.1944
+Costa Coffee,EX39 3DU,51.0393,-4.2328
 Johns Of Instow Ltd,EX39 4HY,51.0509,-4.1802
 The Quay Inn,EX39 4HY,51.0509,-4.1803
 Instow Arms Limited,EX39 4JJ,51.0553,-4.1807

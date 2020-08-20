@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+Brewers Fayre Afon Conwy,LL28 5LB,53.2795,-3.7899
 Bodnant furnace farm ,LL28 5RP,53.2338,-3.8049
 Conwy Garden World  Lavender Tea Room ,LL28 5TH,53.2525,-3.7911
 The Bee Inn,LL28 5UD,53.2171,-3.7931
@@ -15,9 +16,9 @@ BODAFON FARM PARK,LL30 1BW,53.3212,-3.8058
 FirstPort - Cwrt Sant Tudno,LL30 1BZ,53.3218,-3.8145
 Maesdu Golf Club,LL30 1HU,53.3128,-3.8301
 Debenhams Restaurant LLandudno,LL30 1PG,53.3138,-3.8148
-Costa Coffee,LL30 1PX,53.3213,-3.8216
+Costa Coffee,LL30 1PJ,53.3215,-3.8235
 Bodysgallen Hall and Spa,LL30 1RS,53.2985,-3.8066
-Mcdonalds,LL30 1RY,53.3189,-3.8173
+McDonald's,LL30 1RY,53.3183,-3.8196
 PGL Enterprises Limited T/a McDonald's,LL30 1RY,53.3189,-3.8173
 Compass Group Ltd at Queen Elizabeth Court,LL30 1TR,53.3180,-3.8142
 Troop Cafe,LL30 1YL,53.3222,-3.8228
@@ -27,7 +28,7 @@ East,LL30 2AD,53.3213,-3.8271
 MOLLY'S CAFE,LL30 2AD,53.3210,-3.8275
 The Lilly,LL30 2BD,53.3182,-3.8425
 West Shore Beach Cafe,LL30 2BG,53.3165,-3.8420
-J D Wetherspoon Plc,LL30 2DD,53.3249,-3.8326
+The Palladium Llandudno (Wetherspoon),LL30 2DD,53.3252,-3.8324
 BLUE ELEPHANT,LL30 2DS,53.3256,-3.8323
 Take a break cafe ,LL30 2DS,53.3256,-3.8324
 Yummy Thai Food Café - Thai Restaurant ,LL30 2DS,53.3255,-3.8328
@@ -59,15 +60,13 @@ Love to Eat ,LL30 2NG,53.3234,-3.8292
 Casa Mia Cafe,LL30 2NL,53.3231,-3.8268
 Jasmine House,LL30 2NL,53.3228,-3.8257
 KFC,LL30 2NL,53.3228,-3.8257
+KFC,LL30 2NL,53.3229,-3.8264
 KINGS ARMS,LL30 2NL,53.3230,-3.8258
 Starbucks Llandudno,LL30 2NL,53.3228,-3.8257
-Starbucks,LL30 2NL,53.3228,-3.8257
 Fortes Restaurant,LL30 2NN,53.3239,-3.8288
 White Heather Hotel,LL30 2NR,53.3247,-3.8298
-Caffe Nero,LL30 2PD,53.3250,-3.8305
 Clares of Llandudno,LL30 2PD,53.3250,-3.8305
 Thaitastic,LL30 2PD,53.3250,-3.8305
-Wildwood Kitchen,LL30 2PD,53.3248,-3.8303
 Home Cookin',LL30 2PE,53.3265,-3.8323
 Johnny doughs ,LL30 2PE,53.3265,-3.8323
 L C Drink & Dine,LL30 2PE,53.3263,-3.8321
@@ -103,6 +102,7 @@ Four Saints Brig Y Don Hotel,LL30 2XS,53.3235,-3.8252
 Candles Restaurant,LL30 2YA,53.3231,-3.8316
 Tribells restaurant  ,LL30 2YA,53.3233,-3.8322
 Rosaire Guest House,LL30 2YY,53.3196,-3.8333
+Brewers Fayre Craigside Inn,LL30 3AL,53.3228,-3.7860
 Home from Home,LL30 3EF,53.3176,-3.7770
 Chapter 2 Coffee Shop,LL31 9AL,53.2838,-3.8010
 Coffee Junction,LL31 9AY,53.2837,-3.8027
@@ -114,12 +114,11 @@ Enochs Fish & Chips,LL31 9DU,53.2837,-3.8047
 Providero Llandudno Junction,LL31 9DU,53.2837,-3.8047
 sarahs bakery cafe,LL31 9EG,53.2839,-3.8040
 The Queen's Head,LL31 9JP,53.3073,-3.7771
-Compass Group at Welsh Assembly Building,LL31 9RZ,53.2838,-3.7934
 Castle View,LL31 9TH,53.2904,-3.8225
+KFC,LL31 9XX,53.2828,-3.8095
 KFC,LL31 9XX,53.2830,-3.8072
-McDonalds,LL31 9XX,53.2830,-3.8072
+McDonald's,LL31 9XX,53.2830,-3.8089
 PGL Enterprises Limited T/a McDonald's,LL31 9XX,53.2830,-3.8072
-Pizza Hut Restaurant,LL31 9XX,53.2830,-3.8072
 Mocha House,LL32 8AL,53.2819,-3.8283
 The Midland Conwy,LL32 8AY,53.2812,-3.8276
 Tower Coffee House,LL32 8AY,53.2812,-3.8279
@@ -147,19 +146,18 @@ Cantin Cafe,LL32 8NU,53.2817,-3.8318
 Y Bedol Inn,LL32 8QF,53.2029,-3.8483
 Split Willow ,LL33 0PA,53.2578,-3.9745
 The Peacock Lounge Capaloul ,LL34 6SP,53.2715,-3.8887
-Burger King,LL57 1DN,53.2279,-4.1256
-Caffe Nero,LL57 1DN,53.2279,-4.1256
 Yugen coffee house,LL57 1DN,53.2281,-4.1259
 1815 Cafe/Bistro,LL57 1DS,53.2267,-4.1265
-Compass Group,LL57 1LT,53.2222,-4.1170
 THE WAVERLEY HOTEL,LL57 1LZ,53.2231,-4.1346
-J D Wetherspoon,LL57 1NS,53.2245,-4.1290
+The Black Bull Inn Bangor (Wetherspoon),LL57 1NS,53.2244,-4.1289
 Kyffin Cafe Deli,LL57 1NT,53.2249,-4.1284
 Torna a Surriento,LL57 1NY,53.2260,-4.1270
 Wood Fired Shack,LL57 1NY,53.2262,-4.1270
 Blue Sky Cafe,LL57 1PA,53.2265,-4.1255
 Gerrards Confectioners North Wales Ltd,LL57 1PB,53.2269,-4.1253
 Penguin cafe ,LL57 1PB,53.2271,-4.1251
+Costa Coffee,LL57 1UL,53.2278,-4.1239
+KFC,LL57 1UL,53.2278,-4.1237
 KFC,LL57 1UL,53.2279,-4.1238
 Templetons,LL57 1YE,53.2291,-4.1215
 Bangor Tandoori,LL57 1YH,53.2291,-4.1220
@@ -169,10 +167,10 @@ TREBORTH GARDEN CENTER,LL57 2RZ,53.2100,-4.1677
 Eryl Mor Hotel,LL57 2SR,53.2356,-4.1230
 Tap and Spile Bangor,LL57 2SW,53.2361,-4.1221
 The Slate,LL57 3UR,53.2167,-4.0901
-Bangor Starbucks,LL57 4BG,53.2062,-4.1065
-Burger King,LL57 4BG,53.2062,-4.1065
-Dunelm Mill,LL57 4SU,53.2103,-4.1488
+Table Table Parc Britannia,LL57 4FA,53.2036,-4.1783
+Costa Coffee,LL57 4SU,53.2091,-4.1502
 HARVEYS BANGOR,LL57 4SU,53.2103,-4.1488
+McDonald's,LL57 4SU,53.2132,-4.1452
 PGL Enterprises Limited T/a McDonald's,LL57 4SU,53.2103,-4.1488
 Meghna Tandoori,LL58 8AB,53.2642,-4.0939
 Mercado,LL58 8AP,53.2640,-4.0910

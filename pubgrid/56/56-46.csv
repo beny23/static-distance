@@ -1,6 +1,6 @@
 name,postcode,lat,lon
-McDonalds,CH2 4QZ,53.2682,-2.8025
-Pret A Manger,CH2 4QZ,53.2682,-2.8025
+Costa Coffee,CH2 4QZ,53.2678,-2.8029
+McDonald's,CH2 4QZ,53.2686,-2.8032
 White Horse Inn,CH3 7HX,53.2103,-2.7947
 Cornichon,CH3 8JA,53.1991,-2.7621
 Pryors Hayes Golf & Leisure Ltd,CH3 8NL,53.1940,-2.7334
@@ -8,7 +8,6 @@ Carriages,CH3 9AH,53.1345,-2.7851
 The Ice Cream Farm,CH3 9NE,53.1324,-2.7506
 Coach and horses,CW1 4QZ,53.1263,-2.4784
 Minshulls Garden Centre Restaurant,CW1 4RQ,53.1323,-2.4851
-Starbucks,CW10 0JB,53.1957,-2.4299
 The Boars Head,CW10 0JE,53.1929,-2.4417
 The Kinderton,CW10 0JE,53.1929,-2.4417
 The King's Lock,CW10 0JJ,53.1870,-2.4410
@@ -40,14 +39,15 @@ Pesto at Cabbage Hall,CW6 9ES,53.2038,-2.6274
 Shrewsbury Arms,CW6 9EY,53.1969,-2.6065
 Tollemache Arms,CW6 9JE,53.1314,-2.6217
 Lockgate Coffee House,CW6 9NJ,53.1332,-2.6687
+The Queens Arms Winsford (Wetherspoon),CW7 1AT,53.1913,-2.5303
 Al's Plaice,CW7 1BA,53.1917,-2.5276
 balti cottage,CW7 2JP,53.1893,-2.5403
 The Cosy Tea Room,CW7 2NB,53.1936,-2.5499
 The Gate Inn,CW7 2NB,53.1936,-2.5499
 Whitegate Station Cafe,CW7 2QE,53.2073,-2.5808
 The Red Lion,CW7 3AA,53.1934,-2.5164
+McDonald's,CW7 3BS,53.1979,-2.5137
 Polar Palace Play & Party Centre,CW7 3PR,53.1975,-2.4961
-Baxterstorey,CW7 3QY,53.1983,-2.4914
 abm catering at Coveris,CW7 3RD,53.2016,-2.4967
 UA Cheshire Trampoline Park Ltd,CW7 3RL,53.2035,-2.4986
 The Old Star,CW7 4BL,53.1808,-2.5309
@@ -75,20 +75,22 @@ The Topiary Coffee Shop,CW8 4EE,53.2629,-2.5378
 Barnton Cricket Club,CW8 4QL,53.2760,-2.5510
 The Leigh Arms ,CW8 4QT,53.2807,-2.6007
 NORTHWICH TANDOORI,CW9 5AB,53.2621,-2.5088
+The Penny Black Northwich (Wetherspoon),CW9 5AB,53.2622,-2.5086
 Bratt & Evans Ltd,CW9 5AP,53.2618,-2.5136
 The Seafarer Northwich,CW9 5AS,53.2610,-2.5121
 Vinnies,CW9 5BD,53.2611,-2.5145
 Kanya Bistro & Restaurant,CW9 5BE,53.2613,-2.5147
-McDonalds Restaurant,CW9 5DD,53.2617,-2.5149
+McDonald's,CW9 5DD,53.2616,-2.5149
 RHI Squared Ltd t/a McDonalds,CW9 5DD,53.2617,-2.5149
 the quayside,CW9 5DY,53.2625,-2.5080
 BEAR Northwich,CW9 5FT,53.2620,-2.5151
 Sticky Paws,CW9 5FT,53.2627,-2.5135
-Wildwood,CW9 5FT,53.2624,-2.5145
+KFC,CW9 5GF,53.2636,-2.4983
 Costa Coffee - Northwich,CW9 5LA,53.2623,-2.5123
-Costa Coffee,CW9 5LA,53.2623,-2.5123
+Costa Coffee,CW9 5LA,53.2623,-2.5124
 The Coffee House Northwich,CW9 5LG,53.2627,-2.5118
-Costa Coffee,CW9 5LY,53.2626,-2.4964
+Costa Coffee,CW9 5LY,53.2625,-2.4951
+McDonald's,CW9 5ND,53.2630,-2.4932
 RHI squared Ltd t/a McDonalds,CW9 5ND,53.2633,-2.4952
 KFC,CW9 5QJ,53.2609,-2.5085
 Stanley Arms,CW9 6AG,53.2745,-2.5299
@@ -104,6 +106,7 @@ Cheshire Grill,CW9 7SY,53.2448,-2.4435
 Arabica Caffe,CW9 7UW,53.2470,-2.4825
 Subway,CW9 7YL,53.2726,-2.4570
 Thye bowlinggreen,CW9 8AA,53.2536,-2.5139
+Cookhouse + Pub The Woodpecker,CW9 8EG,53.2410,-2.5124
 new pub company davenham limited t/a the bulls head,CW9 8NA,53.2347,-2.5102
 The Rivers Edge Cafe,CW9 8SQ,53.2497,-2.5189
 Kingsmead Spice,CW9 8UW,53.2431,-2.5196
@@ -111,20 +114,15 @@ The Windmill Inn,WA16 0HW,53.3102,-2.4181
 The Red Lion,WA16 0JX,53.2902,-2.4657
 The Topiary Coffee Shop,WA16 0QW,53.3485,-2.4518
 Mere Court Hotel,WA16 0RW,53.3439,-2.4294
-Costa Coffee Drive Thru (North),WA16 0TJ,53.3009,-2.4016
-Burger King (North),WA16 0TL,53.3009,-2.4016
-Burger King (South),WA16 0TL,53.3009,-2.4016
-Costa Coffee (North),WA16 0TL,53.3009,-2.4016
-Costa Coffee Kiosk (South),WA16 0TL,53.3009,-2.4016
-Costa Coffee Pod (Outside South),WA16 0TL,53.3009,-2.4016
+Costa Coffee,WA16 0TL,53.3010,-2.4011
 The Smoker Inn,WA16 0TY,53.2807,-2.4361
 High Legh Park Golf Club,WA16 0WA,53.3494,-2.4416
 MERE GOLF AND COUNTRY CLUB ,WA16 6LJ,53.3325,-2.4057
 The Three Greyhounds,WA16 9JY,53.2355,-2.4066
-KFC,WA4 1LR,53.3388,-2.5877
 Daresury Park Hotel & Spa,WA4 4BB,53.3309,-2.6434
 Hatton Arms Limited,WA4 4DB,53.3372,-2.6022
 chetwode arms,WA4 4EN,53.3059,-2.5800
+Costa Coffee,WA4 4EZ,53.2922,-2.5925
 LETS EAT CAFE,WA4 4EZ,53.2931,-2.5930
 The Partridge Stretton,WA4 4LX,53.3334,-2.5751
 The Park Royal Hotel,WA4 4NS,53.3399,-2.5710
@@ -137,7 +135,7 @@ Forest Hills Hotel,WA6 6HH,53.2868,-2.7255
 DELAMERE FORTUNE PALACE,WA6 6PB,53.2427,-2.6662
 Helter Skelter,WA6 6PN,53.2948,-2.7243
 Costa Coffee - Frodsham,WA6 6QL,53.2950,-2.7251
-Costa Coffee,WA6 6QL,53.2950,-2.7251
+Costa Coffee,WA6 6QL,53.2950,-2.7250
 Subway,WA6 6QS,53.2939,-2.7240
 Brew and Tucker Ltd,WA6 6QW,53.2945,-2.7245
 THE VINTAGE TEAROOM FAMILY ROOM AND BAR LTD,WA6 6SU,53.2762,-2.6975
@@ -152,6 +150,8 @@ The Red Bull Inn,WA6 8AN,53.2680,-2.6730
 The White Lion,WA6 9DD,53.2603,-2.7543
 Tandoori Night ,WA7 1AP,53.3417,-2.7307
 Tekosta Caffe & Pizza Ltd,WA7 1LD,53.3427,-2.7336
+The Ferry Boat Runcorn (Wetherspoon),WA7 1LR,53.3422,-2.7316
+Costa Coffee,WA7 1LX,53.3422,-2.7322
 Costa Coffee,WA7 1LX,53.3423,-2.7327
 Devonshire Bakery ,WA7 1LX,53.3422,-2.7326
 The Norton Arms,WA7 2AD,53.3346,-2.6955
@@ -160,19 +160,17 @@ The Straw Hat,WA7 2EU,53.3273,-2.6977
 Tropicana ,WA7 2EU,53.3273,-2.6977
 Dizzy Dragons Sigtplay Ltd,WA7 2FQ,53.3263,-2.7003
 Full House Bingo Ltd,WA7 2FQ,53.3262,-2.7000
-Pizza Hut Restaurant,WA7 2FQ,53.3262,-2.7000
 Subway Halton Lea,WA7 2FQ,53.3263,-2.7003
-Costa Coffee,WA7 2GX,53.3277,-2.6985
+Costa Coffee,WA7 2GX,53.3270,-2.6982
 FJS RESTAURANT,WA7 2GY,53.3278,-2.6971
 KFC,WA7 2HQ,53.3214,-2.6976
-McDonalds,WA7 2PY,53.3292,-2.7012
-Burger King,WA7 2XP,53.3302,-2.7002
+KFC,WA7 2HQ,53.3255,-2.6968
+McDonald's,WA7 2PE,53.3279,-2.7008
+Beefeater Preston Brook,WA7 3BB,53.3146,-2.6642
 The Bake House,WA7 4PR,53.3331,-2.7400
 Espositos Deli,WA7 4PT,53.3308,-2.7394
 Hope Corner,WA7 4TD,53.3222,-2.7236
-Starbucks,WA7 5AQ,53.3393,-2.7318
 Campanile Runcorn,WA7 5TP,53.3393,-2.7374
-Costa Coffee Drive Thru,WA7 5TW,53.3396,-2.7301
 Subway,WA7 6SA,53.3293,-2.6696
 mersey hotel,WA8 0DT,53.3490,-2.7351
 Chi Nar Garden,WA8 8WN,53.3496,-2.7746

@@ -1,7 +1,6 @@
 name,postcode,lat,lon
 The Berkeley Arms  Wymondham ,LE14 2AG,52.7603,-0.7398
 Wymondham Windmill Tearooms,LE14 2BU,52.7626,-0.7404
-Wilson Vale Catering Management at Lands End,LE15 6US,52.6805,-0.7340
 Oakham Co-op Food Store,LE15 7AA,52.6794,-0.7129
 The sun inn,LE15 7DH,52.7121,-0.6659
 The Plough,LE15 7NJ,52.7193,-0.6290
@@ -10,6 +9,7 @@ The Potting Shed Cafe,LE15 7QN,52.6993,-0.7190
 Jackson Stops Country Inn,LE15 7RA,52.7317,-0.5963
 The Olive Branch,LE15 7SH,52.7342,-0.5650
 Barnsdale Gardens,LE15 8AH,52.6846,-0.6532
+Brewers Fayre The Farrier,NG31 7JT,52.8968,-0.6646
 The Gregory Arms,NG32 1AD,52.8880,-0.6876
 The Green Man,NG33 4BE,52.8961,-0.5233
 Lily's Lavender Hut,NG33 4NH,52.8132,-0.5195
@@ -21,11 +21,9 @@ Fox & Hounds ,NG33 4RZ,52.7545,-0.5380
 Stoke Rochford Hall,NG33 5EJ,52.8419,-0.6379
 Stoke Rochford Catering,NG33 5EW,52.8389,-0.6302
 CM Restaurants (Holdings) Ltd,NG33 5FF,52.8305,-0.7001
-McDonalds,NG33 5FF,52.8305,-0.7001
+McDonald's,NG33 5FF,52.8052,-0.6111
 Cross Swords Inn,NG33 5HB,52.8215,-0.6681
-Burger King,NG33 5JN,52.8035,-0.6077
 OK Diner OK Diner New Fox,NG33 5LN,52.7657,-0.6106
-Starbucks,NG33 5LN,52.7650,-0.6101
 The White Lion,NG33 5NE,52.8072,-0.6205
 The Angel inn,NG33 5PJ,52.7645,-0.6277
 The Blue Cow Inn,NG33 5QB,52.7624,-0.6281
@@ -36,8 +34,10 @@ The New Inn,NG34 0SW,52.8891,-0.4123
 The Wishing Well Inn,PE10 0AF,52.7890,-0.3643
 The Horseshoe,PE10 0EL,52.7364,-0.3679
 MCDONALDS,PE10 0ET,52.7546,-0.3692
+McDonald's,PE10 0ET,52.7546,-0.3691
 The Six Bells,PE10 0JH,52.7358,-0.4415
 China Hand Lincs Ltd,PE10 9AB,52.7696,-0.3767
+Costa Coffee,PE10 9AB,52.7685,-0.3771
 Costa Coffee,PE10 9AB,52.7696,-0.3767
 Jubilee Garage,PE10 9AB,52.7696,-0.3767
 Cafe 35,PE10 9AE,52.7691,-0.3775
@@ -45,7 +45,6 @@ Galaxy91 Limited,PE10 9AE,52.7691,-0.3775
 Smiths of Bourne,PE10 9AE,52.7691,-0.3775
 The Beanbag (bourne) ltd trading as The Angel Hotel,PE10 9AE,52.7691,-0.3775
 Wild Heart Cafe,PE10 9AE,52.7691,-0.3775
-Bourne Leisure Centre,PE10 9DX,52.7737,-0.3729
 Dont Lose Hope Cafe,PE10 9EA,52.7683,-0.3767
 Ginger Fox Cafe,PE10 9EF,52.7678,-0.3760
 The Nags Head,PE10 9EF,52.7678,-0.3760

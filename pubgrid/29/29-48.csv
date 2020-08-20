@@ -3,6 +3,7 @@ At The Chapel,BA10 0AE,51.1118,-2.4548
 The Sun Inn,BA10 0AH,51.1120,-2.4550
 Roth Bar & Grill Limited,BA10 0NL,51.1098,-2.4489
 On The Brook,BA10 0QP,51.1172,-2.4555
+Costa Coffee,BA11 1AD,51.2316,-2.3211
 Fat Radish,BA11 1AN,51.2313,-2.3209
 Subway ,BA11 1AN,51.2314,-2.3208
 The River House,BA11 1AR,51.2320,-2.3203
@@ -10,7 +11,6 @@ Black Swan Cafe,BA11 1BB,51.2331,-2.3195
 Loop de Loop ,BA11 1BE,51.2336,-2.3201
 Archangel,BA11 1BH,51.2308,-2.3207
 Nook,BA11 1BH,51.2305,-2.3204
-Coffee#1,BA11 1BS,51.2320,-2.3216
 Eight Stony Street,BA11 1BU,51.2309,-2.3224
 the garden cafe,BA11 1BU,51.2310,-2.3222
 23 Bath St Ltd,BA11 1DJ,51.2306,-2.3218
@@ -22,6 +22,7 @@ The Artisan Frome,BA11 1EQ,51.2304,-2.3262
 Alfreds Bread ,BA11 1RE,51.2267,-2.3110
 Hesperian Fish,BA11 1RE,51.2267,-2.3110
 Station Approach,BA11 1RE,51.2268,-2.3106
+Beefeater Frome Flyer,BA11 2LD,51.2447,-2.2907
 Oldford spice kitchen ltd t/s jay’s Kitchen ,BA11 2ND,51.2499,-2.3081
 The Bell,BA11 2PR,51.2550,-2.2623
 The Standerwick Centre,BA11 2QB,51.2516,-2.2576
@@ -32,7 +33,7 @@ The Talbot Inn,BA11 3PN,51.2413,-2.3911
 Babington House,BA11 3RW,51.2579,-2.4251
 KFC,BA11 4DH,51.2171,-2.3320
 McDonald's Restaurant,BA11 4DH,51.2171,-2.3320
-Pizza Hut Restaurant,BA11 4DH,51.2171,-2.3320
+McDonald's,BA11 4DH,51.2163,-2.3323
 Tool & Gauge ,BA11 4FN,51.2200,-2.3231
 Field 725 Cafe,BA11 4LJ,51.2248,-2.3519
 The George Inn,BA11 4LW,51.2096,-2.3780
@@ -40,19 +41,15 @@ Cafe Nouveau ,BA11 5BW,51.2055,-2.3315
 The White Hart Inn,BA11 5DP,51.1933,-2.3638
 Corsham Pub Company Ltd,BA11 6AG,51.2895,-2.2911
 The Cross Keys Rode,BA11 6NZ,51.2829,-2.2836
-Starbucks,BA11 6SF,51.2693,-2.2844
 Mes Amis CafeDeli,BA11 6SW,51.2660,-2.2869
 LA CAMPAGNA WARMINSTER LTD,BA12 0AG,51.2297,-2.1930
 FUNWAYS,BA12 0DF,51.2098,-2.1587
-Starbucks,BA12 6AQ,51.1014,-2.1859
 Spread Eagle Inn,BA12 6QE,51.1048,-2.3215
 The George Inn,BA12 7DG,51.1668,-2.1915
 The Bath Arms,BA12 7LY,51.1740,-2.2737
 Longleat Safari and Adventure Park,BA12 7NW,51.1866,-2.2775
 The Cross Keys Corsley,BA12 7PB,51.2165,-2.2583
 Royal Oak Corsley ,BA12 7PR,51.2075,-2.2596
-Burger King,BA12 7RU,51.2179,-2.2000
-Moto Hospitality,BA12 7RU,51.2179,-2.2000
 The Garden Room Coffee Shop,BA12 8AP,51.1803,-2.1923
 The Weymouth Arms,BA12 8JA,51.2049,-2.1870
 The Cockinn ,BA12 8JZ,51.2034,-2.1966
@@ -62,6 +59,8 @@ Maya Indian cuisine,BA12 8QB,51.2056,-2.1847
 Nagas the spice minister,BA12 8QH,51.2088,-2.1807
 Le cafe journal,BA12 9AE,51.2052,-2.1819
 The Old Fire Station,BA12 9AL,51.2058,-2.1824
+Costa Coffee,BA12 9AY,51.2049,-2.1807
+The Bath Arms Warminster (Wetherspoon),BA12 9AZ,51.2048,-2.1801
 Castello,BA12 9BA,51.2050,-2.1808
 AGRA RESTAURANT,BA12 9BN,51.2040,-2.1781
 The Masons Arms Warminster,BA12 9BN,51.2040,-2.1781
@@ -79,30 +78,26 @@ Fairwood Lakes Holiday Park Ltd,BA13 4EL,51.2619,-2.2210
 Ben's Catering,BA13 4JT,51.2760,-2.2034
 players club,BA13 4JT,51.2761,-2.2036
 The Royal Oak Hawkeridge Limited,BA13 4LA,51.2822,-2.1989
-Costa Coffee,BA14 0AZ,51.3040,-2.2092
-KFC,BA14 0AZ,51.3040,-2.2092
 McDonald's Restaurant,BA14 0AZ,51.3040,-2.2092
-McDonalds Restaurants Ltd,BA14 0AZ,51.3040,-2.2092
+McDonald's,BA14 0AZ,51.3032,-2.2094
 THE BAYTREE CAFE TROWBRIDGE LIMITED,BA14 0DT,51.3092,-2.2248
+Costa Coffee,BA14 0RQ,51.3026,-2.2090
 KFC Trowbridge Bradley Road,BA14 0RQ,51.3051,-2.2100
+KFC,BA14 0RQ,51.3023,-2.2088
 The Rising Sun North Bradley Ltd,BA14 0SB,51.2981,-2.2075
-Elior UK,BA14 0XB,51.3022,-2.1992
 The Longs Arms  Steeple Ashton,BA14 6EU,51.3097,-2.1344
+Thyme,BA14 8AH,51.3187,-2.2070
 The Kings Arms,BA14 8AN,51.3207,-2.2085
+The Albany Palace Trowbridge (Wetherspoon),BA14 8AQ,51.3200,-2.2064
 Boswells Cafe,BA14 8AT,51.3204,-2.2091
 Tale Of Spice,BA14 8AU,51.3194,-2.2077
 Trowbridge Sports Bar,BA14 8AY,51.3188,-2.2074
 Leykers Coffee Central,BA14 8BY,51.3207,-2.2068
 Free Range Cafe,BA14 8EQ,51.3202,-2.2069
-Costa Coffee,BA14 8ER,51.3210,-2.2079
-Starbucks,BA14 8ES,51.3213,-2.2076
+Costa Coffee,BA14 8ER,51.3210,-2.2078
 Namaste Trowbridge,BA14 8HA,51.3212,-2.2087
 Little Earth,BA14 8HQ,51.3215,-2.2099
-Elior UK Ltd,BA14 8JN,51.3172,-2.2107
 LITTLE DESSERT SHOP TROWBRIDGE,BA14 8TQ,51.3180,-2.2069
-Nandos,BA14 8TQ,51.3180,-2.2068
-Prezzo,BA14 8TQ,51.3180,-2.2068
-Wagamama Ltd,BA14 8TQ,51.3180,-2.2068
 THE POPLARS,BA14 9LN,51.3103,-2.2587
 Hope Nature Centre Animal Park & Cafe,BA14 9QD,51.2998,-2.2310
 The Farmhouse Inn Southwick ,BA14 9QD,51.2999,-2.2310
@@ -113,7 +108,9 @@ The Meeting Place Coffee Shop,BA2 8DH,51.3150,-2.4286
 Spice Lounge Indian restaurant ,BA2 8DL,51.3155,-2.4280
 Waggon and Horses,BA2 8DL,51.3155,-2.4279
 Jacarandas Limited,BA3 2DA,51.2860,-2.4812
+The Palladium Electric Midsomer Norton (Wetherspoon),BA3 2DA,51.2861,-2.4807
 Costa Coffee,BA3 2DT,51.2863,-2.4825
+Costa Coffee,BA3 2DT,51.2865,-2.4826
 The Greek Grill ,BA3 2HQ,51.2853,-2.4834
 Longfellow's Cafe,BA3 3AL,51.2832,-2.4719
 Subway ,BA3 3PT,51.2921,-2.4461

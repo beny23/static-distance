@@ -1,19 +1,19 @@
 name,postcode,lat,lon
 Holiday Inn Coventry,CV2 2HP,52.4309,-1.4352
-Buzz Bingo,CV2 2QQ,52.4283,-1.4334
-Coventry Tenpin,CV2 2SH,52.4330,-1.4314
 KFC CROSS POINT,CV2 2SH,52.4330,-1.4314
-KFC,CV2 2SH,52.4330,-1.4314
+Brewers Fayre Cross Point,CV2 2SZ,52.4348,-1.4295
 Costa Coventry,CV2 2SZ,52.4347,-1.4292
-Nando's,CV2 2SZ,52.4347,-1.4293
-Pizza Hut Restaurant,CV2 2SZ,52.4347,-1.4293
+Nando's,CV2 2SZ,52.4357,-1.4291
+Breakfast Room,CV21 1HL,52.3905,-1.2556
 Barley Mow,CV21 1HW,52.3911,-1.2830
-Costa Coffee,CV21 1RW,52.3852,-1.2592
+Costa Coffee,CV21 1RG,52.3874,-1.2566
+Costa Coffee,CV21 1RW,52.3853,-1.2606
 KFC - Junction One Retail Pk Rugby,CV21 1RW,52.3852,-1.2604
-KFC Drive Thru,CV21 1RW,52.3852,-1.2592
 McDonald's Restaurant,CV21 1RW,52.3852,-1.2592
+McDonald's,CV21 1RW,52.3857,-1.2611
 Subway Junction 1 Retail Park,CV21 1RW,52.3852,-1.2589
-Nando's,CV21 1SR,52.3883,-1.2605
+Costa Coffee,CV21 1SR,52.3888,-1.2589
+Nando's,CV21 1SR,52.3880,-1.2588
 starbucks,CV21 1SR,52.3886,-1.2599
 Pepe's Piri Piri,CV21 2AF,52.3743,-1.2631
 The Distillery Rugby,CV21 2AL,52.3735,-1.2622
@@ -22,25 +22,23 @@ subway lawford,CV21 2HX,52.3737,-1.2776
 Central Cafe,CV21 2JR,52.3732,-1.2632
 FRESH IN FOOD LTD,CV21 2JR,52.3732,-1.2632
 Pizza Hut,CV21 2PE,52.3737,-1.2612
-Prezzo,CV21 2QF,52.3734,-1.2608
 On the Rocks,CV21 2RS,52.3733,-1.2597
 quigleys,CV21 2RS,52.3733,-1.2597
 Maharajah Tandoori Restaurant,CV21 2SG,52.3746,-1.2595
+Rupert Brooke Rugby (Wetherspoon),CV21 2TP,52.3729,-1.2593
 Tameras kitchen ,CV21 2TP,52.3732,-1.2593
 Hill murry restaurant and takeaway ,CV21 3AT,52.3714,-1.2611
 La Casa Loco,CV21 3AW,52.3714,-1.2619
-Costa Coffee,CV21 3BG,52.3713,-1.2625
 Maia Gelato ,CV21 3BG,52.3713,-1.2625
-Pizza Express,CV21 3BG,52.3713,-1.2625
 Yum Yum World Limited,CV21 3BG,52.3713,-1.2626
 Professional Thai Food,CV21 3BU,52.3715,-1.2631
 Lawrence Sheriff,CV21 3BW,52.3714,-1.2630
 Treacle’s Kitchen ,CV21 3BX,52.3718,-1.2634
 Kuni Coffee,CV21 3DY,52.3726,-1.2621
 McDonald's Restaurant,CV21 3DY,52.3724,-1.2622
-McDonalds,CV21 3DY,52.3724,-1.2622
-Caffe Nero,CV21 3EA,52.3727,-1.2620
+McDonald's,CV21 3DY,52.3723,-1.2624
 Costa Coffee,CV21 3EB,52.3727,-1.2631
+Costa Coffee,CV21 3EB,52.3728,-1.2635
 Kaspas Desserts,CV21 3EB,52.3723,-1.2636
 LIBERTINE BURGER (RUGBY)  ,CV21 3EB,52.3725,-1.2634
 LIBERTINE BURGER (RUGBY) LIMITED,CV21 3EB,52.3725,-1.2634
@@ -49,7 +47,6 @@ Bombay Tandoori,CV21 3PT,52.3726,-1.2604
 TITASH INDIAN AND BANGLADESHI CUISINE LIMITED,CV21 3PT,52.3726,-1.2604
 Dosa village rugby,CV21 3PU,52.3725,-1.2589
 FRESH IN FOOD LTD,CV21 3PY,52.3722,-1.2568
-Butlers Leap Marstons PLC,CV21 3TX,52.3772,-1.2378
 The Stag and Pheasant,CV21 4BW,52.3612,-1.2166
 Bell inn,CV21 4HD,52.3582,-1.2151
 Exotica Bengal Cuisine,CV21 4NU,52.3606,-1.2115
@@ -70,7 +67,7 @@ The Bulls Head ,CV23 0NE,52.4106,-1.3653
 the bulls head brinklow,CV23 0NE,52.4106,-1.3653
 Rebecca's Kitchen ,CV23 0PE,52.4291,-1.3371
 FRESH IN FOOD LTD,CV23 0UX,52.4018,-1.2452
-Baxterstorey Ltd -Amazon BHX5,CV23 0XF,52.4044,-1.2481
+Brewers Fayre Central Park,CV23 0WE,52.4021,-1.2456
 The Tuning Fork Cafe Ltd,CV23 1AF,52.3574,-1.1850
 Waterside Restaurant,CV23 8AB,52.3186,-1.3162
 The Old Olive Bush ,CV23 8AT,52.2671,-1.2456
@@ -81,10 +78,12 @@ The Red Lion Kilsby,CV23 8XP,52.3359,-1.1804
 OLD SMITHY,CV23 9EF,52.3834,-1.3401
 Draycote Hotel,CV23 9LF,52.3412,-1.3303
 McDonald's Restaurant,CV23 9LG,52.3444,-1.3407
+McDonald's,CV23 9LG,52.3444,-1.3407
 Friendly Inn,CV23 9NY,52.3295,-1.3763
 The Essence Of India,CV23 9RH,52.3181,-1.4030
 Coombe Abbey Hotel,CV3 2AB,52.4121,-1.4091
-TGI Fridays,CV3 2TA,52.3967,-1.4325
+Breakfast Room,CV3 2TA,52.3970,-1.4317
+Costa Coffee,CV3 2XA,52.3974,-1.4331
 hillbillys grill shack at the plough ltd ,CV33 9DQ,52.3176,-1.4249
 The Bowling Green Inn,CV47 0EP,52.2542,-1.3875
 carls kitchen at tithe ltd,CV47 0JJ,52.2538,-1.3893
@@ -96,7 +95,7 @@ The Duck On The Pond,CV47 9QJ,52.2845,-1.3918
 The Long Itch Diner,CV47 9QZ,52.2776,-1.3896
 The Rose And Castle,CV7 9HZ,52.4471,-1.4141
 Nettle Hill Ltd,CV7 9JL,52.4396,-1.3923
-Sparrow Brewers Fayre  C/O Whitbread,CV7 9JP,52.4332,-1.3980
+Brewers Fayre The Sparrow,CV7 9JP,52.4337,-1.3987
 blacksmiths arms public house,CV8 3EY,52.3656,-1.4340
 Mercure Brandon Hall Hotel,CV8 3FW,52.3831,-1.4063
 Brandon Wood Golf Course & Club,CV8 3GQ,52.3826,-1.4186
@@ -108,7 +107,6 @@ The Chequers,LE17 6BL,52.4103,-1.1632
 Manor Farm shop and Farmhouse Kitchen,LE17 6DB,52.3982,-1.1894
 The White Hart,LE17 6DN,52.4305,-1.1122
 The White Lion,LE17 6EP,52.4465,-1.0937
-Elior @ Daventry Hill School,NN11 0QE,52.2631,-1.1641
 Reservoir Cafe,NN11 2JB,52.2729,-1.1548
 The White Horse,NN11 2JP,52.2902,-1.1487
 canalside restaurant,NN11 2NH,52.2757,-1.0971
@@ -118,13 +116,14 @@ Roso Cafe ,NN11 4AA,52.2575,-1.1639
 Asia tandoori ,NN11 4AJ,52.2564,-1.1669
 DAVENTRY CONSERVATIVE CLUB LTD,NN11 4BQ,52.2578,-1.1626
 COSTA COFFEE,NN11 4DR,52.2573,-1.1616
+Costa Coffee,NN11 4DR,52.2572,-1.1620
 KITCHEN,NN11 4DR,52.2576,-1.1614
 Kuni Coffee,NN11 4DR,52.2576,-1.1609
 A & N uk trading ltd,NN11 4EA,52.2502,-1.1579
 Eat! Eat!  ,NN11 4FG,52.2594,-1.1608
 McDonald's Restaurant,NN11 4GD,52.2580,-1.1568
-JD Wetherspoon,NN11 4GG,52.2577,-1.1648
-Everyone Active,NN11 4GP,52.2596,-1.1597
+McDonald's,NN11 4GD,52.2585,-1.1563
+The Saracens Head Inn Daventry (Wetherspoon),NN11 4GG,52.2577,-1.1645
 Abdul's Indian Restaurant,NN11 4HU,52.2580,-1.1628
 Abduls Indian Restaurant ,NN11 4HU,52.2580,-1.1628
 The Aroma Lounge,NN11 4HU,52.2578,-1.1641
@@ -134,7 +133,6 @@ The Foundry artisan cafe deli,NN11 4RH,52.2574,-1.1630
 The Countryman,NN11 6JH,52.2462,-1.2103
 Skylark Farm Cafe,NN11 6JY,52.2461,-1.2197
 THE ADMIRAL NELSON,NN11 7HJ,52.2894,-1.1997
-CH&Co @ JDW,NN11 8NF,52.2728,-1.1829
 the wharf inn,NN6 6JQ,52.4226,-1.0540
 The Pytchley Inn,NN6 7AP,52.3409,-1.0753
 Voujon,NN6 7QH,52.3038,-1.0811
@@ -145,9 +143,7 @@ Crick Wharf,NN6 7SQ,52.3478,-1.1231
 INDIAN LODGE,NN6 7TP,52.3484,-1.1382
 The Wheatsheaf ,NN6 7TU,52.3473,-1.1356
 THE RED LION,NN6 7TX,52.3469,-1.1358
-Costa Coffee,NN6 7UZ,52.3056,-1.1222
-Costa Coffee,NN6 7UZ,52.3063,-1.1232
-Mcdonalds Restaurants Ltd,NN6 7UZ,52.3056,-1.1222
+Costa Coffee,NN6 7UZ,52.3074,-1.1206
 The Saracens Head ,NN7 4HS,52.2678,-1.0340
 DARLINGTONS,NN7 4LB,52.2595,-1.0929
 Re,NN7 4LE,52.2376,-1.0560

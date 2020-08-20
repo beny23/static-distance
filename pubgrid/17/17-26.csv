@@ -1,14 +1,16 @@
 name,postcode,lat,lon
-KFC Camborne,TR14 0BJ,50.2247,-5.2802
 cygnets restaurant,TR14 0HH,50.2440,-5.2907
 Fu Yuan Chinese Buffet,TR14 7JU,50.2138,-5.3032
+Table Table Trevithick Inn,TR14 7NF,50.2164,-5.3179
 A&K Cornish pastries,TR14 8AD,50.2142,-5.2986
+Costa Coffee,TR14 8AF,50.2140,-5.2976
 Costa Coffee,TR14 8AF,50.2142,-5.2972
 scallywags cafe and coffee shop,TR14 8AF,50.2141,-5.2973
 wilsons cafe and takeaway ltd,TR14 8AH,50.2144,-5.2958
-Costa Coffee,TR14 8AU,50.2137,-5.2975
 Apollo Bingo Camborne,TR14 8ED,50.2131,-5.2994
+The John Francis Basset Camborne (Wetherspoon),TR14 8JZ,50.2136,-5.3010
 The Tyacks Hotel,TR14 8LD,50.2139,-5.3007
+KFC,TR14 8NQ,50.2257,-5.2786
 Lowenac Hotel,TR14 8SL,50.2109,-5.3008
 Sultanz,TR14 8SW,50.2116,-5.2992
 The Croust Hut,TR14 9HW,50.2032,-5.2745
@@ -23,6 +25,7 @@ The Meadery Company Ltd,TR15 2QE,50.2305,-5.2251
 Subway ,TR15 3ET,50.2252,-5.2770
 Sanders Fish and Chips,TR15 3NE,50.2289,-5.2597
 The Plume of Feathers,TR15 3PF,50.2274,-5.2696
+McDonald's,TR15 3PL,50.2258,-5.2768
 McDonalds,TR15 3PL,50.2273,-5.2716
 Rollers Roller Rink,TR15 3RH,50.2274,-5.2585
 Tricky's at The Tolgus Inn,TR15 3TA,50.2400,-5.2480
@@ -50,7 +53,6 @@ The Countryman,TR16 6SG,50.2127,-5.2534
 Beer and Bird,TR26 1AB,50.2132,-5.4803
 Firehouse Bar & Grill,TR26 1AB,50.2132,-5.4803
 The Castle Inn,TR26 1AB,50.2132,-5.4803
-The Cornish Bakery,TR26 1AB,50.2132,-5.4803
 Bier Huis Grand Cafe,TR26 1AH,50.2120,-5.4796
 Coasters tea shop,TR26 1AH,50.2120,-5.4796
 Peppers  Pasta & Pizzeria,TR26 1HE,50.2141,-5.4803
@@ -61,7 +63,6 @@ Alfresco - Beach Cafe Bar,TR26 1LF,50.2136,-5.4800
 Harbour Fish & Chips,TR26 1LF,50.2136,-5.4800
 Hub St Ives,TR26 1LF,50.2136,-5.4800
 Lifeboat Inn,TR26 1LF,50.2136,-5.4800
-Pizza Express,TR26 1LF,50.2136,-5.4800
 Talay Thai,TR26 1LF,50.2136,-5.4800
 The Harbour Seafood Restaurant ,TR26 1LF,50.2134,-5.4800
 Beach Restaurant,TR26 1LG,50.2144,-5.4801
@@ -72,6 +73,7 @@ The Sloop Inn,TR26 1LP,50.2151,-5.4792
 Porthgwidden Beach Services,TR26 1PL,50.2168,-5.4773
 Caffe Pasta,TR26 1PZ,50.2153,-5.4786
 The Queens Hotel,TR26 1RR,50.2124,-5.4809
+The Hain Line St Ives (Wetherspoon),TR26 1SB,50.2115,-5.4807
 Curry garden ,TR26 1SF,50.2111,-5.4807
 Tate St Ives,TR26 1TG,50.2148,-5.4825
 St Ives Harbour Hotel,TR26 2BN,50.2081,-5.4781
@@ -91,7 +93,6 @@ The Red Lion ,TR4 8EU,50.2698,-5.1808
 Cabana Kitchen Cafe,TR4 8HL,50.2764,-5.2352
 Chiverton Arms,TR4 8HS,50.2794,-5.1657
 Rowes Bakery,TR4 8HS,50.2794,-5.1657
-Starbucks - Amsric,TR4 8HS,50.2794,-5.1657
 Starbucks Chiverton Cross,TR4 8HS,50.2794,-5.1657
 The Beacon Country House Hotel,TR5 0NW,50.3050,-5.2156
 Granny dawns tea room ,TR5 0PD,50.2981,-5.2005
@@ -120,4 +121,5 @@ Stepping Stones Cafe,TR6 0EW,50.3443,-5.1542
 the summer house,TR6 0FJ,50.3472,-5.1531
 The Residence at Bolenna,TR6 0HT,50.3420,-5.1561
 Willow Bistro Ltd,TR6 0JL,50.3452,-5.1549
+The Green Parrot Perranporth (Wetherspoon),TR6 0JP,50.3443,-5.1560
 Delmar Restaurant,TR6 0JR,50.3441,-5.1553

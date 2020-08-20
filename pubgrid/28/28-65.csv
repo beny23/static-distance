@@ -1,14 +1,15 @@
 name,postcode,lat,lon
 Everest Spice ,RH1 1HT,51.2389,-0.1717
 FAST FOOD LDN LTD,RH1 1LY,51.2410,-0.1683
-Prezzo,RH1 1NJ,51.2423,-0.1680
+The Sun Redhill (Wetherspoon),RH1 1LY,51.2414,-0.1683
+McDonald's,RH1 1NT,51.2404,-0.1672
 McDonalds,RH1 1NT,51.2405,-0.1672
 A&S Catering Ltd/ Supreme Fish,RH1 1PD,51.2402,-0.1677
 Costa Coffee Redhill,RH1 1PH,51.2403,-0.1690
-Costa Coffee,RH1 1PH,51.2403,-0.1690
+Costa Coffee,RH1 1PH,51.2404,-0.1686
 Rodis,RH1 1QH,51.2407,-0.1691
 THE JUNCTION,RH1 1RD,51.2395,-0.1689
-KFC,RH1 1RX,51.2386,-0.1692
+KFC,RH1 1RX,51.2384,-0.1690
 Muffin Break,RH1 1SA,51.2395,-0.1695
 The Coffee Cup,RH1 1SA,51.2396,-0.1695
 Wacky Kingdom,RH1 1SE,51.2398,-0.1698
@@ -19,8 +20,9 @@ IOTP LTD (INN ON THE POND),RH1 4EU,51.2496,-0.1353
 Nutfield site,RH1 4HY,51.2295,-0.1201
 Red Lion,RH1 4NU,51.2407,-0.1064
 The Bletchingley Arms,RH1 4PE,51.2407,-0.0984
-McDonalds Restaurants Ltd,RH1 5AA,51.2137,-0.1705
+McDonald's,RH1 5AA,51.2129,-0.1707
 McDonalds,RH1 5AA,51.2137,-0.1705
+Beefeater Mill House,RH1 5BT,51.2056,-0.1670
 The Pilots Hub Ltd - Aerospace Resources Ltd,RH1 5JY,51.2176,-0.1439
 THE OUTWOOD DOG AND DUCK LTD,RH1 5QU,51.2005,-0.1228
 THE COFFEE HOUSE,RH1 5RH,51.2192,-0.1620
@@ -34,6 +36,7 @@ Brewery Shades,RH10 1BA,51.1159,-0.1897
 Subway,RH10 1BA,51.1159,-0.1897
 Tamasha Crawley,RH10 1BA,51.1159,-0.1896
 Tamasha Restaurant Limited,RH10 1BA,51.1159,-0.1896
+The Jubilee Oak Crawley (Wetherspoon),RH10 1BA,51.1154,-0.1904
 Taormina restaurant,RH10 1BH,51.1131,-0.1904
 Taormina,RH10 1BH,51.1131,-0.1904
 Mo Lin Chinese Restaurant,RH10 1BJ,51.1128,-0.1909
@@ -41,39 +44,31 @@ TAJ MAHAL RESTAURANT,RH10 1BJ,51.1128,-0.1909
 Lemongrass,RH10 1BN,51.1133,-0.1908
 Blue India,RH10 1BQ,51.1144,-0.1901
 The White Hart,RH10 1BQ,51.1144,-0.1901
-Wildwood,RH10 1BQ,51.1144,-0.1901
-Prezzo,RH10 1BT,51.1147,-0.1909
 Royal Thai Taste,RH10 1BT,51.1150,-0.1905
 reds piri piri,RH10 1BU,51.1153,-0.1906
 Crow Coffee,RH10 1BW,51.1144,-0.1907
 Sage,RH10 1BW,51.1141,-0.1907
 KFC,RH10 1BZ,51.1162,-0.1902
-Turtle Bay,RH10 1BZ,51.1162,-0.1902
 creams cafe ,RH10 1BZ,51.1162,-0.1902
-BaxterStorey At RBS Crawley,RH10 1DH,51.1182,-0.1888
+Costa Coffee,RH10 1DE,51.1154,-0.1873
 FATBOY'S JOINT LTD,RH10 1DS,51.1160,-0.1885
-Starbucks,RH10 1DY,51.1158,-0.1873
-Buzz Bingo,RH10 1EB,51.1158,-0.1859
 Love Bean Cafe,RH10 1EF,51.1160,-0.1856
-Caffe Nero,RH10 1ER,51.1148,-0.1864
-Pret A Manger,RH10 1ES,51.1145,-0.1868
-BB's Bakers + Baristas,RH10 1FF,51.1136,-0.1856
-Burger King,RH10 1FF,51.1136,-0.1856
+Pret A Manger,RH10 1ES,51.1142,-0.1867
 Cafe Giardino - Crawley 2,RH10 1FF,51.1136,-0.1856
+Costa Coffee,RH10 1FF,51.1137,-0.1867
 Italian Kitchen - Crawley,RH10 1FF,51.1136,-0.1856
+Costa Coffee,RH10 1FG,51.1135,-0.1833
 Burger King,RH10 1FP,51.1135,-0.1853
 Subway,RH10 1FP,51.1135,-0.1853
-McDonalds,RH10 1HS,51.1142,-0.1878
+Costa Coffee,RH10 1GY,51.1238,-0.1632
+McDonald's,RH10 1HS,51.1141,-0.1871
 McDonald’s Restaurant,RH10 1HS,51.1142,-0.1878
 Pizza Hut,RH10 1NP,51.1203,-0.1621
 Bengal Spices,RH10 1QA,51.1177,-0.1726
-Elior At EDF,RH10 1QQ,51.1203,-0.1621
 Crawley Wimpy Bar,RH10 1XP,51.1162,-0.1872
 Pizza Hut,RH10 1XP,51.1162,-0.1872
 Subway The Boulevard,RH10 1XP,51.1162,-0.1872
-Pizza Express,RH10 1XX,51.1164,-0.1889
 Apple Green,RH10 2NF,51.1224,-0.1911
-Greggs At Apple Green Service Station,RH10 2NF,51.1224,-0.1911
 Elior At Lanehurst Care Home,RH10 3AD,51.1233,-0.1546
 Real barbecue and bar,RH10 3BA,51.1274,-0.1553
 Tavern on The Green,RH10 3BA,51.1274,-0.1553
@@ -104,32 +99,25 @@ Charcoal Burner ,RH10 6NY,51.1069,-0.1687
 Hawth Theatre,RH10 6YZ,51.1116,-0.1745
 Europa Gatwick Hotel,RH10 7ZR,51.1056,-0.1446
 EFES BBQ BAR AND RESTAURANT NORTHGATE,RH10 8DS,51.1208,-0.1820
-Hollywood Bowl,RH10 8LR,51.1202,-0.1897
-McDonalds,RH10 8LR,51.1202,-0.1897
+McDonald's,RH10 8LR,51.1205,-0.1889
 McDonald’s Restaurant,RH10 8LR,51.1202,-0.1897
-Nando's,RH10 8LR,51.1202,-0.1897
-Pizza Hut Restaurant,RH10 8LR,51.1202,-0.1897
-Starbucks At Cineworld,RH10 8LR,51.1202,-0.1897
+Nando's,RH10 8LR,51.1202,-0.1894
 Subway Leisure Park,RH10 8LR,51.1202,-0.1897
-McDonalds Drive Thru,RH10 8NF,51.1235,-0.1931
+McDonald's,RH10 8NF,51.1237,-0.1918
 McDonald’s Restaurant,RH10 8NF,51.1235,-0.1931
 Shark Club London Gatwick,RH10 8XH,51.1265,-0.1676
-BaxterStorey At Virgin HQ,RH10 9AD,51.1322,-0.1823
-Benugo Ltd At Virgin VHQ,RH10 9AD,51.1322,-0.1823
-BaxterStorey At CAE Training And Services,RH10 9DP,51.1357,-0.1747
+Thyme,RH10 9DF,51.1343,-0.1816
 Hotel ibis London Gatwick Airport,RH10 9GY,51.1368,-0.1854
 Charlies Deli And Coffee House,RH10 9RD,51.1376,-0.1656
 Gatwick Poppin Cafe,RH10 9RD,51.1376,-0.1656
 Subway,RH10 9RD,51.1376,-0.1653
-BaxterStorey At CAE Gatwick,RH10 9UH,51.1354,-0.1834
-BaxterStorey At Tui,RH11 0PQ,51.1457,-0.1801
-McDonalds,RH11 7AH,51.1135,-0.1922
+McDonald's,RH11 7AH,51.1136,-0.1921
 McDonald’s Restaurant,RH11 7AH,51.1135,-0.1922
 Bollywood kitchen at Ram Sports,RH11 7AJ,51.1212,-0.1958
 Crowne Plaza London Gatwick Airport,RH11 7SX,51.1255,-0.1897
-BaxterStorey At Bard,RH11 9BP,51.0930,-0.1937
-Burger King,RH11 9YA,51.0833,-0.2000
-Costa Coffee,RH11 9YA,51.0833,-0.2000
+Costa Coffee,RH11 7XN,51.1332,-0.1871
+Brewers Fayre Goffs Park,RH11 8AX,51.1092,-0.1985
+Costa Coffee,RH11 9YA,51.0833,-0.1999
 The Jolly Tanners,RH17 6EF,51.0408,-0.1850
 Balcombe Club,RH17 6HP,51.0586,-0.1322
 The Half Moon Inn,RH17 6PA,51.0606,-0.1329
@@ -147,7 +135,6 @@ Elmo's Pizzas Ltd,RH18 5AA,51.0970,0.0338
 Hop Yard Brewing Co,RH18 5AA,51.0970,0.0338
 Yard Yoga ,RH18 5AA,51.0970,0.0338
 Roochi,RH18 5DN,51.0975,0.0345
-Costa Coffee,RH18 5ES,51.0985,0.0337
 Emilio's Coffee,RH18 5ES,51.0986,0.0337
 Hugo's Cafe Limited,RH18 5ES,51.0986,0.0337
 Java and Jazz,RH18 5ES,51.0985,0.0337
@@ -159,18 +146,17 @@ Ashdown Park Hotel & Country Club,RH18 5JR,51.0709,0.0410
 THE HYBRID TEAM ROOM,RH18 5JW,51.0701,0.0259
 Royal Ashdown Forest Golf Club Limited,RH18 5LR,51.0878,0.0431
 KFC East Grinstead,RH19 1AB,51.1255,-0.0092
-KFC,RH19 1AB,51.1255,-0.0092
+KFC,RH19 1AB,51.1257,-0.0095
 LONDON BAR & GRILL (E.G) LTD,RH19 1AB,51.1255,-0.0092
 COSTA COFFEE - EAST GRINSTEAD,RH19 1AG,51.1246,-0.0087
-Costa Coffee,RH19 1AG,51.1246,-0.0087
+Costa Coffee,RH19 1AG,51.1250,-0.0088
 Clouds Coffee Shop,RH19 1AP,51.1258,-0.0087
-Starbucks Coffee Company,RH19 1DD,51.1250,-0.0179
 Bluebells Cafe,RH19 1EP,51.1263,-0.0107
 Paglia e Fiena ltd,RH19 1EP,51.1263,-0.0107
 Pizza Hut,RH19 1EP,51.1263,-0.0107
 The Railway,RH19 1EP,51.1263,-0.0107
 Subway East Grinstead,RH19 1EQ,51.1267,-0.0106
-McDonalds,RH19 1ET,51.1283,-0.0133
+McDonald's,RH19 1ET,51.1283,-0.0134
 McDonald’s Restaurant,RH19 1ET,51.1283,-0.0133
 Volume 1 Climbing Ltd,RH19 1XZ,51.1356,-0.0391
 Crowne Plaza Felbridge-Gatwick,RH19 2BH,51.1390,-0.0363
@@ -178,9 +164,6 @@ Chartham Park Golf & Country Club,RH19 2JT,51.1487,-0.0268
 Anna’s Tearoom,RH19 2PB,51.1419,-0.0566
 Gurkha at Woodcock Inn,RH19 2RE,51.1526,-0.0487
 AGORA BISTRO MEZE BAR LIMITED,RH19 3AF,51.1241,-0.0070
-Caffe Nero,RH19 3AF,51.1242,-0.0072
-Pizza Express,RH19 3AF,51.1242,-0.0072
-Prezzo,RH19 3AF,51.1242,-0.0072
 The Crown,RH19 3AF,51.1242,-0.0072
 Nizam Restaurant ,RH19 3AS,51.1237,-0.0065
 By The Fountain Ltd,RH19 3AW,51.1238,-0.0075
@@ -190,7 +173,7 @@ Chequer Mead Trading Ltd,RH19 3BS,51.1267,-0.0058
 CJ's Cafe Bar,RH19 3DD,51.1240,-0.0051
 Qartol Turkish Restaurant ,RH19 3DJ,51.1266,-0.0089
 The Crab and Beacon,RH19 3DJ,51.1266,-0.0089
-Wetherspoons,RH19 3DJ,51.1266,-0.0089
+The Ounce  Ivy Bush East Grinstead (Wetherspoon),RH19 3DJ,51.1264,-0.0085
 The Old Dunnings Mill,RH19 4AT,51.1142,-0.0122
 The Mug Tree Tea Room ,RH19 4EF,51.1231,-0.0090
 ship inn,RH19 4EG,51.1236,-0.0094
@@ -201,22 +184,21 @@ The Roe Deer,RH2 0NH,51.2412,-0.1958
 New Monsoon ,RH2 8AU,51.2240,-0.2000
 Gatwick Airport Inn,RH6 0AB,51.1668,-0.1781
 Holiday Inn London Gatwick-Airport,RH6 0BA,51.1683,-0.1808
-KFC,RH6 0LA,51.1576,-0.1578
-Baxterstorey At BA Lounges,RH6 0NN,51.1560,-0.1631
-Caffe Nero,RH6 0NN,51.1560,-0.1631
+KFC,RH6 0LA,51.1561,-0.1630
 KFC Gatwick,RH6 0NN,51.1563,-0.1632
-McDonalds Drive Thru,RH6 0NN,51.1560,-0.1631
-Pret A Manger,RH6 0NN,51.1560,-0.1631
-Starbucks,RH6 0NN,51.1560,-0.1631
-BaxterStorey At Virgin Atlantic Airways Hangar 7,RH6 0NP,51.1578,-0.1925
-Pret A Manger,RH6 0NP,51.1578,-0.1925
+McDonald's,RH6 0NN,51.1586,-0.1555
+The Flying Horse After Security South Terminal (Wetherspoon),RH6 0NN,51.1559,-0.1625
+Pret A Manger,RH6 0NP,51.1555,-0.1625
 Pure Gatwick North ,RH6 0NP,51.1579,-0.1640
 Sonoma,RH6 0NP,51.1579,-0.1640
-Starbucks,RH6 0NP,51.1578,-0.1925
-Wagamama,RH6 0NP,51.1578,-0.1925
+The Beehive Before Security South Terminal (Wetherspoon),RH6 0NQ,51.1571,-0.1624
+Thyme,RH6 0NX,51.1640,-0.1736
 Flavours Deli,RH6 0PA,51.1444,-0.1631
+Thyme,RH6 0PH,51.1618,-0.1746
+Costa Coffee,RH6 0PJ,51.1614,-0.1773
 Hampton by Hilton Gatwick,RH6 0PJ,51.1611,-0.1776
 Nicholas Culpeper,RH6 0PJ,51.1611,-0.1776
+The Red Lion After Security North Terminal (Wetherspoon),RH6 0PJ,51.1613,-0.1791
 Golden Fish & Chips,RH6 7AF,51.1723,-0.1642
 Twin Peaks Sandwich Bar,RH6 7AF,51.1723,-0.1642
 Papa Johns Horley,RH6 7BB,51.1725,-0.1621
@@ -226,8 +208,9 @@ The Corner House Hotel,RH6 7ED,51.1700,-0.1726
 Blacks Burgers Limited  Horley,RH6 7HJ,51.1742,-0.1710
 CURRYINN,RH6 7PP,51.1716,-0.1641
 shiraz restaurant & Bar,RH6 7PR,51.1714,-0.1638
+The Jack Fairman Horley (Wetherspoon),RH6 7PZ,51.1704,-0.1618
 Costa Coffee Horley,RH6 7QH,51.1711,-0.1632
-Costa Coffee,RH6 7QH,51.1711,-0.1632
+Costa Coffee,RH6 7QH,51.1706,-0.1625
 Khushboo Indian Cuisine ,RH6 9AB,51.1738,-0.1583
 Jai Ho Restaurant Limited,RH6 9EF,51.1622,-0.1517
 DIJO Delicatessen Limited ,RH6 9HL,51.1738,-0.1596
@@ -240,7 +223,6 @@ Tarana Restaurant,RH7 6AA,51.1743,-0.0168
 The Star Inn,RH7 6AH,51.1754,-0.0142
 GREYHOUND PUB,RH7 6AU,51.1747,-0.0195
 COSTA COFFEE LINGFIELD,RH7 6EP,51.1739,-0.0186
-Costa Coffee,RH7 6EP,51.1739,-0.0186
 The Wiremill,RH7 6HJ,51.1603,-0.0463
 Peacock Lodge,RH7 6HL,51.1563,-0.0510
 Smith & Western,RH7 6JJ,51.1922,-0.0499
@@ -272,7 +254,9 @@ Langton Pavilion Cafe,TN3 0JJ,51.1346,0.2047
 chafford arms,TN3 0SA,51.1421,0.1802
 Wildwood Vineyard Ltd,TN3 9EQ,51.0909,0.2096
 The Crown Groombridge Ltd,TN3 9QH,51.1184,0.1850
+The Crowborough Cross Crowborough (Wetherspoon),TN6 1AF,51.0604,0.1615
 O A J Catering Ltd T/a The Blue Anchor,TN6 1BB,51.0533,0.1530
+Costa Coffee,TN6 1BU,51.0595,0.1624
 Donnamaria Italian Restaurant,TN6 1DF,51.0587,0.1627
 Rose of Bengal ,TN6 1DG,51.0585,0.1628
 Bar Trend,TN6 1DL,51.0584,0.1618
@@ -282,7 +266,6 @@ The whistle stop cafe,TN6 2GE,51.0468,0.1886
 Crowborough Spice,TN6 2JE,51.0480,0.1874
 The Wheatsheaf,TN6 2NF,51.0449,0.1817
 Hattusa Crowborough,TN6 2QB,51.0601,0.1617
-Freedom Leisure,TN6 2TN,51.0633,0.1666
 Rajpoot Indian Restaurant ,TN6 2TT,51.0610,0.1617
 THE BOARS HEAD INN,TN6 3GR,51.0734,0.1917
 Millbrook Garden Centre - GreenCafe,TN6 3RJ,51.0450,0.1941
@@ -290,7 +273,6 @@ The Dorset Arms Limited,TN7 4BD,51.1006,0.1356
 The Hatch Inn,TN7 4EJ,51.0815,0.0722
 Longhouse Edenbridge Ltd,TN8 5AD,51.1974,0.0649
 COSTA COFFEE   EDENBRIDGE,TN8 5AJ,51.1972,0.0644
-Costa Coffee,TN8 5AJ,51.1972,0.0644
 The Minstrel,TN8 5AR,51.1956,0.0651
 KING & QUEEN EDENBRIDGE,TN8 5AU,51.1953,0.0657
 The Old Eden,TN8 5AX,51.1938,0.0661

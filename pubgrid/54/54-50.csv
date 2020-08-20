@@ -1,8 +1,10 @@
 name,postcode,lat,lon
 Rumba,CW12 1AH,53.1636,-2.2149
+The Counting House Congleton (Wetherspoon),CW12 1AH,53.1638,-2.2147
 DV8,CW12 1AR,53.1633,-2.2144
 Wild & Wild Ltd,CW12 1AY,53.1631,-2.2133
 Costa Coffee,CW12 1BA,53.1629,-2.2129
+Costa Coffee,CW12 1BA,53.1630,-2.2129
 LizzyB's,CW12 1BD,53.1627,-2.2114
 Ye Olde White Lion Congleton,CW12 1BD,53.1627,-2.2114
 Gather ,CW12 1BN,53.1630,-2.2109
@@ -10,6 +12,8 @@ The olde Kings Arms ,CW12 1BN,53.1630,-2.2109
 Bear Grills Cafe,CW12 1BP,53.1639,-2.2117
 KingfishR Indian cuisine,CW12 1HG,53.1651,-2.2146
 The Old Saw Mill,CW12 1HJ,53.1657,-2.2149
+Costa Coffee,CW12 1LR,53.1688,-2.2180
+McDonald's,CW12 1LR,53.1674,-2.2189
 McDonald’s Restaurants 552 t/a LEMACA Ltd,CW12 1LR,53.1689,-2.2176
 Spice Sector Ltd,CW12 1RP,53.1628,-2.2095
 Reuben Stubbs Bistro,CW12 1RS,53.1627,-2.2078
@@ -44,17 +48,13 @@ PORTOFINO (HANLEY) LTD,ST1 1JD,53.0252,-2.1787
 Potteries Pantry,ST1 1JQ,53.0249,-2.1754
 Subway Tontine Street,ST1 1NQ,53.0256,-2.1749
 Esquires Coffee Hanley,ST1 1PF,53.0265,-2.1758
-Costa Coffee,ST1 1PS,53.0273,-2.1758
+Costa Coffee,ST1 1PS,53.0268,-2.1751
 Mrs B's Market Kitchen,ST1 1PS,53.0275,-2.1758
-Nando's,ST1 1PS,53.0273,-2.1758
 Pizza Express,ST1 1PS,53.0273,-2.1758
-Starbucks Coffee Company UK Limited,ST1 1PS,53.0273,-2.1758
-Caffe Nero,ST1 1PW,53.0255,-2.1738
-McDonalds,ST1 1PW,53.0255,-2.1738
+McDonald's,ST1 1PW,53.0255,-2.1739
 McDonald’s Restaurants 184 t/a LEMACA Ltd,ST1 1PW,53.0255,-2.1738
+The Reginald Mitchell Hanley (Wetherspoon),ST1 1PW,53.0254,-2.1742
 kfc,ST1 1PW,53.0255,-2.1737
-KFC,ST1 1QD,53.0257,-2.1745
-Buzz Bingo,ST1 1QR,53.0238,-2.1744
 Little dessert shop ,ST1 1SA,53.0257,-2.1767
 CASA ARGESEANA,ST1 2BL,53.0269,-2.1736
 Victoria Lounge,ST1 3AF,53.0230,-2.1760
@@ -72,26 +72,25 @@ Cauldon Kitchen,ST1 4PZ,53.0176,-2.1883
 Bon Pan Asian Restaurant (Stoke Branch),ST1 5BN,53.0288,-2.1765
 The Burger Priest Hanley,ST1 5BN,53.0288,-2.1765
 CAMERON'S,ST1 5LA,53.0259,-2.1776
-Costa Coffee,ST1 5NS,53.0248,-2.1872
-Nando's,ST1 5NS,53.0248,-2.1872
+Brewers Fayre Hanley,ST1 5NH,53.0249,-2.1855
+KFC,ST1 5NZ,53.0321,-2.1904
 kfc,ST1 5NZ,53.0324,-2.1889
 Festive thai,ST1 5PU,53.0289,-2.1975
 SUBWAY WATERWORLD FESTIVAL PARK,ST1 5PU,53.0289,-2.1975
 Waterworld Leisure Ltd,ST1 5PU,53.0289,-2.1975
 skeat ltd.,ST1 5PU,53.0289,-2.1975
 Burger King,ST1 5QQ,53.0261,-2.1849
-Mecca Bingo Club,ST1 5RR,53.0256,-2.1871
 Subway Trinity Street,ST1 5RW,53.0255,-2.1777
 Inflato,ST1 5SG,53.0306,-2.1988
-McDonalds,ST1 5SJ,53.0282,-2.1918
+Costa Coffee,ST1 5SJ,53.0287,-2.1934
+McDonald's,ST1 5SJ,53.0282,-2.1930
 McDonald’s Restaurants 435 t/a LEMACA Ltd,ST1 5SJ,53.0282,-2.1918
-Pizza Hut Restaurant,ST1 5SJ,53.0286,-2.1922
-Stoke Tenpin,ST1 5SP,53.0251,-2.1930
+McDonald's,ST1 6AX,53.0477,-2.1630
 McDonald’s Restaurants 1452 t/a LEMACA Ltd,ST1 6AX,53.0484,-2.1615
-McDonalds,ST1 6EJ,53.0464,-2.1650
 Moshi Coffee Ltd,ST10 1AF,52.9878,-1.9887
 Gelato & Cakes,ST10 1AJ,52.9867,-1.9907
 capuchino at the summer house ,ST10 1AJ,52.9867,-1.9907
+The Wheatsheaf Cheadle (Wetherspoon),ST10 1AR,52.9868,-1.9897
 Victorian Tearooms,ST10 1AY,52.9874,-1.9885
 THE HUNTSMAN,ST10 1SX,52.9924,-1.9778
 The Fox & Goose,ST10 2HN,53.0350,-1.9486
@@ -114,12 +113,15 @@ ROEBUCK,ST13 5AB,53.1056,-2.0239
 COFFEE BEANS CAFE LIMITED,ST13 5AJ,53.1056,-2.0220
 Lawtons Pies Ltd,ST13 5AJ,53.1056,-2.0220
 Pabna Staffordshire LTD,ST13 5AS,53.1049,-2.0192
+Thyme,ST13 5AS,53.1054,-2.0199
 Silk House Leek,ST13 5DL,53.1047,-2.0264
 Domino's Pizza - Leek,ST13 5DR,53.1061,-2.0267
+The Green Dragon Leek (Wetherspoon),ST13 5DS,53.1065,-2.0271
 The Rajah Tandoori Restaurant ,ST13 5DZ,53.1058,-2.0273
 The napoli,ST13 5DZ,53.1058,-2.0273
 the red lion leek,ST13 5HH,53.1063,-2.0251
 Costa Coffee,ST13 5HJ,53.1062,-2.0257
+Costa Coffee,ST13 5HJ,53.1065,-2.0256
 Monty's,ST13 5HJ,53.1062,-2.0257
 Primo piano ,ST13 5HW,53.1061,-2.0262
 The Penguin,ST13 5HW,53.1061,-2.0262
@@ -156,10 +158,10 @@ The Teapot at Milton,ST2 7BW,53.0496,-2.1418
 Sanjeev’s,ST2 7HQ,53.0577,-2.1406
 Waterfall Elior Limited at Birches Head High School,ST2 8DD,53.0402,-2.1470
 The Glost House,ST3 1EZ,52.9906,-2.1375
-KFC,ST3 1HD,52.9906,-2.1370
 The Toasty Plaice ltd,ST3 2HR,52.9884,-2.1360
+Costa Coffee,ST3 2JB,52.9891,-2.1376
+McDonald's,ST3 2JB,52.9907,-2.1425
 McDonald’s Restaurants 1383 t/a LEMACA Ltd,ST3 2JB,52.9899,-2.1396
-Mcdonalds,ST3 2JD,52.9911,-2.1440
 Britannia Cafe,ST3 2NL,52.9875,-2.1372
 SAGHIR EXPRESS LIMITED ,ST3 2NS,52.9869,-2.1359
 Rare Lounge Bar and Steakhouse Dresden,ST3 4HA,52.9784,-2.1360
@@ -172,8 +174,9 @@ Blue Tiffin,ST3 6HE,52.9752,-2.0930
 SUBWAY MFG MEIR,ST3 6HE,52.9752,-2.0930
 ON THE RUN CAFE,ST3 6LX,52.9814,-2.0939
 KFC MEIR 02040,ST3 7DX,52.9770,-2.1061
-KFC,ST3 7DX,52.9770,-2.1061
+KFC,ST3 7DX,52.9777,-2.1050
 Tandoori knights,ST4 1BL,53.0037,-2.1838
+The Wheatsheaf StokeonTrent (Wetherspoon),ST4 1BU,53.0041,-2.1853
 Sangam restaurant ,ST4 1HL,53.0039,-2.1826
 Planet Bollywood,ST4 1HP,53.0037,-2.1829
 WHITE STAR,ST4 1JB,53.0039,-2.1843
@@ -184,8 +187,7 @@ North Stafford Hotel,ST4 2AE,53.0085,-2.1803
 Topping ,ST4 2EE,53.0110,-2.1806
 University Pizzeria,ST4 2EU,53.0116,-2.1819
 Subway Fenton,ST4 2HG,53.0017,-2.1614
-Buzz Bingo,ST4 2HS,53.0075,-2.1636
-McDonalds,ST4 2HX,53.0082,-2.1668
+McDonald's,ST4 2HX,53.0089,-2.1658
 McDonald’s Restaurants 903 t/a LEMACA Ltd,ST4 2HX,53.0082,-2.1668
 Lahori restaurant,ST4 2QW,53.0120,-2.1832
 Any 'Owd Oatcake LTD,ST4 3AD,52.9988,-2.1645
@@ -194,10 +196,7 @@ Sammys Kitchen,ST4 3ER,52.9961,-2.1497
 The Cafe at Fenton Town Hall,ST4 3FA,52.9982,-2.1635
 The Kitchen Cafe ,ST4 4AD,53.0028,-2.1848
 kfc,ST4 4AT,52.9987,-2.1851
-Dunelm (Soft Furnishings) Ltd,ST4 4EX,52.9849,-2.1780
-Baxterstorey,ST4 4EY,52.9895,-2.1902
 OH INDIA RESTAURANT,ST4 4RF,52.9804,-2.1989
-PowerLeague Group Limited,ST4 4TN,52.9865,-2.1705
 LONDON ROAD ALE HOUSE,ST4 5AA,52.9985,-2.1897
 The Stage Door,ST4 5AB,52.9982,-2.1889
 Jollees,ST4 5AG,52.9975,-2.1905
@@ -205,18 +204,14 @@ The West End centre and Cafe West End ,ST4 5AW,52.9945,-2.1926
 penkhull sandwich shop by cookies catering,ST4 5DW,53.0007,-2.1969
 Black Lion Pub ,ST4 5NZ,52.9877,-2.2020
 Kismet Restaurant (stoke) Ltd,ST4 6AF,53.0111,-2.2119
-McDonalds,ST4 6PD,52.9956,-2.2085
+McDonald's,ST4 6PD,52.9951,-2.2079
 McDonald’s Restaurants 501 t/a LEMACA Ltd,ST4 6PD,52.9956,-2.2085
 The Orange Tree Bar & Grill,ST4 6PG,52.9967,-2.2114
-Costa Coffee,ST4 6QG,53.0032,-2.2121
-Costa Coffee,ST4 6QG,53.0040,-2.2149
 The Noah’s,ST4 7NX,53.0091,-2.2051
-Elior UK,ST4 8GR,52.9817,-2.1730
 Screwfix Trentham,ST4 8GR,52.9819,-2.1730
-STARBUCKS COFFEE COMPANY UK LIMITED,ST5 0AP,53.0278,-2.2103
 New Victoria Theatre Projects Ltd,ST5 0JG,53.0161,-2.2146
 Marsh Head Cafe Ltd T/A The Shed,ST5 0PU,53.0239,-2.2157
-REVOLUTION BARS PLC,ST5 1AH,53.0109,-2.2256
+Costa Coffee,ST5 1AN,53.0114,-2.2253
 Basmati,ST5 1HF,53.0128,-2.2222
 Max Tan Restaurant Ltd t/a The Arch,ST5 1HF,53.0128,-2.2222
 Borough Arms Hotel,ST5 1HX,53.0140,-2.2192
@@ -224,6 +219,7 @@ THE GREYHOUND,ST5 1JT,53.0123,-2.2154
 Marloes Restaurant,ST5 1LQ,53.0088,-2.2239
 Gostos ,ST5 1NB,53.0061,-2.2210
 Rare Lounge Bar and Steakhouse Newcastle,ST5 1PB,53.0120,-2.2257
+The Arnold Machin NewcastleunderLyme (Wetherspoon),ST5 1PB,53.0121,-2.2252
 Amore Italian Restaurant & Cafe,ST5 1PR,53.0112,-2.2291
 PASTA DI PIAZZA,ST5 1PS,53.0098,-2.2252
 SHAWS,ST5 1PS,53.0098,-2.2252
@@ -236,16 +232,14 @@ Eesha Indian Fine Cuisine ltd,ST5 1QG,53.0102,-2.2276
 Shalimar cuisine limited,ST5 1QG,53.0101,-2.2276
 Art of Siam,ST5 1QL,53.0112,-2.2285
 Fireaway pizza Stoke ,ST5 1QQ,53.0105,-2.2272
-MCDONALDS,ST5 1QQ,53.0105,-2.2272
+McDonald's,ST5 1QQ,53.0105,-2.2269
 McDonald’s Restaurants 086 t/a LEMACA Ltd,ST5 1QQ,53.0105,-2.2272
 STREAT ASIAN STREET FOOD ,ST5 1QS,53.0113,-2.2293
-CAFFE NERO,ST5 1RD,53.0114,-2.2278
 Oscars Restaurant,ST5 1RF,53.0118,-2.2272
 Caffe Java,ST5 1RH,53.0121,-2.2264
 Jumbo Fun and Play,ST5 2AU,53.0128,-2.2297
 Koh-I-Noor ,ST5 2AU,53.0130,-2.2299
 COPPICE ACADEMY-ATALIAN SERVEST FOOD CO,ST5 2EY,53.0009,-2.2266
-STARBUCKS COFFEE SHOP,ST5 2GB,53.0153,-2.2380
 newcastle under lyme golf club limited,ST5 2QB,52.9999,-2.2409
 Pizza Triangle,ST5 2RR,53.0106,-2.2308
 Peaches Restaurant,ST5 2TB,53.0104,-2.2322
@@ -254,15 +248,16 @@ Waggon and Horses,ST5 2TF,53.0082,-2.2318
 Bilash Restaurant,ST5 2TL,53.0083,-2.2330
 The Westbury Tavern,ST5 4JW,52.9841,-2.2251
 Garners Garden Centre,ST5 6SH,53.0141,-2.2545
+Brewers Fayre The Redwood,ST5 7EH,53.0510,-2.2463
 STARBUCKS HOLDITCH,ST5 7PJ,53.0371,-2.2470
-MCDONALDS,ST5 8HS,53.0354,-2.2378
+McDonald's,ST5 8HS,53.0355,-2.2387
 McDonald’s Restaurants 1046 t/a LEMACA Ltd,ST5 8HS,53.0354,-2.2378
 Mellors Catering Services Ltd,ST5 9BT,53.0260,-2.2421
+KFC,ST5 9ER,53.0186,-2.2308
 kfc,ST5 9ER,53.0182,-2.2307
 PIZZA HUT,ST5 9HD,53.0201,-2.2312
 GG’s Cafe and Grill,ST5 9JJ,53.0211,-2.2314
 WOLSTANTON HIGH SCHOOL - ATALIAN SERVEST GROUP LTD,ST5 9JU,53.0271,-2.2231
-Starbucks Moorland Services,ST6 1JP,53.0480,-2.1828
 coffee cup,ST6 1JQ,53.0464,-2.1904
 Totally Delicious  Autonet,ST6 2BA,53.0430,-2.1907
 Agie and Katie Restaurant,ST6 3AJ,53.0446,-2.1993
@@ -275,15 +270,16 @@ Totally Delicious  Middleport Pottery,ST6 3PE,53.0410,-2.2096
 india cottage restaurant,ST6 4AR,53.0453,-2.1991
 Rifleman Inn,ST6 4QL,53.0758,-2.2388
 Subway Tunstall ,ST6 5EA,53.0592,-2.2109
+KFC,ST6 5EN,53.0697,-2.2165
 kfc,ST6 5EN,53.0634,-2.2128
-McDonalds,ST6 5PH,53.0712,-2.2159
+McDonald's,ST6 5PH,53.0712,-2.2158
 McDonald’s Restaurants 1021 t/a LEMACA Ltd,ST6 5PH,53.0712,-2.2159
 The Furlong ,ST6 5UP,53.0648,-2.2030
+Costa Coffee,ST6 6AB,53.0574,-2.2069
 Brindleys lock,ST6 6XP,53.0796,-2.2038
 Spar,ST6 7HF,53.0653,-2.1945
 The Bistro,ST6 7QS,53.0578,-2.1787
 The Top Pub,ST6 8TX,53.0858,-2.1375
-COSTA COFFEE DRIVE THRU,ST7 1LP,53.0840,-2.2605
 Red Bull Hotel,ST7 3AJ,53.0921,-2.2580
 TRAVELLERS REST,ST7 3HA,53.1042,-2.2517
 The Rising Sun,ST7 3JT,53.1139,-2.2436
@@ -291,6 +287,7 @@ KIDSGROVE PRIMARY - ATALIAN SERVEST,ST7 4DJ,53.0949,-2.2322
 KIDSGROVE SECONDARY - ATALIAN SERVEST,ST7 4DJ,53.0949,-2.2322
 The ash inn,ST7 4NE,53.1092,-2.2154
 Sanaya Limited,ST8 6AB,53.1154,-2.1760
+The Bradley Green Biddulph (Wetherspoon),ST8 6AS,53.1157,-2.1763
 Reubens American Italian,ST8 6AW,53.1175,-2.1750
 Gardners Arms ,ST8 6PH,53.1010,-2.1858
 Roaring Meg,ST8 7EA,53.1211,-2.1608

@@ -8,22 +8,19 @@ The Rudgleigh Inn,BS20 0QD,51.4733,-2.6967
 Spice direct LTD,BS20 6AG,51.4826,-2.7686
 Portishead brewing Co  - the Port bar,BS20 6AH,51.4843,-2.7677
 The Poacher Portishead Ltd,BS20 6AJ,51.4823,-2.7690
-Costa Coffee,BS20 6EL,51.4838,-2.7690
 The Corner Cafe,BS20 6PY,51.4781,-2.7675
 Harbour Quay Ltd t/a Bottelino's,BS20 7AJ,51.4866,-2.7640
 Aqua Restaurant,BS20 7AW,51.4869,-2.7628
 1347 Portishead McDonalds - Lambtrad Ltd T/A McDonalds,BS20 7BY,51.4838,-2.7647
-McDonalds Restaurants Ltd,BS20 7BY,51.4838,-2.7647
+McDonald's,BS20 7BY,51.4841,-2.7660
 Portishead Youth Centre,BS20 7DD,51.4868,-2.7654
 Subway,BS20 7DE,51.4859,-2.7659
 oceansportishead,BS20 7DF,51.4883,-2.7580
-Hall & Woodhouse,BS20 7FP,51.4876,-2.7597
+Brewers Fayre Gordano Gate,BS20 7GA,51.4820,-2.7614
 The Royal Inn,BS20 7HG,51.4940,-2.7572
-Costa Coffee,BS20 7QH,51.4911,-2.7572
 Mokoko Coffee & Bakery Portishead,BS20 7QH,51.4912,-2.7573
 Searock Restaurant,BS20 7QH,51.4912,-2.7573
-Burger King,BS20 7XG,51.4775,-2.7079
-Starbucks Ltd,BS20 7XG,51.4775,-2.7079
+The Posset Cup Portishead (Wetherspoon),BS20 7QZ,51.4857,-2.7625
 Baxterstorey @ Kerry Foods,BS20 7XN,51.4825,-2.7241
 Cafe Trio,BS20 7XN,51.4833,-2.7216
 The White Hart,BS20 8PU,51.4646,-2.7977
@@ -44,7 +41,7 @@ Tiffin Teahouse and Eatery,BS21 7QU,51.4413,-2.8609
 The Salthouse,BS21 7TY,51.4345,-2.8699
 Learning and Community Sport At Worle Trust,BS22 6AQ,51.3567,-2.9305
 1240 Worle McDonalds - Lambtrad Ltd T/A McDonalds,BS22 6BL,51.3618,-2.9092
-McDonalds Restaurants Ltd,BS22 6BT,51.3628,-2.9113
+McDonald's,BS22 6BL,51.3618,-2.9092
 Waterfall Elior - Alliance Homes - Tamar Court,BS22 6BU,51.3614,-2.9182
 The Tandoori Masala,BS22 6HE,51.3598,-2.9286
 ZAK Indian Kitchen,BS22 6HQ,51.3602,-2.9288
@@ -58,8 +55,9 @@ DUETS RESTAURANT LTD,BS22 8DN,51.3574,-2.9477
 Waterfall Elior at Milton Park Primary School,BS22 8DY,51.3540,-2.9467
 knights,BS22 8EG,51.3541,-2.9445
 The Milton Larder,BS22 8EN,51.3539,-2.9438
+Costa Coffee,BS22 8FD,51.3458,-2.9415
+Beefeater Pavilion,BS22 8LY,51.3439,-2.9498
 Hutton Moor Leisure Centre,BS22 8LY,51.3451,-2.9493
-Costa Coffee,BS22 8NA,51.3442,-2.9440
 Cumin-ALIVE,BS22 9SH,51.3606,-2.9564
 Sand Bay Holiday Village,BS22 9UR,51.3746,-2.9592
 THE COMMODORE HOTEL,BS22 9UZ,51.3659,-2.9642
@@ -75,12 +73,7 @@ Raddy’s Cafe Bar,BS23 1AU,51.3466,-2.9804
 SEATON HOTEL AND RESTAURANT,BS23 1AU,51.3466,-2.9804
 Winstons Fish bar,BS23 1AU,51.3466,-2.9804
 Clip N Climb - Weston,BS23 1FF,51.3457,-2.9785
-Nando's,BS23 1FF,51.3457,-2.9785
-Pizza Express,BS23 1FF,51.3457,-2.9785
-Prezzo,BS23 1FF,51.3457,-2.9785
-Caffe Nero,BS23 1HD,51.3481,-2.9791
-Costa Coffee,BS23 1HD,51.3481,-2.9791
-Burger King (UK) Ltd,BS23 1HL,51.3486,-2.9802
+Costa Coffee,BS23 1HD,51.3477,-2.9788
 Burger King,BS23 1HL,51.3486,-2.9802
 The Coffee House (Weston) Ltd,BS23 1HS,51.3494,-2.9787
 The Gardens Restaurant ,BS23 1HS,51.3494,-2.9787
@@ -95,6 +88,7 @@ Finest Blend,BS23 1LG,51.3498,-2.9784
 TOOGIES,BS23 1NF,51.3501,-2.9741
 Zen Oriental restaurant,BS23 1NF,51.3501,-2.9741
 Hadleys at Number One,BS23 1NN,51.3505,-2.9767
+The Dragon Inn WestonsuperMare (Wetherspoon),BS23 1QG,51.3479,-2.9779
 Atlantic Fish Bar and Restaurant ,BS23 1QL,51.3488,-2.9748
 Browns Stateside Diner,BS23 1QQ,51.3480,-2.9774
 Jimmy's cafe,BS23 1QQ,51.3480,-2.9774
@@ -103,7 +97,7 @@ Zeera,BS23 1RH,51.3489,-2.9756
 Hussain's Indian Cuisine,BS23 1RQ,51.3481,-2.9757
 Regent Restaurant,BS23 1SF,51.3478,-2.9799
 269 Weston McDonalds - Lambtrad Ltd T/A McDonalds,BS23 1SL,51.3474,-2.9782
-McDonalds Restaurants Limited,BS23 1SL,51.3474,-2.9782
+McDonald's,BS23 1SL,51.3473,-2.9778
 Allstars Weston Super Mare,BS23 1SQ,51.3475,-2.9801
 Dragon Kiss Limited,BS23 1SQ,51.3475,-2.9801
 EBISU RESTAURANT,BS23 1SR,51.3471,-2.9770
@@ -114,37 +108,37 @@ Fusion,BS23 1ST,51.3466,-2.9789
 Tarantella Ristorante,BS23 1ST,51.3466,-2.9789
 Bare Grills Smokehouse,BS23 1SX,51.3468,-2.9801
 DEMETRIS TAVERNA,BS23 1SY,51.3469,-2.9795
+Costa Coffee,BS23 1TF,51.3459,-2.9783
 Dolphin square kitchen,BS23 1TF,51.3462,-2.9788
 The Duke of Oxford,BS23 1TF,51.3462,-2.9788
 MAZI MEZE,BS23 1TN,51.3464,-2.9776
 Oscar n Ollies ,BS23 1TR,51.3465,-2.9771
+Brewers Fayre Weston Super-Mare (Seafront),BS23 1TT,51.3452,-2.9802
 CENTRAL PERKS,BS23 1UW,51.3462,-2.9760
 Faces Cafe,BS23 1XB,51.3464,-2.9752
 Dr Fox's Tearoom,BS23 2AD,51.3516,-2.9896
 STONES CAFE,BS23 2AD,51.3516,-2.9896
+Cabot Court Hotel WestonsuperMare (Wetherspoon),BS23 2AH,51.3506,-2.9825
 The Old Thatched Cottage Restaurant ,BS23 2AN,51.3511,-2.9830
 Mentone Hotel,BS23 2AW,51.3518,-2.9838
 Smiths Hotel,BS23 2AW,51.3516,-2.9836
 Captains Cabin,BS23 2EF,51.3548,-2.9935
-Pizza Hut,BS23 3HD,51.3452,-2.9623
 Frames,BS23 3PZ,51.3410,-2.9727
 Compass Group UK & Ireland Ltd,BS23 3UZ,51.3414,-2.9581
 546 Weston Links McDonalds - Lambtrad Ltd T/A McDonalds,BS23 3WL,51.3387,-2.9566
-McDonalds Restaurants Ltd,BS23 3WL,51.3387,-2.9566
-Pizza Hut Restaurant,BS23 3WL,51.3387,-2.9566
 Jump n Jackz ,BS23 3YS,51.3362,-2.9546
-Dunelm Coffee Shop,BS23 3YZ,51.3394,-2.9621
+Costa Coffee,BS23 3YY,51.3388,-2.9633
+KFC,BS23 3YY,51.3382,-2.9583
 Beachlands Hotel,BS23 4NG,51.3312,-2.9806
 Djbrowncatering ,BS23 4NQ,51.3333,-2.9839
 Weston superMare Golf Club,BS23 4NQ,51.3333,-2.9839
 PUXTON PARK,BS24 6AH,51.3616,-2.8705
 THE FULL QUART,BS24 6RT,51.3744,-2.8664
-Costa Coffee,BS24 7FN,51.3539,-2.9128
+Costa Coffee,BS24 7FN,51.3536,-2.9134
 Subway (Locking Castle),BS24 7FN,51.3539,-2.9128
 Elior UK at Lakeside Court,BS24 7JN,51.3549,-2.9126
 Parkside Cafe,BS24 8AR,51.3333,-2.9139
 The Coach House Inn,BS24 8DG,51.3349,-2.9150
-Starbucks,BS24 8FN,51.3435,-2.9323
 Churchill post office  stores and tearoom,BS25 5NB,51.3357,-2.8048
 The Churchill Inn,BS25 5NL,51.3370,-2.7889
 Mendip Activity Centre,BS25 5PQ,51.3304,-2.8136
@@ -155,21 +149,21 @@ The Plough Inn,BS40 5QA,51.3624,-2.7627
 Holiday Inn Bristol Airport,BS40 5RB,51.3554,-2.7416
 Darlington Arms / Raka stays ltd,BS40 5TE,51.3656,-2.7216
 george tearooms liimited,BS40 9UL,51.3874,-2.6891
+Costa Coffee,BS48 1AQ,51.4346,-2.7569
 Coates House,BS48 1AW,51.4335,-2.7566
 Touts Subway nailsea,BS48 1BN,51.4384,-2.7469
 Scotch Horn Leisure Centre,BS48 1BZ,51.4331,-2.7553
+The Glassmaker Nailsea (Wetherspoon),BS48 1RD,51.4322,-2.7586
 Cafe,BS48 1RH,51.4328,-2.7594
+Costa Coffee,BS48 1RP,51.4331,-2.7594
 Cafe 119 Ltd ,BS48 1TA,51.4329,-2.7585
 The Old Farmhouse ,BS48 2PF,51.4263,-2.7464
 Hampton by Hilton Bristol Airport,BS48 3AQ,51.3873,-2.7140
 The Rising Sun,BS48 3BH,51.4093,-2.7473
 Flight Lounge,BS48 3DP,51.3864,-2.7089
 Frankie and Benny's,BS48 3DY,51.3859,-2.7128
-The Restaurant Group Plc,BS48 3DY,51.3856,-2.7048
-Burger King (Airside),BS48 3EP,51.3857,-2.7050
 The George,BS48 3PG,51.4186,-2.7270
 Backwell House Limited,BS48 3QA,51.4207,-2.7168
-Wilson Vale Catering Management Ltd @ Tarmac Ltd,BS48 3QD,51.4160,-2.7168
 The Princes Motto,BS48 3RY,51.4090,-2.6772
 the moorend spout,BS48 4BB,51.4308,-2.7746
 Ring O Bells ,BS48 4NQ,51.4240,-2.7721
@@ -177,7 +171,6 @@ The Railway Inn,BS49 4AJ,51.3916,-2.8270
 The Market Inn,BS49 4AL,51.3923,-2.8272
 That Coffee Place ,BS49 4EG,51.3872,-2.8196
 feast house,BS49 4RF,51.3925,-2.8264
-Blue Diamond Cadbury Garden Centre,BS49 5AA,51.3754,-2.8106
 Heather's Coffee Shop,BS49 5AA,51.3754,-2.8106
 Bardolino's Pizzeria  Bellini & Espresso Bar by Marco Pierre White,BS49 5AD,51.3803,-2.8101
 Marco Pierre White Steakhouse Bar and Grill Bristol,BS49 5AD,51.3803,-2.8101
@@ -191,4 +184,5 @@ failand inn,BS8 3TU,51.4445,-2.7002
 Y MAERUN PUB & DINING,CF3 2TU,51.5328,-3.0656
 Y Maerun Pub,CF3 2TU,51.5328,-3.0656
 The Masons Arms (Marshfield) Ltd,CF3 2TX,51.5315,-3.0690
+Beefeater Coach & Horses,CF3 2UQ,51.5465,-3.0781
 shipwreck cafe,NP10 8SH,51.5329,-3.0126

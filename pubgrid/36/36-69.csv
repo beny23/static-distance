@@ -1,26 +1,20 @@
 name,postcode,lat,lon
-Costa Coffee,CM1 1AN,51.7386,0.4789
+Costa Coffee,CM1 1AN,51.7379,0.4790
 McDonald's Riverside Retails Park,CM1 1AN,51.7386,0.4789
-Five Guys,CM1 1BE,51.7341,0.4737
+McDonald's,CM1 1AN,51.7380,0.4799
+Costa Coffee,CM1 1BE,51.7341,0.4736
 McDonald's Chelmsford High Street,CM1 1BE,51.7336,0.4743
+McDonald's,CM1 1BE,51.7325,0.4747
 Middletons Steakhouse & Grill Chelmsford,CM1 1BE,51.7336,0.4743
-Pret A Manger,CM1 1BE,51.7336,0.4743
+Pret A Manger,CM1 1BE,51.7338,0.4737
 Venice Gelato Coffee ,CM1 1BE,51.7339,0.4737
-Yo Sushi,CM1 1BE,51.7336,0.4743
 The Steaming Mug Limited  Iocated in Debenhams,CM1 1DA,51.7332,0.4748
-Cafe Nero,CM1 1DX,51.7338,0.4732
-Costa Coffee,CM1 1EJ,51.7330,0.4737
+Costa Coffee,CM1 1EJ,51.7330,0.4739
 Stewart’s Deli and Tea Room,CM1 1ER,51.7340,0.4730
 Stewart’s Tea Rooms,CM1 1ER,51.7340,0.4730
 Jamaica blue ,CM1 1GD,51.7346,0.4760
-Prezzo,CM1 1GD,51.7346,0.4760
-Wagamama Ltd,CM1 1GD,51.7338,0.4759
-Ask Italian,CM1 1GH,51.7348,0.4754
-Benugo Ltd,CM1 1GH,51.7348,0.4754
-Everyman Cinema,CM1 1GH,51.7348,0.4754
 Tiptree Tea Room at Bond Street,CM1 1GH,51.7348,0.4754
 Coffee Republic Chelmsford,CM1 1HT,51.7365,0.4687
-Costa Coffee,CM1 1HT,51.7365,0.4687
 Dukes Street Takeaway,CM1 1HY,51.7367,0.4673
 PIZZA PLANET,CM1 1HY,51.7366,0.4676
 Il palazzo ,CM1 1JA,51.7370,0.4666
@@ -29,6 +23,7 @@ Pizza Hut,CM1 1JA,51.7370,0.4666
 Mojo,CM1 1LN,51.7355,0.4692
 Central Park Cafe,CM1 1LQ,51.7326,0.4642
 Back Inn Time,CM1 1NY,51.7370,0.4726
+Thyme,CM1 1NY,51.7368,0.4706
 ZIYARET RESTAURANT,CM1 1NY,51.7370,0.4726
 Ziyaret Restaurant ,CM1 1NY,51.7370,0.4726
 MI PIACE LIMITED,CM1 1NZ,51.7372,0.4720
@@ -38,34 +33,29 @@ SAPORI D' ABRUZZO LTD,CM1 1PP,51.7395,0.4737
 Subway,CM1 1SH,51.7414,0.4731
 THE SHIP,CM1 1SW,51.7382,0.4663
 Zorba The Greek Taverna,CM1 1TS,51.7354,0.4664
-BaxterStorey Catering,CM1 1WB,51.7351,0.4638
 Bourgee,CM1 1XB,51.7339,0.4723
 CITY DINER,CM1 1XB,51.7339,0.4723
 Banana Tree,CM1 1XD,51.7339,0.4717
-Turtle Bay,CM1 1XD,51.7339,0.4717
-Starbucks Coffee,CM1 1XL,51.7332,0.4714
 Munch,CM1 2AR,51.7439,0.4638
 The Black Bull (Chelmsford),CM1 2PN,51.7402,0.4547
 County Hotel Chelmsford,CM1 2PZ,51.7373,0.4638
 AMALFI BISTRO,CM1 2QE,51.7291,0.4565
-BaxterStorey Catering At E2V,CM1 2QX,51.7301,0.4567
 McDonald's Westway,CM1 3AF,51.7255,0.4486
-McDonalds Restaurant,CM1 3AF,51.7255,0.4486
+McDonald's,CM1 3AF,51.7220,0.4499
 The Secret Garden Tearoom Limited,CM1 3BL,51.7261,0.4565
 Rose & Crown,CM1 3DT,51.7300,0.4263
 Robyn's Nest Limited,CM1 3DU,51.7308,0.4275
 The Wheatsheaf,CM1 3DU,51.7309,0.4274
 Pakwaan Indian Punjabi Cuisine,CM1 3EY,51.7296,0.4313
-Costa Coffee,CM1 3FJ,51.7238,0.4526
+Costa Coffee,CM1 3FJ,51.7231,0.4510
 Tiptree Tea Room at the College (Writtle),CM1 3RS,51.7363,0.4273
 The Fox and Goose,CM1 3SN,51.7217,0.3725
 KFC Chelmsford,CM1 4DP,51.7512,0.4687
-KFC,CM1 4DP,51.7512,0.4687
+KFC,CM1 4DP,51.7519,0.4691
 The Hare,CM1 4LU,51.7484,0.4024
 Pig & Whistle Restaurant,CM1 4SZ,51.7743,0.4291
+Costa Coffee,CM1 6AS,51.7599,0.4998
 Aimes Ltd t/a Costa Coffee  Beaulieu Square,CM1 6AU,51.7610,0.4994
-Costa Coffee,CM1 6AU,51.7610,0.4994
-Elior Fontanella,CM1 7ET,51.7746,0.4654
 Downham Hall,CM11 1LG,51.6285,0.5008
 The White Horse,CM11 1NA,51.6359,0.4726
 Beauvoir Arms,CM11 1QH,51.6388,0.4875
@@ -75,20 +65,18 @@ Helen Arber Performing Arts Ltd,CM12 0DX,51.6305,0.4140
 Peapod Cafe,CM12 0DX,51.6304,0.4142
 Players Lounge,CM12 0DX,51.6304,0.4142
 peapod cafe ltd,CM12 0DX,51.6304,0.4142
-Ask Italian,CM12 9AS,51.6256,0.4172
 AMICO,CM12 9AX,51.6264,0.4181
 Kosthuree,CM12 9AX,51.6264,0.4181
-Pizza Express,CM12 9AX,51.6264,0.4181
 Slipprd discs brown sugar,CM12 9AX,51.6264,0.4181
 Cloud9 Espresso Bar and Kitchen,CM12 9BA,51.6273,0.4187
-J D Wetherspoon,CM12 9BA,51.6272,0.4187
 Thai House Essex Ltd,CM12 9BA,51.6273,0.4187
+The Blue Boar Billericay (Wetherspoon),CM12 9BA,51.6269,0.4186
 Menad,CM12 9BE,51.6279,0.4189
 Harry's Bar and Restaurant,CM12 9BQ,51.6270,0.4190
-Prezzo,CM12 9BQ,51.6270,0.4190
 the chequers,CM12 9BQ,51.6270,0.4190
 Fish 'n' Chick'n Billericay,CM12 9BS,51.6254,0.4179
 Flamingo,CM12 9BS,51.6254,0.4179
+Costa Coffee,CM12 9BT,51.6251,0.4176
 French Martini,CM12 9DZ,51.6276,0.4184
 The Coach & Horses,CM12 9LU,51.6251,0.4182
 Chartwells (Compass Group) At Woodlands School,CM13 1SD,51.6284,0.3692
@@ -105,7 +93,6 @@ Driink Coffee Club,CM2 0DD,51.7293,0.4782
 Lanthong Thai Restaurant,CM2 0DG,51.7304,0.4747
 Moto Pizza,CM2 0DG,51.7303,0.4750
 Bar&Beyond Chelmsford,CM2 0HR,51.7312,0.4747
-Pizza Hut Restaurant,CM2 0HR,51.7312,0.4747
 Roasta Buffet,CM2 0HR,51.7312,0.4747
 KINGS COFFEE HOUSE,CM2 0HU,51.7308,0.4739
 El Chigre Tapas Bar,CM2 0HX,51.7300,0.4730
@@ -120,36 +107,32 @@ Rustic's Restaurant,CM2 0LD,51.7286,0.4701
 Subway,CM2 0LD,51.7287,0.4700
 BALTIKING,CM2 0LG,51.7300,0.4722
 Bay Horse,CM2 0LG,51.7297,0.4717
-Pizza Express,CM2 0LR,51.7313,0.4739
 Brambles Restaurant,CM2 0LS,51.7312,0.4741
 Shwings,CM2 0ND,51.7316,0.4729
 Mamasaaga kitchen ,CM2 0NF,51.7307,0.4726
 Virgin Active Chelmsford,CM2 0RR,51.7306,0.4655
 SUBWAY ,CM2 0SW,51.7328,0.4730
+The Ivory Peg Chelmsford (Wetherspoon),CM2 0SW,51.7325,0.4733
 Taco Bell,CM2 0UR,51.7309,0.4731
 Recess coffee shop ,CM2 0UU,51.7316,0.4738
 Polignano ,CM2 0WP,51.7307,0.4752
-McDonalds Restaurants Ltd,CM2 5PS,51.7553,0.5180
+McDonald's,CM2 5PS,51.7552,0.5182
 LONGACRES CHELMSFORD GARDEN CENTRE,CM2 5PX,51.7454,0.5073
+Thyme,CM2 5PY,51.7559,0.5195
 Kaspas,CM2 6FA,51.7324,0.4758
 ASIA & IMRAN LTD T/A Bakers and Baristas ,CM2 6FD,51.7318,0.4758
-Burger King,CM2 6FD,51.7317,0.4761
 MUFFIN BREAK,CM2 6FD,51.7317,0.4762
 Preto,CM2 6FD,51.7317,0.4761
-Costa Coffee,CM2 6FF,51.7320,0.4760
-Wildwood,CM2 6FF,51.7320,0.4760
+Costa Coffee,CM2 6FE,51.7322,0.4760
 Small Talk Tearooms,CM2 6JE,51.7329,0.4765
 Empire Palace,CM2 6JW,51.7355,0.4812
 Sweet Pea Cafe ,CM2 6JY,51.7334,0.4787
 Two Brewers,CM2 6JY,51.7334,0.4787
 The Riverside Inn ,CM2 6LJ,51.7360,0.4793
 MACE PLAYCE,CM2 6PB,51.7456,0.5068
-Nandos,CM2 6QR,51.7328,0.4754
-Zizzi,CM2 6QR,51.7328,0.4754
+Nando's,CM2 6QR,51.7327,0.4755
 martellas,CM2 6RF,51.7366,0.5065
-Costa Coffee,CM2 6XE,51.7328,0.4959
-Costa Coffee,CM2 6XE,51.7339,0.4967
-Pizza Hut Restaurant,CM2 6XE,51.7326,0.4958
+Costa Coffee,CM2 6XE,51.7321,0.4946
 Russell's Restaurant,CM2 7JS,51.7161,0.5014
 Moda,CM2 7QS,51.7177,0.5012
 the glasshouse cafe,CM2 7QS,51.7177,0.5012
@@ -164,6 +147,7 @@ Fat shish restaurant ,CM2 8PU,51.7004,0.4705
 Chelmsford Golf Club Ltd (The),CM2 9AP,51.7184,0.4553
 THE HIVE CHELMSFORD LIMITED,CM2 9AQ,51.7227,0.4615
 EAGLE AND HIND LTD,CM2 9LG,51.7166,0.4751
+Costa Coffee,CM2 9XW,51.7208,0.4623
 The Rose and Crown,CM3 1AG,51.7901,0.4653
 Galvin Green Man,CM3 1BG,51.8052,0.4598
 The Compasses,CM3 1BU,51.8263,0.4630
@@ -175,14 +159,13 @@ The Blue Strawberry Bistrot,CM3 2DW,51.7754,0.5925
 The William B,CM3 2ET,51.7747,0.5904
 Pear Tree Pantry,CM3 2JW,51.7681,0.6327
 Queens Head,CM3 3EG,51.7581,0.5431
-Costa Coffee,CM3 3FY,51.7721,0.4873
-McDonalds,CM3 3FY,51.7721,0.4873
 The English Auberge Co Ltd t/a  The Lion Inn,CM3 3JA,51.7581,0.5303
 The Six Bells,CM3 3JE,51.7645,0.5480
 White Hart,CM3 3NY,51.7906,0.4761
 Little Channels,CM3 3PR,51.7790,0.4861
 Channels Estate,CM3 3PT,51.7727,0.4968
 McDonald's Regiment Way,CM3 3PZ,51.7786,0.4895
+McDonald's,CM3 3PZ,51.7716,0.4869
 THE GRIFFIN,CM3 4DH,51.7187,0.5722
 The Bell,CM3 4DT,51.7188,0.5646
 THE CRICKETERS ARMS,CM3 4ED,51.7129,0.5736
@@ -195,7 +178,8 @@ THE GENERALS ARMS,CM3 4SX,51.7349,0.5773
 Munchies Cafe,CM3 5JT,51.6493,0.6092
 WHALEBONE,CM3 5QU,51.6517,0.6004
 McDonald's Asda SWF,CM3 5SY,51.6435,0.6175
-Costa Coffee,CM3 5TD,51.6442,0.6174
+McDonald's,CM3 5SY,51.6439,0.6177
+Costa Coffee,CM3 5TD,51.6441,0.6179
 Vibrant catering limited T/A Elachi ,CM3 5TG,51.6440,0.6168
 Coffee Lounge,CM3 5TQ,51.6447,0.6184
 SUBWAY,CM3 5TQ,51.6447,0.6184
@@ -213,7 +197,6 @@ The Bell,CM3 6QJ,51.6863,0.6625
 The Fox and Hounds Free House Limited ,CM3 6RF,51.6938,0.6262
 Prince of Wales ,CM3 6SA,51.6629,0.6457
 The Folly Bistro,CM3 8AA,51.6799,0.5606
-Elior UK,CM3 8BD,51.6652,0.5242
 The Bell Inn,CM3 8DY,51.6524,0.5487
 Royal Tiger ,CM3 8EE,51.6698,0.5353
 The Old Windmill,CM3 8HJ,51.6504,0.5197
@@ -234,10 +217,9 @@ The Old Kings Head,CM4 9PQ,51.6531,0.4360
 Phoenix Smokery,CM4 9RN,51.6592,0.4758
 The Spotted Dog,CM6 1NF,51.8360,0.3653
 Tiptree Tea Room at The Barns,CM77 8PD,51.8389,0.6078
-Burger King,CM77 8YH,51.7704,0.7073
 Astare Restaurant ,CM8 1AA,51.7987,0.6390
 Mama Dells Limited,CM8 1AA,51.7987,0.6390
-Prezzo,CM8 1AH,51.7991,0.6388
+The Battesford Court Witham (Wetherspoon),CM8 1AH,51.7983,0.6377
 IFRAAZ,CM8 1BA,51.7978,0.6369
 Notleys Golf Club Ltd,CM8 1RG,51.8452,0.5759
 Crofters Wine Bar,CM8 2AA,51.7991,0.6414
@@ -249,16 +231,16 @@ haspolen limited,CM8 2AQ,51.8011,0.6413
 The Tea Rooms,CM8 2AR,51.8001,0.6401
 The Railway,CM8 2DE,51.8060,0.6365
 Rivenhall Oaks Golf Centre,CM8 2PS,51.8122,0.6466
-Costa Coffee,CM8 2YT,51.7996,0.6420
+Costa Coffee,CM8 2YT,51.7991,0.6428
 Cafe Torque,CM8 3DR,51.8074,0.6474
-Starbucks,CM8 3HB,51.8206,0.6770
 The Green Man,CM8 3LB,51.7857,0.6797
 Benton Hall Golf & Country Club,CM8 3LH,51.7884,0.6498
 Western Arms,CM8 3SD,51.8436,0.6290
+Costa Coffee,CM9 4DY,51.7358,0.6821
 Heybridge Tandoori Restaurant,CM9 4GD,51.7405,0.6890
 The Breakfast Bar Heybridge Breakfast Bar limited ,CM9 4GD,51.7406,0.6892
 McDonald's Maldon,CM9 4LE,51.7350,0.6789
-McDonalds,CM9 4LE,51.7350,0.6789
+McDonald's,CM9 4LE,51.7370,0.6794
 New Pavilion Restaurant ,CM9 4LT,51.7412,0.6843
 luigis al fresco,CM9 4PZ,51.7322,0.6786
 Rubino Kitchen Limited,CM9 4RE,51.7418,0.7188
@@ -274,10 +256,10 @@ HOUSE OF DELIGHT,CM9 5BX,51.7296,0.6839
 IL CAMINO RESTAURANT,CM9 5BX,51.7296,0.6839
 The borough arms,CM9 5DD,51.7264,0.6826
 Mrs Salisbury's Famous Tea Rooms,CM9 5EP,51.7313,0.6802
-Prezzo,CM9 5EP,51.7313,0.6803
+Rose  Crown Maldon (Wetherspoon),CM9 5EP,51.7315,0.6777
 SUBWAY,CM9 5EP,51.7313,0.6803
 Swan Hotel Bar & Grill,CM9 5EP,51.7313,0.6803
-Costa Coffee,CM9 5ET,51.7309,0.6802
+Costa Coffee,CM9 5ET,51.7311,0.6795
 El Guaca Mexican Grill,CM9 5ET,51.7309,0.6804
 Venice Gelato Coffee ,CM9 5ET,51.7309,0.6805
 sark restaurant,CM9 5ET,51.7309,0.6805

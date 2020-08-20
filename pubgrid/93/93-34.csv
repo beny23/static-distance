@@ -2,12 +2,10 @@ name,postcode,lat,lon
 The Gargunnock Inn,FK8 3BW,56.1249,-4.0845
 the coffee kiln,FK8 3LP,56.1154,-4.2924
 The Tavern 1851 Ltd,FK8 3LX,56.1157,-4.2923
-KFC,G15 6RX,55.9051,-4.3775
-Starbucks,G15 6RX,55.9051,-4.3775
-Burger King,G15 6SA,55.9029,-4.3766
+Burger King,G15 6SA,55.9031,-4.3779
+KFC,G15 6SA,55.9037,-4.3785
+McDonald's,G15 6SA,55.9038,-4.3777
 McDonalds Drumchapel 1504,G15 6SA,55.9028,-4.3766
-Mecca Bingo,G15 6SA,55.9029,-4.3766
-Pizza Hut,G15 6SA,55.9029,-4.3766
 Subway Drumchapel,G15 7TG,55.9107,-4.3724
 THE BUTTY BAR,G15 8NA,55.9108,-4.3729
 The Glen Lusset,G60 5DA,55.9221,-4.4563
@@ -19,9 +17,8 @@ Pizza Hut,G61 2RH,55.9172,-4.3310
 Grace & Favour Coffee Ltd,G61 2SR,55.9196,-4.3332
 DOUGLAS PARK GOLF CLUB,G61 2TJ,55.9215,-4.3169
 Glasgow Golf Club,G61 2TW,55.9083,-4.3022
-Elior UK PLC (within Allander Sports Complex),G61 3DF,55.9315,-4.3109
+McDonald's,G61 3DQ,55.9317,-4.3169
 McDonalds ,G61 3DQ,55.9317,-4.3169
-McDonalds,G61 3DQ,55.9317,-4.3169
 Raffaelle’s Italian Kitchen and bar,G61 3DY,55.9212,-4.3197
 55 Bar & Grill,G61 3RB,55.9203,-4.3341
 Massimo Restaurant,G61 3RG,55.9208,-4.3338
@@ -36,9 +33,12 @@ Andiamo,G62 6AQ,55.9416,-4.3107
 Cafe Alba,G62 6BJ,55.9405,-4.3178
 Finsbay,G62 6BU,55.9398,-4.3182
 FPizza,G62 6BW,55.9401,-4.3185
+Beefeater West Highland Gate,G62 6JQ,55.9348,-4.3162
 At Gavin's Mill Ltd,G62 6NB,55.9395,-4.3171
+Costa Coffee,G62 6NB,55.9398,-4.3156
 Classic India,G62 6PA,55.9415,-4.3172
 Subway - Milngavie,G62 6PA,55.9410,-4.3175
+Costa Coffee,G62 6PB,55.9414,-4.3180
 The Tea Cosy,G62 6PE,55.9408,-4.3185
 Hilton Park Golf Club,G62 7HB,55.9684,-4.3630
 Clober Golf Club,G62 7HP,55.9464,-4.3282
@@ -69,7 +69,9 @@ La Vita Pizzeria,G64 2LS,55.9055,-4.2245
 MAHONY'S STEAK HOUSE,G64 2LS,55.9053,-4.2247
 The Avenue Bar & Restaurant,G64 2LS,55.9054,-4.2247
 The Eagle Lodge,G64 2PN,55.9136,-4.2196
-Burger King (Uk) Ltd,G64 2PZ,55.9240,-4.2005
+Costa Coffee,G64 2TR,55.9051,-4.2240
+Burger King,G64 2TS,55.9215,-4.2099
+Costa Coffee,G64 2TS,55.9216,-4.2074
 Tim Hortons,G64 2TS,55.9209,-4.2079
 Cawder Golf Club,G64 3QD,55.9270,-4.2329
 THE TORRANCE INN,G64 4EL,55.9371,-4.2131
@@ -79,7 +81,6 @@ New gulistan tandoori restaurant ,G65 0BD,55.9759,-4.0554
 Alex's Place,G65 0HL,55.9776,-4.0583
 The Coachman Hotel,G65 0SP,55.9788,-4.0583
 The Boathouse,G65 9SG,55.9672,-4.0522
-Elior UK Ltd (within William Patrick Library),G66 1AD,55.9416,-4.1590
 Nonnas Kitchen,G66 1HF,55.9385,-4.1554
 Bar Bliss Ltd,G66 1HW,55.9412,-4.1588
 Bistro75,G66 1HW,55.9400,-4.1570
@@ -90,6 +91,7 @@ Regent Brasserie,G66 1JD,55.9396,-4.1564
 The Courtyard Cafe,G66 1JH,55.9395,-4.1572
 MARIANA,G66 1JT,55.9392,-4.1558
 Thai Cafe,G66 1NG,55.9377,-4.1536
+The Kirky Puffer Glasgow (Wetherspoon),G66 1NG,55.9382,-4.1546
 The sweetie shop ,G66 1NG,55.9377,-4.1538
 Kirkintilloch Baptist Church No52 ,G66 1NL,55.9367,-4.1533
 The Lion & Star,G66 1NL,55.9376,-4.1543
@@ -98,8 +100,8 @@ Lux Nightclub Ltd,G66 1PN,55.9422,-4.1563
 Indian cottage kirkintilloch ,G66 1QD,55.9428,-4.1529
 Caulders Kirkintiloch,G66 1QF,55.9462,-4.1425
 Kirkintilloch Golf Club,G66 1RN,55.9433,-4.1713
+McDonald's,G66 1SY,55.9432,-4.1542
 McDonald's,G66 1SY,55.9432,-4.1543
-McDonalds,G66 1SY,55.9432,-4.1543
 The Redbrae bar,G66 2BX,55.9391,-4.1449
 Elior UK Ltd (within Kirkintilloch Leisure Centre),G66 3DD,55.9315,-4.1515
 Billingtons of Lenzie,G66 4LQ,55.9220,-4.1544
@@ -111,21 +113,23 @@ Glazert Country House Hotel,G66 7DJ,55.9701,-4.1965
 The Fells Coffee House,G66 8BQ,55.9646,-4.1616
 Kincaid House Hotel,G66 8BZ,55.9582,-4.1640
 Innoflate Cumbernauld,G68 9HX,55.9283,-4.0555
-14 Forty (Compass Group UK & Ireland),G68 9LB,55.9341,-4.0543
-McDonalds Bakery,G81 1EA,55.9019,-4.4049
 Clyde Cross Fish & Chip Shop,G81 1RT,55.9011,-4.4050
 The Lounge by The Clyde,G81 1RT,55.9011,-4.4050
 SIXTY ATE BAR & KITCHEN,G81 1UG,55.9020,-4.4090
 BBQ Hut Peri Peri,G81 2JF,55.9078,-4.4025
 McDonalds Clydebank DriveThru 1121,G81 2PE,55.9056,-4.3960
 Club 3000 Bingo Clydebank,G81 2QB,55.9056,-4.3984
+McDonald's,G81 2QB,55.9064,-4.3980
 Kitchen Cafes,G81 2RR,55.9047,-4.4042
 bb's coffee & muffins,G81 2RR,55.9047,-4.4042
 MAHONYS ,G81 2RZ,55.9045,-4.4028
 Matzaluna ,G81 2RZ,55.9042,-4.4027
+McDonald's,G81 2RZ,55.9042,-4.4027
 McDonalds Clydebank 294,G81 2RZ,55.9045,-4.4028
-Nandos,G81 2RZ,55.9043,-4.4028
+Nando's,G81 2RZ,55.9041,-4.4026
 Costa Coffee,G81 2TL,55.9046,-4.4037
+Costa Coffee,G81 2TL,55.9050,-4.4034
+KFC,G81 2XA,55.9035,-4.3976
 Coffee Club Scotland Ltd,G81 2XT,55.9112,-4.3896
 Golden Jubilee Conference Hotel,G81 4SA,55.9094,-4.4362
 Q Kitchen Ltd,G81 5QY,55.9234,-4.3951

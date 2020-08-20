@@ -1,7 +1,5 @@
 name,postcode,lat,lon
 The Bell Inn,B46 1AA,52.4996,-1.7090
-Elior,B46 1AL,52.5243,-1.7011
-Compass Group 14forty at DHL,B46 1DA,52.5233,-1.7090
 Nestle Purina,B46 1DA,52.5233,-1.7090
 BMW Hams Hall,B46 1GB,52.5268,-1.7011
 The Plough Inn Pub & Restaurant Ltd,B46 2AN,52.5150,-1.6658
@@ -13,42 +11,38 @@ The Bubble Inn Furnace End,B46 2LG,52.5187,-1.6348
 Polash Indian Restaurant ,B46 3AG,52.4999,-1.7068
 The Red Lion Coleshill,B46 3BB,52.4952,-1.7048
 RHK Dreamers Indian Cuisine,B46 3BG,52.4968,-1.7054
+Costa Coffee,B46 3BJ,52.4977,-1.7061
 Costa Coffee,B46 3BJ,52.4978,-1.7062
 Cafe on the Hill,B46 3BL,52.4986,-1.7069
 Tamanna Rajrani Enterprise Limited,B46 3BL,52.4986,-1.7068
 Coleshill Balti LTD,B46 3BP,52.4981,-1.7058
 Indian Lounge,B46 3BT,52.4982,-1.7058
 George & Dragon,B46 3EH,52.4885,-1.7053
-Costa Coffee (Melbicks),B46 3HX,52.4619,-1.7067
 Lea Marston Hotel Golf & Country Club Ltd,B76 0BY,52.5467,-1.7027
 The old barn coffee shop,B76 0DY,52.5607,-1.7002
 Brook Marston Farm Hotel,B76 9JD,52.5621,-1.7075
 The Dog and Doublet ,B76 9JD,52.5621,-1.7075
 Compass Group At Amington Heath Primary School & Nursery,B77 4EN,52.6288,-1.6518
+McDonald's,B77 5AB,52.6108,-1.6777
 McLean Restaurants Ltd,B77 5AB,52.6106,-1.6766
-Compass Group Uk (Sainsburys D C),B77 5BP,52.6083,-1.6651
 Queens Head,B77 5BP,52.6083,-1.6651
 Truly Scrumptious ,B77 5BY,52.6042,-1.6730
-Mcdonalds (Watling Street),B77 5BZ,52.6114,-1.6789
 Jump Xtreme,B77 5DF,52.6078,-1.6755
-Burger King,B77 5PS,52.6082,-1.6411
-Costa Coffee,B77 5PS,52.6082,-1.6411
-Moto Hospitality,B77 5PS,52.6082,-1.6411
-Travelodge Moto Services,B77 5PS,52.6075,-1.6401
+Table Table The Centurion,B77 5PN,52.6043,-1.6485
 The Samuel Barlow ,B78 1AS,52.6343,-1.6351
 Little India,B78 1JH,52.6179,-1.6188
-Starbucks,B78 1SU,52.5958,-1.6098
 Simla Restaurant,B78 1SY,52.5981,-1.6167
 Brittons caterers at Cliff Lakes ,B78 2DL,52.5810,-1.6900
 THE MALT HOUSE,B78 2DL,52.5811,-1.6900
 Baxterstorey at TNT Kingsbury KDC,B78 2EX,52.5840,-1.6570
 Planters Garden Centre Ltd,B78 2EY,52.5961,-1.6463
-Nando's,B78 3HB,52.6275,-1.7018
-Pizza Express,B78 3HB,52.6275,-1.7018
+Costa Coffee,B78 3HB,52.6264,-1.6989
+McDonald's,B78 3HD,52.6276,-1.7042
 McLean Restaurants Ltd,B78 3HD,52.6278,-1.7070
-Mcdonalds,B78 3HD,52.6278,-1.7070
-Costa Coffee Unit 2,B78 3HL,52.6269,-1.7075
-Costa Coffee Inside Next,B78 3JD,52.6269,-1.7005
+Nando's,B78 3HD,52.6269,-1.7054
+Beefeater The Ladybridge,B78 3HQ,52.6293,-1.7016
+Costa Coffee,B78 3JD,52.6285,-1.7020
+KFC,B78 3JD,52.6273,-1.7007
 Fazeley Park Restaurant ,B78 3RF,52.6144,-1.6983
 IVORY TUSK ,B78 3RG,52.6137,-1.6991
 Newton Regis Garden Centre,B79 0DF,52.6538,-1.6049
@@ -57,7 +51,6 @@ Delhi Divan,B79 7AL,52.6351,-1.6934
 Globe Inn Limited,B79 7AT,52.6358,-1.6938
 La Clique Lounge Ltd T/A Corey's,B79 7AT,52.6352,-1.6940
 Poachers Cafe Bistro,B79 7AX,52.6347,-1.6938
-Buzz Bingo,B79 7BD,52.6358,-1.6932
 Pizza Hut,B79 7DD,52.6345,-1.6970
 The Masala Boyz ,B79 7DF,52.6338,-1.6964
 JALALI RESTAURANT ,B79 7DL,52.6356,-1.6962
@@ -67,7 +60,6 @@ abs coffee and cakes,B79 7LG,52.6327,-1.6934
 Roasters Cafe & Coffee Shop,B79 7LJ,52.6333,-1.6933
 ZNM Resaurants ltd ta Little Dessert Shop Ltd,B79 7LJ,52.6333,-1.6933
 Costa Coffee,B79 7LN,52.6329,-1.6942
-Costa Coffee George Street,B79 7LQ,52.6327,-1.6934
 NIBBLES CAFE,B79 7LR,52.6330,-1.6963
 Community Together CIC,B79 7ND,52.6295,-1.6958
 Holiday Inn Express Tamworth,B79 7ND,52.6296,-1.6959
@@ -76,11 +68,13 @@ Blue Water Indian Restaurant,B79 7NH,52.6335,-1.6973
 Portobello restaurant ,B79 7NH,52.6335,-1.6973
 Side Walk café ,B79 7NJ,52.6334,-1.6951
 MIAH TANDOORI,B79 7PA,52.6333,-1.6918
+The Bole Bridge Tamworth (Wetherspoon),B79 7PA,52.6332,-1.6917
 Tudor house cafe,B79 7QB,52.6341,-1.6998
 No.18 Coffee House,B79 7QD,52.6338,-1.6994
 osaka-shi,B79 7RE,52.6343,-1.6984
 The Wigginton,B79 8TA,52.6491,-1.6891
 The Old Crown,B79 9DW,52.6574,-1.6922
+KFC,CV10 0AG,52.5266,-1.4625
 KFC,CV10 0AG,52.5267,-1.4626
 Cafe on the Corner,CV10 0JH,52.5372,-1.5163
 Grand Bingo Nuneaton,CV10 0JP,52.5369,-1.5161
@@ -90,8 +84,11 @@ Achar Indian Restaurant and Takeaway -The Stag and Pheasant,CV10 0SW,52.5479,-1.
 TRACEY'S CAFE,CV10 7DA,52.5085,-1.4752
 The Horseshoes,CV10 7JQ,52.5136,-1.4759
 CJ's restaurant and bar,CV10 7NJ,52.5156,-1.4987
+Beefeater Griff House,CV10 7PJ,52.4965,-1.4737
+KFC,CV10 7RG,52.4953,-1.4798
 KFC,CV10 7RG,52.5019,-1.4810
 Coombs Catering at Unipart Logistics,CV10 7RL,52.5012,-1.4775
+McDonald's,CV10 7SD,52.4980,-1.4745
 McLean Restaurants Ltd,CV10 7SD,52.4962,-1.4777
 Nuneaton Bowl,CV10 7SD,52.4969,-1.4768
 starbucks,CV10 7SD,52.4969,-1.4768
@@ -106,7 +103,7 @@ Busters,CV11 4EA,52.5227,-1.4674
 The time cafe ,CV11 4EA,52.5227,-1.4670
 Alara Bistro & Coffee Ltd,CV11 4ED,52.5233,-1.4656
 MELISSA COFFEE LTD,CV11 4EU,52.5235,-1.4664
-McDonalds,CV11 4FL,52.5270,-1.4666
+McDonald's,CV11 4FL,52.5265,-1.4666
 McLean Restaurants Ltd,CV11 4FL,52.5270,-1.4666
 Jennys Restaurant Nuneaton Ltd.,CV11 4HB,52.5240,-1.4672
 Cassandras Restaurant Ltd,CV11 4HL,52.5238,-1.4679
@@ -115,13 +112,14 @@ The Arches Bar and Restaurant,CV11 4NL,52.5123,-1.4674
 Ivys cafe,CV11 4PR,52.5134,-1.4541
 Desserts.Nuneaton Ltd,CV11 5BP,52.5231,-1.4688
 Hannah's cafe,CV11 5BS,52.5232,-1.4691
+The Felix Holt Nuneaton (Wetherspoon),CV11 5BS,52.5230,-1.4692
 Toppers,CV11 5BS,52.5232,-1.4691
 Amrita Limited T/A Crossed Khukris Gurkha Restaurant ,CV11 5BX,52.5240,-1.4704
 Cream on the Green Ltd,CV11 5DN,52.5268,-1.4748
 Agra Palace ,CV11 5DR,52.5272,-1.4751
 FrannieAnnies,CV11 5HY,52.5272,-1.4758
 Sovranos Caffe,CV11 5JL,52.5228,-1.4692
-Caffe Nero,CV11 5JW,52.5225,-1.4691
+McDonald's,CV11 5JW,52.5224,-1.4694
 McLean Restaurants Ltd,CV11 5JW,52.5225,-1.4690
 Crave coffee and desserts ,CV11 5JZ,52.5222,-1.4733
 new gurkha ,CV11 5JZ,52.5222,-1.4733
@@ -130,7 +128,7 @@ Nuneaton Grill and Fish Bar Ltd,CV11 5LG,52.5220,-1.4766
 Pizza Hut,CV11 5LZ,52.5230,-1.4826
 Tea & Chat,CV11 5QH,52.5216,-1.4685
 Nuneaton museum and Art Gallery tearoom ,CV11 5TU,52.5196,-1.4668
-Costa Coffee,CV11 5TZ,52.5219,-1.4696
+Costa Coffee,CV11 5TZ,52.5216,-1.4695
 New Dragon (Leicester) Ltd,CV11 6GU,52.5266,-1.4384
 Rajdhani Restaurant,CV11 6GU,52.5266,-1.4384
 The Whitestone,CV11 6NF,52.5057,-1.4301
@@ -140,12 +138,13 @@ Meeting point café ,CV12 0NE,52.4865,-1.5194
 Palace Bedworth,CV12 8AB,52.4831,-1.4732
 The Newdigate Arms,CV12 8EF,52.4820,-1.4821
 Latte Artist Coffee Shop,CV12 8HT,52.4796,-1.4718
+The Bear and Ragged Staff Bedworth (Wetherspoon),CV12 8JA,52.4797,-1.4710
 Bedworth Ex-Servicemen's Club,CV12 8JH,52.4784,-1.4694
 Subway Bedworth,CV12 8JP,52.4811,-1.4726
 Mayors Cafe,CV12 8JT,52.4779,-1.4690
-Costa Coffee,CV12 8JX,52.4804,-1.4747
 Bedworth Civic Hall High Street Coffee Bar,CV12 8NF,52.4789,-1.4718
 COSTA COFFEE,CV12 8SX,52.4815,-1.4736
+Costa Coffee,CV12 8SX,52.4807,-1.4732
 Village Cafe,CV12 9NG,52.4760,-1.4247
 The Houz Bistro Ltd,CV12 9QX,52.4754,-1.4223
 Weston Hall Hotel,CV12 9RU,52.4817,-1.4357
@@ -162,7 +161,6 @@ The George and Dragon ,CV13 6EZ,52.5709,-1.4169
 Mango Tree,CV13 6HE,52.5720,-1.4138
 White Swan,CV13 6HE,52.5720,-1.4138
 The Old Crown,CV2 1NP,52.4532,-1.4636
-Elior UK,CV6 4BX,52.4549,-1.5240
 SFC ,CV6 4HH,52.4503,-1.5111
 SIZZLORD LTD T/A Khusi Grill ,CV6 4HH,52.4503,-1.5111
 the longford engine,CV6 6BP,52.4544,-1.4848
@@ -176,16 +174,13 @@ Heart of England Promotions Ltd,CV7 8DX,52.4660,-1.6075
 The Cottage Inn,CV7 8EG,52.4870,-1.5938
 Hare and Hounds,CV7 8JA,52.4507,-1.5308
 Royal Court Hotel Coventry,CV7 8JG,52.4511,-1.5485
-Burger King (North),CV7 8NR,52.4718,-1.5467
-Burger King (South),CV7 8NR,52.4718,-1.5467
-KFC (North),CV7 8NR,52.4718,-1.5467
-KFC (South),CV7 8NR,52.4718,-1.5467
-Starbucks (North),CV7 8NR,52.4718,-1.5467
-Starbucks (South),CV7 8NR,52.4718,-1.5467
+KFC,CV7 8NR,52.4719,-1.5466
+KFC,CV7 8NR,52.4720,-1.5467
 Starbucks Drive Thru (North),CV7 8NR,52.4718,-1.5467
 Starbucks Drive Thru (South),CV7 8NR,52.4718,-1.5467
 THE WHITE HORSE,CV9 1AB,52.5769,-1.5460
 The Black Horse,CV9 1AE,52.5759,-1.5413
+Costa Coffee,CV9 1AU,52.5779,-1.5483
 Costa Coffee,CV9 1AU,52.5780,-1.5482
 SPICE INN ATHERSTONE T/A HERBS & SPICES LTD,CV9 1AY,52.5780,-1.5497
 RAJ MAHAL,CV9 1AZ,52.5776,-1.5483
@@ -197,17 +192,13 @@ Horse & Jockey,CV9 2HL,52.5587,-1.5843
 Rose Inn,CV9 2LE,52.5693,-1.5899
 The Anchor Inn,CV9 2LR,52.5707,-1.6447
 The Kings Head,CV9 2PA,52.5798,-1.5541
-Costa Coffee,CV9 2PY,52.5949,-1.6066
 Holly lane Café ,CV9 2QZ,52.5830,-1.5532
-Baxterstorey at TNT Express House,CV9 2RY,52.5840,-1.5556
-Baxterstorey at TNT Parcel Distribution Centre,CV9 2RY,52.5840,-1.5556
 UK MASSALA MIX LTD T/A MAYA BAR & RESTAURANT,CV9 3AD,52.5837,-1.5473
 Cobwebs (Austrey) Ltd t/a Bird in Hand Inn,CV9 3EB,52.6522,-1.5624
 Blue Lion,CV9 3NA,52.5735,-1.5210
 THE GATE INN,CV9 3NY,52.5927,-1.5208
 The Black Horse,CV9 3QR,52.6103,-1.5184
 Appleby Inn,DE12 7AP,52.6722,-1.5406
-McDonalds Restaurants Ltd,DE12 7AP,52.6722,-1.5406
 McLean Restaurants Ltd,DE12 7AP,52.6722,-1.5406
 Buttercream Tearoom,LE10 0AD,52.5411,-1.3743
 New Baron of Hinckley,LE10 0AZ,52.5410,-1.3743
@@ -218,7 +209,9 @@ Rendezvous ,LE10 0DP,52.5474,-1.3716
 THE WHITE BEAR,LE10 0JT,52.5391,-1.3785
 The Golden Spoon Thai Restaurant Ltd,LE10 0JT,52.5391,-1.3785
 Balti Raj,LE10 0JU,52.5373,-1.3854
+Brewers Fayre Marina,LE10 0NB,52.5370,-1.4003
 KFC HINCKLEY - D/T,LE10 0NQ,52.5352,-1.3950
+KFC,LE10 0NQ,52.5360,-1.4010
 Simla Restaurant,LE10 0NQ,52.5354,-1.3949
 Carters the Restaurant,LE10 0QD,52.5383,-1.3776
 Snack shack ,LE10 0QD,52.5384,-1.3772
@@ -226,15 +219,12 @@ Stottie shop,LE10 0QD,52.5384,-1.3772
 Carters Lounge,LE10 0QJ,52.5392,-1.3752
 Delightful desserts Hinckley,LE10 0QJ,52.5392,-1.3753
 Burger King - Hinckley,LE10 0QQ,52.5389,-1.3743
-Burger King,LE10 0QQ,52.5389,-1.3743
-Costa Coffee,LE10 0QQ,52.5389,-1.3743
+Costa Coffee,LE10 0QQ,52.5389,-1.3750
 I Due Vulcani,LE10 0QQ,52.5389,-1.3743
-Prezzo,LE10 0QQ,52.5389,-1.3743
-Wildwood,LE10 0QQ,52.5389,-1.3743
 THE RAILWAY,LE10 1AP,52.5374,-1.3723
 Elbow Room Ale & Cider House,LE10 1AR,52.5381,-1.3733
 FAB,LE10 1AW,52.5399,-1.3731
-Costa Coffee,LE10 1DA,52.5417,-1.3698
+Costa Coffee,LE10 1DA,52.5415,-1.3713
 FIZHAS LTD T/A LEEJA RESTAURANT,LE10 1DA,52.5417,-1.3698
 Sovranos Caffe,LE10 1DA,52.5417,-1.3698
 Subway,LE10 1DA,52.5417,-1.3698
@@ -251,22 +241,18 @@ Everest Dine,LE10 1QW,52.5442,-1.3696
 Ashby Tavern,LE10 1SL,52.5493,-1.3679
 Charlotte's Cafe Bar Ltd,LE10 1YG,52.5564,-1.3753
 McDonald's Restaurants Ltd,LE10 1YG,52.5564,-1.3770
-McDonalds,LE10 1YG,52.5564,-1.3770
 HOUSE KITCHEN ,LE10 2AF,52.5317,-1.3502
 Windsor Tiffin,LE10 2EE,52.5266,-1.3503
 The Den - Coffee Shop ,LE10 2HL,52.5254,-1.3548
 THREE POTS PANTRY LTD,LE10 2JJ,52.5203,-1.3662
-KFC,LE10 3BE,52.5378,-1.4029
 Subway,LE10 3BE,52.5377,-1.4023
 McDonald's Restaurants Ltd,LE10 3BZ,52.5373,-1.4115
-McDonalds,LE10 3BZ,52.5373,-1.4115
 Acorns Coffee Shop,LE10 3DD,52.5531,-1.3390
 hinckley golf club,LE10 3DR,52.5541,-1.3473
 Lime Kilns,LE10 3ED,52.5336,-1.4099
 Pesto at the Axe & Compass,LE10 3HG,52.4968,-1.3575
 Sketchley Grange Hotel & Spa,LE10 3HU,52.5246,-1.3755
 Barnacles Restaurant & Bar Bistro,LE10 3JA,52.5128,-1.3596
-Jurys Inn Hinckley Island Hotel,LE10 3JA,52.5128,-1.3596
 The Bulls Head,LE10 3LB,52.4875,-1.3689
 THE BLUE PIG,LE10 3LG,52.4870,-1.3708
 Fourwards at ashfields ,LE9 7DG,52.5793,-1.3103

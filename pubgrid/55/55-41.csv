@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 McDonald's,CH6 5BG,53.2480,-3.1381
 RAJ BALTI HOUSE LIMITED,CH6 5DH,53.2480,-3.1312
+McDonald's,CH6 5GB,53.2508,-3.1360
 Temptations Retail Ltd,CH6 5GB,53.2503,-3.1402
 Eastern Spice,CH6 5NR,53.2490,-3.1331
 Thaidee Flint,CH6 5NR,53.2490,-3.1331
@@ -10,6 +11,7 @@ Spoons and Forks,CH7 1AL,53.1677,-3.1430
 lucy mays,CH7 1AP,53.1662,-3.1428
 The Gathering,CH7 1AX,53.1672,-3.1442
 Costa Coffee,CH7 1AZ,53.1672,-3.1421
+Costa Coffee,CH7 1AZ,53.1673,-3.1417
 Gerrards Confectioners North Wales Ltd,CH7 1AZ,53.1672,-3.1421
 Rubens Coffee Ltd,CH7 1AZ,53.1672,-3.1421
 Just Steak,CH7 1BH,53.1687,-3.1437
@@ -18,9 +20,11 @@ Lovelies Delights,CH7 1BQ,53.1683,-3.1426
 The Fat Boar Yr Wyddgrug,CH7 1EG,53.1672,-3.1401
 Y Baedd Bach,CH7 1ER,53.1667,-3.1412
 Deadwood Smokehouse Mold ,CH7 1ES,53.1661,-3.1411
+The Gold Cape Mold (Wetherspoon),CH7 1ES,53.1664,-3.1412
 Maria’s Cafe,CH7 1LA,53.1680,-3.1418
 McDonald's,CH7 1LA,53.1682,-3.1415
-Starbucks,CH7 1UE,53.1670,-3.1340
+McDonald's,CH7 1LA,53.1694,-3.1383
+Costa Coffee,CH7 1LB,53.1705,-3.1388
 Queens Head,CH7 1UQ,53.1662,-3.1288
 The Haven School,CH7 4AE,53.1581,-3.1545
 The Woodworks Cafe,CH7 4HE,53.1556,-3.1278
@@ -37,10 +41,10 @@ Druid Inn,CH7 5SN,53.1335,-3.2153
 Edenshine Restaurant,CH7 5UB,53.2344,-3.3080
 Compass Group-Education Sector,CH7 6AA,53.2120,-3.1448
 highfield hall,CH7 6AZ,53.2059,-3.1093
-Northop Hall Starbucks,CH7 6HF,53.1979,-3.0902
 McDonald's,CH7 6HS,53.2023,-3.0978
 Beaufort Park Hotel,CH7 6RQ,53.1837,-3.1165
 The Celtic Arms,CH7 6WA,53.2018,-3.1233
+The Market Cross Holywell (Wetherspoon),CH8 7LA,53.2743,-3.2228
 Bells Cafe,CH8 7LH,53.2736,-3.2225
 Kassidys tea rooms ,CH8 7LH,53.2742,-3.2232
 Stamford Gate Hotel Ltd,CH8 7SJ,53.2628,-3.2107
@@ -48,10 +52,11 @@ Rosie'z Ltd,CH8 7TQ,53.2730,-3.2234
 Tea Rooms at the Pet Cemetery,CH8 8AD,53.2627,-3.2311
 Betty Berkins Coffee Shop at Glasdir,CH8 8BD,53.2470,-3.1895
 Springfield Hotel,CH8 8BD,53.2472,-3.1893
-Burger King,CH8 8DF,53.2277,-3.1711
 Holywell Golf Club,CH8 8LQ,53.2626,-3.2355
+McDonald's,CH8 8RF,53.2737,-3.3052
 McDonald's,CH8 8RF,53.2737,-3.3053
 Tyn Y Capel Inn & Restaurant ,LL11 3DA,53.0591,-3.0916
+The Castle Hotel Ruthin (Wetherspoon),LL15 1AA,53.1146,-3.3104
 Costa Coffee,LL15 1BE,53.1156,-3.3085
 Seven Oaks Garden Centre,LL15 1NJ,53.1204,-3.3098
 Lyons Woodland Hall Hotel,LL15 2AN,53.1075,-3.3574

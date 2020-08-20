@@ -1,18 +1,12 @@
 name,postcode,lat,lon
-Nando's,PL1 0FE,50.3741,-4.1383
-Turtle Bay,PL1 1AB,50.3711,-4.1386
 Discovery Cafe,PL1 1BA,50.3729,-4.1402
 Hubbox Plymouth,PL1 1DA,50.3709,-4.1393
-KFC,PL1 1DE,50.3713,-4.1388
-Caffe Nero,PL1 1DU,50.3705,-4.1413
-Burger King,PL1 1EA,50.3723,-4.1379
 Cafe Curva,PL1 1EA,50.3723,-4.1379
+Costa Coffee,PL1 1EA,50.3724,-4.1386
 SPUDULIKE PLYMOUTH,PL1 1EA,50.3723,-4.1379
 Starbucks Drakes Circus,PL1 1EA,50.3723,-4.1379
-Starbucks,PL1 1EA,50.3723,-4.1379
 Oggy Oggy pasty co,PL1 1ET,50.3710,-4.1462
 YUMMY CHINESE CUISINE LIMITED,PL1 1ET,50.3711,-4.1463
-Pizza Hut,PL1 1EW,50.3706,-4.1439
 Jack n Mols,PL1 1HX,50.3721,-4.1429
 Oggy oggy,PL1 1HZ,50.3730,-4.1430
 ORIGINAL PASTY HOUSE,PL1 1LA,50.3718,-4.1420
@@ -24,8 +18,6 @@ Asian noodle bar ,PL1 1NF,50.3726,-4.1451
 Steak and omelette ,PL1 1NF,50.3726,-4.1451
 Subway Cornwall Street,PL1 1NJ,50.3725,-4.1466
 Power Plant Cafe,PL1 1NS,50.3722,-4.1435
-Caffe Nero,PL1 1NW,50.3722,-4.1412
-Coffee#1,PL1 1NW,50.3722,-4.1412
 Expresso sandwich bar ,PL1 1NX,50.3721,-4.1451
 jakes ltd,PL1 1NX,50.3721,-4.1451
 Irene's Pantry,PL1 1PA,50.3722,-4.1461
@@ -41,13 +33,16 @@ Leandra Restaurant,PL1 1QA,50.3721,-4.1478
 Twist,PL1 1QL,50.3732,-4.1416
 POSITANO RESTAURANT,PL1 1QX,50.3736,-4.1414
 TOOT RESTAURANT,PL1 1QX,50.3736,-4.1414
+Costa Coffee,PL1 1QZ,50.3713,-4.1393
+McDonald's,PL1 1QZ,50.3712,-4.1399
 McDonalds,PL1 1QZ,50.3712,-4.1396
 Taco Bell ,PL1 1QZ,50.3711,-4.1401
 Fabulous Falafel ,PL1 1RE,50.3706,-4.1444
+Costa Coffee,PL1 1RJ,50.3712,-4.1429
 Moments Cafe,PL1 1RJ,50.3712,-4.1438
-Burger King,PL1 1RQ,50.3711,-4.1468
+Burger King,PL1 1RQ,50.3711,-4.1466
+Burger King,PL1 1RQ,50.3723,-4.1379
 McDonalds,PL1 1RX,50.3716,-4.1456
-KFC,PL1 1RZ,50.3715,-4.1466
 samphire brasserie,PL1 1SD,50.3731,-4.1449
 A.I.R GRILL HOUSE ,PL1 1TQ,50.3711,-4.1480
 The Treasury Cafe-bar-restaurant,PL1 2AD,50.3694,-4.1408
@@ -74,6 +69,7 @@ Rust & Royal,PL1 2JZ,50.3676,-4.1355
 The Ship Inn,PL1 2JZ,50.3676,-4.1353
 Sensational treats ,PL1 2LA,50.3678,-4.1374
 The Bottling Plant,PL1 2LA,50.3678,-4.1374
+The Gog and Magog Plymouth (Wetherspoon),PL1 2LA,50.3676,-4.1373
 Meze Grill ,PL1 2LD,50.3676,-4.1359
 THE FLOWER CAFE,PL1 2LD,50.3676,-4.1359
 Barbican Fish Bar,PL1 2LE,50.3673,-4.1353
@@ -99,10 +95,9 @@ The Corinthian ,PL1 2NY,50.3631,-4.1363
 Valentis cafe/bar,PL1 2PA,50.3654,-4.1402
 Everest Spice,PL1 2RH,50.3677,-4.1454
 DUNYA RESTAURANTS LTD,PL1 2SH,50.3704,-4.1466
-Pizza Express,PL1 2SU,50.3696,-4.1474
+The Union Rooms Plymouth (Wetherspoon),PL1 2SU,50.3697,-4.1480
 Lorenzo's Spanish Restaurant and Tapas Bar,PL1 2SW,50.3694,-4.1460
 SIZZ ALL,PL1 2SW,50.3695,-4.1461
-Wildwood Restaurant,PL1 2SW,50.3694,-4.1460
 By the Park Cafe,PL1 3BT,50.3642,-4.1480
 Maritimo Trading Ltd,PL1 3DE,50.3640,-4.1439
 OCEAN VIEW (SW) LTD,PL1 3DE,50.3640,-4.1440
@@ -113,21 +108,16 @@ Cawfee,PL1 3HL,50.3698,-4.1541
 new continental hotel,PL1 3LD,50.3686,-4.1489
 rhubarb and mustard,PL1 3LF,50.3681,-4.1492
 Salumi Bar & Eatery,PL1 3LH,50.3677,-4.1512
-KFC,PL1 3LU,50.3695,-4.1509
 PEDRO RIO T/a ' A TASKINHA',PL1 3LU,50.3696,-4.1507
 Bon appetit Plymouth ltd,PL1 3NB,50.3696,-4.1525
 Knead Pizza,PL1 3PE,50.3686,-4.1593
 Hook & Line,PL1 3QQ,50.3615,-4.1666
-Wagamama,PL1 3QQ,50.3616,-4.1658
 Artillery Tower restaurant,PL1 3QR,50.3628,-4.1607
 BISTROT PIERRE - PLYMOUTH,PL1 3RP,50.3624,-4.1641
 Le Vignoble Plymouth,PL1 3RP,50.3616,-4.1638
-Prezzo,PL1 3RP,50.3618,-4.1644
-Wildwood,PL1 3RP,50.3616,-4.1638
 The Fig Tree at 36,PL1 3RU,50.3640,-4.1605
 School Of Spice,PL1 4AE,50.3738,-4.1788
 The Park Pavillion Cafe Devonport Park,PL1 4BU,50.3739,-4.1709
-Mecca Bingo,PL1 4DN,50.3731,-4.1751
 Jolly Jacks,PL1 4LS,50.3646,-4.1673
 The Park Pavillion Cafe Victoria Park,PL1 5NJ,50.3762,-4.1542
 The Marina Cafe,PL10 1HG,50.3532,-4.1995
@@ -143,11 +133,10 @@ Caffe Corradi,PL12 4EE,50.4082,-4.2159
 The Plough Boy,PL12 4HG,50.4136,-4.2372
 The Crooked Inn,PL12 4RZ,50.4217,-4.2660
 Foreign Muck,PL12 6AB,50.4088,-4.2146
-McDonalds,PL12 6FG,50.4183,-4.2339
 New Rodney & XIN,PL12 6HL,50.4132,-4.2235
 The Bookshelf and Tea Rooms,PL12 6JW,50.4089,-4.2128
+McDonald's,PL12 6LF,50.4181,-4.2340
 McDonalds,PL12 6LF,50.4178,-4.2338
-Saltash Burger King,PL12 6LF,50.4178,-4.2338
 China Fleet Country Club Limited,PL12 6LJ,50.4186,-4.2147
 Tamar View nurseries ,PL12 6PH,50.4237,-4.2429
 THE WEARY FRIAR INN,PL12 6QS,50.4551,-4.3043
@@ -172,7 +161,7 @@ Taylors,PL19 0DD,50.5501,-4.1460
 The Union Inn,PL19 0DS,50.5502,-4.1473
 Coffee and Cream Patisserie,PL19 0HD,50.5514,-4.1429
 Oggy Oggy pasty company Tavistock ,PL19 0HD,50.5514,-4.1429
-Costa Coffee,PL19 0HE,50.5515,-4.1422
+Costa Coffee,PL19 0HE,50.5513,-4.1427
 Karen's Restaurant,PL19 0HE,50.5515,-4.1422
 BIRDS NEST,PL19 0JF,50.5509,-4.1450
 Cafe Liaison,PL19 8AA,50.5497,-4.1456
@@ -180,6 +169,7 @@ Church Lane,PL19 8AA,50.5495,-4.1456
 The Ganges Restaurant,PL19 8AD,50.5497,-4.1462
 A&S HOQUE LTD,PL19 8AJ,50.5495,-4.1477
 the cornish arms ,PL19 8AN,50.5492,-4.1479
+The Queens Head Hotel Tavistock (Wetherspoon),PL19 8AQ,50.5498,-4.1468
 CAM Trading Ltd -The Wharf Coffee Shop ,PL19 8AT,50.5475,-4.1470
 BEDFORD HOTEL,PL19 8BB,50.5493,-4.1446
 The Kitchen cafe,PL19 8BD,50.5488,-4.1467
@@ -191,6 +181,7 @@ Market Inn,PL19 9BB,50.5446,-4.1446
 The Whitchurch Inn Ltd,PL19 9ED,50.5340,-4.1287
 Drake's Cafe ,PL19 9ER,50.5247,-4.1270
 The Big Breakfast,PL2 1AL,50.3788,-4.1758
+The Britannia Inn Plymouth (Wetherspoon),PL2 3AA,50.3856,-4.1573
 Green Taverners Suite,PL2 3DQ,50.3874,-4.1517
 PLYMOUTH ARGYLE FOOTBALL CLUB,PL2 3DQ,50.3874,-4.1517
 Yelverton Golf Club Limited,PL20 6BN,50.4811,-4.0961
@@ -225,31 +216,30 @@ The Stoke Cafe,PL3 4DL,50.3809,-4.1656
 Cafe Indiya,PL3 4DR,50.3808,-4.1649
 Sage the Cafe,PL3 4JN,50.3855,-4.1379
 The Penguin Pub,PL3 5AA,50.3828,-4.1244
-Baxterstorey 5037 BBC Plymouth,PL3 5BE,50.3871,-4.1295
-Elior @ EDF Energy,PL3 5TU,50.3994,-4.1365
 Creme de la Creme catering ,PL3 6FG,50.3879,-4.1100
+Beefeater Marsh Mills,PL3 6RW,50.3909,-4.0889
 Domino's Pizza,PL4 0AH,50.3720,-4.1333
 Cafe Kiss,PL4 0BW,50.3714,-4.1336
 Fuel Catering ,PL4 0DN,50.3699,-4.1351
 The Marina Bar,PL4 0DN,50.3690,-4.1342
+Cookhouse + Pub Lockyers Quay,PL4 0DX,50.3677,-4.1293
 Mombay Brasserie,PL4 0DX,50.3673,-4.1275
 Bonnie's Brunch,PL4 0EG,50.3693,-4.1241
 The Boston Tea Party Group Limited,PL4 0EX,50.3686,-4.1351
 The Plymouth Stable,PL4 0EY,50.3687,-4.1350
-Five Guys,PL4 0FE,50.3707,-4.1369
-Zizzi,PL4 0FE,50.3707,-4.1369
+Nando's,PL4 0FE,50.3709,-4.1358
+Costa Coffee,PL4 0HH,50.3715,-4.1292
 Supha's Street Food Emporium,PL4 0HX,50.3690,-4.1309
 ROCKFISH PLYMOUTH,PL4 0LB,50.3667,-4.1317
 Ernies Cafe Ltd,PL4 0LE,50.3664,-4.1267
-Nando's,PL4 0LG,50.3671,-4.1254
-Pizza Express,PL4 0LG,50.3671,-4.1254
+Nando's,PL4 0LG,50.3669,-4.1249
 Waypoint Bar and Bistro Ltd,PL4 0LP,50.3650,-4.1279
 sound bites cafe,PL4 0LP,50.3650,-4.1279
 Royal Western Yacht Club of England Ltd,PL4 0TW,50.3646,-4.1291
-KFC,PL4 6JG,50.3810,-4.1331
 Pizza Hut,PL4 6JH,50.3825,-4.1337
 Starbucks ,PL4 6JH,50.3825,-4.1337
-Starbucks,PL4 6JH,50.3825,-4.1337
+The Mannamead Plymouth (Wetherspoon),PL4 6JH,50.3824,-4.1337
+Costa Coffee,PL4 6JJ,50.3829,-4.1339
 The Little kitchen,PL4 6LE,50.3823,-4.1342
 MUTLEYS MUNCHIES,PL4 6LF,50.3833,-4.1346
 Subway Mutley Plain,PL4 6LF,50.3832,-4.1347
@@ -260,14 +250,13 @@ The Caffeine Club,PL4 8AX,50.3742,-4.1370
 Air,PL4 8LH,50.3752,-4.1367
 Prime Cafe Bar,PL4 9AD,50.3726,-4.1350
 Curnows cafe,PL4 9NH,50.3706,-4.1188
-Jurys Inn Plymouth,PL4 OAZ,50.3715,-4.1339
 The Ferry House Inn,PL5 1LA,50.4053,-4.2007
 J’s Cafe & Takeaway ,PL5 1RW,50.4032,-4.1876
 Domino's Pizza,PL5 1TE,50.4019,-4.1856
 HONEY'S COFFEE,PL5 1TE,50.4019,-4.1857
 Pizza Hut,PL5 1TE,50.4019,-4.1856
 The Square Table Cafe,PL5 1TE,50.4019,-4.1856
-KFC,PL5 1UD,50.4005,-4.1849
+KFC,PL5 1UD,50.3996,-4.1840
 West Park Chippy,PL5 2HG,50.4126,-4.1682
 Premiere bar and grill,PL5 2LJ,50.4126,-4.1667
 Manadon Sports and Community Hub,PL5 3FD,50.4031,-4.1427
@@ -277,12 +266,10 @@ porkies cafe,PL5 4DE,50.4182,-4.1495
 Clip n Climb Plymouth Ltd,PL6 5AA,50.4139,-4.1188
 Nibana ,PL6 5AD,50.4077,-4.1329
 Pizza Hut,PL6 5AF,50.4155,-4.1180
-McDonalds,PL6 5DA,50.4146,-4.1269
-Pizza Hut,PL6 5DA,50.4146,-4.1269
 HANDS2GETHER,PL6 5DS,50.4154,-4.1344
 Plymouth Garden Centre,PL6 5NU,50.4049,-4.1181
 The Prince Maurice,PL6 5RJ,50.4004,-4.1149
-KFC,PL6 5US,50.4167,-4.1244
+KFC,PL6 5US,50.4166,-4.1244
 Future Inns Plymouth,PL6 5ZD,50.4135,-4.1239
 The lockdown bar & grill ,PL6 6QW,50.4295,-4.1240
 The Lopes Arms,PL6 7BD,50.4428,-4.1084
@@ -291,9 +278,7 @@ TNS Catering_Plessey,PL6 7BQ,50.4475,-4.1109
 The Dartmoor Diner ,PL6 7BQ,50.4475,-4.1109
 TNS Catering_Rittal CSM Ltd,PL6 7EZ,50.4458,-4.1197
 Hive Cafe,PL6 7FB,50.4224,-4.0980
-Atalian Servest (Barden Corporation),PL6 7LH,50.4195,-4.0921
 Al's Catering Ltd,PL6 7PP,50.4182,-4.0965
-Compass Group at Mars Wrigley Staff Feeding,PL6 7PR,50.4162,-4.0865
 PUB SOLUTIONS (SOUTH WEST) LIMITED,PL6 7PS,50.4177,-4.0896
 THE PUB PRESERVATION COMPANY LTD,PL6 7PS,50.4177,-4.0896
 Domino's Pizza,PL6 7RF,50.4354,-4.1096
@@ -304,11 +289,13 @@ Fresh From Warrens,PL6 8DH,50.4167,-4.1137
 Goodness at Greens,PL6 8DH,50.4167,-4.1137
 Nellies at the postgrad,PL6 8DH,50.4167,-4.1137
 Hotel ibis Plymouth,PL6 8LR,50.3954,-4.0944
-KFC,PL6 8NH,50.3928,-4.0868
+Costa Coffee,PL6 8LX,50.3934,-4.0912
+KFC,PL6 8NH,50.3926,-4.0877
 The Windmill Plymouth Ltd,PL6 8QB,50.4012,-4.0948
 The Brook Inn,PL7 1NJ,50.3825,-4.0462
 JASMINS CAFE,PL7 2AA,50.3879,-4.0515
 SHAPLA BALTI  Cuisine ,PL7 2AA,50.3879,-4.0515
+The Stannary Court Plympton (Wetherspoon),PL7 2AA,50.3878,-4.0517
 W & H JONES CATERING LIMITED,PL7 2AA,50.3878,-4.0515
 Mollie’s Coffee shop,PL7 2AW,50.3881,-4.0529
 Plympton Spice Delta Limited,PL7 2HJ,50.3875,-4.0492
@@ -317,16 +304,18 @@ Domino's Pizza,PL7 2XS,50.3873,-4.0245
 Final Coffee Limited,PL7 2ZN,50.3875,-4.0519
 Boringdon Hall Hotel,PL7 4DP,50.4009,-4.0543
 Boringdon Park Golf Club,PL7 4QG,50.3981,-4.0674
+McDonald's,PL7 4TB,50.3919,-4.0834
 McDonalds,PL7 4TB,50.3925,-4.0823
 The Treby Arms,PL7 5DD,50.4037,-3.9986
 Dartmoor Zoological Park,PL7 5DG,50.4094,-3.9935
 Elfordleigh Ltd,PL7 5EB,50.4101,-4.0497
 THE WHITE THORN INN ,PL7 5HA,50.4499,-4.0573
 The Moorland Hotel,PL7 5HP,50.4393,-4.0386
-Elior,PL7 5JX,50.3847,-4.0231
 Foxhound Inn,PL8 2AH,50.3511,-4.0356
 Otter Garden Centre,PL8 2BH,50.3530,-4.0491
+Costa Coffee,PL9 7AF,50.3601,-4.0909
 Rowes Bakery,PL9 7AF,50.3602,-4.0912
+McDonald's,PL9 7BH,50.3658,-4.1007
 McDonalds,PL9 7BH,50.3654,-4.1004
 Super Tramp Plymouth,PL9 7HJ,50.3659,-4.1078
 The Morley Bar & Eatery,PL9 7HP,50.3673,-4.1058

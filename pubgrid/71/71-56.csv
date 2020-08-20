@@ -1,5 +1,6 @@
 name,postcode,lat,lon
 Uno momento,DL6 1DP,54.3410,-1.4337
+Costa Coffee,DL6 1NP,54.3376,-1.4322
 Roots Farm Shop & Cafe,DL6 2LE,54.4243,-1.3415
 WHITEGATES NURSERY CAFE,DL6 2LL,54.4262,-1.3633
 The Village Inn,DL6 2RL,54.3627,-1.4176
@@ -18,16 +19,15 @@ The Crosby,DL6 3SP,54.3083,-1.3899
 Pottingshed Northallerton,DL7 8EN,54.3414,-1.4345
 THE DURHAM OX,DL7 8JX,54.3370,-1.4340
 Costa Coffee,DL7 8JZ,54.3383,-1.4343
+Costa Coffee,DL7 8JZ,54.3384,-1.4340
 Tejanos,DL7 8JZ,54.3383,-1.4343
 Tickle Toby Inn,DL7 8JZ,54.3383,-1.4340
 Bettys Northallerton,DL7 8LF,54.3393,-1.4347
 1882 Cafe & Bistro,DL7 8LP,54.3398,-1.4352
 Barkers Kitchen,DL7 8LP,54.3398,-1.4352
 White Horse Cafe,DL7 8LU,54.3414,-1.4358
+Costa Coffee,DL7 8LW,54.3402,-1.4359
 Costa Coffee,DL7 8LW,54.3405,-1.4349
-Costa Coffee,DL7 8LZ,54.3397,-1.4365
-Pizza Express,DL7 8PE,54.3372,-1.4334
-Caffe Nero,DL7 8PP,54.3401,-1.4340
 Katch,DL7 8PP,54.3401,-1.4339
 Lion of Asia Indian Restaurant,DL7 8PP,54.3401,-1.4341
 The Golden Lion Hotel,DL7 8PP,54.3401,-1.4340
@@ -38,8 +38,8 @@ The sandwich bar,DL7 8QR,54.3406,-1.4345
 Otterington Shorthorn ,DL7 9HP,54.2824,-1.4269
 Crathorne Hall Hotel,TS15 0AR,54.4709,-1.3162
 THE CRATHORNE ARMS,TS15 0BA,54.4613,-1.3210
+Costa Coffee,TS9 5AB,54.4696,-1.1923
 Sadlers Cafe & Bistro,TS9 5AB,54.4695,-1.1941
-Costa Coffee,TS9 5AD,54.4696,-1.1918
 The Leven,TS9 5AD,54.4697,-1.1919
 The Spread Eagle,TS9 5AD,54.4696,-1.1918
 TRUVAI,TS9 5BQ,54.4694,-1.1943
@@ -59,7 +59,6 @@ the jet miners inn,TS9 7EF,54.4480,-1.1562
 The Wainstones Hotel,TS9 7EW,54.4509,-1.1582
 Bay Horse,TS9 7HA,54.4455,-1.1541
 Lordstones Country Park,TS9 7JH,54.4198,-1.1934
-English Heritage Visitor Centre Cafe,YO62 5LB,54.2584,-1.1169
 THE CARPENTERS ARMS,YO7 2DP,54.2555,-1.2844
 Old Oak Tree,YO7 2NL,54.2503,-1.3486
 Dog and Gun ,YO7 4AZ,54.2862,-1.3340

@@ -1,19 +1,16 @@
 name,postcode,lat,lon
 Golden Ball Hotel,CB23 4LY,52.2594,-0.0277
 Chopstix Cambridge Extra,CB23 4WU,52.2689,-0.0088
+Costa Coffee,CB23 4WU,52.2689,-0.0087
 EL MEXICANA,CB23 4WU,52.2689,-0.0089
 FRESH ,CB23 4WU,52.2689,-0.0088
-KFC,CB23 4WU,52.2689,-0.0088
 McDonald's Cambridge Services,CB23 4WU,52.2689,-0.0088
-Moto Costa Coffee,CB23 4WU,52.2689,-0.0089
-Patisserie Valerie,CB23 4WU,52.2689,-0.0089
+McDonald's,CB23 4WU,52.2688,-0.0089
 Three Horseshoes,CB23 8AB,52.2259,0.0431
-Burger King,CB23 8DR,52.2590,0.0190
 Fox Inn,CB23 8DY,52.2533,0.0217
-Costa Coffee,CB23 8DZ,52.2535,0.0184
+Costa Coffee,CB23 8EL,52.2534,0.0186
 BAR HILL SPORTS AND SOCIAL CLUB,CB23 8SU,52.2489,0.0159
 TNS Catering_Domino,CB23 8TU,52.2582,0.0182
-Waterfall Elior,CB23 8TU,52.2581,0.0180
 The White Horse,CB24 3AB,52.2609,0.0632
 The Olive Tree Cafe,CB24 3BD,52.2571,0.0639
 black bull ,CB24 3BS,52.2818,0.0450
@@ -31,7 +28,6 @@ Barley mow,CB24 9JD,52.2524,0.1055
 THE INDIAN OCEAN,CB24 9JE,52.2532,0.1047
 The Boot,CB24 9LG,52.2519,0.1066
 The Railway Vue,CB24 9NP,52.2453,0.1100
-Elior,CB24 9NR,52.2469,0.1040
 The Anchor,CB25 0BA,52.2825,0.3248
 Waterfall Elior At Burwell Village College Primary School,CB25 0DX,52.2532,0.3012
 The Five Bells,CB25 0HD,52.2727,0.3274
@@ -41,33 +37,31 @@ The Crown & Punchbowl,CB25 9JG,52.2393,0.1851
 The Plough and Fleece,CB25 9JG,52.2393,0.1851
 Old Crown,CB3 0QD,52.2411,0.0810
 Girton Golf Club (Cambridge) Limited,CB3 0QE,52.2434,0.0795
-BaxterStorey,CB4 0FP,52.2315,0.1443
+KFC,CB3 8WG,52.2689,-0.0088
 The Bradfield Centre,CB4 0GA,52.2342,0.1478
 St John's Innovation Centre Ltd The Square,CB4 0WS,52.2353,0.1537
 Thoroughbreads,CB4 0WY,52.2315,0.1514
-Wilson Vale Catering Ltd  Qualcomm,CB4 0WZ,52.2288,0.1537
 Pizza Hut,CB4 2AD,52.2351,0.1180
+Thyme,CB4 2GW,52.2348,0.1162
 Cafe Camtown,CB4 2XF,52.2321,0.1227
+Costa Coffee,CB4 6AZ,52.2388,0.1546
 Waterfall Elior Ltd At Harlequin Childcare,CB6 1BL,52.4036,0.2581
 Waterfall Elior Ltd At Millfield Primary School,CB6 1HW,52.4495,0.2960
 Apple Green Service Station,CB6 1SG,52.4225,0.2675
 Arbuckles,CB6 2FE,52.4102,0.2514
-Costa Coffee,CB6 2FE,52.4102,0.2514
-KFC,CB6 2FE,52.4102,0.2514
-Nando's,CB6 2FE,52.4102,0.2514
-Pizza Hut,CB6 2FE,52.4102,0.2514
 The Village Inn,CB6 2HQ,52.3869,0.2056
 Elior UK PLC At Ely College And Bishop Laney,CB6 2SH,52.4107,0.2491
 KFC ELY - LEISURE VILLAGE,CB6 2SH,52.4106,0.2492
+KFC,CB6 2SH,52.4092,0.2518
 MCDONALDS,CB6 2SH,52.4106,0.2492
+McDonald's,CB6 2SH,52.4096,0.2521
 Elior UK PLC At Downham Feoffees Primary School,CB6 2ST,52.4328,0.2410
 Little Downham Anchor,CB6 2ST,52.4328,0.2410
 Costa Coffee,CB6 2WH,52.4089,0.2556
+Costa Coffee,CB6 2WH,52.4093,0.2512
 Elior UK PLC At The Lantern Community Primary School,CB6 2WL,52.4083,0.2592
 Red lion ( stretham ) ltd,CB6 3LD,52.3484,0.2188
 The lazy otter ,CB6 3LU,52.3340,0.2014
-Burger King,CB6 3NN,52.3904,0.2387
-Starbucks,CB6 3NN,52.3904,0.2387
 Apex Coffee Ltd,CB6 3NX,52.3868,0.2280
 Twenty Pence Garden Centre,CB6 3RN,52.3481,0.1746
 The Cherry Tree Haddenham,CB6 3UE,52.3537,0.1496
@@ -79,22 +73,19 @@ The Royal Standard,CB7 4AF,52.3983,0.2673
 Peacocks Tearoom,CB7 4AU,52.3967,0.2703
 Riverside Bar & Kitchen,CB7 4BB,52.3957,0.2683
 The Cutter Inn,CB7 4BN,52.3939,0.2672
+Costa Coffee,CB7 4DJ,52.3914,0.2657
 The Old Fire Engine House,CB7 4ER,52.3996,0.2611
 Eat Thai Restaurant ,CB7 4ES,52.4000,0.2610
 Poets House Hotel,CB7 4EY,52.3989,0.2587
 The Prince Albert,CB7 4JF,52.3972,0.2602
 Julia’s Tea Rooms Limited ,CB7 4JU,52.3992,0.2644
 The Almonry Restaurant Ely,CB7 4JU,52.3992,0.2644
-Prezzo,CB7 4JZ,52.3738,0.0071
-Pizza Express,CB7 4LF,52.3993,0.2653
-Caffe Nero,CB7 4LJ,52.3996,0.2633
-Wildwood,CB7 4LQ,52.3995,0.2642
 Siam Seasons LTD,CB7 4LZ,52.4000,0.2643
 Sylhet,CB7 4LZ,52.4000,0.2643
 Lemon Tree Deli Cafe,CB7 4NP,52.3990,0.2668
 Tea For Two,CB7 4NY,52.3992,0.2659
 Costa Coffee,CB7 4PB,52.3996,0.2654
-Starbucks,CB7 4ZH,52.3998,0.2667
+Costa Coffee,CB7 4PB,52.4000,0.2654
 The Cherry Tree,CB7 5AH,52.3261,0.3472
 Gloof,CB7 5DS,52.3349,0.3368
 The Red Lion Soham,CB7 5HA,52.3324,0.3382
@@ -104,12 +95,13 @@ The Maids Head,CB7 5XR,52.3118,0.3015
 St Ives (Hunts) Golf Club,PE27 4AD,52.3379,-0.0451
 Costa Coffee,PE27 4AE,52.3302,-0.0600
 Eric's Fish & Chips,PE27 4AE,52.3302,-0.0600
-Kyra Enterprises Ltd T/A McDonalds,PE27 4AE,52.3302,-0.0600
 McDonald's Restaurant,PE27 4AE,52.3302,-0.0600
 Subway St Ives,PE27 4AE,52.3302,-0.0600
 The Queens Head,PE27 4SA,52.3303,-0.0336
 Pike & Eel,PE27 4TW,52.3232,-0.0060
 pike and eel,PE27 4TW,52.3232,-0.0060
+Costa Coffee,PE27 4WJ,52.3303,-0.0599
+McDonald's,PE27 4WY,52.3310,-0.0610
 The Barn Restaurant,PE28 3DE,52.3901,-0.0395
 Lakeside Lodge Golf & Country Club,PE28 3DF,52.3947,-0.0300
 Rookery Waters,PE28 3DF,52.3948,-0.0300
@@ -118,4 +110,3 @@ wildfrostcafe somersham ,PE28 3EE,52.3824,-0.0014
 The Windmill,PE28 3ET,52.3774,-0.0235
 Hollies Tea Room Limited,PE28 3HW,52.3967,0.0021
 green man colne,PE28 3LZ,52.3640,0.0175
-Burger King,PE28 9LP,52.2986,-0.0607

@@ -1,7 +1,9 @@
 name,postcode,lat,lon
+KFC,BB1 1TQ,53.7865,-2.2495
 Mezbaan,BB10 1AS,53.7973,-2.2398
 Samosa chaat ,BB10 1QX,53.7996,-2.2397
 Cuppa Cake Limited ,BB10 2TP,53.7996,-2.2190
+Brewers Fayre Queen Victoria,BB10 3EF,53.7963,-2.2334
 The Thornton,BB10 3JS,53.7877,-2.2076
 Burnley Football CLub,BB10 4BX,53.7885,-2.2303
 The Haven Community Home,BB10 4QR,53.7884,-2.2232
@@ -14,6 +16,7 @@ Astoria (Burnley) Ltd,BB11 1DR,53.7891,-2.2443
 Mr Greens Diner Ltd,BB11 1DW,53.7888,-2.2439
 Brambles tearooms,BB11 1EP,53.7885,-2.2438
 Illuminati,BB11 1NA,53.7888,-2.2457
+The Boot Inn Burnley (Wetherspoon),BB11 1NG,53.7889,-2.2408
 The Hideaway Bar & Kitchen,BB11 1NG,53.7890,-2.2405
 Lancashire coffee ltd,BB11 1NH,53.7891,-2.2434
 Quick Crepes Burnley,BB11 1NH,53.7890,-2.2435
@@ -21,21 +24,21 @@ RHODE ISLAND COFFEE LTD,BB11 1NH,53.7890,-2.2435
 St James coffee House,BB11 1NL,53.7896,-2.2462
 Starvin Marvin,BB11 1PP,53.7899,-2.2461
 Costa Coffee,BB11 1QE,53.7893,-2.2431
+Costa Coffee,BB11 1QE,53.7894,-2.2430
 McDonald's,BB11 1QL,53.7893,-2.2410
 Salva Fast Food ,BB11 1QL,53.7893,-2.2408
 Whats 4 Dessert,BB11 1RA,53.7894,-2.2540
 Bannys Drive Thru,BB11 1TQ,53.7865,-2.2495
 KFC BURNLEY 02032,BB11 1TQ,53.7865,-2.2494
-KFC,BB11 1TQ,53.7865,-2.2494
 Subway,BB11 1TQ,53.7877,-2.2505
 The Bridge Bier Huis Ltd,BB11 1UH,53.7902,-2.2416
 The Palazzo,BB11 2AS,53.7879,-2.2424
 Ivy Joans Diner,BB11 2DB,53.7891,-2.2400
 Aroma Asian Restaurant ,BB11 2DL,53.7919,-2.2393
 Shimla spice,BB11 2DW,53.7917,-2.2384
-Burger King,BB11 2EG,53.7842,-2.2473
+Burger King,BB11 2EG,53.7845,-2.2475
 star cafe ltd,BB11 2EQ,53.7881,-2.2399
-Costa Coffee,BB11 2HE,53.7853,-2.2417
+Costa Coffee,BB11 2HE,53.7860,-2.2409
 Rosehill House Hotel Limited,BB11 2PW,53.7801,-2.2531
 The Boathouse ,BB11 2RU,53.7931,-2.2366
 Lahori Kebabish,BB11 3AB,53.7878,-2.2358
@@ -45,7 +48,6 @@ Cramptons Catering,BB11 3RW,53.7717,-2.2517
 Chocstop dessert cafe ,BB11 4HU,53.7853,-2.2488
 zil mil,BB11 4HU,53.7853,-2.2488
 BALLERO,BB11 4SB,53.7894,-2.2611
-Barracks Starbucks,BB11 4SB,53.7890,-2.2606
 New Waggonners ltd,BB11 5NS,53.7620,-2.2613
 Holiday Inn Express Burnley M65 J10,BB12 0TJ,53.7939,-2.2565
 The Old Library Waterfoot ,BB4 7AW,53.6920,-2.2502
@@ -81,38 +83,38 @@ Pink Elephant ,HD9 4ES,53.5913,-1.8505
 H Lounge,HD9 5NX,53.5931,-1.8515
 Wills O Nats,HD9 5PS,53.6067,-1.8625
 Blue Mountain Diner,HX1 1DD,53.7210,-1.8595
-Pizza Hut,HX1 1DE,53.7212,-1.8601
 Cinnamon,HX1 1DJ,53.7215,-1.8592
 Delicious Coffee Shop,HX1 1DJ,53.7215,-1.8591
 La Luna cafebar diner ,HX1 1DJ,53.7215,-1.8592
 Sultan Mahal ,HX1 1DJ,53.7215,-1.8592
 THE GATE CAFE BAR,HX1 1DJ,53.7215,-1.8592
 BROWNS CAFE,HX1 1DL,53.7221,-1.8599
-Caffe Nero,HX1 1DL,53.7221,-1.8599
 Merrie England Coffee Shops Ltd,HX1 1DL,53.7221,-1.8599
 Adams cafe halifax,HX1 1DZ,53.7224,-1.8594
 Borough Kitchen,HX1 1DZ,53.7224,-1.8594
 My Crepe,HX1 1DZ,53.7225,-1.8593
 Top Door Espresso,HX1 1DZ,53.7224,-1.8594
 KFC HALIFAX 02011,HX1 1HA,53.7221,-1.8625
+KFC,HX1 1HA,53.7225,-1.8625
 THAI CORNER BURY MARKET LIMITED,HX1 1HX,53.7235,-1.8628
 Thai Corner 2 Ltd,HX1 1HX,53.7235,-1.8628
 E.T. Harvey Ltd.,HX1 1LJ,53.7218,-1.8620
 C.R.E.A.M,HX1 1LN,53.7214,-1.8622
 Alibi Halifax,HX1 1NH,53.7217,-1.8625
 Deli indulge ,HX1 1NH,53.7217,-1.8625
+The Barum Top Inn Halifax (Wetherspoon),HX1 1NX,53.7216,-1.8626
 Meandering Bear,HX1 1PR,53.7215,-1.8582
 Romeo & Juliet,HX1 1PU,53.7209,-1.8588
 Pride & Provenance,HX1 1QE,53.7213,-1.8570
-Burger King,HX1 1QG,53.7224,-1.8551
 Blondins Ice Cream Parlour,HX1 1RE,53.7215,-1.8567
 The Deli,HX1 1RE,53.7220,-1.8575
 The Trading Rooms,HX1 1RE,53.7220,-1.8575
 COFFEE AT NO1,HX1 1RU,53.7234,-1.8579
+Costa Coffee,HX1 1RU,53.7231,-1.8583
 Wool Merchant Hotel,HX1 1SP,53.7253,-1.8539
 Little Lotus Halifax,HX1 1TH,53.7233,-1.8601
 McDonald's Restaurant,HX1 1TN,53.7236,-1.8599
-McDonalds Restaurants Ltd,HX1 1TN,53.7236,-1.8599
+McDonald's,HX1 1TN,53.7235,-1.8602
 Subway,HX1 1TN,53.7236,-1.8599
 AB travel inn ,HX1 1TQ,53.7228,-1.8609
 Julio's Italian Restaurant Limited ,HX1 1TS,53.7237,-1.8607
@@ -120,27 +122,25 @@ Cafe Sol Diner Ltd,HX1 1TT,53.7232,-1.8609
 Franganos (Halifax) ltd,HX1 1TT,53.7232,-1.8609
 RICCI'S PLACE,HX1 1UG,53.7239,-1.8609
 Jamocha Coffee Lounge ,HX1 1UR,53.7239,-1.8598
-Nando's,HX1 1UX,53.7213,-1.8734
-Pizza Express,HX1 1UX,53.7251,-1.8603
-TGI Fridays UK Ltd,HX1 1UX,53.7213,-1.8734
+Beefeater Halifax Town Centre,HX1 1YA,53.7252,-1.8614
 Kashmiri Aroma (Halifax) LLP,HX1 1YA,53.7239,-1.8623
-Mecca Bingo Limited,HX1 1YA,53.7239,-1.8623
+The Percy Shaw Halifax (Wetherspoon),HX1 1YA,53.7251,-1.8601
 Café Passion,HX1 2JF,53.7197,-1.8598
 Sagra restaurant,HX1 2SB,53.7210,-1.8647
 Whats 4 Dessert,HX1 3JL,53.7152,-1.8809
 SHEESH MAHAL HFX LTD,HX1 3JP,53.7153,-1.8814
 Pollino,HX1 3SU,53.7154,-1.8874
+Costa Coffee,HX1 3TU,53.7149,-1.8775
 McDonald's Restaurant,HX1 4JT,53.7231,-1.8862
+McDonald's,HX1 4JT,53.7248,-1.8887
 RAJA'S,HX1 4NE,53.7234,-1.8814
 SPICY WAVES,HX1 4NJ,53.7248,-1.8816
-McDonalds Restaurants Ltd,HX1 4PG,53.7248,-1.8889
 La Tradizione Italian Pizzeria,HX1 5AB,53.7218,-1.8641
 delhi wala food,HX1 5AB,53.7219,-1.8640
 PAX,HX1 5AE,53.7221,-1.8648
 Dixy Chicken,HX1 5BP,53.7234,-1.8692
 Thai Style Restaurant,HX1 5DT,53.7232,-1.8637
 Cafe No5,HX1 5ER,53.7212,-1.8708
-Dunelm,HX1 5RA,53.7273,-1.8722
 Long Can Hall Halifax Ltd,HX2 0TQ,53.7363,-1.9026
 The Secret Cafe,HX2 6EQ,53.7128,-1.9379
 Wainhouse Tavern,HX2 7DR,53.7129,-1.8858
@@ -155,7 +155,8 @@ Ivy House Inn,HX2 9BB,53.7519,-1.8761
 HOLDSWORTH HOUSE HOTEL,HX2 9TG,53.7581,-1.8753
 Gower Furniture Staff Canteen ,HX2 9TN,53.7587,-1.8730
 McDonald's Restaurant,HX3 0QE,53.7025,-1.8535
-McDonalds Restaurants Ltd,HX3 0QE,53.7025,-1.8535
+McDonald's,HX3 0QE,53.7032,-1.8532
+Brewers Fayre The Watermill (Halifax),HX3 0QT,53.7022,-1.8542
 The Murgatroyd Arms,HX3 0RX,53.7025,-1.8638
 B K RESTAURANT (YORKSHIRE) LTD,HX3 5AX,53.7282,-1.8640
 Next Level Bar Ltd,HX3 5AX,53.7282,-1.8640
@@ -163,8 +164,8 @@ Stod Fold Tap,HX3 5AX,53.7282,-1.8640
 TRUE NORTH RESTAURANT,HX3 5AX,53.7282,-1.8621
 Thai Corner Dean Clough,HX3 5AX,53.7282,-1.8640
 the mill bar and kitchen,HX3 5AX,53.7282,-1.8640
-Pizza Hut Restaurant,HX3 6AB,53.7266,-1.8535
 KFC HALEY HILL 02030,HX3 6AD,53.7277,-1.8571
+KFC,HX3 6ED,53.7288,-1.8615
 Cafe at 19,HX3 6EU,53.7330,-1.8649
 The Prospect Pub & Dining,HX3 6JR,53.7321,-1.8588
 Five Food ,HX3 6SN,53.7527,-1.8736
@@ -190,6 +191,7 @@ Gabriels Coffee Lounge,HX6 2AG,53.7098,-1.9040
 THE MOORINGS,HX6 2AG,53.7098,-1.9040
 Kipplings Indian Restaurent ,HX6 2EA,53.7085,-1.9113
 The Olive Branch ,HX6 2EA,53.7085,-1.9113
+The Commercial Inn Sowerby Bridge (Wetherspoon),HX6 2LA,53.7096,-1.9078
 Wharf Cafe Bar at Sowerby Bridge LTD,HX6 2LA,53.7094,-1.9085
 KUJA LIMITED,HX6 2QD,53.7083,-1.9122
 Copper Cow,HX6 2UG,53.7144,-1.9216
@@ -237,9 +239,9 @@ Robinhoodinn ,HX7 8QR,53.7622,-2.0046
 Hare and Hounds Inn,HX7 8TN,53.7467,-1.9972
 Olive branch,HX7 8UQ,53.7411,-2.0142
 The Black Ladd,OL1 4ST,53.5774,-2.0641
-Waterfall Elior LTD at Siddal Moor Sports College,OL10 2NT,53.5823,-2.2171
 THE BIRD AT BIRTLE,OL10 4BQ,53.6050,-2.2328
 Bella Sera,OL10 4DX,53.5934,-2.2113
+The Edwin Waugh Heywood (Wetherspoon),OL10 4LY,53.5938,-2.2213
 Naga naga chilli,OL10 4NN,53.5936,-2.2177
 SUBWAY,OL10 4PN,53.5947,-2.2240
 Le Latte ,OL11 1DN,53.6116,-2.1542
@@ -250,20 +252,15 @@ NEW YORK CHICKEN LIMITED,OL11 1EB,53.6104,-2.1568
 Jungle Grill,OL11 1EF,53.6119,-2.1595
 Shish cafe ,OL11 1HH,53.6098,-2.1583
 McDonalds  Sandbrook Park,OL11 1RY,53.6024,-2.1634
-McDonalds Restaurants,OL11 1RY,53.6027,-2.1636
-Pizza Hut Restaurant,OL11 1RY,53.6024,-2.1633
 SUBWAY SANDBROOK PARK,OL11 1RY,53.6024,-2.1634
-Tenpin Rochdale,OL11 1RY,53.6024,-2.1633
 Coco’s Grill House & Desserts,OL11 1TU,53.6011,-2.1572
 LA Scala (pvt) Ltd,OL11 2AL,53.5979,-2.1455
-Blue Diamond Restaurant,OL11 2ER,53.6029,-2.1464
 Blue diamond chinese restaurant,OL11 2ER,53.6029,-2.1464
 meraki scents,OL11 2JG,53.5945,-2.1571
 Norton Grange Hotel & Spa,OL11 2XZ,53.5805,-2.1742
 FLIP OUT ROCHDALE,OL11 3EX,53.5979,-2.1737
 The Royal Toby Hotel,OL11 3HF,53.5984,-2.1802
 THE PLOUGH,OL11 3LW,53.6025,-2.1876
-Rochdale Starbucks,OL11 3PT,53.6042,-2.1707
 The Hare and Hounds,OL11 4AA,53.6073,-2.2079
 The Elephant & Castle,OL11 4AU,53.6106,-2.1971
 Platos Y Bebidas,OL11 4DQ,53.6127,-2.1879
@@ -313,6 +310,7 @@ The Top Brink Inn Ltd,OL14 6JB,53.7085,-2.0677
 The Shepherds Rest Inn,OL14 6JJ,53.7051,-2.0846
 Site Restaurant Ltd,OL14 6LD,53.7117,-2.0993
 THE THREE LADY CHEFS LTD,OL14 6LZ,53.7122,-2.0987
+The White Hart Todmorden (Wetherspoon),OL14 7BD,53.7142,-2.0981
 The White Rabbit,OL14 7BD,53.7141,-2.0981
 Bombay lounge lydgate limited,OL14 7DH,53.7259,-2.1181
 Glen view inn,OL14 7EW,53.7314,-2.1504
@@ -346,9 +344,10 @@ Clock Tower Dining Room,OL16 1AZ,53.6156,-2.1593
 Bean,OL16 1BE,53.6177,-2.1544
 Heavenly Desserts Rochdale,OL16 1BE,53.6177,-2.1544
 Pudding Paradise,OL16 1DR,53.6196,-2.1552
+Costa Coffee,OL16 1EA,53.6181,-2.1584
 The laughing loaf ,OL16 1EP,53.6171,-2.1581
 La Mancha ,OL16 1ES,53.6173,-2.1577
-Mecca Social Club,OL16 1HE,53.6179,-2.1529
+The Regal Moon Rochdale (Wetherspoon),OL16 1HB,53.6173,-2.1568
 Subway,OL16 1JG,53.6175,-2.1577
 Vicolos Ltd,OL16 1JG,53.6175,-2.1577
 Knockout Kitchen Ltd,OL16 1JJ,53.6177,-2.1579
@@ -368,14 +367,14 @@ The Waggon inn,OL16 3PE,53.6071,-2.1043
 Char,OL16 3QF,53.6004,-2.0972
 the cedar tree,OL16 3RF,53.6012,-2.0880
 The Milnrow Balti Restaurant ,OL16 4HS,53.6104,-2.1118
+Table Table John Milne,OL16 4JF,53.6029,-2.1042
 Bank chambers ,OL16 4LU,53.5999,-2.0977
 The Fair View Inn,OL16 4QQ,53.5904,-2.1250
 110 pizza,OL16 4SZ,53.6034,-2.1461
 Bistro at Gordon Rigg Nurseries,OL16 4UX,53.6055,-2.1385
-Costa Coffee,OL16 5AF,53.6148,-2.1283
-KFC,OL16 5AF,53.6148,-2.1283
+Costa Coffee,OL16 5AF,53.6154,-2.1297
+KFC,OL16 5AF,53.6141,-2.1306
 McDonalds  Kingsway Retail Park,OL16 5AF,53.6153,-2.1283
-McDonalds Restaurant,OL16 5AF,53.6148,-2.1283
 Subway,OL16 5AF,53.6148,-2.1283
 Khans original ,OL16 5DN,53.6137,-2.1413
 Mr cod ,OL16 5DN,53.6137,-2.1413
@@ -386,10 +385,10 @@ Turks Head (2014) Ltd,OL2 6UP,53.5836,-2.1317
 THE PUCKERSLEY INN ,OL2 6YD,53.5817,-2.1240
 THE NORTH  STAR,OL2 7PR,53.5850,-2.1100
 Bengal brasserie,OL2 8AP,53.5784,-2.0931
+The Shay Wake Oldham (Wetherspoon),OL2 8EQ,53.5778,-2.0931
 The Morning Star,OL2 8HZ,53.5779,-2.0850
 Naughty but nice,OL2 8NH,53.5770,-2.0940
 Donnelly's,OL2 8NR,53.5769,-2.0936
-Elior UK,OL2 8PJ,53.5753,-2.0881
 Junction Inn,OL3 5SE,53.5931,-2.0412
 The Printers Arms,OL3 5SN,53.5896,-2.0426
 THE RAMS HEAD INN,OL3 5UN,53.5994,-2.0366

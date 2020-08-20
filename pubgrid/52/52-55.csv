@@ -14,7 +14,6 @@ Lorentes,DE1 1EX,52.9233,-1.4829
 The Dining Room,DE1 1EX,52.9232,-1.4827
 The Greyhound,DE1 1FN,52.9245,-1.4889
 The Old Road Cafe,DE1 1GA,52.9248,-1.4917
-Turtle Bay,DE1 1HA,52.9222,-1.4797
 Annies Burger Shack,DE1 1JF,52.9222,-1.4839
 YueYing Limited (T/A Moonsha Restaurant),DE1 1JF,52.9222,-1.4839
 Himalayan Gurkha Restaurant,DE1 1LF,52.9208,-1.4812
@@ -22,21 +21,21 @@ Eastern spice ltd,DE1 1LH,52.9223,-1.4819
 MASALA RESTAURANT,DE1 1LH,52.9223,-1.4819
 Cafe Ashiana,DE1 1LL,52.9225,-1.4822
 Tubbybears Playzone Ltd,DE1 1LR,52.9210,-1.4906
-Caffe Nero,DE1 1QH,52.9218,-1.4772
 The Bookcafe Derby,DE1 1QH,52.9222,-1.4774
 THAI BORAN STREET FOOD LIMITED,DE1 1RP,52.9207,-1.4781
 Pulse Gaming Lounge,DE1 1RS,52.9207,-1.4777
 MCDONALDS RESTAURANT,DE1 1SH,52.9210,-1.4765
-McDonalds,DE1 1SH,52.9209,-1.4767
+McDonald's,DE1 1SH,52.9208,-1.4763
 Istanbul Derby Ltd,DE1 1SR,52.9197,-1.4757
 Hunters Coffee Shop,DE1 1SY,52.9193,-1.4769
+The Babington Arms Derby (Wetherspoon),DE1 1TA,52.9191,-1.4764
 Subway,DE1 2AA,52.9211,-1.4759
-Costa Coffee,DE1 2AB,52.9202,-1.4754
+Costa Coffee,DE1 2AB,52.9192,-1.4719
 White horse,DE1 2AW,52.9220,-1.4743
 Derby Entertainment Canter Limited  ,DE1 2AY,52.9221,-1.4723
 Holiday Inn Derby - Riverlights,DE1 2AY,52.9221,-1.4723
-Costa Coffee,DE1 2AZ,52.9210,-1.4727
-Starbucks,DE1 2AZ,52.9210,-1.4727
+Costa Coffee,DE1 2AZ,52.9189,-1.4722
+Thyme,DE1 2BB,52.9224,-1.4714
 Just-Ice,DE1 2DB,52.9225,-1.4759
 Subway,DE1 2DG,52.9224,-1.4766
 Birds Bakery,DE1 2DS,52.9219,-1.4756
@@ -44,35 +43,29 @@ The Tap,DE1 2ED,52.9249,-1.4727
 Exeter Arms,DE1 2EU,52.9246,-1.4726
 KASPAS,DE1 2HR,52.9188,-1.4752
 Grillzilla Grill,DE1 2JA,52.9186,-1.4746
-Buzz Bingo,DE1 2JD,52.9184,-1.4745
 BRITANNIA CAFE,DE1 2JZ,52.9218,-1.4747
 VEDI FOOD,DE1 2LH,52.9182,-1.4689
+Costa Coffee,DE1 2NL,52.9196,-1.4724
+KFC,DE1 2NP,52.9203,-1.4740
+Nando's,DE1 2NQ,52.9197,-1.4731
 Caruso cafe boutique,DE1 2NR,52.9202,-1.4751
 Heavenly Desserts Derby,DE1 2NS,52.9191,-1.4723
 Heavenly Desserts,DE1 2NS,52.9191,-1.4723
 GELATO DIVINO,DE1 2NZ,52.9189,-1.4745
 YI VENTURES LTD,DE1 2NZ,52.9189,-1.4745
-Costa Coffee,DE1 2PG,52.9191,-1.4723
 Muffin Break Derby,DE1 2PG,52.9194,-1.4725
 BEAR intu Derby,DE1 2PL,52.9196,-1.4743
+Costa Coffee,DE1 2PL,52.9186,-1.4727
 German Doner Kebab Derby,DE1 2PL,52.9196,-1.4743
-Hollywood Bowl,DE1 2PL,52.9194,-1.4740
 Rikshaw Indian Street Food Group Limited,DE1 2PL,52.9196,-1.4743
-Wagamama Ltd,DE1 2PL,52.9194,-1.4740
 Yangtze Derby,DE1 2PL,52.9196,-1.4743
 Yo Sushi,DE1 2PL,52.9194,-1.4740
-Zizzi,DE1 2PL,52.9194,-1.4740
 grand cafe caruso,DE1 2PL,52.9196,-1.4743
-Nandos,DE1 2PP,52.9194,-1.4729
-Pizza Express,DE1 2PP,52.9191,-1.4723
-Five Guys JV Ltd,DE1 2PQ,52.9191,-1.4723
 Harper's British Classics,DE1 2PQ,52.9194,-1.4727
-KFC,DE1 2PQ,52.9191,-1.4723
 KFC,DE1 2PQ,52.9194,-1.4727
 Pasta4u ,DE1 2PQ,52.9194,-1.4727
 Subway,DE1 2PQ,52.9194,-1.4727
 Tasty plaice,DE1 2PQ,52.9194,-1.4727
-Burger King,DE1 2PR,52.9206,-1.4738
 THE OLIVE TREE CAFE,DE1 2PR,52.9209,-1.4743
 Anoki,DE1 2QN,52.9154,-1.4674
 Pepitos Restaurant LTD,DE1 2QN,52.9154,-1.4674
@@ -80,6 +73,7 @@ Brenda’s Cafe Limited,DE1 2QQ,52.9160,-1.4680
 XS Restaurant - Stuart Hotel,DE1 2QR,52.9164,-1.4683
 The Royal Telegrah,DE1 2QS,52.9173,-1.4703
 BRUNSWICK INN,DE1 2RU,52.9173,-1.4642
+Costa Coffee,DE1 2RU,52.9162,-1.4633
 WATERFALL,DE1 2RU,52.9173,-1.4642
 Shalimar Gold ,DE1 2SN,52.9153,-1.4664
 The Viceroy ,DE1 2SN,52.9153,-1.4664
@@ -89,12 +83,13 @@ Monmos Grill Limited ,DE1 2SU,52.9145,-1.4661
 mt everest restaurant & bar ltd,DE1 2SU,52.9145,-1.4661
 ACROPOLIS CAFE BAR,DE1 3AE,52.9228,-1.4766
 Hide burger bar,DE1 3AF,52.9244,-1.4751
-Nandos,DE1 3AH,52.9236,-1.4758
+Thyme,DE1 3AF,52.9245,-1.4753
 Five Lamps,DE1 3BH,52.9285,-1.4822
 Furnace Inn,DE1 3BX,52.9284,-1.4767
 AFRIKANA DERBY LIMITED,DE1 3DE,52.9250,-1.4783
 BEAR Derby,DE1 3FJ,52.9242,-1.4772
-Pizza Express,DE1 3GL,52.9242,-1.4782
+The Standing Order Derby (Wetherspoon),DE1 3GL,52.9240,-1.4777
+The Thomas Leaper Derby (Wetherspoon),DE1 3GL,52.9242,-1.4777
 Hari Hari,DE1 3GP,52.9243,-1.4783
 The European Restaurant,DE1 3GP,52.9243,-1.4783
 Woodlark Inn,DE1 3LA,52.9252,-1.4879
@@ -109,34 +104,31 @@ The Palfrey ,DE1 3PD,52.9234,-1.4792
 Slice of India,DE21 4AW,52.9379,-1.4643
 Pizza Hub,DE21 4DG,52.9423,-1.4537
 McDonald's Breadsall - Meteor Centre,DE21 4RY,52.9437,-1.4623
-McDonalds,DE21 4RY,52.9434,-1.4641
+KFC,DE21 4RZ,52.9403,-1.4633
 KFC,DE21 4SY,52.9411,-1.4651
 Fox and Hounds,DE21 5BA,52.9844,-1.4498
 Horsley Lodge Ltd,DE21 5BL,52.9934,-1.4342
 the coach and horses,DE21 5BQ,52.9963,-1.4358
-Starbucks,DE21 5DA,52.9570,-1.4609
 D&D Baxter,DE21 5DE,52.9679,-1.4601
 The Queens Head,DE21 5DF,52.9675,-1.4610
 The New Inn,DE21 5DR,52.9658,-1.4629
 Damsons Coffee House,DE21 5LL,52.9562,-1.4517
+Thyme,DE21 6BF,52.9159,-1.4313
 Pizza Hut,DE21 6NA,52.9249,-1.4397
-Burger King,DE21 6NZ,52.9176,-1.4373
-Costa Coffee,DE21 6NZ,52.9173,-1.4364
+Costa Coffee,DE21 6NZ,52.9175,-1.4346
 MCDONALDS RESTAURANT,DE21 6NZ,52.9171,-1.4365
-McDonalds,DE21 6NZ,52.9176,-1.4373
-Pizza Hut Restaurant,DE21 6NZ,52.9176,-1.4373
+McDonald's,DE21 6NZ,52.9180,-1.4354
 Asar business ltd,DE21 6PE,52.9246,-1.4405
 Scoops Express,DE21 6PF,52.9237,-1.4382
-KFC Restaurant,DE21 6RS,52.9184,-1.4421
+KFC,DE21 6RS,52.9188,-1.4408
 kfc,DE21 6RS,52.9184,-1.4421
 Bluebell Dairy ltd,DE21 7AR,52.9225,-1.4074
 Just One More Cafe ,DE21 7FH,52.9198,-1.4042
 MCDONALDS RESTAURANT,DE21 7HX,52.9017,-1.4247
-McDonalds,DE21 7HX,52.9017,-1.4247
+McDonald's,DE21 7HX,52.9015,-1.4255
 Cafe Aroma,DE21 7JQ,52.9218,-1.4047
 clock bistro,DE21 7JQ,52.9218,-1.4047
 the malt shovel,DE21 7LH,52.9197,-1.4084
-McDonalds,DE21 7LY,52.9152,-1.4114
 Alfies Bar and Restaurant ,DE21 7NE,52.9139,-1.4100
 GURKHA JUNCTION RESTAURANT,DE21 7NP,52.9123,-1.4029
 The Cottonworks,DE22 1DZ,52.9433,-1.4751
@@ -146,23 +138,25 @@ The Little Shed,DE22 2DR,52.9556,-1.4801
 Red Cow,DE22 2DZ,52.9538,-1.4844
 The Delicatessen,DE22 2GP,52.9537,-1.4954
 COSTA COFFEE,DE22 2QN,52.9441,-1.4960
-Costa Coffee,DE22 2QN,52.9443,-1.4959
+Costa Coffee,DE22 2QN,52.9444,-1.4959
 Fours Seasons Park Farm ,DE22 2QN,52.9441,-1.4960
 The Peacock Lounge,DE22 2QN,52.9441,-1.4960
 The lemon tree,DE22 2QQ,52.9436,-1.4964
 white orchid cafe ,DE22 3AA,52.9254,-1.4906
 georgian house hotel mr grundys tavern,DE22 3AD,52.9260,-1.4934
 The Buttery Cafe,DE22 3AG,52.9271,-1.4975
+Costa Coffee,DE22 3FA,52.9213,-1.5062
 Clip n Climb Derby,DE22 3FP,52.9222,-1.5088
 Bakes Shakes Cakes,DE22 3FQ,52.9253,-1.4919
+Beefeater The Mallard,DE22 3HN,52.9128,-1.5137
 Pizza Hut,DE22 3LJ,52.9179,-1.4993
 Balti International,DE22 3LL,52.9185,-1.4987
-Costa Coffee at Main Entrance,DE22 3NE,52.9104,-1.5138
+Costa Coffee,DE22 3NE,52.9111,-1.5146
 Subway,DE22 3NF,52.9210,-1.5096
 FUSION OF INDIA,DE22 3SJ,52.9214,-1.4829
 Emily's Steakhouse,DE22 3TX,52.9213,-1.4835
 MCDONALDS RESTAURANT,DE22 4AA,52.9288,-1.5061
-McDonalds,DE22 4AA,52.9288,-1.5061
+McDonald's,DE22 4AA,52.9286,-1.5061
 The Parlour Tea Rooms,DE22 4NH,52.9377,-1.5105
 The Potting Shed,DE22 4NH,52.9377,-1.5105
 THE JOINERS ARMS,DE22 5JA,52.9637,-1.5048
@@ -188,30 +182,22 @@ PEPES PIRI PIRI,DE23 6WE,52.9097,-1.4787
 Rajas Peri Peri,DE23 6WE,52.9097,-1.4787
 Scoops Diner,DE23 6WE,52.9097,-1.4787
 The Grange Banqueting Suite Ltd,DE23 6XX,52.9054,-1.5027
-Buzz Bingo,DE23 8AG,52.8965,-1.4750
-KFC Drive Through,DE23 8AG,52.8965,-1.4750
-Pizza Hut Restaurant,DE23 8AG,52.8964,-1.4778
+KFC,DE23 8AG,52.8969,-1.4743
+Table Table Oasthouse,DE23 8AG,52.8972,-1.4782
 kfc,DE23 8AG,52.8964,-1.4778
 Dixy Chicken,DE24 0JH,52.8965,-1.4287
 The Needles Pub,DE24 0UQ,52.8858,-1.4154
 MCDONALDS RESTAURANT,DE24 8BT,52.8965,-1.4694
-McDonalds,DE24 8BT,52.8969,-1.4712
+McDonald's,DE24 8BT,52.8969,-1.4712
 Powerleague Soccerdome,DE24 8BW,52.9161,-1.4459
 Subway,DE24 8BW,52.9161,-1.4459
-Gather & Gather - Costa Coffee,DE24 8EL,52.8921,-1.4707
 Pizza Hut,DE24 8GS,52.8977,-1.4579
 THE CORONATION,DE24 8SL,52.8990,-1.4427
 Seven Restaurant & Cafe Bar,DE24 8SQ,52.9150,-1.4577
-Dunelm Mill Shop,DE24 8ST,52.8999,-1.4530
-Starbucks,DE24 8XL,52.9147,-1.4480
 The Crown Hotel,DE24 9AD,52.8886,-1.4505
 House of Darwin,DE24 9EE,52.8802,-1.4453
 New bridge inn,DE24 9EF,52.8790,-1.4457
-Compass Group Limited at RB Ltd,DE24 9GG,52.8909,-1.4808
 Aroma Cuisine,DE24 9HQ,52.8848,-1.4880
-Gather & Gather - Costa Coffee,DE24 9HX,52.8885,-1.4638
-Gather & Gather  Costa Coffee at Rolls Royce  E1 Wing  Gate 2A,DE24 9HY,52.8911,-1.4608
-Gather & Gather Costa Coffee,DE24 9HY,52.8911,-1.4608
 Gilberts Kitchen & Deli,DE3 0DA,52.9046,-1.5444
 MASONS ARMS,DE3 0DL,52.9036,-1.5475
 Ocean Fresh at Steves,DE3 0GB,52.9043,-1.5438
@@ -222,14 +208,13 @@ The Great Northern,DE3 9FB,52.9212,-1.5417
 British Legion (Mickleover) Club Ltd,DE3 9GB,52.9109,-1.5389
 Uppercase Coffee Shop,DE3 9GH,52.9063,-1.5440
 The Brown Bear Coffee Shop,DE5 3AB,53.0497,-1.4066
+Costa Coffee,DE5 3AJ,53.0499,-1.4052
 Sylhet spice,DE5 3EF,53.0494,-1.4028
 Undal,DE5 3EH,53.0491,-1.4032
 Thorn Tree,DE5 3HA,53.0497,-1.4077
-Elior UK At Forbo,DE5 3NW,53.0488,-1.3806
 The Holly Bush,DE5 8JA,53.0409,-1.4072
 the village inn at marehay,DE5 8JF,53.0330,-1.4101
 Lumb Farm,DE5 8JN,53.0333,-1.4054
-Elior UK At Deb Ltd,DE5 8JZ,53.0266,-1.4144
 Bourne's Restaurant,DE5 8NX,53.0224,-1.4139
 Denby Lodge,DE5 8PH,53.0138,-1.4100
 The Bulls Head - Bar & Restaurant,DE5 8PW,53.0202,-1.3914
@@ -259,6 +244,7 @@ The Devonshire,DE56 1BA,53.0263,-1.4857
 Bengal Blues,DE56 1FZ,53.0233,-1.4790
 Cafe G &restaurant ,DE56 1PL,53.0231,-1.4820
 Nourish at no44,DE56 1PL,53.0231,-1.4820
+Costa Coffee,DE56 1PW,53.0233,-1.4836
 The Railway,DE56 1PW,53.0233,-1.4836
 Fresh Basil,DE56 1UN,53.0229,-1.4810
 I Should Cocoa,DE56 1UN,53.0229,-1.4810
@@ -290,7 +276,6 @@ Beetroot Tree,DE65 6DW,52.8571,-1.5565
 Lotus Indian Kitchen,DE65 6DW,52.8559,-1.5599
 THE BOARDWALK,DE65 6DW,52.8571,-1.5565
 Willow Tree Tea Room,DE65 6DW,52.8559,-1.5599
-KFC GB Limited,DE65 6DX,52.8640,-1.5641
 The Swan Inn,DE65 6EF,52.8339,-1.5253
 The Boot,DE65 6FT,52.8397,-1.5492
 Jaipur Restaurant,DE65 6GD,52.8383,-1.5488
@@ -298,6 +283,7 @@ THE BULLS HEAD,DE65 6GF,52.8364,-1.5470
 The Cowshed Tearooms ltd,DE7 4PH,52.9375,-1.3405
 Stanhope Arms,DE7 4QA,52.9377,-1.3092
 Pizza Hut,DE7 5NN,52.9659,-1.3043
+The Observatory Ilkeston (Wetherspoon),DE7 5QA,52.9715,-1.3081
 Star Pizza Express,DE7 5QJ,52.9682,-1.3089
 Peony gifts and kitchen ,DE7 6AW,53.0007,-1.4164
 Morley Hayes Leisure Ltd,DE7 6DG,52.9826,-1.4061
@@ -307,11 +293,12 @@ the white hart,DE7 6EX,52.9556,-1.3811
 Oakfield farm shop,DE7 6FP,52.9741,-1.3759
 The Bottle Kiln,DE7 6HP,52.9744,-1.3579
 The Newdigate,DE7 6HW,52.9735,-1.3391
-Costa Coffee,DE7 8AG,52.9729,-1.3080
+Costa Coffee,DE7 8AG,52.9728,-1.3078
 RADHUNI TANDOORI,DE7 8AS,52.9765,-1.3097
+KFC,DE7 8DG,52.9781,-1.3055
 KFC,DE7 8DG,52.9781,-1.3072
 MCDONALDS RESTAURANT,DE7 8DG,52.9781,-1.3072
-McDonalds,DE7 8DG,52.9781,-1.3072
+McDonald's,DE7 8DG,52.9783,-1.3045
 Humble Rutland cafe,DE7 8DH,52.9784,-1.3089
 The FACTORY KITCHEN ILKESTON LTD,DE7 8DH,52.9784,-1.3089
 Harpur and finch tea rooms ltd ,DE7 8FD,52.9737,-1.3086
@@ -324,7 +311,6 @@ The Malt Shovel,DE72 2AA,52.8616,-1.3847
 The Coopers Arms,DE72 2BJ,52.8507,-1.4005
 The Boathouse,DE72 2GL,52.8674,-1.3464
 TANDOORI NIGHTS,DE72 2GP,52.8691,-1.3531
-Welcome Break Days Inn,DE72 2HA,52.8693,-1.3412
 LYNCH INNS LTD (NEW INN),DE72 2HG,52.8702,-1.3412
 Malt Shovel,DE72 2HG,52.8702,-1.3412
 Old crown inn,DE72 2HL,52.8642,-1.3384
@@ -356,8 +342,6 @@ Stenson Lock Coffee Shop,DE73 7HL,52.8670,-1.5163
 The Bubble Inn Stenson,DE73 7HL,52.8671,-1.5171
 Melbourne View Hotel & Events Ltd (Coffee shop),DE73 8BR,52.8290,-1.4006
 Hardinge Arms,DE73 8BX,52.8320,-1.4247
-Baxterstorey At Amazon Fulfilment Centre,DE74 2BB,52.8340,-1.3037
-Baxterstorey At Shop Direct,DE74 2BB,52.8349,-1.3158
 Hidden Gem Kitchen,DE74 2DA,52.8357,-1.2812
 Red Lion,DE74 2DA,52.8358,-1.2811
 Best Western Premier Yew Lodge Hotel,DE74 2DF,52.8369,-1.2842
@@ -369,16 +353,14 @@ The CASTLE INN,DE74 2PP,52.8388,-1.3435
 Nags Head Castle Donington,DE74 2PS,52.8333,-1.3447
 The Millstream Bar & Grill,DE74 2RR,52.8431,-1.3813
 The Priest House Hotel,DE74 2RR,52.8431,-1.3813
-Burger King,DE74 2SA,52.8261,-1.3296
 CASTLE ROCK,DE74 2SA,52.8261,-1.3296
 PORK&PICKLE,DE74 2SA,52.8261,-1.3296
 Proof 65,DE74 2SA,52.8300,-1.3243
 STARBUCKS,DE74 2SA,52.8261,-1.3296
 Radisson Blu East Midlands Airport,DE74 2TZ,52.8265,-1.3119
-Baxterstorey Ltd At Price Waterhouse Coopers (PwC),DE74 2UZ,52.8259,-1.3139
 Hilton East Midlands ,DE74 2YW,52.8573,-1.2988
 Royal Breakfast,DE75 7AA,53.0138,-1.3531
-Costa Coffee,DE75 7EX,53.0156,-1.3591
+Costa Coffee,DE75 7EX,53.0154,-1.3580
 NOBLE HOUSE,DE75 7GE,53.0133,-1.3560
 Heanor Garden Centre,DE75 7JB,53.0005,-1.3332
 Jolly colliers,DE75 7QL,53.0122,-1.3641
@@ -392,7 +374,7 @@ KFC,NG10 1HD,52.8978,-1.2689
 The Cods Scallops,NG10 1JE,52.8974,-1.2710
 Mount Gurkha Spice,NG10 1JF,52.8963,-1.2720
 AL NASEEB RESTAURANT,NG10 1JL,52.8978,-1.2713
-Costa Coffee,NG10 1JL,52.8978,-1.2713
+Costa Coffee,NG10 1JL,52.8978,-1.2711
 Costa Long Eaton,NG10 1JL,52.8978,-1.2713
 Copper Cogs,NG10 1JQ,52.8992,-1.2717
 Bennetts Hotel Restaurant and Bar,NG10 1LW,52.9005,-1.2742
@@ -407,7 +389,6 @@ Chandelier Indian Restaurant ltd ,NG10 4LA,52.9004,-1.2769
 Savvy-Sandwich & Salad Bar,NG10 4LS,52.9019,-1.2815
 Street Food Kitchen ,NG10 4NN,52.9041,-1.2831
 Torino Pizza,NG10 4QP,52.9008,-1.2768
-Burger King,NG10 5AD,52.9208,-1.2865
 Buonissima Aperitivo bar,NG10 5BG,52.9227,-1.2870
 Appertize Sandwich Bar ,NG10 5HL,52.9218,-1.2963
 Bridge Inn,NG10 5LW,52.9154,-1.2900
@@ -416,13 +397,15 @@ Dovecote Barn - Cafe  Bar & Bistro,NG11 0AA,52.8896,-1.2242
 The Sun Inn,NG11 0HX,52.8660,-1.2042
 Lark Hill Retirement Village,NG11 8BF,52.8984,-1.1935
 Clifton McDonalds,NG11 8NA,52.9059,-1.1881
-KFC Clifton Drive Thru,NG11 8NA,52.9059,-1.1881
-Mcdonalds Restaurants,NG11 8NA,52.9062,-1.1881
+KFC,NG11 8NA,52.9060,-1.1882
+McDonald's,NG11 8NA,52.9055,-1.1883
 kfc,NG11 8NA,52.9059,-1.1881
 THE BROOMHILL INN,NG15 6AJ,53.0272,-1.1988
 Arunothai,NG15 6DY,53.0299,-1.2074
 Green Dragon Hucknall,NG15 6GR,53.0210,-1.2272
+Costa Coffee,NG15 7AX,53.0382,-1.2027
 Costa Hucknall,NG15 7AX,53.0385,-1.2038
+The Pilgrim Oak Hucknall (Wetherspoon),NG15 7AX,53.0381,-1.2025
 HALF MOON,NG15 7BS,53.0384,-1.2056
 New Era Restaurants Ltd t/a Moda,NG15 7DE,53.0420,-1.2115
 Mrs C's Vintage Tea Room,NG15 7HJ,53.0375,-1.2019
@@ -430,7 +413,6 @@ Alaskan Ice Ltd,NG15 7LE,53.0376,-1.2030
 Pizza Hut,NG15 7SB,53.0314,-1.1956
 The Station Hotel,NG15 7TQ,53.0390,-1.1977
 McDonald's Hucknall,NG15 7UQ,53.0361,-1.1954
-McDonalds,NG15 7UQ,53.0361,-1.1954
 Bella Mia Restaurant,NG15 8AY,53.0480,-1.2151
 Nawaab Saab,NG16 1DP,52.9952,-1.2326
 Royal Oak,NG16 1HS,53.0065,-1.2534
@@ -443,13 +425,10 @@ The Dog House at Kimberley,NG16 2NG,52.9971,-1.2553
 Rumbletums (Kimberley) Ltd,NG16 2NH,52.9976,-1.2555
 Cricketers Rest,NG16 2NP,52.9981,-1.2576
 HOGS HEAD HOTEL LTD,NG16 2RN,52.9946,-1.2805
-Costa Coffee (Next Retail Ltd),NG16 2RP,53.0029,-1.2821
-Nando's,NG16 2RP,53.0029,-1.2821
-Pizza Express,NG16 2RP,53.0029,-1.2821
+Costa Coffee,NG16 2RP,53.0014,-1.2809
 Starbucks Giltbrook,NG16 2RP,53.0029,-1.2821
-Starbucks,NG16 2RP,53.0029,-1.2821
 Subway Giltbrook,NG16 2RP,53.0029,-1.2821
-The Haven,NG16 2RZ,52.9835,-1.2838
+The Lady Chatterley Nottingham (Wetherspoon),NG16 3AL,53.0180,-1.3050
 Eats n Treats,NG16 3AN,53.0182,-1.3063
 Julie's,NG16 3AQ,53.0187,-1.3079
 connies kitchen,NG16 3AW,53.0183,-1.3069
@@ -457,9 +436,7 @@ The White Peacock Coffee Shop,NG16 3AY,53.0186,-1.3054
 Olive Tree Grill,NG16 3GR,53.0143,-1.2946
 GURKHA EXPRESS EASTWOOD LTD,NG16 3NQ,53.0179,-1.3067
 Olivers Pub And Kitchen,NG16 3NQ,53.0179,-1.3067
-Elior,NG16 3SA,53.0205,-1.3206
 Great Northern,NG16 4AA,53.0200,-1.3238
-KFC,NG16 4AA,53.0200,-1.3238
 McDonald's Langley Mill,NG16 4AE,53.0199,-1.3273
 Basilia ,NG16 4ED,53.0206,-1.3280
 ROYAL GURKHA,NG16 4EW,53.0228,-1.3276
@@ -467,6 +444,8 @@ The Thorn Tree,NG16 4HG,53.0363,-1.3614
 KFC,NG16 4HY,53.0175,-1.3236
 The Headstocks Tearoom and takeaway ,NG16 5AB,53.0342,-1.3131
 BRINSLEY LODGE INN,NG16 5AE,53.0326,-1.3094
+KFC,NG19 4AN,53.0195,-1.3248
+Costa Coffee,NG2 1RU,52.9328,-1.1656
 Cafe Pas Mama ,NG5 1DZ,52.9778,-1.1646
 STADIUM LEISURE,NG5 1EG,52.9796,-1.1671
 Fox Hotel,NG5 1HY,52.9835,-1.1731
@@ -474,16 +453,18 @@ Waterfall Elior,NG5 1JU,52.9819,-1.1746
 Maureens coffee shop & cafe ,NG5 5EJ,53.0105,-1.1741
 Subway,NG5 9DD,53.0022,-1.1783
 Buzz Bingo,NG5 9RU,52.9977,-1.1780
-KFC Bulwell Drive Thru,NG6 8AJ,53.0057,-1.1912
+KFC,NG6 8AJ,53.0056,-1.1931
 McDonald's Bulwell,NG6 8EP,53.0104,-1.1898
+McDonald's,NG6 8EP,53.0101,-1.1906
 kfc,NG6 8EP,53.0104,-1.1898
 Costa Bulwell,NG6 8EW,53.0018,-1.1960
-Costa Coffee,NG6 8EW,53.0018,-1.1960
+Costa Coffee,NG6 8EW,53.0018,-1.1961
+The William Peverel Nottingham (Wetherspoon),NG6 8EZ,53.0025,-1.1962
 limekiln pub,NG6 8GE,53.0052,-1.2084
 Red Kangaroo,NG6 8WA,53.0077,-1.2170
 Waterfall Elior Group,NG6 9EU,52.9934,-1.1862
-Burger King,NG7 1FP,52.9472,-1.1665
-Pizza Hut Restaurant,NG7 1GX,52.9454,-1.1656
+Beefeater The Boathouse,NG7 1GX,52.9450,-1.1661
+McDonald's,NG7 1GX,52.9449,-1.1629
 Avocafe by Nutri2Go,NG7 1RR,52.9513,-1.1730
 Sonnets Cafe,NG7 2BY,52.9532,-1.1765
 subway,NG7 2DZ,52.9474,-1.1829
@@ -491,14 +472,9 @@ savera Restaurant Limited,NG7 2EB,52.9454,-1.1867
 Chaska,NG7 2ET,52.9480,-1.1746
 higoi japanese restaurant,NG7 2FQ,52.9497,-1.1751
 Chartwell Compass Group,NG7 2NR,52.9358,-1.1719
-Costa Coffee,NG7 2NR,52.9358,-1.1719
 Taste of India Restaurant,NG7 2NZ,52.9425,-1.1801
 TV Conferencing Ltd,NG7 2PX,52.9421,-1.1716
-Starbucks,NG7 2RD,52.9388,-1.2013
-Costa Coffee,NG7 2UH,52.9434,-1.1858
 Waterfall Elior,NG7 2UH,52.9434,-1.1858
-Five Guys,NG7 2UW,52.9352,-1.1764
-Nando's Chickenland Ltd,NG7 2UW,52.9364,-1.1760
 jukebox cafe,NG7 3AD,52.9609,-1.1726
 2days grill house limited ,NG7 3AQ,52.9603,-1.1756
 UK PIZZA,NG7 3BN,52.9582,-1.1759
@@ -534,7 +510,7 @@ ALE BOSCO LTD,NG7 5GT,52.9681,-1.1728
 CHAPATI JUNCTION,NG7 5GT,52.9681,-1.1728
 Chaiiwala Nottingham,NG7 5JD,52.9650,-1.1715
 Royal Sweet Centre,NG7 5JD,52.9650,-1.1715
-KFC Alfreton Drive-To,NG7 5NH,52.9641,-1.1789
+KFC,NG7 5NH,52.9642,-1.1801
 kfc,NG7 5NH,52.9641,-1.1789
 Wafflebox,NG7 6AU,52.9686,-1.1692
 AFRICAN BASE RESTAURANT LTD,NG7 7AJ,52.9752,-1.1639
@@ -542,31 +518,30 @@ WILLOW TREE INN,NG7 7DA,52.9771,-1.1674
 Hajis,NG7 7DG,52.9793,-1.1701
 BestOfBoth World ,NG7 7EA,52.9757,-1.1733
 McDonald's Valley Road,NG7 7EX,52.9789,-1.1743
-McDonalds Restaurants,NG7 7EX,52.9789,-1.1743
 Lion Inn,NG7 7FQ,52.9721,-1.1741
 The Wollaton,NG8 1GR,52.9587,-1.2112
 MR MAN'S RESTAURANT,NG8 2AD,52.9536,-1.2130
-Miller & Carter,NG8 2NR,52.9405,-1.2172
 Birds Bakery,NG8 2QJ,52.9464,-1.2313
 SUDA delicatessen & world Kitchen,NG8 2QJ,52.9464,-1.2313
 The Cheesecake Shop Wollaton,NG8 2QJ,52.9464,-1.2313
 The Cods Scallops,NG8 2QP,52.9464,-1.2325
 Sycamore Dining -Foxton Gardens,NG8 3FR,52.9668,-1.2065
 Gurkha kitchen ,NG8 4GY,52.9574,-1.2338
-McDonalds Restaurants,NG8 5AZ,52.9681,-1.1836
 Nuthall Road McDonalds,NG8 5AZ,52.9681,-1.1836
 Gingers cob shop,NG8 5BU,52.9762,-1.1894
 MAKAMANA LIMITED,NG8 5GB,52.9709,-1.1975
 The Indaba Hut Cafe,NG8 5GB,52.9709,-1.1974
 5 star wings ,NG8 5RX,52.9728,-1.2092
-KFC Nuthall,NG8 6AD,52.9838,-1.1973
+KFC,NG8 6AD,52.9843,-1.1989
 kfc,NG8 6AD,52.9838,-1.1973
 Clip'n Climb Nottingham,NG8 6AR,52.9897,-1.2028
+Beefeater Millers Barn,NG8 6AS,52.9878,-1.2080
 The Nuthall,NG8 6AX,52.9869,-1.2092
 Exceptional Hotels & Resorts Uk Ltd,NG8 6AZ,52.9859,-1.2008
 Mulberry Tree Cafe,NG8 6PE,52.9745,-1.2478
 Nottingham Belfry Hotel and Spa,NG8 6PY,52.9815,-1.2381
 Lagan Indian Tapas,NG9 1AA,52.9262,-1.2169
+The Last Post Beeston (Wetherspoon),NG9 1AA,52.9264,-1.2168
 Japanese kitchen SORA -cafe & Izakaya Tapas,NG9 1EH,52.9239,-1.2184
 Latino Restaurant ,NG9 1EH,52.9239,-1.2184
 cottage balti restaurant,NG9 1ES,52.9229,-1.2202
@@ -575,13 +550,10 @@ The Victoria Hotel,NG9 1JG,52.9207,-1.2103
 RIVERSIDE BAR BEESTON MARINA,NG9 1NA,52.9132,-1.2082
 Feed Me! Fully Loaded,NG9 1PX,52.9218,-1.2026
 Amores Ristorante Ltd,NG9 2AZ,52.9237,-1.2105
-KFC,NG9 2FD,52.9273,-1.2042
 subway,NG9 2FD,52.9273,-1.2042
-Mecca Bingo,NG9 2FE,52.9265,-1.2041
 Birds Bakery,NG9 2JG,52.9264,-1.2153
 Costa Beeston,NG9 2JG,52.9264,-1.2156
-Costa Coffee,NG9 2JG,52.9264,-1.2156
-Caffè Nero,NG9 2JP,52.9274,-1.2144
+Costa Coffee,NG9 2JG,52.9264,-1.2157
 The Bean,NG9 2LA,52.9284,-1.2141
 Cafe 94,NG9 2LF,52.9282,-1.2131
 Pizza Hut,NG9 2LF,52.9282,-1.2131
@@ -601,22 +573,20 @@ The Doughmother,NG9 2QS,52.9354,-1.2201
 Beeston Fields Golf Club,NG9 3DD,52.9340,-1.2302
 Foxwood Academy (Wilson Vale Catering),NG9 3GF,52.9381,-1.2493
 The White lion ,NG9 3HH,52.9344,-1.2462
-Burger King (Northbound),NG9 3PL,52.9616,-1.2681
-Burger King,NG9 3PL,52.9616,-1.2681
-Costa Coffee,NG9 3PL,52.9616,-1.2681
+Costa Coffee,NG9 3PL,52.9618,-1.2687
 Digg Cafe / Trowell Garden Centre Ltd,NG9 3TG,52.9491,-1.2710
 Chilwell Manor Golf Club,NG9 5AE,52.9176,-1.2249
 Haveli ,NG9 5JW,52.9116,-1.2376
-Costa Coffee,NG9 6DS,52.9028,-1.2448
-McDonalds Restaurants Ltd,NG9 6DS,52.9028,-1.2448
+Costa Coffee,NG9 6DS,52.9038,-1.2449
+McDonald's,NG9 6DS,52.9028,-1.2440
 Attenborough Nature Centre,NG9 6DY,52.9018,-1.2384
 The Manor,NG9 6EF,52.9038,-1.2494
-Costa Coffee,NG9 6GX,52.9088,-1.2557
+Costa Coffee,NG9 6GX,52.9087,-1.2568
+The Admiral Sir John Borlase Warren Nottingham (Wetherspoon),NG9 7AA,52.9276,-1.2782
 CINNAMON,NG9 7AY,52.9255,-1.2807
 VIVO Restaurant Ltd,NG9 7AY,52.9254,-1.2807
 Spice & Suave Ltd,NG9 7AZ,52.9242,-1.2805
 The Sanctuary Coffee House,NG9 7HA,52.9289,-1.2743
 Lady Jayne's Tearoom,NG9 7JA,52.9197,-1.2644
 Gurkha Curry Nights ,NG9 8AA,52.9305,-1.2717
-The Haven Coffee Shop,NG9 8BD,52.9350,-1.2621
 Millysfishbar,NG9 8GQ,52.9395,-1.2728

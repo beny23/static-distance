@@ -1,7 +1,6 @@
 name,postcode,lat,lon
 Coach and horses,CW1 4QZ,53.1263,-2.4784
 Minshulls Garden Centre Restaurant,CW1 4RQ,53.1323,-2.4851
-Starbucks,CW10 0JB,53.1957,-2.4299
 The Boars Head,CW10 0JE,53.1929,-2.4417
 The Kinderton,CW10 0JE,53.1929,-2.4417
 The King's Lock,CW10 0JJ,53.1870,-2.4410
@@ -11,7 +10,9 @@ Narrowboat Inn,CW10 9AS,53.1899,-2.4428
 The big lock,CW10 9DN,53.1954,-2.4479
 Ginger and Pickles,CW10 9NG,53.2203,-2.4139
 Raffaele,CW11 1AB,53.1446,-2.3652
+Costa Coffee,CW11 1AD,53.1443,-2.3641
 THE WHEATSHEAF SANDBACH,CW11 1AG,53.1441,-2.3651
+The George Inn Sandbach (Wetherspoon),CW11 1AL,53.1434,-2.3623
 Jenny's Tea Shop,CW11 1AN,53.1434,-2.3619
 K2H Creative Indian Kitchen,CW11 1AR,53.1431,-2.3628
 Bar Six,CW11 1AT,53.1442,-2.3620
@@ -19,12 +20,13 @@ Casa Mia,CW11 1AT,53.1442,-2.3620
 Market Tavern,CW11 1AT,53.1442,-2.3625
 The Gourmet Cafe and Coffee Company Limited,CW11 1AT,53.1442,-2.3621
 DV8,CW11 1AX,53.1444,-2.3630
-McDonalds,CW11 1DH,53.1449,-2.3669
+McDonald's,CW11 1DH,53.1441,-2.3685
 McDonald’s Restaurants 1203 t/a LEMACA Ltd,CW11 1DH,53.1449,-2.3669
 Kan’s Oriental Restaurant ,CW11 1GX,53.1456,-2.3637
 Sally's Cafe,CW11 1GX,53.1456,-2.3637
 Filotimo,CW11 1HG,53.1474,-2.3616
-McDonalds (South Bound),CW11 2FZ,53.1394,-2.3375
+Costa Coffee,CW11 2FZ,53.1394,-2.3375
+McDonald's,CW11 2FZ,53.1393,-2.3374
 The Bulls Head,CW11 2TY,53.1372,-2.3040
 Legs of man,CW11 2UG,53.1536,-2.3168
 Miola,CW11 3HD,53.1403,-2.3887
@@ -34,7 +36,7 @@ Barchetta Restaurant,CW11 3RL,53.1291,-2.3732
 Chimney House Hotel,CW11 4ST,53.1504,-2.3360
 The Swettenham Arms,CW12 2LF,53.2018,-2.2999
 Costa Coffee - Holmes Chapel,CW4 7AD,53.2024,-2.3581
-Costa Coffee,CW4 7AD,53.2024,-2.3581
+Costa Coffee,CW4 7AD,53.2024,-2.3580
 The Deli & Coffee Shop,CW4 7AZ,53.2016,-2.3580
 The George & Dragon,CW4 7EA,53.2028,-2.3597
 THE FOX & HOUNDS,CW4 7LW,53.1986,-2.4009
@@ -59,14 +61,15 @@ Pesto at Cabbage Hall,CW6 9ES,53.2038,-2.6274
 Shrewsbury Arms,CW6 9EY,53.1969,-2.6065
 Tollemache Arms,CW6 9JE,53.1314,-2.6217
 Lockgate Coffee House,CW6 9NJ,53.1332,-2.6687
+The Queens Arms Winsford (Wetherspoon),CW7 1AT,53.1913,-2.5303
 Al's Plaice,CW7 1BA,53.1917,-2.5276
 balti cottage,CW7 2JP,53.1893,-2.5403
 The Cosy Tea Room,CW7 2NB,53.1936,-2.5499
 The Gate Inn,CW7 2NB,53.1936,-2.5499
 Whitegate Station Cafe,CW7 2QE,53.2073,-2.5808
 The Red Lion,CW7 3AA,53.1934,-2.5164
+McDonald's,CW7 3BS,53.1979,-2.5137
 Polar Palace Play & Party Centre,CW7 3PR,53.1975,-2.4961
-Baxterstorey,CW7 3QY,53.1983,-2.4914
 abm catering at Coveris,CW7 3RD,53.2016,-2.4967
 UA Cheshire Trampoline Park Ltd,CW7 3RL,53.2035,-2.4986
 The Old Star,CW7 4BL,53.1808,-2.5309
@@ -94,20 +97,22 @@ The Topiary Coffee Shop,CW8 4EE,53.2629,-2.5378
 Barnton Cricket Club,CW8 4QL,53.2760,-2.5510
 The Leigh Arms ,CW8 4QT,53.2807,-2.6007
 NORTHWICH TANDOORI,CW9 5AB,53.2621,-2.5088
+The Penny Black Northwich (Wetherspoon),CW9 5AB,53.2622,-2.5086
 Bratt & Evans Ltd,CW9 5AP,53.2618,-2.5136
 The Seafarer Northwich,CW9 5AS,53.2610,-2.5121
 Vinnies,CW9 5BD,53.2611,-2.5145
 Kanya Bistro & Restaurant,CW9 5BE,53.2613,-2.5147
-McDonalds Restaurant,CW9 5DD,53.2617,-2.5149
+McDonald's,CW9 5DD,53.2616,-2.5149
 RHI Squared Ltd t/a McDonalds,CW9 5DD,53.2617,-2.5149
 the quayside,CW9 5DY,53.2625,-2.5080
 BEAR Northwich,CW9 5FT,53.2620,-2.5151
 Sticky Paws,CW9 5FT,53.2627,-2.5135
-Wildwood,CW9 5FT,53.2624,-2.5145
+KFC,CW9 5GF,53.2636,-2.4983
 Costa Coffee - Northwich,CW9 5LA,53.2623,-2.5123
-Costa Coffee,CW9 5LA,53.2623,-2.5123
+Costa Coffee,CW9 5LA,53.2623,-2.5124
 The Coffee House Northwich,CW9 5LG,53.2627,-2.5118
-Costa Coffee,CW9 5LY,53.2626,-2.4964
+Costa Coffee,CW9 5LY,53.2625,-2.4951
+McDonald's,CW9 5ND,53.2630,-2.4932
 RHI squared Ltd t/a McDonalds,CW9 5ND,53.2633,-2.4952
 KFC,CW9 5QJ,53.2609,-2.5085
 Stanley Arms,CW9 6AG,53.2745,-2.5299
@@ -123,6 +128,7 @@ Cheshire Grill,CW9 7SY,53.2448,-2.4435
 Arabica Caffe,CW9 7UW,53.2470,-2.4825
 Subway,CW9 7YL,53.2726,-2.4570
 Thye bowlinggreen,CW9 8AA,53.2536,-2.5139
+Cookhouse + Pub The Woodpecker,CW9 8EG,53.2410,-2.5124
 new pub company davenham limited t/a the bulls head,CW9 8NA,53.2347,-2.5102
 The Rivers Edge Cafe,CW9 8SQ,53.2497,-2.5189
 Kingsmead Spice,CW9 8UW,53.2431,-2.5196
@@ -136,16 +142,12 @@ Curzon Knutsford,WA16 0PE,53.3023,-2.3732
 The Topiary Coffee Shop,WA16 0QW,53.3485,-2.4518
 Mere Court Hotel,WA16 0RW,53.3439,-2.4294
 Cottons Hotel & Spa,WA16 0SU,53.3196,-2.3929
-Costa Coffee Drive Thru (North),WA16 0TJ,53.3009,-2.4016
-Burger King (North),WA16 0TL,53.3009,-2.4016
-Burger King (South),WA16 0TL,53.3009,-2.4016
-Costa Coffee (North),WA16 0TL,53.3009,-2.4016
-Costa Coffee Kiosk (South),WA16 0TL,53.3009,-2.4016
-Costa Coffee Pod (Outside South),WA16 0TL,53.3009,-2.4016
+Costa Coffee,WA16 0TL,53.3010,-2.4011
 The Smoker Inn,WA16 0TY,53.2807,-2.4361
 High Legh Park Golf Club,WA16 0WA,53.3494,-2.4416
 Pastiche,WA16 6AB,53.3053,-2.3751
 Cranford Cafe & Sandwich Bar,WA16 6BH,53.3048,-2.3760
+Costa Coffee,WA16 6BU,53.3041,-2.3753
 The Old Sessions House,WA16 6BW,53.3046,-2.3752
 CHICINOS KNUTSFORD LIMITED,WA16 6BY,53.3036,-2.3745
 Copper29,WA16 6BY,53.3036,-2.3745
@@ -159,7 +161,6 @@ The Tea Room,WA16 6DX,53.3042,-2.3727
 Blue Sky Foods Limited T/A King Street Kitchen,WA16 6ED,53.3049,-2.3738
 the courtyard coffeehouse knutsford,WA16 6ED,53.3049,-2.3738
 DON GIOVANNIS (KNUTSFORD)LTD,WA16 6EH,53.3058,-2.3739
-Pizza Express,WA16 6EH,53.3058,-2.3739
 Cheshire (ER) LTD,WA16 6EQ,53.3051,-2.3736
 Margao restaurant and bar ,WA16 6EQ,53.3051,-2.3736
 April's Kitchen Knutsford,WA16 6GR,53.3045,-2.3742
@@ -178,14 +179,15 @@ DUN COW OLLERTON LTD,WA16 8RH,53.2889,-2.3391
 THE DOG AT PEOVER ,WA16 8UP,53.2584,-2.3110
 The Three Greyhounds,WA16 9JY,53.2355,-2.4066
 Bells of Peover,WA16 9PZ,53.2640,-2.3871
-KFC,WA4 1LR,53.3388,-2.5877
 Daresury Park Hotel & Spa,WA4 4BB,53.3309,-2.6434
 Hatton Arms Limited,WA4 4DB,53.3372,-2.6022
 chetwode arms,WA4 4EN,53.3059,-2.5800
+Costa Coffee,WA4 4EZ,53.2922,-2.5925
 LETS EAT CAFE,WA4 4EZ,53.2931,-2.5930
 The Partridge Stretton,WA4 4LX,53.3334,-2.5751
 The Park Royal Hotel,WA4 4NS,53.3399,-2.5710
 Chang Noi Ltd,WA4 4PH,53.3224,-2.5593
 DELAMERE FORTUNE PALACE,WA6 6PB,53.2427,-2.6662
 The Red Bull Inn,WA6 8AN,53.2680,-2.6730
+Beefeater Preston Brook,WA7 3BB,53.3146,-2.6642
 Subway,WA7 6SA,53.3293,-2.6696

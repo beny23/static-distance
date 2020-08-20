@@ -1,7 +1,7 @@
 name,postcode,lat,lon
 Espresso Library Limited,CB1 1BG,52.2047,0.1332
 KFC CAMBRIDGE,CB1 1BG,52.2047,0.1332
-KFC,CB1 1BG,52.2047,0.1332
+KFC,CB1 1BG,52.2050,0.1337
 Mediterranean BBQ,CB1 1BG,52.2047,0.1332
 Pepe's Piri Piri,CB1 1BG,52.2047,0.1332
 The Snug Bar Grafton,CB1 1DB,52.2057,0.1342
@@ -15,9 +15,7 @@ Tokoko,CB1 1DJ,52.2057,0.1330
 The Free Press,CB1 1DU,52.2049,0.1301
 The Tram Depot,CB1 1DY,52.2047,0.1328
 LukThai at The Cricketers,CB1 1EQ,52.2044,0.1292
-Starbucks,CB1 1ER,52.2069,0.1304
 Patisserie Valerie,CB1 1EU,52.2069,0.1313
-Caffe Nero,CB1 1EW,52.2065,0.1304
 Nanna Mexico,CB1 1EW,52.2066,0.1306
 Baan Thai Cambridge,CB1 1JH,52.2035,0.1265
 The Clarendon Arms,CB1 1JX,52.2049,0.1278
@@ -33,15 +31,13 @@ Savino's Cafe Bar Italiano,CB1 1NE,52.2047,0.1229
 Subway,CB1 1NE,52.2047,0.1229
 Cafe Abantu,CB1 1NL,52.2067,0.1212
 NINE PARKER LTD TRADING AS SUSHIMANIA,CB1 1NP,52.2051,0.1230
-Starbucks Coffee Co Ltd,CB1 1NP,52.2051,0.1230
 TATTIES OF CAMBRIDGE LIMITED,CB1 1PA,52.2067,0.1211
 Amelie Restaurants,CB1 1PS,52.2069,0.1335
 Chi Street Food,CB1 1PS,52.2069,0.1335
-Costa Coffee,CB1 1PS,52.2070,0.1333
+Costa Coffee,CB1 1PS,52.2068,0.1334
 The Burger Priest Cambridge,CB1 1PS,52.2069,0.1335
 Yakut Restaurant,CB1 1PS,52.2069,0.1335
 la piazza by signorelli,CB1 1PS,52.2069,0.1335
-Costa Coffee,CB1 1PT,52.2038,0.1348
 Mina steakhouse ,CB1 2AA,52.1924,0.1341
 Noodles Plus,CB1 2AD,52.2012,0.1337
 Sahara restaurant ,CB1 2AD,52.2012,0.1337
@@ -68,10 +64,8 @@ YHA Cambridge,CB1 2DN,52.1968,0.1357
 Elior UK,CB1 2DR,52.2008,0.1375
 Salisbury Arms,CB1 2DW,52.1987,0.1355
 Clayton Hotel Cambridge,CB1 2FB,52.1949,0.1350
-Wilson Vale,CB1 2FB,52.1949,0.1350
 Costa Coffee,CB1 2FF,52.1926,0.1338
-Caffe Nero,CB1 2GA,52.1948,0.1366
-Pret A Manger,CB1 2GA,52.1948,0.1366
+Pret A Manger,CB1 2GA,52.1950,0.1369
 Wasabi Sushi & Bento,CB1 2GA,52.1948,0.1366
 Wasabi,CB1 2GA,52.1948,0.1366
 NORFOLK STREET BAKERY AT STATION ROAD,CB1 2JB,52.1952,0.1316
@@ -92,7 +86,8 @@ The Sea Tree,CB1 3AH,52.1980,0.1436
 Tradizioni Restaurant,CB1 3AH,52.1980,0.1436
 The Empress,CB1 3AX,52.2003,0.1481
 The Edge Cafe,CB1 3DF,52.1971,0.1508
-Costa Coffee,CB1 3ET,52.2053,0.1449
+Thyme,CB1 3EP,52.2089,0.1432
+Costa Coffee,CB1 3ER,52.2051,0.1445
 Subway,CB1 3ET,52.2053,0.1449
 196 ,CB1 3NF,52.1973,0.1450
 Limoncello (Cambridge) Ltd,CB1 3NF,52.1973,0.1450
@@ -101,16 +96,13 @@ Tzatziki,CB1 3NL,52.1970,0.1497
 THE BROOK PUB ,CB1 3NW,52.1961,0.1551
 The Dumpling Tree Bar & Restaurant,CB1 3RX,52.1892,0.1530
 Costa Coffee,CB1 7AA,52.1888,0.1388
+Costa Coffee,CB1 7AA,52.1891,0.1368
 Rock of virtue EAT out ,CB1 7AA,52.1888,0.1388
 Tradizioni at Sorrento,CB1 7AN,52.1877,0.1455
-Cambridge Tenpin,CB1 7DY,52.1902,0.1369
-Five Guys,CB1 7DY,52.1902,0.1369
 Hot Spot Cambridge Limited,CB1 7DY,52.1902,0.1369
-Nando's,CB1 7DY,52.1902,0.1369
 Nines Global Buffet,CB1 7DY,52.1902,0.1369
 Pizza 1889 Cambridge Leisure Park,CB1 7DY,52.1902,0.1369
 Rockers Steakhouse,CB1 7DY,52.1902,0.1369
-Wagamama,CB1 7DY,52.1902,0.1369
 SUBWAY STORE (29712),CB1 7DZ,52.1894,0.1370
 Clip 'n Climb Cambridge,CB1 7EB,52.1920,0.1380
 Rainbow Rocket,CB1 7ED,52.1932,0.1394
@@ -123,28 +115,23 @@ The Red Lion ,CB1 9JP,52.1869,0.1713
 AZ Cambridge ,CB2 0AA,52.1745,0.1351
 CH&CO Catering Ltd,CB2 0AW,52.1722,0.1457
 Abcam,CB2 0AX,52.1702,0.1361
-CH&Co Ctering Group Ltd,CB2 0PT,52.1772,0.1410
 Royal Voluntary Service,CB2 0QQ,52.1737,0.1391
 Sta catering limited,CB2 0SN,52.1757,0.1377
 Cambridge Institute of Medical research,CB2 0XY,52.1762,0.1431
 The Hutchinson Research Centre,CB2 0XY,52.1762,0.1431
 Doppleganger,CB2 1AB,52.2010,0.1260
-Gourmet Burger Kitchen,CB2 1AB,52.2010,0.1260
 Nanna Mexico,CB2 1AB,52.2010,0.1260
 Noodle Republic/Rallycart LTD,CB2 1AB,52.2010,0.1260
-Zizzi,CB2 1AB,52.2010,0.1260
 Parker's Tavern,CB2 1AD,52.2022,0.1253
 De Luca Cucina & Bar,CB2 1AW,52.2002,0.1267
 KIM'S BULGOGI,CB2 1AW,52.2002,0.1267
 CHARLIE CHAN RESTAURANT,CB2 1DB,52.2017,0.1248
 NOVI,CB2 1DB,52.2017,0.1248
-Pizza Express,CB2 1DB,52.2017,0.1248
 The Tiffin Truck,CB2 1DB,52.2017,0.1248
 1 and 1 Rougamo ,CB2 1DP,52.2002,0.1262
 Bould Brothers Coffee,CB2 1DP,52.2001,0.1264
 Little Seoul,CB2 1DP,52.2002,0.1262
 Seven days,CB2 1DP,52.2002,0.1262
-Starbucks Coffee Houses,CB2 1DP,52.2002,0.1262
 The Olive Grove,CB2 1DP,52.2002,0.1262
 The house authentic thai restaurant,CB2 1DP,52.2002,0.1262
 The Oak Bistro,CB2 1EG,52.1987,0.1257
@@ -154,79 +141,62 @@ Japas,CB2 1HN,52.1977,0.1234
 The Alma,CB2 1HW,52.1962,0.1260
 Cambridge Blues Sandwitches ,CB2 1LA,52.1969,0.1292
 Costa Coffee,CB2 1LA,52.1969,0.1292
+Costa Coffee,CB2 1LA,52.1971,0.1292
 The Cambridge Oven Ltd.,CB2 1LA,52.1969,0.1292
 The Flying Pig,CB2 1LQ,52.1942,0.1313
 La Maison du Steak,CB2 1PG,52.1934,0.1332
 The Earl of Derby,CB2 1PG,52.1934,0.1332
 Hot Numbers Coffee - Trumpington Street,CB2 1QA,52.1990,0.1218
 Hotel Du Vin Cambridge,CB2 1QA,52.1990,0.1218
-Costa Coffee,CB2 1RA,52.1965,0.1289
 Fitzwilliam Museum,CB2 1RB,52.1997,0.1199
 Fitzbillies,CB2 1RG,52.2026,0.1183
 Cambridge Hotel - (Riverside Brasserie),CB2 1RT,52.2002,0.1166
 Cambridge Chop House,CB2 1SJ,52.2044,0.1178
 Copper Kettle,CB2 1SJ,52.2044,0.1178
 Ittou Noodle Bar,CB2 1SJ,52.2042,0.1178
-Caffe Nero,CB2 1SP,52.2049,0.1179
 Trinity Restaurant,CB2 1TB,52.2069,0.1180
 Hong Kong Fusion Restaurant ,CB2 1TW,52.2081,0.1184
 Le Patissier ltd,CB2 1TW,52.2081,0.1184
-Patisserie Valerie,CB2 1UA,52.2083,0.1190
 Bridges Cambridge,CB2 1UF,52.2090,0.1183
 Bridges,CB2 1UF,52.2090,0.1183
 Chinese Canteen,CB2 1UJ,52.2096,0.1172
-Prezzo Limited,CB2 1UJ,52.2096,0.1172
-Wildwood,CB2 1UJ,52.2096,0.1172
 CrepeAffaire Cambridge,CB2 1UR,52.2081,0.1187
 Fitzbillies,CB2 1UW,52.2095,0.1165
 Galleria,CB2 1UW,52.2095,0.1165
-Nando's Restaurant,CB2 3AR,52.2028,0.1234
+Costa Coffee,CB2 2QQ,52.1747,0.1403
 The Castle Bar,CB2 3AR,52.2028,0.1234
+The Regal Cambridge (Wetherspoon),CB2 3AR,52.2029,0.1238
 Varsity Restaurant,CB2 3AR,52.2028,0.1234
-Wagamama Ltd,CB2 3AR,52.2028,0.1234
-Pizza Hut Restaurant,CB2 3AS,52.2023,0.1240
 Caffe Nero,CB2 3AX,52.2041,0.1228
-Costa Coffee,CB2 3BJ,52.2042,0.1220
-Starbucks Coffee,CB2 3BJ,52.2042,0.1220
 CAFE MILANO,CB2 3BZ,52.2047,0.1229
 Jamaica Blue Cambridge,CB2 3ET,52.2047,0.1212
 itsu Cambridge,CB2 3HG,52.2064,0.1209
+Costa Coffee,CB2 3HW,52.2040,0.1216
 Harriets Cafe Tearooms,CB2 3JU,52.2068,0.1192
 Mercado Central,CB2 3JX,52.2065,0.1191
 Tabanco,CB2 3JX,52.2065,0.1191
 La Raza,CB2 3LL,52.2061,0.1187
 McDonald's Rose Crescent,CB2 3LL,52.2061,0.1187
-McDonalds Restaurant,CB2 3LL,52.2061,0.1187
+McDonald's,CB2 3LL,52.2060,0.1191
 The gardenia ,CB2 3LL,52.2061,0.1187
 The Scoop Counter Ltd,CB2 3LS,52.2078,0.1188
 B.Tap Baron,CB2 3NA,52.2050,0.1209
 Nanna Mexico,CB2 3NB,52.2053,0.1201
 Wasabi Sushi & Bento,CB2 3NB,52.2053,0.1201
-Wasabi,CB2 3NB,52.2053,0.1201
-Pret A Manger,CB2 3NE,52.2050,0.1209
-Yo Sushi,CB2 3NE,52.2050,0.1209
-Honest Burgers,CB2 3NH,52.2047,0.1201
-M&S Cafe,CB2 3NJ,52.2054,0.1197
+Costa Coffee,CB2 3NJ,52.2058,0.1192
 Stazione restaurant,CB2 3NJ,52.2054,0.1197
-Franco Manca,CB2 3NP,52.2059,0.1191
-Pret A Manger,CB2 3NZ,52.2058,0.1200
+Pret A Manger,CB2 3NZ,52.2059,0.1197
 Butch Annies,CB2 3PA,52.2062,0.1199
-Caffe Nero,CB2 3PA,52.2062,0.1199
-Costa Coffee Unit 3,CB2 3PA,52.2062,0.1199
 Five Guys,CB2 3PA,52.2062,0.1199
-Tortilla,CB2 3PA,52.2062,0.1199
 Ta Bouche,CB2 3PF,52.2063,0.1202
 Vetomeato,CB2 3PF,52.2063,0.1202
 Indigo Coffee House,CB2 3PJ,52.2047,0.1181
 MBB Pubs Ltd (Trading as Pintshop),CB2 3PP,52.2045,0.1187
 The Senate Bistro,CB2 3PQ,52.2050,0.1183
 Smokeworks Free School Lane,CB2 3QA,52.2039,0.1185
-PHO,CB2 3QB,52.2043,0.1194
 Steak & Honour,CB2 3QB,52.2043,0.1194
 Sticks 'n' Sushi Cambridge ,CB2 3QJ,52.2048,0.1192
 BREAD & MEAT ,CB2 3QN,52.2041,0.1183
-BrewDog,CB2 3QN,52.2041,0.1183
-Zizzi,CB2 3QN,52.2041,0.1183
 Expresso Lane,CB2 3RD,52.2023,0.1185
 Waterfall Elior,CB2 7EB,52.1930,0.1198
 Peking restaurant (cambridge) ltd,CB2 8NX,52.1895,0.1354
@@ -242,22 +212,22 @@ The Moringa Tree,CB23 1JE,52.1507,0.0486
 EPWORTH LIMITED,CB23 2SH,52.1932,-0.0634
 Lalbagh Bangladeshi & Indian Diner,CB23 2SH,52.1932,-0.0634
 The Willow Tree,CB23 2SQ,52.1910,-0.0630
+Costa Coffee,CB23 3AS,52.2287,-0.1016
 McDonald's Caxton Gibbet,CB23 3AS,52.2286,-0.1024
 Perfect Meals Pizza Pasta / Fish and Chips,CB23 3AS,52.2283,-0.1015
 Subway,CB23 3AS,52.2284,-0.1015
-Costa Coffee,CB23 3PE,52.2286,-0.1028
+McDonald's,CB23 3PE,52.2287,-0.1028
 No 77,CB23 3PQ,52.2082,-0.0935
 Royal Papworth Hospital,CB23 3RE,52.2487,-0.1155
 The Courtyard ,CB23 3UY,52.2513,-0.1188
 The George and Dragon Elsworth,CB23 4JQ,52.2562,-0.0685
 Golden Ball Hotel,CB23 4LY,52.2594,-0.0277
 Chopstix Cambridge Extra,CB23 4WU,52.2689,-0.0088
+Costa Coffee,CB23 4WU,52.2689,-0.0087
 EL MEXICANA,CB23 4WU,52.2689,-0.0089
 FRESH ,CB23 4WU,52.2689,-0.0088
-KFC,CB23 4WU,52.2689,-0.0088
 McDonald's Cambridge Services,CB23 4WU,52.2689,-0.0088
-Moto Costa Coffee,CB23 4WU,52.2689,-0.0089
-Patisserie Valerie,CB23 4WU,52.2689,-0.0089
+McDonald's,CB23 4WU,52.2688,-0.0089
 Doubletree by Hilton Cambridge Belfry,CB23 6BW,52.2214,-0.0681
 Chutney Joe,CB23 6JX,52.2185,-0.0684
 GREENS COFFEE COMPANY AND LIMITED,CB23 6JX,52.2184,-0.0686
@@ -267,12 +237,10 @@ Flock cafe,CB23 7EY,52.1817,0.0592
 The Plough,CB23 7PL,52.2101,0.0629
 blue lion (hardwick) limited,CB23 7QU,52.2066,0.0059
 Three Horseshoes,CB23 8AB,52.2259,0.0431
-Burger King,CB23 8DR,52.2590,0.0190
 Fox Inn,CB23 8DY,52.2533,0.0217
-Costa Coffee,CB23 8DZ,52.2535,0.0184
+Costa Coffee,CB23 8EL,52.2534,0.0186
 BAR HILL SPORTS AND SOCIAL CLUB,CB23 8SU,52.2489,0.0159
 TNS Catering_Domino,CB23 8TU,52.2582,0.0182
-Waterfall Elior,CB23 8TU,52.2581,0.0180
 The White Horse,CB24 3AB,52.2609,0.0632
 The Olive Tree Cafe,CB24 3BD,52.2571,0.0639
 black bull ,CB24 3BS,52.2818,0.0450
@@ -290,7 +258,6 @@ Barley mow,CB24 9JD,52.2524,0.1055
 THE INDIAN OCEAN,CB24 9JE,52.2532,0.1047
 The Boot,CB24 9LG,52.2519,0.1066
 The Railway Vue,CB24 9NP,52.2453,0.1100
-Elior,CB24 9NR,52.2469,0.1040
 Scotsdales Cafe Horningsea,CB25 9JG,52.2393,0.1851
 The Crown & Punchbowl,CB25 9JG,52.2393,0.1851
 The Plough and Fleece,CB25 9JG,52.2393,0.1851
@@ -301,9 +268,11 @@ Nivedyam ,CB3 0AH,52.2124,0.1128
 The Architect,CB3 0AH,52.2124,0.1128
 Sir Isaac Newton,CB3 0AJ,52.2131,0.1128
 the castle inn,CB3 0AJ,52.2131,0.1128
+Beefeater Travellers Rest (Cambridge),CB3 0DL,52.2223,0.0937
 Old Crown,CB3 0QD,52.2411,0.0810
 Girton Golf Club (Cambridge) Limited,CB3 0QE,52.2434,0.0795
 KFC CAMBRIDGE SERVICE,CB3 8WG,52.2494,-0.1173
+KFC,CB3 8WG,52.2689,-0.0088
 Wilson Vale Catering Ltd,CB3 9AL,52.2041,0.1044
 Millworks,CB3 9EY,52.1990,0.1132
 Rice Boat,CB3 9EY,52.1990,0.1132
@@ -312,11 +281,10 @@ The Red Bull Pizza Pub,CB3 9JZ,52.1965,0.1087
 Orchard Tea Garden Limited,CB3 9ND,52.1772,0.0960
 The Blue Ball Inn,CB3 9NQ,52.1830,0.0939
 The Rupert Brooke,CB3 9NQ,52.1830,0.0939
-BaxterStorey,CB4 0FP,52.2315,0.1443
 The Bradfield Centre,CB4 0GA,52.2342,0.1478
 St John's Innovation Centre Ltd The Square,CB4 0WS,52.2353,0.1537
 Thoroughbreads,CB4 0WY,52.2315,0.1514
-Wilson Vale Catering Ltd  Qualcomm,CB4 0WZ,52.2288,0.1537
+Costa Coffee,CB4 0WZ,52.2239,0.1576
 Polonia Club Cambridge,CB4 1AS,52.2158,0.1313
 Stir Cambridge Ltd,CB4 1BG,52.2161,0.1332
 Royal Spice Indian & Bangladeshi cuisine ,CB4 1EH,52.2140,0.1256
@@ -328,12 +296,14 @@ The Haymakers,CB4 1NG,52.2170,0.1388
 Cafe 121,CB4 1XE,52.2202,0.1332
 Pizza Hut,CB4 2AD,52.2351,0.1180
 The Carlton Arms,CB4 2BY,52.2218,0.1185
+Thyme,CB4 2GW,52.2348,0.1162
 Elior,CB4 2JF,52.2244,0.1304
 Cafe Camtown,CB4 2XF,52.2321,0.1227
 The Portland Arms,CB4 3BA,52.2145,0.1247
 Carpenters Arms,CB4 3DZ,52.2157,0.1169
 IAA NOODLE BAR,CB4 3EF,52.2157,0.1214
 Coffee Tree Cambridge,CB4 3JP,52.2181,0.1114
+Costa Coffee,CB4 6AZ,52.2388,0.1546
 Cafe Foy ,CB5 8AB,52.2101,0.1175
 Thaikhun,CB5 8AB,52.2099,0.1174
 Bould Brothers Coffee ,CB5 8AD,52.2088,0.1190
@@ -343,36 +313,36 @@ The Varsity Hotel,CB5 8AQ,52.2103,0.1180
 SEVEN DAYS,CB5 8DZ,52.2081,0.1358
 Burleigh Arms,CB5 8EG,52.2083,0.1335
 Navadhanya,CB5 8EG,52.2083,0.1335
+Costa Coffee,CB5 8HE,52.2115,0.1442
 OtherSyde,CB5 8HN,52.2124,0.1429
 Partyman World Cambridge,CB5 8HY,52.2150,0.1490
 Corner House Pub,CB5 8JE,52.2103,0.1450
 THE SEVEN STARS CAMBRIDGE,CB5 8JE,52.2098,0.1439
 The Wrestlers,CB5 8JE,52.2103,0.1450
+Nando's,CB5 8JL,52.2086,0.1448
 pipasha,CB5 8PA,52.2130,0.1575
 Marshall,CB5 8RX,52.2120,0.1738
-McDonalds,CB5 8WL,52.2128,0.1634
-Dunelm Mill,CB5 8WR,52.2097,0.1469
-Nando's,CB5 8WR,52.2106,0.1487
-Pizza Hut Restaurant,CB5 8WR,52.2097,0.1469
-Starbucks Coffee Co,CB5 8WR,52.2097,0.1469
+McDonald's,CB5 8WL,52.2128,0.1635
 The lazy otter ,CB6 3LU,52.3340,0.2014
 Twenty Pence Garden Centre,CB6 3RN,52.3481,0.1746
 The Cherry Tree Haddenham,CB6 3UE,52.3537,0.1496
 THE THREE KINGS,CB6 3XD,52.3613,0.1495
-Prezzo,CB7 4JZ,52.3738,0.0071
 The Three Horseshoes,PE19 6PL,52.2598,-0.1706
 The Eltisley,PE19 6TG,52.2216,-0.1408
 St Ives (Hunts) Golf Club,PE27 4AD,52.3379,-0.0451
 Costa Coffee,PE27 4AE,52.3302,-0.0600
 Eric's Fish & Chips,PE27 4AE,52.3302,-0.0600
-Kyra Enterprises Ltd T/A McDonalds,PE27 4AE,52.3302,-0.0600
 McDonald's Restaurant,PE27 4AE,52.3302,-0.0600
 Subway St Ives,PE27 4AE,52.3302,-0.0600
 The Queens Head,PE27 4SA,52.3303,-0.0336
 Pike & Eel,PE27 4TW,52.3232,-0.0060
 pike and eel,PE27 4TW,52.3232,-0.0060
+Costa Coffee,PE27 4WJ,52.3303,-0.0599
+McDonald's,PE27 4WY,52.3310,-0.0610
+Costa Coffee,PE27 5AB,52.3239,-0.0740
 Costa Coffee,PE27 5AB,52.3240,-0.0739
 The Golden Lion Hotel,PE27 5AL,52.3230,-0.0731
+The Swan and Angel St Ives (Wetherspoon),PE27 5AL,52.3231,-0.0728
 Amore,PE27 5AR,52.3229,-0.0743
 Floods,PE27 5BX,52.3246,-0.0762
 PR MASSALA,PE27 5DX,52.3227,-0.0735
@@ -389,7 +359,6 @@ SLEPE HALL HOTEL,PE27 5RB,52.3287,-0.0765
 The Seven Wives,PE27 5RF,52.3321,-0.0767
 River Tea Rooms Ltd,PE27 5UW,52.3232,-0.0753
 Zzohanna ,PE27 5UW,52.3232,-0.0751
-Dobbies Garden Centres Ltd,PE28 2AA,52.3366,-0.1388
 The Three Jolly Butchers ,PE28 2AD,52.3346,-0.1255
 The Three Horseshoes,PE28 2BE,52.3329,-0.1200
 Inflatabounce Ltd,PE28 2DY,52.3398,-0.1102
@@ -397,7 +366,6 @@ green man colne,PE28 3LZ,52.3640,0.0175
 The Axe and Compass,PE28 9AH,52.3222,-0.1187
 Hemingford Garden Room,PE28 9BJ,52.3185,-0.1037
 The Cock ,PE28 9BJ,52.3189,-0.1048
-Burger King,PE28 9LP,52.2986,-0.0607
 The Duchess,PE28 9LQ,52.2984,-0.0723
 PRINCE OF WALES,PE28 9NG,52.2796,-0.1124
 Elior,PE29 1AF,52.3332,-0.1839
@@ -406,24 +374,23 @@ The Barley Mow,PE29 1XU,52.3383,-0.1591
 king of the belgians,PE29 1XU,52.3383,-0.1591
 The White Hart,PE29 2BW,52.3194,-0.1663
 Planet Spice,PE29 2HA,52.3182,-0.1751
-Costa Coffee,PE29 3AQ,52.3296,-0.1825
+Costa Coffee,PE29 3AQ,52.3297,-0.1824
 Original Thai ,PE29 3AQ,52.3296,-0.1825
+Sandford House Huntingdon (Wetherspoon),PE29 3BD,52.3305,-0.1870
 83 High Street Limited t/a Rajpoot Huntingdon,PE29 3ER,52.3325,-0.1861
-Pizza Express,PE29 3LB,52.3312,-0.1848
 Rosamunds,PE29 3LD,52.3307,-0.1837
 SUBWAY HUNTINGDON,PE29 3LJ,52.3305,-0.1823
-Caffe Nero,PE29 3LZ,52.3304,-0.1817
+Costa Coffee,PE29 3NQ,52.3308,-0.1814
 Hill Ephesus,PE29 3NR,52.3303,-0.1848
 Samuel Pepys,PE29 3TF,52.3282,-0.1791
 Curry Pizza Express,PE29 6DY,52.3434,-0.1898
-BaxterStorey,PE29 6YE,52.3481,-0.1894
-Waterway Cafe (BaxterStorey),PE29 6YJ,52.3464,-0.1992
+Costa Coffee,PE29 7DZ,52.3523,-0.1827
 Costa Coffee,PE29 7DZ,52.3528,-0.1844
 KFC - Towerfields Huntingdon,PE29 7EG,52.3513,-0.1803
-KFC,PE29 7EG,52.3514,-0.1807
+KFC,PE29 7EG,52.3507,-0.1812
 McDonald's Restaurant,PE29 7EG,52.3514,-0.1807
-McDonalds,PE29 7EG,52.3514,-0.1807
-Nandos,PE29 7EG,52.3513,-0.1804
+McDonald's,PE29 7EG,52.3515,-0.1818
+Nando's,PE29 7EG,52.3515,-0.1814
 Aslan bross Tonys takeway,PE29 7HN,52.3454,-0.1757
 The Duncombe Arms,SG19 3BS,52.1762,-0.1753
 waresley park garden centre,SG19 3DB,52.1742,-0.1764

@@ -1,10 +1,13 @@
 name,postcode,lat,lon
+KFC,PE1 4BF,52.6001,-0.2099
 INFLATA NATION,PE1 4YZ,52.6002,-0.2152
 The Wishing Well Inn,PE10 0AF,52.7890,-0.3643
 The Horseshoe,PE10 0EL,52.7364,-0.3679
 MCDONALDS,PE10 0ET,52.7546,-0.3692
+McDonald's,PE10 0ET,52.7546,-0.3691
 The Six Bells,PE10 0JH,52.7358,-0.4415
 China Hand Lincs Ltd,PE10 9AB,52.7696,-0.3767
+Costa Coffee,PE10 9AB,52.7685,-0.3771
 Costa Coffee,PE10 9AB,52.7696,-0.3767
 Jubilee Garage,PE10 9AB,52.7696,-0.3767
 Cafe 35,PE10 9AE,52.7691,-0.3775
@@ -12,7 +15,6 @@ Galaxy91 Limited,PE10 9AE,52.7691,-0.3775
 Smiths of Bourne,PE10 9AE,52.7691,-0.3775
 The Beanbag (bourne) ltd trading as The Angel Hotel,PE10 9AE,52.7691,-0.3775
 Wild Heart Cafe,PE10 9AE,52.7691,-0.3775
-Bourne Leisure Centre,PE10 9DX,52.7737,-0.3729
 Dont Lose Hope Cafe,PE10 9EA,52.7683,-0.3767
 Ginger Fox Cafe,PE10 9EF,52.7678,-0.3760
 The Nags Head,PE10 9EF,52.7678,-0.3760
@@ -27,34 +29,33 @@ Elior (Westfield Primary Academy),PE10 9QS,52.7688,-0.3903
 Amici Restaurant,PE11 1AN,52.7859,-0.1514
 Gurkhaoven Spalding ,PE11 1BE,52.7876,-0.1538
 The Loft,PE11 1BT,52.7880,-0.1537
+The Ivy Wall Spalding (Wetherspoon),PE11 1DQ,52.7886,-0.1514
 CJ's Diner,PE11 1DY,52.7874,-0.1562
 DORIS BISTRO LTD,PE11 1EB,52.7872,-0.1548
 Istanbul Spalding Ltd,PE11 1EB,52.7872,-0.1552
 UK Lounges Limited t/a Rustic,PE11 1EG,52.7869,-0.1568
 Baltic,PE11 1EJ,52.7872,-0.1573
 Tulip-tandoori-restaurant ,PE11 1QD,52.7899,-0.1511
+Costa Coffee,PE11 1SA,52.7872,-0.1519
 Costa Coffee,PE11 1SA,52.7872,-0.1524
 PRIME CATERING (PETERBOROUGH) LTD,PE11 1SU,52.7871,-0.1512
 St Barnabas Shops Limited Spalding Cafe,PE11 1SU,52.7874,-0.1511
 Penningtons,PE11 1SX,52.7876,-0.1516
-Prezzo,PE11 1TB,52.7877,-0.1504
 Katana Japnese cusine,PE11 2AB,52.7883,-0.1470
 Regent Bingo Spalding,PE11 2AE,52.7889,-0.1484
 Graffiti bar,PE11 2AF,52.7892,-0.1491
 Castle Cafe & Bar,PE11 2AJ,52.7901,-0.1458
 Crystal Inn,PE11 2RA,52.7858,-0.1494
 THE SHIP INN,PE11 3SE,52.8179,-0.1730
-Waterfall Elior at Dalehead Restaurant,PE12 6EP,52.7960,-0.1279
-Costa Coffee,PE12 6ES,52.7994,-0.1294
-Starbucks Coffee Shop,PE12 6ES,52.7987,-0.1282
-Caffe Nero,PE12 6EU,52.7993,-0.1274
+Costa Coffee,PE12 6EU,52.7993,-0.1277
 Springy's American Diner  Adventureland,PE12 6EU,52.7993,-0.1274
 Starbucks,PE12 6EU,52.7993,-0.1274
 The Kitchen,PE12 6EU,52.7993,-0.1274
 subway,PE12 6EU,52.7993,-0.1274
 Unique Cottage Cafe,PE12 6FA,52.7891,-0.1259
-Costa Coffee,PE12 6FY,52.7609,-0.1586
+Costa Coffee,PE12 6FY,52.7604,-0.1582
 McDonald's Spalding ,PE12 6JP,52.8001,-0.1195
+McDonald's,PE12 6JP,52.7983,-0.1228
 Fun Farm Spalding,PE12 6JU,52.8042,-0.0929
 Jak's Diner at Laserstorm,PE12 6JU,52.8041,-0.0931
 swan,PE12 6QB,52.7976,-0.0630
@@ -62,6 +63,8 @@ Bounce Boundless fun Trampoline park,PE2 6UN,52.6167,-0.2903
 Flip Out Peterborough,PE3 8AY,52.6051,-0.2766
 Remstone Kitchen ,PE3 8NZ,52.6013,-0.2828
 Safari Adventure Play,PE3 8SB,52.6079,-0.2831
+McDonald's,PE4 6AB,52.6000,-0.2669
+Table Table Paul Pry,PE4 6AH,52.6024,-0.2668
 Mancetter Square Cafe,PE4 6BX,52.6068,-0.2754
 Honey Bees,PE4 6EU,52.6040,-0.2590
 Elior at Queen Katherine Academy,PE4 6HX,52.6050,-0.2659
@@ -79,13 +82,12 @@ Golden Pheasant,PE6 7DA,52.6433,-0.3150
 The Blue Bell,PE6 7ED,52.6339,-0.3442
 Elior at The Spinney,PE6 7GH,52.6109,-0.1838
 MCDONALDS,PE6 7JR,52.6377,-0.2979
-McDonalds Restaurants Limited,PE6 7JR,52.6377,-0.2979
+McDonald's,PE6 7JR,52.6319,-0.2975
 The Blue Bell Glinton,PE6 7LS,52.6384,-0.2933
 Ruddy Duck,PE6 7NF,52.6419,-0.2754
 the bull ,PE6 7QW,52.6397,-0.2229
-Starbucks,PE6 7SZ,52.6128,-0.1878
 MCDONALDS,PE6 7TN,52.6124,-0.1869
-McDonalds Restaurants,PE6 7TN,52.6124,-0.1869
+McDonald's,PE6 7TN,52.6120,-0.1881
 House of Feasts,PE6 7TP,52.6174,-0.1869
 Casa Mattoni ltd,PE6 7YB,52.6058,-0.1993
 Chester's Restaurant,PE6 8AL,52.6765,-0.3188
@@ -104,13 +106,13 @@ Maharanis Restaurant ,PE6 8HA,52.6722,-0.3038
 Taj mahal,PE6 8HT,52.6755,-0.3120
 THE SPICE MERCHANT ,PE6 8PX,52.6730,-0.2943
 The Goat,PE6 8SA,52.6802,-0.2809
-Wilson Vale Catering at Park Air Electronics,PE6 8UE,52.6874,-0.3114
 The Pack Horse,PE6 9BL,52.6575,-0.3007
 The Waggon and Horses,PE6 9LW,52.6983,-0.3393
 Oasis Restaurant,PE6 9NY,52.7169,-0.3644
 Black Horse Baston,PE6 9PB,52.7141,-0.3481
 The Coffee Stop,PE8 6AB,52.6099,-0.4453
 MCDONALDS,PE9 1TX,52.6579,-0.4653
+McDonald's,PE9 1TX,52.6585,-0.4655
 The White Hart,PE9 3BH,52.6252,-0.3854
 BURGHLEY HOUSE,PE9 3JY,52.6425,-0.4525
 The Green Dragon,PE9 4HJ,52.6859,-0.4674

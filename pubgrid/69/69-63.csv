@@ -10,7 +10,6 @@ Cowshed Burgers,YO11 1DU,54.2847,-0.4010
 RELISH KITCHEN & COFFEE LIMITED,YO11 1DW,54.2829,-0.3999
 Cooplands Orchard Scarborough,YO11 1DY,54.2837,-0.3998
 Sunnys cafe,YO11 1DY,54.2837,-0.3998
-The Haven Cafe,YO11 1DY,54.2837,-0.3998
 The Conservatory Coffee shop,YO11 1ET,54.2830,-0.3990
 LAND OF SPICE LIMITED,YO11 1EU,54.2835,-0.3966
 Urban Kitchen Scarborough,YO11 1EU,54.2835,-0.3966
@@ -19,7 +18,9 @@ Clark's Restaurant ,YO11 1HQ,54.2841,-0.3988
 Koda Coffee,YO11 1JH,54.2810,-0.4058
 NABS AT NORTHWAY LIMITED,YO11 1JH,54.2810,-0.4058
 Rendezvous Cafe,YO11 1JH,54.2808,-0.4053
+The Lord Rosebery Scarborough (Wetherspoon),YO11 1JW,54.2810,-0.4043
 Cooplands Secret Garden Scarborough,YO11 1LD,54.2815,-0.4027
+Costa Coffee,YO11 1LD,54.2813,-0.4033
 Eat Me Cafe & Social,YO11 1LS,54.2806,-0.4068
 Pomodoro Pizzeria,YO11 1NA,54.2827,-0.3987
 CREMA E CIOCCOLATO,YO11 1NF,54.2830,-0.3973
@@ -36,14 +37,12 @@ Lookout on the Pier,YO11 1PD,54.2832,-0.3919
 Antons Cafe Bar Grill,YO11 1PE,54.2842,-0.3912
 BAMFORDS ,YO11 1PE,54.2842,-0.3912
 Golden Grid,YO11 1PE,54.2842,-0.3912
-Pizza Express,YO11 1PE,54.2842,-0.3912
 Princess Cafe,YO11 1PE,54.2842,-0.3912
 The King Richard III Restaurant,YO11 1PE,54.2842,-0.3912
 The Welcome Inne,YO11 1PE,54.2842,-0.3912
 winking willys,YO11 1PE,54.2842,-0.3912
 Ivy by the Sea,YO11 1PG,54.2842,-0.3883
 Mutiny Bar & Kitchen,YO11 1PG,54.2842,-0.3883
-Ask Italian,YO11 1PP,54.2839,-0.3915
 Gianni's ristorante Italiano,YO11 1SB,54.2832,-0.4054
 janssons deli,YO11 1SD,54.2830,-0.4050
 Mojos Music Cafe,YO11 1SH,54.2821,-0.4063
@@ -56,19 +55,19 @@ Mister Milos Limited,YO11 1UH,54.2815,-0.4019
 Mother Hubbards,YO11 1UN,54.2804,-0.4044
 INDIAN LOUNGE SCARBOROUGH,YO11 1XE,54.2850,-0.4026
 Roasters,YO11 1XP,54.2820,-0.4026
-Mecca Social Club,YO11 1XS,54.2818,-0.4041
 HIGHLANDER HOTEL,YO11 2AF,54.2762,-0.3997
 Crown Spa Hotel,YO11 2AG,54.2768,-0.3998
 El Gringos,YO11 2AQ,54.2752,-0.3991
 The Cordelia,YO11 2AT,54.2719,-0.4012
 Rivelyn Hotel ,YO11 2BJ,54.2760,-0.4020
 Le Cafe Jardin,YO11 2ED,54.2815,-0.4005
+McDonald's,YO11 2ED,54.2817,-0.4008
 McDonalds Restaurants Ltd,YO11 2ED,54.2815,-0.4005
-McDonalds,YO11 2ED,54.2815,-0.4005
 Emma's Coffee Lounge,YO11 2EF,54.2815,-0.4000
+KFC,YO11 2EF,54.2814,-0.4000
 KFC,YO11 2EF,54.2815,-0.4000
-Pizza Hut Restaurant,YO11 2EF,54.2815,-0.4000
 bonnet and sons,YO11 2EF,54.2815,-0.4000
+Brewers Fayre The Carousel,YO11 2EN,54.2808,-0.4010
 Espresso Yourself,YO11 2EN,54.2809,-0.4008
 Il Piatto Italiano ,YO11 2EP,54.2813,-0.3993
 the cats pyjamas,YO11 2ER,54.2810,-0.3984
@@ -79,7 +78,6 @@ Royal Hotel Scarborough,YO11 2HE,54.2816,-0.3989
 Greensmith,YO11 2HF,54.2822,-0.3990
 Sanctuary Scarborough,YO11 2HF,54.2822,-0.3990
 Walkers of Bar street,YO11 2HT,54.2818,-0.3997
-Everyone Active Scarborough Sports Village,YO11 2JW,54.2707,-0.4135
 Pizza Hut,YO11 2LN,54.2739,-0.4032
 The Cask Inn,YO11 2LQ,54.2757,-0.4033
 Cellars ,YO11 2LX,54.2752,-0.4080
@@ -95,8 +93,8 @@ Poachers Barn ,YO11 3QH,54.2461,-0.3819
 The Farrier,YO11 3RP,54.2343,-0.3811
 Stained Glass Centre Ltd,YO11 3TP,54.2275,-0.3658
 Orchard Lodge,YO11 3UA,54.2035,-0.4063
+McDonald's,YO11 3UT,54.2369,-0.4183
 McDonalds Restaurants Ltd,YO11 3UT,54.2369,-0.4142
-McDonalds,YO11 3UT,54.2369,-0.4142
 Dean's Garden Centre,YO12 4DT,54.2739,-0.4155
 Harpers Fish and Chips,YO12 4NW,54.2012,-0.4325
 The Copper Horse,YO12 4PS,54.2354,-0.4434
@@ -144,11 +142,7 @@ the buccaneer public house,YO14 9DZ,54.2102,-0.2889
 the chop house ,YO14 9ED,54.2120,-0.2894
 Charlottes of Filey,YO14 9HY,54.2083,-0.2877
 The Lighthouse Tea Room,YO14 9HY,54.2082,-0.2877
-Burger King,YO14 9PU,54.2307,-0.3214
-Burger King,YO14 9RF,54.1891,-0.2826
-Starbucks,YO14 9RF,54.1853,-0.2885
 Honeypot Inn ,YO14 9TA,54.1545,-0.2552
-Bourne Leisure,YO15 1BJ,54.1283,-0.1048
 The North Star Hotel,YO15 1BL,54.1268,-0.1076
 Martonian Inn,YO15 1DX,54.1124,-0.1720
 The Old Forge,YO15 1EQ,54.1016,-0.1660

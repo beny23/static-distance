@@ -7,15 +7,16 @@ Louis',MK18 1BT,51.9985,-0.9899
 The Woolpack,MK18 1EP,51.9976,-0.9887
 Esquires Coffee Buckingham ,MK18 1HE,51.9999,-0.9887
 Binn Smokehouse,MK18 1JX,52.0005,-0.9876
+Costa Coffee,MK18 1JX,52.0009,-0.9869
 Subway Buckingham,MK18 1JX,52.0005,-0.9875
 The Kings Head,MK18 1JX,52.0005,-0.9876
 Prego,MK18 1NT,52.0010,-0.9858
 red chilli gold  restaurant limited,MK18 1NT,52.0013,-0.9852
-Prezzo,MK18 1NU,52.0013,-0.9864
 Meadrow Tea Rooms,MK18 1PU,52.0008,-0.9857
 Gazzeria,MK18 1RS,52.0007,-0.9854
 BLACK PEPPER CAFE/ BAR,MK18 1SB,52.0010,-0.9853
 Carnitas,MK18 1SB,52.0009,-0.9853
+Beefeater Buckingham,MK18 1SH,51.9885,-0.9772
 Phoenix Kitchen,MK18 2EX,51.9220,-0.9542
 THE OLD THATCHED INN ,MK18 2JN,51.9656,-0.9300
 Claydon Community Cafe,MK18 2NS,51.9364,-0.9916
@@ -24,23 +25,22 @@ The Red lion,MK18 4AG,51.9891,-1.0678
 The Crown,MK18 4JF,51.9782,-1.0061
 The Royal Oak,MK18 4NN,51.9906,-1.0461
 The Robin hood,MK18 5DN,52.0115,-1.0312
-Costa Coffee Drive Thru,MK18 7RA,51.9882,-0.9773
 The White Lion at Wicken,MK19 6BS,52.0482,-0.9106
 The Kings Head,NN13 5HW,52.0676,-1.0805
 Croughton Tea Rooms T/A Crumbs,NN13 5LT,51.9978,-1.2096
 Crewe Arms,NN13 5NF,52.0268,-1.1863
 Limes Farm Limited,NN13 5PB,52.0538,-1.2220
 The Red Lion  Evenley,NN13 5SH,52.0082,-1.1452
+Breakfast Room,NN13 5TX,52.0712,-1.0573
 Chilli and Pepper,NN13 6AU,52.0262,-1.1519
 Dhan Shiri,NN13 6AU,52.0262,-1.1519
 CURRY JUNCTION LTD,NN13 6BA,52.0273,-1.1535
 Rossetti,NN13 6DF,52.0267,-1.1506
 Brackley Leisure Centre,NN13 6JJ,52.0379,-1.1541
 Brackley bar and grill,NN13 7AB,52.0268,-1.1491
-Costa Coffee,NN13 7AB,52.0268,-1.1491
+Costa Coffee,NN13 7AB,52.0273,-1.1485
 Hummingbirds Bistro Ltd,NN13 7AB,52.0268,-1.1491
 The Courtyard Coffee House ,NN13 7AB,52.0268,-1.1491
-Waterfall Elior Ltd,NN13 7BF,52.0286,-1.1439
 The Greyhound Inn,NN13 7BW,52.0317,-1.1442
 Ann's Fish Bar,NN13 7DP,52.0270,-1.1498
 The Crown Hotel,NN13 7DP,52.0272,-1.1497
@@ -59,24 +59,22 @@ Butchers Arms,OX17 3RD,52.0221,-1.2745
 The White Horse Kings Sutton,OX17 3RF,52.0209,-1.2745
 The Lion ,OX25 2PW,51.8722,-1.1868
 The Chequers,OX25 3QH,51.8572,-1.2220
-Starbucks,OX25 3QQ,51.8500,-1.2295
 The Old Flight House Cafe,OX25 3TJ,51.8788,-1.2320
 Horse and Groom  Caulcott,OX25 4ND,51.9155,-1.2619
 The Bell Inn,OX25 5NY,51.9198,-1.2942
 The finest catch ,OX26 1AF,51.8947,-1.1714
 Whitelands Farm Sports Pavilion,OX26 1AJ,51.8910,-1.1703
-Burger King,OX26 1BT,51.8936,-1.1619
+Brewers Fayre Bicester,OX26 1BT,51.8917,-1.1640
+McDonald's,OX26 1DE,51.8916,-1.1617
 McDonalds Restaurants Ltd,OX26 1DE,51.8905,-1.1601
-Costa Coffee At Next,OX26 1ES,51.8928,-1.1638
+Costa Coffee,OX26 1ES,51.8926,-1.1630
 Bicester Hotel,OX26 1TE,51.8903,-1.1981
 The Shakespeare,OX26 2GJ,51.9012,-1.1743
 Apple Green Service Station,OX26 2HJ,51.9036,-1.1539
 Bicester Leisure Centre,OX26 2NR,51.9001,-1.1570
-KFC (Kentucky Fried Chicken),OX26 3AH,51.9075,-1.1508
 KFC - Bicester,OX26 3AH,51.9075,-1.1507
 Pizza Hut Delivery,OX26 3AH,51.9075,-1.1507
 The Bull Inn,OX26 5DQ,51.8983,-1.1175
-Pizza Express,OX26 6AG,51.8966,-1.1511
 S&H Coffee Shop & Gifts,OX26 6AG,51.8966,-1.1510
 Jaflong Restaurant,OX26 6AJ,51.8969,-1.1504
 Market square fish bar,OX26 6AJ,51.8969,-1.1504
@@ -86,15 +84,12 @@ Littlebury Hotel,OX26 6DR,51.8972,-1.1568
 BANSAL ASSOCIATES LIMITED,OX26 6EH,51.8970,-1.1524
 limited company ,OX26 6EH,51.8970,-1.1524
 Shan Shui Investment BV Ltd,OX26 6EU,51.8928,-1.1587
-Nando's,OX26 6FA,51.8985,-1.1522
-Prezzo Plc,OX26 6FA,51.8985,-1.1522
-Wildwood,OX26 6FA,51.8983,-1.1521
 Rebound Revolution (Bicester) Ltd,OX26 6HR,51.8913,-1.1500
 THE LITTLE BLUE BAKERY,OX26 6HY,51.8973,-1.1516
-Costa Coffee,OX26 6JD,51.8973,-1.1510
-Costa Coffee,OX26 6JJ,51.8985,-1.1520
+Costa Coffee,OX26 6JD,51.8985,-1.1517
 Copper Kitchen,OX26 6JS,51.8998,-1.1531
 Eat China Bicester,OX26 6JW,51.8991,-1.1526
+The Penny Black Bicester (Wetherspoon),OX26 6JW,51.8988,-1.1517
 Shakil’s ,OX26 6LP,51.8998,-1.1528
 denis restaurant,OX26 6LP,51.8998,-1.1528
 THE PLOUGH,OX26 6NB,51.9014,-1.1544
@@ -109,15 +104,14 @@ Darlish ,OX26 6WD,51.8918,-1.1556
 Farmshop Bicester,OX26 6WD,51.8918,-1.1556
 MNJV3 Corporation Limited - Maitre Choux,OX26 6WD,51.8918,-1.1556
 Oliphant's Ice Cream,OX26 6WD,51.8918,-1.1556
-Pret A Manger,OX26 6WD,51.8918,-1.1556
+Pret A Manger,OX26 6WD,51.8921,-1.1564
 itsu Bicester Village,OX26 6WD,51.8918,-1.1556
 The Nightingale,OX26 6XX,51.8913,-1.1383
 The Fox Inn ,OX27 7JW,51.9786,-1.2432
-Burger King,OX27 7RD,51.9500,-1.1986
-Costa Coffee,OX27 7RD,51.9500,-1.1986
-KFC @ Moto Hospitality Ltd,OX27 7RD,51.9500,-1.1986
+Costa Coffee,OX27 7RD,51.9497,-1.1987
+KFC,OX27 7RD,51.9500,-1.1985
+McDonald's,OX27 7SG,51.9589,-1.2023
 McDonalds Restaurants Ltd,OX27 7SG,51.9607,-1.2021
-McDonalds,OX27 7SG,51.9607,-1.2021
 F Eagles Ltd t/a Muddy Duck,OX27 8ES,51.9604,-1.1376
 Stratton Audley Barn,OX27 9AS,51.9272,-1.1157
 James at The Sow & Pigs - Jim's Kitchen,OX27 9BA,51.9238,-1.0601

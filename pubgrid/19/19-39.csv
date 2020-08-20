@@ -4,7 +4,6 @@ The Smugglers Inn,EX7 0LA,50.5708,-3.4737
 The Castle Inn ,EX7 0LF,50.5658,-3.4802
 Mama's Dessert Kitchen,TQ1 1BG,50.4642,-3.5264
 Legends at Steps Restaurant ,TQ1 1BX,50.4625,-3.5254
-Coffee#1,TQ1 1DB,50.4632,-3.5262
 Toccos,TQ1 1DB,50.4632,-3.5262
 CHINA TANG RESTAURANT,TQ1 1DT,50.4617,-3.5210
 EPHESUS RESTAURANT ,TQ1 1DT,50.4617,-3.5210
@@ -15,15 +14,13 @@ JUNJAOW THAI,TQ1 1DZ,50.4612,-3.5210
 simla spice ,TQ1 1DZ,50.4612,-3.5210
 BIANCO'S RESTAURANT,TQ1 1EB,50.4615,-3.5223
 AMICI RESTAURANT,TQ1 1ED,50.4611,-3.5224
-Costa Coffee,TQ1 1ES,50.4656,-3.5274
+Costa Coffee,TQ1 1ES,50.4652,-3.5271
 Daisy's,TQ1 1HN,50.4640,-3.5137
 Tusker Lodge,TQ1 1HQ,50.4621,-3.5193
 Ewings,TQ1 2AA,50.4616,-3.5244
-Pizza Express,TQ1 2AA,50.4616,-3.5244
 Hole in the Wall,TQ1 2AU,50.4606,-3.5230
 Burridges Tearooms,TQ1 2BB,50.4605,-3.5235
 JACKS WATERFRONT,TQ1 2BB,50.4605,-3.5235
-Man Fridays,TQ1 2BB,50.4605,-3.5236
 ROCKFISH TORQUAY,TQ1 2BB,50.4605,-3.5235
 Salt and pepper,TQ1 2BB,50.4605,-3.5236
 Saltwater Fish & Chips,TQ1 2BB,50.4605,-3.5236
@@ -42,7 +39,7 @@ Lincombe Hall Hotel,TQ1 2JX,50.4603,-3.5167
 THE OSBORNE HOTEL,TQ1 2LL,50.4582,-3.5096
 Meadfoot Bay Hotel,TQ1 2LQ,50.4582,-3.5134
 OLD SKOOLS CAFE AND BAR LIMITED,TQ1 3AQ,50.4672,-3.5282
-Costa Coffee,TQ1 3DA,50.4669,-3.5294
+Costa Coffee,TQ1 3DA,50.4666,-3.5294
 BRODYS GRILL,TQ1 3DW,50.4679,-3.5312
 coopers coffee house,TQ1 3DW,50.4678,-3.5309
 Pizza Hut,TQ1 3HP,50.4785,-3.5256
@@ -70,19 +67,18 @@ Bamboo sandwich & coffee bar,TQ1 4TY,50.4817,-3.5234
 The Abbey Inn,TQ11 0EA,50.4877,-3.7733
 FURZELEIGH MILL,TQ11 0JP,50.4892,-3.7710
 McDonald's Restaurant Newton Abbot ,TQ12 1BN,50.5232,-3.5937
+McDonald's,TQ12 1BN,50.5244,-3.5947
 The Green Room NA Ltd,TQ12 1GJ,50.5287,-3.6078
 The Clock Tower Coffee shop ,TQ12 1JJ,50.5297,-3.6129
 Meat59 (Newton Abbot) Limited,TQ12 1JR,50.5293,-3.6124
 Twelve Twenty,TQ12 1JR,50.5292,-3.6126
 The Highweek Village Inn,TQ12 1QA,50.5368,-3.6276
-Compass Group UK (Customer Cafe Asda),TQ12 1TQ,50.5306,-3.6136
-Burger King,TQ12 2AQ,50.5310,-3.6082
 Lemon Jelli Bistro LTD,TQ12 2AQ,50.5310,-3.6082
 Naz,TQ12 2BG,50.5311,-3.6044
 Domino's Pizza,TQ12 2BN,50.5310,-3.6021
-KFC,TQ12 2BN,50.5310,-3.6021
-Costa Coffee,TQ12 2DT,50.5298,-3.6111
+Costa Coffee,TQ12 2DT,50.5297,-3.6108
 RC AUSTIN LTD,TQ12 2DU,50.5295,-3.6119
+The Richard Hopkins Newton Abbot (Wetherspoon),TQ12 2EH,50.5307,-3.6078
 Eastern Eye (Newton Abbot) Limited,TQ12 2EU,50.5307,-3.6024
 Jackson Ltd,TQ12 2EW,50.5306,-3.6071
 The Pharmacy coffee shop,TQ12 2EW,50.5306,-3.6071
@@ -100,13 +96,14 @@ Yhe Cheeky Cherry Cafe,TQ12 2RJ,50.5308,-3.6127
 Mr Biscuits,TQ12 2RX,50.5305,-3.6108
 SUBWAY,TQ12 2RX,50.5305,-3.6108
 The Other Cup,TQ12 2RX,50.5308,-3.6110
-Costa Coffee,TQ12 3AF,50.5387,-3.6009
+Beefeater The Grandstand,TQ12 3AF,50.5406,-3.6001
 The Bell Inn,TQ12 3AX,50.5464,-3.5929
 The Ten Tors Inn,TQ12 3NP,50.5608,-3.5979
 Sandygate Inn,TQ12 3PU,50.5609,-3.6001
 The Old Rydon Inn,TQ12 3QG,50.5542,-3.5931
 Passage House Inn,TQ12 3QH,50.5429,-3.5885
-Costa Coffee,TQ12 3RN,50.5410,-3.6021
+Costa Coffee,TQ12 3RN,50.5405,-3.6018
+Costa Coffee,TQ12 3SB,50.5442,-3.5972
 leisure lounge cafe,TQ12 3SB,50.5422,-3.5951
 iBounce Newton Abbot Ltd,TQ12 4SG,50.5236,-3.5754
 The Barn Owl Inn,TQ12 5AN,50.5095,-3.5847
@@ -136,7 +133,7 @@ Ilsington Country House Hotel,TQ13 9RR,50.5719,-3.7281
 The Bucket and Spade,TQ14 0BG,50.5351,-3.5032
 The Clipper Cafe,TQ14 0DL,50.5405,-3.5049
 The Old Java Coffee House,TQ14 8AJ,50.5460,-3.4959
-Costa Coffee,TQ14 8AL,50.5460,-3.4966
+Costa Coffee,TQ14 8AL,50.5462,-3.4963
 Jurassic Coast Coffee Ltd t/a Costa Coffee Ltd Teignmouth,TQ14 8AL,50.5462,-3.4967
 The View Bar & Cafe,TQ14 8BD,50.5450,-3.4946
 Riviera Tea Rooms,TQ14 8BQ,50.5450,-3.4962
@@ -148,6 +145,7 @@ Naz Indian cuisine ,TQ14 8EN,50.5462,-3.4976
 Finley Browns Cafe,TQ14 8FN,50.5464,-3.4970
 coasters,TQ14 8FP,50.5463,-3.4947
 SUBWAY,TQ14 8HW,50.5465,-3.4955
+The Jolie Brise Teignmouth (Wetherspoon),TQ14 8PE,50.5471,-3.4946
 Tradewinds Restaurant (Teignmouth)ltd,TQ14 8PE,50.5472,-3.4943
 East Cliff Cafe,TQ14 8SH,50.5484,-3.4909
 REGENCY TEA ROOM & DELICATESSEN,TQ14 8SJ,50.5469,-3.4936
@@ -165,8 +163,8 @@ Kalipso artisan coffee & food,TQ2 5DW,50.4642,-3.5270
 SUBWAY,TQ2 5DW,50.4641,-3.5269
 The Cornish Bakery,TQ2 5DW,50.4642,-3.5270
 Domino's Pizza,TQ2 5DZ,50.4622,-3.5260
+The Green Ginger Torquay (Wetherspoon),TQ2 5DZ,50.4623,-3.5256
 KFC,TQ2 5EB,50.4625,-3.5258
-Starbucks Coffee Company,TQ2 5EB,50.4627,-3.5263
 Starbucks Torquay Fleetwalk,TQ2 5EB,50.4627,-3.5263
 Prezzo,TQ2 5EE,50.4617,-3.5254
 Offshore Bar & Restaurant,TQ2 5EG,50.4614,-3.5255
@@ -174,8 +172,9 @@ VAUGHANS BAR,TQ2 5EG,50.4615,-3.5254
 Rock Garden,TQ2 5ES,50.4637,-3.5272
 Princess Bistro ,TQ2 5EZ,50.4614,-3.5301
 BISTROT PIERRE - TORQUAY,TQ2 5FB,50.4634,-3.5336
-Costa Coffee,TQ2 5FB,50.4634,-3.5336
+Costa Coffee,TQ2 5FB,50.4634,-3.5338
 Jurassic Coast Coffee Ltd t/a Costa Coffee Abbey Sands,TQ2 5FB,50.4634,-3.5336
+Beefeater Belgrave,TQ2 5HE,50.4636,-3.5355
 BELGRAVE SANDS HOTEL & SPA,TQ2 5HF,50.4642,-3.5359
 Abbey Sands Hotel ,TQ2 5HG,50.4646,-3.5370
 Riviera Hotel,TQ2 5HJ,50.4662,-3.5374
@@ -191,9 +190,9 @@ Toorak Hotel Restaurant,TQ2 5JS,50.4656,-3.5407
 MR COOK STEAK AND GRILL HOUSE,TQ2 5JY,50.4646,-3.5424
 Small World Restaurant and Tapas Bar,TQ2 5NF,50.4654,-3.5281
 Meat59 Limited,TQ2 5NQ,50.4656,-3.5295
-Caffe Nero,TQ2 5PL,50.4655,-3.5278
 Green Leaf Cafe,TQ2 5PW,50.4659,-3.5287
 McDonald's Restaurant Torquay ,TQ2 5PY,50.4672,-3.5307
+McDonald's,TQ2 5PY,50.4675,-3.5312
 Coffee  Cake & Curiosities,TQ2 5QP,50.4689,-3.5339
 SUBWAY,TQ2 5QW,50.4685,-3.5332
 Applebys Torquay,TQ2 5TY,50.4642,-3.5337
@@ -204,11 +203,10 @@ The Grand Hotel ,TQ2 6NT,50.4601,-3.5420
 Livermead House Hotel,TQ2 6QJ,50.4575,-3.5441
 Livermead Cliff Hotel,TQ2 6RQ,50.4545,-3.5457
 Bayview restaurant and Bistro,TQ2 7AA,50.4823,-3.5538
-Costa Coffee,TQ2 7BJ,50.4890,-3.5527
+Costa Coffee,TQ2 7BJ,50.4889,-3.5528
 The Devon Dumpling,TQ2 7BY,50.4785,-3.5616
-Dunelm Soft Furnishings Ltd,TQ2 7PY,50.4832,-3.5478
 McDonald's Restaurant Torquay ,TQ2 7PY,50.4832,-3.5478
-McDonalds,TQ2 7PY,50.4832,-3.5478
+McDonald's,TQ2 7PY,50.4826,-3.5490
 DAVANT BIKES LIMITED,TQ2 7QL,50.4848,-3.5480
 Ye Olde Smokey House,TQ3 1NN,50.4540,-3.5930
 The Church House Inn at Marldon,TQ3 1SL,50.4611,-3.5982
@@ -234,6 +232,7 @@ Siam Garden,TQ3 3HB,50.4351,-3.5695
 caffe cosi ltd,TQ4 5AG,50.4338,-3.5659
  Karens Cafe,TQ4 5BP,50.4368,-3.5654
 Dragon Pearl Chinese Restaurant,TQ4 5BP,50.4368,-3.5654
+Costa Coffee,TQ4 5DD,50.4357,-3.5658
 Coffee#1,TQ4 5DS,50.4352,-3.5655
 Torbay Leisure Centre,TQ4 5JR,50.4241,-3.5658
 SUBWAY,TQ4 6AA,50.4355,-3.5636
@@ -248,6 +247,7 @@ Players Cafe Bar,TQ4 6AJ,50.4355,-3.5619
 T&M Grand Central ltd,TQ4 6AJ,50.4355,-3.5619
 FACTORY,TQ4 6AL,50.4350,-3.5618
 The Local Gastro Bar and Grill ,TQ4 6AL,50.4350,-3.5623
+The Talk of the Town Paignton (Wetherspoon),TQ4 6AL,50.4351,-3.5615
 queens hotel,TQ4 6AT,50.4335,-3.5627
 Hyde Dendy,TQ4 6BD,50.4358,-3.5609
 The Spinning Wheel Inn,TQ4 6BE,50.4363,-3.5609
@@ -259,12 +259,15 @@ THE CABIN CAFE/BAR,TQ4 6DT,50.4316,-3.5564
 Harbour Light ,TQ4 6DU,50.4328,-3.5581
 Squires of Churston,TQ4 6LE,50.4031,-3.5649
 SPLASHDOWN QUAYWEST,TQ4 6LN,50.4244,-3.5605
+Brewers Fayre Inn On The Quay,TQ4 6LP,50.4249,-3.5597
+Beefeater White Rock,TQ4 7AZ,50.4141,-3.5797
 Cattlemans Steakhouse,TQ4 7DE,50.4290,-3.5988
-KFC,TQ4 7DH,50.4263,-3.5915
+KFC,TQ4 7DQ,50.4251,-3.5879
 the noahs ark,TQ4 7HB,50.4289,-3.5877
 The Jetty,TQ4 7JE,50.4132,-3.5681
 HOBURNE DEVON BAY,TQ4 7JP,50.4203,-3.5678
 McDonald's Restaurant Paignton,TQ4 7PE,50.4203,-3.5977
+McDonald's,TQ4 7PE,50.4217,-3.5880
 Blagdon Inn (Devon Hills ),TQ4 7PW,50.4289,-3.6051
 Sunshine Cafe,TQ4 7QL,50.4227,-3.5915
 Churston Golf Club,TQ5 0LA,50.3982,-3.5578
@@ -285,7 +288,7 @@ Shipmates ,TQ5 8AW,50.3972,-3.5132
 The Bay Coffee Company,TQ5 8AW,50.3972,-3.5132
 The Harbour Diner,TQ5 8AW,50.3971,-3.5132
 beamers restaurant,TQ5 8AW,50.3972,-3.5132
-Costa Coffee,TQ5 8DS,50.3944,-3.5153
+Costa Coffee,TQ5 8DS,50.3947,-3.5145
 The ChartRoom,TQ5 8DZ,50.3952,-3.5137
 Simply Fish,TQ5 8EF,50.3957,-3.5128
 Nick’s fish bar ,TQ5 8EH,50.3960,-3.5131
@@ -301,6 +304,7 @@ shoals restaurant on the lido,TQ5 9AF,50.3991,-3.5055
 Berry Head Hotel,TQ5 9AJ,50.4008,-3.4958
 The Guardhouse Cafe,TQ5 9AW,50.3995,-3.4835
 The Larder,TQ5 9BZ,50.3934,-3.5161
+The Vigilance Brixham (Wetherspoon),TQ5 9DE,50.3937,-3.5160
 Landscove Holiday Park,TQ5 9EP,50.3938,-3.4972
 The Burton Brixham,TQ5 9HZ,50.3898,-3.5164
 Chefs corner,TQ5 9QW,50.3833,-3.5115
@@ -323,7 +327,7 @@ Smith Street Deli,TQ6 9QR,50.3507,-3.5791
 The Seven Stars,TQ6 9QR,50.3507,-3.5791
 The Cherub Inn,TQ6 9RB,50.3504,-3.5786
 Browns,TQ6 9RT,50.3512,-3.5808
-Costa Coffee,TQ6 9SA,50.3513,-3.5818
+Costa Coffee,TQ6 9RT,50.3515,-3.5798
 DARTMOUTH & DISTRICT CONSERVATIVE CLUB,TQ6 9SA,50.3513,-3.5818
 Dart to Mouth Deli,TQ6 9SE,50.3517,-3.5803
 Old Market Cafe,TQ6 9SE,50.3517,-3.5803
@@ -340,7 +344,6 @@ The Green Cafe,TQ9 5NP,50.4318,-3.6893
 Gate 111 Ltd,TQ9 5PB,50.4314,-3.6910
 Willow Vegetarian Restaurant,TQ9 5PB,50.4315,-3.6910
 Gather,TQ9 5RP,50.4311,-3.6854
-The Cornish Bakery,TQ9 5RP,50.4311,-3.6854
 Hill House Coffee Shop,TQ9 5RU,50.4313,-3.6868
 Pie Street,TQ9 5RY,50.4314,-3.6882
 RUMOUR KITCHEN & BAR,TQ9 5RY,50.4314,-3.6882

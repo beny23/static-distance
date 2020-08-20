@@ -17,9 +17,6 @@ Burrito Grill  Sushi and Shakes,CM23 2ET,51.8734,0.1587
 Mountbatten Restaurant,CM23 2FN,51.8853,0.1686
 Atkins Restaurant,CM23 2JZ,51.8725,0.1593
 Water Lane Bar & Restaurant,CM23 2JZ,51.8723,0.1590
-Pizza Express,CM23 2LD,51.8722,0.1582
-Prezzo,CM23 2LD,51.8722,0.1582
-Giggling Squid,CM23 2LQ,51.8717,0.1590
 The Bishop's Cave,CM23 2LW,51.8724,0.1587
 PEACH.,CM23 2LY,51.8702,0.1586
 CAFFE INN,CM23 2NZ,51.8723,0.1591
@@ -41,32 +38,26 @@ dough&co,CM23 3BP,51.8673,0.1623
 Mint leaf,CM23 3DH,51.8639,0.1645
 The Rivermill,CM23 3DH,51.8639,0.1645
 Baan Thitiya,CM23 3DS,51.8617,0.1661
+The Port Jackson Bishops Stortford (Wetherspoon),CM23 3GN,51.8691,0.1617
 Cake Box Bishops Stortford,CM23 3SN,51.8695,0.1579
 Subway,CM23 3SN,51.8695,0.1579
-Costa Coffee,CM23 3UG,51.8907,0.1595
 Buffalo joes eat 17,CM23 3UH,51.8704,0.1599
+Costa Coffee,CM23 3UH,51.8700,0.1599
 Eat17 ,CM23 3UH,51.8704,0.1599
-Nando's,CM23 3UH,51.8705,0.1599
 Petrucci's Artisan Stonebaked Pizza,CM23 3UH,51.8702,0.1601
 Phil's Cuisne t/a Sukira,CM23 3UH,51.8704,0.1599
-Caffe Nero,CM23 3UL,51.8703,0.1594
 nostimo delicatessen ltd,CM23 3UP,51.8711,0.1592
 Host Grill,CM23 3UU,51.8708,0.1588
 Pircio Restaurant,CM23 3UU,51.8708,0.1588
 Rosey Lea Ltd,CM23 3UU,51.8708,0.1588
-Zizzi,CM23 3UU,51.8708,0.1586
-Starbucks Coffee,CM23 3XQ,51.8707,0.1607
-Costa Coffee,CM23 4DD,51.8751,0.1355
+Costa Coffee,CM23 4DD,51.8747,0.1354
 Ell Tacos,CM23 4EG,51.8586,0.1444
 The Marne Inn,CM23 4EG,51.8586,0.1445
 Bishops Stortford Golf Club ,CM23 5HP,51.8711,0.1891
 Herts & Essex PPP Health Services,CM23 5JH,51.8655,0.1743
-Burger King,CM23 5QH,51.8825,0.1913
-KFC,CM23 5QH,51.8825,0.1913
 Shell Forecourt (Welcome Break),CM23 5QH,51.8825,0.1913
-Starbucks Drive Thru,CM23 5QH,51.8825,0.1913
-Starbucks Kiosk,CM23 5QH,51.8825,0.1913
 The Three Willows,CM23 5QR,51.8786,0.1978
+KFC,CM23 5QZ,51.8716,0.1949
 Bombay butler,CM24 8BE,51.9017,0.1994
 Pino Pizza and Grill,CM24 8BE,51.9017,0.1994
 Wood Grill,CM24 8BX,51.9052,0.1940
@@ -79,17 +70,13 @@ Dog and Duck,CM24 8LR,51.9040,0.2011
 The Cork House,CM24 8LR,51.9040,0.2011
 CRIMSON 8 RESTAURANT,CM24 8LY,51.9028,0.2004
 Cafe Rockingham,SG1 1SJ,51.8980,-0.1925
-McDonalds,SG1 1TL,51.8945,-0.1992
-Costa Coffee,SG1 1XJ,51.9093,-0.1953
-Pizza Hut Restaurant,SG1 1XJ,51.9093,-0.1953
-Burger King,SG1 1XN,51.8920,-0.1989
+McDonald's,SG1 1TL,51.8948,-0.1983
 CAFE DE PIERRE - STEVENAGE,SG1 1XN,51.8919,-0.1989
-Costa Coffee,SG1 1XN,51.8920,-0.1989
+Costa Coffee,SG1 1XN,51.8926,-0.1996
 Creams Cafe Stevenage Debenhams,SG1 1XN,51.8920,-0.1989
-Nando's Chickenland Ltd,SG1 1XN,51.8920,-0.1989
+Nando's,SG1 1XN,51.8912,-0.1977
 Partyman World Stevenage,SG1 1XN,51.8919,-0.1989
 Patisserie Valerie,SG1 1XN,51.8920,-0.1989
-KFC,SG1 1XP,51.8948,-0.1992
 Daisy's kitchen,SG1 5RA,51.9186,-0.1795
 Great Hadham Country Cluib Ltd,SG10 6JE,51.8563,0.1053
 The White Hart,SG11 1RR,51.8930,0.0139
@@ -101,7 +88,6 @@ The Bull,SG14 3SB,51.8566,-0.1095
 Chells cafe,SG2 0DJ,51.9087,-0.1700
 GATE OF INDIA RESTAURANT LTD,SG2 0DJ,51.9087,-0.1700
 Gangnam Restaurant,SG2 0DJ,51.9087,-0.1700
-CH&Co Catering Group Ltd,SG2 0QA,51.9002,-0.1743
 Church Farm Ardeley CIC,SG2 7AH,51.9276,-0.0970
 The Crown,SG2 7HD,51.9015,-0.1510
 The White Lion,SG2 7PA,51.9218,-0.1259
@@ -126,6 +112,7 @@ Pixie’s,SG7 6AX,51.9884,-0.1882
 Cafe Luna,SG7 6BG,51.9875,-0.1863
 Il forno,SG7 6BJ,51.9875,-0.1871
 The White Lion,SG7 6BJ,51.9875,-0.1871
+Costa Coffee,SG7 6BN,51.9858,-0.1866
 KNKN limited,SG7 6EB,51.9872,-0.1872
 DB Herts Ltd,SG7 6QB,51.9907,-0.1883
 Tapp's Garden Centre,SG7 6RS,51.9869,-0.1777
@@ -133,13 +120,16 @@ NO 41,SG8 5AB,52.0497,-0.0248
 Thai Rack Glass House,SG8 5AB,52.0497,-0.0248
 Ashiana Spice ,SG8 5AY,52.0483,-0.0252
 Burns Road Stores Ltd T/A The Heath Sports Club,SG8 5BG,52.0479,-0.0286
+Costa Coffee,SG8 5UA,52.0599,-0.0320
 Banyers House,SG8 7BZ,52.0484,-0.0227
+The Manor House Royston (Wetherspoon),SG8 7BZ,52.0483,-0.0231
 September flowers and coffee bar,SG8 8EE,52.0044,0.0159
 Fox And Hounds,SG8 8HU,52.0263,0.0386
 The Chequers Inn,SG8 8JQ,52.0247,0.0325
 Woodman Inn,SG8 8NB,51.9912,0.0547
 The King William IV,SG8 8PN,52.0364,0.0839
 The Red Cow,SG8 8RN,52.0319,0.1056
+Costa Coffee,SG8 9AA,52.0472,-0.0238
 Costa Coffee,SG8 9AA,52.0474,-0.0238
 Kooky Nohmad Royston Ltd,SG8 9AG,52.0474,-0.0236
 Rasa sayang,SG8 9AG,52.0475,-0.0236
@@ -147,7 +137,7 @@ The Old Bull Inn,SG8 9AW,52.0463,-0.0234
 The Royal Bengal,SG8 9AW,52.0463,-0.0234
 Lounge India,SG8 9JU,52.0459,-0.0214
 MCDONALD'S,SG8 9NT,52.0456,-0.0538
-McDonalds Restaurant,SG8 9NT,52.0456,-0.0538
+McDonald's,SG8 9NT,52.0454,-0.0544
 The Fox and Duck,SG8 9PN,52.0175,-0.0543
 Black Horse,SG9 0AP,51.9598,0.0836
 The Brewery Tap,SG9 0LL,51.9291,0.0870

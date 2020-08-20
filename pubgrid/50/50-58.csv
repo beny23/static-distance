@@ -1,6 +1,5 @@
 name,postcode,lat,lon
 The Greyhound,LE12 5AG,52.7855,-1.1251
-Everyman Driving Experience,LE12 5SQ,52.7883,-1.1431
 Cafe  Mash,LE12 5TQ,52.7870,-1.1004
 The Windmill Inn,LE12 6TT,52.8043,-1.1040
 The Three Crowns,LE12 6TZ,52.8062,-1.1093
@@ -27,28 +26,26 @@ Wildfig catering,LE13 0PB,52.7703,-0.8919
 CAFFE ITALIA LTD,LE13 0PN,52.7639,-0.8867
 La Perla Restaurant ,LE13 0PP,52.7642,-0.8880
 New Apurba ,LE13 0PP,52.7645,-0.8890
-Costa Coffee,LE13 0PU,52.7649,-0.8870
-Atalian Servest Group Staff Canteen At Brooksby Foods,LE13 0RG,52.7517,-0.9107
+Costa Coffee,LE13 0PU,52.7649,-0.8872
 Subway ,LE13 0TR,52.7651,-0.8883
+The Kettleby Cross Melton Mowbray (Wetherspoon),LE13 0UJ,52.7657,-0.8893
 Mary's Place Cafe,LE13 1AE,52.7637,-0.8852
-Pizza Express,LE13 1AE,52.7637,-0.8852
 Amore Restaurant,LE13 1AF,52.7626,-0.8845
 Harboro Hotel,LE13 1AF,52.7626,-0.8845
 Melton spice ,LE13 1AF,52.7626,-0.8845
 PURPLE GARLIC,LE13 1AF,52.7626,-0.8845
 Coco cafe,LE13 1BU,52.7649,-0.8851
+The Kitchen,LE13 1JE,52.7667,-0.8862
 Cafe Smiles,LE13 1JY,52.7693,-0.8881
-KFC,LE13 1JY,52.7692,-0.8882
 The Market Tavern,LE13 1JY,52.7692,-0.8882
 AMICI,LE13 1NN,52.7658,-0.8883
 All things nice cafe,LE13 1NN,52.7657,-0.8882
 TRUT LTD (trading as Spice Club),LE13 1NW,52.7658,-0.8873
 Time Out,LE13 1PJ,52.7654,-0.8870
 CM Restaurants (Holdings) Ltd,LE13 1RB,52.7646,-0.8809
-McDonalds,LE13 1RB,52.7645,-0.8815
+McDonald's,LE13 1RB,52.7645,-0.8817
 Soi Indian restaurant ,LE13 1RF,52.7659,-0.8815
 54a king street coffee shop,LE13 1XB,52.7650,-0.8861
-Caffe Nero,LE13 1XD,52.7644,-0.8862
 DESSERT CUPBOARD LTD,LE13 1XD,52.7642,-0.8863
 Miss B's Tearooms,LE13 1XD,52.7645,-0.8859
 More Coffee Co,LE13 1XD,52.7644,-0.8862
@@ -75,17 +72,13 @@ Wookies ,LE15 7ES,52.7195,-0.7769
 The White Lion Inn,LE15 7ET,52.7197,-0.7713
 The Wheatsheaf Langham ,LE15 7HY,52.6914,-0.7507
 Gates Garden Centre,LE15 7QB,52.6805,-0.8049
-KFC,LE4 3LH,52.6861,-1.1282
+KFC,LE4 3BT,52.6904,-1.1271
 Dining room restaurant ,LE4 4GL,52.6814,-1.1174
 the cafe on the corner leicester limited ,LE4 4NB,52.6790,-1.1232
 R Treats Limited ,LE4 4NG,52.6805,-1.1239
 Generous raj,LE4 8DS,52.6795,-1.0976
 The Harrow Inn,LE4 8EB,52.6757,-1.1016
-Dunelm,LE4 8GP,52.6840,-1.0895
 McDonald's Restaurants Ltd,LE4 8GP,52.6840,-1.0895
-Pizza Hut Restaurant,LE4 8GP,52.6840,-1.0895
-McDonalds Restaurants Ltd,LE4 8GS,52.6839,-1.0848
-Starbucks,LE4 8GS,52.6839,-1.0848
 The Brook Cafe,LE7 1GG,52.6980,-1.0755
 Fox and Hounds Public House,LE7 1GP,52.6998,-1.0745
 Queen Victoria Public House,LE7 1GQ,52.7005,-1.0777
@@ -97,7 +90,7 @@ The New World Cafe,LE7 2HB,52.6971,-1.0760
 subway,LE7 2HD,52.6986,-1.0741
 Mumbai Wok Limited,LE7 2JS,52.6948,-1.0788
 Spice of India,LE7 2JS,52.6948,-1.0789
-Costa Coffee,LE7 2JT,52.6979,-1.0740
+Costa Coffee,LE7 2JT,52.6988,-1.0732
 Costa Syston,LE7 2JT,52.6979,-1.0741
 Gurkha Embassy,LE7 2JT,52.6979,-1.0740
 MOINA SYSTON T/A TARAJ PALACE,LE7 2JT,52.6979,-1.0741
@@ -110,7 +103,6 @@ The Golden fleece,LE7 3RL,52.6843,-0.9841
 The Star Inn 1744,LE7 4UH,52.7370,-1.0425
 The Royal Oak Cossington Ltd,LE7 4UW,52.7152,-1.1042
 The Wheel Restaurant Ltd,LE7 4YS,52.7240,-1.0357
-Miller & Carter Rothley,LE7 7NJ,52.7106,-1.1273
 The Blue Bell,LE7 7NW,52.7056,-1.1412
 Deli 1880,LE7 7PS,52.7106,-1.1369
 Granite's Coffee Shop,LE7 7UE,52.7229,-1.1567

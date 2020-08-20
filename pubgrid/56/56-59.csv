@@ -1,9 +1,9 @@
 name,postcode,lat,lon
 The Ferryboat Inn,DN22 0NQ,53.2798,-0.7803
-McDonalds,DN22 0PG,53.2554,-0.9206
 Cara Restaurants Limited McDonalds 376,DN22 0QU,53.2568,-0.9250
+KFC,DN22 0QU,53.2549,-0.9247
 Markham Moor Inn ,DN22 0QU,53.2570,-0.9249
-Markham Moor KFC,DN22 0QU,53.2570,-0.9249
+McDonald's,DN22 0QU,53.2556,-0.9215
 MADAM YAKS LTD T/A DANTES ITALIAN,DN22 6AE,53.3233,-0.9434
 MADAM YAKS LTD T/A THE HERBALIST,DN22 6AE,53.3235,-0.9437
 The Hideaway,DN22 6AJ,53.3234,-0.9440
@@ -13,7 +13,7 @@ The Brew Shed,DN22 6AS,53.3189,-0.9406
 The Glasshouse Retford Ltd,DN22 6BN,53.3226,-0.9439
 Mollie rocker bakery,DN22 6BP,53.3218,-0.9431
 Kings Park Hotel & Old Police Station Bar & Restaurant,DN22 6BT,53.3214,-0.9444
-Costa Coffee,DN22 6BU,53.3219,-0.9425
+Costa Coffee,DN22 6BU,53.3218,-0.9425
 Mamma Giusi's,DN22 6BU,53.3219,-0.9425
 Honey and Fig,DN22 6BZ,53.3213,-0.9419
 The Drawing Room,DN22 6DQ,53.3231,-0.9437
@@ -27,9 +27,11 @@ Fred's,DN22 6JP,53.3228,-0.9413
 MDP CATERING LIMITED,DN22 6JP,53.3228,-0.9412
 No5 restaurant  t/a Grove street,DN22 6JP,53.3228,-0.9413
 Everest tandoori Restaurant ,DN22 6JR,53.3225,-0.9410
+The Dominie Cross Retford (Wetherspoon),DN22 6JR,53.3224,-0.9399
 KINGS COFFEE SHOP,DN22 6JX,53.3221,-0.9411
 Harry's Coffee House ,DN22 6PJ,53.3237,-0.9406
 The Hop Pole of Retford,DN22 6UG,53.3280,-0.9264
+Costa Coffee,DN22 7DE,53.3151,-0.9477
 The Elms Hotel,DN22 7DX,53.3152,-0.9348
 The Whitehouses Inn,DN22 7JF,53.3068,-0.9316
 The Galway Arms,DN22 7UZ,53.3244,-0.9463
@@ -44,13 +46,11 @@ Friendship Inn,LN1 2JZ,53.2735,-0.7458
 scrummies,LN1 2LN,53.2670,-0.6616
 The Bugle Horn,LN5 9HQ,53.1284,-0.6390
 Five Bells (Bassingham) Ltd,LN5 9JZ,53.1306,-0.6388
-Baxterstorey,LN6 3AD,53.1739,-0.6502
 Leo's Catering Service Ltd,LN6 3QP,53.2014,-0.6157
 DAMONS RESTAURANTS (UK) LIMITED,LN6 3SE,53.2072,-0.6151
 Doddington Cafe,LN6 4RU,53.2195,-0.6540
 Doddington Coffee Shop,LN6 4RU,53.2196,-0.6540
 Doddington Tea Room at The Coach House,LN6 4RU,53.2196,-0.6540
-Burger King,LN6 9AJ,53.1775,-0.6264
 Thorpe On The Hill Service Station,LN6 9AJ,53.1771,-0.6261
 Lake View Restaurant,LN6 9BW,53.1844,-0.6367
 Whisby Animal Park,LN6 9BY,53.1984,-0.6275
@@ -59,8 +59,8 @@ Cafe Latte,LN6 9FR,53.1917,-0.6890
 THE BENTLEY HOTEL LTD,LN6 9NH,53.1789,-0.6206
 Pennells Garden Centre Restaurant,LN6 9NT,53.1786,-0.6214
 Activities Away,LN6 9NW,53.1817,-0.6223
+Brewers Fayre Gateway Park,LN6 9UH,53.1777,-0.6211
 McDonald's,LN6 9UJ,53.1775,-0.6205
-McDonalds,LN6 9UJ,53.1775,-0.6205
 Keyworth Tavern,NG12 5DW,53.1461,-0.9927
 Priors Well Brewery Ltd (Old Brewery Cafe),NG18 1AH,53.1461,-0.9927
 Rajdhaani,NG22 0AD,53.1698,-0.9484
@@ -76,10 +76,8 @@ The Dovecote Inn ,NG22 0SX,53.1959,-0.9190
 Maharaj,NG22 0TY,53.2614,-0.7820
 Country Kitchen Cafe ,NG22 0UW,53.2626,-0.7965
 Bella Vita Restaurant ,NG22 9AD,53.2007,-1.0218
-Center Parcs Head Office,NG22 9DP,53.2021,-1.0106
 Caunton Beck,NG23 6AB,53.1324,-0.8878
 The Plough,NG23 6AB,53.1324,-0.8878
-Burger King,NG23 6HU,53.1330,-0.8060
 OK Diner Carlton ,NG23 6JF,53.1546,-0.8060
 The Plough Inn Norwell Ltd,NG23 6JN,53.1475,-0.8468
 Great Northern Inn,NG23 6NT,53.1695,-0.8152

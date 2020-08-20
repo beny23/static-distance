@@ -1,13 +1,13 @@
 name,postcode,lat,lon
 Willingham Auctions Cafe Limited,CB24 5ES,52.3125,0.0561
 ROYAL BENGAL RESTAURANTS,CB24 5HS,52.3146,0.0614
-Prezzo,CB7 4JZ,52.3738,0.0071
 The Three Tuns,PE15 0SP,52.4952,0.0595
 Cross Keys Hotel,PE16 6BA,52.4544,0.0497
 Pera Palace,PE16 6BA,52.4544,0.0497
 The Old Bakery Tea Room & Restaurant,PE16 6BB,52.4543,0.0502
 Islas Emporium & Café ,PE16 6BH,52.4570,0.0480
 Spice Lounge ,PE16 6BH,52.4567,0.0481
+Costa Coffee,PE16 6RN,52.4642,0.0439
 Green Welly Cafe,PE16 6UA,52.4661,0.0413
 Indiaana ,PE26 1AB,52.4480,-0.1077
 The Ale House Kitchen ,PE26 1AB,52.4480,-0.1077
@@ -23,14 +23,17 @@ The Old Nene Golf and Country Club,PE26 2XQ,52.4696,-0.1066
 St Ives (Hunts) Golf Club,PE27 4AD,52.3379,-0.0451
 Costa Coffee,PE27 4AE,52.3302,-0.0600
 Eric's Fish & Chips,PE27 4AE,52.3302,-0.0600
-Kyra Enterprises Ltd T/A McDonalds,PE27 4AE,52.3302,-0.0600
 McDonald's Restaurant,PE27 4AE,52.3302,-0.0600
 Subway St Ives,PE27 4AE,52.3302,-0.0600
 The Queens Head,PE27 4SA,52.3303,-0.0336
 Pike & Eel,PE27 4TW,52.3232,-0.0060
 pike and eel,PE27 4TW,52.3232,-0.0060
+Costa Coffee,PE27 4WJ,52.3303,-0.0599
+McDonald's,PE27 4WY,52.3310,-0.0610
+Costa Coffee,PE27 5AB,52.3239,-0.0740
 Costa Coffee,PE27 5AB,52.3240,-0.0739
 The Golden Lion Hotel,PE27 5AL,52.3230,-0.0731
+The Swan and Angel St Ives (Wetherspoon),PE27 5AL,52.3231,-0.0728
 Amore,PE27 5AR,52.3229,-0.0743
 Floods,PE27 5BX,52.3246,-0.0762
 PR MASSALA,PE27 5DX,52.3227,-0.0735
@@ -49,7 +52,6 @@ River Tea Rooms Ltd,PE27 5UW,52.3232,-0.0753
 Zzohanna ,PE27 5UW,52.3232,-0.0751
 Cinnamon ,PE28 0BA,52.3092,-0.2977
 Fivetara Spices Ltd,PE28 0BA,52.3092,-0.2977
-Dobbies Garden Centres Ltd,PE28 2AA,52.3366,-0.1388
 The Three Jolly Butchers ,PE28 2AD,52.3346,-0.1255
 The Three Horseshoes,PE28 2BE,52.3329,-0.1200
 Inflatabounce Ltd,PE28 2DY,52.3398,-0.1102
@@ -65,8 +67,9 @@ green man colne,PE28 3LZ,52.3640,0.0175
 Stukeley Country hotel,PE28 4AL,52.3556,-0.2127
 Waterfall Elior,PE28 4EQ,52.3717,-0.2568
 Frosts Garden Centre - Brampton,PE28 4NF,52.3128,-0.2236
-Burger King Brampton Hut,PE28 4NQ,52.3295,-0.2544
+Brewers Fayre Brampton Hut,PE28 4NQ,52.3323,-0.2525
 McDonald's Restaurant,PE28 4NQ,52.3295,-0.2544
+McDonald's,PE28 4NQ,52.3314,-0.2521
 Subway,PE28 4NQ,52.3315,-0.2521
 Hare on the Green,PE28 4RH,52.3230,-0.2340
 Addison Arms,PE28 5RZ,52.4590,-0.3011
@@ -84,27 +87,25 @@ The Barley Mow,PE29 1XU,52.3383,-0.1591
 king of the belgians,PE29 1XU,52.3383,-0.1591
 The White Hart,PE29 2BW,52.3194,-0.1663
 Planet Spice,PE29 2HA,52.3182,-0.1751
-Costa Coffee,PE29 3AQ,52.3296,-0.1825
+Costa Coffee,PE29 3AQ,52.3297,-0.1824
 Original Thai ,PE29 3AQ,52.3296,-0.1825
+Sandford House Huntingdon (Wetherspoon),PE29 3BD,52.3305,-0.1870
 83 High Street Limited t/a Rajpoot Huntingdon,PE29 3ER,52.3325,-0.1861
-Pizza Express,PE29 3LB,52.3312,-0.1848
 Rosamunds,PE29 3LD,52.3307,-0.1837
 SUBWAY HUNTINGDON,PE29 3LJ,52.3305,-0.1823
-Caffe Nero,PE29 3LZ,52.3304,-0.1817
+Costa Coffee,PE29 3NQ,52.3308,-0.1814
 Hill Ephesus,PE29 3NR,52.3303,-0.1848
 Samuel Pepys,PE29 3TF,52.3282,-0.1791
 Curry Pizza Express,PE29 6DY,52.3434,-0.1898
 Market Kitchen,PE29 6FL,52.3387,-0.2109
-Costa Coffee,PE29 6NT,52.3334,-0.2027
-Retail Healthcare - Compass Group,PE29 6NT,52.3334,-0.2027
-BaxterStorey,PE29 6YE,52.3481,-0.1894
-Waterway Cafe (BaxterStorey),PE29 6YJ,52.3464,-0.1992
+Costa Coffee,PE29 6NT,52.3336,-0.2033
+Costa Coffee,PE29 7DZ,52.3523,-0.1827
 Costa Coffee,PE29 7DZ,52.3528,-0.1844
 KFC - Towerfields Huntingdon,PE29 7EG,52.3513,-0.1803
-KFC,PE29 7EG,52.3514,-0.1807
+KFC,PE29 7EG,52.3507,-0.1812
 McDonald's Restaurant,PE29 7EG,52.3514,-0.1807
-McDonalds,PE29 7EG,52.3514,-0.1807
-Nandos,PE29 7EG,52.3513,-0.1804
+McDonald's,PE29 7EG,52.3515,-0.1818
+Nando's,PE29 7EG,52.3515,-0.1814
 Aslan bross Tonys takeway,PE29 7HN,52.3454,-0.1757
 Harvest Barn Farmshop,PE7 3DR,52.5215,-0.1629
 EVEREST KITCHEN,PE7 3LP,52.5137,-0.2584
@@ -114,3 +115,4 @@ The Admiral Wells,PE7 3PH,52.4741,-0.2436
 Angel spice ,PE7 3RA,52.4880,-0.2883
 The Bell Inn Hotel,PE7 3RA,52.4880,-0.2883
 The Haven After School Club,PE7 3RF,52.4893,-0.2929
+Thyme,PE7 3TB,52.5062,-0.2880

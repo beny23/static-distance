@@ -4,12 +4,16 @@ The Cornish Seal Sanctuary,TR12 6UG,50.0957,-5.2050
 The Star Inn  Porkellis,TR13 0JR,50.1557,-5.2315
 Wheal Dream Restaurant,TR13 0LR,50.1196,-5.2633
 Flambards Theme Park ,TR13 0QA,50.0921,-5.2584
+Whitbread Inns The May Tree,TR13 0QD,50.1005,-5.2593
 Lakeside Cafe,TR13 0SR,50.0988,-5.2797
 The Bell Inn,TR13 8AA,50.1005,-5.2736
 Boo Koos,TR13 8AB,50.1006,-5.2733
+Costa Coffee,TR13 8AB,50.1004,-5.2731
 Costa Coffee,TR13 8AB,50.1006,-5.2733
 The Coffee Bean,TR13 8EQ,50.1004,-5.2759
 BEIJING CUISINE,TR13 8ER,50.1010,-5.2757
+The Coinage Hall Helston (Wetherspoon),TR13 8ER,50.1008,-5.2752
+Costa Coffee,TR13 8PJ,50.1051,-5.2652
 The Reel Pizza Co,TR13 8PT,50.1016,-5.2727
 hutchinsoins fish and chips,TR13 8RE,50.0982,-5.2718
 Henlys Bar And Restaurant,TR13 8TG,50.1015,-5.2748
@@ -27,20 +31,22 @@ Kota Kai Kitchen and Bar,TR13 9JS,50.0840,-5.3176
 Queen's Arms,TR13 9PD,50.1082,-5.3322
 The Garden Kitchen Cafe  ,TR13 9PY,50.1074,-5.3392
 Lion & Lamb,TR13 9RW,50.1083,-5.3520
-KFC Camborne,TR14 0BJ,50.2247,-5.2802
 cygnets restaurant,TR14 0HH,50.2440,-5.2907
 St Aubyn Arms,TR14 0JR,50.1737,-5.3116
 St Michael's Mount Inn,TR14 0QR,50.1978,-5.3153
 Bluebell cafe,TR14 0RN,50.1865,-5.3086
 The Old Shire Inn,TR14 0RT,50.1941,-5.3003
 Fu Yuan Chinese Buffet,TR14 7JU,50.2138,-5.3032
+Table Table Trevithick Inn,TR14 7NF,50.2164,-5.3179
 A&K Cornish pastries,TR14 8AD,50.2142,-5.2986
+Costa Coffee,TR14 8AF,50.2140,-5.2976
 Costa Coffee,TR14 8AF,50.2142,-5.2972
 scallywags cafe and coffee shop,TR14 8AF,50.2141,-5.2973
 wilsons cafe and takeaway ltd,TR14 8AH,50.2144,-5.2958
-Costa Coffee,TR14 8AU,50.2137,-5.2975
 Apollo Bingo Camborne,TR14 8ED,50.2131,-5.2994
+The John Francis Basset Camborne (Wetherspoon),TR14 8JZ,50.2136,-5.3010
 The Tyacks Hotel,TR14 8LD,50.2139,-5.3007
+KFC,TR14 8NQ,50.2257,-5.2786
 Lowenac Hotel,TR14 8SL,50.2109,-5.3008
 Sultanz,TR14 8SW,50.2116,-5.2992
 The Croust Hut,TR14 9HW,50.2032,-5.2745
@@ -55,6 +61,7 @@ The Meadery Company Ltd,TR15 2QE,50.2305,-5.2251
 Subway ,TR15 3ET,50.2252,-5.2770
 Sanders Fish and Chips,TR15 3NE,50.2289,-5.2597
 The Plume of Feathers,TR15 3PF,50.2274,-5.2696
+McDonald's,TR15 3PL,50.2258,-5.2768
 McDonalds,TR15 3PL,50.2273,-5.2716
 Rollers Roller Rink,TR15 3RH,50.2274,-5.2585
 Tricky's at The Tolgus Inn,TR15 3TA,50.2400,-5.2480
@@ -87,14 +94,17 @@ the station house,TR17 0DA,50.1288,-5.4899
 chapel Rock Cafe,TR17 0EJ,50.1239,-5.4752
 The Godolphin,TR17 0EN,50.1234,-5.4745
 New Delhi Indian palace and Ricardos pizzas,TR18 2AA,50.1213,-5.5384
+Costa Coffee,TR18 2GB,50.1203,-5.5342
 The Terrace coffee and sandwich bar ,TR18 2HN,50.1194,-5.5357
 bay cafe and pasty shop,TR18 2HN,50.1193,-5.5359
 the quirky bird cafe,TR18 2HT,50.1207,-5.5344
 The Longboat Inn,TR18 2HZ,50.1216,-5.5337
+The Tremenheere Penzance (Wetherspoon),TR18 2JA,50.1186,-5.5368
 Mr Billys Cafe,TR18 2JB,50.1182,-5.5366
 sullivans diner,TR18 2JX,50.1212,-5.5323
 Impresso Espresso LTD,TR18 2LG,50.1205,-5.5341
 The Front Room,TR18 2LG,50.1206,-5.5341
+Thyme,TR18 2LQ,50.1214,-5.5329
 Alverne Restaurant,TR18 2QN,50.1187,-5.5387
 NEW HONG KONG CHINESE RESTAURANT,TR18 2SJ,50.1187,-5.5382
 Savoy Bar & Restaurant,TR18 2SN,50.1191,-5.5382
@@ -106,7 +116,7 @@ The Singing Rooster Restaurant,TR18 2ST,50.1207,-5.5390
 Hotel Penzance LLP,TR18 3AE,50.1242,-5.5336
 Coldstreamer Inn,TR18 3BB,50.1322,-5.5219
 Penzance Leisure Centre,TR18 3QW,50.1225,-5.5461
-KFC,TR18 3RG,50.1293,-5.5158
+KFC,TR18 3RG,50.1292,-5.5141
 The Old Lifeboat House Bistro,TR18 4AA,50.1173,-5.5316
 The Un ion Hotel,TR18 4AE,50.1178,-5.5357
 Admiral Benbow,TR18 4AF,50.1173,-5.5346
@@ -132,10 +142,10 @@ The Ship Inn,TR19 6QX,50.0831,-5.5394
 Four Teas Cafe Mousehole ,TR19 6RP,50.0827,-5.5397
 The Kings Arms,TR19 6TZ,50.0893,-5.5464
 White Hart,TR20 8EY,50.1449,-5.4924
+McDonald's,TR20 8HT,50.1298,-5.5103
 McDonalds,TR20 8HT,50.1287,-5.5085
 The Mexico inn,TR20 8JD,50.1291,-5.4999
 The Engine Inn,TR20 8NF,50.1781,-5.5029
-McDonalds,TR20 8YE,50.1315,-5.5080
 The Old Forge Bar ,TR20 8YN,50.1393,-5.5261
 The Coach and Horses Inn Rosudgeon,TR20 9AW,50.1131,-5.4001
 The Trevelyan Arms,TR20 9JU,50.1250,-5.4365
@@ -148,7 +158,6 @@ Sandbar ,TR20 9TQ,50.1058,-5.3909
 Beer and Bird,TR26 1AB,50.2132,-5.4803
 Firehouse Bar & Grill,TR26 1AB,50.2132,-5.4803
 The Castle Inn,TR26 1AB,50.2132,-5.4803
-The Cornish Bakery,TR26 1AB,50.2132,-5.4803
 Bier Huis Grand Cafe,TR26 1AH,50.2120,-5.4796
 Coasters tea shop,TR26 1AH,50.2120,-5.4796
 Peppers  Pasta & Pizzeria,TR26 1HE,50.2141,-5.4803
@@ -159,7 +168,6 @@ Alfresco - Beach Cafe Bar,TR26 1LF,50.2136,-5.4800
 Harbour Fish & Chips,TR26 1LF,50.2136,-5.4800
 Hub St Ives,TR26 1LF,50.2136,-5.4800
 Lifeboat Inn,TR26 1LF,50.2136,-5.4800
-Pizza Express,TR26 1LF,50.2136,-5.4800
 Talay Thai,TR26 1LF,50.2136,-5.4800
 The Harbour Seafood Restaurant ,TR26 1LF,50.2134,-5.4800
 Beach Restaurant,TR26 1LG,50.2144,-5.4801
@@ -170,6 +178,7 @@ The Sloop Inn,TR26 1LP,50.2151,-5.4792
 Porthgwidden Beach Services,TR26 1PL,50.2168,-5.4773
 Caffe Pasta,TR26 1PZ,50.2153,-5.4786
 The Queens Hotel,TR26 1RR,50.2124,-5.4809
+The Hain Line St Ives (Wetherspoon),TR26 1SB,50.2115,-5.4807
 Curry garden ,TR26 1SF,50.2111,-5.4807
 Tate St Ives,TR26 1TG,50.2148,-5.4825
 St Ives Harbour Hotel,TR26 2BN,50.2081,-5.4781
@@ -181,6 +190,7 @@ Chapels Cafe,TR26 2LR,50.2117,-5.4816
 Cornish Deli,TR26 2LR,50.2117,-5.4816
 Western Hotel,TR26 2LU,50.2113,-5.4813
 The Cornish Arms St Ives Ltd,TR26 2PG,50.2002,-5.4744
+Costa Coffee,TR26 2PN,50.1981,-5.4735
 LA CASITA RESTAURANT LTD,TR26 2TA,50.1916,-5.4616
 AJ SMITH CATERING,TR26 3DZ,50.1886,-5.4397
 Una Kitchen ,TR26 3HE,50.1864,-5.4665
@@ -203,12 +213,15 @@ The bird in hand bar and grill,TR27 4HY,50.1779,-5.4249
 Copperhouse Cafe,TR27 4PQ,50.1950,-5.4050
 Phillack Catering Ltd (The Bucket of Blood pub),TR27 5AE,50.1952,-5.4147
 Red River Inn,TR27 5BW,50.2192,-5.3823
+Brewers Fayre Loggans Moor,TR27 5DG,50.1975,-5.3963
+McDonald's,TR27 5DG,50.1971,-5.3972
 McDonalds,TR27 5DG,50.1979,-5.3958
 THE TURNPIKE INN,TR27 5DT,50.2038,-5.3720
 The Rockpool,TR27 5ED,50.2304,-5.3880
 Calloose Caravan Park,TR27 5ET,50.1655,-5.3654
 The Angarrack Inn,TR27 5JB,50.1950,-5.3852
 Rosewarne Manor Ltd  t/a  Squirrels Tea room,TR27 5JQ,50.1998,-5.3519
+Costa Coffee,TR27 5LX,50.1963,-5.3976
 The Smugglers Inn,TR27 6EG,50.1669,-5.3947
 Country Skittles,TR27 6ER,50.1510,-5.3815
 Cookhouse tolroy,TR27 6HG,50.1722,-5.4102

@@ -1,20 +1,19 @@
 name,postcode,lat,lon
 CAFFE ITALIA LTD,LE13 0PN,52.7639,-0.8867
-Costa Coffee,LE13 0PU,52.7649,-0.8870
+Costa Coffee,LE13 0PU,52.7649,-0.8872
 Mary's Place Cafe,LE13 1AE,52.7637,-0.8852
-Pizza Express,LE13 1AE,52.7637,-0.8852
 Amore Restaurant,LE13 1AF,52.7626,-0.8845
 Harboro Hotel,LE13 1AF,52.7626,-0.8845
 Melton spice ,LE13 1AF,52.7626,-0.8845
 PURPLE GARLIC,LE13 1AF,52.7626,-0.8845
 Coco cafe,LE13 1BU,52.7649,-0.8851
+The Kitchen,LE13 1JE,52.7667,-0.8862
 TRUT LTD (trading as Spice Club),LE13 1NW,52.7658,-0.8873
 Time Out,LE13 1PJ,52.7654,-0.8870
 CM Restaurants (Holdings) Ltd,LE13 1RB,52.7646,-0.8809
-McDonalds,LE13 1RB,52.7645,-0.8815
+McDonald's,LE13 1RB,52.7645,-0.8817
 Soi Indian restaurant ,LE13 1RF,52.7659,-0.8815
 54a king street coffee shop,LE13 1XB,52.7650,-0.8861
-Caffe Nero,LE13 1XD,52.7644,-0.8862
 DESSERT CUPBOARD LTD,LE13 1XD,52.7642,-0.8863
 Miss B's Tearooms,LE13 1XD,52.7645,-0.8859
 More Coffee Co,LE13 1XD,52.7644,-0.8862
@@ -37,14 +36,10 @@ The Orston Durham Ox LTD,NG13 9NS,52.9629,-0.8546
 Iuliano's Italian Restaurant ,NG31 6BA,52.9092,-0.6406
 Tinel Ltd,NG31 6BA,52.9092,-0.6406
 shiva shakti company limited,NG31 6BA,52.9092,-0.6407
-Costa Coffee,NG31 6BT,52.9070,-0.6434
-Starbucks,NG31 6BT,52.9069,-0.6434
-Costa Coffee,NG31 6EE,52.9098,-0.6428
+Costa Coffee,NG31 6BT,52.9068,-0.6432
+Costa Coffee,NG31 6EE,52.9105,-0.6414
 BOMBAY BRASSERIE,NG31 6EY,52.9093,-0.6391
-Pizza Hut Restaurant,NG31 6HS,52.9048,-0.6361
-McDonalds,NG31 6HT,52.9022,-0.6348
 Kitchen and Coffee,NG31 6LA,52.9109,-0.6450
-Pizza Express,NG31 6LH,52.9122,-0.6432
 Eden Wine Bar,NG31 6LJ,52.9134,-0.6440
 Conduit Tea Gardens Ltd,NG31 6LQ,52.9128,-0.6444
 Everest Inn Grantham LTD,NG31 6LT,52.9119,-0.6437
@@ -59,23 +54,22 @@ The Black Dog,NG31 6NS,52.9138,-0.6436
 The Garden Yard,NG31 6NZ,52.9142,-0.6454
 O alentejano,NG31 6PN,52.9130,-0.6426
 Teaspoon tea company,NG31 6PN,52.9130,-0.6426
-Prezzo,NG31 6QF,52.9103,-0.6412
+The Tollemache Inn Grantham (Wetherspoon),NG31 6PY,52.9098,-0.6397
 Finkins,NG31 6QZ,52.9129,-0.6413
-Compass Group at Crown House Restaurant,NG31 6SY,52.9138,-0.6388
 Avenue Hotel Grantham LTD,NG31 6TH,52.9113,-0.6379
 CM Restaurants (Holdings) Ltd,NG31 7ES,52.9039,-0.6303
+McDonald's,NG31 7ES,52.9039,-0.6355
+Brewers Fayre The Farrier,NG31 7JT,52.8968,-0.6646
 Fun Farm Grantham,NG31 7LE,52.9098,-0.6529
 Grantham Bowl,NG31 7LE,52.9090,-0.6541
 BURGER KING-Grantham,NG31 7SA,52.9020,-0.6509
-Burger King,NG31 7SA,52.9023,-0.6510
-Costa Coffee,NG31 7SA,52.9023,-0.6510
-KFC Grantham DT,NG31 7SA,52.9022,-0.6511
+Costa Coffee,NG31 7SA,52.9016,-0.6512
+KFC,NG31 7SA,52.9016,-0.6516
 KFC,NG31 7SA,52.9022,-0.6511
 Buzz Bingo,NG31 7XQ,52.9070,-0.6650
 Urban Hotel Grantham,NG31 7XT,52.9007,-0.6633
 Moy Park,NG31 8HZ,52.9221,-0.6514
 Recruiting Sergeant,NG31 8JP,52.9349,-0.6663
-Miller & Carter Grantham,NG31 8SR,52.9179,-0.6640
 Elior (Belton Lane Community Primary School),NG31 9PP,52.9256,-0.6266
 The Gregory Arms,NG32 1AD,52.8880,-0.6876
 The Chequers Inn,NG32 1LU,52.8981,-0.7563
@@ -86,13 +80,11 @@ The Geese and Fountain,NG32 1QR,52.8528,-0.7620
 The Manners Arms,NG32 1RH,52.8729,-0.7736
 The Wheel Inn,NG32 1RU,52.8568,-0.7986
 BB's Coffee Shop c/o Boundary Mill Stores,NG32 2AB,52.9480,-0.6784
+Costa Coffee,NG32 2AB,52.9492,-0.6790
 Downtown Garden Centre Restaurant,NG32 2AB,52.9481,-0.6785
 Downtown Grantham Restaurant,NG32 2AB,52.9480,-0.6784
-Moto 101 Ltd,NG32 2AB,52.9481,-0.6785
 Syston Park Farm Shop Ltd,NG32 2BZ,52.9535,-0.6112
 The Welby Arms ,NG32 2EA,52.9533,-0.7260
-Burger King,NG32 2HB,52.9192,-0.7400
-Moto Hospitality,NG32 2HB,52.9192,-0.7400
 Belton Garden Centre,NG32 2LN,52.9432,-0.6271
 Belton Woods,NG32 2LN,52.9432,-0.6271
 The Stag,NG32 2NB,52.9631,-0.6144
@@ -106,11 +98,9 @@ Fox & Hounds ,NG33 4RZ,52.7545,-0.5380
 Stoke Rochford Hall,NG33 5EJ,52.8419,-0.6379
 Stoke Rochford Catering,NG33 5EW,52.8389,-0.6302
 CM Restaurants (Holdings) Ltd,NG33 5FF,52.8305,-0.7001
-McDonalds,NG33 5FF,52.8305,-0.7001
+McDonald's,NG33 5FF,52.8052,-0.6111
 Cross Swords Inn,NG33 5HB,52.8215,-0.6681
-Burger King,NG33 5JN,52.8035,-0.6077
 OK Diner OK Diner New Fox,NG33 5LN,52.7657,-0.6106
-Starbucks,NG33 5LN,52.7650,-0.6101
 The White Lion,NG33 5NE,52.8072,-0.6205
 The Angel inn,NG33 5PJ,52.7645,-0.6277
 The Blue Cow Inn,NG33 5QB,52.7624,-0.6281

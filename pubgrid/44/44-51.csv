@@ -9,7 +9,6 @@ SWEET CHILLIES RESTAURANT LIMITED,B13 0JE,52.4222,-1.8733
 JAQK'S,B13 8DD,52.4471,-1.8884
 LA BRIOCHE LIMITED ,B13 8DD,52.4469,-1.8884
 LA PLANCHA,B13 8DD,52.4471,-1.8884
-Pizza Express,B13 8DD,52.4477,-1.8885
 Cafephilia,B13 8EE,52.4489,-1.8876
 Prince of Wales,B13 8EE,52.4489,-1.8876
 Kababish,B13 8EH,52.4483,-1.8862
@@ -18,15 +17,15 @@ Sabai Sabai (Moseley) Ltd ,B13 8EH,52.4483,-1.8862
 Zindiya Streatery & Bar,B13 8EH,52.4483,-1.8862
 Ponte Di Legno,B13 8EJ,52.4481,-1.8865
 Chakana,B13 8HS,52.4477,-1.8877
-Costa Coffee,B13 8HW,52.4467,-1.8875
+Costa Coffee,B13 8HW,52.4466,-1.8875
 DeMaines of Moseley,B13 8HW,52.4467,-1.8875
 I&M Cafe Deli,B13 8HW,52.4467,-1.8875
 LK Hopitality Ltd T/A Coach House,B13 8HW,52.4467,-1.8875
 PALMYRA MEDITERRANEAN LTD,B13 8HW,52.4467,-1.8875
 The Cuban Embassy at The Bulls Head,B13 8HW,52.4467,-1.8875
-J D Wetherspoon,B13 8JG,52.4461,-1.8872
 Lewis’s cafe bar ,B13 8JG,52.4461,-1.8872
 Priya lounge,B13 8JG,52.4461,-1.8872
+The Elizabeth of York Moseley (Wetherspoon),B13 8JG,52.4463,-1.8875
 Tubule Kitchen ,B13 8JG,52.4461,-1.8872
 Damascena Coffee House,B13 8JP,52.4459,-1.8893
 Little Blackwood,B13 8JP,52.4461,-1.8888
@@ -34,14 +33,12 @@ The Dark Horse,B13 8JP,52.4459,-1.8893
 The Village Moseley,B13 8JR,52.4449,-1.8906
 Hamza Catering Ltd T/A Kobe Sizzlers,B13 9EF,52.4458,-1.8848
 The Covered Wagon,B13 9JW,52.4386,-1.8706
-Mcdonalds Restaurants Ltd,B14 4BJ,52.4139,-1.8710
 The Sisters Cafe,B14 4NX,52.4058,-1.8786
 Masala Works,B14 5EZ,52.4116,-1.8862
 Millennium Balti,B14 5EZ,52.4116,-1.8862
+KFC,B14 5JF,52.4049,-1.8858
 KFC,B14 5JF,52.4050,-1.8859
 TMS BIRMINGHAM LIMITED T/A SUBWAY MAYPOLE ,B14 5JF,52.4050,-1.8859
-Starbucks,B14 5NG,52.4051,-1.8874
-Starbucks,B14 5SN,52.4049,-1.8874
 De Vere Catering,B14 6DT,52.4237,-1.8917
 kings heath cricket & sports club limited,B14 6DT,52.4237,-1.8917
 Rajarani Restaurants Ltd T/a The Rajrani,B14 7AA,52.4362,-1.8917
@@ -51,12 +48,12 @@ poplar balti ltd,B14 7AG,52.4363,-1.8903
 Esme’s Eats Caribbean Cuisine Ltd,B14 7BB,52.4379,-1.8925
 RA COFFEE HOUSE,B14 7BB,52.4379,-1.8925
 KFC,B14 7BH,52.4367,-1.8921
+KFC,B14 7BH,52.4373,-1.8924
 Little Dessert Shop ,B14 7BH,52.4367,-1.8921
-Pizza Hut,B14 7BH,52.4367,-1.8921
 Rainbow Restaurant,B14 7BH,52.4367,-1.8921
-Costa Coffee,B14 7DG,52.4340,-1.8924
-Mcdonalds Restaurants Ltd,B14 7DG,52.4340,-1.8924
+Costa Coffee,B14 7DG,52.4338,-1.8927
 SOUL CHICKEN,B14 7JG,52.4309,-1.8925
+The Pear Tree Birmingham (Wetherspoon),B14 7JQ,52.4319,-1.8928
 The Early Bird Bakery,B14 7JT,52.4371,-1.8929
 MY SHOP 5 LTD,B14 7JZ,52.4359,-1.8930
 Risturante veneziano,B14 7JZ,52.4359,-1.8930
@@ -72,16 +69,9 @@ Kings indian dining ,B14 7SA,52.4344,-1.8940
 Kitchen Garden Cafe Ltd,B14 7SA,52.4344,-1.8940
 POLI,B14 7SA,52.4344,-1.8940
 Sylhet Spice Cuisine ,B14 7SA,52.4344,-1.8940
-Starbucks,B15 2TN,52.4490,-1.9309
-Costa Coffee,B15 2WB,52.4498,-1.9422
 COPPER FOX BAR & GRILL,B17 0RP,52.4476,-1.9576
-Burger King - Airside,B26 3QY,52.4473,-1.7363
-Burger King - Landside,B26 3QY,52.4473,-1.7363
-Caffe Nero - T1 Arrivals Airport,B26 3QY,52.4473,-1.7363
-Costa Coffee - Airside,B26 3QY,52.4473,-1.7363
-Pret A Manger - Airside,B26 3QY,52.4473,-1.7363
-Wetherspoons T1 Airside Departure Lounge,B26 3QY,52.4473,-1.7363
 Costa Coffee,B27 6BH,52.4466,-1.8226
+The Spread Eagle Birmingham (Wetherspoon),B27 6BL,52.4467,-1.8197
 MY SHOP 6 LTD,B27 6BP,52.4464,-1.8185
 Porto Douro Restaurants Ltd,B27 6BP,52.4464,-1.8185
 Moghul Indian Cuisine ,B27 6BT,52.4457,-1.8169
@@ -112,13 +102,15 @@ Karahi king hallgreen,B28 8AF,52.4380,-1.8472
 Chopan Kabab,B28 8AS,52.4395,-1.8490
 WATAN RESTAURANT,B28 8AU,52.4383,-1.8483
 Apple Green Service Station,B28 8BN,52.4415,-1.8492
-KFC,B28 8HN,52.4361,-1.8461
+Costa Coffee,B28 8BN,52.4419,-1.8497
+KFC,B28 8HN,52.4358,-1.8462
 KFC,B28 8HP,52.4374,-1.8442
 Summer House Bar and Grill,B28 8ST,52.4425,-1.8449
 RED VELVET EATERY,B28 9EH,52.4273,-1.8412
+Breakfast Room,B28 9ES,52.4234,-1.8374
 Lambs Lunches,B28 9JA,52.4211,-1.8358
 Amar bangla ltd T/s Spicemenu,B29 5PT,52.4372,-1.9684
-Kfc,B29 5RT,52.4418,-1.9758
+KFC,B29 5RT,52.4422,-1.9785
 Castle Bingo Barnes Hill,B29 5TY,52.4401,-1.9776
 CAFE 55,B29 6AU,52.4463,-1.9320
 Dixy,B29 6AU,52.4463,-1.9320
@@ -132,7 +124,8 @@ IB ENTERPRISES LTD T/A PEPE'S PIRI PIRI,B29 6BQ,52.4447,-1.9346
 Creative Coffee Hub,B29 6HJ,52.4367,-1.9298
 Sliced N Diced,B29 6HW,52.4387,-1.9404
 Bohemia Restaurant,B29 6JE,52.4388,-1.9397
-Nando's,B29 6SR,52.4429,-1.9380
+Costa Coffee,B29 6SN,52.4442,-1.9389
+Nando's,B29 6SQ,52.4439,-1.9387
 Kimchi,B29 7AE,52.4447,-1.9325
 Watan Kashmiri Restaurant Ltd,B29 7HQ,52.4472,-1.9135
 Waterfall Elior Uk,B29 7LL,52.4403,-1.9207
@@ -147,7 +140,6 @@ Akash Tandoori,B30 2JL,52.4257,-1.9222
 Tiger Bites Pig ,B30 2JR,52.4276,-1.9226
 WHISH LTD,B30 2JR,52.4276,-1.9226
 tierra tacos,B30 2JR,52.4276,-1.9226
-Mondelez Costa Coffee Bean Bar,B30 2LU,52.4172,-1.9302
 Akrams restaurant ,B30 2NW,52.4243,-1.9214
 BALTI HUT ,B30 2NW,52.4243,-1.9214
 cafeuccino bar,B30 2XN,52.4364,-1.9162
@@ -160,20 +152,20 @@ new balti bazaar,B30 2YT,52.4314,-1.9201
 Subway Cotteridge,B30 3DJ,52.4164,-1.9291
 The Spice Exchange,B30 3DJ,52.4164,-1.9291
 Rajpoot Restaurant ,B30 3DL,52.4169,-1.9274
+KFC,B30 3ES,52.4129,-1.9303
 KFC,B30 3ES,52.4136,-1.9303
-KFC,B30 3FJ,52.4133,-1.9301
-McDonalds Restaurant,B30 3PN,52.4082,-1.9193
+McDonald's,B30 3PN,52.4087,-1.9171
 McLean Restaurants Ltd,B30 3PN,52.4082,-1.9193
 Starbucks Northfield Drive Thru,B31 1PT,52.4166,-1.9731
 Bournville Brasserie,B31 2FR,52.4290,-1.9532
 Treasure Island Play Limited,B31 2JR,52.4184,-1.9659
 Pizza Hut Delivery,B31 2JT,52.4171,-1.9692
-Costa Coffee Northfield,B31 2JU,52.4168,-1.9680
+Costa Coffee,B31 2JU,52.4165,-1.9692
 Costa Northfield ,B31 2JU,52.4168,-1.9680
 Ko ko,B31 2JZ,52.4164,-1.9683
 Kezza Kofee ltd,B31 2NG,52.4160,-1.9710
+McDonald's,B31 2NG,52.4165,-1.9704
 McDonalds,B31 2NG,52.4160,-1.9710
-Mcdonalds Restaurants Ltd,B31 2NG,52.4160,-1.9710
 RENUKA MULTINATIONAL LIMITED T/A SUBWAY NORTHFIELD ,B31 2NG,52.4160,-1.9710
 Northfield Baptist Church,B31 2NQ,52.4153,-1.9722
 The Clock Cafe ,B31 2NS,52.4137,-1.9721
@@ -181,42 +173,27 @@ Trader Cafe Ltd,B31 2NS,52.4142,-1.9715
 KFC,B31 2PA,52.4135,-1.9726
 Maya’s cafe,B31 2PA,52.4135,-1.9726
 Rumana's,B31 2QT,52.4106,-1.9739
+The Black Horse Birmingham (Wetherspoon),B31 2QT,52.4118,-1.9736
 7Spices Restaurant ,B31 2SL,52.4051,-1.9792
 Gulshana ,B31 2SL,52.4052,-1.9792
 JZee Foods Ltd,B31 2SL,52.4051,-1.9792
 CafeSol,B31 2SP,52.4025,-1.9821
-KFC,B31 2UQ,52.3952,-1.9842
+Beefeater Birmingham South - Longbridge Station,B31 2UQ,52.3954,-1.9849
+Costa Coffee,B31 2UQ,52.3950,-1.9847
 Stone Papas Kitchen,B31 2UQ,52.3959,-1.9834
 Subway,B31 2UQ,52.3952,-1.9842
 KFC,B31 2US,52.3954,-1.9850
 LICKIN CHICKEN,B31 3AU,52.4092,-1.9500
 M and D Court Catering,B31 4BY,52.3975,-1.9730
-Burger King At Moto (North),B32 4AR,52.4288,-2.0172
-Burger King At Moto (South),B32 4AR,52.4288,-2.0172
-Costa Coffee At Moto (North),B32 4AR,52.4288,-2.0172
-Costa Coffee At Moto (South),B32 4AR,52.4288,-2.0172
-EDC At Moto (North),B32 4AR,52.4288,-2.0172
-Greggs At Moto (North),B32 4AR,52.4288,-2.0172
-Greggs At Moto (South),B32 4AR,52.4288,-2.0172
-M & S Simply Food At Moto (North),B32 4AR,52.4288,-2.0172
-M & S Simply Food At Moto (South),B32 4AR,52.4288,-2.0172
-W H Smith At Moto (North),B32 4AR,52.4288,-2.0172
-W H Smith At Moto (South),B32 4AR,52.4288,-2.0172
-BaxterStorey @ Lloyds Register,B37 7ES,52.4469,-1.7231
+Costa Coffee,B32 4AR,52.4292,-2.0190
 bullshead,B38 8RU,52.4071,-1.9305
 mehfil restaurants ltd t/a mahfil,B38 8RU,52.4071,-1.9305
 Devlins Cafe ,B38 8SD,52.4069,-1.9294
 The Green's Cafe T/A Molly's Cafe,B38 8SD,52.4069,-1.9294
-Costa Coffee - Ground Floor,B40 1PU,52.4477,-1.7175
-Five Guys,B40 1PU,52.4481,-1.7174
-Gourmet Burger Kitchen,B40 1PU,52.4477,-1.7175
-Miller & Carter,B40 1PU,52.4477,-1.7175
-Nandos,B40 1PU,52.4477,-1.7175
-Pizza Express,B40 1PU,52.4477,-1.7175
+Costa Coffee,B40 1PU,52.4471,-1.7177
 Sky By The Water,B40 1PU,52.4477,-1.7175
 Vietnamese Street Kitchen,B40 1PU,52.4477,-1.7175
 Wrapchic,B40 1PU,52.4476,-1.7161
-Zizzi,B40 1PU,52.4481,-1.7174
 Cafe Morso - Barnt Green,B45 8NE,52.3614,-1.9905
 Deedar Indian Cuisine,B45 8NE,52.3614,-1.9905
 Constance Wallace ltd,B45 8NL,52.3615,-1.9900
@@ -225,15 +202,14 @@ Old Rose and Crown Hotel,B45 8RT,52.3801,-2.0078
 Peachys Cafe,B45 8SB,52.3891,-2.0000
 Longbridge Village Bistro,B45 8TD,52.3943,-1.9910
 Lailing restaurant,B45 8UT,52.3849,-2.0014
+Brewers Fayre Great Park,B45 9FP,52.3980,-2.0063
 BANOPHOOL,B45 9HY,52.3923,-2.0222
 Subway,B45 9JA,52.3933,-2.0175
 The Rafter's Cafe,B45 9JA,52.3933,-2.0174
 CURRY AFFAIRS LTD,B45 9JR,52.3930,-2.0211
-Hollywood Bowl,B45 9PL,52.3964,-2.0090
 Himalaya Restaurant Est 1974 Limited,B45 9QD,52.3956,-1.9984
+McDonald's,B45 9UA,52.3962,-1.9963
 McDonald’s Longbridge,B45 9UA,52.3959,-1.9945
-Mcdonalds Restaurants Ltd,B45 9UA,52.3959,-1.9943
-Buzz Bingo,B45 9WA,52.4010,-2.0062
 Bean 47 ,B47 5HD,52.3853,-1.8837
 MONSOON RESTAURANT,B47 5PA,52.3911,-1.8788
 Hollywood Golf Club,B47 5PP,52.3968,-1.8803
@@ -243,6 +219,7 @@ Westmead Hotel,B48 7AL,52.3779,-1.9582
 Burger King At Welcome Break,B48 7AU,52.3637,-1.9458
 Harry Ramsden At Welcome Break,B48 7AU,52.3637,-1.9458
 KFC At Hopwood Park Services (Welcome Break),B48 7AU,52.3637,-1.9458
+KFC,B48 7AU,52.3637,-1.9458
 Starbucks At Welcome Break,B48 7AU,52.3637,-1.9458
 Subway At Welcome Break,B48 7AU,52.3637,-1.9458
 Waitrose At Hopwood Park Services (Welcome Break),B48 7AU,52.3637,-1.9458
@@ -266,17 +243,18 @@ Our Subs Ltd,B60 3DR,52.3193,-2.0586
 Aston Fields Social Club,B60 3EG,52.3227,-2.0519
 Zinga Restaurant ,B60 3EQ,52.3229,-2.0492
 no3a cafe,B60 3EQ,52.3228,-2.0492
+KFC,B60 3NJ,52.3226,-2.0598
 KFC,B60 3NJ,52.3231,-2.0605
 Golden Lion,B60 3PB,52.3199,-2.0721
 Jinney Ring Craft Centre Ltd,B60 4BU,52.2731,-2.0567
 The Vernon,B60 4DB,52.2642,-2.0536
 Ewe & Lamb (Bromsgrove) Ltd,B60 4DN,52.3076,-2.0783
 Boat & Railway ,B60 4EQ,52.2921,-2.0876
+Brewers Fayre The Guild,B61 0BA,52.3394,-2.0489
 REYNOLDS TRADING LTD T/A WILLOWBROOK GARDEN CENTRE,B61 0BL,52.3536,-2.0630
 Rovers Cafe,B61 0DD,52.3390,-2.0554
 Mint Lounge,B61 0DR,52.3395,-2.0555
 Ego at the Forest,B61 0EZ,52.3530,-2.0468
-Miller & Carter Marlbrook,B61 0HR,52.3645,-2.0460
 Bromsgrove Hotel & Spa,B61 0JB,52.3677,-2.0476
 Spices Catshill Limited,B61 0JZ,52.3640,-2.0588
 Dine India,B61 0LA,52.3639,-2.0569
@@ -291,13 +269,14 @@ BROMSGROVE UNIONIST CLUB,B61 7JS,52.3351,-2.0682
 Waz’s Bistrot LTD,B61 8AB,52.3373,-2.0576
 Waz’s Bistrot,B61 8AB,52.3373,-2.0576
 Subway Bromsgrove High Street,B61 8AE,52.3364,-2.0594
-Pizza Express,B61 8AH,52.3484,-2.0905
 Cafe Morso - Bromsgrove,B61 8AJ,52.3344,-2.0619
 Delightful Desserts,B61 8AJ,52.3340,-2.0626
 Casa Med Limited,B61 8AQ,52.3355,-2.0604
 Coffee 2,B61 8EX,52.3348,-2.0604
+Costa Coffee,B61 8EX,52.3351,-2.0602
 Ollie's Eatery - Bar,B61 8EX,52.3344,-2.0611
 sixty degrees,B61 8EX,52.3348,-2.0604
+Golden Cross Hotel Bromsgrove (Wetherspoon),B61 8HH,52.3339,-2.0618
 Park Gate Inn,B61 9AJ,52.3422,-2.0953
 The Dodford Inn,B61 9BG,52.3550,-2.0931
 Chennai Lounge Indian Restaurant,B61 9DT,52.3450,-2.1049
@@ -308,8 +287,10 @@ The Fairfield Cafe,B61 9LY,52.3745,-2.0786
 MAHADEV SINGH LIMITED T/A SUBWAY HALESOWEN,B63 3AW,52.4489,-2.0497
 Bangla Lounge ,B63 3BQ,52.4495,-2.0503
 A&S Restaurants LTD T/A McDonalds,B63 3JQ,52.4473,-2.0456
-McDonalds Restaurants Limited,B63 3JQ,52.4473,-2.0456
+McDonald's,B63 3JQ,52.4480,-2.0457
 JIMMY MACKS,B63 4AB,52.4495,-2.0517
+The William Shenstone Halesowen (Wetherspoon),B63 4AB,52.4498,-2.0508
+Costa Coffee,B63 4AJ,52.4487,-2.0520
 THE HAGLEY ,B63 4QQ,52.4444,-2.0594
 THE AMEENA RESTAURANT LTD,B63 4RR,52.4448,-2.0572
 Bumbles Coffee House And Lifestyle,B80 7AN,52.2743,-1.8941
@@ -325,6 +306,7 @@ Akamba Venue,B90 1PH,52.3903,-1.8484
 Coffee Cloud,B90 1UA,52.3851,-1.8369
 Persia Restaurant,B90 1UA,52.3846,-1.8366
 Costa Coffee,B90 1UB,52.3851,-1.8365
+Costa Coffee,B90 1UB,52.3851,-1.8366
 Janaki Indian Cuisine,B90 1UB,52.3852,-1.8365
 Mortons Bar & Grill Ltd,B90 1UB,52.3852,-1.8365
 Essentials Delivery Pop Up Fundraiser,B90 1UD,52.3827,-1.8352
@@ -335,7 +317,8 @@ Pepe's Piri Piri,B90 3AH,52.4124,-1.8266
 Ruchie,B90 3AH,52.4120,-1.8265
 The Nook & Cranny Cafe,B90 3AL,52.4109,-1.8261
 COSTA COFFEE,B90 3AQ,52.4124,-1.8277
-Nandos,B90 3AQ,52.4124,-1.8277
+Costa Coffee,B90 3AQ,52.4125,-1.8276
+The Pump House Solihull (Wetherspoon),B90 3AQ,52.4127,-1.8278
 Fiesta del Asado Solihull,B90 3AX,52.4135,-1.8270
 Red Lion ,B90 3AX,52.4139,-1.8272
 SOLIHULL SKVP LTD,B90 3AX,52.4134,-1.8271
@@ -355,83 +338,67 @@ Waterfall Elior - Solihull Housing Association,B90 3FE,52.4143,-1.8298
 INDICO,B90 3GG,52.4130,-1.8288
 JAQK'S,B90 3GG,52.4130,-1.8288
 PERIOS,B90 3GG,52.4130,-1.8288
-Pizza Express,B90 3GG,52.4130,-1.8288
-Prezzo,B90 3GG,52.4130,-1.8288
 Café Shirley ,B90 4AA,52.4048,-1.8223
-KFC,B90 4AD,52.4031,-1.8215
-Miller & Carter,B90 4EA,52.3907,-1.8258
+KFC,B90 4AD,52.4030,-1.8215
 Laura Ashley - The Tea Room Solihull,B90 4EB,52.3914,-1.8070
 The Finest Catch,B90 4ED,52.3888,-1.8045
 The Farm ,B90 4EH,52.3914,-1.7849
+McDonald's,B90 4EL,52.3830,-1.7925
 McDonald's,B90 4EL,52.3831,-1.7927
 Notcutts Solihull,B90 4EN,52.3829,-1.7898
+Beefeater The Plough (Solihull),B90 4EP,52.3860,-1.7994
 BL Shirley Limited,B90 4JA,52.3783,-1.8154
-Starbucks,B90 4JG,52.3933,-1.8201
-Starbucks Coffee Company,B90 4LD,52.4004,-1.8170
 Subway,B90 4LD,52.4004,-1.8170
-Wilson Vale Catering at AIS,B90 4LF,52.3997,-1.8077
 Munch,B90 4LH,52.3988,-1.8054
 Waterfall Elior - Solihull Housing Association,B90 4PQ,52.3964,-1.8142
 Ginger Blue Contemporary Restaurant ,B90 4PX,52.3968,-1.8118
+Costa Coffee,B90 4RB,52.4018,-1.8142
 brew twenty three,B90 4RZ,52.4006,-1.8063
 Gymshark,B90 8AJ,52.3691,-1.7997
 Virgin Active Solihull,B90 8AT,52.3727,-1.8005
-Wilson Vale Catering Ltd,B90 8BG,52.3741,-1.7969
 THE ST JOHNS HOTEL SOLIHULL LIMITED,B91 1AT,52.4168,-1.7806
 MIDLAND FOOD BAKERY SOLIHULL LTD,B91 1BQ,52.4292,-1.7978
 No1 Dove House Parade,B91 1BQ,52.4292,-1.7978
 The Dovehouse Raj Limited,B91 1BQ,52.4292,-1.7978
 Olton golf club,B91 1JH,52.4271,-1.7944
-Baxterstorey Ltd.; The Environment Agency Sapphire East,B91 1RH,52.4183,-1.8001
-Atalian Servest Food Company - Blossomfield Campus,B91 1SB,52.4096,-1.7922
 Flash Climbing Centre Limited,B91 2JY,52.4266,-1.7745
 YOLO SOLIHULL LTD ta The Flying Elephant,B91 2LP,52.4228,-1.7736
 longfellows Restaurant ,B91 2TJ,52.4207,-1.7371
-Zizzi,B91 3AB,52.4145,-1.7793
-Caffe Nero,B91 3AY,52.4140,-1.7762
+Costa Coffee,B91 3BA,52.4139,-1.7769
 Spice Club,B91 3DA,52.4151,-1.7768
 The Beech House Solihull,B91 3DA,52.4151,-1.7768
 The Royal British Legion (Solihull) Club Ltd,B91 3DH,52.4153,-1.7729
 Esabellas,B91 3DX,52.4148,-1.7773
 Tap & Tandoor,B91 3DX,52.4148,-1.7773
 The Delhi,B91 3DX,52.4148,-1.7773
-Baxterstorey,B91 3ES,52.4128,-1.7849
-Costa Coffee,B91 3GS,52.4124,-1.7794
-Five Guys,B91 3GS,52.4124,-1.7794
-Nando's,B91 3GS,52.4124,-1.7794
-Pizza Express,B91 3GS,52.4124,-1.7794
-TGI Fridays,B91 3GS,52.4124,-1.7794
+Costa Coffee,B91 3GS,52.4123,-1.7785
 THEOBROMA,B91 3GS,52.4123,-1.7781
 YAKINORI SOLIHULL LTD,B91 3HT,52.4117,-1.7788
 Crowne Plaza Solihull,B91 3QD,52.4106,-1.7805
 The Boston Tea Party Group Limited,B91 3QE,52.4137,-1.7811
 Asha's Restaurant & Cocktail Bar,B91 3QW,52.4116,-1.7785
 Jamaya,B91 3QW,52.4115,-1.7789
-Pizza Hut Restaurant,B91 3QW,52.4115,-1.7789
-Wagamama,B91 3QW,52.4115,-1.7789
 COFFEE LOUNGE,B91 3QZ,52.4109,-1.7784
-Joe & The Juice,B91 3RA,52.4139,-1.7807
 Big Bitez,B91 3RX,52.4147,-1.7819
 Curry Bitez,B91 3RX,52.4147,-1.7819
 Indian Brewery Solihull Ltd,B91 3RX,52.4147,-1.7819
 Jade Wok Restaurant,B91 3RX,52.4147,-1.7819
-Turtle Bay,B91 3SB,52.4145,-1.7806
+Thyme,B91 3RX,52.4147,-1.7817
+The White Swan Solihull (Wetherspoon),B91 3SB,52.4145,-1.7811
 the chicken shack,B91 3SB,52.4145,-1.7807
-Burger King,B91 3SJ,52.4139,-1.7789
-Caffe Nero,B91 3SJ,52.4138,-1.7787
+Burger King,B91 3SJ,52.4139,-1.7790
 Panchuli Indian Restaurant,B91 3ST,52.4122,-1.7762
-Pret A Manger,B91 3TA,52.4129,-1.7783
+Pret A Manger,B91 3TA,52.4128,-1.7778
+McDonald's,B91 3TB,52.4133,-1.7788
 McDonald's,B91 3TB,52.4133,-1.7793
-McDonalds,B91 3TB,52.4133,-1.7793
-Starbucks,B91 3TB,52.4133,-1.7793
 Arden Hotel,B92 0EH,52.4454,-1.7212
 Platform Three Restaurant,B92 7AR,52.4380,-1.8057
 Rajasthan Restaurant     ,B92 7AR,52.4380,-1.8057
 Harvey's Golf Limited,B92 7DJ,52.4249,-1.8124
 Buongiorno,B92 7HS,52.4423,-1.8112
 Munchies cafe bistro,B92 7HS,52.4421,-1.8111
+McDonald's,B92 7HX,52.4416,-1.8114
 McDonald's,B92 7HX,52.4417,-1.8113
-Mcdonalds Restaurants Ltd,B92 7HX,52.4417,-1.8113
 Changes Coffee,B92 7QW,52.4486,-1.7951
 Rajnagar International Restaurant,B92 7QW,52.4486,-1.7942
 Paprika lounge,B92 8JL,52.4438,-1.7851
@@ -439,8 +406,6 @@ Pavarotti Italian Restaurant ,B92 8JN,52.4450,-1.7849
 Planet Play,B92 8JN,52.4450,-1.7849
 Spicewoods,B92 8JN,52.4450,-1.7849
 AGRABAD SOLIHULL LIMITED,B92 8LW,52.4478,-1.7770
-JLR Ltd Compass Group,B92 8NW,52.4366,-1.7761
-JLR compass Group Kiosks,B92 8NW,52.4366,-1.7761
 THE DAMSON PUBLIC HOUSE,B92 9NG,52.4314,-1.7667
 Oktogon,B93 0HT,52.3870,-1.7348
 Bella venezia,B93 0JU,52.3892,-1.7352
@@ -452,7 +417,8 @@ NEW CAFE SAFFRON,B93 0LL,52.3891,-1.7347
 ellora,B93 0LL,52.3893,-1.7350
 ELDERBERRY BLACKS LIMITED,B93 0LY,52.3877,-1.7341
 Knowle Indian Brasserie ,B93 0LY,52.3877,-1.7341
-Costa Coffee,B93 0NA,52.3885,-1.7350
+Costa Coffee,B93 0NA,52.3884,-1.7350
+Costa Coffee,B93 8HA,52.3737,-1.7526
 Poplar Road Restaurants Limited,B93 8HE,52.3736,-1.7537
 Minhs Restaurant ,B93 8HH,52.3733,-1.7541
 Espresso Station,B93 8JA,52.3728,-1.7530
@@ -478,7 +444,7 @@ ak's indian,B94 6EA,52.3660,-1.7815
 The Punchbowl Lapworth,B94 6HR,52.3460,-1.7313
 The Boot in Lapworth ,B94 6JU,52.3382,-1.7360
 Navigation Inn  Lapworth,B94 6NA,52.3362,-1.7216
-Miller & Carter,B94 6NL,52.3526,-1.7768
+Beefeater The Barn (Hockley Heath),B94 6NX,52.3581,-1.7803
 MIDLAND FOOD BAKERY  LTD,B94 6RP,52.3645,-1.8055
 Curry republic,B95 5AA,52.2959,-1.7782
 La dolce piazza ltd,B95 5AN,52.2949,-1.7791
@@ -491,6 +457,7 @@ Naya Restaurant ,B95 5BS,52.2912,-1.7804
 Dolce Caffe,B95 5BY,52.2925,-1.7805
 Henley Kitchen & Bakery,B95 5BY,52.2925,-1.7805
 THE WHITE SWAN,B95 5BY,52.2925,-1.7805
+Costa Coffee,B95 5DA,52.2935,-1.7797
 Fleur De Lys,B95 5HJ,52.3092,-1.7273
 The Winged Spur,B95 5PA,52.3043,-1.8227
 The Bulls Head,B95 6BD,52.2686,-1.7793
@@ -506,48 +473,49 @@ The Nevill Arms,B96 6NB,52.2386,-1.9268
 The Green Dragon Inn,B96 6NU,52.2549,-1.9117
 Rees Cafe,B97 4AB,52.3084,-1.9424
 Pepes Redditch,B97 4DY,52.3073,-1.9417
+McDonald's,B97 4EQ,52.3057,-1.9446
 McDonalds,B97 4EQ,52.3060,-1.9448
-Nando's,B97 4EQ,52.3060,-1.9448
-Caffe Nero,B97 4ET,52.3062,-1.9415
 360 Play (Redditch) Limited,B97 4EU,52.3059,-1.9417
-Burger King,B97 4EY,52.3062,-1.9435
-KFC,B97 4EY,52.3062,-1.9435
+Costa Coffee,B97 4EX,52.3062,-1.9421
 Subway Redditch,B97 4EY,52.3062,-1.9435
 bono cafe,B97 4EY,52.3062,-1.9432
-Prezzo,B97 4HA,52.3051,-1.9419
+Costa Coffee,B97 4HA,52.3057,-1.9416
 nesta cafe,B97 4HA,52.3051,-1.9419
-Coffee#1,B97 4HJ,52.3053,-1.9409
 Kitchen Cafe,B97 4HJ,52.3055,-1.9407
 Muffin Break Redditch ,B97 4HJ,52.3053,-1.9409
 Southcrest Manor Hotel,B97 4JS,52.2966,-1.9448
 Essence Of Bengal Restaurant LTD ,B97 4LB,52.2925,-1.9476
 Massalla Club,B97 4LE,52.2941,-1.9507
 MEZZE Restaurant ,B97 4QR,52.3068,-1.9430
+The Royal Enfield Redditch (Wetherspoon),B97 4QR,52.3070,-1.9432
 Champagne Express,B97 4RA,52.3065,-1.9448
 VictoriaPlumsKitchen,B97 5DQ,52.2877,-1.9495
 The Gate Hangs Well,B97 5ES,52.2915,-1.9461
 Coffee and Cask at 505,B97 5JJ,52.2799,-1.9403
 The Brook Inn,B97 5UD,52.2788,-1.9872
 Holiday Inn Express Redditch,B97 6AE,52.3082,-1.9447
+Beefeater Redditch North,B97 6AQ,52.3160,-1.9390
 The Tardebigge,B97 6QL,52.3180,-1.9997
 The Courtyard Cafe at Tardebigge,B97 6QW,52.3178,-1.9968
 THE GOLDEN GOOSE,B98 0DD,52.2920,-1.9040
 Indian Kitchen ,B98 7AE,52.3041,-1.9394
+Costa Coffee,B98 7AH,52.3047,-1.9335
 KFC,B98 7AH,52.3046,-1.9340
+KFC,B98 7AH,52.3049,-1.9340
 Pizza Hut Delivery Redditch,B98 7LA,52.2988,-1.9246
+KFC,B98 7ST,52.2829,-1.9306
 KFC,B98 7ST,52.2836,-1.9304
-McDonalds,B98 7ST,52.2836,-1.9304
 Rilys Redditch,B98 8AE,52.3063,-1.9393
+The Rising Sun Redditch (Wetherspoon),B98 8AE,52.3059,-1.9386
 JJ’s cafe,B98 8AH,52.3052,-1.9382
-Cafe Pausa At Dunelm,B98 8AY,52.3065,-1.9378
 Oast house,B98 8QJ,52.3099,-1.9091
 The Village Inn,B98 9AT,52.3245,-1.8891
 Abbey Hotel Golf & Country Club Ltd,B98 9BE,52.3230,-1.9228
 The Holly Bush ,B98 9EN,52.3145,-1.8674
-McDonalds,B98 9HN,52.3119,-1.8881
 Tom o the wood ,CV35 7DH,52.3256,-1.7161
 The Crown Inn,CV35 8LJ,52.2832,-1.7172
 The Queensway ,DY9 9HN,52.4415,-2.1192
+Beefeater Badgers Sett,DY9 9JS,52.4312,-2.1051
 HAGLEY GOLF CLUB,DY9 9JW,52.4354,-2.1014
 Jaipur Cottage,DY9 9PL,52.4117,-2.1071
 The Four Stones Restaurant,DY9 9PS,52.4159,-2.1108
@@ -560,6 +528,6 @@ Five Spice ,DY9 9TX,52.3977,-2.1006
 Holly Bush Inn,DY9 9UG,52.3969,-2.0984
 Eagle & Sun ,WR9 7DX,52.2641,-2.1102
 Galton Arms,WR9 7LQ,52.2256,-2.0833
+McDonald's,WR9 7PA,52.2898,-2.1193
 McDonald's,WR9 7PA,52.2901,-2.1183
-McDonalds,WR9 7PA,52.2901,-2.1183
 liberty leisure,WR9 7TB,52.2878,-2.1148

@@ -1,9 +1,8 @@
 name,postcode,lat,lon
-Nando's,CH4 0DE,53.1671,-2.9741
-Pizza Express,CH4 0DE,53.1671,-2.9741
-Costa Coffee,CH4 0DP,53.1690,-2.9727
+Nando's,CH4 0DE,53.1674,-2.9742
+Costa Coffee,CH4 0DP,53.1689,-2.9711
 McDonald's,CH4 0DP,53.1675,-2.9730
-Prezzo,CH4 0DP,53.1674,-2.9719
+McDonald's,CH4 0DP,53.1688,-2.9766
 Chocks Away Diner,CH4 0GZ,53.1861,-2.9730
 Red Lion,CH4 0JR,53.1438,-3.0499
 Jemoleys,CH4 0JZ,53.1490,-3.0429
@@ -13,11 +12,11 @@ Fox & Grapes,CH5 3DH,53.1847,-3.0263
 The Old Grocery,CH5 3DH,53.1851,-3.0290
 Hawarden Estate Farm Shop,CH5 3FB,53.1801,-3.0119
 The Topiary Coffee Shop,CH5 3HF,53.1943,-3.0262
-Starbucks Coffee Company,CH5 3YB,53.1904,-3.0528
 Spoons and Forks,CH7 1AL,53.1677,-3.1430
 lucy mays,CH7 1AP,53.1662,-3.1428
 The Gathering,CH7 1AX,53.1672,-3.1442
 Costa Coffee,CH7 1AZ,53.1672,-3.1421
+Costa Coffee,CH7 1AZ,53.1673,-3.1417
 Gerrards Confectioners North Wales Ltd,CH7 1AZ,53.1672,-3.1421
 Rubens Coffee Ltd,CH7 1AZ,53.1672,-3.1421
 Just Steak,CH7 1BH,53.1687,-3.1437
@@ -26,9 +25,11 @@ Lovelies Delights,CH7 1BQ,53.1683,-3.1426
 The Fat Boar Yr Wyddgrug,CH7 1EG,53.1672,-3.1401
 Y Baedd Bach,CH7 1ER,53.1667,-3.1412
 Deadwood Smokehouse Mold ,CH7 1ES,53.1661,-3.1411
+The Gold Cape Mold (Wetherspoon),CH7 1ES,53.1664,-3.1412
 Maria’s Cafe,CH7 1LA,53.1680,-3.1418
 McDonald's,CH7 1LA,53.1682,-3.1415
-Starbucks,CH7 1UE,53.1670,-3.1340
+McDonald's,CH7 1LA,53.1694,-3.1383
+Costa Coffee,CH7 1LB,53.1705,-3.1388
 Queens Head,CH7 1UQ,53.1662,-3.1288
 Crumbs Sandwich Bar,CH7 2ED,53.1684,-3.0806
 Costa Coffee,CH7 2EF,53.1679,-3.0788
@@ -43,28 +44,25 @@ plas hafod limited,CH7 5JS,53.1615,-3.1745
 We Three Loggerheads,CH7 5LH,53.1545,-3.2006
 The White Horse Inn,CH7 5NN,53.1773,-3.2328
 Druid Inn,CH7 5SN,53.1335,-3.2153
-Costa Coffee,CH7 6HB,53.1930,-3.0821
 Holiday Inn Chester West,CH7 6HB,53.1930,-3.0821
+McDonald's,CH7 6HB,53.1921,-3.0812
 OK Diners Northop Hall,CH7 6HB,53.1930,-3.0821
-Northop Hall Starbucks,CH7 6HF,53.1979,-3.0902
 Beaufort Park Hotel,CH7 6RQ,53.1837,-3.1165
 Bank Street Social,LL11 1AH,53.0457,-2.9927
 Sakura oriental street food,LL11 1AH,53.0457,-2.9927
 Gerrards Confectioners North Wales Ltd,LL11 1AP,53.0464,-2.9938
-Caffe Nero,LL11 1AT,53.0467,-2.9937
 King Street Coffee Company,LL11 1LF,53.0480,-2.9960
 Gerrards Confectioners North Wales Ltd,LL11 1LH,53.0475,-2.9958
 Heaven Coffee Shop Limited,LL11 1LR,53.0470,-2.9945
 Wrexham Fish Bar,LL11 1LW,53.0469,-2.9957
 Ijazz,LL11 1NA,53.0480,-2.9953
 M & Ems ltd t/a Subway,LL11 1RR,53.0472,-2.9971
-Wetherspoon Plc,LL11 1RR,53.0471,-2.9970
+The Elihu Yale Wrexham (Wetherspoon),LL11 1RR,53.0471,-2.9969
 McDonald's,LL11 1SA,53.0468,-2.9962
 Lot 11 ,LL11 1SN,53.0460,-2.9960
 Rock Suite Limited,LL11 1SN,53.0461,-2.9959
 Desserts.wrexham ltd,LL11 1SU,53.0458,-2.9955
-Starbucks Outlet,LL11 2AW,53.0530,-3.0057
-Costa Coffee,LL11 2BA,53.0566,-3.0063
+Thyme,LL11 2BY,53.0494,-3.0027
 Tyn Y Capel Inn & Restaurant ,LL11 3DA,53.0591,-3.0916
 Golden Lion ,LL11 3RP,53.0505,-3.0685
 The Copper Kettle,LL11 3RY,53.0530,-3.0700
@@ -73,13 +71,14 @@ Eat with Kev,LL11 5BT,53.0756,-3.0544
 Gamekeeper Inns Limited,LL12 7PG,53.0654,-2.9807
 Mellors Catering Services Ltd,LL12 8LX,53.0760,-2.9886
 The Plough Inn,LL12 8NE,53.0850,-2.9717
+Whitbread Inns The Beeches,LL12 8PW,53.0794,-2.9823
 the hollybush,LL12 9UD,53.0978,-3.0293
 kings mill,LL13 0NS,53.0364,-2.9777
 Redlion ,LL13 0PH,53.0232,-2.9629
 Stables Coffee Shop,LL13 0SP,53.0026,-2.9621
 The Haybank Clubhouse & Grill,LL13 0SP,53.0026,-2.9621
+Costa Coffee,LL13 7LW,53.0460,-2.9977
 Banana Bens Ltd,LL13 7SU,53.0476,-3.0011
-Pizza Hut Restaurant,LL13 7SU,53.0476,-3.0012
 Ramada Plaza Wrexham,LL13 7YH,53.0498,-3.0120
 Smoke shed,LL13 8AD,53.0459,-2.9924
 Kristina's Cafe ,LL13 8BA,53.0458,-2.9914
@@ -92,29 +91,24 @@ curry on the go wrexham,LL13 8BY,53.0462,-2.9897
 just desserts & milkshakes ltd,LL13 8BY,53.0462,-2.9897
 M & Ems ltd t/a Subway,LL13 8DB,53.0455,-2.9893
 Sleepy Panda Chinese Restaurant,LL13 8DE,53.0471,-2.9873
-Burger king,LL13 8DG,53.0443,-2.9887
-Costa Coffee,LL13 8DG,53.0443,-2.9887
-Nandos,LL13 8DG,53.0443,-2.9887
-Pizza Express,LL13 8DG,53.0443,-2.9887
-Tenpin (Take 10),LL13 8DG,53.0443,-2.9887
+Costa Coffee,LL13 8DG,53.0447,-2.9885
 Anise,LL13 8EN,53.0448,-2.9863
-Mecca Bingo Ltd,LL13 8EN,53.0447,-2.9854
+Burger King,LL13 8HL,53.0475,-2.9857
+The North and South Wales Bank Wrexham (Wetherspoon),LL13 8HP,53.0453,-2.9919
 Frisky Pudding,LL13 8HY,53.0450,-2.9925
 The Bank Wine Bar,LL13 8HY,53.0449,-2.9926
 Cafe De Galles,LL13 8LS,53.0447,-2.9929
 Black Peppers,LL13 8LW,53.0441,-2.9914
 The Fat Boar Wrecsam,LL13 8LW,53.0446,-2.9914
  bar & grill,LL13 8NA,53.0448,-2.9938
-Burger King,LL13 8NG,53.0511,-2.9802
 the diner,LL13 8UH,53.0440,-2.9790
 Happy hedgehog cafe,LL13 8UN,53.0411,-2.9759
 Dorothy’s tea room ,LL14 2SN,53.0097,-3.0434
 The Hampden Arms,LL14 3UG,52.9831,-3.0686
-Starbucks,LL14 4EJ,53.0278,-3.0293
 Wynnstay Arms,LL14 6BL,52.9869,-3.0392
 Duke of Wellington ,LL14 6DE,52.9862,-3.0411
-Costa Coffee,LL14 6EQ,52.9842,-3.0455
 Maahis Wrexham Ltd,LL14 6YY,52.9937,-3.0312
+The Castle Hotel Ruthin (Wetherspoon),LL15 1AA,53.1146,-3.3104
 Costa Coffee,LL15 1BE,53.1156,-3.3085
 Seven Oaks Garden Centre,LL15 1NJ,53.1204,-3.3098
 Lyons Woodland Hall Hotel,LL15 2AN,53.1075,-3.3574

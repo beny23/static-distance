@@ -2,14 +2,13 @@ name,postcode,lat,lon
 Blueocean ,M34 2AF,53.4560,-2.1185
 Waterfall Elior At Greswell Primary School (Infants),M34 2DH,53.4491,-2.1193
 the  lowes arms,M34 3FF,53.4555,-2.0983
-Costa Coffee,M34 3JP,53.4592,-2.1184
 Denton McDonald's,M34 3JP,53.4592,-2.1184
-McDonalds,M34 3JP,53.4592,-2.1184
-Nando's,M34 3JP,53.4591,-2.1183
+McDonald's,M34 3JP,53.4587,-2.1158
 Crown Cafe,M34 3JU,53.4560,-2.1154
 Golden  Dragon,M34 3LE,53.4564,-2.1157
 THE ORANGE TREE RESTURAUNT LIMITED,M34 3LE,53.4564,-2.1156
 Love Mumbai,M34 3LF,53.4567,-2.1143
+Costa Coffee,M34 3LX,53.4587,-2.1196
 san remo grill,M34 3PR,53.4563,-2.1179
 Tameside Wellness Centre - Denton,M34 3RD,53.4561,-2.1205
 Indi2nite ,M34 5BU,53.4689,-2.1118
@@ -17,7 +16,6 @@ The Queens Arms,M34 5FF,53.4707,-2.1131
 The Boundary,M34 5HD,53.4756,-2.1164
 Waterfall Elior Limited At St Stephens CE Primary School,M34 5HD,53.4756,-2.1164
 Old Plaza ltd,M34 5HP,53.4752,-2.1197
-Baxterstorey Limited At Brother UK Ltd,M34 5JD,53.4720,-2.1099
 Pizza Hut,M34 6DB,53.4557,-2.1134
 Subway,M34 6DB,53.4557,-2.1134
 Fletchers Arms Ltd ,M34 6EG,53.4438,-2.1159
@@ -36,9 +34,8 @@ JJs Little Kitchen  (Stall 74),OL6 6BZ,53.4892,-2.0925
 Nat's Bombay Kitchen,OL6 6BZ,53.4892,-2.0925
 Tarps Filipino Street Food,OL6 6BZ,53.4892,-2.0925
 The Fusion Wok,OL6 6BZ,53.4892,-2.0925
-Buzz Bingo,OL6 6DJ,53.4913,-2.0977
+The Ash Tree AshtonunderLyne (Wetherspoon),OL6 6DA,53.4899,-2.0924
 SUBWAY,OL6 6DJ,53.4913,-2.0977
-KFC,OL6 6DL,53.4901,-2.0942
 Pizza Hut,OL6 6EF,53.4899,-2.0916
 AL NOOR ,OL6 6EL,53.4901,-2.0902
 Jasmine Tea Rooms,OL6 6EP,53.4900,-2.0909
@@ -48,10 +45,9 @@ Antonio's 1 Ltd,OL6 7AW,53.4885,-2.0973
 Lily's,OL6 7DF,53.4890,-2.0989
 Buono Taste,OL6 7HP,53.4871,-2.1035
 Bap,OL6 7JE,53.4894,-2.0966
+McDonald's,OL6 7JG,53.4887,-2.0942
 McDonalds  Ashton-under-Lyne,OL6 7JG,53.4885,-2.0942
-McDonalds Restaurant,OL6 7JG,53.4885,-2.0942
 Costa Coffee,OL6 7JJ,53.4888,-2.0959
-Costa Coffee,OL6 7JQ,53.4885,-2.0951
 Rosie’s coffee bar and kitchen ,OL6 7JQ,53.4885,-2.0951
 Gold Medal Fish and Chips Restaurant,OL6 7JR,53.4880,-2.0957
 SUBWAY,OL6 7JS,53.4886,-2.0936
@@ -61,21 +57,16 @@ PINOCCHIOS RESTAURANT,OL6 7SQ,53.4869,-2.0977
 Notcutts Ashton Park,OL6 7UB,53.4827,-2.1237
 Heroes Restaurant & Bar,OL6 9DQ,53.4979,-2.0661
 Baxterstorey Limited At Ashton Sixth Form College,OL6 9RL,53.4921,-2.0755
-Costa Coffee At Tameside Hospital,OL6 9RW,53.4922,-2.0719
+Costa Coffee,OL6 9RW,53.4919,-2.0715
 Smith's Cafe and takeaway ,OL7 0AU,53.4880,-2.1086
 Subway Maynestone,OL7 0DA,53.4829,-2.1105
-Pausa Coffee Shop At Dunelm,OL7 0DN,53.4792,-2.1229
+McDonald's,OL7 0DN,53.4787,-2.1248
 Pasta&Basta ,OL7 0LD,53.4819,-2.1068
 Serrano's,OL7 0LD,53.4818,-2.1068
-McDonalds,OL7 0LY,53.4861,-2.1138
-Starbucks Coffee Co at Village Urban Resorts,OL7 0LY,53.4861,-2.1138
-Costa Coffee Drive Thru,OL7 0PG,53.4890,-2.1116
-Five Guys,OL7 0PG,53.4890,-2.1116
-Hollywood Bowl,OL7 0PG,53.4890,-2.1116
+KFC,OL7 0PG,53.4886,-2.1132
+McDonald's,OL7 0PG,53.4874,-2.1128
 McDonalds  Ashton Moss,OL7 0PG,53.4890,-2.1116
-Nandos Restaurant,OL7 0PG,53.4890,-2.1116
-Starbucks At Cineworld,OL7 0PG,53.4891,-2.1116
-TGI Fridays,OL7 0PG,53.4891,-2.1116
+Nando's,OL7 0PG,53.4892,-2.1113
 Youngs Fish And Chips,OL7 9AD,53.4931,-2.0988
 Zing & Zest Indian Restaurant ,OL7 9AH,53.4923,-2.0995
 The Bulls Head Inn,S32 5QR,53.2880,-1.7150
@@ -103,6 +94,7 @@ Travellers Rest,S33 9HG,53.3388,-1.7280
 Shoulder of Mutton,S33 9HJ,53.3263,-1.7393
 Ye Olde Bowling Green,S33 9JQ,53.3301,-1.7457
 Johnson Inns Limited T/A The Samuel Fox Country Inn,S33 9JT,53.3351,-1.7361
+Beefeater Springwood Park,SK10 2XA,53.2849,-2.1230
 Miner Arms,SK10 4PF,53.3348,-2.0944
 Miners,SK10 4PF,53.3348,-2.0944
 The Miners Arms,SK10 4PF,53.3348,-2.0944
@@ -126,11 +118,11 @@ deli cofano,SK12 1AX,53.3486,-2.1141
 The Topiary Coffee Shop,SK12 1BY,53.3615,-2.1151
 THE POYNTON PAKORA ,SK12 1JX,53.3484,-2.1222
 Panache 1 london road,SK12 1NF,53.3488,-2.1221
-The Kingfisher Wetherspoons,SK12 1NJ,53.3475,-2.1236
+The Kingfisher Poynton (Wetherspoon),SK12 1NJ,53.3465,-2.1240
 Tom Yam,SK12 1QX,53.3495,-2.1225
 apayon inn ltd,SK12 1QX,53.3494,-2.1225
+Costa Coffee,SK12 1RD,53.3488,-2.1178
 Fire & Ice Cafe Bar ,SK12 1RD,53.3489,-2.1197
-Pizza Express,SK12 1RD,53.3489,-2.1197
 The Snap Tin Bar Ltd,SK12 1RD,53.3488,-2.1179
 ciao restaurant,SK12 1RD,53.3489,-2.1197
 Farmers Arms,SK12 1RE,53.3487,-2.1198
@@ -140,8 +132,6 @@ Eat out to help out ,SK12 2AA,53.3591,-2.0384
 The Dandy Cock,SK12 2AA,53.3591,-2.0384
 sasso ,SK12 2AA,53.3591,-2.0383
 The White Horse,SK12 2BB,53.3580,-2.0382
-The National Trust - Timber Yard Coffee Shop,SK12 2NX,53.3382,-2.0551
-The National Trust Refreshment Kiosk,SK12 2NX,53.3382,-2.0551
 Edwards wine bar,SK13 1AA,53.4619,-1.9665
 Twig Coffee Hadfield,SK13 1AJ,53.4624,-1.9678
 The Peels Arms,SK13 1EX,53.4630,-1.9557
@@ -161,27 +151,30 @@ The Oakwood ,SK13 8AZ,53.4433,-1.9523
 The Italian ,SK13 8BB,53.4436,-1.9546
 Tung fong,SK13 8BB,53.4436,-1.9546
 Ayubowan Restaurant,SK13 8BH,53.4436,-1.9520
+Costa Coffee,SK13 8BP,53.4434,-1.9504
 Costa Coffee,SK13 8BP,53.4436,-1.9504
 Napoli ristorante limited ,SK13 8BP,53.4436,-1.9504
 Twig Coffee Glossop,SK13 8BS,53.4438,-1.9485
 olive and gin bar,SK13 8BS,53.4438,-1.9485
 Kwei Ping Restaurant,SK13 8BW,53.4440,-1.9500
 Pepino Deli,SK13 8BW,53.4440,-1.9500
+Costa Coffee,SK13 8GN,53.4441,-1.9576
 The Globe Inn and Lift Limited,SK13 8HJ,53.4433,-1.9566
+The Smithy Fold Glossop (Wetherspoon),SK13 8HS,53.4426,-1.9488
 AUTHENTIC BALTI CURRY LTD,SK13 8HT,53.4423,-1.9488
 The Beehive,SK13 8NR,53.4365,-1.9455
 The lunch ladies ,SK14 1EE,53.4486,-2.0861
 Subway Hyde,SK14 1ES,53.4501,-2.0788
 Adnans Hyde,SK14 1HG,53.4486,-2.0768
-KFC,SK14 1ND,53.4498,-2.0763
+KFC,SK14 1ND,53.4510,-2.0752
 Vedic Vegan And Vegetarian Restaurant ,SK14 2AD,53.4523,-2.0808
 viceroy indian cuisine,SK14 2AX,53.4538,-2.0802
 Saffron,SK14 2BD,53.4528,-2.0840
 Gracie’s Bar and Kitchen Ltd ,SK14 2EL,53.4519,-2.0789
 Maha Restaurant Ltd,SK14 2ND,53.4517,-2.0762
-Costa Coffee,SK14 2QU,53.4514,-2.0777
+Costa Coffee,SK14 2QU,53.4513,-2.0776
 Hyde - Costa Coffee,SK14 2QU,53.4514,-2.0777
-McDonalds Restaurant,SK14 3AU,53.4537,-2.0260
+McDonald's,SK14 3AU,53.4533,-2.0247
 Matteos catering ltd at Oaklands Hall,SK14 3DE,53.4507,-2.0590
 Oaklands Masonic Club,SK14 3DE,53.4507,-2.0590
 Aqua Nurture,SK14 5BS,53.4398,-2.0788
@@ -198,7 +191,7 @@ PHOENIX CITY (STALYBRIDGE) LTD,SK15 1NX,53.4826,-2.0585
 The Bridgefield Curry Lounge ,SK15 1TN,53.4780,-2.0721
 Florence & Amelia's Limited,SK15 2DB,53.4825,-2.0565
 Swaadesh Indian Cuisine ,SK15 2JN,53.4812,-2.0571
-The Society Rooms (Wetherspoons),SK15 2JN,53.4812,-2.0572
+The Society Rooms Stalybridge (Wetherspoon),SK15 2JN,53.4813,-2.0572
 Candolim,SK15 2QP,53.4832,-2.0502
 waggon and horses,SK15 2SU,53.4673,-2.0274
 The Astley Arms,SK16 4BT,53.4777,-2.0868
@@ -259,6 +252,7 @@ HANGING GATE,SK23 9UH,53.3167,-1.9396
 The beehive inn,SK23 9UT,53.3041,-1.9442
 Startpoint,SK6 1RJ,53.4262,-2.1012
 Taylors,SK6 1RJ,53.4262,-2.1012
+McDonald's,SK6 2QR,53.4233,-2.1215
 Duke of York ,SK6 3AN,53.4136,-2.0961
 Qurashi Romiley LTD,SK6 3AN,53.4136,-2.0961
 SPOILT 4 CHOICE,SK6 3AU,53.4158,-2.1043
@@ -285,7 +279,7 @@ PERUGA AT WOODHEYS,SK6 5RX,53.4228,-2.0288
 Big Matt's Burgers and Shakes,SK6 6AA,53.3949,-2.0667
 Cloudberry Cafe,SK6 6AB,53.3949,-2.0650
 Costa Coffee - Marple,SK6 6AY,53.3947,-2.0628
-Costa Coffee,SK6 6AY,53.3947,-2.0628
+Costa Coffee,SK6 6AY,53.3946,-2.0625
 La Dolce Vita Restaurant (Marple) Ltd,SK6 6BD,53.3944,-2.0619
 Angkor Soul (Marple),SK6 6BJ,53.3948,-2.0613
 The Railway marple limited,SK6 6EN,53.3963,-2.0791
@@ -298,7 +292,8 @@ Lime Lounge Restaurant,SK6 8DX,53.3644,-2.0695
 M & J Restaurant,SK6 8DX,53.3644,-2.0695
 The Red Lion,SK6 8ED,53.3638,-2.0674
 Jack’s bar and grill Ltd ,SK7 4AX,53.3823,-2.1242
-KFC,SK7 4DA,53.3786,-2.1187
+KFC,SK7 4DA,53.3782,-2.1185
+The Wilfred Wood Stockport (Wetherspoon),SK7 4DF,53.3794,-2.1205
 Topkapi Palace,SK7 4DF,53.3794,-2.1204
 The Three Tunnes,SK7 4DQ,53.3798,-2.1220
 Bean and baguette ,SK7 4HH,53.3810,-2.1230
@@ -306,6 +301,7 @@ Gnammy Italy,SK7 4HH,53.3810,-2.1229
 Pasha restaurant ,SK7 4HJ,53.3802,-2.1218
 zayaans stockport ,SK7 4HJ,53.3802,-2.1218
 Boogeta lounge,SK7 4PS,53.3782,-2.1172
+McDonald's,SK7 4RD,53.3780,-2.1178
 Ristorante Benvenuti,SK7 4RF,53.3755,-2.1143
 BLUE NILE RESTAURANT ,SK7 6AA,53.3760,-2.1141
 The Rising Sun,SK7 6AD,53.3749,-2.1126

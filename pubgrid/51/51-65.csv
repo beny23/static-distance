@@ -2,17 +2,18 @@ name,postcode,lat,lon
 Amici Restaurant,PE11 1AN,52.7859,-0.1514
 Gurkhaoven Spalding ,PE11 1BE,52.7876,-0.1538
 The Loft,PE11 1BT,52.7880,-0.1537
+The Ivy Wall Spalding (Wetherspoon),PE11 1DQ,52.7886,-0.1514
 CJ's Diner,PE11 1DY,52.7874,-0.1562
 DORIS BISTRO LTD,PE11 1EB,52.7872,-0.1548
 Istanbul Spalding Ltd,PE11 1EB,52.7872,-0.1552
 UK Lounges Limited t/a Rustic,PE11 1EG,52.7869,-0.1568
 Baltic,PE11 1EJ,52.7872,-0.1573
 Tulip-tandoori-restaurant ,PE11 1QD,52.7899,-0.1511
+Costa Coffee,PE11 1SA,52.7872,-0.1519
 Costa Coffee,PE11 1SA,52.7872,-0.1524
 PRIME CATERING (PETERBOROUGH) LTD,PE11 1SU,52.7871,-0.1512
 St Barnabas Shops Limited Spalding Cafe,PE11 1SU,52.7874,-0.1511
 Penningtons,PE11 1SX,52.7876,-0.1516
-Prezzo,PE11 1TB,52.7877,-0.1504
 Katana Japnese cusine,PE11 2AB,52.7883,-0.1470
 Regent Bingo Spalding,PE11 2AE,52.7889,-0.1484
 Graffiti bar,PE11 2AF,52.7892,-0.1491
@@ -23,17 +24,15 @@ Tonic 44 Community Cafe,PE11 4DB,52.8408,-0.1309
 THE SHIP INN,PE11 4DH,52.8445,-0.1057
 NFL Catering Ltd,PE11 4EA,52.8398,-0.1221
 Chestnuts Tearoom & Farm Shop,PE12 0BS,52.7993,0.0760
-Waterfall Elior at Dalehead Restaurant,PE12 6EP,52.7960,-0.1279
-Costa Coffee,PE12 6ES,52.7994,-0.1294
-Starbucks Coffee Shop,PE12 6ES,52.7987,-0.1282
-Caffe Nero,PE12 6EU,52.7993,-0.1274
+Costa Coffee,PE12 6EU,52.7993,-0.1277
 Springy's American Diner  Adventureland,PE12 6EU,52.7993,-0.1274
 Starbucks,PE12 6EU,52.7993,-0.1274
 The Kitchen,PE12 6EU,52.7993,-0.1274
 subway,PE12 6EU,52.7993,-0.1274
 Unique Cottage Cafe,PE12 6FA,52.7891,-0.1259
-Costa Coffee,PE12 6FY,52.7609,-0.1586
+Costa Coffee,PE12 6FY,52.7604,-0.1582
 McDonald's Spalding ,PE12 6JP,52.8001,-0.1195
+McDonald's,PE12 6JP,52.7983,-0.1228
 Fun Farm Spalding,PE12 6JU,52.8042,-0.0929
 Jak's Diner at Laserstorm,PE12 6JU,52.8041,-0.0931
 The Ship Inn,PE12 6LH,52.8710,-0.0416
@@ -45,6 +44,7 @@ Caffe Aurora,PE12 7ED,52.8034,0.0176
 The Pitstop ,PE12 7QH,52.8076,0.0232
 ROSE & CROWN (HOLBEACH) LIMITED,PE12 8JN,52.8243,0.0690
 McDonald's Long Sutton,PE12 9AF,52.7730,0.1297
+McDonald's,PE12 9AF,52.7735,0.1348
 Benny's Diner (Long Sutton) Limited,PE12 9AG,52.7764,0.1344
 Subway Long Sutton,PE12 9AG,52.7764,0.1344
 The Granary,PE12 9DD,52.7858,0.1213
@@ -60,8 +60,7 @@ Rainbow landscaping centre ,PE20 1PX,52.9199,-0.0758
 THE MOORINGS CAFE,PE20 2DB,52.8759,-0.0454
 Magnum Inns Limited,PE20 2EZ,52.9028,-0.0958
 McDonald's Sutterton,PE20 2LF,52.8907,-0.0833
-Sutterton Burger King,PE20 2LG,52.8885,-0.0805
-Starbucks Drive Thru,PE20 2LN,52.8896,-0.0847
+McDonald's,PE20 2LF,52.8885,-0.0858
 Starbucks,PE20 2LN,52.8896,-0.0847
 Supreme Inns Hotel,PE20 3AN,52.9304,-0.1581
 concreation garden centre,PE20 3HB,52.9572,-0.1420
@@ -70,10 +69,6 @@ The Wheatsheaf Inn,PE20 3QR,52.9742,-0.1118
 The Haven,PE21 0BE,52.9689,0.0019
 The Railway Pub Boston Limited ,PE21 7EQ,52.9651,-0.0278
 Hammer and Pincers,PE21 7JE,52.9692,-0.0599
-Old McDonalds Farm,PE21 7JE,52.9692,-0.0599
-Burger King,PE21 7NE,52.9555,-0.0308
-Costa Coffee,PE21 7NE,52.9555,-0.0308
-Starbucks Drive Thru,PE21 7NH,52.9565,-0.0323
 Downtown Boston Restaurant ,PE21 7NL,52.9709,-0.0597
 Benalmedia Limited T/As The Black Sluice Cafe and Bar,PE21 7RA,52.9664,-0.0269
 The Quayside Hotel (Boston) Limited,PE21 8AG,52.9698,-0.0266

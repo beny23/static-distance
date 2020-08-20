@@ -13,12 +13,15 @@ The Alma Inn and Dining Rooms,CO12 3EE,51.9473,1.2863
 The New Bell Inn,CO12 3EN,51.9472,1.2889
 Thai up at the Quay,CO12 3EZ,51.9474,1.2868
 The Pier at Harwich,CO12 3HH,51.9479,1.2865
+The Bottle Kiln Harwich (Wetherspoon),CO12 3JR,51.9364,1.2811
 The Tower Hotel (Dovercourt) Limited,CO12 3PJ,51.9364,1.2758
 Dovercourt Skate Rink,CO12 3ST,51.9270,1.2700
-Costa Coffee,CO12 4EN,51.9410,1.2604
 Costa Coffee,CO12 4FE,51.9390,1.2642
+Costa Coffee,CO12 4FE,51.9412,1.2581
 Harwich McDonalds,CO12 4GA,51.9393,1.2599
+McDonald's,CO12 4GA,51.9393,1.2600
 Shadowcat Coffee Shop,CO12 4HT,51.9333,1.2571
+Brewers Fayre The Mayflower,CO12 4NX,51.9392,1.2582
 Fryatts Hotel & Bar,CO12 4PA,51.9430,1.2559
 Skippers Fish & Chips,CO12 4PB,51.9425,1.2538
 STENA BRITANNICA,CO12 4SX,51.9474,1.2555
@@ -41,6 +44,7 @@ Connaughts Coffee House,CO13 9PP,51.8317,1.2452
 Youngs Fisheries,CO13 9PP,51.8317,1.2452
 Aimes Ltd t/a Costa Coffee Frinton,CO13 9PR,51.8318,1.2457
 BRITISH INDIA RESTAURANT,CO13 9PR,51.8318,1.2457
+Costa Coffee,CO13 9PR,51.8323,1.2455
 FREDS CAFE,CO13 9PR,51.8318,1.2457
 The Hat & The Mouse,CO13 9PR,51.8318,1.2457
 the lock and barrel,CO13 9PR,51.8318,1.2457
@@ -51,6 +55,7 @@ Marina Functions Ltd,CO14 8SL,51.8630,1.2583
 Nineteenth catering,CO15 1AJ,51.7812,1.1344
 Beachdiner,CO15 1BW,51.7812,1.1413
 Sun Tong Restaurant,CO15 1HN,51.7921,1.1479
+Costa Coffee,CO15 1HX,51.7900,1.1457
 Papa John's Clacton on Sea,CO15 1JA,51.7894,1.1505
 Waffle On Clacton,CO15 1JA,51.7894,1.1505
 The Haven Residential Care Home Ltd,CO15 1JN,51.7875,1.1509
@@ -67,14 +72,16 @@ T/A Tracys cafe bistro,CO15 1PQ,51.7888,1.1539
 Armstrongs at the Pavilion,CO15 1PS,51.7880,1.1558
 Playas at the Pavilion,CO15 1PS,51.7880,1.1558
 MY BIG FAT GREEK TAVERNA,CO15 1PU,51.7878,1.1543
+Moon and Starfish ClactononSea (Wetherspoon),CO15 1PU,51.7876,1.1543
 Franco's Italian,CO15 1PX,51.7883,1.1548
 Charnallies Restaurant and Bar,CO15 1QB,51.7878,1.1531
 Coffeelink ,CO15 1QE,51.7892,1.1515
 Clacton High Street McDonalds,CO15 1QN,51.7887,1.1529
-McDonalds,CO15 1QN,51.7887,1.1529
+Costa Coffee,CO15 1QN,51.7893,1.1522
 Taste,CO15 1QR,51.7885,1.1523
 Clacton Pier,CO15 1QX,51.7844,1.1572
 Jolly Roger Restaurant,CO15 1QX,51.7864,1.1546
+Thyme,CO15 1RD,51.7873,1.1525
 Blackrock Restaurant Ltd,CO15 1RH,51.7874,1.1534
 El Guaca Mexican Grill,CO15 1RH,51.7874,1.1533
 Tom Peppers,CO15 1RH,51.7874,1.1533
@@ -84,14 +91,13 @@ Greensward Cafe Ltd,CO15 1XB,51.7823,1.1440
 Pizza Hut,CO15 3AT,51.7947,1.1480
 eat one 8 one,CO15 3AU,51.7955,1.1484
 Mad hatters cafe ,CO15 3QL,51.7972,1.1506
-Elior UK,CO15 3TP,51.8121,1.1473
-KFC (Brook Retail Park),CO15 3TP,51.8121,1.1473
 KFC Clacton,CO15 3TP,51.8121,1.1474
-Pizza Hut,CO15 3TP,51.8121,1.1473
+KFC,CO15 3TP,51.8121,1.1474
 The Ship,CO15 4AR,51.8037,1.1566
+McDonald's,CO15 4EF,51.8105,1.1440
 SAFFRON INDIAN RESTAURANT ,CO15 4QH,51.8064,1.1559
 Village Cafe,CO15 4QH,51.8064,1.1559
-Burger King,CO15 4TL,51.8186,1.1673
+Costa Coffee,CO15 4TL,51.8183,1.1671
 Subway,CO15 4TL,51.8185,1.1684
 Kingscliff Hotel,CO15 5JB,51.7979,1.1830
 The vintage tea room,CO15 5UL,51.8031,1.1834
@@ -110,7 +116,8 @@ Clacton Brook Retail Park McDonalds,CO16 8FZ,51.7998,1.1586
 Dukes Tearoom and Bistro,CO16 8PA,51.7995,1.0787
 The Red Lion - Pub & Restaurant,CO16 8PA,51.7995,1.0787
 balti house indian cuisine,CO16 8RP,51.7985,1.0781
-McDonalds,CO16 9AD,51.8588,1.1020
+Table Table Bowling Green,CO16 9AA,51.8588,1.1020
+McDonald's,CO16 9AD,51.8595,1.1040
 Weeley McDonalds,CO16 9AD,51.8588,1.1020
 Floral Days Cafe,CO16 9DN,51.8489,1.1186
 The Black Boy,CO16 9JJ,51.8589,1.1171
@@ -129,14 +136,14 @@ Edwards & Blake Elior At Trimley St Mary CP School,IP11 0ST,51.9798,1.3201
 Mariners Freehouse,IP11 0TN,51.9847,1.3137
 Boardwalk Cafe Bar,IP11 2AB,51.9580,1.3464
 Alba Chiara,IP11 2AF,51.9592,1.3481
+Thyme,IP11 2AN,51.9584,1.3426
 STEAK LOBSTER & CO LIMITED,IP11 2AQ,51.9601,1.3513
 147 Club/Felixstowe Snooker Club,IP11 2DH,51.9536,1.3399
 Beach Bites FXT,IP11 2DR,51.9519,1.3367
 The Dolphin Hotel,IP11 2EY,51.9526,1.3349
-Felixstowe Beach Park Holidays UK,IP11 2HA,51.9548,1.3331
-McDonalds,IP11 2HA,51.9548,1.3331
 The Laydens,IP11 2NA,51.9665,1.3344
 Saltwater fish and chips,IP11 2QN,51.9529,1.3393
+McDonald's,IP11 2QX,51.9563,1.3282
 McDonalds,IP11 2QX,51.9565,1.3302
 The Dooley Inn,IP11 3QX,51.9599,1.3166
 VIEWPOINT CAFE,IP11 3TW,51.9389,1.3211
@@ -146,11 +153,9 @@ Costa Coffee,IP11 7AF,51.9632,1.3518
 SUBWAY,IP11 7AF,51.9632,1.3518
 The cafe on the corner ,IP11 7AU,51.9609,1.3514
 Blue Naan ,IP11 7AX,51.9610,1.3508
-Caffe Nero,IP11 7BE,51.9629,1.3511
 Wimpy,IP11 7BE,51.9629,1.3511
 Palace Cinema Felixstowe,IP11 7BG,51.9634,1.3518
 BLUE AND BERRY CAFE,IP11 7BL,51.9646,1.3517
-Prezzo,IP11 7BN,51.9650,1.3518
 Liman Ltd,IP11 7DB,51.9613,1.3506
 Ruby’s ,IP11 7DG,51.9602,1.3511
 The Grand,IP11 7DG,51.9602,1.3511

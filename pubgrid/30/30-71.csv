@@ -7,14 +7,13 @@ THE LOBSTER SHACK,CT5 1AB,51.3633,1.0261
 THE OYSTER SHED,CT5 1AB,51.3633,1.0261
 The Harbour Garden Cafe,CT5 1AB,51.3633,1.0261
 Cafe Revival at the Horsebridge,CT5 1AF,51.3607,1.0235
-Zizzi,CT5 1AF,51.3604,1.0237
 Cafe and Kitchen,CT5 1AG,51.3617,1.0254
 ELLIOTTS,CT5 1AG,51.3619,1.0254
 Quayside,CT5 1AG,51.3618,1.0258
 birdies restaurant,CT5 1AH,51.3607,1.0248
 Shapla tandoori whitstable ltd ,CT5 1AJ,51.3604,1.0245
+Costa Coffee,CT5 1AP,51.3600,1.0244
 Farm & Harper ,CT5 1AP,51.3595,1.0245
-Prezzo,CT5 1AP,51.3600,1.0252
 Whitstable coffee company ,CT5 1AP,51.3592,1.0246
 The ship centurion,CT5 1AY,51.3573,1.0249
 Clive Russell T/A Smack Inn,CT5 1BJ,51.3593,1.0235
@@ -25,11 +24,11 @@ Pearson's Arms,CT5 1BT,51.3605,1.0232
 THE FORGE,CT5 1BX,51.3618,1.0241
 Garage Coffee,CT5 1DB,51.3560,1.0244
 The Rock Lodge,CT5 1DB,51.3565,1.0246
+The Peter Cushing Whitstable (Wetherspoon),CT5 1DD,51.3565,1.0242
 Annie's bistro,CT5 1DG,51.3557,1.0242
 Windy Corner Stores & Cafe,CT5 1DZ,51.3575,1.0203
 Over The Moon ,CT5 1EB,51.3555,1.0228
 Clive Russell T/A New Inn,CT5 1HG,51.3616,1.0267
-Pizza Express,CT5 1HP,51.3610,1.0253
 Howards Kitchen,CT5 1JG,51.3585,1.0253
 Thirst Love Cafe ,CT5 1NA,51.3612,1.0295
 BUBBLE,CT5 2BP,51.3643,1.0321
@@ -37,8 +36,10 @@ HOTEL CONTINENTAL,CT5 2BP,51.3645,1.0325
 The beach cafe,CT5 2BP,51.3642,1.0318
 Waterfront lsf ltd,CT5 2BP,51.3643,1.0321
 Whitstable Castle Tearooms,CT5 2BW,51.3643,1.0348
+Beefeater Long Reach,CT5 3DB,51.3415,1.0199
 Maharani Restaurant ,ME10 1AP,51.3408,0.7320
 Sherlocks Cocktail Lounge Limited,ME10 1AW,51.3407,0.7327
+The Golden Hope Sittingbourne (Wetherspoon),ME10 1DR,51.3404,0.7322
 Beauty of Bath,ME10 1LH,51.3344,0.7195
 Marino fish restaurant ,ME10 1QA,51.3447,0.7102
 ANUKA CUISINE LTD,ME10 2AR,51.3492,0.7322
@@ -46,11 +47,10 @@ Three Hats,ME10 2AR,51.3492,0.7322
 Principals By CH&Co At Milton Court Primary School,ME10 2EE,51.3511,0.7338
 SUBWAY MILTON REGIS -BP,ME10 2LA,51.3470,0.7302
 Principals By CH&Co At Kemsley School,ME10 2RP,51.3633,0.7385
-KFC,ME10 2XD,51.3448,0.7350
-McDonalds,ME10 2XD,51.3448,0.7350
+KFC,ME10 2XD,51.3441,0.7342
+McDonald's,ME10 2XD,51.3439,0.7336
 P A Crocker Ltd t/a McDonalds,ME10 2XD,51.3448,0.7350
-Pizza Hut Restaurant,ME10 2XD,51.3448,0.7350
-Costa Coffee,ME10 3DL,51.3407,0.7356
+Costa Coffee,ME10 3DL,51.3410,0.7350
 Flower pride ltd T/A BENGAL SPICE,ME10 3DU,51.3412,0.7334
 Lang’s Bar & Cocktail Lounge,ME10 3DW,51.3414,0.7359
 THE FOUNTAIN OF ALE ,ME10 3ED,51.3420,0.7349
@@ -65,9 +65,7 @@ Principals By CH&Co At Meadowfield School,ME10 4NL,51.3338,0.7556
 Amalfi restaurant ,ME10 4PB,51.3401,0.7366
 Baileys Coffee Shop and Sandwich Bar,ME10 4PD,51.3397,0.7385
 Fireaway Pizza ,ME10 4PD,51.3398,0.7382
-Mecca Bingo And Social Club,ME10 4PG,51.3397,0.7402
 Starbucks Sittingbourne,ME10 4PH,51.3404,0.7350
-Starbucks,ME10 4PH,51.3404,0.7350
 Principals By CH&Co At Highsted School,ME10 4PT,51.3337,0.7373
 Bgs cafe and restaurant ,ME10 4RT,51.3388,0.7428
 Empress of India,ME10 4RT,51.3388,0.7428
@@ -87,19 +85,20 @@ Principals By CH&Co At Luddenham CP School,ME13 0TE,51.3262,0.8600
 China Village,ME13 7AG,51.3160,0.8909
 The bear inn,ME13 7AG,51.3160,0.8909
 Fays Place,ME13 7AL,51.3162,0.8917
+Costa Coffee,ME13 7AS,51.3167,0.8934
 Papa Bianco Ltd ,ME13 7BS,51.3207,0.8971
 Standard Quay Tearoom Ltd,ME13 7BS,51.3207,0.8971
 THE RAJ INDIAN CUISINE,ME13 7JB,51.3163,0.8899
 The Refinery Faversham,ME13 7JB,51.3158,0.8907
 Posillipo at Acqua Limited,ME13 7LD,51.3188,0.8924
 Principals By CH&Co At Bysing Wood County Primary School,ME13 7NU,51.3186,0.8721
-Baxterstorey (Staff Canteen),ME13 7TW,51.3276,0.8794
 Wild Bread Bakehouse,ME13 8GE,51.3111,0.8983
 cosgroves,ME13 8NS,51.3147,0.8918
 Spice lounge,ME13 8NU,51.3147,0.8912
 The Yard,ME13 8NY,51.3146,0.8918
 Jittermugs ,ME13 8NZ,51.3138,0.8914
 Pipsquid Ltd,ME13 8NZ,51.3139,0.8912
+The Leading Light Faversham (Wetherspoon),ME13 8NZ,51.3138,0.8911
 Prince Of India ,ME13 8PA,51.3140,0.8909
 THE RAILWAY HOTEL,ME13 8PE,51.3130,0.8907
 The Ship Inn,ME13 8TL,51.3117,0.8738
@@ -109,7 +108,7 @@ The courtyard restaurant brogdale ltd,ME13 8XZ,51.3003,0.8769
 White Horse Inn,ME13 9AL,51.2968,0.9497
 The Queens Head ,ME13 9BH,51.2966,0.9496
 COSTA COFFEE - THANET WAY ,ME13 9EL,51.3264,0.9871
-Costa Coffee (London Bound),ME13 9EL,51.3264,0.9871
+Costa Coffee,ME13 9EL,51.3259,0.9884
 Faversham Starbucks,ME13 9EL,51.3264,0.9871
 Subway,ME13 9EL,51.3254,0.9874
 Principals By CH&Co At Hernhill C Of E Primary School,ME13 9JG,51.3150,0.9645
@@ -149,7 +148,8 @@ The Sun Inn,ME9 8EY,51.3099,0.6953
 The maypole inn,ME9 8JN,51.3346,0.7018
 Oad Street food and crafts,ME9 8LB,51.3276,0.6835
 The Hub,ME9 8PX,51.3134,0.7268
-McDonalds,ME9 8RZ,51.3513,0.7069
+Brewers Fayre Bobbing Apple,ME9 8RZ,51.3513,0.7070
+McDonald's,ME9 8RZ,51.3518,0.7077
 P A Crocker Ltd t/a McDonalds,ME9 8RZ,51.3513,0.7069
 The Woolpack,ME9 8SH,51.3785,0.7298
 The Mews Brewhouse,ME9 8UW,51.3777,0.7292
@@ -166,6 +166,7 @@ Wheel Inn,TN25 4LQ,51.1905,0.8455
 The Wife of Bath,TN25 5AF,51.1823,0.9370
 The Kings Head,TN25 5BN,51.1832,0.9369
 The Tickled Trout in Wye,TN25 5EB,51.1850,0.9293
+Beefeater The Woolpack,TN26 1AP,51.1848,0.8175
 Holiday Inn Ashford North,TN26 1AR,51.1878,0.8124
 the red lion,TN27 0AU,51.2095,0.7608
 The Bowl Inn,TN27 0HG,51.2270,0.7987

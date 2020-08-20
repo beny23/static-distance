@@ -1,12 +1,11 @@
 name,postcode,lat,lon
 Colchester High Street McDonalds,CO1 1DH,51.8895,0.9007
 Love Thy Burger,CO1 1DH,51.8895,0.9007
-Mcdonalds Restaurants Ltd,CO1 1DH,51.8895,0.9007
 Preto,CO1 1DH,51.8895,0.9007
 Brook Red Lion Hotel ,CO1 1DJ,51.8894,0.9003
 KASPAS DESSERTS COLCHESTER,CO1 1DN,51.8894,0.9027
 Three Wise Monkeys Colchester,CO1 1DN,51.8894,0.9027
-Prezzo,CO1 1LD,51.8892,0.9039
+Thyme,CO1 1HY,51.8930,0.9002
 Triple TWo Coffee,CO1 1LH,51.8889,0.9023
 Aburi restaurant LTD.,CO1 1LN,51.8879,0.9029
 Jacquelines tearoom,CO1 1LN,51.8879,0.9029
@@ -15,7 +14,7 @@ Chicago Cafe,CO1 1LS,51.8879,0.9007
 Small Talk Tearooms,CO1 1LS,51.8879,0.9007
 The Purple Dog Pub ,CO1 1LS,51.8879,0.9007
 Wild at Spirit,CO1 1LS,51.8879,0.9007
-Costa Coffee,CO1 1LX,51.8883,0.9007
+Costa Coffee,CO1 1LX,51.8885,0.9008
 Tanbell Ltd ,CO1 1LX,51.8883,0.9006
 Wimpy,CO1 1TB,51.8899,0.9016
 MAHARANI INDIAN RESTAURANT LTD,CO1 1TH,51.8898,0.9026
@@ -25,9 +24,9 @@ Mamma Mia Restaurant and Pizzeria(Colchester),CO1 1TN,51.8899,0.9024
 Sip & Tuck,CO1 1UE,51.8897,0.9047
 GREYFRIARS COLCHESTER,CO1 1UG,51.8901,0.9053
 Putt in the  Park ,CO1 1UG,51.8901,0.9053
+McDonald's,CO1 1US,51.8974,0.9069
 The Foresters Arms,CO1 1UW,51.8917,0.9063
 MT COFFEE LTD T/A MUFFIN BREAK,CO1 1XJ,51.8887,0.9002
-Tenpin,CO1 1YH,51.8971,0.9045
 THE BAMBOO HOUSE,CO1 2AN,51.8830,0.9094
 Sushi n Sake,CO1 2HG,51.8808,0.9217
 Yak & Yeti Colchester,CO1 2JT,51.8858,0.9046
@@ -36,7 +35,7 @@ Curzon Colchester,CO1 2PH,51.8892,0.9045
 Kimchi House,CO1 2PJ,51.8890,0.9040
 DICE & A SLICE LTD,CO1 2PQ,51.8885,0.9039
 NAKA THAI,CO1 2QX,51.8898,0.9104
-Costa Coffee,CO1 2TE,51.8852,0.9296
+Costa Coffee,CO1 2TE,51.8851,0.9304
 Rollerworld Ltd,CO1 2TJ,51.8882,0.9201
 The Old Siege House Bar and Brasserie,CO1 2TS,51.8903,0.9165
 ROSE AND CROWN HOTEL,CO1 2TZ,51.8907,0.9183
@@ -54,12 +53,15 @@ The Alma Inn and Dining Rooms,CO12 3EE,51.9473,1.2863
 The New Bell Inn,CO12 3EN,51.9472,1.2889
 Thai up at the Quay,CO12 3EZ,51.9474,1.2868
 The Pier at Harwich,CO12 3HH,51.9479,1.2865
+The Bottle Kiln Harwich (Wetherspoon),CO12 3JR,51.9364,1.2811
 The Tower Hotel (Dovercourt) Limited,CO12 3PJ,51.9364,1.2758
 Dovercourt Skate Rink,CO12 3ST,51.9270,1.2700
-Costa Coffee,CO12 4EN,51.9410,1.2604
 Costa Coffee,CO12 4FE,51.9390,1.2642
+Costa Coffee,CO12 4FE,51.9412,1.2581
 Harwich McDonalds,CO12 4GA,51.9393,1.2599
+McDonald's,CO12 4GA,51.9393,1.2600
 Shadowcat Coffee Shop,CO12 4HT,51.9333,1.2571
+Brewers Fayre The Mayflower,CO12 4NX,51.9392,1.2582
 Fryatts Hotel & Bar,CO12 4PA,51.9430,1.2559
 Skippers Fish & Chips,CO12 4PB,51.9425,1.2538
 STENA BRITANNICA,CO12 4SX,51.9474,1.2555
@@ -70,18 +72,17 @@ The Red Lion,CO13 0EF,51.8539,1.2206
 Marina Functions Ltd,CO14 8SL,51.8630,1.2583
 The Bell Inn Bistro,CO16 0DY,51.8571,1.1630
 The Rose & Crown,CO16 0EF,51.8593,1.1599
-McDonalds,CO16 9AD,51.8588,1.1020
+Table Table Bowling Green,CO16 9AA,51.8588,1.1020
+McDonald's,CO16 9AD,51.8595,1.1040
 Weeley McDonalds,CO16 9AD,51.8588,1.1020
 The Black Boy,CO16 9JJ,51.8589,1.1171
 Homestead Cabin,CO16 9JN,51.8599,1.1205
 Tokyo Sizzle,CO2 7DA,51.8877,0.9000
 SONS WAY LIMITED,CO2 7DB,51.8874,0.9002
-Buzz Bingo,CO2 7DP,51.8871,0.9021
 L'Patisserie,CO2 7EA,51.8871,0.9038
 Britannia Gurkha Restaurant & Sport Bar,CO2 7QY,51.8791,0.9035
 SUBWAY ,CO2 8FR,51.8798,0.9316
 Pizza Hut Colchester South,CO2 8FU,51.8797,0.9273
-Pizza Hut,CO2 8FU,51.8797,0.9273
 Bambu,CO2 8GN,51.8792,0.9305
 the eat inn diner,CO2 8HG,51.8744,0.9276
 Colchester Kawasaki Race Cafe,CO2 8HH,51.8743,0.9310
@@ -92,13 +93,13 @@ Wivenhoe House Hotel Limited,CO4 3FA,51.8948,0.9445
 Greenstead Social Club,CO4 3QD,51.8898,0.9353
 Filling station cafe,CO4 3QE,51.8914,0.9369
 Fillpots Garden Centre LLP,CO4 5RB,51.9400,0.9039
-Costa Coffee,CO4 5TU,51.9016,0.9010
-Pizza Hut,CO4 5TU,51.9016,0.9010
+Costa Coffee,CO4 5TU,51.9011,0.9007
 SUBWAY ,CO4 5TU,51.9016,0.9022
 The Oak Tree Coffee House,CO4 9BB,51.9106,0.9187
 KFC Ardleigh,CO4 9HB,51.9176,0.9315
+KFC,CO4 9HB,51.9182,0.9324
 CHEFS EATING HOUSE LTD,CO4 9HT,51.9201,0.9270
-Elior (at Linklaters),CO4 9YQ,51.9237,0.9214
+Table Table Balkerne Gate,CO4 9WP,51.9197,0.9325
 Mimosa Restaurant,CO4 9YQ,51.9237,0.9214
 Jam jar ,CO5 7EA,51.8564,0.9469
 The Anchor Rowhedge,CO5 7ES,51.8561,0.9486
@@ -122,15 +123,11 @@ The Plough,CO7 8LA,51.8521,1.0646
 The Bricklayers Arms,CO7 8SL,51.8902,1.0726
 THE BLACK BUOY TRADING COMPANY LIMITED,CO7 9BS,51.8546,0.9601
 The Horse and Groom,CO7 9QL,51.8665,0.9622
-ASK Italian,IP1 1AX,52.0532,1.1510
 KFC Ipswich - Cardinal Park,IP1 1AX,52.0533,1.1507
-KFC,IP1 1AX,52.0532,1.1510
-McDonalds,IP1 1AX,52.0532,1.1510
-Nando's Chicken Restaurant,IP1 1AX,52.0532,1.1510
+KFC,IP1 1AX,52.0535,1.1484
+Nando's,IP1 1AX,52.0532,1.1507
 SUBWAY CARDINAL PARK,IP1 1AX,52.0533,1.1507
 Blends Coffee House,IP1 1BJ,52.0572,1.1556
-Patisserie Valerie,IP1 1BQ,52.0573,1.1540
-Caffe Nero,IP1 1BT,52.0569,1.1558
 MIZU IPSWICH LTD,IP1 1DB,52.0578,1.1521
 Coffee Cat Town Hall Ipswich,IP1 1DH,52.0577,1.1524
 Pickwicks Coffee & Tea House Ltd,IP1 1DJ,52.0573,1.1547
@@ -139,52 +136,48 @@ JaCeys coffee house,IP1 1DP,52.0566,1.1552
 Ipswich Central Conservative Club,IP1 1DR,52.0567,1.1557
 Burger Priest Ipswich,IP1 1DT,52.0568,1.1539
 Creams Cafe Ipswich,IP1 1DT,52.0568,1.1539
-Prezzo,IP1 1DT,52.0568,1.1539
 Superbowl UK Ipswich ltd,IP1 1DT,52.0568,1.1539
-Wagamama,IP1 1DT,52.0568,1.1539
 fishface,IP1 1EA,52.0575,1.1538
 Providence Cafe,IP1 1QJ,52.0538,1.1472
 Press Start Gaming Lounge,IP1 1QT,52.0569,1.1517
 LANTERNS,IP1 1SL,52.0559,1.1532
 Subway Queen Street ,IP1 1SS,52.0567,1.1523
-Costa Coffee,IP1 1SW,52.0566,1.1528
+Costa Coffee,IP1 1SW,52.0571,1.1532
 The Central Canteen ,IP1 1SW,52.0566,1.1528
-Compass Group - Willis,IP1 1TD,52.0557,1.1519
 Kwan Thai (Ipswich) Ltd,IP1 1TJ,52.0557,1.1524
 At Twenty Five,IP1 1TW,52.0551,1.1528
 Trongs ,IP1 1TW,52.0551,1.1528
 Zaika Indian Cuisine ,IP1 1TW,52.0551,1.1528
+McDonald's,IP1 1UZ,52.0527,1.1501
 McDonalds,IP1 1UZ,52.0519,1.1467
 Tavernetta Italian Restaurant,IP1 1XB,52.0542,1.1529
 Applaud Coffee ,IP1 1XF,52.0543,1.1534
 On The Huh,IP1 1XF,52.0546,1.1533
 Ipswich council  ,IP1 2DE,52.0536,1.1432
-Burger King,IP1 2DZ,52.0570,1.1355
 KAYKEM FAST FOODS LIMITED,IP1 2DZ,52.0569,1.1355
 Starbucks,IP1 2DZ,52.0570,1.1355
 Pizza Hut,IP1 2EP,52.0613,1.1431
 Turkish Delight Ipswich,IP1 2ET,52.0609,1.1448
 MAHARANI INDIAN AND BANGLADESHI CUISINE,IP1 2NJ,52.0612,1.1446
+McDonald's,IP1 3AG,52.0578,1.1554
 McDonalds,IP1 3AG,52.0577,1.1557
 Chopstix ,IP1 3BB,52.0585,1.1540
 SUBWAY SAILMAKERS,IP1 3BB,52.0588,1.1544
 Ipswich & Suffolk Club,IP1 3BX,52.0588,1.1560
 Willy's and Milly's,IP1 3BZ,52.0579,1.1564
-Caffe Nero,IP1 3DR,52.0582,1.1514
 German Doner Kebab Ipswich,IP1 3DX,52.0585,1.1504
 Love Thy Burger,IP1 3ED,52.0588,1.1506
-Burger King,IP1 3EE,52.0587,1.1509
+Costa Coffee,IP1 3EH,52.0586,1.1526
 STAR EXPRESS CAFE AND RESTURENT ,IP1 3EL,52.0592,1.1484
 My Chinese Restaurant ,IP1 3EW,52.0599,1.1469
 Hank's Dirty,IP1 3HD,52.0586,1.1533
-Pizza Express,IP1 3HD,52.0586,1.1533
 Three Wise Monkeys Ipswich,IP1 3HD,52.0586,1.1534
 Club 3000 Bingo Ipswich,IP1 3HT,52.0590,1.1530
+The Cricketers Ipswich (Wetherspoon),IP1 3JA,52.0596,1.1546
 The Arbor House,IP1 3QL,52.0617,1.1513
 The Greyhound ,IP1 3SE,52.0629,1.1512
 Rosary Conservative Club,IP1 4AB,52.0639,1.1356
 Waterfall Elior At Bucklesham Primary School,IP10 0AX,52.0295,1.2799
-Miller & Carter Steakhouse,IP10 0DF,52.0290,1.2273
 The Shannon Inn,IP10 0DR,52.0305,1.2685
 Priory Park Clubhouse,IP10 0JT,52.0188,1.1930
 The Ship Inn,IP10 0LQ,52.0046,1.2546
@@ -192,15 +185,14 @@ Fresh look catering,IP10 0NE,52.0121,1.2601
 The Trimley Sports and Social Club LTD,IP11 0RJ,51.9896,1.3088
 Goslings farm cafe,IP11 0SG,51.9942,1.3043
 BLACK TILES PUB COMPANY LIMITED,IP12 4SP,52.0711,1.2727
+McDonald's,IP2 0AP,52.0564,1.1323
 McDonalds,IP2 0AP,52.0564,1.1323
-Mcdonalds Drive In Restaurant,IP2 0AP,52.0564,1.1323
-Buzz Bingo,IP2 0AQ,52.0551,1.1349
 The Place to Eat Ipswich,IP2 0AQ,52.0550,1.1352
 JACKS CAFE,IP2 0EB,52.0581,1.1326
-Kew Green Hotels at Holiday Inn,IP2 0UA,52.0464,1.1049
 Coffeelink ,IP2 8AL,52.0507,1.1442
 Starbucks,IP2 8AL,52.0507,1.1442
 Steamboat Tavern,IP2 8HW,52.0491,1.1589
+Beefeater Oyster Reach,IP2 8ND,52.0331,1.1501
 Suffolk Ski Centre T/A The Lodge,IP2 8NQ,52.0317,1.1488
 Pauls Sports and Social Club Ltd,IP2 9BA,52.0463,1.1406
 Simply Ts Catering c/o Pauls Sports and Social Club,IP2 9BA,52.0463,1.1406
@@ -217,14 +209,15 @@ The Gardeners Arms & Venue 77,IP3 8AB,52.0514,1.1678
 Partyman World Ipswich,IP3 8AX,52.0517,1.1708
 Pizza Hut,IP3 8HN,52.0531,1.1747
 KFC Ipswich - Felixstowe Road,IP3 8SU,52.0415,1.1977
-KFC,IP3 8SU,52.0415,1.1977
 Rendezvous Coffee Shop Limited,IP3 9EX,52.0411,1.1899
 Suffolk Catering Ltd,IP3 9EX,52.0410,1.1899
 The Golden Hind,IP3 9NF,52.0362,1.1901
+McDonald's,IP3 9QJ,52.0300,1.2012
 McDonalds,IP3 9QJ,52.0305,1.1993
 HALF MOON FOODS LTD,IP3 9SJ,52.0265,1.2138
-Burger King,IP3 9SN,52.0334,1.2073
-Nando's,IP3 9SN,52.0334,1.2073
+Burger King,IP3 9SN,52.0330,1.2049
+Costa Coffee,IP3 9SR,52.0333,1.2018
+Brewers Fayre Swallow,IP3 9SS,52.0269,1.2063
 Clip 'n Climb Ipswich,IP3 9ST,52.0279,1.2187
 Isaacs on the Quay,IP4 1AS,52.0528,1.1602
 bistro on the quay,IP4 1AS,52.0528,1.1602
@@ -235,11 +228,11 @@ Salt n pepper bistro cafe ,IP4 1BA,52.0556,1.1575
 The Bloom Lounge,IP4 1BA,52.0557,1.1577
 Bangkok Heightz ,IP4 1BB,52.0553,1.1590
 The Dhaka Restaurant,IP4 1BB,52.0553,1.1590
+Thyme,IP4 1BZ,52.0531,1.1583
 Kaspas Desserts Ipswich,IP4 1DR,52.0561,1.1560
 Cafe at the DanceHouse,IP4 1DW,52.0525,1.1554
-Costa Coffee,IP4 1EJ,52.0575,1.1570
+Costa Coffee,IP4 1EJ,52.0576,1.1565
 Papa Panda,IP4 1EW,52.0571,1.1589
-Pizza Express,IP4 1FH,52.0527,1.1583
 The Waterfront Bistro ,IP4 1FH,52.0527,1.1583
 WiffWaff,IP4 1FH,52.0525,1.1579
 Cafe 43,IP4 1HA,52.0576,1.1576
@@ -262,14 +255,13 @@ Waterfall Elior,IP4 2LT,52.0575,1.1654
 The Duke of York,IP4 2QP,52.0594,1.1693
 The Woolpack Inn,IP4 2SH,52.0623,1.1603
 Ottoman Restaurant,IP4 4PS,52.0612,1.1855
-Costa Coffee - (Eurest. South Wards),IP4 5PD,52.0569,1.1979
+Costa Coffee,IP4 5PD,52.0562,1.1981
 Ipswich Hospital NHS Trust,IP4 5PD,52.0568,1.1979
 Milsoms Kesgrave Hall,IP5 2PU,52.0710,1.2567
-Compass Group - Staff Restaurant At Suffolk Police HQ,IP5 3QS,52.0671,1.2694
 KFC Ipswich - Martlesham Heath,IP5 3RA,52.0652,1.2755
 KFC,IP5 3RA,52.0652,1.2755
 Play2Day Ipswich,IP5 3RJ,52.0610,1.2781
-Tenpin Ltd,IP5 3RJ,52.0611,1.2770
+Costa Coffee,IP5 3RX,52.0647,1.2761
 Tito's,IP7 5AG,52.0421,0.9548
 The George,IP7 5AU,52.0416,0.9573
 The Ram,IP7 5DL,52.0428,0.9540
@@ -282,15 +274,14 @@ Jet Lounge Ltd,IP7 5EJ,52.0459,0.9517
 The Marquis of Cornwallis,IP7 5JZ,52.0253,0.9681
 The Millers Kitchen Coffee Shop Kersey Mill,IP7 6DP,52.0616,0.9332
 The Bell Inn,IP7 6DY,52.0600,0.9163
+Breakfast Room,IP8 3AR,52.0509,1.0972
 The Brook Inn,IP8 3HR,52.0379,1.0872
 IPSWICH HOTEL,IP8 3JD,52.0295,1.0807
 Hintlesham Golf Club,IP8 3JG,52.0557,1.0370
 The George,IP8 3NH,52.0494,1.0449
 Hintlesham Hall Hotel Ltd,IP8 3NS,52.0536,1.0369
-Burger King,IP8 3TT,52.0412,1.0999
-Costa Coffee,IP8 3TT,52.0412,1.0999
+Costa Coffee,IP8 3TT,52.0411,1.0979
 KAYKEM FAST FOODS LIMITED,IP8 3TT,52.0410,1.0996
-Pizza Hut,IP8 3TT,52.0412,1.0999
 The Freston Boot,IP9 1AB,52.0122,1.1658
 LOCH & QUAY BAR & RESTAURANT,IP9 1AS,52.0067,1.1942
 Royal Harwich Yacht Club,IP9 1AT,52.0057,1.1976

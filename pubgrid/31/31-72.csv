@@ -1,29 +1,20 @@
 name,postcode,lat,lon
-McDonalds Restaurant Ltd,CT1 1AD,51.2925,1.1066
+McDonald's,CT1 1AD,51.2933,1.1075
 P A Crocker Ltd t/a McDonalds,CT1 1AD,51.2925,1.1066
 Alaturka Northgate ,CT1 1BH,51.2835,1.0861
-Starbucks Coffee Company,CT1 1BW,51.2848,1.0851
-Compass Group,CT1 1DG,51.2905,1.0969
+Costa Coffee,CT1 1DX,51.2906,1.1004
 ROYAL INN RESTAURANT,CT1 1PE,51.2778,1.0860
 Route 23,CT1 1RT,51.2744,1.1027
 Two Sawyers Ale House & Kitchen ,CT1 1TU,51.2769,1.0860
 Canterbury Golf Club Limited,CT1 1TW,51.2789,1.1125
+Thyme,CT1 1UP,51.2767,1.0842
 The Hub Cafe  Canterbury,CT1 1UT,51.2766,1.0858
-KFC Restaurant,CT1 1ZG,51.2931,1.1037
 Dolphin,CT1 2AA,51.2827,1.0817
 Kitch,CT1 2AT,51.2802,1.0783
 The Old Weavers Restaurant ,CT1 2AT,51.2804,1.0780
-Wildwood Restaurant,CT1 2AT,51.2804,1.0780
-Ask Italian,CT1 2AY,51.2801,1.0786
-Patisserie Valerie,CT1 2AY,51.2800,1.0788
-Prezzo,CT1 2BA,51.2797,1.0785
-Gourmet Burger Kitchen,CT1 2BE,51.2805,1.0774
 MARLOWE'S RESTAURANT,CT1 2BE,51.2802,1.0778
 MY CAFE CANTERBURY,CT1 2BE,51.2803,1.0775
-Zizzi,CT1 2BE,51.2803,1.0776
 Cafe St. Pierre,CT1 2BG,51.2809,1.0767
-Five Guys,CT1 2BG,51.2805,1.0771
-Nando's,CT1 2BG,51.2806,1.0771
 Tacos locos Canterbury ,CT1 2BG,51.2807,1.0770
 THE CRICKETERS,CT1 2BQ,51.2808,1.0774
 The Lady Luck,CT1 2BQ,51.2810,1.0773
@@ -39,6 +30,7 @@ Canterbury Cathedral Lodge,CT1 2EH,51.2788,1.0835
 Warrens Bakery,CT1 2HA,51.2792,1.0815
 Chapter,CT1 2HG,51.2784,1.0837
 The Privy bar,CT1 2HG,51.2785,1.0834
+The Thomas Ingoldsby Canterbury (Wetherspoon),CT1 2HG,51.2783,1.0843
 The Veg Box Cafe,CT1 2HG,51.2787,1.0831
 CHOM CHOM CANTERBURY LIMITED,CT1 2HH,51.2776,1.0836
 The Moat Tea Rooms,CT1 2HJ,51.2781,1.0842
@@ -48,34 +40,30 @@ Drapers Arms,CT1 2HX,51.2796,1.0810
 Garage Coffee,CT1 2HX,51.2796,1.0810
 Pork & Co,CT1 2HX,51.2796,1.0810
 Olive Grove,CT1 2JB,51.2803,1.0793
-Pizza Express,CT1 2JB,51.2804,1.0795
+Costa Coffee,CT1 2JE,51.2793,1.0798
 KOKORO,CT1 2JE,51.2796,1.0795
 KASPAS DESSERTS - CANTERBURY,CT1 2JH,51.2790,1.0804
 Queen bee home,CT1 2JJ,51.2789,1.0809
-Pret A Manger,CT1 2JL,51.2787,1.0810
+Pret A Manger,CT1 2JL,51.2788,1.0807
 Oscar & Bentleys Ltd,CT1 2JQ,51.2795,1.0800
 Cafe Mauresque,CT1 2JR,51.2787,1.0813
 Lazix,CT1 2JR,51.2786,1.0815
 SAKDA SUNTHORNSARATHUN,CT1 2JR,51.2787,1.0814
-Wagamama,CT1 2JS,51.2786,1.0819
-Starbucks Coffee,CT1 2JT,51.2781,1.0820
-Burger King,CT1 2LE,51.2776,1.0829
-Caffe Nero,CT1 2LE,51.2775,1.0829
-KFC,CT1 2LE,51.2775,1.0831
+Burger King,CT1 2LE,51.2774,1.0831
+KFC,CT1 2LE,51.2776,1.0829
 Fond Coffee,CT1 2NP,51.2787,1.0782
 The Foundry,CT1 2NR,51.2788,1.0782
 saffron cafe,CT1 2QF,51.2770,1.0774
 Don Juan,CT1 2QU,51.2759,1.0776
 The County Hotel Canterbury Limited t/a ABode Canterbury,CT1 2RX,51.2793,1.0785
-Pizza Hut Restaurant,CT1 2RY,51.2790,1.0792
-Caffe Nero,CT1 2SA,51.2789,1.0798
 Love Brownies,CT1 2SJ,51.2778,1.0809
-McDonalds Restaurants Limited,CT1 2SR,51.2775,1.0820
+McDonald's,CT1 2SS,51.2776,1.0820
 P A Crocker Ltd t/a McDonalds,CT1 2SS,51.2774,1.0820
 The Eatery,CT1 2TB,51.2771,1.0826
 Real Eating Company Ltd,CT1 2TD,51.2771,1.0814
 Tiny Tim's Tearoom,CT1 2TG,51.2781,1.0795
 Haberdashers Kitchen,CT1 2TH,51.2784,1.0803
+Costa Coffee,CT1 2TJ,51.2777,1.0804
 Stag Coffee and Kitchen,CT1 2TJ,51.2779,1.0796
 MICRO ROASTERY COFFEE HOUSE,CT1 2TP,51.2775,1.0790
 Pizza Hut,CT1 3AS,51.2752,1.0877
@@ -94,8 +82,8 @@ Kathton House,CT2 0BD,51.3004,1.1217
 The George & Dragon,CT2 0DB,51.2957,1.1262
 The Old Yew Tree ,CT2 0HH,51.3061,1.1463
 Two smoking barrels ,CT2 0NG,51.3022,1.1201
+The West Gate Inn Canterbury (Wetherspoon),CT2 7EB,51.2821,1.0756
 The Ancient Raj,CT2 7EE,51.2831,1.0772
-Caffe Nero,CT2 7UG,51.2963,1.0677
 Cafe des Amis du Mexique Ltd,CT2 8AD,51.2819,1.0745
 Chapmans Restaurant Ltd,CT2 8AD,51.2817,1.0750
 Golden Kitchen,CT2 8AD,51.2819,1.0745
@@ -126,14 +114,13 @@ THE LOBSTER SHACK,CT5 1AB,51.3633,1.0261
 THE OYSTER SHED,CT5 1AB,51.3633,1.0261
 The Harbour Garden Cafe,CT5 1AB,51.3633,1.0261
 Cafe Revival at the Horsebridge,CT5 1AF,51.3607,1.0235
-Zizzi,CT5 1AF,51.3604,1.0237
 Cafe and Kitchen,CT5 1AG,51.3617,1.0254
 ELLIOTTS,CT5 1AG,51.3619,1.0254
 Quayside,CT5 1AG,51.3618,1.0258
 birdies restaurant,CT5 1AH,51.3607,1.0248
 Shapla tandoori whitstable ltd ,CT5 1AJ,51.3604,1.0245
+Costa Coffee,CT5 1AP,51.3600,1.0244
 Farm & Harper ,CT5 1AP,51.3595,1.0245
-Prezzo,CT5 1AP,51.3600,1.0252
 Whitstable coffee company ,CT5 1AP,51.3592,1.0246
 The ship centurion,CT5 1AY,51.3573,1.0249
 Clive Russell T/A Smack Inn,CT5 1BJ,51.3593,1.0235
@@ -144,11 +131,11 @@ Pearson's Arms,CT5 1BT,51.3605,1.0232
 THE FORGE,CT5 1BX,51.3618,1.0241
 Garage Coffee,CT5 1DB,51.3560,1.0244
 The Rock Lodge,CT5 1DB,51.3565,1.0246
+The Peter Cushing Whitstable (Wetherspoon),CT5 1DD,51.3565,1.0242
 Annie's bistro,CT5 1DG,51.3557,1.0242
 Windy Corner Stores & Cafe,CT5 1DZ,51.3575,1.0203
 Over The Moon ,CT5 1EB,51.3555,1.0228
 Clive Russell T/A New Inn,CT5 1HG,51.3616,1.0267
-Pizza Express,CT5 1HP,51.3610,1.0253
 Howards Kitchen,CT5 1JG,51.3585,1.0253
 Thirst Love Cafe ,CT5 1NA,51.3612,1.0295
 The Monument ,CT5 1PH,51.3564,1.0403
@@ -158,9 +145,10 @@ HOTEL CONTINENTAL,CT5 2BP,51.3645,1.0325
 The beach cafe,CT5 2BP,51.3642,1.0318
 Waterfront lsf ltd,CT5 2BP,51.3643,1.0321
 Whitstable Castle Tearooms,CT5 2BW,51.3643,1.0348
+Beefeater Long Reach,CT5 3DB,51.3415,1.0199
 Hillview Bed and Breakfast,CT5 3EA,51.3484,1.0460
-KFC,CT5 3JE,51.3596,1.0638
-McDonalds Restaurant,CT5 3JE,51.3596,1.0638
+KFC,CT5 3JE,51.3597,1.0647
+McDonald's,CT5 3JE,51.3597,1.0637
 P A Crocker Ltd t/a McDonalds,CT5 3JE,51.3596,1.0638
 Riverside Cafe,CT5 3JQ,51.3583,1.0590
 The chestfield barn ,CT5 3LU,51.3510,1.0655
@@ -178,6 +166,7 @@ ALATURKA HERNE BAY LYD LTD,CT6 5JG,51.3728,1.1277
 Full Gaming Management Services Limited,CT6 5JJ,51.3724,1.1248
 Dre's Caribbean Kitchen,CT6 5JN,51.3718,1.1223
 Mushy Peas Limited,CT6 5JQ,51.3727,1.1262
+The Saxon Shore Herne Bay (Wetherspoon),CT6 5JQ,51.3727,1.1263
 Mettyears Day Spa & Salon,CT6 5LA,51.3714,1.1277
 The Vintage Empire ,CT6 5LE,51.3712,1.1261
 Oyster & Chop House,CT6 5LH,51.3710,1.1219
@@ -185,6 +174,7 @@ The Grapevine ,CT6 5LJ,51.3712,1.1215
 Toast Herne Bay Ltd,CT6 5PT,51.3697,1.1262
 Gandhi Tandoori,CT6 5QA,51.3705,1.1212
 The Heron,CT6 5QJ,51.3659,1.1199
+Table Table Herne Bay,CT6 6LA,51.3620,1.1458
 Canterbury Garden Centre,CT6 7LJ,51.3415,1.1258
 The Hampton Inn,CT6 8DL,51.3719,1.0992
 Tajmahal indian cuisine ,CT6 8QB,51.3684,1.1133
@@ -214,19 +204,20 @@ Principals By CH&Co At Luddenham CP School,ME13 0TE,51.3262,0.8600
 China Village,ME13 7AG,51.3160,0.8909
 The bear inn,ME13 7AG,51.3160,0.8909
 Fays Place,ME13 7AL,51.3162,0.8917
+Costa Coffee,ME13 7AS,51.3167,0.8934
 Papa Bianco Ltd ,ME13 7BS,51.3207,0.8971
 Standard Quay Tearoom Ltd,ME13 7BS,51.3207,0.8971
 THE RAJ INDIAN CUISINE,ME13 7JB,51.3163,0.8899
 The Refinery Faversham,ME13 7JB,51.3158,0.8907
 Posillipo at Acqua Limited,ME13 7LD,51.3188,0.8924
 Principals By CH&Co At Bysing Wood County Primary School,ME13 7NU,51.3186,0.8721
-Baxterstorey (Staff Canteen),ME13 7TW,51.3276,0.8794
 Wild Bread Bakehouse,ME13 8GE,51.3111,0.8983
 cosgroves,ME13 8NS,51.3147,0.8918
 Spice lounge,ME13 8NU,51.3147,0.8912
 The Yard,ME13 8NY,51.3146,0.8918
 Jittermugs ,ME13 8NZ,51.3138,0.8914
 Pipsquid Ltd,ME13 8NZ,51.3139,0.8912
+The Leading Light Faversham (Wetherspoon),ME13 8NZ,51.3138,0.8911
 Prince Of India ,ME13 8PA,51.3140,0.8909
 THE RAILWAY HOTEL,ME13 8PE,51.3130,0.8907
 The Ship Inn,ME13 8TL,51.3117,0.8738
@@ -236,7 +227,7 @@ The courtyard restaurant brogdale ltd,ME13 8XZ,51.3003,0.8769
 White Horse Inn,ME13 9AL,51.2968,0.9497
 The Queens Head ,ME13 9BH,51.2966,0.9496
 COSTA COFFEE - THANET WAY ,ME13 9EL,51.3264,0.9871
-Costa Coffee (London Bound),ME13 9EL,51.3264,0.9871
+Costa Coffee,ME13 9EL,51.3259,0.9884
 Faversham Starbucks,ME13 9EL,51.3264,0.9871
 Subway,ME13 9EL,51.3254,0.9874
 Principals By CH&Co At Hernhill C Of E Primary School,ME13 9JG,51.3150,0.9645

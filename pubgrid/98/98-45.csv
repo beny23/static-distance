@@ -4,18 +4,17 @@ cafe kitchen,DD4 6LD,56.4689,-2.9367
 tayview,DD4 6LD,56.4689,-2.9367
 Elior UK,DD4 7HS,56.4710,-2.9394
 Sunnys restaurant ,DD4 7JR,56.4695,-2.9356
-McDonalds,DD4 8JT,56.4770,-2.9263
+McDonald's,DD4 8JT,56.4771,-2.9280
 CJ Lang & Son Ltd,DD4 8JU,56.4778,-2.9262
-Mecca Bingo,DD4 8JX,56.4801,-2.9238
 KFC,DD4 8UD,56.4780,-2.8897
+KFC,DD4 8UD,56.4785,-2.8884
 Jessie's Kitchen,DD5 1AY,56.4706,-2.8830
 Gracies of broughty ferry,DD5 1DJ,56.4678,-2.8774
 Willows Coffee Shop,DD5 1DT,56.4673,-2.8767
 Collinsons Restaurant,DD5 1EN,56.4671,-2.8770
 The Fort Hotel & Bar,DD5 2AB,56.4663,-2.8764
-Caffe Nero,DD5 2AG,56.4673,-2.8747
 Subway,DD5 2AG,56.4674,-2.8754
-Costa Coffee,DD5 2AH,56.4670,-2.8744
+Costa Coffee,DD5 2AH,56.4670,-2.8746
 Forgan's Restaurant (Broughty Ferry),DD5 2AH,56.4670,-2.8744
 Mitchell's Broughty Ferry,DD5 2AH,56.4670,-2.8744
 Bruach Bar & Restaurant,DD5 2AN,56.4666,-2.8720
@@ -23,6 +22,7 @@ Papa Jacques,DD5 2AN,56.4666,-2.8720
 Doc Ferry's Bar,DD5 2AU,56.4670,-2.8752
 Doc Ferrys Bar,DD5 2AU,56.4670,-2.8752
 Bombay Joe's,DD5 2BJ,56.4659,-2.8739
+Jollys Hotel Broughty Ferry (Wetherspoon),DD5 2BJ,56.4661,-2.8743
 The Anchor Bar,DD5 2BJ,56.4662,-2.8733
 Goodfellow and Steven,DD5 2BQ,56.4667,-2.8736
 The Ship Inn,DD5 2BR,56.4650,-2.8754
@@ -33,8 +33,9 @@ The Royal Arch Bar,DD5 2DS,56.4669,-2.8716
 Gulistan House,DD5 2HN,56.4684,-2.8745
 Woodlands Hotel,DD5 2QL,56.4735,-2.8526
 Bowmans Coffee House,DD5 4AA,56.4818,-2.8183
+Brewers Fayre Monifieth Farm,DD5 4HB,56.4917,-2.8321
 MONIFIETH MCDONALDS,DD5 4HB,56.4919,-2.8314
-McDonalds Restaurants Ltd,DD5 4HB,56.4906,-2.8352
+McDonald's,DD5 4HB,56.4904,-2.8330
 Longparke Farmshop & Cafe,DD5 4HU,56.4897,-2.8401
 The Milton Inn,DD5 4LU,56.4810,-2.8342
 manna,DD6 8AF,56.4403,-2.9410
@@ -52,6 +53,7 @@ St Michaels Golf Club,KY16 0DX,56.3895,-2.8975
 Commercial Arms,KY16 0HE,56.3822,-2.8866
 Eden Coffee Shop ( Malcolm Antiques),KY16 0UD,56.3600,-2.8769
 The Garden Room at Rufflets,KY16 8EF,56.3318,-2.7975
+Thyme,KY16 8NH,56.3320,-2.8046
 Duke’s Clubhouse,KY16 8NS,56.3252,-2.8353
 KINGSBARNS GOLF LINKS,KY16 8QD,56.2924,-2.6539
 Maisha ,KY16 9AA,56.3409,-2.7949
@@ -73,29 +75,24 @@ The Cottage Kitchen,KY16 9NL,56.3400,-2.7964
 CAFE IN THE SQUARE ,KY16 9NN,56.3400,-2.7958
 Tulsi,KY16 9NT,56.3404,-2.7935
 CombiniCafé,KY16 9NU,56.3402,-2.7945
-Nando's,KY16 9NU,56.3402,-2.7945
 Blackhorn,KY16 9NW,56.3400,-2.7949
-Costa Coffee,KY16 9NX,56.3407,-2.7959
-Pret A Manger,KY16 9NX,56.3407,-2.7959
+Costa Coffee,KY16 9NX,56.3405,-2.7954
+Pret A Manger,KY16 9NX,56.3406,-2.7966
 Dr Noodles,KY16 9PA,56.3402,-2.7958
 JA Fife Ltd T/A Subway,KY16 9PA,56.3402,-2.7958
 Forgan's Restaurant,KY16 9PB,56.3402,-2.7968
 Mitchell's St Andrews,KY16 9PB,56.3402,-2.7968
 TAILEND RESTAURANT (ST ANDREWS) LIMITED,KY16 9PD,56.3401,-2.7976
-Starbucks Coffee Shop,KY16 9PE,56.3406,-2.7971
 Jahangir Balti and Tandoori Restaurant,KY16 9QD,56.3390,-2.7967
 CombiniCo ,KY16 9QW,56.3398,-2.7942
 The Criterion,KY16 9QW,56.3398,-2.7942
 Zest Cafe,KY16 9QW,56.3398,-2.7942
-Zizzi's,KY16 9QW,56.3398,-2.7942
 The Tavern at Strathkinness,KY16 9RS,56.3368,-2.8781
 Private Dining  Old Course Hotel,KY16 9SP,56.3441,-2.8112
 The Road Hole Restaurant,KY16 9SP,56.3441,-2.8112
 Next Door,KY16 9UH,56.3397,-2.7966
-Pizza Express,KY16 9UH,56.3397,-2.7968
 The Adamson restaurant and bar ,KY16 9UH,56.3397,-2.7968
 the vineleaf restaurant,KY16 9UN,56.3395,-2.7974
-Prezzo,KY16 9UP,56.3395,-2.7981
 Gorgeous St Andrews,KY16 9UR,56.3398,-2.7985
 MOZZA RESTAURANT,KY16 9UR,56.3398,-2.7985
 Aikman's Bar-Bistro,KY16 9UX,56.3396,-2.7988

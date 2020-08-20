@@ -2,7 +2,7 @@ name,postcode,lat,lon
 Dee Wai Tamu Pvt Ltd,BS10 5LW,51.4979,-2.5967
 Dee Wai Thai & Chinese Restaurant ,BS10 5LW,51.4979,-2.5967
 New Balti King Restaurant,BS10 5LZ,51.5008,-2.5930
-Costa Coffee 86084 & 86086,BS10 5NB,51.4973,-2.5930
+Costa Coffee,BS10 5NB,51.4957,-2.5913
 The Occasional kitchen ,BS10 5NB,51.4948,-2.5910
 Pizza Hut Delivery,BS10 6AS,51.5033,-2.6029
 Southmead Pizza Hut - A&A Capital Ltd,BS10 6AS,51.5033,-2.6029
@@ -10,104 +10,81 @@ On A Roll Indo  Mexican Limited,BS10 6AT,51.5037,-2.6023
 Grill & Pizza Express,BS10 6JU,51.5125,-2.5982
 Henbury Golf Club,BS10 7QB,51.4996,-2.6298
 Blaise Café ,BS10 7QS,51.5058,-2.6324
-Burger King Drive Thru,BS10 7SR,51.5231,-2.6028
-Burger King,BS10 7SR,51.5230,-2.6031
-Hollywood Bowl,BS10 7SR,51.5231,-2.6028
+Burger King,BS10 7SR,51.5235,-2.6010
 KFC,BS10 7SR,51.5231,-2.6028
-Nando's Chickenland Ltd,BS10 7SR,51.5231,-2.6028
-Pizza Express,BS10 7SR,51.5231,-2.6028
-Gourmet Burger Kitchen,BS10 7TL,51.5264,-2.6143
-Miller & Carter,BS10 7TL,51.5264,-2.6143
+KFC,BS10 7SR,51.5233,-2.6006
 McDonald's Restaurant,BS10 7UA,51.5257,-2.6067
-McDonalds,BS10 7UA,51.5257,-2.6067
-Elior UK,BS11 0AF,51.5004,-2.6590
+McDonald's,BS10 7UA,51.5257,-2.6068
 Shirehampton park golf club ,BS11 0UL,51.4891,-2.6683
 abm catering at The Bristol Port Company,BS11 9DQ,51.5029,-2.6988
 In The Mouth ,BS11 9EN,51.5003,-2.6986
 THE LAMPLIGHTERS,BS11 9XA,51.4841,-2.6813
 The Avon Lodge,BS11 9YP,51.5050,-2.6896
 The Boston Tea Party Group Limited,BS16 1FT,51.4995,-2.5609
-CRUSSH @ UWE,BS16 1QY,51.5011,-2.5475
 McDonald's Restaurant,BS16 3AF,51.4766,-2.5396
-McDonalds,BS16 3AF,51.4766,-2.5396
+McDonald's,BS16 3AF,51.4766,-2.5396
 The Anchor,BS20 0HB,51.4753,-2.6802
 Spice direct LTD,BS20 6AG,51.4826,-2.7686
 Portishead brewing Co  - the Port bar,BS20 6AH,51.4843,-2.7677
 The Poacher Portishead Ltd,BS20 6AJ,51.4823,-2.7690
-Costa Coffee,BS20 6EL,51.4838,-2.7690
 The Corner Cafe,BS20 6PY,51.4781,-2.7675
 Harbour Quay Ltd t/a Bottelino's,BS20 7AJ,51.4866,-2.7640
 Aqua Restaurant,BS20 7AW,51.4869,-2.7628
 1347 Portishead McDonalds - Lambtrad Ltd T/A McDonalds,BS20 7BY,51.4838,-2.7647
-McDonalds Restaurants Ltd,BS20 7BY,51.4838,-2.7647
+McDonald's,BS20 7BY,51.4841,-2.7660
 Portishead Youth Centre,BS20 7DD,51.4868,-2.7654
 Subway,BS20 7DE,51.4859,-2.7659
 oceansportishead,BS20 7DF,51.4883,-2.7580
-Hall & Woodhouse,BS20 7FP,51.4876,-2.7597
+Brewers Fayre Gordano Gate,BS20 7GA,51.4820,-2.7614
 The Royal Inn,BS20 7HG,51.4940,-2.7572
-Costa Coffee,BS20 7QH,51.4911,-2.7572
 Mokoko Coffee & Bakery Portishead,BS20 7QH,51.4912,-2.7573
 Searock Restaurant,BS20 7QH,51.4912,-2.7573
-Burger King,BS20 7XG,51.4775,-2.7079
-Starbucks Ltd,BS20 7XG,51.4775,-2.7079
+The Posset Cup Portishead (Wetherspoon),BS20 7QZ,51.4857,-2.7625
 Baxterstorey @ Kerry Foods,BS20 7XN,51.4825,-2.7241
 Cafe Trio,BS20 7XN,51.4833,-2.7216
 Almondsbury Creative,BS32 4AA,51.5513,-2.5698
 The Swan Hotel ,BS32 4AA,51.5517,-2.5697
-Elior at Babcock,BS32 4AQ,51.5452,-2.5711
-Elior at EE,BS32 4AQ,51.5452,-2.5711
-Elior at LV Bristol,BS32 4AQ,51.5448,-2.5704
 The Bowl Inn,BS32 4DT,51.5545,-2.5726
 SAFFRON,BS32 4JT,51.5489,-2.5528
-Elior at EE Parkgate,BS32 4TE,51.5433,-2.5715
 Aztec Hotel & Spa,BS32 4TS,51.5420,-2.5687
 Lodge at Bristol,BS32 4TS,51.5420,-2.5687
-Starbucks Cafe,BS32 4TS,51.5420,-2.5687
-Elior at Atkins,BS32 4UD,51.5383,-2.5735
-Elior at Tesco,BS32 8EF,51.5343,-2.5488
-KFC,BS32 8EF,51.5353,-2.5479
+Costa Coffee,BS32 8EF,51.5354,-2.5492
 Subway-WillowBrook District Centre,BS32 8EF,51.5343,-2.5488
 Bradley Stoke Cafe,BS32 9BS,51.5362,-2.5457
-Pizza Hut (UK) Ltd,BS32 9DF,51.5404,-2.5569
 Chandos Deli,BS34 5DG,51.5252,-2.5954
 Chopstix Bristol Cribbs Causeway,BS34 5DG,51.5252,-2.5954
-Pret a Manger,BS34 5DG,51.5252,-2.5954
-Wagamama,BS34 5DG,51.5252,-2.5954
+Pret A Manger,BS34 5DG,51.5256,-2.5956
+Costa Coffee,BS34 5GN,51.5264,-2.5721
 AirHop Bristol,BS34 5TA,51.5303,-2.5931
 McDonald's Restaurant ,BS34 5TQ,51.5297,-2.6012
-McDonalds,BS34 5TQ,51.5297,-2.6012
-Burger King,BS34 5UR,51.5250,-2.5958
-Nando's Restaurant,BS34 5UR,51.5252,-2.5954
-Patisserie Valerie,BS34 5UR,51.5252,-2.5954
-Pizza Hut (UK) Ltd,BS34 5UR,51.5252,-2.5954
+McDonald's,BS34 5TQ,51.5301,-2.6002
+Costa Coffee,BS34 5UL,51.5251,-2.6019
+Costa Coffee,BS34 5UR,51.5258,-2.5974
+Nando's,BS34 5UR,51.5253,-2.5960
 SOHO Coffee Shops Limited Cribbs,BS34 5UR,51.5252,-2.5954
-Tortilla,BS34 5UR,51.5252,-2.5954
 Waterfall Elior at Stoke Lodge Primary - Olympus Academy Trust,BS34 6DW,51.5338,-2.5587
 Bristol Bawarchi Indian Restaurant,BS34 7BQ,51.5094,-2.5741
 Vigour Cafe,BS34 7BQ,51.5092,-2.5744
-KFC,BS34 7BR,51.5090,-2.5741
+Brewers Fayre Concorde,BS34 7BR,51.5084,-2.5749
+KFC,BS34 7BR,51.5012,-2.5795
 SUBWAY ,BS34 7BR,51.5084,-2.5749
+Costa Coffee,BS34 7JL,51.5058,-2.5589
 McDonald's Restaurant ,BS34 7JL,51.5079,-2.5646
-McDonalds,BS34 7JL,51.5079,-2.5646
-Nando's,BS34 7JL,51.5079,-2.5646
+McDonald's,BS34 7JL,51.5068,-2.5586
 Subway (Abbeywood),BS34 7JL,51.5079,-2.5646
-Elior at Airbus,BS34 7PA,51.5101,-2.5764
 Subway (Filton),BS34 7ST,51.5219,-2.5725
-Costa Coffee,BS34 8PU,51.5142,-2.5433
-Aramark at Starbucks Outlet,BS34 8SF,51.5127,-2.5501
 Elior at City of Bristol College - AEC at Parkway,BS34 8SF,51.5114,-2.5536
 Waterfall Elior at Abbeywood School,BS34 8SF,51.5114,-2.5536
 The Anchor Inn,BS35 1QA,51.6301,-2.5662
 Thornbury Golf Centre,BS35 3XL,51.6005,-2.5378
 Boars Head  Aust,BS35 4AX,51.5981,-2.6139
-Burger King,BS35 4BJ,51.6048,-2.6214
-Moto Forecourt Kiosk,BS35 4BJ,51.6048,-2.6214
-Moto Hospitality Limited,BS35 4BJ,51.6048,-2.6214
+Costa Coffee,BS35 4BH,51.6035,-2.6206
 Just as You are Tea Cottage LTD,BS35 4PQ,51.5609,-2.6660
 Fox Inn,BS35 5RA,51.5416,-2.6226
 Farm Shop Cafe,BS35 5RE,51.5408,-2.6205
 The Wave,BS35 5RE,51.5408,-2.6205
 Caffe Arabica,BS6 7QA,51.4795,-2.6126
+Costa Coffee,BS6 7XW,51.4858,-2.5956
 The Gloucester Old Spot,BS6 7YQ,51.4839,-2.5980
 the Crafty Cow,BS7 0BJ,51.4919,-2.5836
 B Bartlett,BS7 0EQ,51.4932,-2.5707
@@ -118,7 +95,6 @@ Compass Group LTD,BS7 0UP,51.4998,-2.5892
 Atomic Burger ,BS7 8BG,51.4750,-2.5909
 Bakers & Co,BS7 8BG,51.4750,-2.5909
 Planet Pizza,BS7 8BG,51.4750,-2.5909
-Pho Lounge,BS7 8NN,51.4758,-2.5904
 mula lounge,BS7 8NT,51.4770,-2.5906
 LONA GRILL HOUSE LTD,BS7 8NY,51.4792,-2.5892
 Avanalounge limet,BS7 8PB,51.4806,-2.5889
@@ -140,7 +116,6 @@ Sportsman & Annexe,BS7 9EQ,51.4798,-2.5873
 THE LAZY DOG,BS7 9JR,51.4817,-2.5833
 The Mill House ,BS9 2DS,51.4871,-2.6430
 The Hideaway BS9,BS9 2DW,51.4861,-2.6418
-Costa Coffee,BS9 3AA,51.4930,-2.6178
 The Post Office Tavern,BS9 3AG,51.4917,-2.6169
 NUMBER 7 KITCHEN,BS9 3DF,51.4934,-2.6198
 CRESCENT CAFE,BS9 3DZ,51.4945,-2.6180
@@ -152,7 +127,6 @@ Hunters Cafe Bar,BS9 3RW,51.4882,-2.6247
 Salkaara,BS9 4HN,51.4804,-2.6122
 Westbury Park Pub,BS9 4HP,51.4816,-2.6124
 Kondi Brasserie,BS9 4JP,51.4858,-2.6113
-Costa Coffee,BS9 4JT,51.4852,-2.6123
 Cafe96,BS9 4JZ,51.4848,-2.6120
 Henleaze Sultan ,BS9 4NG,51.4888,-2.6081
 The Eastfield Inn,BS9 4NQ,51.4899,-2.6084
@@ -164,11 +138,12 @@ The White Hart Inn,NP15 1NP,51.6649,-2.9077
 Cwrt Bleddyn Hotel and Spa Limited,NP15 1PG,51.6541,-2.9153
 No.12 Fish & Chips,NP16 5DA,51.6408,-2.6775
 Costa Coffee ,NP16 5EP,51.6424,-2.6751
-Costa Coffee,NP16 5EP,51.6424,-2.6751
+Costa Coffee,NP16 5EP,51.6424,-2.6746
 Pitchers Sports Bar And Grill,NP16 5EP,51.6423,-2.6751
 Sitar Balti Indian Restaurant,NP16 5EP,51.6424,-2.6751
 The Orange Crate,NP16 5EP,51.6424,-2.6751
 the beaufort hotel,NP16 5EP,51.6421,-2.6743
+The Bell Hanger Chepstow (Wetherspoon),NP16 5EW,51.6425,-2.6736
 Tiffin Tea & Coffee House,NP16 5EW,51.6426,-2.6737
 Stone Rock Pizza,NP16 5EX,51.6428,-2.6738
 Panevino Restaurant Chepstow,NP16 5EZ,51.6450,-2.6721
@@ -203,24 +178,21 @@ The Grill,NP18 1HQ,51.6030,-2.9315
 Los Reyes ,NP18 1JX,51.6035,-2.9492
 The Old Barn Inn,NP18 2EB,51.6005,-2.8756
 The Rib,NP18 2LX,51.6031,-2.9197
+Beefeater The Coldra,NP18 2NX,51.6024,-2.9224
 McDonald's,NP18 2NX,51.6024,-2.9223
-McDonalds,NP18 2NX,51.6024,-2.9223
+McDonald's,NP18 2NX,51.6027,-2.9237
 Holiday Inn Newport,NP18 2YG,51.5997,-2.9279
 Burger King - Newport 2,NP19 4QQ,51.5775,-2.9441
-Caffe Nero,NP19 4QQ,51.5776,-2.9436
-Nandos Chicken Land,NP19 4QQ,51.5776,-2.9436
-Pizza Express,NP19 4QQ,51.5776,-2.9436
-Burger King,NP19 4QR,51.5747,-2.9440
+Costa Coffee,NP19 4QQ,51.5776,-2.9441
+McDonald's,NP19 4QR,51.5742,-2.9453
 McDonald's,NP19 4QR,51.5747,-2.9440
-McDonalds,NP19 4QR,51.5747,-2.9440
-Pizza Hut Restaurant,NP19 4QR,51.5747,-2.9440
 Tawa Indian Buffet,NP19 4QR,51.5751,-2.9429
-KFC,NP19 4SL,51.5720,-2.9484
+KFC,NP19 4QT,51.5759,-2.9496
 The Wheatsheaf Inn,NP26 3HN,51.5809,-2.8299
 GOLDEN LION MAGOR LTD,NP26 3HY,51.5804,-2.8308
 Subway,NP26 3RA,51.5851,-2.8447
-Elior Catering @ Tesco Trunking Centre,NP26 3TS,51.5723,-2.8593
-Atalian Servest Food Co. @ Wilkinson Distribution Centre,NP26 3WN,51.5755,-2.8660
+Costa Coffee,NP26 3YL,51.5883,-2.8362
+McDonald's,NP26 3YL,51.5883,-2.8363
 The Cellar Bar & Kitchen,NP26 4AA,51.5883,-2.7598
 AKOL Limited ,NP26 4BG,51.5913,-2.7521
 LITE BITE,NP26 4BG,51.5914,-2.7522

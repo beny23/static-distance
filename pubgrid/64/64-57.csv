@@ -2,7 +2,6 @@ name,postcode,lat,lon
 The Black Swan,DN14 7HE,53.7445,-0.9147
 lorenzos italian,DN14 7HT,53.7499,-0.9578
 Aagrah Tadcaster ,LS24 8EG,53.8995,-1.2003
-York East Burger King,LS24 8EG,53.9000,-1.2010
 Costa Coffee,LS24 9AU,53.8839,-1.2618
 The Rythre Arms,LS24 9EE,53.8466,-1.1619
 ROAST COFFEE SHOP,LS24 9HJ,53.8758,-1.2719
@@ -30,18 +29,12 @@ Deramore Arms,YO10 5EA,53.9439,-1.0436
 The Blacksmiths Arms,YO19 4PN,53.9024,-1.0910
 Waterfront Cafe York Marina,YO19 4RW,53.9075,-1.0875
 Bagel Nash York Designer Outlet,YO19 4TA,53.9222,-1.0775
-Caffe Nero,YO19 4TA,53.9222,-1.0775
+McDonald's,YO19 4TA,53.9219,-1.0775
 McDonalds Designer Outlet,YO19 4TA,53.9222,-1.0775
-McDonalds Restaurants Ltd,YO19 4TA,53.9222,-1.0775
-Patisserie Valerie,YO19 4TA,53.9222,-1.0775
-Pizza Express,YO19 4TA,53.9222,-1.0775
 Pizza Hut,YO19 4TA,53.9222,-1.0775
-Pret a Manger,YO19 4TA,53.9222,-1.0775
-Starbucks Coffee Company (UK) Limited,YO19 4TA,53.9222,-1.0775
 Starbucks McArthur Glen,YO19 4TA,53.9222,-1.0775
 Subway,YO19 4TA,53.9222,-1.0775
 The Fishermans fourth wife ltd,YO19 4TA,53.9222,-1.0775
-Wagamama,YO19 4TA,53.9222,-1.0775
 The Wenlock Arms,YO19 6AA,53.8963,-0.9632
 Caffe Valeria,YO19 6AG,53.8942,-0.9731
 The Jefferson Arms,YO19 6DA,53.8687,-0.9506
@@ -57,8 +50,9 @@ The Winning Post,YO23 1NZ,53.9470,-1.0861
 Middlethorpe Hall and Spa,YO23 2GB,53.9306,-1.0900
 Marcia Inn,YO23 2RA,53.9216,-1.0971
 The Ebor Inn,YO23 2RB,53.9212,-1.0969
+McDonald's,YO23 3PP,53.9065,-1.1858
 McDonalds Bilbrough A64,YO23 3PP,53.9064,-1.1846
-McDonalds Restaurants Ltd,YO23 3PP,53.9068,-1.1854
+Thyme,YO23 3PP,53.9083,-1.1812
 The Royal Oak,YO23 3ST,53.9137,-1.1418
 The Tickled Trout,YO26 7NN,53.9440,-1.2749
 St Vincent Arms,YO41 4BN,53.9147,-0.9240
@@ -73,6 +67,8 @@ Mister C's Ltd,YO8 4EA,53.7854,-1.0681
 Abbey cafe,YO8 4EQ,53.7852,-1.0674
 Little Miss Muffins Tea Room,YO8 4HE,53.7836,-1.0717
 THE OLIVE BRANCH,YO8 4HE,53.7836,-1.0717
+The Giant Bellflower Selby (Wetherspoon),YO8 4HF,53.7836,-1.0721
+Costa Coffee,YO8 4JS,53.7834,-1.0699
 The Hub Cafe,YO8 4JS,53.7833,-1.0695
 C E Wetherell & Sons Ltd,YO8 4PD,53.7835,-1.0680
 The Capri Restaurant Ltd,YO8 4PF,53.7843,-1.0680
@@ -88,7 +84,6 @@ The Wheatsheaf Inn,YO8 8LJ,53.7502,-1.0992
 McDonald's,YO8 8LY,53.7729,-1.0649
 The Wishingwell,YO8 8LZ,53.7667,-1.0667
 Selby Superbowl ,YO8 8NA,53.7737,-1.0651
-McDonalds Restaurants Ltd,YO8 8NB,53.7699,-1.0655
 Selby Livestock Auction Mart LTd,YO8 8NB,53.7699,-1.0655
 Drax Sports and Social Club,YO8 8PJ,53.7306,-0.9947
 Jug Inn,YO8 8QQ,53.7286,-1.1193

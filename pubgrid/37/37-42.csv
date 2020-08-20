@@ -1,8 +1,8 @@
 name,postcode,lat,lon
-Compass Group Staff Canteen at,CF48 2TA,51.7693,-3.3375
 The Tea Cosy,CF48 3AF,51.7631,-3.3576
 The Bessemer Hotel,CF48 3DP,51.7604,-3.3576
 Lady charlotte cafe,CF48 3EH,51.7615,-3.3565
+Table Table Pentrebach House,CF48 4BD,51.7256,-3.3601
 Julie’s deli & desserts ,CF48 4DX,51.7122,-3.3480
 Lord Nelson Hotel,CF81 9PQ,51.7484,-3.2820
 Market street fish bar,NP13 1AH,51.7299,-3.1340
@@ -11,6 +11,7 @@ Sandra coffee shop,NP13 1DB,51.7316,-3.1343
 The Coffee Bean,NP13 1DB,51.7317,-3.1343
 bear grills cafe,NP13 1DH,51.7301,-3.1348
 All shook up,NP13 1DJ,51.7299,-3.1342
+The Pontlottyn Abertillery (Wetherspoon),NP13 1DJ,51.7298,-3.1345
 JJS Deli PCI,NP22 3AA,51.7850,-3.2802
 Prince of Wales Inn,NP22 3AE,51.7820,-3.2853
 The Nags Head Inn,NP22 3AP,51.7844,-3.2761
@@ -18,6 +19,7 @@ Cambrian Hotel & Bar,NP22 3DE,51.7719,-3.2461
 Dominos Pizza,NP22 3DW,51.7738,-3.2462
 Fresh Active,NP22 3EJ,51.7749,-3.2453
 Tredegar Arms Hotel,NP22 3NA,51.7708,-3.2444
+The Olympia Tredegar (Wetherspoon),NP22 3ND,51.7711,-3.2452
 Jennas Lunches,NP22 3PX,51.7728,-3.2471
 The Mountain Air,NP22 3SD,51.7904,-3.2622
 Bedwellty House and Park,NP22 3XN,51.7689,-3.2430
@@ -30,13 +32,17 @@ The Gwesty,NP23 4EH,51.7985,-3.1730
 The Bridgend Inn,NP23 4RE,51.8020,-3.1682
 Cinnamon Garden,NP23 5JQ,51.7975,-3.2079
 Rassau fish bar,NP23 5PP,51.7971,-3.2183
+McDonald's,NP23 6AY,51.7766,-3.2059
 McDonalds,NP23 6AY,51.7761,-3.2069
 TARAMAHAL INDIAN RESTAURENT ,NP23 6BE,51.7739,-3.2075
 MORGANS WINE BAR,NP23 6HG,51.7768,-3.2077
 The crossing cafe ,NP23 6HL,51.7798,-3.2072
+The Picture House Ebbw Vale (Wetherspoon),NP23 6HP,51.7796,-3.2081
 CAFFE SIDOLI'S,NP23 6HW,51.7779,-3.2082
-KFC,NP23 6LE,51.7887,-3.2188
+KFC,NP23 6PY,51.7908,-3.2225
 JJS Deli Cwm,NP23 7SS,51.7397,-3.1820
+Brewers Fayre Victoria Park,NP23 8AN,51.7586,-3.1999
+Costa Coffee,NP23 8FP,51.7474,-3.1952
 The Wain-Y-Clare,NP4 0JA,51.7109,-3.0023
 WAIN Y CLARE,NP4 0JA,51.7109,-3.0023
 The Star Inn,NP4 0JF,51.7233,-3.0052
@@ -53,7 +59,6 @@ Kings Arms Hotel,NP7 5AA,51.8222,-3.0198
 Trading Post,NP7 5AA,51.8222,-3.0198
 Gurkha Corner Restaurant,NP7 5AD,51.8220,-3.0197
 The coffee pot,NP7 5AD,51.8220,-3.0197
-Caffe Nero plc,NP7 5AG,51.8236,-3.0196
 Auberge,NP7 5AH,51.8242,-3.0202
 Mezze Me,NP7 5AH,51.8242,-3.0202
 Nicholls Coffeeshop,NP7 5AH,51.8242,-3.0202
@@ -71,7 +76,9 @@ Whistle Stop Cafe,NP7 5HS,51.8164,-3.0105
 The Art Shop and Chapel,NP7 5NT,51.8230,-3.0171
 the oriental 888 ltd,NP7 5PB,51.8221,-3.0165
 Bean & Bread,NP7 5PE,51.8232,-3.0177
+The Coliseum Abergavenny (Wetherspoon),NP7 5PE,51.8232,-3.0191
 The Gaff,NP7 5PE,51.8230,-3.0176
+Costa Coffee,NP7 5RY,51.8226,-3.0191
 BAYLEAF CUISINE LIMITED,NP7 5SD,51.8224,-3.0179
 Market Street Fish and Chip Shop,NP7 5SD,51.8224,-3.0179
 Pizzorante Limited,NP7 5SD,51.8224,-3.0179
@@ -80,8 +87,9 @@ The Walnut Tree Inn,NP7 8AW,51.8481,-2.9589
 McDonalds,NP7 9AQ,51.8133,-3.0233
 FOXHUNTER INN,NP7 9DN,51.7494,-2.9686
 Hummingbird Coffee Shop Ltd,NP7 9HA,51.7683,-2.9998
+Brewers Fayre Abergavenny,NP7 9LH,51.8141,-3.0260
 Spice Lounge,NP7 9LP,51.8137,-3.0354
-McDonalds Restaurant,NP7 9LQ,51.8141,-3.0247
+McDonald's,NP7 9LQ,51.8136,-3.0243
 Tafarn y Bont,NP7 9RP,51.8184,-3.0681
 Courtroom Cafe,NP8 1BD,51.8589,-3.1376
 The Dragon Inn,NP8 1BE,51.8579,-3.1382

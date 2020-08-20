@@ -1,58 +1,43 @@
 name,postcode,lat,lon
-Costa Coffee Ltd,MK1 1BN,52.0032,-0.7250
+Costa Coffee,MK1 1BN,52.0034,-0.7252
 The Red Lion ,MK1 1BY,52.0006,-0.7145
-KFC,MK1 1ET,52.0104,-0.7319
-McDonalds Restaurant,MK1 1ET,52.0104,-0.7319
+McDonald's,MK1 1ET,52.0104,-0.7319
 Inn on the Lake,MK1 1PA,52.0074,-0.7211
-Asda (Compass Group),MK1 1QB,52.0053,-0.7290
-Costa Coffee,MK1 1ST,52.0108,-0.7349
 Enfes Turkish Restaurant,MK1 1ST,52.0108,-0.7349
 KFC DENBIGH-MK STADIUM,MK1 1ST,52.0108,-0.7349
 Marco Pierre White Steakhouse Bar & Grill,MK1 1ST,52.0108,-0.7349
-Nando's,MK1 1ST,52.0107,-0.7364
+Nando's,MK1 1ST,52.0108,-0.7344
 Pitchside Restaurant and Bar,MK1 1ST,52.0108,-0.7349
-Pizza Express,MK1 1ST,52.0107,-0.7364
-Prezzo,MK1 1ST,52.0107,-0.7364
-TGI Fridays,MK1 1ST,52.0107,-0.7364
 TREAT STREET,MK1 1ST,52.0108,-0.7349
 The Game Changer Kitchen Ltd,MK1 1ST,52.0108,-0.7349
-Wagamama,MK1 1ST,52.0107,-0.7364
 Cafe Sen,MK1 1SW,52.0091,-0.7199
-Givaudan UK (Wilson Vale Catering),MK10 0AE,52.0364,-0.6782
 Starbucks,MK10 0AH,52.0365,-0.6876
 440 Kingston McDonalds - Kaizen Restaurants,MK10 0BA,52.0354,-0.6882
-Caffe Nero,MK10 0BA,52.0356,-0.6878
 Climb Quest,MK10 0BA,52.0354,-0.6882
-Costa Coffee,MK10 0BA,52.0356,-0.6878
-McDonalds Restaurant,MK10 0BA,52.0356,-0.6878
-Nando's,MK10 0BA,52.0356,-0.6878
-Prezzo,MK10 0BA,52.0356,-0.6878
+Costa Coffee,MK10 0BA,52.0361,-0.6878
+McDonald's,MK10 0BA,52.0357,-0.6904
+Nando's,MK10 0BA,52.0348,-0.6904
 SUBWAY KINGSTON (45550),MK10 0BA,52.0354,-0.6882
 Smashburger,MK10 0BA,52.0354,-0.6882
-Starbucks Coffee Company,MK10 0BA,52.0356,-0.6878
-Babcock Technical Acadamy (Elior UK),MK10 0BE,52.0405,-0.6859
 Ku Ku Coffee House LTD,MK10 7DP,52.0435,-0.6836
 BROUGHTON GATE FOOD CENTRE LIMITED,MK10 7FA,52.0430,-0.6863
 Costa Coffee Brooklands Square,MK10 7NF,52.0472,-0.6787
+Costa Coffee,MK10 7NF,52.0466,-0.6783
 The Swan Inn,MK10 9AH,52.0422,-0.7037
-Costa Coffee,MK10 9SU,52.0386,-0.7143
+Costa Coffee,MK10 9JQ,52.0389,-0.7133
 The Cross Keys,MK15 0AA,52.0401,-0.7269
-Scania GB (Wilson Vale Catering),MK15 8HB,52.0661,-0.7364
 Eat Your Heart Out,MK15 9JL,52.0626,-0.7319
 SUBWAY Newport Pagnell (62549),MK16 0AG,52.0850,-0.7274
 Ousedale School (CH&Co Catering),MK16 0BJ,52.0802,-0.7345
 The Rose & Crown ,MK16 0EG,52.0841,-0.7246
 The Carrington Arms,MK16 0HB,52.0680,-0.6670
 COSTA COFFEE,MK16 8AQ,52.0869,-0.7226
-Costa Coffee,MK16 8AQ,52.0870,-0.7225
+Costa Coffee,MK16 8AQ,52.0869,-0.7221
 Out Of Office Coffee,MK16 8AR,52.0869,-0.7209
 The Pin Petch Thai restaurant,MK16 8AR,52.0869,-0.7209
 Moza,MK16 8AT,52.0866,-0.7229
 The Red House,MK16 8BG,52.0824,-0.7404
-Burger King,MK16 8DS,52.0832,-0.7490
-KFC,MK16 8DS,52.0832,-0.7490
-Starbucks Coffee Company,MK16 8DS,52.0832,-0.7490
-Starbucks Kiosk,MK16 8DS,52.0832,-0.7490
+KFC,MK16 8DS,52.0832,-0.7491
 Welcome Break - Shell North,MK16 8DS,52.0832,-0.7490
 Welcome Break - Shell South,MK16 8DS,52.0832,-0.7490
 e&k muratis pizza ltd,MK16 8HJ,52.0861,-0.7214
@@ -60,7 +45,6 @@ Capadocia Turkish Meze&Grill Restaurant ,MK16 8HN,52.0866,-0.7224
 Gourmet Burger Joint,MK16 8HY,52.0862,-0.7223
 KINGS ARMS,MK16 9BY,52.0844,-0.7180
 Harben House Hotel,MK16 9EY,52.0831,-0.7144
-Welcome Break Group Ltd.,MK16 9EZ,52.0822,-0.7091
 The Chester Arms,MK16 9JE,52.1044,-0.6840
 THE OLD SWAN AT ASTWOOD,MK16 9JS,52.1162,-0.6107
 The White Hart,MK16 9PE,52.1127,-0.6996
@@ -75,7 +59,6 @@ THE WHISK KITCHEN & BAR,MK17 8QY,52.0124,-0.6472
 No31,MK17 8RB,52.0117,-0.6470
 Pepper Grill,MK17 8RB,52.0117,-0.6470
 JALORI INDIAN CUISINE,MK17 8RF,52.0111,-0.6466
-Costa Coffee,MK17 8SG,52.0181,-0.6540
 The Station Tavern,MK17 8SG,52.0179,-0.6533
 Nonna's (Woburn Sands) LTD,MK17 8SY,52.0102,-0.6466
 The Fir Tree Inn,MK17 8SY,52.0102,-0.6466
@@ -83,18 +66,13 @@ Frosts Garden Centre - Woburn Sands,MK17 8UE,52.0209,-0.6592
 Woburn Sands Emporium,MK17 8UF,52.0232,-0.6589
 The Wheatsheaf,MK17 9JU,52.0030,-0.6839
 Gigabite Cafe,MK3 6DP,52.0016,-0.7402
-Miller & Carter,MK40 1AS,52.1347,-0.4691
 TREAT STREET ,MK40 1AS,52.1347,-0.4691
-Wagamama,MK40 1AS,52.1347,-0.4691
-Zizzi,MK40 1AS,52.1347,-0.4691
 Dixy Chicken,MK40 1BZ,52.1360,-0.4731
 SOPRANO KEBAB HOUSE,MK40 1BZ,52.1360,-0.4731
-Starbucks Coffee,MK40 1DS,52.1361,-0.4784
 dessert island bedford limited ,MK40 1EP,52.1381,-0.4698
 Pepes Piri Piri ,MK40 1HJ,52.1365,-0.4715
 BURGER KING-Harpur Street Bedford,MK40 1LA,52.1376,-0.4685
 Bar Citrus ,MK40 1LA,52.1376,-0.4685
-Burger King,MK40 1LA,52.1376,-0.4685
 El Picante Mexican Grill,MK40 1LJ,52.1373,-0.4706
 Subway,MK40 1LN,52.1380,-0.4700
 Pauls cafe ,MK40 1LQ,52.1375,-0.4692
@@ -107,25 +85,27 @@ YMARR LIMITED,MK40 1NT,52.1373,-0.4669
 AFTERS ORIGINAL BEDFORD LTD,MK40 1NU,52.1385,-0.4666
 Brewhouse and Kitchen Bedford,MK40 1NU,52.1385,-0.4666
 The Library Cafe,MK40 1PG,52.1363,-0.4682
+Costa Coffee,MK40 1PW,52.1366,-0.4704
 Subway,MK40 1PW,52.1364,-0.4709
 Harpurs71 ,MK40 1QA,52.1355,-0.4700
 Al Fairoz Bedford ,MK40 1QB,52.1359,-0.4725
+The Pilgrims Progress Bedford (Wetherspoon),MK40 1QB,52.1360,-0.4717
 Rizq,MK40 1QH,52.1357,-0.4735
+McDonald's,MK40 1RN,52.1352,-0.4660
 McDonald's,MK40 1RN,52.1354,-0.4659
-McDonalds,MK40 1RN,52.1354,-0.4659
-Nando's,MK40 1RN,52.1354,-0.4659
+Nando's,MK40 1RN,52.1351,-0.4661
 Nazar Turkish restaurant ,MK40 1RN,52.1354,-0.4659
 Pen & Cob,MK40 1RW,52.1350,-0.4653
 The Swan Hotel,MK40 1RW,52.1350,-0.4653
 BBTEA,MK40 1RY,52.1359,-0.4661
 Coffee House Bedford ,MK40 1SL,52.1359,-0.4671
 Made in Bedford at Number 13,MK40 1SL,52.1359,-0.4671
+Costa Coffee,MK40 1SU,52.1368,-0.4676
 starbucks,MK40 1TJ,52.1362,-0.4695
 howard cafe,MK40 1UH,52.1356,-0.4699
 Blue Orchid,MK40 2DX,52.1433,-0.4813
 Jax Restaurant,MK40 2DX,52.1433,-0.4813
 Verve Hotel ,MK40 2DX,52.1433,-0.4813
-Pizza Express,MK40 2NN,52.1395,-0.4634
 Three Rooms Fine Indian Dining,MK40 2NR,52.1402,-0.4627
 The Park Pub and Kitchen ,MK40 2PF,52.1470,-0.4561
 3 St Peters,MK40 2PN,52.1389,-0.4650
@@ -139,7 +119,7 @@ Halal Dixy ,MK40 2RF,52.1408,-0.4705
 The Cochin,MK40 2RP,52.1407,-0.4713
 INDIAN SUMMER RESTAURANT ,MK40 2RR,52.1412,-0.4715
 KFC - 63 Tavistock Street Bedford,MK40 2RR,52.1411,-0.4714
-KFC,MK40 2RR,52.1412,-0.4715
+KFC,MK40 2RR,52.1409,-0.4709
 the tavistock pub and carvery ,MK40 2SB,52.1417,-0.4731
 The Foresters Arms,MK40 2SF,52.1404,-0.4747
 New Bombay,MK40 2SR,52.1391,-0.4684
@@ -164,31 +144,30 @@ Quay,MK40 3NT,52.1356,-0.4652
 THE EMBANKMENT,MK40 3PD,52.1351,-0.4594
 Radhuni Restaurant Bedford,MK40 3PF,52.1343,-0.4549
 The Longholme Cafe & Hire,MK40 3QF,52.1331,-0.4537
+Thyme,MK40 3TD,52.1355,-0.4498
 Decant Wine and Cheese Bar,MK40 3US,52.1356,-0.4656
 Thali & Tandoor,MK40 3US,52.1358,-0.4652
 The Higgins Pantry,MK40 3XD,52.1362,-0.4637
 The Eatery,MK40 4FU,52.1276,-0.5118
 ChaaSha,MK40 4LL,52.1337,-0.4844
 MCDONALD'S,MK41 0DX,52.1448,-0.4220
-McDonalds Restaurants Limited,MK41 0DX,52.1448,-0.4220
-Starbucks UK,MK41 0DX,52.1448,-0.4220
+McDonald's,MK41 0DX,52.1454,-0.4204
 BOMBA COFFEE,MK41 0LF,52.1466,-0.4153
 Subway,MK41 0PW,52.1528,-0.4275
 Bellini's ,MK41 6EG,52.1598,-0.4900
 Woodland Manor Hotel,MK41 6EP,52.1599,-0.4887
 HORSE & GROOM,MK41 6EQ,52.1596,-0.4905
 Sir William Harpur House,MK41 7FB,52.1594,-0.4585
-Elior UK,MK41 7PH,52.1512,-0.4750
 The Haven 2000 Ltd,MK41 7PN,52.1444,-0.4802
 Mowsbury golf club ,MK41 8BJ,52.1668,-0.4467
 The pheasant pub,MK41 8YR,52.1619,-0.4530
 Waterfall Elior at Goldington Academy,MK41 9BX,52.1454,-0.4452
+Beefeater Priory Marina,MK41 9DJ,52.1323,-0.4375
 Cloverdale Retreat,MK41 9DJ,52.1323,-0.4377
 Club 2000 Bingo Ltd,MK41 9LN,52.1331,-0.4446
 MCDONALD'S,MK41 9LN,52.1331,-0.4446
-McDonalds Restaurants Ltd,MK41 9LN,52.1331,-0.4446
+McDonald's,MK41 9LN,52.1340,-0.4459
 Ritz Bingo Limited,MK41 9LN,52.1331,-0.4446
-Pizza Hut,MK41 9LW,52.1333,-0.4459
 Wendover caffè/daily ,MK41 9QN,52.1392,-0.4426
 Proark UK Hotels Ltd t/a Mercure Bedford Centre Hotel ,MK42 0AR,52.1340,-0.4657
 ISLANDS GREEK RESTAURANT LTD,MK42 0AS,52.1334,-0.4658
@@ -198,33 +177,31 @@ Friendly Nettle Cafe,MK42 0GE,52.1121,-0.4309
 A1 Foods,MK42 0JN,52.1220,-0.4335
 Pizza Hut,MK42 0NS,52.1276,-0.4610
 Zest Pizza,MK42 0NS,52.1276,-0.4610
-Caffe Pausa at Dunelm,MK42 0NW,52.1289,-0.4609
 Subway Alban Retail Park,MK42 0NW,52.1289,-0.4609
-Mecca Bingo Ltd,MK42 0NX,52.1264,-0.4600
 Gordon Colling House,MK42 0SJ,52.1201,-0.4401
+Costa Coffee,MK42 0XE,52.1306,-0.4603
 Bar & Bistro at Wixams,MK42 6EA,52.0973,-0.4640
 The King William IV,MK42 7AL,52.1156,-0.5032
 BURGER KING-Kempston Hardwick Bedford,MK42 7AZ,52.1116,-0.4824
-Burger King,MK42 7AZ,52.1116,-0.4824
 Coffee Square Limited,MK42 7AZ,52.1094,-0.4851
+Costa Coffee,MK42 7AZ,52.1092,-0.4837
 KFC - Interchange Retail Park  Bedford,MK42 7AZ,52.1094,-0.4851
-KFC,MK42 7AZ,52.1090,-0.4854
-McDonalds Restaurants Ltd,MK42 7AZ,52.1090,-0.4854
+McDonald's,MK42 7AZ,52.1095,-0.4849
 Coffee Xpress (Bedford) Ltd,MK42 7BY,52.1069,-0.4983
-Costa Coffee,MK42 7GB,52.1080,-0.5108
+Brewers Fayre Bedford South (A421),MK42 7FY,52.1047,-0.5070
+KFC,MK42 7JJ,52.1102,-0.4825
 Blue Ginger Restaurant ,MK42 8BG,52.1212,-0.4888
 Diya Royal,MK42 8BL,52.1192,-0.4939
 KFC - 197 Bedford Road Bedford,MK42 8DD,52.1205,-0.4921
 KFC,MK42 8DD,52.1205,-0.4921
 Subway Kempston,MK42 8DD,52.1205,-0.4921
-Costa Coffee,MK42 8PP,52.1177,-0.4950
+Costa Coffee,MK42 8PP,52.1179,-0.4952
 Tana Thai,MK42 9AD,52.1325,-0.4673
 Shan E Punjab,MK42 9HG,52.1268,-0.4704
 The Cross Keys Public House and Restaurant,MK43 0JB,52.0724,-0.6047
 Lounge India Mm Ltd,MK43 0LE,52.0708,-0.5408
 The Bell,MK43 0ND,52.0621,-0.5496
 Marston Vale Services t/as The Forest Centre Limited,MK43 0PR,52.0647,-0.5354
-Marston Moretaine Burger King,MK43 0PZ,52.0641,-0.5520
 The White Horse,MK43 0XE,52.0116,-0.6012
 The Bell,MK43 7AS,52.2090,-0.5900
 Spices of paradise ,MK43 7DA,52.2015,-0.6088
@@ -259,12 +236,10 @@ The Crown at Willington,MK44 3QH,52.1370,-0.3743
 Willington Garden Centre,MK44 3QP,52.1351,-0.3711
 Barns Hotel Bedford,MK44 3SA,52.1250,-0.4312
 The Barn Cafe and Deli  BRCC Services Ltd,MK44 3SH,52.1191,-0.4083
-Costa Coffee,MK45 1DS,52.0047,-0.4951
  INDIAN LODGE balti limited,MK45 1DU,52.0075,-0.4973
 Waterfall Elior,MK45 2BX,52.0257,-0.4955
 The White Hart,MK45 2DH,52.0301,-0.4668
 Surfin Cafe Limited Ampthill,MK45 2EH,52.0323,-0.4921
-Starbucks Village Square,MK45 2GZ,52.0253,-0.5316
 the Hide,MK45 2HP,52.0318,-0.4942
 Huck's American Bar and Grill,MK45 2HZ,52.0220,-0.5255
 Leisure Bowl,MK45 2HZ,52.0220,-0.5255
@@ -281,21 +256,20 @@ Donatellos,MK45 2NG,52.0308,-0.4934
 FRATELLI AMPTHILL LTD t/a Fratelli,MK45 2NG,52.0309,-0.4933
 The White Hart,MK45 2NG,52.0309,-0.4933
 The coffee pot,MK45 2NG,52.0309,-0.4933
+Costa Coffee,MK45 2NH,52.0315,-0.4932
 Big 10 Smoke and Grill,MK45 2PJ,52.0313,-0.4920
 Woolpack Pub Wilstead,MK45 3HW,52.0817,-0.4496
 The Knife & Cleaver,MK45 3LA,52.0611,-0.4783
-Whitbread Farms Ltd,MK45 3QA,52.0713,-0.3893
 The Greyhound,MK45 3QD,52.0625,-0.3898
 The Stone Jug,MK45 4BY,52.0305,-0.4240
 English Heritage Shop,MK45 4HR,52.0080,-0.4117
-English Heritage Tea Room,MK45 4HR,52.0080,-0.4117
 Drovers Arms of Steppingley,MK45 5BA,52.0072,-0.5244
 The Compasses,MK45 5DD,52.0010,-0.4694
 Jolly Coopers,MK45 5ED,52.0098,-0.4479
 The White Hart,MK45 5EJ,52.0116,-0.4591
 Teapots of Olney,MK46 4AA,52.1520,-0.7019
 The Swan Inn & Bistro,MK46 4AA,52.1520,-0.7019
-Costa Coffee,MK46 4AJ,52.1525,-0.7015
+Costa Coffee,MK46 4AJ,52.1526,-0.7013
 OLNEY MEDITERRANEAN KITCHEN LTD ,MK46 4AJ,52.1525,-0.7015
 Out Of Office Coffee,MK46 4AJ,52.1525,-0.7015
 Olney Pancake Parlour,MK46 4BA,52.1530,-0.7010
@@ -313,32 +287,26 @@ Cowpers oak,MK46 5JS,52.1463,-0.7380
 SPICE GARDEN,MK46 5NH,52.1523,-0.7031
 The Plough,MK6 3AH,52.0162,-0.7175
 Al Fairoz Milton keynes,MK6 4JH,52.0225,-0.7340
-Costa Coffee,MK6 5LD,52.0264,-0.7358
 BMI Saxon Clinic (Medirest Healthcare Compass Group),MK6 5LR,52.0256,-0.7404
-Baxterstorey,MK7 6AA,52.0249,-0.7097
 Purple mango,MK7 7AN,52.0227,-0.6898
-Baxterstorey,MK7 8AT,52.0102,-0.6886
 bon viveur  countrywide house,MK7 8JT,52.0027,-0.7023
 KFC XSCAPE,MK9 3HG,52.0306,-0.6900
+Thyme,MK9 3JT,52.0432,-0.7493
+The Moon Under Water Milton Keynes (Wetherspoon),MK9 3NN,52.0419,-0.7489
 Brewhouse and Kitchen Milton Keynes,MK9 3PU,52.0439,-0.7494
 MK Buffet Village,MK9 3PU,52.0439,-0.7494
 Mr Mulligans Milton Keynes,MK9 3PU,52.0439,-0.7494
-TGI Fridays,MK9 3PU,52.0438,-0.7493
 Taipan,MK9 3PU,52.0439,-0.7494
 Cocina Mexican & Margarita Restaurant ,MK9 3XA,52.0415,-0.7489
-Hollywood Bowl,MK9 3XA,52.0414,-0.7487
-KFC,MK9 3XA,52.0414,-0.7487
-McDonalds Restaurant,MK9 3XA,52.0414,-0.7487
-Miller & Carter Steakhouse,MK9 3XA,52.0414,-0.7487
-Nando's,MK9 3XA,52.0414,-0.7487
-Pizza Express,MK9 3XA,52.0414,-0.7487
-Wagamama,MK9 3XA,52.0414,-0.7487
+KFC,MK9 3XA,52.0416,-0.7482
 1071 Xscape McDonalds - Kaizen Restaurants,MK9 3XS,52.0420,-0.7472
 Aspers Milton Keynes Limited,MK9 3XS,52.0420,-0.7472
 E-cafe Ltd t/a xpressonet ,MK9 3XS,52.0420,-0.7472
-Five Guys,MK9 3XS,52.0414,-0.7487
 GELATO AND WAFFLE LIMITED trading as Creams Cafe,MK9 3XS,52.0420,-0.7472
 Gravity - Milton Keynes,MK9 3XS,52.0420,-0.7472
+KFC,MK9 3XS,52.0417,-0.7485
+McDonald's,MK9 3XS,52.0415,-0.7486
+Nando's,MK9 3XS,52.0410,-0.7495
 SUBWAY XSCAPE (39124),MK9 3XS,52.0420,-0.7472
 Snozone Limited Milton Keynes,MK9 3XS,52.0420,-0.7472
 The Rose & Crown,NN7 1EX,52.2033,-0.7375

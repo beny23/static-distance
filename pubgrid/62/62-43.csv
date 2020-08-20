@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+Brewers Fayre Yeadon Way,FY1 6BF,53.7955,-3.0470
 Traditional fish & chips ,FY1 6BQ,53.7992,-3.0552
 KFC - BLACKPOOL,FY1 6EY,53.7996,-3.0504
 KFC,FY1 6EY,53.7996,-3.0504
@@ -7,9 +8,9 @@ SEASIDE FISH & CHIPS,FY4 1AB,53.7989,-3.0524
 SUBWAY,FY4 1AB,53.7989,-3.0527
 Waterloo Coffee Shop,FY4 1AD,53.7985,-3.0535
 McDonald's Restaurants Ltd,FY4 1AR,53.7979,-3.0554
-McDonalds,FY4 1AR,53.7979,-3.0554
+McDonald's,FY4 1AR,53.7982,-3.0554
 Beachcomber fish and chips,FY4 1BA,53.7950,-3.0556
-Burger King,FY4 1BA,53.7950,-3.0558
+The Velvet Coaster Blackpool (Wetherspoon),FY4 1BA,53.7948,-3.0560
 Blackpool Operating Company Ltd,FY4 1BB,53.7943,-3.0573
 C4 CURRY & KEBAB HOUSE,FY4 1BE,53.7954,-3.0542
 Sallys Bake n Take,FY4 1BE,53.7954,-3.0542
@@ -22,7 +23,6 @@ Lido royal cafe,FY4 1DP,53.7985,-3.0508
 Big Blue Hotel,FY4 1EZ,53.7923,-3.0542
 Blackpool Pleasure Beach Limited,FY4 1EZ,53.7899,-3.0577
 Boulevard Hotel,FY4 1EZ,53.7923,-3.0542
-Pizza Hut Restaurant,FY4 1EZ,53.7923,-3.0542
 the canberra hotel,FY4 1HE,53.7954,-3.0519
 The Spen Dyke,FY4 1JE,53.7897,-3.0488
 WHC Blackpool CIC t/a Room 3,FY4 1JF,53.7899,-3.0478
@@ -43,23 +43,21 @@ willows,FY4 2JD,53.7854,-3.0459
 Baby Kingfisher ,FY4 2JE,53.7858,-3.0434
 paramount chinese restaurant,FY4 2JE,53.7858,-3.0434
 BLUEDIAMOND INDIAN RESTAURANT ,FY4 2JF,53.7862,-3.0431
-Blue Diamond,FY4 2JF,53.7862,-3.0431
 Blueberries,FY4 2JF,53.7862,-3.0431
 Greens fresh and ready ,FY4 2JF,53.7861,-3.0433
 winstons bistro bar,FY4 2JF,53.7862,-3.0431
 Taylors Fish and Chip Shop,FY4 2QL,53.7815,-3.0347
 McDonald's Restaurants Ltd,FY4 2RP,53.7775,-3.0293
-Mcdonalds Restaurants Ltd,FY4 2RP,53.7775,-3.0293
+McDonald's,FY4 2RP,53.7789,-3.0334
 Clean Eats Blackpool,FY4 3RL,53.7818,-3.0235
 Golden Fish,FY4 4AA,53.7945,-3.0306
 Harmans On Site Services Ltd,FY4 4NQ,53.7977,-3.0243
 Ascent Trampoline Park Ltd,FY4 4QQ,53.7970,-3.0081
-Sodexo Costa Coffee - Red Dot Cafe,FY4 4QQ,53.7970,-3.0081
 Trebaron Garden Centre Limited,FY4 5DY,53.7766,-3.0165
 Dahlia's Kitchen,FY4 5LB,53.7870,-2.9961
 88 Chinese Restaurant,FY8 1DA,53.7409,-2.9935
 Serendipity Coffee Shop and Eatery at The Bedford Hotel,FY8 1HN,53.7486,-3.0285
-Costa Coffee,FY8 1LP,53.7504,-3.0318
+Costa Coffee,FY8 1LP,53.7502,-3.0316
 Anatolia Sea View Mediterranean Cuisine ,FY8 1LS,53.7492,-3.0328
 St Ives Hotel Limited,FY8 1LS,53.7492,-3.0328
 INN ON THE PROM HOTEL,FY8 1LU,53.7486,-3.0319
@@ -73,9 +71,9 @@ St Annes Fish Restaurant ,FY8 1PZ,53.7514,-3.0266
 FIFTY FOUR,FY8 1QG,53.7501,-3.0305
 Le Patio,FY8 1QG,53.7501,-3.0306
 The Firepit Restaurant,FY8 1QR,53.7511,-3.0298
+The Trawl Boat Inn Lytham St Annes (Wetherspoon),FY8 1QR,53.7509,-3.0300
 The Zen Restaurant ,FY8 1QR,53.7511,-3.0299
 The Blacksheep Tearoom at St Annes,FY8 1QX,53.7514,-3.0295
-Cafe Nero,FY8 1RF,53.7513,-3.0308
 Fresh Cafe,FY8 1RF,53.7513,-3.0308
 SUBWAY,FY8 1RF,53.7513,-3.0309
 APPLEWOOD DELI,FY8 1RY,53.7510,-3.0307
@@ -91,27 +89,25 @@ Olivers,FY8 1UZ,53.7553,-3.0215
 Pavilion Ashton Gardens LTD,FY8 2AE,53.7525,-3.0324
 The Glendower Hotel Ltd,FY8 2NQ,53.7520,-3.0363
 SUBWAY,FY8 3BN,53.7655,-3.0155
-Miller & Carter,FY8 3RU,53.7636,-3.0138
 Booths,FY8 3UT,53.7579,-3.0044
 Fairhaven Golf Club Bar & Catering Ltd,FY8 4JU,53.7428,-2.9832
 LHT ENTERPRISES LTD,FY8 4LE,53.7460,-2.9591
+The Railway Hotel Lytham St Annes (Wetherspoon),FY8 5DH,53.7380,-2.9568
 Aroma Cafe Lytham,FY8 5DZ,53.7396,-2.9504
 Booths,FY8 5EG,53.7388,-2.9567
 Franca Lytham Ltd,FY8 5EH,53.7372,-2.9627
-Pizza Express,FY8 5EN,53.7367,-2.9625
 The Deacon,FY8 5EN,53.7367,-2.9625
 Bijou of Lytham,FY8 5EP,53.7376,-2.9581
 Chell's of Lytham,FY8 5EP,53.7376,-2.9581
 The Coffee Bean,FY8 5ER,53.7374,-2.9607
 The Estuary,FY8 5ER,53.7374,-2.9607
 WHISPERS CAFE BISTRO,FY8 5ER,53.7374,-2.9607
-Cafe Nero,FY8 5EW,53.7370,-2.9608
 Central Beach Cafe Lytham,FY8 5EW,53.7370,-2.9608
 Farina & Co. Lytham,FY8 5EW,53.7370,-2.9608
 The Blacksheep Tearoom Lytham,FY8 5EW,53.7370,-2.9608
 Whelans Fish Restaurant,FY8 5EW,53.7370,-2.9608
 McDonald's Restaurants Ltd,FY8 5HU,53.7468,-2.9379
-McDonalds,FY8 5HU,53.7468,-2.9379
+McDonald's,FY8 5HU,53.7455,-2.9373
 EGO Mediterranean Restaurant Lytham,FY8 5JA,53.7374,-2.9620
 Bosco restaurants ltd,FY8 5JP,53.7367,-2.9637
 El Uno Limited,FY8 5JP,53.7367,-2.9637
@@ -122,6 +118,7 @@ Shambles Lytham ltd ,FY8 5JY,53.7364,-2.9628
 THE QUEENS HOTEL,FY8 5LB,53.7362,-2.9613
 ALL INDIA LIMITED T/A MOHSHINA'S,FY8 5LE,53.7363,-2.9647
 Chu's Oriental Cuisine,FY8 5LH,53.7369,-2.9661
+Costa Coffee,FY8 5LU,53.7375,-2.9631
 Rice Fusion limited t/a Red Fort,FY8 5LU,53.7378,-2.9630
 THE LYTHAM KITCHEN,FY8 5LW,53.7369,-2.9642
 Zest Gastronomia Ltd,FY8 5LW,53.7370,-2.9643
@@ -154,6 +151,7 @@ The Kicking Donkey,L40 8HY,53.5836,-2.8912
 The Farmers Arms ,L40 8JA,53.6049,-2.8646
 Brew and Buddies Play & Learn Centre Ltd,L40 8JY,53.5988,-2.8634
 Master McGraths,L40 9RF,53.6125,-2.9389
+Beefeater Morris Dancers,L40 9RG,53.6101,-2.9344
 The Tearoom at Scarisbrick Marina,L40 9RH,53.6006,-2.9266
 Subway,PR4 1AD,53.7509,-2.8861
 The Raj Tandoori,PR4 1AD,53.7508,-2.8864
@@ -176,7 +174,7 @@ Buraq(kirkham)limited ,PR4 2RE,53.7843,-2.9037
 Indulge Desserts,PR4 2SD,53.7829,-2.8717
 New Fortune House,PR4 3BL,53.7887,-2.8856
 The Stanley Arms,PR4 3BL,53.7887,-2.8856
-Mill Farm KFC,PR4 3HD,53.7984,-2.8876
+KFC,PR4 3HD,53.7959,-2.8897
 Ma Baker Cafe,PR4 3PH,53.7854,-2.9588
 Ali Raj,PR4 3RJ,53.7749,-2.8446
 Bangla Fusion Winebar Restaurant,PR4 5JQ,53.6957,-2.8128
@@ -190,16 +188,15 @@ Tharaldr Coffee Limited T/A Boskins Cafe,PR4 6UP,53.6792,-2.8312
 The Barn,PR4 6UP,53.6792,-2.8312
 The Cock and Bottle,PR4 6UP,53.6792,-2.8312
 Pizzeria Mamma Mia ,PR8 1AA,53.6482,-3.0043
-Costa Coffee,PR8 1AE,53.6469,-3.0051
+Costa Coffee,PR8 1AE,53.6464,-3.0060
 LE BOULEVARD BISTRO,PR8 1AS,53.6473,-3.0055
-Caffe Nero,PR8 1BH,53.6468,-3.0042
 Megafauna,PR8 1BN,53.6453,-3.0040
 WALKERS ON WESLEY STREET,PR8 1BN,53.6453,-3.0040
 A Great Little Place,PR8 1DB,53.6473,-3.0059
 To die for Coffee bistro,PR8 1DF,53.6463,-3.0047
 THE GALLARY LIMITED,PR8 1DL,53.6468,-3.0064
 KFC - SOUTHPORT,PR8 1DT,53.6458,-3.0059
-KFC,PR8 1DT,53.6458,-3.0059
+KFC,PR8 1DT,53.6459,-3.0059
 Subway,PR8 1DW,53.6466,-3.0067
 Cranberry's Coffee Shop,PR8 1EN,53.6470,-3.0057
 Jasper Restaurants Ltd T/A The Hungry Monk,PR8 1EN,53.6470,-3.0057
@@ -217,11 +214,8 @@ The Cheshire Lines ,PR8 1LQ,53.6436,-3.0105
 Portland Hall Spa Ltd,PR8 1LR,53.6441,-3.0070
 Dukes Folly Hotel,PR8 1LS,53.6437,-3.0116
 92 Degrees,PR8 1NH,53.6486,-3.0057
-Caffe Nero,PR8 1NH,53.6487,-3.0057
 Daily Dose Southport Ltd T/A Hideaway,PR8 1NN,53.6475,-3.0079
-Pizza Express,PR8 1NY,53.6480,-3.0071
 Scarisbrick Hotel Southport,PR8 1NZ,53.6478,-3.0078
-Starbucks,PR8 1PE,53.6474,-3.0079
 Diva cafe,PR8 1PF,53.6470,-3.0086
 NOSTALGIA TEA ROOMS,PR8 1PF,53.6470,-3.0086
 Starbucks Lord Street,PR8 1PF,53.6470,-3.0085
@@ -231,17 +225,13 @@ PIER RESTAURANT ,PR8 1QX,53.6505,-3.0084
 BISTRO BAR MED,PR8 1RD,53.6461,-3.0110
 MEDHITO CUBAN LATIN LOUNGE,PR8 1RD,53.6461,-3.0110
 The Phoenix ,PR8 1RE,53.6463,-3.0105
-Wetherspoons,PR8 1RH,53.6458,-3.0113
-Mecca Bingo,PR8 1RN,53.6454,-3.0118
+The Sir Henry Segrave Southport (Wetherspoon),PR8 1RH,53.6459,-3.0106
 cleveland cafe,PR8 1RP,53.6447,-3.0127
-KFC,PR8 1RY,53.6534,-3.0111
-Tenpin Ltd,PR8 1RY,53.6534,-3.0111
-Nando's,PR8 1SA,53.6530,-3.0105
-Pizza Hut Restaurant,PR8 1SA.,53.6530,-3.0105
+Brewers Fayre Ocean Plaza,PR8 1RY,53.6509,-3.0146
+McDonald's,PR8 1SA,53.6530,-3.0127
 KFC - OCEAN PLAZA,PR8 1SB,53.6520,-3.0145
 Subway,PR8 1SB,53.6520,-3.0145
-Dunelm Mill,PR8 1SQ,53.6541,-3.0115
-McDonalds,PR8 1SQ,53.6541,-3.0115
+KFC,PR8 1SQ,53.6538,-3.0130
 Fishermens Rest ,PR8 2AZ,53.6374,-3.0213
 Cafe bar n’ista ,PR8 2DS,53.6345,-3.0147
 The Rose Tea Room of Birkdale ,PR8 2DT,53.6349,-3.0154
@@ -259,10 +249,11 @@ Jade Gardens Chinese Restaurant,PR8 3NQ,53.5998,-3.0342
 Spitfire Pub & Kitchen,PR8 3PH,53.5978,-3.0420
 Allotment Bar & Restaurant,PR8 4AG,53.6334,-3.0123
 Bistrot Verite ,PR8 4AR,53.6339,-3.0137
+Costa Coffee,PR8 4AR,53.6340,-3.0139
 Croziers of Birkdale,PR8 4AR,53.6339,-3.0137
 Birkdale Cheese Center ,PR8 4AY,53.6336,-3.0132
 Grasshopper Pub Limited,PR8 4QD,53.6202,-3.0219
-McDonalds Restaurants Ltd,PR8 5HW,53.6325,-2.9698
+McDonald's,PR8 5HW,53.6326,-2.9698
 Itsy Bitsy Thai,PR8 5JF,53.6296,-2.9660
 Hickory's Smokehouse,PR8 5PH,53.6296,-2.9755
 the blue anchor,PR8 6AB,53.6442,-2.9863
@@ -272,10 +263,11 @@ THATCH AND THISTLE,PR8 6EF,53.6395,-2.9728
 Southport Hospital Russets Restaurant,PR8 6PN,53.6337,-2.9784
 BISTROT PIERRE - SOUTHPORT,PR9 0AG,53.6494,-3.0044
 Caffe Dolce,PR9 0AG,53.6494,-3.0044
+The Willow Grove Southport (Wetherspoon),PR9 0AG,53.6492,-3.0049
 Delivolare,PR9 0AN,53.6516,-3.0004
 The New Thistle Cafe,PR9 0AN,53.6516,-3.0004
 Volare Restaurant,PR9 0AN,53.6516,-3.0004
-Costa Coffee,PR9 0AQ,53.6498,-3.0036
+Costa Coffee,PR9 0AQ,53.6498,-3.0033
 Skylight,PR9 0AQ,53.6498,-3.0036
 Great Himalayas Nepalese Restaurant and Bar,PR9 0AW,53.6520,-2.9996
 Lords Cafe bar,PR9 0AW,53.6520,-2.9996
@@ -304,8 +296,7 @@ The Guesthouse,PR9 0QE,53.6505,-2.9992
 Lord Street Hotel,PR9 0QG,53.6512,-2.9989
 The Office Bar and Restaurant,PR9 0TE,53.6482,-3.0026
 The Whistle Stop Cafe ,PR9 0TH,53.6473,-3.0015
-Costa Coffee,PR9 0TQ,53.6448,-2.9961
-Compass Group at Asda,PR9 0TY,53.6464,-2.9982
+Costa Coffee,PR9 0TQ,53.6455,-2.9955
 Love to Eat,PR9 0UF,53.6483,-3.0034
 Lucys Coffeeshop,PR9 0UT,53.6487,-3.0025
 The Lansdowne Bistro,PR9 0UT,53.6487,-3.0025

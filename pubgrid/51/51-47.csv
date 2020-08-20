@@ -4,10 +4,8 @@ The boat inn,ST20 0DA,52.7793,-2.2636
 The Cock Inn ,ST20 0NP,52.8254,-2.2995
 The junction inn (norbury) ltd,ST20 0PN,52.8030,-2.3070
 The Tickled Trout,ST20 0QA,52.8162,-2.3317
-Atalian Servest,ST20 0QJ,52.8389,-2.3772
 Tearoom at Sugnall Walled Garden,ST21 6NF,52.8780,-2.3003
 The Sheet Anchor,ST5 5BU,52.9604,-2.3039
-STARBUCKS - NORTH,ST5 5DA,52.9588,-2.3072
 Slater's Club Ltd,ST5 5ED,52.9494,-2.3085
 Slater's Country Inn,ST5 5ED,52.9494,-2.3085
 The Swan With Two Necks,ST5 5EH,52.9473,-2.3469
@@ -25,8 +23,10 @@ Spice island newport ltd,TF10 7AD,52.7674,-2.3771
 Tea on the Cobbles,TF10 7AF,52.7694,-2.3787
 Taste Of Paradise midland limited ,TF10 7AN,52.7673,-2.3773
 COSTA COFFEE,TF10 7AQ,52.7682,-2.3775
+Costa Coffee,TF10 7AQ,52.7681,-2.3775
 THE SWAN INN LTD,TF10 7BQ,52.7708,-2.3813
 McDonald's Restaurant,TF10 7BX,52.7621,-2.3640
+McDonald's,TF10 7BX,52.7676,-2.3739
 The Kings Head ,TF10 7JJ,52.7729,-2.3816
 Tabitha’s ,TF10 7LT,52.7691,-2.3771
 The New Inn Newport ,TF10 7LX,52.7702,-2.3743
@@ -34,20 +34,22 @@ BOD NEWPORT,TF10 7NE,52.7678,-2.3780
 Swan at Forton,TF10 8BY,52.7874,-2.3657
 The Lamb Inn (Edgmond),TF10 8HU,52.7759,-2.4116
 Sutherland arms ,TF10 8NN,52.7786,-2.4722
+Beefeater Three Fish,TF10 9BY,52.7688,-2.3606
 Mere Park Garden Centre,TF10 9BY,52.7702,-2.3579
 The Aston Taphouse t/a The Last Inn,TF10 9EJ,52.7555,-2.3892
 The Lion Inn,TF6 6NP,52.7708,-2.5445
 the india garden restaurant,TF9 1AA,52.9034,-2.4839
 Red Lion Inn,TF9 1JP,52.9034,-2.4828
 Tudor House & Hotel,TF9 1PD,52.9039,-2.4844
+Costa Coffee,TF9 1PH,52.9044,-2.4850
 The hideout coffee shop,TF9 1PN,52.9055,-2.4861
+The Hippodrome Market Drayton (Wetherspoon),TF9 1PS,52.9062,-2.4855
 jones's coffee house,TF9 1QB,52.9035,-2.4831
 THE FOUR ALLS,TF9 2AG,52.8859,-2.4731
 Market Drayton Golf Club,TF9 2HX,52.8892,-2.4948
 Wharf Tavern ,TF9 2LP,52.8628,-2.4366
 goldstone hall hotel,TF9 2NA,52.8522,-2.4361
 Fox & Hounds,TF9 2RS,52.8644,-2.4178
-Atalian Servest Food Co,TF9 3AW,52.9053,-2.4848
 Festival Drayton Centre ,TF9 3AX,52.9040,-2.4857
 Clive and Coffyne ,TF9 3BY,52.9036,-2.4848
 JAIPUR INDIAN CUISINE LTD,TF9 3BZ,52.9037,-2.4840

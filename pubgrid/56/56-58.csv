@@ -1,9 +1,9 @@
 name,postcode,lat,lon
 The Ferryboat Inn,DN22 0NQ,53.2798,-0.7803
-McDonalds,DN22 0PG,53.2554,-0.9206
 Cara Restaurants Limited McDonalds 376,DN22 0QU,53.2568,-0.9250
+KFC,DN22 0QU,53.2549,-0.9247
 Markham Moor Inn ,DN22 0QU,53.2570,-0.9249
-Markham Moor KFC,DN22 0QU,53.2570,-0.9249
+McDonald's,DN22 0QU,53.2556,-0.9215
 MADAM YAKS LTD T/A DANTES ITALIAN,DN22 6AE,53.3233,-0.9434
 MADAM YAKS LTD T/A THE HERBALIST,DN22 6AE,53.3235,-0.9437
 The Hideaway,DN22 6AJ,53.3234,-0.9440
@@ -13,7 +13,7 @@ The Brew Shed,DN22 6AS,53.3189,-0.9406
 The Glasshouse Retford Ltd,DN22 6BN,53.3226,-0.9439
 Mollie rocker bakery,DN22 6BP,53.3218,-0.9431
 Kings Park Hotel & Old Police Station Bar & Restaurant,DN22 6BT,53.3214,-0.9444
-Costa Coffee,DN22 6BU,53.3219,-0.9425
+Costa Coffee,DN22 6BU,53.3218,-0.9425
 Mamma Giusi's,DN22 6BU,53.3219,-0.9425
 Honey and Fig,DN22 6BZ,53.3213,-0.9419
 The Drawing Room,DN22 6DQ,53.3231,-0.9437
@@ -27,9 +27,11 @@ Fred's,DN22 6JP,53.3228,-0.9413
 MDP CATERING LIMITED,DN22 6JP,53.3228,-0.9412
 No5 restaurant  t/a Grove street,DN22 6JP,53.3228,-0.9413
 Everest tandoori Restaurant ,DN22 6JR,53.3225,-0.9410
+The Dominie Cross Retford (Wetherspoon),DN22 6JR,53.3224,-0.9399
 KINGS COFFEE SHOP,DN22 6JX,53.3221,-0.9411
 Harry's Coffee House ,DN22 6PJ,53.3237,-0.9406
 The Hop Pole of Retford,DN22 6UG,53.3280,-0.9264
+Costa Coffee,DN22 7DE,53.3151,-0.9477
 The Elms Hotel,DN22 7DX,53.3152,-0.9348
 The Whitehouses Inn,DN22 7JF,53.3068,-0.9316
 The Galway Arms,DN22 7UZ,53.3244,-0.9463
@@ -78,18 +80,13 @@ Ice Cream Parlour - Rufford Park,NG22 9DF,53.1760,-1.0360
 Mill Tea Shop - Rufford Park,NG22 9DF,53.1760,-1.0360
 Savile Restaurant,NG22 9DF,53.1760,-1.0360
 Talbot Suite - Rufford Park,NG22 9DF,53.1760,-1.0360
-Center Parcs Catering Unit - Main Kitchen,NG22 9DN,53.1680,-1.0545
-Starbucks - Sports Cafe,NG22 9DN,53.1680,-1.0545
-Starbucks,NG22 9DN,53.1680,-1.0545
-Center Parcs Head Office,NG22 9DP,53.2021,-1.0106
 The Green Hut Cafe,NG22 9DR,53.2010,-1.0278
 Cara Restaurants Limited McDonalds 935,NG22 9DT,53.2002,-1.0273
-McDonalds,NG22 9DT,53.2002,-1.0273
+McDonald's,NG22 9DT,53.2005,-1.0265
 The Baytree Cafe,NG22 9EP,53.2351,-1.0453
 The Crew Yard Cafe and Bistro,NG22 9EX,53.2241,-1.0762
 Caunton Beck,NG23 6AB,53.1324,-0.8878
 The Plough,NG23 6AB,53.1324,-0.8878
-Burger King,NG23 6HU,53.1330,-0.8060
 OK Diner Carlton ,NG23 6JF,53.1546,-0.8060
 The Plough Inn Norwell Ltd,NG23 6JN,53.1475,-0.8468
 Great Northern Inn,NG23 6NT,53.1695,-0.8152
@@ -109,21 +106,21 @@ piccolo espresso bar,S80 1HS,53.3013,-1.1248
 Best Western Lion Hotel,S80 1HT,53.3017,-1.1248
 Cypriana Coffee House,S80 1JA,53.3030,-1.1249
 Cafe Neo,S80 1JR,53.3058,-1.1251
-Costa Coffee,S80 1JR,53.3058,-1.1251
+Costa Coffee,S80 1JR,53.3064,-1.1251
 THE SHIREOAKS INN,S80 1LT,53.3026,-1.1283
 The Avenue Coffee House Ltd,S80 1NH,53.3033,-1.1316
 THE MILLHOUSE,S80 1NN,53.3031,-1.1359
 Chocolate Orange Tearooms,S80 1PH,53.3084,-1.1217
 THE STATION HOTEL,S80 1PS,53.3104,-1.1212
 Stop & Pour,S80 2AR,53.3041,-1.1224
+The Liquorice Gardens Worksop (Wetherspoon),S80 2AS,53.3043,-1.1236
 Cuckoo Wharf Coffee Shop,S80 2EH,53.3068,-1.1195
 WORKSOP GOLF CLUB LTD,S80 2SQ,53.2923,-1.1107
+McDonald's,S80 3AT,53.3101,-1.1437
 McDonald's,S80 3AT,53.3101,-1.1477
 The Old School Tearooms,S80 3BP,53.2477,-1.0937
 Woodshed Cafe & Bar at Clumber Park Lodges,S80 3BQ,53.2763,-1.0945
-McDonalds Restaurants Ltd,S80 3EZ,53.3113,-1.1403
 Woodhouse Inn,S80 3HD,53.3162,-1.1507
-Starbucks,S80 3QD,53.3033,-1.1400
 Kilton Forest Golf Clubhouse,S81 0TL,53.3206,-1.1069
 Gateford grill,S81 7BP,53.3206,-1.1316
 Three Legged Stool,S81 7DY,53.3259,-1.1305

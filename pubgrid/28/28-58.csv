@@ -19,13 +19,13 @@ Hampshire Arms,GU10 5QU,51.2343,-0.8609
 Peppone's Restaurant,GU10 5RP,51.2466,-0.8731
 THE GURKHA VENUE LIMITED,GU11 1BA,51.2489,-0.7616
 SK PVT LIMITED,GU11 1BG,51.2492,-0.7610
+The Queen Hotel Aldershot (Wetherspoon),GU11 1BH,51.2498,-0.7676
 WIMPY ( ALDERSHOT) LIMITED,GU11 1DB,51.2490,-0.7648
 jennys catering ltd T/A Jenny's Cafe,GU11 1DZ,51.2495,-0.7633
 Vero Waffle & Gelato Ltd,GU11 1EG,51.2493,-0.7670
-Costa Coffee,GU11 1EP,51.2493,-0.7654
-KFC,GU11 1EP,51.2493,-0.7654
+Costa Coffee,GU11 1EP,51.2496,-0.7643
 MLS Operations Limited t/a McDonald's,GU11 1EP,51.2493,-0.7654
-McDonalds,GU11 1EP,51.2493,-0.7654
+McDonald's,GU11 1EP,51.2493,-0.7655
 Subway Aldershot,GU11 1EP,51.2493,-0.7654
 Waroeng Windsor,GU11 1EX,51.2490,-0.7679
 lali Gurash Aldershot,GU11 1EX,51.2490,-0.7679
@@ -38,9 +38,8 @@ FirstPort - Kingsley Court,GU11 1HZ,51.2472,-0.7601
 Truth Food & Bar,GU11 1JE,51.2481,-0.7624
 Pizza Hut,GU11 1JR,51.2484,-0.7654
 Aldershot Excelsior Club,GU11 1ND,51.2467,-0.7638
+Nando's,GU11 1NX,51.2496,-0.7686
 Mimosa Restaurant and Bar,GU11 1WG,51.2496,-0.7692
-Nandos,GU11 1WG,51.2496,-0.7692
-Pizza Express,GU11 1WG,51.2496,-0.7692
 Dhaulagiri kitchen,GU11 3DY,51.2471,-0.7666
 GURKHA KITCHEN ALDERSHOT LIMITED,GU11 3EA,51.2464,-0.7661
 THE BAYLEAF,GU26 6HJ,51.1101,-0.7537
@@ -58,7 +57,6 @@ Champneys Forest Mere,GU30 7JG,51.0601,-0.8300
 Rising Sun,GU30 7NA,51.0306,-0.8005
 The Deers Hut,GU30 7PD,51.0780,-0.8246
 OLD THORNS ,GU30 7PE,51.0750,-0.8304
-Starbucks,GU30 7TT,51.0843,-0.8189
 The pub with no name ltd,GU32 1DA,51.0558,-0.9821
 Loomies,GU32 1JX,51.0311,-1.0756
 The Spread Eagle,GU33 6JU,51.0518,-0.9006
@@ -70,8 +68,8 @@ Turtle Bean Cafe,GU33 7DP,51.0430,-0.8923
 The Whistle Stop Liss Limited,GU33 7DS,51.0426,-0.8917
 The Flying Bull,GU33 7JB,51.0440,-0.8548
 The Jolly Drover,GU33 7QL,51.0305,-0.8770
+Costa Coffee,GU34 1AW,51.1490,-0.9750
 Subway,GU34 1AW,51.1489,-0.9752
-Costa Coffee,GU34 1AX,51.1491,-0.9750
 Westons Bistro,GU34 1BD,51.1492,-0.9757
 Bottega dei sapori,GU34 1BN,51.1498,-0.9746
 Coronita Limited T/A The Crown Hotel,GU34 1BN,51.1498,-0.9746
@@ -79,9 +77,7 @@ Coronita Ltd,GU34 1BN,51.1497,-0.9746
 Stones (Alton) Ltd,GU34 1BN,51.1496,-0.9748
 Thai Boutique,GU34 1DD,51.1505,-0.9729
 CURRY PALACE,GU34 1EN,51.1472,-0.9782
-Caffe Nero,GU34 1ET,51.1483,-0.9767
 Mifta's ,GU34 1HD,51.1485,-0.9785
-Pizza Express,GU34 1HD,51.1485,-0.9785
 Wheatsheaf,GU34 1HD,51.1485,-0.9785
 FRANGO GRILL,GU34 1HL,51.1480,-0.9779
 River Kwai Restaurant,GU34 1HL,51.1480,-0.9779
@@ -90,6 +86,7 @@ Medirest Healthcare - Compass Group at Alton Hospital,GU34 1RJ,51.1401,-0.9898
 French Horn,GU34 1RT,51.1413,-0.9852
 The Greyfriar,GU34 1SB,51.1338,-0.9881
 Chawton House Library,GU34 1SJ,51.1287,-0.9881
+The Ivy House Alton (Wetherspoon),GU34 1SS,51.1464,-0.9778
 Laleham Alton,GU34 2PR,51.1518,-0.9649
 Rose and Crown ,GU34 3ED,51.1117,-0.9812
 The Selborne Arms,GU34 3JR,51.0965,-0.9417
@@ -109,23 +106,17 @@ The Crown at Arford,GU35 8BT,51.1222,-0.8206
 Bordon & Oakhanger Sports Club,GU35 9HG,51.1223,-0.8769
 Cafe Hogmoor,GU35 9HN,51.1099,-0.8794
 CHOCOLATE FROG COMPANY,GU35 9JA,51.1126,-0.9011
-Wilson Vale Catering,GU35 9JA,51.1126,-0.9011
 The Hanger Freehouse ,GU35 9JQ,51.1174,-0.9019
 Heidi Farnham,GU9 7DN,51.2140,-0.8011
 Farnham Tandoori,GU9 7DX,51.2126,-0.8057
 The Plough,GU9 7EH,51.2128,-0.8062
 CAFFE PICCOLO,GU9 7EN,51.2139,-0.8033
-Costa Coffee,GU9 7HH,51.2146,-0.8006
-Caffe Nero,GU9 7HR,51.2155,-0.7997
+Costa Coffee,GU9 7HH,51.2146,-0.8003
 The Castle Inn,GU9 7HR,51.2155,-0.7997
 Coffee Diem,GU9 7LL,51.2150,-0.8011
 Lion and Lamb Cafe ,GU9 7LL,51.2150,-0.8011
-Starbucks Coffee Company,GU9 7LL,51.2150,-0.8011
 Starbucks Lion and Lamb,GU9 7LL,51.2150,-0.8015
-Giggling Squid,GU9 7LN,51.2162,-0.7997
-Zizzi,GU9 7LN,51.2162,-0.7997
 Emma at the Stirling Sandwich Shop,GU9 7LP,51.2155,-0.7990
-Pizza Express,GU9 7LP,51.2155,-0.7990
 Bloom Farnham,GU9 7NA,51.2149,-0.7997
 The Queens Head,GU9 7NA,51.2149,-0.7997
 Subway,GU9 7NF,51.2155,-0.7980
@@ -143,16 +134,13 @@ The Mulberry,GU9 8AD,51.2119,-0.7926
 Bon East Restaurant,GU9 8UP,51.2045,-0.8090
 Royal arms ,GU9 9AX,51.2397,-0.7862
 Squire's Garden Centre Badshot Lea,GU9 9JX,51.2289,-0.7645
-Starbucks,GU9 9NJ,51.2221,-0.7769
+Beefeater Farnham,GU9 9QJ,51.2190,-0.7827
 THE SIX BELLS,GU9 9QZ,51.2229,-0.7846
 The Towers Restaurant and Bar,RG22 4BJ,51.2479,-1.0971
 Basingstoke Fish & Chips,RG22 4BS,51.2483,-1.0918
 Basingstoke Police Station,RG22 4BS,51.2487,-1.0913
-Pizza Hut Restaurant,RG22 4EH,51.2450,-1.1142
 Saffron Tandoori,RG22 4EH,51.2450,-1.1142
 Subway Brighton Hill,RG22 4EH,51.2450,-1.1142
-Powerleague,RG22 4HS,51.2472,-1.1143
-Baxterstorey Cafe @ Sainsbury's Kempshott,RG22 4TW,51.2355,-1.1394
 Dummer Golf  Club,RG25 2AD,51.2128,-1.1591
 The Queens Inn,RG25 2AD,51.2128,-1.1591
 The Purefoy Arms,RG25 2EJ,51.1699,-1.1354
@@ -165,7 +153,6 @@ The ship inn,SO24 0AQ,51.0834,-1.1355
 ROPLEY THAI LOUNGE ,SO24 0BG,51.0830,-1.1057
 The Fox Inn,SO24 0LP,51.0461,-1.1240
 The Swan Hotel,SO24 9AD,51.0903,-1.1620
-Pizza Express,SO24 9AQ,51.0912,-1.1610
 Pulpo Negro ,SO24 9AQ,51.0912,-1.1610
 Bangkok Bistro,SO24 9AR,51.0912,-1.1618
 Caracoli Alresford,SO24 9AR,51.0910,-1.1618

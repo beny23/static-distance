@@ -1,11 +1,9 @@
 name,postcode,lat,lon
+Thyme,CF10 4AA,51.4654,-3.1619
 Future Inns Cardiff,CF10 4AU,51.4681,-3.1608
-Miller & Carter,CF10 4AU,51.4681,-3.1608
 HOLIDAY INN EXPRESS CARDIFF BAY,CF10 4EE,51.4725,-3.1642
 Baxterstorey 5042 BBC Roath,CF10 4GA,51.4592,-3.1607
 Cadwaladers,CF10 4JY,51.4668,-3.1636
-Five Guys,CF10 4JY,51.4668,-3.1636
-Hollywood Bowl,CF10 4JY,51.4668,-3.1636
 Khana Limited T/S Spiceroute,CF10 4JY,51.4672,-3.1633
 Bayside Chip Shop,CF10 4PA,51.4618,-3.1608
 Coffi Co Containers,CF10 4PA,51.4618,-3.1608
@@ -14,22 +12,18 @@ Mizzi Foods Limited,CF10 4PH,51.4652,-3.1605
 KTEOOI Limited,CF10 4QH,51.4658,-3.1649
 Just Perfect Catering Ltd,CF10 4WZ,51.4629,-3.1615
 DUCHESS OF DELHI,CF10 5AN,51.4642,-3.1652
-Jd Wetherspoons,CF10 5BU,51.4626,-3.1665
+The Mount Stuart Cardiff (Wetherspoon),CF10 5BU,51.4626,-3.1665
 Bayside Brasserie,CF10 5BZ,51.4635,-3.1654
 Bellinis,CF10 5BZ,51.4635,-3.1654
 Cadwaladers,CF10 5BZ,51.4635,-3.1654
 Coffi Co Mermaid Quay,CF10 5BZ,51.4635,-3.1654
+Costa Coffee,CF10 5BZ,51.4632,-3.1659
 Everyman,CF10 5BZ,51.4633,-3.1648
 Gin & Bake by Coffi Co Ltd,CF10 5BZ,51.4634,-3.1654
-Nando's Chickenland Limited,CF10 5BZ,51.4635,-3.1654
-Pizza Express,CF10 5BZ,51.4635,-3.1654
 Signor Valentino,CF10 5BZ,51.4635,-3.1654
-Starbucks Coffee Company (UK),CF10 5BZ,51.4635,-3.1654
 Subway,CF10 5BZ,51.4635,-3.1654
 The Crepe Escape,CF10 5BZ,51.4636,-3.1657
-Wagamama,CF10 5BZ,51.4635,-3.1654
 Yakitori 1,CF10 5BZ,51.4635,-3.1654
-Zizzi,CF10 5BZ,51.4633,-3.1648
 sushi day,CF10 5BZ,51.4635,-3.1654
 TRADE STREET CAFE,CF10 5DQ,51.4728,-3.1783
 Parc Play,CF10 5DX,51.4714,-3.1804
@@ -39,11 +33,10 @@ Cleanbite ,CF10 5FG,51.4666,-3.1700
 The Caribbean Way,CF10 5FG,51.4671,-3.1699
 Paddle steamer,CF10 5JB,51.4693,-3.1703
 Academy Platform,CF10 5LS,51.4670,-3.1665
-McDonalds,CF11 0JR,51.4578,-3.1857
+Costa Coffee,CF11 0JR,51.4580,-3.1868
+McDonald's,CF11 0JR,51.4567,-3.1865
 McDonald’s ,CF11 0JR,51.4578,-3.1857
-Pizza Hut Restaurant,CF11 0JR,51.4579,-3.1867
 Cardiff International Pool,CF11 0JS,51.4498,-3.1811
-Starbucks,CF11 0SR,51.4540,-3.1863
 Coffi Co Bayscape,CF11 0SY,51.4479,-3.1845
 Oriel Gallery,CF11 0SY,51.4481,-3.1846
 VEGETARIAN FOOD STUDIO,CF11 6JU,51.4710,-3.1844
@@ -53,22 +46,20 @@ Zaydu Ltd.t/a bab al Yamen Restaurant,CF11 6RU,51.4717,-3.1869
 m a fishbar,CF11 6SR,51.4724,-3.1895
 Khyber Kebab,CF11 7AN,51.4697,-3.1850
 ME CHEF RESTAURANT LTD,CF11 7AN,51.4697,-3.1850
+McDonald's,CF11 8AZ,51.4733,-3.2064
 McDonald’s ,CF11 8AZ,51.4729,-3.2041
-Compass Group,CF11 8EG,51.4718,-3.2048
-McDonalds,CF11 8EG,51.4718,-3.2048
+Costa Coffee,CF11 8EG,51.4716,-3.2048
 Subway,CF11 8EG,51.4718,-3.2048
-KFC,CF11 8ER,51.4737,-3.2050
+KFC,CF11 8ER,51.4737,-3.2051
 THE ORANGE TREE ,CF5 6AD,51.4399,-3.2653
 THE WENVOE ARMS,CF5 6AN,51.4481,-3.2648
 The Horse & Jockey,CF5 6BG,51.4564,-3.2733
-Burger King,CF5 6EH,51.4631,-3.2736
-McDonalds,CF5 6EH,51.4631,-3.2736
+Beefeater The Walston Castle,CF5 6DD,51.4532,-3.2655
+McDonald's,CF5 6EH,51.4642,-3.2740
 McDonald’s ,CF5 6EH,51.4631,-3.2736
 Cottrell Park Golf Resort,CF5 6SJ,51.4597,-3.3185
 red lion,CF5 6TR,51.4594,-3.3548
 Burger King - Cardiff 6 ,CF5 6XJ,51.4621,-3.2721
-Elior UK,CF5 6XQ,51.4675,-3.2750
-Pizza Hut Restaurant,CF5 6XW,51.4643,-3.2692
 Starbucks,CF5 6XW,51.4644,-3.2691
 COAST CAFE AND BAKERS LTD,CF61 1DL,51.4089,-3.4824
 II Vesuvio,CF61 1DL,51.4089,-3.4824
@@ -82,8 +73,8 @@ The Cwtch Restaurant ,CF61 1XY,51.4084,-3.4841
 Cafe Unwind,CF61 1XZ,51.4085,-3.4822
 Three Horseshoes,CF62 3AB,51.4228,-3.3347
 The Fox and Hounds  Llancarfan,CF62 3AD,51.4242,-3.3652
-Costa Coffee - Departures,CF62 3BD,51.3986,-3.3391
 Costa Coffee,CF62 3BD,51.3986,-3.3391
+Costa Coffee,CF62 3BD,51.3987,-3.3383
 The Six Bells,CF62 3BP,51.4106,-3.3564
 Holiday Inn Express Cardiff Airport,CF62 3BT,51.4043,-3.3179
 blue anchor inn,CF62 3DD,51.3913,-3.3880
@@ -92,6 +83,7 @@ The Roost on Rock Road,CF62 4PG,51.4019,-3.4130
 Just Perfect Catering Ltd,CF62 4WA,51.4118,-3.4183
 Academy Espresso Bar,CF62 5BE,51.3956,-3.2802
 HANG FIRE SOUTHERN KITCHEN,CF62 5BE,51.3956,-3.2802
+Brewers Fayre Barry Island (Cardiff Airport),CF62 5QN,51.3996,-3.2768
 Dusty Knuckle - GoodShed,CF62 5QU,51.4006,-3.2635
 Adventure Island,CF62 5TJ,51.3913,-3.2747
 K9 PLUS I ,CF62 5TJ,51.3913,-3.2747
@@ -105,24 +97,25 @@ Romillys,CF62 6SW,51.3918,-3.2932
 The little olive ,CF62 7AB,51.3996,-3.2829
 Casa paco Restaurant,CF62 7AN,51.3989,-3.2832
 Lunch At Twelve,CF62 7AN,51.3989,-3.2832
+The Sir Samuel Romilly Barry (Wetherspoon),CF62 7AU,51.3986,-3.2843
 Veman’s Junkfood at TheBorough,CF62 7DW,51.3994,-3.2842
 PALETTA PIZZERIA LIMITED,CF62 7DX,51.3997,-3.2837
 Shahi Noor,CF62 7DX,51.3998,-3.2835
 The Grind House,CF62 7DX,51.3998,-3.2835
 St Andrews Major Golf Course Ltd,CF63 1BL,51.4233,-3.2395
+McDonald's,CF63 2BE,51.4152,-3.2315
 McDonalds,CF63 2BE,51.4151,-3.2350
 The Glenbrook Inn Limited,CF63 2NP,51.4185,-3.2438
 Just Perfect Catering Ltd,CF63 2YL,51.4120,-3.2384
 tucks 10 ltd,CF63 3DH,51.4020,-3.2455
 Burger King - Barry,CF63 4BA,51.4021,-3.2700
-Burger King,CF63 4BA,51.4021,-3.2700
 KFC,CF63 4BA,51.4021,-3.2707
 PINK GARLIC TANDOORI LTD,CF63 4HD,51.4046,-3.2707
 Awesome Wales,CF63 4HE,51.4053,-3.2691
 Caesars Barry,CF63 4HH,51.4061,-3.2669
 Caesars,CF63 4HH,51.4061,-3.2669
 Costa Coffee ,CF63 4HJ,51.4057,-3.2681
-Costa Coffee,CF63 4HJ,51.4057,-3.2681
+Costa Coffee,CF63 4HJ,51.4056,-3.2685
 Denise’s cafe,CF63 4JE,51.4013,-3.2590
  The Eating Room,CF63 4JL,51.4046,-3.2692
 New Yang's,CF63 4JL,51.4046,-3.2692
@@ -138,7 +131,8 @@ Street Food Hut,CF64 1JA,51.4391,-3.1739
 The Pantry,CF64 1JA,51.4391,-3.1739
 the windsor restaurant and tea rooms,CF64 1JA,51.4392,-3.1739
 Crafty Devil Cellar Penarth,CF64 1JB,51.4390,-3.1742
-Costa Coffee,CF64 1JH,51.4390,-3.1752
+The Bears Head Penarth (Wetherspoon),CF64 1JD,51.4394,-3.1756
+Costa Coffee,CF64 1JH,51.4390,-3.1749
 El Puerto & La Marina Restaurants,CF64 1TT,51.4444,-3.1741
 Waterloo Tea,CF64 2AD,51.4375,-3.1738
 Willmore’s 1938,CF64 2AD,51.4372,-3.1738
@@ -162,14 +156,13 @@ Shampan Indian Restaurant,CF71 7AB,51.4609,-3.4451
 Hurryflow Ltd t/as Bear Hotel,CF71 7AF,51.4624,-3.4495
 Hurryflow Ltd t/as Oscars Restaurant,CF71 7AF,51.4624,-3.4495
 The Yard Restaurant and Pizzeria,CF71 7AF,51.4624,-3.4495
-Costa Coffee,CF71 7AG,51.4617,-3.4479
+Costa Coffee,CF71 7AG,51.4616,-3.4474
 Hurryflow Ltd T/as Quarter Penny Cafe,CF71 7AH,51.4621,-3.4503
 Debs Tearoom at Happy Days,CF71 7BB,51.4613,-3.4501
 1 Town Hall Square,CF71 7DD,51.4620,-3.4475
 The Bush Inn,CF71 7DP,51.4500,-3.4144
 Mughal Emperor Ltd,CF71 7DT,51.4583,-3.4212
 Stalling Cafe,CF71 7DT,51.4583,-3.4212
-Caffe Nero,CF71 7FB,51.4609,-3.4488
 Forage Farm Shop and Kitchen ,CF71 7FF,51.4661,-3.4571
 The Cross Inn,CF71 7JF,51.4580,-3.4702
 Farmers Arms Aberthin Limited,CF71 7LG,51.4676,-3.4288

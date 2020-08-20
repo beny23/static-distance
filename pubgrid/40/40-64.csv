@@ -1,6 +1,5 @@
 name,postcode,lat,lon
 The Royal Oak,CB22 7RZ,52.1262,0.0296
-Atalian Servest Food Co,MK44 3PH,52.1380,-0.3193
 The Guinea Moggerhanger,MK44 3RG,52.1289,-0.3297
 Stevenage Garden Centre,SG1 4AH,51.9285,-0.2105
 White Horse,SG15 6TA,52.0163,-0.2636
@@ -15,10 +14,10 @@ shefford tandoori ,SG17 5DG,52.0383,-0.3354
 Bangkok Lounge Shefford,SG17 5DJ,52.0414,-0.3356
 the loft,SG17 5DQ,52.0396,-0.3346
 Golden Lion,SG17 5ES,52.0365,-0.3026
-Samuel Whitbread Academy,SG17 5QS,52.0378,-0.3177
 Biggles Beds Ltd,SG18 0AP,52.0891,-0.2671
 Mumtaz Lounge Limited,SG18 0AP,52.0891,-0.2671
 Jones' Café Bar,SG18 0JE,52.0871,-0.2655
+The Crown Hotel (Wetherspoon),SG18 0JE,52.0870,-0.2649
 Nonno Joe's,SG18 0LA,52.0872,-0.2604
 PERA KITCHEN,SG18 0LJ,52.0869,-0.2614
 Flutters Bingo Club ,SG18 8AL,52.0851,-0.2619
@@ -26,7 +25,9 @@ Surfin Cafe Limited Biggleswade,SG18 8AQ,52.0867,-0.2644
 Subway Biggleswade,SG18 8AS,52.0862,-0.2641
 Stratton House Hotel,SG18 8ED,52.0863,-0.2563
 Apple Green,SG18 8PL,52.0785,-0.2867
+Costa Coffee,SG18 8PS,52.0743,-0.2467
 MCDONALD'S,SG18 8QB,52.0748,-0.2411
+McDonald's,SG18 8QB,52.0752,-0.2430
 The crown,SG18 9AA,52.1047,-0.3228
 SOUTHILL VILLAGE STORE & TEA ROOM,SG18 9JB,52.0644,-0.3205
 The Green Man,SG18 9JD,52.0555,-0.3113
@@ -36,8 +37,6 @@ The Langford hideaway ,SG18 9RR,52.0538,-0.2719
 Ivel Valley Coffee Shop,SG18 9SD,52.0472,-0.2780
 pecoro,SG19 1HU,52.1295,-0.2877
 Rasoi,SG19 1JA,52.1291,-0.2889
-Baxterstorey Catering,SG19 1QY,52.1389,-0.2842
-Elior UK Ltd,SG19 2BN,52.1488,-0.2162
 O'sarracino Pizzeria ,SG19 2LR,52.1269,-0.2153
 Ek Raj Potton,SG19 2LT,52.1265,-0.2162
 JOHN OGAUNT GOLF CLUB,SG19 2LY,52.1166,-0.2232
@@ -62,10 +61,10 @@ THE ALBERT INN,SG4 9SU,51.9517,-0.2683
 Bosphorus Restaurant,SG5 1AE,51.9465,-0.2786
 Four Leaf Clover,SG5 1AE,51.9465,-0.2786
 Mevan Ocakbasi,SG5 1AE,51.9465,-0.2786
+The Angel Vaults Inn Hitchin (Wetherspoon),SG5 1AE,51.9465,-0.2786
 Deroka Restaurant ,SG5 1AH,51.9465,-0.2790
 Deroka restaurant,SG5 1AH,51.9465,-0.2790
 Lussmanns Hitchin,SG5 1AH,51.9465,-0.2790
-Zizzi,SG5 1AH,51.9465,-0.2790
 Fussey & Baer,SG5 1AT,51.9484,-0.2782
 Los Reyes ,SG5 1BB,51.9466,-0.2793
 peri peri original ,SG5 1BB,51.9466,-0.2793
@@ -73,14 +72,13 @@ Bar Azita,SG5 1BG,51.9467,-0.2796
 Chilli B's,SG5 1BG,51.9467,-0.2796
 Kite at The Red Hart,SG5 1BG,51.9467,-0.2796
 ACH Leisure Limited,SG5 1BH,51.9481,-0.2790
-Caffe Nero,SG5 1BH,51.9483,-0.2792
 Regent Cottage Restaurant,SG5 1BH,51.9483,-0.2792
 Hermitage Road Bar and Restaurant,SG5 1BT,51.9496,-0.2759
 RDTI LIMITED,SG5 1BT,51.9496,-0.2759
 Raj Douth Tandoori Cuisine,SG5 1BT,51.9496,-0.2759
 Hitchin Cafe,SG5 1DB,51.9491,-0.2753
+Thyme,SG5 1DJ,51.9483,-0.2754
 Chia Naturally Healthy ,SG5 1DR,51.9477,-0.2785
-Starbucks Coffee Co,SG5 1DR,51.9477,-0.2785
 Starbucks,SG5 1DR,51.9477,-0.2785
 Halsey's Deli & Eatery,SG5 1DS,51.9474,-0.2782
 Bar Amigo,SG5 1DT,51.9471,-0.2790
@@ -89,16 +87,14 @@ Casbah Grill Ltd,SG5 1HR,51.9481,-0.2781
 The Groundworks,SG5 1HR,51.9481,-0.2781
 North Hertfordshire Museum Cafe,SG5 1JE,51.9492,-0.2792
 Costa Coffee Hitchin,SG5 1JQ,51.9495,-0.2779
-Costa Coffee,SG5 1JQ,51.9495,-0.2779
-Prezzo,SG5 1JQ,51.9495,-0.2779
-The Haven Cafe,SG5 1JW,51.9504,-0.2770
+Costa Coffee,SG5 1JQ,51.9494,-0.2777
 Chicken George JNR,SG5 1NB,51.9502,-0.2762
 Payitaht Limited,SG5 1NB,51.9502,-0.2762
 Taste Buds,SG5 1NB,51.9503,-0.2764
 MOLLY'S TEA ROOM LTD.,SG5 1NQ,51.9512,-0.2763
 Mint Leaf Hitchin,SG5 1NQ,51.9512,-0.2763
 Paprika Spice Ltd,SG5 1QU,51.9539,-0.2723
-McDonalds Restaurants,SG5 1RQ,51.9543,-0.2680
+McDonald's,SG5 1RQ,51.9544,-0.2671
 bridge street bistro,SG5 2DF,51.9454,-0.2779
 The Highlander,SG5 2EF,51.9472,-0.2854
 Red Lion Lodge and Hotel,SG5 3DZ,51.9264,-0.3349
@@ -112,17 +108,15 @@ The Stag,SG5 4LA,52.0140,-0.2311
 India Lodge,SG5 4LD,52.0137,-0.2272
 Three Horseshoes,SG6 1AG,51.9930,-0.2100
 Teamworks Karting Letchworth,SG6 1JS,51.9814,-0.2166
-Burger King (UK) Ltd,SG6 1UP,51.9827,-0.2024
 The Fox,SG6 2AE,51.9616,-0.2197
 Three Horseshoes,SG6 2AE,51.9616,-0.2197
-Costa Coffee,SG6 2HB,51.9801,-0.2069
 MCDONALD'S,SG6 2HB,51.9799,-0.2077
-McDonalds Restaurant,SG6 2HU,51.9782,-0.2083
+McDonald's,SG6 2HB,51.9791,-0.2075
 Jackmans chippy,SG6 2NH,51.9703,-0.2104
 DRAGON KING,SG6 3AU,51.9800,-0.2279
 USA Fried Chicken,SG6 3BE,51.9808,-0.2254
+Thyme,SG6 3BG,51.9805,-0.2267
 Shapla Restaurant GB Ltd,SG6 3BJ,51.9804,-0.2253
-Prezzo,SG6 3BY,51.9779,-0.2294
 Alloro,SG6 3DA,51.9783,-0.2288
 Khoi Khoi bar and Vino,SG6 3DA,51.9781,-0.2289
 Miss Green Fingers,SG6 3DE,51.9791,-0.2280
@@ -131,11 +125,11 @@ Wallace Books Ltd  T/A David's Cafe,SG6 3DE,51.9787,-0.2281
 IZ Restaurant,SG6 3DG,51.9790,-0.2285
 Letchworth Pizza Pasta Limited,SG6 3DG,51.9790,-0.2285
 Ciao Italia,SG6 3DL,51.9781,-0.2278
-Wildwood,SG6 3DL,51.9779,-0.2280
-Costa Coffee,SG6 3DN,51.9784,-0.2272
+Costa Coffee,SG6 3DN,51.9779,-0.2269
 ESQUIRES COFFEE LETCHWORTH LIMITED,SG6 3ED,51.9788,-0.2265
 Vutie Beets,SG6 3EN,51.9796,-0.2255
 Thegrapevine,SG6 3EU,51.9795,-0.2276
+The Three Magnets Letchworth (Wetherspoon),SG6 3EW,51.9792,-0.2269
 Letchworth Golf Trust,SG6 3NQ,51.9638,-0.2311
 The Broadway Hotel,SG6 3NZ,51.9791,-0.2302
 The Cloisters,SG6 3TH,51.9678,-0.2242
@@ -150,8 +144,6 @@ EL MEXICANA,SG7 5TR,52.0145,-0.2025
 KFC BALDOCK SERVICE,SG7 5TR,52.0145,-0.2025
 KFC,SG7 5TR,52.0145,-0.2025
 MCDONALD'S,SG7 5TR,52.0145,-0.2025
-McDonalds,SG7 5TR,52.0145,-0.2025
-Starbucks,SG7 5TR,52.0145,-0.2025
 The George at Baldock,SG7 6AL,51.9892,-0.1894
 Bombay Bistro ,SG7 6AP,51.9892,-0.1889
 ABC HOSPITALITY LIMITED,SG7 6AS,51.9888,-0.1884
@@ -160,6 +152,7 @@ Pixie’s,SG7 6AX,51.9884,-0.1882
 Cafe Luna,SG7 6BG,51.9875,-0.1863
 Il forno,SG7 6BJ,51.9875,-0.1871
 The White Lion,SG7 6BJ,51.9875,-0.1871
+Costa Coffee,SG7 6BN,51.9858,-0.1866
 KNKN limited,SG7 6EB,51.9872,-0.1872
 DB Herts Ltd,SG7 6QB,51.9907,-0.1883
 Tapp's Garden Centre,SG7 6RS,51.9869,-0.1777
@@ -174,6 +167,7 @@ Yuva Dining Room Ltd,SG8 5JL,52.0811,-0.0384
 the hoops,SG8 5LF,52.0784,-0.0530
 The Belle,SG8 5NZ,52.0814,-0.0610
 The Chequers,SG8 5QL,52.1339,-0.0127
+Costa Coffee,SG8 5UA,52.0599,-0.0320
 Bury Lane Farm Shop,SG8 6DF,52.0791,0.0042
 Sheene Mill (Vinura Ltd),SG8 6DX,52.0847,0.0147
 Sheene Mill Retail and Therapy,SG8 6DX,52.0847,0.0147
@@ -183,11 +177,13 @@ The British Queen,SG8 6LB,52.0973,0.0070
 The Green Man,SG8 6RA,52.1027,0.0397
 Hot Numbers Coffee - The Roastery,SG8 6RB,52.0997,0.0373
 Banyers House,SG8 7BZ,52.0484,-0.0227
+The Manor House Royston (Wetherspoon),SG8 7BZ,52.0483,-0.0231
 THE CHEQUERS,SG8 7SR,52.0930,0.0729
 September flowers and coffee bar,SG8 8EE,52.0044,0.0159
 Fox And Hounds,SG8 8HU,52.0263,0.0386
 The Chequers Inn,SG8 8JQ,52.0247,0.0325
 Woodman Inn,SG8 8NB,51.9912,0.0547
+Costa Coffee,SG8 9AA,52.0472,-0.0238
 Costa Coffee,SG8 9AA,52.0474,-0.0238
 Kooky Nohmad Royston Ltd,SG8 9AG,52.0474,-0.0236
 Rasa sayang,SG8 9AG,52.0475,-0.0236
@@ -195,7 +191,7 @@ The Old Bull Inn,SG8 9AW,52.0463,-0.0234
 The Royal Bengal,SG8 9AW,52.0463,-0.0234
 Lounge India,SG8 9JU,52.0459,-0.0214
 MCDONALD'S,SG8 9NT,52.0456,-0.0538
-McDonalds Restaurant,SG8 9NT,52.0456,-0.0538
+McDonald's,SG8 9NT,52.0454,-0.0544
 The Fox and Duck,SG8 9PN,52.0175,-0.0543
 The Three Tuns,SG9 0NT,51.9512,0.0407
 VICEROY (HERTS) LTD,SG9 9AD,51.9475,-0.0196

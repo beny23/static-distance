@@ -1,9 +1,8 @@
 name,postcode,lat,lon
 The Folly Wine and ale House ltd,GU31 4AD,51.0043,-0.9345
-J D Wetherspoon,GU31 4AE,51.0051,-0.9336
+The Red Lion Petersfield (Wetherspoon),GU31 4AE,51.0038,-0.9341
 The Good Intent,GU31 4AF,51.0064,-0.9340
 The Half Moon,GU31 4BE,51.0136,-0.9186
-Everyone Active at Taro Leisure Centre,GU31 4EP,51.0066,-0.9076
 The Natural Food Deli,GU31 4JD,51.0035,-0.9343
 Lemongrass,GU31 4JJ,51.0019,-0.9353
 Malabon ,GU31 4JJ,51.0021,-0.9351
@@ -14,21 +13,20 @@ Ye olde George inn,GU32 1NH,50.9951,-1.0323
 THE IZAAK WALTON P.H.,GU32 1QA,50.9943,-1.0308
 Queens Head,GU32 2AH,51.0150,-0.9193
 McDonald's Restaurant,GU32 3BS,51.0087,-0.9524
-CH&Co Group Ltd at Whitman Laboratories Ltd,GU32 3DD,51.0060,-0.9515
+McDonald's,GU32 3BS,51.0087,-0.9524
 Drink & Snack Limited,GU32 3DT,51.0047,-0.9382
 Fez Restaurant,GU32 3DY,51.0053,-0.9381
 Petersfield Kebab House,GU32 3DY,51.0053,-0.9381
-Pizza Express,GU32 3DY,51.0053,-0.9381
 One Tree Books Cafe,GU32 3EL,51.0057,-0.9392
 PARADISE RESTAURANT,GU32 3EL,51.0057,-0.9391
 La Piazzetta ,GU32 3HJ,51.0041,-0.9375
-Caffe Nero,GU32 3HR,51.0035,-0.9370
 Josies Petersfield Ltd,GU32 3HX,51.0031,-0.9362
 Tearan LTD T/A Gallery No 30,GU32 3JL,51.0039,-0.9354
 The Townhouse,GU32 3JL,51.0039,-0.9354
 Cafe Mezzo,GU32 3JR,51.0035,-0.9351
-Ask Italian,GU32 3JT,51.0036,-0.9360
 Medirest Healthcare-Compass Group at Petersfield Hospital,GU32 3LB,51.0041,-0.9421
+Beefeater Great Oak,GU32 3SB,51.0092,-0.9477
+Costa Coffee,GU32 3TA,51.0043,-0.9367
 The Spread Eagle,GU33 6JU,51.0518,-0.9006
 Hillier Garden Centre Liss,GU33 6LJ,51.0327,-0.9061
 Shah Manzil,GU33 7AD,51.0442,-0.8941
@@ -42,20 +40,15 @@ Solent Hotel & Spa,PO15 7AJ,50.8799,-1.2507
 Fresh to Desk,PO15 7AW,50.8791,-1.2412
 Trenchers,PO15 7AW,50.8791,-1.2412
 Clement’s Deli,PO15 7AZ,50.8761,-1.2440
+Nando's,PO15 7FD,50.8862,-1.2477
+Costa Coffee,PO15 7LJ,50.8844,-1.2452
 Starbucks Whiteley Village ,PO15 7LJ,50.8848,-1.2472
-Compass Group HSBC Canteen,PO15 7PA,50.8788,-1.2427
-Cafe Nero,PO15 7PD,50.8853,-1.2460
+Bar + Block Whiteley,PO15 7PD,50.8862,-1.2485
 DIM T,PO15 7PD,50.8853,-1.2460
-Five Guys,PO15 7PD,50.8853,-1.2460
 Friendly Phils,PO15 7PD,50.8853,-1.2460
-Nando's,PO15 7PD,50.8853,-1.2460
 Pizza Express,PO15 7PD,50.8853,-1.2460
-Prezzo,PO15 7PD,50.8854,-1.2466
 Rock Up Whiteley,PO15 7PD,50.8854,-1.2466
-Starbucks,PO15 7PD,50.8854,-1.2466
 Wagamama,PO15 7PD,50.8854,-1.2466
-Wildwood,PO15 7PD,50.8853,-1.2460
-Yo Sushi Whiteley,PO15 7PD,50.8853,-1.2460
 Rodizio Grill ,PO17 5BT,50.8829,-1.1813
 Kutis Of Wickham,PO17 5DJ,50.8989,-1.1875
 Poppy’s tea room ,PO17 5HB,50.9009,-1.1992
@@ -74,23 +67,28 @@ Barnards Restaurant,PO7 6NU,50.9039,-1.0650
 The BakeHouse at Denmead Limited,PO7 6NU,50.9040,-1.0650
 Shalimar ,PO7 6XE,50.8907,-1.0454
 Falcon,PO7 6XF,50.8912,-1.0460
+Costa Coffee,PO7 7DT,50.8800,-1.0309
+The Denmead Queen Waterlooville (Wetherspoon),PO7 7EB,50.8809,-1.0310
 Number 73 Bar And Kitchen,PO7 7EX,50.8785,-1.0335
+Costa Coffee,PO7 7FG,50.8810,-1.0342
 Subway,PO7 7HE,50.8791,-1.0326
 Good Food To Go Ltd T/A Pura Vida,PO7 7HG,50.8785,-1.0329
 Devilishly Good Delicatessen and Eatery ,PO7 7HS,50.8794,-1.0305
 Alpa Modi T/a Mycafe,PO7 7PU,50.8903,-1.0456
 McDonald's Restaurant,PO7 7TZ,50.8853,-1.0393
+McDonald's,PO7 7TZ,50.8853,-1.0394
 BLENDWORTH FURNISHINGS LTD,PO8 0AD,50.9152,-0.9950
 the ship and bell,PO8 0BZ,50.9138,-0.9959
 Indian Cottage Restaurant,PO8 0DT,50.9126,-0.9961
+Table Table Red Lion - Portsmouth,PO8 0DT,50.9133,-0.9965
 Mela Indian Restaurant,PO8 0JL,50.9353,-0.9986
 THE RISING SUN,PO8 0RN,50.9482,-1.0075
 The Farmer Inn,PO8 0TD,50.9242,-1.0130
 Waterlooville Golf Club,PO8 8AP,50.8926,-1.0083
+Costa Coffee,PO8 8DF,50.8929,-1.0201
 Koop and Kraft,PO8 8DH,50.8937,-1.0194
 Pizza Hut,PO8 8RE,50.8930,-1.0326
 Pasha,PO8 8UJ,50.8941,-1.0187
-KFC,PO8 8XJ,50.8969,-1.0171
 The Bird in Hand,PO8 9RX,50.9132,-1.0287
 The Robin Hood Rowlands Limited,PO9 6AB,50.8912,-0.9609
 The Bumblebee Cafe,PO9 6BN,50.8913,-0.9588
@@ -102,13 +100,13 @@ The Chestnut Horse,SO21 1EG,51.0857,-1.2693
 The Cricketers Inn,SO21 1EJ,51.0859,-1.2721
 The Ship Inn  Owslebury,SO21 1LT,51.0067,-1.2730
 Unit12 cafe,SO23 0LD,51.0662,-1.2986
-BaxterStorey,SO23 7TW,51.0865,-1.2995
+Costa Coffee,SO23 7RS,51.0696,-1.2974
+Thyme,SO23 7RT,51.0681,-1.2992
 The ship inn,SO24 0AQ,51.0834,-1.1355
 ROPLEY THAI LOUNGE ,SO24 0BG,51.0830,-1.1057
 The Fox Inn,SO24 0LP,51.0461,-1.1240
 Mr C J Pullinger trading as Pullinger Leisure,SO24 0PN,51.0724,-1.1742
 The Swan Hotel,SO24 9AD,51.0903,-1.1620
-Pizza Express,SO24 9AQ,51.0912,-1.1610
 Pulpo Negro ,SO24 9AQ,51.0912,-1.1610
 Bangkok Bistro,SO24 9AR,51.0912,-1.1618
 Caracoli Alresford,SO24 9AR,51.0910,-1.1618
@@ -123,7 +121,6 @@ The Brewery Bar,SO30 2AA,50.9149,-1.2695
 The Railway Inn,SO30 2DN,50.9154,-1.2575
 Purbani Botley Restaurant ,SO30 2EA,50.9145,-1.2715
 Regginas Restaurant Limited,SO30 2EA,50.9142,-1.2711
-THE DOLPHIN (WADWORTH),SO30 2EA,50.9141,-1.2707
 Hillier Garden Centre Botley,SO30 2EZ,50.9205,-1.2839
 The Old Mill Restaurant ,SO30 2GB,50.9147,-1.2687
 Kings country kitchen and bar,SO30 2HA,50.9135,-1.2609
@@ -133,6 +130,7 @@ THE ELM TREE,SO31 7DX,50.8831,-1.2777
 The Navigator,SO31 7EB,50.8837,-1.2994
 The Bold Forester,SO31 7EL,50.8760,-1.2836
 The Old Ship,SO31 7FN,50.8810,-1.2958
+Costa Coffee,SO32 1AA,50.9542,-1.2125
 Giorgio's Mediterranean Restaurant and Bar,SO32 1AA,50.9539,-1.2128
 Josies Bishops Waltham,SO32 1AA,50.9541,-1.2127
 Piccola Roma,SO32 1AR,50.9537,-1.2126

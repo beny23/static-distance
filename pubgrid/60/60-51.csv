@@ -1,9 +1,8 @@
 name,postcode,lat,lon
-Pizza Hut Restaurant,HD1 1BA,53.6472,-1.7823
+The Cherry Tree Huddersfield (Wetherspoon),HD1 1BA,53.6475,-1.7821
 heavenly desserts,HD1 1BG,53.6479,-1.7825
 pepes peri peri,HD1 1BG,53.6477,-1.7824
 AIS Ko LTD,HD1 1BR,53.6473,-1.7828
-Nandos,HD1 1BR,53.6473,-1.7828
 icestone gelato,HD1 1BR,53.6472,-1.7827
 Keys Kitchen and Coffee House,HD1 1BU,53.6474,-1.7807
 Zephyr Bar And Kitchen,HD1 1BX,53.6473,-1.7817
@@ -22,15 +21,15 @@ Nawaab,HD1 1NY,53.6468,-1.7852
 Mc Noodle King,HD1 1QH,53.6467,-1.7814
 Merrie England Coffee Shops Ltd,HD1 1QH,53.6467,-1.7814
 McDonald's Restaurant,HD1 1QJ,53.6470,-1.7822
-McDonalds,HD1 1QJ,53.6470,-1.7822
+McDonald's,HD1 1QJ,53.6470,-1.7823
 Parish,HD1 1QQ,53.6469,-1.7805
 Espresso Corner,HD1 1QS,53.6471,-1.7817
 SAN VITO ITALIAN RESTAURANT,HD1 1QT,53.6473,-1.7795
 Cafe Ollo,HD1 1RL,53.6491,-1.7809
 Subway,HD1 2AN,53.6466,-1.7827
 KFC NEW STREET 02022,HD1 2AX,53.6461,-1.7823
-Kfc,HD1 2AX,53.6461,-1.7823
-Costa Coffee,HD1 2BU,53.6454,-1.7833
+KFC,HD1 2AX,53.6461,-1.7822
+Costa Coffee,HD1 2BU,53.6457,-1.7830
 Merrie England Coffee Shops Ltd,HD1 2BW,53.6448,-1.7834
 Hart Bar,HD1 2DX,53.6459,-1.7839
 WIMPY,HD1 2DX,53.6458,-1.7835
@@ -47,18 +46,16 @@ Dixy Chicken,HD1 2PY,53.6463,-1.7809
 Grillish,HD1 2PY,53.6460,-1.7808
 Malaika Huddersfield Ltd,HD1 2PY,53.6463,-1.7809
 Cafe Mandalay,HD1 2PZ,53.6459,-1.7808
-Patisserie Valerie,HD1 2PZ,53.6459,-1.7808
 The Chinese Buffet,HD1 2PZ,53.6459,-1.7808
+The Lord Wilson Huddersfield (Wetherspoon),HD1 2PZ,53.6456,-1.7791
 Bagel Nash Huddersfield,HD1 2QB,53.6460,-1.7800
-Costa Coffee,HD1 2QB,53.6460,-1.7800
+Costa Coffee,HD1 2QB,53.6455,-1.7785
 Eat Like a Greek,HD1 2QB,53.6459,-1.7791
 Kingsgate Shopping Centre ,HD1 2QB,53.6459,-1.7791
 Little Lotus Huddersfield,HD1 2QB,53.6460,-1.7800
 SrinonKitchen,HD1 2QB,53.6459,-1.7791
-Caffe Nero,HD1 2QD,53.6460,-1.7823
 Choosy's Tea & Coffee House,HD1 2QD,53.6460,-1.7823
 Northern Tea House,HD1 2QT,53.6455,-1.7798
-Burger King,HD1 2RT,53.6463,-1.7814
 Escale Kaffeine Ltd,HD1 2RT,53.6463,-1.7814
 Merrie England Coffee Shops Ltd,HD1 2RT,53.6463,-1.7814
 Peters fashions limited,HD1 2RT,53.6463,-1.7814
@@ -81,7 +78,7 @@ KABANA1 LTD ,HD1 4DN,53.6477,-1.7906
 The Peppercorn,HD1 4DN,53.6477,-1.7906
 CHAIIWALA (HUDDERSFIELD),HD1 4EN,53.6470,-1.7898
 Cafe In The Park,HD1 4HS,53.6492,-1.7996
-Elior,HD1 6RA,53.6480,-1.7743
+Table Table The Aspley,HD1 6SB,53.6449,-1.7742
 JILL'S CAFE,HD3 4HY,53.6404,-1.8263
 thirsty gardener cafe,HD3 4QA,53.6401,-1.8378
 AROMA RESTAURANT & GRILL,HD4 5AA,53.6403,-1.8025
@@ -98,14 +95,13 @@ LAXMI Restaurant ,HD4 7NE,53.6197,-1.7960
 SONS OF THE NORTH LIMITED,HD4 7NR,53.6184,-1.7995
 Cardamon Green HD5LTD,HD5 0AL,53.6453,-1.7319
 McDonald's Restaurant,HD5 0AN,53.6453,-1.7316
-McDonalds,HD5 0BS,53.6459,-1.7327
+McDonald's,HD5 0BS,53.6460,-1.7326
 Royal City Cantoness Restaurant ,HD5 8AA,53.6447,-1.7624
 Ali murad,HD5 8AG,53.6436,-1.7638
 ivy green,HD5 8DE,53.6455,-1.7601
 T&Cake,HD5 8RX,53.6339,-1.7487
 Bengal Aroma Almondbury Ltd,HD5 8UU,53.6330,-1.7474
 The Barn Restaurant,HD5 8XF,53.6310,-1.7471
-KFC,HD5 9AB,53.6435,-1.7710
 Subway  Molgreen,HD5 9AB,53.6435,-1.7710
 Pizza Hut Delivery,HD5 9AN,53.6432,-1.7695
 CoffeeBoy,HD5 9BD,53.6427,-1.7655
@@ -179,14 +175,13 @@ Booth Wood Inn,HX6 4QU,53.6487,-1.9490
 Blueocean ,M34 2AF,53.4560,-2.1185
 Waterfall Elior At Greswell Primary School (Infants),M34 2DH,53.4491,-2.1193
 the  lowes arms,M34 3FF,53.4555,-2.0983
-Costa Coffee,M34 3JP,53.4592,-2.1184
 Denton McDonald's,M34 3JP,53.4592,-2.1184
-McDonalds,M34 3JP,53.4592,-2.1184
-Nando's,M34 3JP,53.4591,-2.1183
+McDonald's,M34 3JP,53.4587,-2.1158
 Crown Cafe,M34 3JU,53.4560,-2.1154
 Golden  Dragon,M34 3LE,53.4564,-2.1157
 THE ORANGE TREE RESTURAUNT LIMITED,M34 3LE,53.4564,-2.1156
 Love Mumbai,M34 3LF,53.4567,-2.1143
+Costa Coffee,M34 3LX,53.4587,-2.1196
 san remo grill,M34 3PR,53.4563,-2.1179
 Tameside Wellness Centre - Denton,M34 3RD,53.4561,-2.1205
 Indi2nite ,M34 5BU,53.4689,-2.1118
@@ -194,7 +189,6 @@ The Queens Arms,M34 5FF,53.4707,-2.1131
 The Boundary,M34 5HD,53.4756,-2.1164
 Waterfall Elior Limited At St Stephens CE Primary School,M34 5HD,53.4756,-2.1164
 Old Plaza ltd,M34 5HP,53.4752,-2.1197
-Baxterstorey Limited At Brother UK Ltd,M34 5JD,53.4720,-2.1099
 Pizza Hut,M34 6DB,53.4557,-2.1134
 Subway,M34 6DB,53.4557,-2.1134
 Fletchers Arms Ltd ,M34 6EG,53.4438,-2.1159
@@ -215,7 +209,7 @@ Piri Piri,OL1 1HH,53.5401,-2.1143
 TORONTO 57 LTD,OL1 1HH,53.5401,-2.1141
 Clean Plate Kitchen,OL1 1HU,53.5403,-2.1140
 DDLP LTD,OL1 1JA,53.5418,-2.1128
-KFC,OL1 1JA,53.5418,-2.1127
+McDonald's,OL1 1JA,53.5418,-2.1129
 square cafe and deli ltd,OL1 1JA,53.5418,-2.1128
 subway,OL1 1JA,53.5419,-2.1124
 Chambers sandwich shop ltd,OL1 1LF,53.5415,-2.1159
@@ -223,20 +217,20 @@ The Eatery,OL1 1LF,53.5416,-2.1159
 Blue Onion Cafe ltd,OL1 1NH,53.5431,-2.1154
 GALLERY GRILL,OL1 1NH,53.5429,-2.1154
 Costa Coffee - Oldham Integrated Care Centre,OL1 1NL,53.5438,-2.1169
-Costa Coffee,OL1 1NL,53.5438,-2.1169
+Costa Coffee,OL1 1NL,53.5438,-2.1166
 icepan oldham limited ,OL1 1PF,53.5406,-2.1115
 Cafe 22,OL1 1PL,53.5411,-2.1117
-Nando's,OL1 1RA,53.5418,-2.1112
 Cafe Lahore ,OL1 1TD,53.5418,-2.1061
 COCOMO LTD T/A Mangobean ,OL1 1XD,53.5417,-2.1122
 Costa Coffee - Oldham Spindles,OL1 1XF,53.5417,-2.1122
-Costa Coffee,OL1 1XF,53.5417,-2.1122
+Costa Coffee,OL1 1XF,53.5414,-2.1131
 Orbis Acquisitions Limited,OL1 3AJ,53.5422,-2.1132
+The Up Steps Inn Oldham (Wetherspoon),OL1 3AJ,53.5422,-2.1128
 The Salt Cellar,OL1 3AN,53.5425,-2.1121
 The Smokehouse (Oldham) Limited t/as Smoke Yard,OL1 3AT,53.5423,-2.1116
 greenroom catering ltd,OL1 3BB,53.5430,-2.1140
 LEVERS FISH AND CHIPS,OL1 3BG,53.5430,-2.1140
-KFC,OL1 3NQ,53.5459,-2.0934
+KFC,OL1 3NQ,53.5457,-2.0940
 Pepes Piri Piri,OL1 3ST,53.5424,-2.1081
 Lizzy Lounge LTD,OL1 3SW,53.5427,-2.1085
 THE DARK KITCHEN,OL1 3SW,53.5427,-2.1085
@@ -266,6 +260,7 @@ The Waggon inn,OL16 3PE,53.6071,-2.1043
 Char,OL16 3QF,53.6004,-2.0972
 the cedar tree,OL16 3RF,53.6012,-2.0880
 The Milnrow Balti Restaurant ,OL16 4HS,53.6104,-2.1118
+Table Table John Milne,OL16 4JF,53.6029,-2.1042
 Bank chambers ,OL16 4LU,53.5999,-2.0977
 SIMLA INN TANDOORI LIMITED,OL2 5PA,53.5650,-2.1227
 Bru’d Awakenin’s ,OL2 5PB,53.5650,-2.1219
@@ -285,10 +280,10 @@ The Barclay Pizza & Prosecco,OL2 6RY,53.5655,-2.1216
 THE PUCKERSLEY INN ,OL2 6YD,53.5817,-2.1240
 THE NORTH  STAR,OL2 7PR,53.5850,-2.1100
 Bengal brasserie,OL2 8AP,53.5784,-2.0931
+The Shay Wake Oldham (Wetherspoon),OL2 8EQ,53.5778,-2.0931
 The Morning Star,OL2 8HZ,53.5779,-2.0850
 Naughty but nice,OL2 8NH,53.5770,-2.0940
 Donnelly's,OL2 8NR,53.5769,-2.0936
-Elior UK,OL2 8PJ,53.5753,-2.0881
 Fresca Restaurants Limited,OL3 5DE,53.5628,-2.0212
 Bay Leaf,OL3 5DL,53.5674,-2.0237
 The bank,OL3 5DL,53.5674,-2.0237
@@ -326,6 +321,7 @@ gelatos ice lounge ltd,OL4 1JZ,53.5435,-2.0986
 The Arundel Bakery,OL4 1LE,53.5446,-2.0941
 Pizza Hut,OL4 2AH,53.5466,-2.0902
 Owl’s Cafe Ltd,OL4 2AX,53.5455,-2.0880
+McDonald's,OL4 2BY,53.5457,-2.0924
 subway,OL4 2GA,53.5462,-2.0914
 Village Manor Bakery ,OL4 2JG,53.5500,-2.0732
 Labella,OL4 3BN,53.5382,-2.0734
@@ -343,7 +339,6 @@ Peels Arms,OL4 4RE,53.5431,-2.0603
 The Gillery,OL5 0AD,53.5148,-2.0418
 San Giorgio's Italian Kitchen and Pizzeria,OL5 0HR,53.5189,-2.0461
 Sweet Vintage,OL5 0HR,53.5189,-2.0461
-Pho Thong,OL5 0LL,53.5187,-2.0465
 Greenwood Catering,OL5 0RB,53.5223,-2.0421
 Red rose restaurant ,OL5 9AB,53.5140,-2.0406
 The Britannia Inn ,OL5 9AJ,53.5153,-2.0410
@@ -363,9 +358,8 @@ JJs Little Kitchen  (Stall 74),OL6 6BZ,53.4892,-2.0925
 Nat's Bombay Kitchen,OL6 6BZ,53.4892,-2.0925
 Tarps Filipino Street Food,OL6 6BZ,53.4892,-2.0925
 The Fusion Wok,OL6 6BZ,53.4892,-2.0925
-Buzz Bingo,OL6 6DJ,53.4913,-2.0977
+The Ash Tree AshtonunderLyne (Wetherspoon),OL6 6DA,53.4899,-2.0924
 SUBWAY,OL6 6DJ,53.4913,-2.0977
-KFC,OL6 6DL,53.4901,-2.0942
 Pizza Hut,OL6 6EF,53.4899,-2.0916
 AL NOOR ,OL6 6EL,53.4901,-2.0902
 Jasmine Tea Rooms,OL6 6EP,53.4900,-2.0909
@@ -375,10 +369,9 @@ Antonio's 1 Ltd,OL6 7AW,53.4885,-2.0973
 Lily's,OL6 7DF,53.4890,-2.0989
 Buono Taste,OL6 7HP,53.4871,-2.1035
 Bap,OL6 7JE,53.4894,-2.0966
+McDonald's,OL6 7JG,53.4887,-2.0942
 McDonalds  Ashton-under-Lyne,OL6 7JG,53.4885,-2.0942
-McDonalds Restaurant,OL6 7JG,53.4885,-2.0942
 Costa Coffee,OL6 7JJ,53.4888,-2.0959
-Costa Coffee,OL6 7JQ,53.4885,-2.0951
 Rosie’s coffee bar and kitchen ,OL6 7JQ,53.4885,-2.0951
 Gold Medal Fish and Chips Restaurant,OL6 7JR,53.4880,-2.0957
 SUBWAY,OL6 7JS,53.4886,-2.0936
@@ -392,27 +385,21 @@ The Junction Inn,OL6 9BX,53.5036,-2.0584
 Heroes Restaurant & Bar,OL6 9DQ,53.4979,-2.0661
 Ashton Golf Club,OL6 9HT,53.5041,-2.0719
 Baxterstorey Limited At Ashton Sixth Form College,OL6 9RL,53.4921,-2.0755
-Costa Coffee At Tameside Hospital,OL6 9RW,53.4922,-2.0719
+Costa Coffee,OL6 9RW,53.4919,-2.0715
 Smith's Cafe and takeaway ,OL7 0AU,53.4880,-2.1086
 Subway Maynestone,OL7 0DA,53.4829,-2.1105
-Pausa Coffee Shop At Dunelm,OL7 0DN,53.4792,-2.1229
+McDonald's,OL7 0DN,53.4787,-2.1248
 Pasta&Basta ,OL7 0LD,53.4819,-2.1068
 Serrano's,OL7 0LD,53.4818,-2.1068
-McDonalds,OL7 0LY,53.4861,-2.1138
-Starbucks Coffee Co at Village Urban Resorts,OL7 0LY,53.4861,-2.1138
-Costa Coffee Drive Thru,OL7 0PG,53.4890,-2.1116
-Five Guys,OL7 0PG,53.4890,-2.1116
-Hollywood Bowl,OL7 0PG,53.4890,-2.1116
+KFC,OL7 0PG,53.4886,-2.1132
+McDonald's,OL7 0PG,53.4874,-2.1128
 McDonalds  Ashton Moss,OL7 0PG,53.4890,-2.1116
-Nandos Restaurant,OL7 0PG,53.4890,-2.1116
-Starbucks At Cineworld,OL7 0PG,53.4891,-2.1116
-TGI Fridays,OL7 0PG,53.4891,-2.1116
+Nando's,OL7 0PG,53.4892,-2.1113
 Youngs Fish And Chips,OL7 9AD,53.4931,-2.0988
 Zing & Zest Indian Restaurant ,OL7 9AH,53.4923,-2.0995
 Dog & Pheasant.,OL7 9PQ,53.5052,-2.1056
 Georgia Fried Chicken ,OL8 1DP,53.5397,-2.1165
 Shimlas Restaurant,OL8 1DP,53.5402,-2.1169
-Mecca Bingo Ltd,OL8 1ES,53.5400,-2.1185
 Koffee Kingdom,OL8 1FR,53.5392,-2.1207
 Oldham Greenhill Community Sports & recreation Club,OL8 1JR,53.5352,-2.1125
 Sanahs,OL8 1JX,53.5350,-2.1151
@@ -442,27 +429,30 @@ The Oakwood ,SK13 8AZ,53.4433,-1.9523
 The Italian ,SK13 8BB,53.4436,-1.9546
 Tung fong,SK13 8BB,53.4436,-1.9546
 Ayubowan Restaurant,SK13 8BH,53.4436,-1.9520
+Costa Coffee,SK13 8BP,53.4434,-1.9504
 Costa Coffee,SK13 8BP,53.4436,-1.9504
 Napoli ristorante limited ,SK13 8BP,53.4436,-1.9504
 Twig Coffee Glossop,SK13 8BS,53.4438,-1.9485
 olive and gin bar,SK13 8BS,53.4438,-1.9485
 Kwei Ping Restaurant,SK13 8BW,53.4440,-1.9500
 Pepino Deli,SK13 8BW,53.4440,-1.9500
+Costa Coffee,SK13 8GN,53.4441,-1.9576
 The Globe Inn and Lift Limited,SK13 8HJ,53.4433,-1.9566
+The Smithy Fold Glossop (Wetherspoon),SK13 8HS,53.4426,-1.9488
 AUTHENTIC BALTI CURRY LTD,SK13 8HT,53.4423,-1.9488
 The Beehive,SK13 8NR,53.4365,-1.9455
 The lunch ladies ,SK14 1EE,53.4486,-2.0861
 Subway Hyde,SK14 1ES,53.4501,-2.0788
 Adnans Hyde,SK14 1HG,53.4486,-2.0768
-KFC,SK14 1ND,53.4498,-2.0763
+KFC,SK14 1ND,53.4510,-2.0752
 Vedic Vegan And Vegetarian Restaurant ,SK14 2AD,53.4523,-2.0808
 viceroy indian cuisine,SK14 2AX,53.4538,-2.0802
 Saffron,SK14 2BD,53.4528,-2.0840
 Gracie’s Bar and Kitchen Ltd ,SK14 2EL,53.4519,-2.0789
 Maha Restaurant Ltd,SK14 2ND,53.4517,-2.0762
-Costa Coffee,SK14 2QU,53.4514,-2.0777
+Costa Coffee,SK14 2QU,53.4513,-2.0776
 Hyde - Costa Coffee,SK14 2QU,53.4514,-2.0777
-McDonalds Restaurant,SK14 3AU,53.4537,-2.0260
+McDonald's,SK14 3AU,53.4533,-2.0247
 Matteos catering ltd at Oaklands Hall,SK14 3DE,53.4507,-2.0590
 Oaklands Masonic Club,SK14 3DE,53.4507,-2.0590
 Aqua Nurture,SK14 5BS,53.4398,-2.0788
@@ -479,7 +469,7 @@ PHOENIX CITY (STALYBRIDGE) LTD,SK15 1NX,53.4826,-2.0585
 The Bridgefield Curry Lounge ,SK15 1TN,53.4780,-2.0721
 Florence & Amelia's Limited,SK15 2DB,53.4825,-2.0565
 Swaadesh Indian Cuisine ,SK15 2JN,53.4812,-2.0571
-The Society Rooms (Wetherspoons),SK15 2JN,53.4812,-2.0572
+The Society Rooms Stalybridge (Wetherspoon),SK15 2JN,53.4813,-2.0572
 Candolim,SK15 2QP,53.4832,-2.0502
 waggon and horses,SK15 2SU,53.4673,-2.0274
 Stamford Arms,SK15 3PY,53.5090,-2.0281

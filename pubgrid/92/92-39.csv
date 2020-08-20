@@ -1,36 +1,38 @@
 name,postcode,lat,lon
-Brewdog,EH12 9DN,55.9484,-3.3632
-Burger King,EH12 9DN,55.9484,-3.3632
-Caffe Nero,EH12 9DN,55.9484,-3.3632
-Costa Coffee,EH12 9DN,55.9484,-3.3632
-Pret A Manger,EH12 9DN,55.9484,-3.3632
-Starbucks,EH12 9DN,55.9484,-3.3632
-Wetherspoons - The Turnhouse,EH12 9DN,55.9484,-3.3632
+Costa Coffee,EH12 9DN,55.9480,-3.3650
+The Sir Walter Scott Unit C170 After Security (Wetherspoon),EH12 9DN,55.9489,-3.3629
+The Turnhouse Before Security (Wetherspoon),EH12 9DN,55.9488,-3.3627
 Hampton by Hilton Edinburgh Airport,EH12 9GN,55.9449,-3.3642
 Fhior at Cafe Party,EH27 8BB,55.9096,-3.4117
 Dalmahoy Hotel and Country Club,EH27 8EB,55.9065,-3.3755
 Holiday Inn Express Edinburgh Airport ,EH28 8AU,55.9447,-3.3710
 Clifton Hall School Ltd,EH28 8LQ,55.9208,-3.4255
+McDonald's,EH28 8LQ,55.9377,-3.4023
 McDonalds ,EH28 8LQ,55.9208,-3.4255
 Norton House Hotel & Spa,EH28 8LX,55.9335,-3.3860
 Royal Highland Centre,EH28 8NB,55.9411,-3.3691
 MFG BP NEWBRIDGE,EH28 8PW,55.9343,-3.4036
 The Bridge Inn Ratho,EH28 8RU,55.9226,-3.3792
 Kate’s Kitchen,EH28 8SR,55.9391,-3.4094
+Thyme,EH28 8TH,55.9432,-3.4046
 Ravenous Beastie,EH30 9LL,55.9902,-3.3969
 Orocco Pier,EH30 9PP,55.9903,-3.3963
 Queens Spice,EH30 9PP,55.9903,-3.3963
 The Boathouse,EH30 9PP,55.9903,-3.3963
-Burger King,EH30 9QZ,55.9826,-3.3971
+Burger King,EH30 9QU,55.9832,-3.3980
 DOWN THE HATCH ,EH30 9SQ,55.9926,-3.4084
 SCOTTS PORT EDGAR,EH30 9SQ,55.9926,-3.4084
 The Railbridge Bistro,EH30 9TA,55.9900,-3.3864
+Brewers Fayre Queens Crossing,EH30 9YJ,55.9840,-3.4068
+McDonald's,EH30 9YJ,55.9839,-3.4068
 McDonalds South Queensferry,EH30 9YJ,55.9840,-3.4068
 Hilcrfot hotel,EH47 0JU,55.8675,-3.6718
 karma restaurant,EH47 0QR,55.8658,-3.6916
 The Crown Inn,EH47 7QU,55.8709,-3.6220
 BATHGATE GOLF CLUB,EH48 1BA,55.8984,-3.6366
 Fairway Hotel ,EH48 1BA,55.8984,-3.6366
+Breakfast Room,EH48 1LQ,55.8953,-3.6065
+Costa Coffee,EH48 1NP,55.9006,-3.6410
 Costa Coffee,EH48 1NP,55.9007,-3.6410
 Pizza Hut,EH48 1NU,55.8999,-3.6412
 D'NISI BATHGATE LTD,EH48 1PA,55.9011,-3.6417
@@ -43,9 +45,9 @@ cafebar 1912,EH48 1TW,55.9019,-3.6443
 SCHUH STAFF RESTAURANT BATHGATE J4,EH48 2EA,55.8815,-3.6537
 CH&CO Catering Ltd,EH48 2EH,55.8887,-3.6181
 CAIRN HOTEL (BATHGATE) LIMITED,EH48 2EL,55.8874,-3.6238
-Costa Coffee @ Tesco,EH48 2ES,55.8938,-3.6214
+Costa Coffee,EH48 2ES,55.8936,-3.6189
 The Hive,EH48 2HR,55.8850,-3.6556
-McDonalds Restuarants Ltd,EH48 2RA,55.8990,-3.6430
+McDonald's,EH48 2RA,55.8987,-3.6439
 T/A McDonald's ,EH48 2RA,55.8990,-3.6430
 VIRSA INDIAN RESTAURANT,EH48 3JA,55.8980,-3.7042
 Luna Caffe,EH48 4EU,55.9029,-3.6409
@@ -63,6 +65,7 @@ Mason Belles Kitchen ,EH49 7AE,55.9769,-3.5973
 The Crannog,EH49 7AE,55.9769,-3.5973
 The Coffee Neuk,EH49 7AH,55.9773,-3.6002
 Costa Coffee,EH49 7AQ,55.9770,-3.5984
+Costa Coffee,EH49 7AQ,55.9770,-3.5991
 cafebar 1807,EH49 7AQ,55.9770,-3.5990
 The Jersey Bean,EH49 7ED,55.9766,-3.5993
 Fenwicks of Linlithgow,EH49 7EJ,55.9762,-3.6033
@@ -87,7 +90,6 @@ THE DINE,EH52 5EE,55.9345,-3.4691
 Marios,EH52 5EQ,55.9340,-3.4673
 Starbucks,EH52 5FF,55.9351,-3.4470
 The Open Door,EH52 5HY,55.9302,-3.5039
-Baxterstorey Scotland,EH52 6NH,55.9472,-3.5146
 Williamson Design Florist Ltd,EH52 6PA,55.9216,-3.5180
 The Fat Pheasant,EH52 6QE,55.9835,-3.4564
 Tally Ho,EH52 6TP,55.9598,-3.4622
@@ -105,30 +107,24 @@ Bayleaf,EH53 0LW,55.9073,-3.4927
 Innoflate Livingston,EH54 5DB,55.9163,-3.5086
 Jamuna,EH54 5PY,55.9179,-3.5023
 Don pollo peri peri ltd,EH54 6AG,55.8934,-3.5281
-Costa Coffee,EH54 6FQ,55.8824,-3.5194
+Costa Coffee,EH54 6FQ,55.8815,-3.5201
 Starbucks Livingston Drive-Thru,EH54 6GA,55.8796,-3.5258
 Starbucks,EH54 6GA,55.8796,-3.5258
-Wagamama,EH54 6GS,55.8831,-3.5171
+KFC,EH54 6HP,55.8799,-3.5206
+Costa Coffee,EH54 6HR,55.8836,-3.5151
 MCA Edinburgh Ltd T/A Subway,EH54 6HR,55.8837,-3.5135
 Muffin Break Livingston,EH54 6HR,55.8837,-3.5135
-Nando's Chickenland Ltd,EH54 6HR,55.8838,-3.5150
-Burger King,EH54 6NB,55.8842,-3.5126
 Carlton Bingo  Livingston,EH54 6NB,55.8842,-3.5126
-Costa Coffee,EH54 6NB,55.8842,-3.5126
 NowNow Cafe ,EH54 6NB,55.8846,-3.5110
 The Mall Cafe Bar  Livingston,EH54 6NB,55.8842,-3.5126
 The Paraffin Lamp,EH54 6NB,55.8842,-3.5126
 bakers baristas ( bb's ),EH54 6NQ,55.8846,-3.5110
 Chopstix Livingston,EH54 6QX,55.8827,-3.5194
-McDonalds Restaurants Ltd (664),EH54 6QX,55.8827,-3.5194
-McDonalds's,EH54 6QX,55.8827,-3.5194
-Pizza Express,EH54 6QX,55.8827,-3.5194
-Pizza Hut Restaurant,EH54 6QX,55.8827,-3.5194
-Prezzo,EH54 6QX,55.8827,-3.5194
+Costa Coffee,EH54 6QX,55.8830,-3.5203
+McDonald's,EH54 6QX,55.8839,-3.5179
 SPUDULIKE LIVINGSTON,EH54 6QX,55.8827,-3.5194
-Starbucks,EH54 6QX,55.8827,-3.5194
 T/A McDonald's,EH54 6QX,55.8827,-3.5194
-Tony Macaroni,EH54 6QX,55.8831,-3.5211
+The NewYearField Livingston (Wetherspoon),EH54 6QX,55.8827,-3.5179
 KFC,EH54 6RQ,55.8810,-3.5224
 Oscars (Pizza  Pasta  Burgers),EH54 6TW,55.8986,-3.5327
 Pizza Hut,EH54 6TW,55.8986,-3.5327
@@ -138,6 +134,7 @@ Livingston Inn ltd,EH54 7AF,55.8858,-3.5387
 Almond Valley Heritage Centre,EH54 7AR,55.8859,-3.5474
 The Topiary Coffee Shop,EH54 7AW,55.8813,-3.5309
 Albacore,EH54 7LW,55.8709,-3.5469
+Beefeater Deer Park,EH54 8AD,55.9153,-3.5259
 Balance bistro ltd ,EH54 8GZ,55.8988,-3.5668
 SUBWAY  BP CARMONDEAN  LIVINGSTON,EH54 8PT,55.9018,-3.5460
 Artisan Cheesecakes Kitchen ,EH54 8QH,55.8994,-3.5671
@@ -156,11 +153,12 @@ Braes Golf Centre Limited,FK2 0LS,55.9695,-3.6994
 J&AINNS LTD T/A CLAREMONT INN,FK2 0QP,55.9904,-3.7016
 Beancross Hotel & Restaurant,FK2 0XS,55.9957,-3.7216
 The Topiary Coffee Shop,FK2 0XS,55.9957,-3.7216
-Compass Group (Staff Canteen),FK2 7XP,56.0142,-3.7690
+Brewers Fayre Cadgers Brae,FK2 0YS,55.9963,-3.7231
 THE DUTCH INN,FK2 8NU,56.0304,-3.7540
 BENNY T'S ,FK2 9PS,55.9959,-3.7476
 Grangemouth Stadium,FK3 0EE,56.0053,-3.7083
 THE EARL OF ZETLAND,FK3 8AF,56.0192,-3.7221
+Costa Coffee,FK3 8BG,56.0182,-3.7240
 Costa Coffee,FK3 8BG,56.0185,-3.7237
 Subway,FK3 8BG,56.0185,-3.7237
 Grangemouth Complex,FK3 8JB,56.0104,-3.7217
@@ -168,8 +166,7 @@ Afternoon Tea Room at The Scott's,FK3 8PP,56.0094,-3.7319
 McDonalds ,FK3 8UY,56.0155,-3.7332
 Cooks Bar & Kitchen,FK3 8XJ,56.0153,-3.7467
 The Grange Manor Hotel,FK3 8XJ,56.0153,-3.7467
-Mcdonalds Restaurants,FK3 8XP,56.0116,-3.7467
-Compass Group (Asda Canteen),FK3 8ZG,56.0154,-3.7433
+McDonald's,FK3 8XP,56.0116,-3.7467
 Abbotsinch,FK3 9BT,56.0161,-3.7062
 Leapark Hotel,FK3 9BX,56.0168,-3.7102
 Oxgang Bar Kitchen Rooms,FK3 9BY,56.0156,-3.7096

@@ -1,8 +1,8 @@
 name,postcode,lat,lon
 Clockwork Beer Company,G42 9HB,55.8231,-4.2587
 Eastern Trading co (Glasgow) t/a Alishan Tandoori ,G42 9HU,55.8249,-4.2621
+Costa Coffee,G43 1AP,55.8218,-4.2975
 Hector and Harriet Pollok Golf Club,G43 1BG,55.8221,-4.3070
-Costa Coffee,G43 1EA,55.8223,-4.2997
 Loks Bar and Kitchen,G43 2XU,55.8232,-4.2877
 White Elephant,G44 3DL,55.8137,-4.2679
 Ashoka South Side,G44 3EA,55.8122,-4.2696
@@ -11,9 +11,8 @@ Williamwood Golf Club,G44 3YR,55.7960,-4.2740
 Koo-ee Cafe,G44 4BN,55.8184,-4.2610
 Steak Lounge and Grill,G44 4EF,55.8177,-4.2617
 Croft Bar and Restaurant,G44 5HB,55.8152,-4.2276
-Castlemilk West Church The Haven,G44 5UW,55.8184,-4.2548
+McDonald's,G45 9AA,55.8066,-4.2336
 McDonald's,G45 9AA,55.8067,-4.2351
-McDonalds,G45 9AA,55.8067,-4.2351
 bramble cafe,G46 6JD,55.8050,-4.2942
 Turban Tandoori,G46 6JF,55.8042,-4.2939
 Andiamo,G46 6JG,55.8040,-4.2945
@@ -29,8 +28,8 @@ Subway,G46 6XW,55.8047,-4.2949
 Rouken Glen Garden Centre,G46 7JL,55.7970,-4.3073
 ORCHARD PARK HOTEL,G46 7PH,55.8022,-4.2957
 Pepes,G46 7RX,55.8073,-4.3170
+McDonald's,G46 7RY,55.8087,-4.3145
 McDonald's,G46 7RY,55.8088,-4.3145
-McDonalds,G46 7RY,55.8088,-4.3145
 THE COURTYARD,G46 7UG,55.7983,-4.3177
 The Boathouse  Rouken Glen Park,G46 7UG,55.7983,-4.3173
 Hot Flame World Buffet Limited,G71 6JA,55.8212,-4.0536
@@ -39,11 +38,11 @@ Cocktails & Steaks,G71 7BP,55.8227,-4.0846
 Smiths of Uddingston ltd,G71 7BP,55.8228,-4.0848
 Subway,G71 7EP,55.8191,-4.0825
 Tinto Tapas Bar ,G71 7EW,55.8206,-4.0832
+Costa Coffee,G71 7HA,55.8135,-4.0792
 Angels Hotel,G71 7HZ,55.8225,-4.0839
 Stefano's Italian,G71 7LR,55.8209,-4.0826
-BaxterStorey Scotland Ltd,G71 7TW,55.8134,-4.0773
 Cut ,G71 8AY,55.7999,-4.0647
-Costa Coffee,G71 8BG,55.8164,-4.0619
+Costa Coffee,G71 8BG,55.8141,-4.0627
 The Goody Cupboard,G71 8ER,55.8028,-4.0687
 Bothwell Bridge Hotel,G71 8EU,55.8042,-4.0704
 The Chapterhouse Cafe Bothwell,G71 8EX,55.8032,-4.0687
@@ -54,16 +53,14 @@ Rosso,G71 8RD,55.8023,-4.0672
 The Hidden Teahouse ltd,G71 8RD,55.8024,-4.0678
 CUTFISH,G71 8SE,55.8002,-4.0657
 The Little Tearoom,G72 0AS,55.7921,-4.0909
-Compass Group UK & Ireland Ltd,G72 0BN,55.7791,-4.0938
-Compass Group UK & Ireland,G72 0FD,55.7805,-4.1034
 Tim Hortons,G72 0HT,55.7802,-4.0986
-Elior,G72 0LA,55.7867,-4.0772
 Glasgow Gate Restaurant,G72 7DS,55.8227,-4.1837
 LEGENDS BAR DINER,G72 7EB,55.8213,-4.1737
 Rahman & Co Ltd,G72 7EG,55.8195,-4.1721
 The Tea Bay,G72 7EG,55.8195,-4.1721
 Pizza Hut Delivery,G72 7EL,55.8189,-4.1686
 Coulotte Steakhouse ,G72 7EP,55.8186,-4.1663
+The John Fairweather Cambuslang (Wetherspoon),G72 7EP,55.8187,-4.1662
 Costa Coffee,G72 7NW,55.8187,-4.1670
 VELVET BAR AND GRILL,G72 7PG,55.8113,-4.1428
 newton arms,G72 7UW,55.8198,-4.1245
@@ -79,12 +76,12 @@ Old Oak Inn,G73 3SU,55.8187,-4.1916
 Cathkin Braes Golf Club,G73 4SE,55.7982,-4.2084
 The Burnside Hotel,G73 5EA,55.8155,-4.1962
 McDonald's,G74 1HE,55.7643,-4.1961
-McDonalds,G74 1HE,55.7643,-4.1961
+McDonald's,G74 1HE,55.7648,-4.2102
 Subway,G74 1JR,55.7611,-4.1751
-KFC,G74 1JU,55.7609,-4.1760
+The Hay Stook (Wetherspoon),G74 1JU,55.7610,-4.1768
 The Exchange (Bar) EK Limited,G74 1LB,55.7606,-4.1759
+McDonald's,G74 1LJ,55.7606,-4.1771
 McDonald's,G74 1LJ,55.7608,-4.1781
-McDonalds,G74 1LJ,55.7608,-4.1781
 Bistro 6,G74 1LL,55.7604,-4.1830
 Bistrosbysam Ltd t/a Ricos,G74 1LL,55.7602,-4.1828
 Cova,G74 1LL,55.7599,-4.1820
@@ -93,17 +90,18 @@ KFC,G74 1LL,55.7602,-4.1828
 Muffin Break,G74 1LL,55.7599,-4.1820
 Oriental Delicacy,G74 1LL,55.7599,-4.1820
 Philly Steaks N Shakes,G74 1LL,55.7602,-4.1828
-Pizza Express,G74 1LL,55.7599,-4.1820
 Subway,G74 1LL,55.7599,-4.1820
 Zucca Bistro,G74 1LL,55.7599,-4.1820
 Carlton Bingo  East Kilbride,G74 1LT,55.7598,-4.1779
-Nando's,G74 1LX,55.7600,-4.1746
-Costa Coffee,G74 1PG,55.7594,-4.1757
+Costa Coffee,G74 1LW,55.7599,-4.1790
+KFC,G74 1LW,55.7599,-4.1828
+Costa Coffee,G74 1PG,55.7596,-4.1749
 Hot world buffet ,G74 1PG,55.7597,-4.1763
 Hunter House Trading Limited,G74 3LW,55.7767,-4.1489
 McDonald's,G74 3XB,55.7794,-4.1629
-McDonalds,G74 3XB,55.7794,-4.1629
+McDonald's,G74 3XB,55.7798,-4.1634
 Subway,G74 3XB,55.7794,-4.1629
+Table Table The Lee Burn,G74 3XB,55.7787,-4.1630
 The Village Centre Cafe,G74 4HG,55.7659,-4.1738
 Spice Indian Cuisine,G74 4HX,55.7649,-4.1725
 Mata Hari Asian Fusion Restaurant,G74 4JH,55.7662,-4.1748
@@ -114,17 +112,15 @@ Arigo Restaurant,G74 4LZ,55.7652,-4.1750
 Oii Shi Cuisine Japanese,G74 4LZ,55.7652,-4.1750
 Tinto Tapas Bar ,G74 4LZ,55.7652,-4.1750
 Wee Gurkha Curry House,G74 4LZ,55.7652,-4.1750
-Burger king,G74 4UN,55.7843,-4.1692
-Costa Coffee,G74 4UN,55.7843,-4.1692
-KFC,G74 4UN,55.7844,-4.1694
-Starbucks Coffee Company,G74 4UN,55.7844,-4.1694
+KFC,G74 4QA,55.7837,-4.1668
+Costa Coffee,G74 4UN,55.7843,-4.1691
 Airthrill,G74 5BA,55.7694,-4.2135
 Wonder World East Kilbride,G74 5BA,55.7694,-4.2135
+KFC,G74 5NY,55.7645,-4.2056
 KFC,G74 5NY,55.7649,-4.2104
 D’lish Ltd.,G74 5QD,55.7605,-4.2281
-SkyPizzaLtd T/A Pizza Hut,G74 5QD,55.7605,-4.2281
-Tony Macaroni,G74 5QE,55.7605,-4.2267
 Coppertrees Bar & Grill,G74 5QG,55.7596,-4.2285
+Beefeater Crooked Lum,G75 0JY,55.7578,-4.1707
 Carrigans East Kilbride Ltd,G75 0QZ,55.7483,-4.1454
 Di Maggio's Restaurant (EK),G75 0YA,55.7497,-4.1709
 Punjabi Tadka,G75 0YW,55.7518,-4.1628
@@ -135,8 +131,7 @@ The Wishing Well Tearoom ,G76 0AU,55.7374,-4.2795
 ian's kitchen ltd,G76 0JQ,55.7439,-4.2763
 Eglinton Arms Hotel,G76 0LG,55.7403,-4.2735
 Cafe Roma,G76 7AU,55.7885,-4.2756
-Costa Coffee,G76 7BG,55.7899,-4.2769
-Pizza Hut,G76 7BG,55.7900,-4.2771
+Costa Coffee,G76 7BG,55.7898,-4.2767
 eatdeli,G76 7BG,55.7898,-4.2767
 NEWLANDS HOME BAKERY LIMITED,G76 7DH,55.7841,-4.2750
 MJ's Brasserie,G76 7PG,55.7924,-4.2893
@@ -152,22 +147,22 @@ L L Italiano,G77 6EG,55.7806,-4.3190
 The Crown Hotel ,KA16 9DJ,55.6080,-4.3216
 Loudoun hill restaurant and pizzeria ,KA17 0LY,55.6091,-4.2227
 war office motherwell,ML1 1DQ,55.7939,-3.9936
+The Brandon Works Motherwell (Wetherspoon),ML1 1JJ,55.7916,-3.9903
 The Railway Tavern,ML1 1JJ,55.7911,-3.9921
 Hup Lee Restaurant,ML1 1JP,55.7928,-3.9890
 Battered and Salted,ML1 1NA,55.7923,-3.9888
 Pizza Hut,ML1 1NA,55.7923,-3.9888
-Buzz Bingo,ML1 1PX,55.7858,-3.9819
+Costa Coffee,ML1 1RB,55.7890,-3.9893
 Costa Coffee,ML1 1RB,55.7899,-3.9912
-KFC (5954),ML1 1RB,55.7899,-3.9912
+KFC,ML1 1RB,55.7890,-3.9904
 KFC,ML1 1RB,55.7899,-3.9912
 McDonald's,ML1 1RB,55.7899,-3.9912
-McDonalds Restaurants Ltd,ML1 1RB,55.7899,-3.9912
+McDonald's,ML1 1RB,55.7904,-3.9923
 Pepes Piri Piri,ML1 1RB,55.7896,-3.9907
 Indian Villa,ML1 1TA,55.7858,-3.9846
 The Steelworks Bar and Grill,ML1 1TT,55.7835,-3.9852
 Tony Macaroni,ML1 1XA,55.7872,-3.9865
 da claudio restaurant,ML1 1XA,55.7872,-3.9865
-Eurest/Compass Group,ML1 1YR,55.7852,-3.9923
 Electric Bar,ML1 3AW,55.7825,-3.9963
 The Mandarin,ML1 3BY,55.7892,-3.9949
 Moorings Hotel ,ML1 3DG,55.7883,-3.9969
@@ -176,6 +171,7 @@ Holiday Inn Express,ML1 3RB,55.8018,-4.0497
 bizarre bar ltd,ML1 3RT,55.7999,-4.0399
 coffee shop,ML1 3RT,55.7999,-4.0399
 lochview themepark (scotland) ltd t/a alona hotel,ML1 3RT,55.7999,-4.0399
+Costa Coffee,ML1 4GN,55.8064,-3.9653
 Dalziel Park,ML1 5RZ,55.7986,-3.9423
 strathaven gift shop & tea room,ML10 6AF,55.6768,-4.0658
 Tudor coffee house,ML10 6AH,55.6762,-4.0653
@@ -190,35 +186,36 @@ The Heron Farm Shop and Kitchen,ML10 6QP,55.6638,-4.1493
 The Rissco Collection  t/a Strathaven Hotel,ML10 6SZ,55.6831,-4.0552
 Westend restaurant ,ML11 9RW,55.6651,-3.9234
 Garrion Bridges Garden Centre Limited,ML2 0RR,55.7390,-3.9219
+Costa Coffee,ML2 7AU,55.7747,-3.9217
 Costa Coffee,ML2 7AU,55.7751,-3.9225
 Subway,ML2 7AU,55.7751,-3.9225
-Mecca Bingo Ltd,ML2 7BL,55.7740,-3.9189
+The Wishaw Malt Wishaw (Wetherspoon),ML2 7BL,55.7742,-3.9180
 The terrace cafe,ML2 7NE,55.7758,-3.9245
 artisan wishaw limited,ML2 7NE,55.7758,-3.9245
 Commercial Hotel,ML2 7NG,55.7764,-3.9261
-McDonalds Restaurants Ltd,ML2 7QJ,55.7760,-3.9311
+Costa Coffee,ML2 7NZ,55.7762,-3.9279
+McDonald's,ML2 7QJ,55.7752,-3.9328
+KFC,ML2 7SJ,55.7755,-3.9433
 KFC,ML2 7SJ,55.7759,-3.9431
-KFC,ML2 7ST,55.7767,-3.9511
 Pizza Hut Delivery,ML2 8AA,55.7730,-3.9183
 Olympia fish and chips,ML2 8AR,55.7731,-3.9206
 4 SEASONS Chinese Restaurant ,ML3 0AS,55.7813,-4.0462
 4 SEASONS,ML3 0AS,55.7813,-4.0462
 CURRY CLUB HAMILTON LTD,ML3 0AY,55.7820,-4.0457
 SPICE INDIAN CUISINE,ML3 0AY,55.7820,-4.0457
+McDonald's,ML3 0DF,55.7795,-4.0539
 McDonald's,ML3 0DF,55.7814,-4.0556
-McDonalds,ML3 0DF,55.7814,-4.0556
-Mecca Social Club,ML3 0DF,55.7814,-4.0556
 Ristorante Leonardos Limited,ML3 0DG,55.7800,-4.0455
 Hampton by Hilton Hamilton Park,ML3 0DW,55.7895,-4.0543
 Bar West,ML3 0ET,55.7778,-4.0524
 Cafe Eataliano,ML3 0HQ,55.7788,-4.0473
 Jilts,ML3 6AB,55.7743,-4.0379
 The Kurry Lounge,ML3 6AB,55.7742,-4.0408
-KFC,ML3 6AD,55.7785,-4.0294
+KFC,ML3 6AD,55.7791,-4.0291
+McDonald's,ML3 6AD,55.7785,-4.0293
 McDonald's,ML3 6AD,55.7785,-4.0294
-Pizza Hut Restaurant,ML3 6AD,55.7785,-4.0294
+Nando's,ML3 6AD,55.7768,-4.0313
 Starbucks Hamilton,ML3 6AD,55.7785,-4.0294
-Starbucks,ML3 6AD,55.7785,-4.0294
 Junkyard Bars Ltd,ML3 6AP,55.7757,-4.0362
 Subway,ML3 6BB,55.7775,-4.0333
 Cadzow Street Deli,ML3 6EE,55.7762,-4.0345
@@ -226,16 +223,16 @@ Crema,ML3 6EE,55.7760,-4.0340
 Rocca Ristorante & Bar,ML3 6HG,55.7773,-4.0393
 GC Bar & Bistro ,ML3 6HW,55.7781,-4.0394
 chapter house  at the beech tree cafe,ML3 6JT,55.7767,-4.0434
-Costa Coffee,ML3 6JW,55.7871,-4.0350
+Costa Coffee,ML3 6JW,55.7871,-4.0351
+McDonald's,ML3 6JW,55.7872,-4.0343
 Fat Yankees,ML3 6QS,55.7736,-4.0375
-Nando's,ML3 7AD,55.7743,-4.0369
 Belles Tearoom,ML3 7AH,55.7750,-4.0349
 D'NISI COFFEE COMPANY (FRANCHISE) LIMITED,ML3 7AU,55.7754,-4.0350
 Subway,ML3 7AX,55.7748,-4.0359
 Gusti D'Italia,ML3 7BQ,55.7758,-4.0330
 Avonbridge Hotel,ML3 7DB,55.7713,-4.0252
 Ronzio,ML3 7DR,55.7738,-4.0367
-Costa Coffee,ML3 7DZ,55.7746,-4.0341
+Costa Coffee,ML3 7DZ,55.7748,-4.0336
 Pizza Hut,ML3 7HT,55.7722,-4.0374
 Sangria,ML3 7HT,55.7722,-4.0374
 Amoreish,ML3 7JG,55.7713,-4.0377
@@ -253,10 +250,12 @@ The Food Crate Cafe,ML4 1AE,55.8186,-4.0250
 Belmill Hotel,ML4 1AG,55.8163,-4.0265
 CAFE HEPBURN,ML4 1AH,55.8189,-4.0247
 Orbiston Neighbourhood Centre,ML4 2BW,55.8116,-4.0294
+McDonald's,ML4 3HH,55.8198,-4.0407
 McDonald's,ML4 3HH,55.8208,-4.0465
-McDonalds,ML4 3HH,55.8208,-4.0465
+Brewers Fayre Bellziehill Farm,ML4 3PD,55.8192,-4.0411
 SUBWAY,ML4 3PD,55.8200,-4.0412
 Costa Coffee,ML9 1DZ,55.7407,-3.9742
+Costa Coffee,ML9 1DZ,55.7407,-3.9743
 Leo’s grill ,ML9 1EF,55.7386,-3.9734
 The Old School Guest House Limited,ML9 2TX,55.7137,-3.9566
 The Old Schoolhouse Hotel & Toll Bar,ML9 2TX,55.7147,-3.9550

@@ -10,7 +10,6 @@ The Bell,HP18 0DJ,51.7893,-0.9612
 The Hundred of Ashendon,HP18 0HE,51.8234,-0.9796
 The Long Dog,HP18 0JF,51.8467,-0.9276
 The Lion Waddesdon ,HP18 0LB,51.8460,-0.9230
-Miller & Carter Aylesbury,HP18 0PE,51.8313,-0.8599
 Akeman Inn,HP18 0QJ,51.8642,-0.9939
 Canaletto,HP18 0RB,51.8668,-1.0058
 Esquires Coffee House  Aylesbury,HP18 1AS,51.8360,-0.8512
@@ -20,16 +19,18 @@ Best Western Garden Court Aylesbury,HP19 0FY,51.8316,-0.8096
 UTOPIA GIFTS AND COFFEE SHOP,HP19 7HL,51.8176,-0.8394
 China Brasserie ,HP19 7HS,51.8178,-0.8397
 Munchies,HP19 7HT,51.8172,-0.8403
+Table Table The Charter,HP19 8AW,51.8232,-0.8299
 Dunelm Soft Furnishings,HP19 8BU,51.8236,-0.8358
+McDonald's,HP19 8BU,51.8242,-0.8333
 McDonalds 296,HP19 8BU,51.8235,-0.8355
-McDonalds Restaurants Ltd,HP19 8BU,51.8235,-0.8355
 Gatehouse Diner Ltd,HP19 8DB,51.8195,-0.8283
-BaxterStorey at McAfee,HP19 8ED,51.8200,-0.8240
 Golden Bites,HP19 8RS,51.8235,-0.8503
 The Hop Pole Inn Ltd,HP19 9AZ,51.8221,-0.8215
-KFC,HP20 1BA,51.8196,-0.8091
 Al Kebabish,HP20 1BQ,51.8200,-0.8069
 Tasty Bites,HP20 1BQ,51.8200,-0.8069
+Costa Coffee,HP20 1DG,51.8191,-0.8102
+KFC,HP20 1DG,51.8194,-0.8093
+Costa Coffee,HP20 1PQ,51.8153,-0.7903
 El Halal,HP20 1RB,51.8161,-0.8063
 PERI PERI DONS,HP20 1RP,51.8175,-0.8118
 PERI PERI ORIGINAL,HP20 1RP,51.8175,-0.8118
@@ -37,39 +38,32 @@ dreamz dessert,HP20 1RS,51.8176,-0.8120
 the harrow pub,HP20 1RS,51.8176,-0.8120
 The Petri Dish,HP20 1SA,51.8173,-0.8101
 Grillco,HP20 1SF,51.8168,-0.8102
-Costa Coffee Shop,HP20 1SH,51.8172,-0.8119
+Costa Coffee,HP20 1SH,51.8172,-0.8121
+McDonald's,HP20 1SQ,51.8169,-0.8109
 McDonalds 170,HP20 1SQ,51.8170,-0.8116
-McDonalds Restaurants Ltd,HP20 1SQ,51.8170,-0.8116
 The Coffee Corner,HP20 1SQ,51.8170,-0.8116
 one4six coffee,HP20 1ST,51.8166,-0.8116
 The Works,HP20 1TA,51.8166,-0.8132
+The Bell Aylesbury (Wetherspoon),HP20 1TX,51.8155,-0.8124
 Miya Japanese Grill and Bar,HP20 1TZ,51.8147,-0.8107
 The White Swan,HP20 1TZ,51.8148,-0.8109
-Gourmet Burger Kitchen Ltd,HP20 1UR,51.8154,-0.8105
-Nando's,HP20 1UR,51.8154,-0.8105
-Odeon Cinema & Costa Coffee,HP20 1UR,51.8154,-0.8105
 The Grill Steakhouse ,HP20 1UR,51.8160,-0.8112
 The Grill Steakhouse Limited,HP20 1UR,51.8160,-0.8112
-Wagamama,HP20 1UR,51.8155,-0.8107
-Zizzi,HP20 1UR,51.8160,-0.8112
+The White Hart Aylesbury (Wetherspoon),HP20 1UR,51.8154,-0.8098
 The Coffee Tree,HP20 2HU,51.8168,-0.8139
 Malebon Aylesbury Ltd,HP20 2JA,51.8176,-0.8132
 DESIRE INDIAN RESTAURANT,HP20 2JE,51.8177,-0.8140
 Kuzzu Turkish Bar&Grill,HP20 2JE,51.8179,-0.8138
-Pizza Express,HP20 2JE,51.8177,-0.8140
 The Rockwood,HP20 2JE,51.8177,-0.8140
 SIMPLY THAI,HP20 2NF,51.8198,-0.8153
 Herbies Pizza,HP20 2NL,51.8192,-0.8123
-KFC,HP20 2NQ,51.8186,-0.8135
 Pizza Hut,HP20 2NQ,51.8186,-0.8135
-Prezzo,HP20 2NQ,51.8186,-0.8135
 Noodlenation ,HP20 2PZ,51.8159,-0.8135
 temple street wine bar,HP20 2RN,51.8165,-0.8140
 The King's Head,HP20 2RW,51.8167,-0.8136
-Caffe Nero,HP20 2SP,51.8156,-0.8130
 New York deli Aylesbury ltd ,HP20 2SP,51.8155,-0.8136
 COSTA COFFEE BEDGROVE,HP21 7ET,51.8066,-0.7845
-Costa Coffee,HP21 7ET,51.8067,-0.7842
+Costa Coffee,HP21 7ET,51.8066,-0.7843
 THE COFFEE BEAN,HP21 7ET,51.8066,-0.7846
 The Old Millwrights Arms,HP21 7SN,51.8134,-0.8039
 Bengal Blue Spice,HP21 7SR,51.8115,-0.8056
@@ -81,7 +75,6 @@ royal oak,HP22 4LT,51.8712,-0.7646
 The doghouse,HP22 5AR,51.8247,-0.7822
 Holiday Inn Aylesbury,HP22 5QT,51.8086,-0.7700
 The-eat-out-to-help-out-scheme,HP22 5QT,51.8086,-0.7700
-Costa Coffee At Wyevale Garden Centre,HP22 6BD,51.7757,-0.7556
 The Crooked Billet,MK17 0DF,51.9732,-0.7733
 Thrift Farm,MK17 0EQ,51.9854,-0.8174
 Horwood House Hotel 1911 Restaurant & Bar,MK17 0PH,51.9588,-0.8432
@@ -91,6 +84,7 @@ Villiers Hotels Limited,MK18 1BS,51.9998,-0.9885
 Louis',MK18 1BT,51.9985,-0.9899
 The Woolpack,MK18 1EP,51.9976,-0.9887
 Esquires Coffee Buckingham ,MK18 1HE,51.9999,-0.9887
+Beefeater Buckingham,MK18 1SH,51.9885,-0.9772
 Phoenix Kitchen,MK18 2EX,51.9220,-0.9542
 THE OLD THATCHED INN ,MK18 2JN,51.9656,-0.9300
 Claydon Community Cafe,MK18 2NS,51.9364,-0.9916
@@ -102,17 +96,14 @@ Buckingham Garden Centre,MK18 4AE,51.9956,-1.0178
 The Red lion,MK18 4AG,51.9891,-1.0678
 The Crown,MK18 4JF,51.9782,-1.0061
 The Royal Oak,MK18 4NN,51.9906,-1.0461
-Costa Coffee Drive Thru,MK18 7RA,51.9882,-0.9773
 The Three Trees,MK3 5JB,51.9911,-0.7577
-Burger King,OX26 1BT,51.8936,-1.1619
+McDonald's,OX26 1DE,51.8916,-1.1617
 McDonalds Restaurants Ltd,OX26 1DE,51.8905,-1.1601
 Apple Green Service Station,OX26 2HJ,51.9036,-1.1539
 Bicester Leisure Centre,OX26 2NR,51.9001,-1.1570
-KFC (Kentucky Fried Chicken),OX26 3AH,51.9075,-1.1508
 KFC - Bicester,OX26 3AH,51.9075,-1.1507
 Pizza Hut Delivery,OX26 3AH,51.9075,-1.1507
 The Bull Inn,OX26 5DQ,51.8983,-1.1175
-Pizza Express,OX26 6AG,51.8966,-1.1511
 S&H Coffee Shop & Gifts,OX26 6AG,51.8966,-1.1510
 Jaflong Restaurant,OX26 6AJ,51.8969,-1.1504
 Market square fish bar,OX26 6AJ,51.8969,-1.1504
@@ -122,15 +113,12 @@ Littlebury Hotel,OX26 6DR,51.8972,-1.1568
 BANSAL ASSOCIATES LIMITED,OX26 6EH,51.8970,-1.1524
 limited company ,OX26 6EH,51.8970,-1.1524
 Shan Shui Investment BV Ltd,OX26 6EU,51.8928,-1.1587
-Nando's,OX26 6FA,51.8985,-1.1522
-Prezzo Plc,OX26 6FA,51.8985,-1.1522
-Wildwood,OX26 6FA,51.8983,-1.1521
 Rebound Revolution (Bicester) Ltd,OX26 6HR,51.8913,-1.1500
 THE LITTLE BLUE BAKERY,OX26 6HY,51.8973,-1.1516
-Costa Coffee,OX26 6JD,51.8973,-1.1510
-Costa Coffee,OX26 6JJ,51.8985,-1.1520
+Costa Coffee,OX26 6JD,51.8985,-1.1517
 Copper Kitchen,OX26 6JS,51.8998,-1.1531
 Eat China Bicester,OX26 6JW,51.8991,-1.1526
+The Penny Black Bicester (Wetherspoon),OX26 6JW,51.8988,-1.1517
 Shakil’s ,OX26 6LP,51.8998,-1.1528
 denis restaurant,OX26 6LP,51.8998,-1.1528
 THE PLOUGH,OX26 6NB,51.9014,-1.1544
@@ -145,7 +133,7 @@ Darlish ,OX26 6WD,51.8918,-1.1556
 Farmshop Bicester,OX26 6WD,51.8918,-1.1556
 MNJV3 Corporation Limited - Maitre Choux,OX26 6WD,51.8918,-1.1556
 Oliphant's Ice Cream,OX26 6WD,51.8918,-1.1556
-Pret A Manger,OX26 6WD,51.8918,-1.1556
+Pret A Manger,OX26 6WD,51.8921,-1.1564
 itsu Bicester Village,OX26 6WD,51.8918,-1.1556
 The Nightingale,OX26 6XX,51.8913,-1.1383
 F Eagles Ltd t/a Muddy Duck,OX27 8ES,51.9604,-1.1376

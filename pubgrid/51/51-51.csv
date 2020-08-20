@@ -19,7 +19,6 @@ The Roebuck (Draycott) Limited,DE6 5BT,52.8600,-1.7715
 The Roebuck,DE6 5BT,52.8600,-1.7715
 THE BOARS HEAD HOTEL,DE6 5GX,52.8698,-1.7607
 Sweet Little Limited,DE6 5HS,52.8853,-1.7614
-The National Trust,DE6 5HT,52.8882,-1.7670
 The Queens at Freehay,ST10 1RF,52.9726,-1.9637
 The Ship,ST10 4ES,52.9643,-1.9907
 The Raddle Inn LTD,ST10 4HQ,52.9531,-1.9203
@@ -35,10 +34,10 @@ The Shoulder of Mutton,ST11 9QS,52.9390,-2.0712
 Gandhi Indian Restaurant ,ST11 9QX,52.9453,-2.0520
 The Greyhound Inn,ST11 9QX,52.9453,-2.0520
 The Draycott Arms ,ST11 9RQ,52.9612,-2.0256
-Burger King Uttoxeter,ST14 5AA,52.9083,-1.8587
-McDonalds Restaurant Ltd Uttoxeter,ST14 5AA,52.9103,-1.8720
+McDonald's,ST14 5AA,52.9103,-1.8720
 McLean Restaurants Ltd,ST14 5AA,52.9083,-1.8587
 STARBUCKS UTTOXETER,ST14 5AA,52.9083,-1.8587
+Table Table The Water Bridge,ST14 5AA,52.9072,-1.8541
 OLIVE TREE ,ST14 5AL,52.9195,-1.8812
 Strawberry Garden Centre,ST14 5BE,52.8993,-1.9002
 The Old Bramshall Inn,ST14 5BG,52.8958,-1.9086
@@ -47,17 +46,16 @@ TB Boden & Son T/A Denstone Hall Farm Shop,ST14 5HF,52.9645,-1.8500
 The Tavern,ST14 5HR,52.9637,-1.8558
 AJs diner,ST14 5JU,52.9511,-1.8387
 PANACEA PREMIER INDIAN,ST14 5JU,52.9513,-1.8420
-Eurest (Compass Group UK & Ireland)  JCB Service,ST14 5PA,52.9154,-1.8998
-Eurest (Compass Group UK & Ireland) Heavy Products,ST14 7FL,52.9170,-1.9063
-COSTA COFFEE,ST14 7FN,52.8991,-1.8662
+Costa Coffee,ST14 7FN,52.8992,-1.8663
 BEAR Uttoxeter,ST14 7HN,52.8992,-1.8657
 INDIAN SPICE ST14 LTD,ST14 7JJ,52.9022,-1.8663
 roses coffee lounge ltd,ST14 7RT,52.8989,-1.8656
-KFC,ST14 8AZ,52.9011,-1.8589
-MARSTONS BAR,ST14 8BD,52.8962,-1.8539
+Costa Coffee,ST14 8AU,52.8991,-1.8584
+KFC,ST14 8AZ,52.9001,-1.8600
 The Plough Inn,ST14 8DW,52.8920,-1.8753
 The White Hart Hotel,ST14 8EU,52.8982,-1.8664
 Divine ,ST14 8HL,52.8977,-1.8641
+The Old Swan Uttoxeter (Wetherspoon),ST14 8HN,52.8979,-1.8632
 Time,ST14 8HN,52.8980,-1.8631
 Be catered 4,ST14 8HP,52.8983,-1.8638
 Hohm Coffee & Bar Ltd,ST14 8HP,52.8983,-1.8638
@@ -68,7 +66,6 @@ The Shrewsbury Arms,ST14 8QH,52.8660,-1.9121
 No26 at Aston Marina Limited,ST15 8QU,52.8896,-2.1246
 The Spotgate Inn,ST15 8RP,52.9353,-2.0901
 Moddershall Oaks,ST15 8TG,52.9276,-2.1112
-Starbucks,ST16 2AA,52.8038,-2.1223
 mela lounge,ST16 2AG,52.8048,-2.1187
 La Casa Italian,ST16 2AJ,52.8051,-2.1171
 THE BIRD IN HAND,ST16 2AQ,52.8056,-2.1191
@@ -79,20 +76,19 @@ Simply Bilash LTD,ST16 2EW,52.8074,-2.1246
 The Play Shed Stafford ,ST16 2EX,52.8006,-2.1180
 Thawa bridge Indian restaurant ,ST16 2HJ,52.8041,-2.1153
 Subway Stafford Town ,ST16 2HL,52.8043,-2.1159
+The Picture House Stafford (Wetherspoon),ST16 2HL,52.8045,-2.1159
 Starbucks (Greengate Street),ST16 2HN,52.8066,-2.1170
-Starbucks,ST16 2HN,52.8066,-2.1170
-Nando's,ST16 2HQ,52.8045,-2.1135
 Coffee#1,ST16 2HS,52.8056,-2.1162
 Bengal lounge Stafford ,ST16 2HY,52.8048,-2.1162
 The Post House Bar & Grill Stafford,ST16 2HZ,52.8052,-2.1167
 The Swan Hotel,ST16 2JA,52.8059,-2.1170
-McDonalds,ST16 2JE,52.8066,-2.1176
+McDonald's,ST16 2JE,52.8065,-2.1173
 McLean Restaurants Ltd,ST16 2JE,52.8066,-2.1176
-Pizza Express,ST16 2JH,52.8076,-2.1173
 BHTRADINGBAR LIMITED,ST16 2JU,52.8078,-2.1165
 The Bakehouse,ST16 2JZ,52.8076,-2.1164
 The Market Vaults,ST16 2LA,52.8069,-2.1167
-Caffe Nero,ST16 2NT,52.8089,-2.1183
+Costa Coffee,ST16 2NR,52.8079,-2.1177
+The Butlers Bell Stafford (Wetherspoon),ST16 2NT,52.8087,-2.1183
 Anatolian Palace Authentic Turkish Mediterranean Grill Restaurant,ST16 2PJ,52.8124,-2.1210
 Angel Attic Independent Psychic Centre,ST16 2PN,52.8126,-2.1196
 Vivere,ST16 2PR,52.8117,-2.1208
@@ -101,18 +97,16 @@ ESSENCE OF THE ORIENT,ST16 2QB,52.8072,-2.1224
 Ayo Gorkhali ,ST16 2QT,52.8049,-2.1170
 HS STAFFORD LTD,ST16 2QT,52.8048,-2.1173
 Little dessert shop,ST16 2QZ,52.8048,-2.1165
-McDonalds,ST16 2RA,52.8165,-2.1239
+McDonald's,ST16 2RA,52.8159,-2.1239
 McLean Restaurants Ltd,ST16 2RA,52.8165,-2.1239
 Subway Stone rd,ST16 2RS,52.8172,-2.1227
-Stafford Tenpin,ST16 2SD,52.8129,-2.1231
 The Burger Priest Stafford,ST16 3AA,52.8057,-2.1129
 Cup A Cha,ST16 3AD,52.8079,-2.1145
 Kennys Sports Bar Limited ,ST16 3AD,52.8074,-2.1147
+McDonald's,ST16 3AE,52.8089,-2.1157
 McLean Restaurants Ltd,ST16 3AE,52.8088,-2.1158
-Costa Coffee,ST16 3AL,52.8052,-2.1130
 Thaino.5 limited,ST16 3AN,52.8106,-2.1188
 Tap Steakhouse,ST16 3HE,52.8166,-2.1148
-Revolution Bars Group Plc,ST16 3PT,52.8050,-2.1155
 Zizzi,ST16 3PT,52.8050,-2.1155
 Pizza Hut Delivery,ST16 3RL,52.8074,-2.1028
 BOD STAFFORD,ST17 0EF,52.7921,-2.0787
@@ -124,19 +118,17 @@ The Shimla Palace,ST17 0XS,52.7803,-1.9710
 Whites Coffee Bar,ST17 0XS,52.7803,-1.9710
 Wolseley Bridge Garden Centre,ST17 0YA,52.7808,-1.9690
 Spice island midlands ltd,ST17 4AH,52.8023,-2.1137
-Costa Coffee,ST17 4AQ,52.7954,-2.1012
 Narvana,ST17 4BG,52.8036,-2.1154
 kfc,ST17 4ER,52.8004,-2.1081
 SUN INN,ST17 4JX,52.8038,-2.1144
 The Island masala restaurant,ST17 4LE,52.8031,-2.1138
 The Spittal Brook,ST17 4LP,52.7970,-2.1008
-Pizza Hut,ST17 4LU,52.7989,-2.1060
 Starbucks (The Hough),ST17 4LU,52.7988,-2.1074
+KFC,ST17 4PW,52.7994,-2.1090
 Wildwood Happy Tots,ST17 4PY,52.7892,-2.0845
 Wildwood Playgroup,ST17 4PY,52.7892,-2.0845
-The Wildwood,ST17 4RA,52.7847,-2.0823
 Wildwood Pharmacy,ST17 4RA,52.7847,-2.0823
-Buzz Bingo,ST17 4SU,52.7949,-2.1023
+Costa Coffee,ST17 4SU,52.7962,-2.1019
 Cafe Society,ST18 0BF,52.8111,-2.0832
 Dog & Doublet,ST18 0DJ,52.8610,-2.0783
 The Greyhound Inn,ST18 0DR,52.8681,-2.0957
@@ -152,15 +144,17 @@ Hearts and Flowers,ST18 0XZ,52.8112,-2.0743
 Saracens Head Steakhouse,ST3 7BL,52.9669,-2.1069
 The Black Lake Inn Ltd,ST3 7NT,52.9486,-2.1008
 Swynnerton Arms,ST3 7PL,52.9559,-2.1109
-McDonalds,ST3 7TW,52.9663,-2.0949
+McDonald's,ST3 7WA,52.9710,-2.0880
 McDonald's,WS15 1LX,52.7572,-1.9266
-Mcdonalds,WS15 1LX,52.7572,-1.9266
-Burger King,WS15 2AS,52.7588,-1.9379
+McDonald's,WS15 1LX,52.7576,-1.9277
+Table Table The Colliers,WS15 1LX,52.7576,-1.9260
 The Vine Inn Kitchen ,WS15 2AT,52.7606,-1.9399
 Must Bangladeshi and Indian cuisine ,WS15 2BJ,52.7607,-1.9355
 The Bilash of Rugeley,WS15 2BT,52.7607,-1.9361
+Costa Coffee,WS15 2DF,52.7601,-1.9359
 Costa Coffee,WS15 2DF,52.7603,-1.9357
 Terrazza Restaurant ,WS15 2EH,52.7589,-1.9341
+The Plaza Rugeley (Wetherspoon),WS15 2EH,52.7575,-1.9348
 Red Peppers Indian Cuisine,WS15 2EJ,52.7583,-1.9360
 SILSILA INDIAN RESTAURANT & TAKEAWAY,WS15 2EJ,52.7575,-1.9348
 The Antlers Steakhouse and Carvery ,WS15 2EJ,52.7564,-1.9337

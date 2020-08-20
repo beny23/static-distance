@@ -13,28 +13,29 @@ Pizza Hut,BS15 1AP,51.4634,-2.5156
 Zest restaurant,BS15 3DG,51.4489,-2.5158
 Chilli Inn Ltd,BS15 3DP,51.4497,-2.5184
 The Italian Kitchen  Hanham,BS15 3DQ,51.4493,-2.5171
+The Jolly Sailor Bristol (Wetherspoon),BS15 3DQ,51.4492,-2.5170
 The Elm Tree,BS15 3NR,51.4352,-2.5131
 The Old Lock And Weir,BS15 3NU,51.4290,-2.5091
 The Horseshoe,BS15 4PA,51.4697,-2.4850
+The Kingswood Colliers Bristol (Wetherspoon),BS15 8HP,51.4623,-2.5070
 SUBWAY,BS15 8HU,51.4623,-2.5078
 RAVENNA COFFEE BAR,BS15 8LJ,51.4626,-2.5069
 Boswells Cafe,BS15 8LP,51.4631,-2.5087
-McDonalds,BS15 9LA,51.4498,-2.4980
-Nandos Chickenland Ltd,BS15 9LA,51.4498,-2.4980
-Pizza Hut (UK) Ltd,BS15 9LA,51.4498,-2.4980
-KFC,BS16 2LA,51.4820,-2.5265
+McDonald's,BS15 9LA,51.4484,-2.4993
+Nando's,BS15 9LA,51.4501,-2.4988
 Kingfisher Cafe,BS16 2LE,51.4822,-2.5250
 ISTANBUL GRILL MEZZE restaurant,BS16 3AA,51.4772,-2.5375
 Mamma Ps Jamaican Cuisine ,BS16 3AA,51.4772,-2.5375
 FAMILY KEBAB HOUSE,BS16 3BA,51.4777,-2.5363
-Buzz Bingo,BS16 3BQ,51.4781,-2.5354
 LA PIAZZA 1,BS16 3BS,51.4817,-2.5278
 Turmeric,BS16 3BS,51.4817,-2.5278
 THE RAILWAY TAVERN,BS16 3SG,51.4792,-2.5302
 subway,BS16 3TE,51.4813,-2.5278
+The Van Dyck Forum Bristol (Wetherspoon),BS16 3UA,51.4797,-2.5303
 Pizza Hut,BS16 3UH,51.4796,-2.5314
 Grounded,BS16 3UP,51.4804,-2.5294
 The Cross Hands,BS16 5AA,51.4819,-2.5222
+The Staple Hill Oak Bristol (Wetherspoon),BS16 5HN,51.4811,-2.5093
 Staple Hill Community Hub,BS16 5HS,51.4825,-2.5081
 THE CINNAMON TREE ,BS16 5QQ,51.4824,-2.4924
 The Duck and Willow,BS16 5UE,51.4869,-2.5076
@@ -42,9 +43,10 @@ TIKKA RAAZ DOWNEND LTD,BS16 5UJ,51.4879,-2.5048
 Italb restaurant,BS16 6BB,51.4889,-2.5036
 Tamarind,BS16 6BB,51.4889,-2.5036
 Mezze at The Green Dragon,BS16 6BS,51.4904,-2.5026
-Elior UK at Hanover Badminton Gardens,BS16 6FG,51.4970,-2.4895
+Costa Coffee,BS16 7AD,51.4925,-2.4743
 BOTTEGINOS ,BS16 7AE,51.4929,-2.4745
 MEHTA'S FOOD LIMITED,BS16 7AE,51.4929,-2.4745
+Beefeater Emersons Green,BS16 7AN,51.4984,-2.4805
 Subway  Blackhorse,BS16 7AN,51.4965,-2.4831
 The Grapevine Brasserie,BS16 9JB,51.4831,-2.4851
 Rose and Crown Pucklechurch,BS16 9PS,51.4900,-2.4390
@@ -56,16 +58,14 @@ The Pine Tree Coffee Shop,BS30 6HX,51.4303,-2.4690
 The Swan in Swineford,BS30 6LN,51.4198,-2.4454
 The Upton Inn,BS30 6LY,51.4254,-2.4455
 Chief Trading Post Ltd,BS30 6QY,51.4364,-2.4723
-Caffe Nero,BS30 7DA,51.4445,-2.4980
+Costa Coffee,BS30 7DA,51.4448,-2.4972
 Flip Out Bristol,BS30 7DA,51.4444,-2.4977
 Subway (Longwell Green),BS30 7DA,51.4445,-2.4980
 FIRST CHOICE KEBAB,BS30 8DB,51.4488,-2.4790
 Be Weird Be Wild Be Wonderful Ltd,BS30 9DD,51.4367,-2.4913
 Crumbs of Keynsham ,BS31 1DQ,51.4170,-2.4993
-Coffee#1,BS31 1DS,51.4156,-2.4982
 Dalia Cocina,BS31 1DS,51.4156,-2.4982
 Grounded,BS31 1DS,51.4156,-2.4982
-Costa Coffee,BS31 1DX,51.4155,-2.4988
 Cinnamon Lounge and Dining,BS31 1EA,51.4146,-2.4983
 keynsham fish bar,BS31 1EB,51.4147,-2.4978
 Temple Street Canteen,BS31 1EH,51.4133,-2.4978
@@ -73,7 +73,7 @@ Pomegranate Restaurant,BS31 1FS,51.4141,-2.4970
 pomegranate canteen,BS31 1FS,51.4141,-2.4970
 Haywards at the Grasmere,BS31 1SN,51.4122,-2.4896
 KFC Keynsham,BS31 1ST,51.4205,-2.4825
-KFC,BS31 1SX,51.4134,-2.4780
+KFC,BS31 1ST,51.4133,-2.4823
 La Famiglia ,BS31 1TN,51.4102,-2.4744
 Avon Valley Adventure and Wildlife Park,BS31 1TP,51.4121,-2.4765
 Old Manor House Hotel Keynsham Limited,BS31 2BA,51.4176,-2.5005
@@ -89,11 +89,10 @@ Ronnie's of Thornbury,BS35 2AB,51.6078,-2.5247
 swan thornbury,BS35 2AE,51.6087,-2.5256
 Thornbury Tandoori,BS35 2AG,51.6092,-2.5252
 Papilio at Heritage,BS35 2AH,51.6077,-2.5264
-Prezzo,BS35 2AQ,51.6081,-2.5262
 White Lion,BS35 2AQ,51.6083,-2.5262
+Costa Coffee,BS35 2AR,51.6079,-2.5259
 SHELLYS cafe,BS35 2AT,51.6066,-2.5255
 The Wheatsheaf,BS35 2BJ,51.6063,-2.5254
-Elior at Tesco,BS35 2BS,51.6045,-2.5262
 Taj Brasserie,BS36 1JG,51.5262,-2.5058
 The Globe,BS36 2AB,51.5357,-2.4827
 Turtle Bay Restaurants,BS36 2AU,51.5352,-2.4961
@@ -103,14 +102,15 @@ Frampton Balti ,BS36 2LE,51.5314,-2.4719
 Daisy Chain Deli,BS36 2LG,51.5305,-2.4719
 The New Inn  Mayshill,BS36 2NT,51.5363,-2.4549
 Caffe Voitch LTD,BS36 2TB,51.5183,-2.4788
-The Wildwood Cafe,BS36 2TB,51.5183,-2.4788
 The Kendleshire Golf Club Ltd,BS36 2UY,51.5148,-2.4705
+Thorns Farm Yate (Wetherspoon),BS37,51.5400,-2.4179
 McDonald's Restaurant ,BS37 4AF,51.5402,-2.4060
 Miss Millies Fried Chicken,BS37 4AN,51.5411,-2.4133
 Boswells Cafe,BS37 4AP,51.5407,-2.4135
-Nando's,BS37 4AS,51.5404,-2.4122
-McDonalds,BS37 4AX,51.5405,-2.4142
+Costa Coffee,BS37 4AS,51.5403,-2.4117
+McDonald's,BS37 4AX,51.5408,-2.4152
 Chocolate Brownies (Southern) Limited,BS37 4AY,51.5391,-2.4099
+Costa Coffee,BS37 4FT,51.5398,-2.4084
 Esquires Coffee Yate,BS37 4FT,51.5395,-2.4081
 Little Giggles Soft Play,BS37 4FT,51.5398,-2.4083
 The Lawns,BS37 5BG,51.5434,-2.4121
@@ -168,15 +168,14 @@ The Greenhouse,SN13 9FN,51.4135,-2.2157
 The Great Western,SN13 9JA,51.4277,-2.1835
 The Neston Country Inn,SN13 9SN,51.4158,-2.2001
 McDonald's Restaurant,SN14 0AF,51.4482,-2.1498
-McDonalds Restaurant,SN14 0AF,51.4482,-2.1498
-Elior,SN14 0WT,51.4458,-2.1472
+McDonald's,SN14 0AF,51.4482,-2.1497
+Costa Coffee,SN14 0UL,51.4471,-2.1472
 The Neeld Arms,SN14 6AP,51.5196,-2.2019
 Stanton Manor Hotel,SN14 6DQ,51.5181,-2.1361
 The Hullavington Arms,SN14 6DU,51.5357,-2.1550
-Burger King,SN14 6LB,51.5118,-2.1582
-Costa Coffee (East),SN14 6LB,51.5118,-2.1582
+Costa Coffee,SN14 6LB,51.5118,-2.1582
 OLD ROYAL SHIP,SN14 6PA,51.5551,-2.2419
-Burger King,SN14 6UY,51.4790,-2.1300
+Brewers Fayre Cepen Park,SN14 6UZ,51.4782,-2.1321
 The Bell Inn,SN14 7BG,51.4873,-2.1929
 White Horse ,SN14 7DG,51.4608,-2.1972
 Manor House Hotel (Castle Combe) Limited,SN14 7HR,51.4937,-2.2322

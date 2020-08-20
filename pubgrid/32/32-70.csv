@@ -4,11 +4,11 @@ Pizza Hut,ME1 1BT,51.3833,0.5134
 LIMEHOUSE THAI RESTAURANT,ME1 1DA,51.3835,0.5144
 Y So Cereal,ME1 1DA,51.3834,0.5156
 The Dead Pigeon,ME1 1DJ,51.3831,0.5159
+The Golden Lion Rochester (Wetherspoon),ME1 1EL,51.3866,0.5068
 Tony Lorenzo,ME1 1EL,51.3866,0.5070
 Chuck and Blade Burgers,ME1 1EW,51.3870,0.5065
 CUMIN CLUB LTD ,ME1 1EY,51.3859,0.5072
 OLIVERS,ME1 1EY,51.3858,0.5073
-Costa Coffee,ME1 1GR,51.3902,0.5071
 The Nags Head,ME1 1HS,51.3839,0.5117
 Fleur de The Ltd,ME1 1JT,51.3880,0.5049
 the eagle tavern,ME1 1JT,51.3877,0.5055
@@ -17,12 +17,11 @@ Smoke & Liquor,ME1 1JY,51.3896,0.5037
 The Cheese Room Rochester Ltd,ME1 1JY,51.3892,0.5040
 CREPE AND CO (UK) LIMITED,ME1 1LB,51.3895,0.5037
 The Quills,ME1 1LD,51.3902,0.5031
-Pizza Express,ME1 1LN,51.3904,0.5036
 The George Vaults,ME1 1LN,51.3904,0.5034
 Tiny Tim's Of Rochester,ME1 1LS,51.3898,0.5041
 BRETTINGTONS,ME1 1LX,51.3894,0.5042
 COSTA COFFEE - ROCHESTER,ME1 1LX,51.3893,0.5044
-Costa Coffee,ME1 1LX,51.3894,0.5042
+Costa Coffee,ME1 1LX,51.3897,0.5039
 Explore Life Café Rochester ,ME1 1LX,51.3888,0.5047
 ROCHESTER COFFFEE CO,ME1 1LX,51.3894,0.5042
 Raj of India,ME1 1PT,51.3911,0.5023
@@ -35,6 +34,7 @@ Legends cafe ,ME1 1XH,51.3854,0.5068
 Bean Town Coffee ,ME1 3DT,51.3772,0.5003
 Maharani Restaurant ,ME10 1AP,51.3408,0.7320
 Sherlocks Cocktail Lounge Limited,ME10 1AW,51.3407,0.7327
+The Golden Hope Sittingbourne (Wetherspoon),ME10 1DR,51.3404,0.7322
 Beauty of Bath,ME10 1LH,51.3344,0.7195
 Marino fish restaurant ,ME10 1QA,51.3447,0.7102
 ANUKA CUISINE LTD,ME10 2AR,51.3492,0.7322
@@ -42,11 +42,10 @@ Three Hats,ME10 2AR,51.3492,0.7322
 Principals By CH&Co At Milton Court Primary School,ME10 2EE,51.3511,0.7338
 SUBWAY MILTON REGIS -BP,ME10 2LA,51.3470,0.7302
 Principals By CH&Co At Kemsley School,ME10 2RP,51.3633,0.7385
-KFC,ME10 2XD,51.3448,0.7350
-McDonalds,ME10 2XD,51.3448,0.7350
+KFC,ME10 2XD,51.3441,0.7342
+McDonald's,ME10 2XD,51.3439,0.7336
 P A Crocker Ltd t/a McDonalds,ME10 2XD,51.3448,0.7350
-Pizza Hut Restaurant,ME10 2XD,51.3448,0.7350
-Costa Coffee,ME10 3DL,51.3407,0.7356
+Costa Coffee,ME10 3DL,51.3410,0.7350
 Flower pride ltd T/A BENGAL SPICE,ME10 3DU,51.3412,0.7334
 Lang’s Bar & Cocktail Lounge,ME10 3DW,51.3414,0.7359
 THE FOUNTAIN OF ALE ,ME10 3ED,51.3420,0.7349
@@ -61,9 +60,7 @@ Principals By CH&Co At Meadowfield School,ME10 4NL,51.3338,0.7556
 Amalfi restaurant ,ME10 4PB,51.3401,0.7366
 Baileys Coffee Shop and Sandwich Bar,ME10 4PD,51.3397,0.7385
 Fireaway Pizza ,ME10 4PD,51.3398,0.7382
-Mecca Bingo And Social Club,ME10 4PG,51.3397,0.7402
 Starbucks Sittingbourne,ME10 4PH,51.3404,0.7350
-Starbucks,ME10 4PH,51.3404,0.7350
 Principals By CH&Co At Highsted School,ME10 4PT,51.3337,0.7373
 Bgs cafe and restaurant ,ME10 4RT,51.3388,0.7428
 Empress of India,ME10 4RT,51.3388,0.7428
@@ -72,17 +69,16 @@ The Flying Dutchman ,ME11 5AA,51.4170,0.7418
 Olivero’s Pizzeria,ME11 5AD,51.4163,0.7408
 Burger King,ME11 5AR,51.4107,0.7578
 COSTA COFFEE - NEATS COURT QUEENBOROUGH,ME11 5AR,51.4107,0.7578
-Costa Coffee,ME11 5AR,51.4107,0.7578
-KFC,ME11 5AR,51.4107,0.7579
-Starbucks,ME11 5AR,51.4107,0.7578
+Costa Coffee,ME11 5AR,51.4112,0.7572
+KFC,ME11 5AR,51.4098,0.7591
 Subway,ME11 5AR,51.4112,0.7552
 Principals By CH&Co At Queenborough Primary School,ME11 5DF,51.4154,0.7553
 Creams ,ME11 5JS,51.4075,0.7501
 Principals By CH&Co At Rose Street Primary School,ME12 1AW,51.4385,0.7596
 Principals By CH&Co At West Minster Primary School,ME12 1ET,51.4301,0.7541
 Premier Eastern Limited,ME12 1NJ,51.4410,0.7599
-Belle And Lion  J D Wetherspoon Plc,ME12 1NL,51.4407,0.7611
-McDonalds,ME12 1RH,51.4418,0.7594
+The Belle and Lion Sheerness (Wetherspoon),ME12 1NL,51.4408,0.7603
+McDonald's,ME12 1RH,51.4416,0.7594
 P A Crocker Ltd t/a McDonalds,ME12 1RH,51.4418,0.7594
 SD LONDON FOOD LIMITED,ME12 1TX,51.4395,0.7621
 Rumour Cafe Ltd,ME12 1UD,51.4387,0.7630
@@ -98,14 +94,14 @@ SPICE OF INDIA,ME12 3QD,51.4218,0.8124
 Castle Inn,ME13 0PY,51.3294,0.8794
 The Three Mariners,ME13 0QA,51.3308,0.8788
 Principals By CH&Co At Luddenham CP School,ME13 0TE,51.3262,0.8600
-Baxterstorey (Staff Canteen),ME13 7TW,51.3276,0.8794
-KFC,ME2 2AB,51.3941,0.4953
 Starbucks,ME2 2AB,51.3939,0.4948
+KFC,ME2 2AD,51.3947,0.4942
+McDonald's,ME2 2AD,51.3952,0.4930
 McDonald’s Strood,ME2 2AD,51.3952,0.4930
 JP Restaurants Kent Ltd,ME2 3DS,51.3992,0.4953
 Manisha Indian restaurant,ME2 4AP,51.3945,0.4978
 WIMPY,ME2 4AR,51.3949,0.4968
-McDonalds,ME2 4DW,51.4008,0.5150
+McDonald's,ME2 4DW,51.4005,0.5147
 SIP AT SISU LIMITED,ME2 4DY,51.3971,0.5164
 Battle Sector X,ME2 4EL,51.3987,0.5175
 New Shad Restaurant,ME2 4HY,51.4014,0.5008
@@ -120,7 +116,6 @@ Medway Yacht Club,ME2 4XB,51.4128,0.5320
 The Kings Arms,ME2 4XG,51.4063,0.5249
 Tudor Rose,ME2 4XG,51.4063,0.5261
 Six Bells Public House Cliffe,ME3 7QD,51.4612,0.4982
-Compass Group Ess,ME3 8BD,51.4170,0.5083
 The Horseshoe and Castle,ME3 8DJ,51.4560,0.5308
 Stone Horse Higham Ltd,ME3 8EN,51.4147,0.4895
 The Red Dog,ME3 8SF,51.4485,0.5615
@@ -134,12 +129,11 @@ THEPICKNGO,ME4 3ED,51.4011,0.5346
 the panini brothers,ME4 3ED,51.4012,0.5349
 Coffee Republic Chatham,ME4 4BA,51.3829,0.5250
 Coffee house,ME4 4BA,51.3831,0.5252
-KFC,ME4 4BN,51.3808,0.5292
 Cafe Nucleus,ME4 4BP,51.3805,0.5287
 Burger King,ME4 4BQ,51.3817,0.5273
 Chefs Delight 2,ME4 4BQ,51.3817,0.5273
-Costa Coffee,ME4 4BQ,51.3817,0.5273
-McDonalds,ME4 4BQ,51.3817,0.5273
+Costa Coffee,ME4 4BQ,51.3814,0.5277
+McDonald's,ME4 4BQ,51.3821,0.5269
 McDonald’s Chatham,ME4 4BQ,51.3817,0.5273
 Subway,ME4 4BQ,51.3817,0.5273
 Wimpey,ME4 4BQ,51.3817,0.5273
@@ -152,26 +146,22 @@ BBs Coffee and Muffins Chatham ,ME4 4HY,51.3837,0.5256
 Muffin Break - Chatham,ME4 4HY,51.3837,0.5256
 Subway,ME4 4HY,51.3837,0.5256
 Sala Solutions ta Cafe Nucleus,ME4 4JG,51.3837,0.5240
+The Thomas Waghorn Chatham (Wetherspoon),ME4 4JL,51.3826,0.5231
 Friendly Phils,ME4 4LL,51.4012,0.5322
-Nandos,ME4 4LL,51.4014,0.5323
-Pizza Hut Restaurant,ME4 4LL,51.4014,0.5323
+Nando's,ME4 4LL,51.4012,0.5326
 SUBWAY,ME4 4LL,51.4014,0.5323
 Villagio,ME4 4LL,51.4014,0.5323
-Buzz Bingo,ME4 4NR,51.3797,0.5306
 Dobby’s Food,ME4 4NR,51.3797,0.5306
 Silverspoon Kitchen ,ME4 4NR,51.3797,0.5306
 SULTAN INDIAN RESTAURANTS LTD,ME4 4QJ,51.3808,0.5246
 GURKHAS VIEW LIMITED,ME4 4SF,51.3849,0.5260
 The Command House ,ME4 4TX,51.3872,0.5237
-Officers Mess Compass Group Ess,ME4 4UG,51.3925,0.5339
 Fireaway Chatham ,ME4 4ZJ,51.4023,0.5341
 Flip Out Chatham,ME4 4ZJ,51.4023,0.5341
 Starbucks Chatham,ME4 4ZJ,51.4023,0.5341
-Starbucks,ME4 4ZJ,51.4023,0.5341
 Sweet Maritime LTD,ME4 4ZJ,51.4023,0.5341
 The Broadwick,ME4 4ZJ,51.4023,0.5341
 Taco Bell,ME4 4ZL,51.4022,0.5351
-Starbucks,ME4 6PN,51.3805,0.5203
 Station Grill,ME4 6SL,51.3798,0.5195
 Compass Group UK \& I,ME5 0HH,51.3604,0.5294
 Flying Pig Kitchen,ME5 7DX,51.3642,0.5461
@@ -183,20 +173,19 @@ Bridgewood Manor,ME5 9AX,51.3430,0.5083
 363 Coffee Lounge,ME5 9LL,51.3405,0.5263
 Bliss Tea Rooms,ME5 9LL,51.3402,0.5270
 Village Cafe /Restaurant,ME5 9LW,51.3406,0.5261
-KFC,ME5 9SQ,51.3510,0.5073
+KFC,ME5 9UN,51.3507,0.5078
 Lahore Karahi House,ME7 1AJ,51.3868,0.5491
-McDonalds Restaurants Ltd,ME7 1AJ,51.3869,0.5489
 EXCELPLUS LIMITED T/A Subway,ME7 1AX,51.3874,0.5457
-Burger King,ME7 1AY,51.3879,0.5444
 Gillingham Cafe Pie & Mash,ME7 1AY,51.3879,0.5444
 OK Catering Ltd,ME7 1AY,51.3879,0.5444
 THE HOLLYWOOD BOWL RESTAURANT,ME7 1BB,51.3892,0.5430
-The Hollywood Bowl,ME7 1BB,51.3892,0.5430
 TAI WON MEIN,ME7 1BJ,51.3876,0.5441
 FRASER COFFEE,ME7 1BL,51.3872,0.5453
 chef Delight cafe restaurant ,ME7 1BL,51.3872,0.5453
 Perifection,ME7 1BQ,51.3882,0.5435
 COSTA COFFEE - GILLINGHAM ,ME7 1BS,51.3869,0.5466
+Costa Coffee,ME7 1BS,51.3869,0.5474
+Thyme,ME7 1GB,51.3953,0.5538
 Active Life Café Medway Park ,ME7 1HF,51.3907,0.5411
 Subway,ME7 1RZ,51.3954,0.5528
 Compass Group Plc,ME7 1SJ,51.3904,0.5584
@@ -206,10 +195,10 @@ Reunthai Restaurant,ME7 2YY,51.3721,0.5597
 Chatham Snowsports Centre,ME7 3JH,51.3557,0.5598
 Elm Court Garden Centre ,ME7 3JQ,51.3406,0.5581
 The Harrow Inn,ME7 3NL,51.3309,0.5637
+Costa Coffee,ME7 3PB,51.3410,0.5724
 BB's Coffee and Muffins Gillingham ,ME7 3PD,51.3412,0.5730
-Costa Coffee,ME7 3PD,51.3414,0.5728
-Costa Coffee,ME7 3PD,51.3416,0.5727
-Nando's Chickenland,ME7 3PD,51.3414,0.5728
+Costa Coffee,ME7 3PD,51.3410,0.5724
+Nando's,ME7 3PD,51.3405,0.5733
 Subway,ME7 3PD,51.3414,0.5728
 The Broadwick,ME7 3PD,51.3412,0.5730
 Zaffran Exquisite indian cuisine ,ME7 3QE,51.3516,0.5707
@@ -220,29 +209,30 @@ King Charles Hotel,ME7 5QT,51.3908,0.5374
 New Shipa ,ME7 5TS,51.3845,0.5443
 Dixy Chicken and Pizza,ME7 5TX,51.3866,0.5445
 Eel Pie Island Cafe Ltd T-A Turkish Grill,ME7 5TX,51.3867,0.5446
-KFC,ME7 5UF,51.3852,0.5445
-KFC,ME8 0FB,51.3659,0.5818
-McDonalds,ME8 0FB,51.3659,0.5818
+KFC,ME7 5UF,51.3848,0.5447
+McDonald's,ME8 0FB,51.3666,0.5818
 P A Crocker Ltd t/a McDonalds,ME8 0FB,51.3659,0.5818
 Wigmore and District Smallholders Club,ME8 0JG,51.3533,0.5850
+KFC,ME8 0PP,51.3655,0.5799
 henrys cafe,ME8 0SB,51.3660,0.5692
-McDonalds,ME8 6AD,51.3809,0.5765
+McDonald's,ME8 6AD,51.3800,0.5767
 P A Crocker Ltd t/a McDonalds,ME8 6AD,51.3809,0.5765
+Cookhouse + Pub Honourable Pilot,ME8 6BY,51.3704,0.5697
 COSTA COFFEE - TWYDALL ,ME8 6NQ,51.3753,0.5842
+Costa Coffee,ME8 6NQ,51.3754,0.5842
 COSTA COFFEE - RAINHAM ,ME8 7HS,51.3638,0.6067
-Costa Coffee,ME8 7HS,51.3637,0.6071
+Costa Coffee,ME8 7HS,51.3638,0.6071
 Nutmegs patisserie ,ME8 7HS,51.3638,0.6067
-Pizza Hut Restaurant,ME8 7HS,51.3639,0.6068
 Tarana trading as Liyana's Spice LTD,ME8 7HS,51.3635,0.6079
 Centre Cafe,ME8 7HW,51.3641,0.6086
+Beefeater Manor Farm,ME8 7JE,51.3647,0.6033
 Rizk Kent Limited T/A Meridian spice ,ME8 7JH,51.3634,0.6075
-JD Wetherspoon - The Railway Inn,ME8 7SF,51.3659,0.6118
+The Railway Rainham (Wetherspoon),ME8 7SF,51.3658,0.6118
 Sundar Rachana,ME8 7TN,51.3790,0.6041
 Hon's Chinese Restaurant,ME8 8BA,51.3627,0.6120
 Rose Inn,ME8 8DR,51.3617,0.6172
 Darjeeling Heights,ME8 8DS,51.3611,0.6205
-Burger King,ME8 8PQ,51.3398,0.6059
-Moto Medway,ME8 8PW,51.3416,0.6082
+Costa Coffee,ME8 8PQ,51.3415,0.6084
 Spice Fusion,ME8 9LH,51.3482,0.5973
 Upchurch River Valley Golf Course Ltd,ME9 7AY,51.3718,0.6433
 The Three Tuns,ME9 7DY,51.3743,0.6695
@@ -256,7 +246,8 @@ Principals By CH&Co At Hartlip Endowed C Of E Primary School,ME9 7TL,51.3479,0.6
 the tudor rose,ME9 8BT,51.3441,0.6935
 The maypole inn,ME9 8JN,51.3346,0.7018
 Oad Street food and crafts,ME9 8LB,51.3276,0.6835
-McDonalds,ME9 8RZ,51.3513,0.7069
+Brewers Fayre Bobbing Apple,ME9 8RZ,51.3513,0.7070
+McDonald's,ME9 8RZ,51.3518,0.7077
 P A Crocker Ltd t/a McDonalds,ME9 8RZ,51.3513,0.7069
 The Woolpack,ME9 8SH,51.3785,0.7298
 The Mews Brewhouse,ME9 8UW,51.3777,0.7292
@@ -322,13 +313,14 @@ Spaghetti Junction Restaurant,SS0 9SU,51.5459,0.6787
 Temple Cafe,SS0 9SY,51.5460,0.6769
 Amina Tandoori,SS1 1AJ,51.5368,0.7108
 The Mews,SS1 1AL,51.5360,0.7110
+The Last Post Southend on Sea (Wetherspoon),SS1 1AS,51.5365,0.7130
 Clarence Yard,SS1 1BH,51.5357,0.7129
 Craftwerk Beers Ltd,SS1 1BU,51.5354,0.7127
 San Fairie Ann ,SS1 1BW,51.5350,0.7117
 Pulp kitchen ,SS1 1BX,51.5352,0.7132
 BB's Coffee and Muffins Southend ,SS1 1DG,51.5347,0.7153
 Gleneagles Guesthouse,SS1 1DP,51.5345,0.7096
-Costa Coffee,SS1 1DQ,51.5347,0.7153
+Costa Coffee,SS1 1DQ,51.5352,0.7142
 Utopia Coffee Lounge,SS1 1DQ,51.5348,0.7153
 subway ,SS1 1DQ,51.5347,0.7153
 Aurum Restaurant,SS1 1DT,51.5344,0.7109
@@ -341,14 +333,14 @@ The Remedy Tea Shop,SS1 1HZ,51.5362,0.7135
 Oyster Court,SS1 1JE,51.5348,0.7139
 TOMASSI'S,SS1 1JE,51.5346,0.7139
 The Royal Hotel,SS1 1JE,51.5346,0.7139
+McDonald's,SS1 1JF,51.5366,0.7139
 McDonalds,SS1 1JF,51.5367,0.7140
-Patisserie Valerie,SS1 1JG,51.5358,0.7141
 The Pipe of Port,SS1 1JN,51.5375,0.7139
 pepes piri piri,SS1 1JT,51.5386,0.7136
+McDonald's,SS1 1JX,51.5397,0.7129
 McDonalds,SS1 1JX,51.5395,0.7128
 Burger King,SS1 1LL,51.5398,0.7116
-Caffe Nero,SS1 1LL,51.5392,0.7120
-Costa Coffee,SS1 1LL,51.5393,0.7120
+Costa Coffee,SS1 1LL,51.5393,0.7123
 GERMAN DONER KEBAB ,SS1 1LL,51.5392,0.7122
 WIGEN COFFEE LTD T/A MUFFIN BREAK,SS1 1LL,51.5391,0.7121
 Maxwells,SS1 1LT,51.5392,0.7101
@@ -358,11 +350,10 @@ ELMEXICANA,SS1 1NE,51.5385,0.7120
 sunflower bistro,SS1 1NL,51.5390,0.7081
 Caddies,SS1 1NT,51.5399,0.7106
 Creams Cafe Southend On Sea,SS1 1NT,51.5399,0.7106
-Nandos Chickenland Ltd,SS1 1NT,51.5399,0.7106
+Nando's,SS1 1NT,51.5400,0.7109
 ROOSTERS PIRI PIRI,SS1 1NT,51.5399,0.7099
 Salsa Tapas & Grill,SS1 1NT,51.5399,0.7106
 olde trout tavern,SS1 1NX,51.5400,0.7085
-Pizza Express,SS1 1PE,51.5405,0.7100
 The Novel Coffee Shop,SS1 1PG,51.5402,0.7063
 Mangetout,SS1 1TJ,51.5403,0.7106
 Park Inn Palace Southend,SS1 2AL,51.5339,0.7160
@@ -393,10 +384,11 @@ Pizza Hut,SS1 2QA,51.5402,0.7290
 Pieno-Lleno Mexican Restaurant,SS1 2RR,51.5360,0.7239
 Ocean Beach,SS1 2YG,51.5301,0.7380
 The Castle,SS1 2YP,51.5302,0.7342
+Brewers Fayre Southend on Sea,SS1 2YT,51.5311,0.7295
 Camelia Hotel,SS1 3AA,51.5305,0.7412
 Roslin Beach Hotel,SS1 3BG,51.5304,0.7465
 COSTA COFFEE - THORPE BAY,SS1 3ES,51.5359,0.7614
-Costa Coffee,SS1 3ES,51.5359,0.7614
+Costa Coffee,SS1 3ES,51.5361,0.7614
 Masoom Restaurant,SS1 3ES,51.5359,0.7614
 SOUTHEND COTTAGE LIMITED,SS1 3ES,51.5360,0.7614
 Cafe Masala,SS1 3EX,51.5361,0.7607
@@ -406,15 +398,12 @@ Fresco food prep ,SS1 3RB,51.5452,0.7578
 Mitchell's Cafe & Bistro,SS2 4LB,51.5476,0.7361
 Gulshan Tandoori Restaurant,SS2 5ET,51.5458,0.7186
 KFC Southend - Greyhound,SS2 5PY,51.5448,0.7159
-KFC,SS2 5PY,51.5448,0.7159
-Mecca Bingo,SS2 5PY,51.5448,0.7159
-Starbucks,SS2 5PY,51.5451,0.7179
+KFC,SS2 5PY,51.5454,0.7168
 WIMPY Southend Victoria,SS2 5SB,51.5406,0.7126
-Starbucks,SS2 5SG,51.5404,0.7128
 Caffe Espresso ,SS2 5SP,51.5404,0.7128
-Costa Coffee,SS2 6AE,51.5416,0.7115
 Channys Kitchen,SS2 6HH,51.5479,0.7040
 The Angel Inn,SS3 8UD,51.5449,0.7782
+Parsons Barn Shoeburyness (Wetherspoon),SS3 8UT,51.5407,0.7822
 Shoeburyness Hotel,SS3 9AJ,51.5295,0.7945
 The polash restaurant ,SS3 9DS,51.5302,0.7805
 Toasteas,SS3 9DT,51.5302,0.7799
@@ -429,8 +418,9 @@ The Bar,SS8 0DB,51.5144,0.5810
 Canvey Island Conservative Club Ltd,SS8 0JA,51.5200,0.5889
 JONES CORNER CAFE,SS8 0JR,51.5204,0.5773
 KIRSTYS CAFE,SS8 0PQ,51.5212,0.5566
+McDonald's,SS8 0PS,51.5233,0.5523
 McDonald's,SS8 0PS,51.5269,0.5372
-McDonalds Restaurant Ltd,SS8 0PS,51.5269,0.5372
+Costa Coffee,SS8 7AD,51.5224,0.5936
 Rio Coffee,SS8 7AD,51.5224,0.5932
 SUBWAY,SS8 7AE,51.5224,0.5920
 izzie coffe meze bar restaurant,SS8 7AE,51.5224,0.5920
@@ -445,7 +435,7 @@ The Labworth Restaurant ,SS8 7DW,51.5118,0.5946
 Spice Lounge,SS8 7FJ,51.5127,0.5967
 oysterbay sports bar,SS8 7FJ,51.5127,0.5967
 KFC Canvey,SS8 7RD,51.5230,0.5962
-KFC,SS8 7RD,51.5230,0.5962
+KFC,SS8 7RD,51.5230,0.5963
 The Corner Club,SS8 7RQ,51.5228,0.6030
 The Fountain,SS8 8HE,51.5255,0.6042
 Castlepoint Golf Course,SS8 9FG,51.5337,0.5747
@@ -464,7 +454,7 @@ Leigh road cafe,SS9 1JL,51.5437,0.6678
 Oaktree Vegan Restaurant ,SS9 1JN,51.5437,0.6687
 Thamesbreeze Bar & Restaurant,SS9 1JQ,51.5436,0.6658
 Cafe Hogar Del Mar,SS9 1PA,51.5417,0.6552
-Costa Coffee,SS9 1PA,51.5417,0.6552
+Costa Coffee,SS9 1PA,51.5417,0.6557
 Manolys Thai Restaurant,SS9 1PA,51.5417,0.6552
 The Gourmet Deli Co,SS9 1PA,51.5417,0.6552
 Wilmas Bakery,SS9 1PA,51.5417,0.6554
@@ -498,6 +488,7 @@ Wakey Wakey Cafe Limited,SS9 2UR,51.5481,0.6321
 Hoppily HQ & Lounge,SS9 3JB,51.5483,0.6555
 Company name ,SS9 3JE,51.5480,0.6592
 LA FAMIGLIA LIMITED ,SS9 3JE,51.5480,0.6592
+The Elms LeighonSea (Wetherspoon),SS9 3ND,51.5477,0.6565
 Yak and Yeti,SS9 3ND,51.5476,0.6574
 The Oakleigh,SS9 3NE,51.5475,0.6593
 Continente cafe,SS9 3NF,51.5475,0.6615

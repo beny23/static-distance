@@ -28,7 +28,7 @@ The Swan Inn,CM6 3DG,51.8565,0.4325
 Wood cottage tearoom & patisserie ,CM6 3DJ,51.8567,0.4345
 Razza Restaurant,CM6 3DL,51.8574,0.4363
 The Chophouse Braintree,CM7 1ES,51.8780,0.5511
-Costa Coffee,CM7 1JP,51.8780,0.5501
+Costa Coffee,CM7 1JP,51.8784,0.5510
 LOVE TOAST LTD,CM7 1JP,51.8782,0.5502
 The Vegan Way Cafe,CM7 1JP,51.8782,0.5502
 Kaspas ,CM7 1JX,51.8785,0.5502
@@ -36,11 +36,10 @@ Mosaic Restaurant,CM7 1UG,51.8795,0.5508
 Yumy restaurant,CM7 1UT,51.8789,0.5515
 Brambles Restaurant,CM7 2QA,51.8796,0.5498
 The Horse and Groom,CM7 2QA,51.8796,0.5499
-Bannatyne Health Club Braintree,CM7 2YN,51.8856,0.5349
 Legends Sports and Pool Bar,CM7 3GB,51.8764,0.5527
 Merchant Spice,CM7 3HA,51.8770,0.5538
+The Picture Palace Braintree (Wetherspoon),CM7 3HA,51.8772,0.5537
 Mem Has Cafe,CM7 3HG,51.8786,0.5527
-Costa Coffee,CM7 3LA,51.8791,0.5807
 Lounge India,CM7 3QD,51.8767,0.5532
 Zafra pasta bar and grill,CM7 4JS,51.9679,0.4505
 The Fox Inn (Finchingfield) Limited,CM7 4JX,51.9686,0.4501
@@ -54,7 +53,6 @@ The George Inn,CM7 5HH,51.9339,0.5043
 Bocking United Services Social Club Limited,CM7 5LA,51.9034,0.5560
 Hare & Hounds,CM7 5NT,51.9098,0.5781
 The Hare and Hounds,CM7 5NT,51.9098,0.5781
-Prezzo,CM7 8YH,51.9423,0.4926
 Thorntons Ltd,CM7 8YH,51.8698,0.5712
 Coffee House in the Gardens,CM7 9AE,51.8811,0.5520
 Siam Thai braintree,CM7 9BY,51.8798,0.5526
@@ -62,31 +60,30 @@ Pizza Hut,CM7 9EJ,51.8807,0.5671
 VOUJON RESTAURANT BRAINTREE,CM77 6RW,51.8755,0.5093
 Palmtrees Bar and Restaurant,CM77 6SG,51.8775,0.4737
 panners coffee bar,CM77 7AE,51.8658,0.5282
-Costa Coffee,CM77 7US,51.8584,0.5232
+Costa Coffee,CM77 7WW,51.8578,0.5219
+Costa Coffee,CM77 8AA,51.8806,0.5827
 Watering Can,CM77 8AE,51.8804,0.6008
 BRANDS DIRECT LIMITED T/A THE ONLEY,CM77 8AW,51.8921,0.6144
 Braintree Golf Club Limited,CM77 8DD,51.8914,0.6043
 Braintree Garden Centre,CM77 8DH,51.8659,0.5820
+Breakfast Room,CM77 8DH,51.8666,0.5833
 Caesar's at the Dolphin ,CM77 8EU,51.8789,0.6109
 McDonald's Galleys Corner Braintree,CM77 8EZ,51.8677,0.5812
-McDonalds,CM77 8EZ,51.8677,0.5812
+McDonald's,CM77 8EZ,51.8677,0.5812
 KFC Braintree,CM77 8GA,51.8675,0.5798
-KFC,CM77 8GA,51.8675,0.5798
-Pizza Hut Restaurant,CM77 8GA,51.8675,0.5798
+KFC,CM77 8GA,51.8676,0.5807
+Brewers Fayre Mulberry Tree,CM77 8GG,51.8688,0.5821
 Vine Inn,CM77 8LL,51.8572,0.5641
 Tiptree Tea Room at The Barns,CM77 8PD,51.8389,0.6078
 Cineworld Multiplex Cinema (incl. Food Counter \& Starbucks),CM77 8YH,51.8700,0.5710
+Costa Coffee,CM77 8YH,51.8698,0.5702
 HASTURK ,CM77 8YH,51.8701,0.5709
 Namco Funscape,CM77 8YH,51.8700,0.5710
-Pizza Express,CM77 8YH,51.8700,0.5710
-The Cornish Bakery,CM77 8YH,51.8695,0.5705
-Wildwood,CM77 8YH,51.8700,0.5710
-Nandos,CM77 8YJ,51.8685,0.5722
-Zizzi,CM77 8YJ,51.8685,0.5722
+Nando's,CM77 8YH,51.8678,0.5719
 Partyman World Braintree,CM77 8YL,51.8734,0.5678
 Astare Restaurant ,CM8 1AA,51.7987,0.6390
 Mama Dells Limited,CM8 1AA,51.7987,0.6390
-Prezzo,CM8 1AH,51.7991,0.6388
+The Battesford Court Witham (Wetherspoon),CM8 1AH,51.7983,0.6377
 IFRAAZ,CM8 1BA,51.7978,0.6369
 Notleys Golf Club Ltd,CM8 1RG,51.8452,0.5759
 Crofters Wine Bar,CM8 2AA,51.7991,0.6414
@@ -98,9 +95,8 @@ haspolen limited,CM8 2AQ,51.8011,0.6413
 The Tea Rooms,CM8 2AR,51.8001,0.6401
 The Railway,CM8 2DE,51.8060,0.6365
 Rivenhall Oaks Golf Centre,CM8 2PS,51.8122,0.6466
-Costa Coffee,CM8 2YT,51.7996,0.6420
+Costa Coffee,CM8 2YT,51.7991,0.6428
 Cafe Torque,CM8 3DR,51.8074,0.6474
-Starbucks,CM8 3HB,51.8206,0.6770
 The Green Man,CM8 3LB,51.7857,0.6797
 Benton Hall Golf & Country Club,CM8 3LH,51.7884,0.6498
 Western Arms,CM8 3SD,51.8436,0.6290
@@ -112,7 +108,6 @@ Tea Room at the Jam Factory,CO5 0RF,51.8070,0.7537
 Somadhan Limited,CO5 9AA,51.8373,0.7013
 The Angel,CO5 9AN,51.8330,0.6970
 PRESTED HALL LIMITED,CO5 9EE,51.8439,0.7308
-Burger King,CO5 9EL,51.8526,0.7308
 Subway feering,CO5 9EL,51.8525,0.7309
 THE RAILWAY TAVERN,CO5 9JD,51.8398,0.7043
 Sun Inn,CO5 9NH,51.8409,0.7079
@@ -142,7 +137,7 @@ IMJAI THAI RESTAURANT,CO9 2AA,51.9447,0.6381
 CURRY COTTAGE HALSTEAD LIMITED,CO9 2AU,51.9461,0.6408
 HALSTEAD CAFE,CO9 2JG,51.9439,0.6354
 Aimes Ltd t/a Costa Coffee Halstead,CO9 2JN,51.9436,0.6360
-Costa Coffee,CO9 2JN,51.9434,0.6363
+Costa Coffee,CO9 2JN,51.9439,0.6359
 Fox and Herb,CO9 2JQ,51.9436,0.6357
 The Kings Head Pebmarsh,CO9 2NH,51.9690,0.6957
 BABA MAA ENTERPRISE LIMITED,CO9 2SE,51.9790,0.6701

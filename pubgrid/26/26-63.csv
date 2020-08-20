@@ -31,7 +31,6 @@ THE FOX PUB,BN5 9XE,50.9015,-0.2749
 Fuel Coffee House,BN5 9XH,50.8846,-0.2841
 golding barn cafe,BN5 9XH,50.8837,-0.2820
 Sunam Tandoori (UK) Ltd,BN6 8AD,50.9245,-0.1429
-Costa Coffee,BN6 8AR,50.9240,-0.1407
 The Thatched Inn,BN6 8DH,50.9276,-0.1319
 the purple carrot ,BN6 8HN,50.9247,-0.1447
 Bake Out Hassocks Ltd,BN6 8QA,50.9235,-0.1396
@@ -54,48 +53,41 @@ the white horse inn ,BN6 9SP,50.9343,-0.1831
 Smith & Western,RH10 5PQ,51.0951,-0.1797
 Tilgate Walled Garden Cafe,RH10 5PQ,51.0951,-0.1796
 Cottesmore Hotel Golf Country Club,RH11 9AT,51.0859,-0.2233
-BaxterStorey At Bard,RH11 9BP,51.0930,-0.1937
-Burger King,RH11 9YA,51.0833,-0.2000
-Costa Coffee,RH11 9YA,51.0833,-0.2000
+Costa Coffee,RH11 9YA,51.0833,-0.1999
 The REC,RH12 1AU,51.0616,-0.3248
 Deep Blue Restaurants,RH12 1DW,51.0624,-0.3287
-Ask Italian,RH12 1EE,51.0625,-0.3273
 The Red Deer,RH12 1EE,51.0625,-0.3273
-Everyman Cinema,RH12 1EH,51.0623,-0.3264
-Miller & Carter,RH12 1EH,51.0625,-0.3265
-Starbucks Coffee,RH12 1EH,51.0622,-0.3270
+Kitchen,RH12 1EH,51.0625,-0.3261
 The M Bar,RH12 1EH,51.0622,-0.3270
 Chococo Horsham,RH12 1EQ,51.0628,-0.3283
-Prezzo Restaurant,RH12 1EQ,51.0628,-0.3283
 Buenos Aires Argentine Steakhouse ,RH12 1EU,51.0618,-0.3283
 Cafe Number4,RH12 1EU,51.0618,-0.3283
-Giggling Squid,RH12 1HH,51.0618,-0.3269
 Izmir Bar Grill,RH12 1HH,51.0618,-0.3269
-Nando's,RH12 1HH,51.0617,-0.3267
-Pizza Express,RH12 1HH,51.0618,-0.3269
+Nando's,RH12 1HH,51.0621,-0.3278
 Beeches Buffet,RH12 1HJ,51.0617,-0.3262
 Brewhouse and Kitchen Horsham,RH12 1HL,51.0617,-0.3273
-Wagamama,RH12 1HL,51.0617,-0.3273
+Costa Coffee,RH12 1HQ,51.0633,-0.3297
 Nadz Coffee,RH12 1HQ,51.0633,-0.3297
 Real Eating Company Ltd,RH12 1HQ,51.0633,-0.3291
 Restaurant Tristan,RH12 1HU,51.0619,-0.3266
 Zeytin restaurant,RH12 1JE,51.0610,-0.3268
 The Comodor ,RH12 1NR,51.0620,-0.3290
-Costa Coffee,RH12 1PB,51.0627,-0.3311
-Pret A Manger,RH12 1PB,51.0627,-0.3311
-Caffe Nero,RH12 1PP,51.0631,-0.3310
+Costa Coffee,RH12 1PB,51.0624,-0.3305
+Pret A Manger,RH12 1PB,51.0627,-0.3305
 Wimpy restaurant ,RH12 1PP,51.0631,-0.3310
 Esquires Coffee House Horsham,RH12 1PQ,51.0622,-0.3312
 D&D coffee and more limited ,RH12 1PT,51.0634,-0.3309
 LA PIAZZETTA,RH12 1QA,51.0636,-0.3330
-KFC,RH12 1QN,51.0645,-0.3349
+KFC,RH12 1QN,51.0642,-0.3340
 King Arms  Horsham,RH12 1QN,51.0645,-0.3349
 Lemongrass,RH12 1QN,51.0645,-0.3349
 Mangobean Coffee Wonderland,RH12 1QR,51.0638,-0.3325
 The Olive Branch,RH12 1QR,51.0638,-0.3325
+Beefeater The Station,RH12 1RB,51.0664,-0.3196
 China Brasserie,RH12 1RJ,51.0643,-0.3241
 The Cafe,RH12 2NW,51.0688,-0.3193
 RAJKUMAR,RH12 2PG,51.0650,-0.3307
+The Lynd Cross Horsham (Wetherspoon),RH12 2PG,51.0637,-0.3322
 Smith & Western,RH12 2QR,51.0747,-0.3294
 The Milk Churn,RH12 3DH,51.0968,-0.4535
 Kings Head,RH12 3EB,51.0975,-0.4442
@@ -130,7 +122,7 @@ the windmill inn,RH13 8EJ,50.9796,-0.3016
 The George And Dragon Pub,RH13 8GE,50.9992,-0.3764
 The Partridge,RH13 8JS,50.9604,-0.3085
 The Green Man ,RH13 8JT,50.9664,-0.3103
-McDonalds Restaurant,RH13 8LW,50.9918,-0.3412
+McDonald's,RH13 8LW,50.9917,-0.3411
 McDonald’s Restaurant,RH13 8LW,50.9918,-0.3412
 The Orchard Restaurant,RH13 8LY,50.9901,-0.3110
 Camelia Botnar Homes & Gardens,RH13 8NA,50.9859,-0.3033
@@ -164,25 +156,18 @@ The Oak Barn Restaurant,RH15 8RE,50.9718,-0.1439
 India Garden Tandoori Restaurant ,RH15 9AA,50.9572,-0.1367
 Franks cafe,RH15 9AE,50.9553,-0.1295
 Ismet Turen Ltd TA McDonalds Brighton,RH15 9AR,50.9539,-0.1336
-McDonalds,RH15 9AR,50.9539,-0.1336
-Caffe Nero,RH15 9BB,50.9552,-0.1301
 Bangkokbrasserie ,RH15 9BQ,50.9562,-0.1320
 Lynne’s Cafe,RH15 9BQ,50.9562,-0.1320
+The Six Gold Martlets Burgess Hill (Wetherspoon),RH15 9BQ,50.9556,-0.1313
 spiral,RH15 9DE,50.9543,-0.1289
 Lemongrass,RH15 9DS,50.9546,-0.1299
 Home Coffee House,RH15 9LR,50.9546,-0.1450
 KFC,RH15 9ND,50.9525,-0.1455
-Burgess Hill KFC,RH15 9NP,50.9551,-0.1313
 COSTA COFFEE - BURGESS HILL ,RH15 9NP,50.9551,-0.1312
-Costa Coffee,RH15 9NP,50.9551,-0.1312
-BaxterStorey At Flowserve,RH15 9TJ,50.9535,-0.1466
-BaxterStorey At CAE UK PLc,RH15 9TW,50.9529,-0.1563
-BaxterStorey At Roche Diagnostics Ltd.,RH15 9UF,50.9500,-0.1513
+KFC,RH15 9NP,50.9550,-0.1313
+Beefeater The Acorn,RH15 9TQ,50.9511,-0.1507
 COSTA COFFEE - HAYWARDS HEATH 2,RH16 1AE,51.0061,-0.1030
-Starbucks Coffee Company,RH16 1DG,51.0064,-0.1067
-Costa Coffee,RH16 1DR,51.0061,-0.1033
 Curry Inn,RH16 1EA,51.0061,-0.1038
-BaxterStorey At Flowserve,RH16 1TL,51.0077,-0.1077
 Tamasha Spice,RH16 2HH,51.0112,-0.0814
 Limes Thai Kitchen,RH16 2HN,51.0132,-0.0814
 That's Amore,RH16 2HP,51.0140,-0.0801
@@ -190,21 +175,19 @@ The Bent Arms,RH16 2HP,51.0140,-0.0801
 The Snowdrop Inn,RH16 2QE,50.9963,-0.0734
 La Campana ,RH16 3AL,51.0004,-0.1057
 ORANGE SQUARE BAR,RH16 3AL,51.0004,-0.1057
-Pizza Express,RH16 3AL,51.0004,-0.1057
 Savannah Cafe Bar ,RH16 3AL,51.0004,-0.1057
 Lemongrass ,RH16 3AS,51.0007,-0.1062
 Pizza Hut,RH16 3AS,51.0007,-0.1062
+Thyme,RH16 3DN,51.0036,-0.1032
 The Bay Tree,RH16 3TH,50.9975,-0.1023
 Tory's Cafe in the Park,RH16 4HT,50.9963,-0.1036
 COSTA COFFEE - HAYWARDS HEATH 1,RH16 4LA,50.9967,-0.1018
-Costa Coffee,RH16 4LA,50.9967,-0.1018
+Costa Coffee,RH16 4LA,50.9970,-0.1024
 istanbul meze bar,RH16 4LL,50.9977,-0.1032
-Caffe Nero,RH16 4LQ,50.9964,-0.1023
 Flinders Coffee Ltd,RH16 4LR,50.9974,-0.1038
-Haywards Heath KFC,RH16 4LR,50.9974,-0.1038
 KFC,RH16 4LR,50.9974,-0.1038
+KFC,RH16 4LR,50.9977,-0.1041
 MJ BAlti House Limited,RH16 4LR,50.9974,-0.1038
-Zizzi,RH16 4LU,50.9992,-0.1061
 NIZAM INDIAN RESTAURANT LIMITED,RH16 4LY,50.9989,-0.1066
 The Swan,RH17 5AA,51.0036,-0.1445
 Wheatsheaf Inn,RH17 5DW,51.0060,-0.1329
@@ -217,8 +200,6 @@ Spice Village,RH17 5LD,51.0064,-0.1438
 Cuckfield Cornerhouse Cafe,RH17 5LG,51.0058,-0.1428
 the castle inn shanghai brasserie,RH17 5LZ,50.9731,-0.1974
 Michael Maxwell T/A Maxwell's at Hickstead,RH17 5NU,50.9654,-0.1958
-Hickstead Burger King,RH17 5NZ,50.9684,-0.1904
-Starbucks Coffee Company,RH17 5NZ,50.9684,-0.1904
 The Eight Bells,RH17 5QW,50.9892,-0.2046
 The Bolney Stage,RH17 5RL,51.0005,-0.1983
 The Half Moon Warninglid,RH17 5TR,51.0195,-0.2195
@@ -247,4 +228,4 @@ Joanna's Boutique Tearoom,RH20 4DU,50.9175,-0.4529
 Cottage tandoori,RH20 4DZ,50.9180,-0.4564
 Golden Willow Restaurant ,RH20 4HJ,50.9197,-0.4639
 The Old Forge Restaurant,RH20 4LA,50.9172,-0.4547
-Costa Coffee,RH20 4NQ,50.9182,-0.4520
+Costa Coffee,RH20 4NQ,50.9184,-0.4519

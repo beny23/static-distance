@@ -8,7 +8,9 @@ Pennells Four Seasons Garden Centre Restaurant,NG34 8NY,52.9743,-0.4274
 The Tally Ho Inn,NG34 8SA,52.9435,-0.4231
 The Wishing Well Inn,PE10 0AF,52.7890,-0.3643
 MCDONALDS,PE10 0ET,52.7546,-0.3692
+McDonald's,PE10 0ET,52.7546,-0.3691
 China Hand Lincs Ltd,PE10 9AB,52.7696,-0.3767
+Costa Coffee,PE10 9AB,52.7685,-0.3771
 Costa Coffee,PE10 9AB,52.7696,-0.3767
 Jubilee Garage,PE10 9AB,52.7696,-0.3767
 Cafe 35,PE10 9AE,52.7691,-0.3775
@@ -16,7 +18,6 @@ Galaxy91 Limited,PE10 9AE,52.7691,-0.3775
 Smiths of Bourne,PE10 9AE,52.7691,-0.3775
 The Beanbag (bourne) ltd trading as The Angel Hotel,PE10 9AE,52.7691,-0.3775
 Wild Heart Cafe,PE10 9AE,52.7691,-0.3775
-Bourne Leisure Centre,PE10 9DX,52.7737,-0.3729
 Dont Lose Hope Cafe,PE10 9EA,52.7683,-0.3767
 Ginger Fox Cafe,PE10 9EF,52.7678,-0.3760
 The Nags Head,PE10 9EF,52.7678,-0.3760
@@ -31,17 +32,18 @@ Elior (Westfield Primary Academy),PE10 9QS,52.7688,-0.3903
 Amici Restaurant,PE11 1AN,52.7859,-0.1514
 Gurkhaoven Spalding ,PE11 1BE,52.7876,-0.1538
 The Loft,PE11 1BT,52.7880,-0.1537
+The Ivy Wall Spalding (Wetherspoon),PE11 1DQ,52.7886,-0.1514
 CJ's Diner,PE11 1DY,52.7874,-0.1562
 DORIS BISTRO LTD,PE11 1EB,52.7872,-0.1548
 Istanbul Spalding Ltd,PE11 1EB,52.7872,-0.1552
 UK Lounges Limited t/a Rustic,PE11 1EG,52.7869,-0.1568
 Baltic,PE11 1EJ,52.7872,-0.1573
 Tulip-tandoori-restaurant ,PE11 1QD,52.7899,-0.1511
+Costa Coffee,PE11 1SA,52.7872,-0.1519
 Costa Coffee,PE11 1SA,52.7872,-0.1524
 PRIME CATERING (PETERBOROUGH) LTD,PE11 1SU,52.7871,-0.1512
 St Barnabas Shops Limited Spalding Cafe,PE11 1SU,52.7874,-0.1511
 Penningtons,PE11 1SX,52.7876,-0.1516
-Prezzo,PE11 1TB,52.7877,-0.1504
 Katana Japnese cusine,PE11 2AB,52.7883,-0.1470
 Regent Bingo Spalding,PE11 2AE,52.7889,-0.1484
 Graffiti bar,PE11 2AF,52.7892,-0.1491
@@ -52,17 +54,15 @@ Tonic 44 Community Cafe,PE11 4DB,52.8408,-0.1309
 THE SHIP INN,PE11 4DH,52.8445,-0.1057
 NFL Catering Ltd,PE11 4EA,52.8398,-0.1221
 The Black Bull,PE11 4ST,52.9052,-0.2049
-Waterfall Elior at Dalehead Restaurant,PE12 6EP,52.7960,-0.1279
-Costa Coffee,PE12 6ES,52.7994,-0.1294
-Starbucks Coffee Shop,PE12 6ES,52.7987,-0.1282
-Caffe Nero,PE12 6EU,52.7993,-0.1274
+Costa Coffee,PE12 6EU,52.7993,-0.1277
 Springy's American Diner  Adventureland,PE12 6EU,52.7993,-0.1274
 Starbucks,PE12 6EU,52.7993,-0.1274
 The Kitchen,PE12 6EU,52.7993,-0.1274
 subway,PE12 6EU,52.7993,-0.1274
 Unique Cottage Cafe,PE12 6FA,52.7891,-0.1259
-Costa Coffee,PE12 6FY,52.7609,-0.1586
+Costa Coffee,PE12 6FY,52.7604,-0.1582
 McDonald's Spalding ,PE12 6JP,52.8001,-0.1195
+McDonald's,PE12 6JP,52.7983,-0.1228
 Fun Farm Spalding,PE12 6JU,52.8042,-0.0929
 Jak's Diner at Laserstorm,PE12 6JU,52.8041,-0.0931
 swan,PE12 6QB,52.7976,-0.0630
@@ -70,8 +70,7 @@ THE BLACK BULL,PE20 1JE,52.9256,-0.0628
 Rainbow landscaping centre ,PE20 1PX,52.9199,-0.0758
 Magnum Inns Limited,PE20 2EZ,52.9028,-0.0958
 McDonald's Sutterton,PE20 2LF,52.8907,-0.0833
-Sutterton Burger King,PE20 2LG,52.8885,-0.0805
-Starbucks Drive Thru,PE20 2LN,52.8896,-0.0847
+McDonald's,PE20 2LF,52.8885,-0.0858
 Starbucks,PE20 2LN,52.8896,-0.0847
 Supreme Inns Hotel,PE20 3AN,52.9304,-0.1581
 concreation garden centre,PE20 3HB,52.9572,-0.1420

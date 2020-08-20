@@ -1,8 +1,6 @@
 name,postcode,lat,lon
 Deans Place Hotel,BN26 5TW,50.9082,0.3148
-KFC,BN27 3JS,50.8771,0.2670
 BLACKBROOKS LOWER DICKER,BN27 4BJ,50.8821,0.2145
-Starbucks Coffee,BN27 4DP,50.8795,0.2311
 the sundial restaurant,BN27 4LA,50.8898,0.3263
 Brewers arms,BN27 4LB,50.8896,0.3245
 SMRITI PRODUCTION LTD T/A EASTERN PROMISE,BN27 4LB,50.8896,0.3245
@@ -30,6 +28,7 @@ Lakeside Horam,TN21 0JB,50.9340,0.2414
 The Gun,TN21 0JU,50.9080,0.2238
 The May Garland Inn,TN21 0LJ,50.9260,0.2380
 Connect Catering,TN21 0TS,50.9716,0.2005
+Costa Coffee,TN21 0UE,50.9740,0.2240
 The Heathfield Tavern,TN21 8DR,50.9673,0.2548
 FirstPort - Risingholme Court,TN21 8GB,50.9724,0.2509
 The baytree cafe,TN21 8HS,50.9716,0.2508
@@ -44,17 +43,16 @@ POPPINS Cafe Restaurant,TN22 1AG,50.9700,0.0958
 Hartfields Coffee & Kitchen,TN22 1AP,50.9715,0.0962
 Kaya courtyard coffee shop ,TN22 1AP,50.9715,0.0961
 Star of Bengal,TN22 1AP,50.9715,0.0961
-Pizza Express,TN22 1AS,50.9726,0.0966
 THE PICTURE HOUSE RESTAURANT,TN22 1AU,50.9722,0.0970
 Mojava Cafe,TN22 1PU,50.9694,0.0962
 McDonald's Uckfield,TN22 1QL,50.9688,0.0894
+McDonald's,TN22 1QL,50.9696,0.0929
 Thyme for Food and Friends,TN22 1QP,50.9707,0.0968
 COSTA COFFEE - UCKFIELD ,TN22 1QR,50.9711,0.0967
-Costa Coffee,TN22 1QR,50.9711,0.0967
+Costa Coffee,TN22 1QR,50.9709,0.0964
 Amira's Kitchen,TN22 1QU,50.9709,0.0983
 cafe 212,TN22 1RD,50.9733,0.0974
 Thai Terre Uckfield,TN22 1RJ,50.9734,0.0970
-Costa Coffee,TN22 2DU,50.9933,0.0771
 TASTY SPICE UCKFIELD LTD,TN22 2EA,50.9892,0.0973
 PIG AND BUTCHER,TN22 3AN,50.9954,0.1042
 Green Fingers Cafe,TN22 3JP,51.0357,0.0932
@@ -65,7 +63,7 @@ Uckfield Tandoori,TN22 5AE,50.9678,0.0969
 The Alma Arms,TN22 5AJ,50.9668,0.1007
 Apple Green,TN22 5DL,50.9669,0.0962
 McDonald's Maresfield,TN22 5EP,50.9893,0.0897
-Mcdonalds,TN22 5EP,50.9893,0.0897
+McDonald's,TN22 5EP,50.9892,0.0897
 East Sussex National Ltd,TN22 5ES,50.9415,0.0998
 The Blackboys Inn,TN22 5LG,50.9617,0.1649
 Hare and Hounds,TN22 5NJ,50.9636,0.1280
@@ -82,11 +80,11 @@ New spice ag ltd ,TN32 5AE,50.9866,0.4749
 The George Inn,TN32 5AW,50.9846,0.4743
 The Ostrich Hotel,TN32 5DG,50.9851,0.4707
 route1066 cafe (battle) ltd,TN32 5JH,50.9650,0.4803
+Costa Coffee,TN33 0AE,50.9159,0.4854
 Mrs Burtons tea rooms ,TN33 0AE,50.9160,0.4850
 Battle Enterprises Ltd t/a Battle Deli ,TN33 0AG,50.9163,0.4851
 Bonney's ,TN33 0AG,50.9164,0.4852
 COSTA COFFEE - BATTLE ,TN33 0AJ,50.9161,0.4849
-Costa Coffee,TN33 0AJ,50.9161,0.4849
 The Abbey Hotel (Battle) Ltd,TN33 0AQ,50.9155,0.4864
 Thai Orchid Battle,TN33 0EA,50.9172,0.4837
 RUSTICO ITALIANO LIMITED,TN33 0EE,50.9179,0.4836
@@ -103,7 +101,6 @@ Wadhurst Indian Brasserie Limited,TN5 6AJ,51.0628,0.3378
 The Greyhound Hotel,TN5 6AP,51.0618,0.3400
 The White Hart,TN5 6AP,51.0618,0.3400
 Galapagos Restaurant ,TN5 6ER,51.0762,0.3553
-Costa Coffee Machine,TN5 6RS,51.0666,0.3268
 The Greedy Goat Cafe ,TN5 7AH,51.0455,0.4069
 Buy The Weigh,TN5 7AS,51.0473,0.4070
 The Bell in Ticehurst LLP,TN5 7AS,51.0473,0.4070
@@ -111,7 +108,9 @@ The Cherry tree inn limited,TN5 7DG,51.0488,0.4216
 Dale Hill Hotel and Golf Limited,TN5 7DQ,51.0490,0.4223
 Stonegate C Of E Primary School,TN5 7EN,51.0318,0.3753
 THE BULL INN,TN5 7HH,51.0547,0.4034
+The Crowborough Cross Crowborough (Wetherspoon),TN6 1AF,51.0604,0.1615
 O A J Catering Ltd T/a The Blue Anchor,TN6 1BB,51.0533,0.1530
+Costa Coffee,TN6 1BU,51.0595,0.1624
 Donnamaria Italian Restaurant,TN6 1DF,51.0587,0.1627
 Rose of Bengal ,TN6 1DG,51.0585,0.1628
 Bar Trend,TN6 1DL,51.0584,0.1618
@@ -121,7 +120,6 @@ The whistle stop cafe,TN6 2GE,51.0468,0.1886
 Crowborough Spice,TN6 2JE,51.0480,0.1874
 The Wheatsheaf,TN6 2NF,51.0449,0.1817
 Hattusa Crowborough,TN6 2QB,51.0601,0.1617
-Freedom Leisure,TN6 2TN,51.0633,0.1666
 Rajpoot Indian Restaurant ,TN6 2TT,51.0610,0.1617
 THE BOARS HEAD INN,TN6 3GR,51.0734,0.1917
 Highgate Coffee Shop,TN6 3JU,51.0538,0.2180

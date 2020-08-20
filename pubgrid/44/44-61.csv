@@ -9,7 +9,8 @@ Ready Steady Roll,MK44 1ND,52.2315,-0.5296
 The swan with two nicks,MK44 1PF,52.2255,-0.5428
 The Crown Inn,MK44 2BU,52.2561,-0.3892
 cafe at the college ec,MK44 2JP,52.2429,-0.4333
-Costa Coffee,NN10 0NR,52.2914,-0.5984
+Costa Coffee,NN10 0NR,52.2914,-0.5983
+The Railway Inn Rushden (Wetherspoon),NN10 0PA,52.2930,-0.5990
 La Estrella ,NN10 0PQ,52.2921,-0.5984
 ORIENTAL GOURMET VILLAGE LIMITED,NN10 0QE,52.2900,-0.5978
 ROKKA TURKISH RESTAURANT,NN10 0QX,52.2865,-0.5973
@@ -29,6 +30,7 @@ Five Guys,NN10 6FT,52.3009,-0.6278
 Flip Out Rushden Lakes,NN10 6FT,52.3013,-0.6279
 Heavenly Desserts,NN10 6FT,52.3009,-0.6278
 Hopmaster The Reserve,NN10 6FT,52.3013,-0.6279
+Nando's,NN10 6FT,52.3008,-0.6276
 Rock Up Rushden Lakes,NN10 6FT,52.3009,-0.6278
 Zizzi,NN10 6FT,52.3013,-0.6279
 The Red Cafe,NN10 8BB,52.3046,-0.5953
@@ -45,9 +47,6 @@ Overstone Arms Ltd,NN14 1EU,52.3634,-0.7392
 The Lilacs,NN14 1HD,52.3571,-0.7005
 WYTHMAILS,NN14 1JD,52.3425,-0.7376
 The Fox & Peony,NN14 1QF,52.4238,-0.7327
-Starbucks,NN14 1RW,52.3806,-0.7309
-Miller & Carter,NN14 1UD,52.4234,-0.7282
-Starbucks (Eurogarages Ltd),NN14 1UE,52.4257,-0.7272
 Old Friar,NN14 3AH,52.3946,-0.6043
 The Wheatsheaf,NN14 3DH,52.4057,-0.4946
 The Fox Inn,NN14 3ED,52.4224,-0.4967
@@ -62,39 +61,33 @@ The Grain Store Coffeehouse,NN14 4ES,52.3802,-0.5812
 Bennett’s ,NN14 4JH,52.3967,-0.5374
 The Court House ,NN14 4NF,52.3963,-0.5324
 bengal spice,NN14 4NP,52.3972,-0.5361
-Burger King,NN14 4UR,52.3925,-0.5244
 Kushboo ,NN15 5LB,52.3644,-0.6784
 bewiched coffee,NN15 5LB,52.3644,-0.6784
 The Olde Victoria,NN15 5NJ,52.3659,-0.6781
 Aspen Cafe ,NN15 5QA,52.3558,-0.6831
-Baxterstorey at Weetabix Canteen,NN15 5RJ,52.3605,-0.6794
 Crumbs,NN15 5RU,52.3644,-0.6808
 McDonald's Restaurant,NN15 6NL,52.3785,-0.7240
-McDonalds,NN15 6NL,52.3785,-0.7240
+McDonald's,NN15 6NL,52.3775,-0.7206
 The Stirrup Cup,NN15 6QR,52.3780,-0.6917
 Barton Hall Ltd,NN15 6RS,52.3866,-0.6920
-Costa Coffee,NN15 6XB,52.3766,-0.7215
+Costa Coffee,NN15 6XB,52.3762,-0.7216
 KFC KETTERING LEISURE PARK,NN15 6XS,52.3741,-0.7173
-KFC,NN15 6XS,52.3741,-0.7173
+KFC,NN15 6XS,52.3739,-0.7182
 Kettering Park Hotel & Spa,NN15 6XT,52.3729,-0.7119
-Nandos Chickenland Limited,NN15 6YA,52.3749,-0.7191
-Pizza Hut,NN15 6YA,52.3749,-0.7191
 Tong Thai ,NN15 7RH,52.3915,-0.7466
 R T FOOD (MIDLANDS) LIMITED ,NN16 0AH,52.3983,-0.7272
 PRIMETIME INVESTMENT LTD t/a Royal Hotel,NN16 0AJ,52.3975,-0.7281
 The Old Market Inn,NN16 0AJ,52.3971,-0.7282
-Wildwood,NN16 0AL,52.3976,-0.7272
 Billionaires ,NN16 0AN,52.3964,-0.7281
 Kafe Bloc,NN16 0AN,52.3963,-0.7281
-Prezzo,NN16 0AQ,52.3970,-0.7275
 jurassic grill,NN16 0AQ,52.3970,-0.7275
 Cafe Culture,NN16 0BN,52.4003,-0.7260
 Mugs Coffee House,NN16 0BN,52.4003,-0.7260
+The Earl of Dalkeith Kettering (Wetherspoon),NN16 0BS,52.3994,-0.7258
 The Wama's Lounge,NN16 0BZ,52.3989,-0.7238
 Mexican Fire Garden Limited,NN16 0NT,52.4073,-0.7071
 Shreeji food ltd t/a SUBWAY ,NN16 8AR,52.4005,-0.7343
 Cafe Amore,NN16 8DH,52.4005,-0.7286
-Costa Coffee,NN16 8JB,52.4006,-0.7266
 Pancake House,NN16 8JB,52.4006,-0.7267
 Vintage Fleur,NN16 8JB,52.4006,-0.7266
 THE EXOTIC DINING,NN16 8JH,52.4016,-0.7257
@@ -105,21 +98,23 @@ THE RAJ RESTAURANT,NN16 8JT,52.4043,-0.7265
 Sweet retreat Desserts ,NN16 8RA,52.4023,-0.7249
 SEDIR RESTAURANT,NN16 8RU,52.4010,-0.7247
 COSTA COFFEE,NN16 8ST,52.3985,-0.7281
+Costa Coffee,NN16 8ST,52.3989,-0.7282
 McDonald's Restaurant,NN16 8SU,52.3988,-0.7286
-McDonalds Restaurant Ltd,NN16 8SU,52.3988,-0.7286
+McDonald's,NN16 8SU,52.3989,-0.7286
 bewiched coffee,NN16 8SU,52.3988,-0.7286
 Just Desserts,NN16 8SX,52.3996,-0.7282
-Costa Coffee,NN16 8UZ,52.4028,-0.7413
+Costa Coffee,NN16 8UZ,52.4010,-0.7415
 Sonora Mexican Kitchen,NN16 8XG,52.4014,-0.7242
 Beeswing Pub,NN16 9AL,52.4156,-0.7295
-Dunelm Soft Furnishings Ltd,NN16 9XW,52.4045,-0.7362
-McDonalds,NN16 9XW,52.4045,-0.7362
+McDonald's,NN16 9XW,52.4061,-0.7346
 Watering Can,NN29 7HS,52.2537,-0.6225
 Khandan Indian Restaurant,NN29 7RJ,52.2576,-0.6711
 The Stags Head,NN29 7TQ,52.2746,-0.7076
 The Deli at Castle Ashby,NN7 1LF,52.2258,-0.7417
 COSTA COFFEE,NN8 1AA,52.3012,-0.6925
+Costa Coffee,NN8 1AA,52.3018,-0.6920
 Jennys Restaurant,NN8 1AY,52.3015,-0.6942
+The Red Well Wellingborough (Wetherspoon),NN8 1BD,52.3018,-0.6955
 the horseshoe ,NN8 1BS,52.3001,-0.6923
 The HindHotel,NN8 1BY,52.3010,-0.6934
 June Plum Food Ltd,NN8 1DW,52.3029,-0.6905
@@ -131,38 +126,36 @@ Millennium Pizzas,NN8 1HF,52.3016,-0.6891
 The Garden deli,NN8 1LD,52.2965,-0.6756
 bewiched coffee,NN8 1NA,52.3002,-0.6858
 bewiched coffee,NN8 1SA,52.3015,-0.6922
+Beefeater Dog & Duck,NN8 2DP,52.2932,-0.6838
 Kazper Restaurants Limited,NN8 2DP,52.2938,-0.6839
-McDonalds,NN8 2DP,52.2936,-0.6857
-Pizza Hut,NN8 2DP,52.2936,-0.6857
+McDonald's,NN8 2DP,52.2939,-0.6839
 Starbucks,NN8 2DP,52.2936,-0.6857
 subway,NN8 2DP,52.2936,-0.6857
 Kazper Restaurants Limited,NN8 2DR,52.2855,-0.7108
-McDonalds,NN8 2DR,52.2854,-0.7119
+McDonald's,NN8 2DR,52.2847,-0.7111
+KFC,NN8 2ED,52.2885,-0.6878
 Russello’s Cafe Bar,NN8 2NF,52.2843,-0.6979
 The miller,NN8 2NF,52.2836,-0.7000
 KFC - 25 Turnells Mill Lane  Wellingborough,NN8 2RN,52.2884,-0.6892
-KFC,NN8 2RN,52.2884,-0.6892
 COACH AND HORSES,NN8 4HY,52.3004,-0.6976
 Wellingborough Old Grammarians Association,NN8 4JH,52.3009,-0.6978
-Pizza Hut,NN8 4JU,52.3030,-0.6975
 Millie's Cafe' Ltd,NN8 4RN,52.3223,-0.6909
 Cheri Subway Ltd,NN8 5WA,52.3140,-0.7143
-Elior - Wincanton Co-op Wellingborough,NN8 6AQ,52.3027,-0.7406
 Wellingborough Old Grammarians Association,NN8 6BS,52.3105,-0.7461
 Kohinoor,NN9 5EJ,52.3372,-0.6448
 Milligan's Kitchen Ltd,NN9 5HX,52.3418,-0.6509
 Crusty's Cafe,NN9 5JT,52.3376,-0.6523
 Bells kitchen,NN9 5ND,52.3364,-0.6590
 Star & Garter,NN9 6AJ,52.3152,-0.5467
+KFC,NN9 6DB,52.3529,-0.5483
 Kazper Restaurants Limited,NN9 6EQ,52.3522,-0.5463
+McDonald's,NN9 6EQ,52.3537,-0.5452
 KFC RAUNDS,NN9 6GR,52.3524,-0.5492
-KFC,NN9 6GR,52.3524,-0.5492
 MUGHAL DYNASTY,NN9 6HS,52.3450,-0.5359
 Jester's Bistro Bar,NN9 6LL,52.3428,-0.5377
 The Nook Cafe,NN9 6LL,52.3428,-0.5377
 Duke of Wellington,NN9 6PS,52.3315,-0.5620
 The Stanwick Hotel Ltd,NN9 6QY,52.3321,-0.5695
-Compass Group At Howdens Joinery,NN9 6RJ,52.3463,-0.5563
 The Snooty Tavern,PE19 5DG,52.2718,-0.3466
 Harmans On Site Services Ltd,PE19 5NX,52.3116,-0.3627
 CH&Co Catering,PE28 0EA,52.2952,-0.3893
@@ -170,8 +163,7 @@ Olivers Cafe,PE28 0HA,52.2969,-0.3886
 The Saddle,PE28 0HA,52.2969,-0.3886
 The White Horse  at Tilbrook,PE28 0JP,52.3086,-0.4189
 CH&Co Catering Group Ltd,PE28 0JW,52.3006,-0.3970
-Last Fridays,PE28 0LT,52.3005,-0.4634
 The Three Compasses,PE28 0NE,52.2968,-0.4729
-Costa Coffee,PE28 0TD,52.3413,-0.3416
+Costa Coffee,PE28 0TD,52.3406,-0.3375
 The Green Man,PE28 5AW,52.3658,-0.3668
 The Kings Head Pub,PE8 5ST,52.4396,-0.5138

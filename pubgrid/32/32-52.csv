@@ -1,7 +1,6 @@
 name,postcode,lat,lon
 Royal Oak,SN1 4BQ,51.5497,-1.7769
 Copacabana restaurant,SN1 7BY,51.5420,-1.7911
-Hall & Woodhouse At Witchelstowe,SN1 7DA,51.5454,-1.8095
 Subway,SN10 2HW,51.3608,-1.9786
 The Bridge Inn,SN10 2JS,51.3680,-1.9457
 The Crown Inn,SN10 2JZ,51.3762,-1.9485
@@ -14,8 +13,8 @@ Spice of Asia,SN15 4PB,51.5128,-1.9737
 CROWNS CAFE,SN15 4XX,51.5046,-1.9701
 Broome Manor Golf Club,SN3 1RG,51.5389,-1.7645
 The Sun Inn,SN3 6AA,51.5433,-1.7343
+Costa Coffee,SN3 6BB,51.5381,-1.7278
 Retail Healthcare - Compass Group (Costa),SN3 6BB,51.5382,-1.7277
-Benugo (at Nationwide),SN38 1LN,51.5404,-1.7767
 BREWERS ARMS,SN4 0AE,51.5495,-1.6959
 The Harrow Inn,SN4 0AE,51.5494,-1.6958
 The Plough Inn,SN4 0AE,51.5495,-1.6959
@@ -33,6 +32,7 @@ Subway ,SN4 7AF,51.5422,-1.9043
 Oriental Aroma,SN4 7AQ,51.5432,-1.9030
 Taylors cafe ,SN4 7AQ,51.5432,-1.9030
 The Angel hotel,SN4 7AQ,51.5432,-1.9030
+Costa Coffee,SN4 7AX,51.5426,-1.9054
 The Five Bells,SN4 7BD,51.5423,-1.9068
 H5 Adventure,SN4 7RX,51.5050,-1.8851
 Sally Pussey Inn,SN4 8ET,51.5457,-1.8636
@@ -45,22 +45,21 @@ Butterfly Cafe,SN4 9QT,51.5386,-1.8469
 Garden Restaurant,SN4 9QT,51.5386,-1.8469
 Soft Play Cafe,SN4 9QT,51.5386,-1.8469
 bartlett mitchell,SN5 8AT,51.5477,-1.8564
-Costa Coffee,SN5 8UB,51.5481,-1.8524
+Beefeater The Lydiard,SN5 8UB,51.5481,-1.8523
 Subway ,SN5 8UB,51.5481,-1.8524
+Costa Coffee,SN5 8UY,51.5470,-1.8509
 Doubletree by Hilton Swindon ,SN5 8UZ,51.5470,-1.8531
 Pino’s Ristorante Ltd,SN8 1AH,51.4216,-1.7286
 Hilliers Small Plates and Wine,SN8 1BE,51.4197,-1.7308
 Mercers of Marlborough ,SN8 1BE,51.4197,-1.7308
 Bunce's,SN8 1HD,51.4190,-1.7335
-Prezzo,SN8 1HD,51.4190,-1.7335
 The Marlborough,SN8 1HF,51.4182,-1.7345
+Costa Coffee,SN8 1HN,51.4216,-1.7301
 The Food Gallery,SN8 1HQ,51.4182,-1.7334
 saint peters coffee shop limited,SN8 1HQ,51.4179,-1.7342
 Biteme Burger Marlborough,SN8 1HU,51.4221,-1.7305
 Tea Inc Marlborough,SN8 1HU,51.4220,-1.7304
 Rah indian cuisine ,SN8 1JE,51.4218,-1.7297
-Caffe Nero,SN8 1LW,51.4198,-1.7317
-Pizza Express,SN8 1LW,51.4196,-1.7314
 The Polly Tearooms,SN8 1LW,51.4196,-1.7314
 Dan's at The Crown,SN8 1NE,51.4211,-1.7281
 The Lamb Inn,SN8 1NE,51.4211,-1.7281

@@ -1,29 +1,23 @@
 name,postcode,lat,lon
 Absurd Bird,BA1 1AN,51.3789,-2.3592
-Costa Coffee,BA1 1AP,51.3786,-2.3584
-Pizza Express,BA1 1AP,51.3786,-2.3584
-Pret A Manger,BA1 1AP,51.3786,-2.3584
+Costa Coffee,BA1 1AP,51.3783,-2.3577
+Pret A Manger,BA1 1AP,51.3788,-2.3581
 Smashburger,BA1 1AQ,51.3789,-2.3592
 Thaikhun,BA1 1AQ,51.3790,-2.3595
 Comptoir Bath,BA1 1AT,51.3784,-2.3592
 Kekolo Coffee,BA1 1BL,51.3832,-2.3609
-Caffe Nero,BA1 1BP,51.3829,-2.3613
 Bandook ,BA1 1BZ,51.3839,-2.3609
 Le Vignoble Bath,BA1 1BZ,51.3839,-2.3610
-Miller & Carter Steakhouse,BA1 1DE,51.3842,-2.3621
 EASTERN CUISINE BATH LIMITED,BA1 1DG,51.3845,-2.3615
 The Oven Pizzeria,BA1 1EN,51.3817,-2.3629
 Vino Vino ,BA1 1EN,51.3817,-2.3629
 Subway,BA1 1EQ,51.3813,-2.3614
 The Garricks Head,BA1 1ET,51.3821,-2.3628
 Amarone Restaurant,BA1 1EU,51.3822,-2.3626
-Giggling Squid,BA1 1EY,51.3822,-2.3620
-Zizzi,BA1 1EY,51.3822,-2.3620
 The Raven of Bath Ltd,BA1 1HE,51.3831,-2.3620
 Wild Cafe,BA1 1HE,51.3827,-2.3618
 Thoughtful Bakery,BA1 1HG,51.3825,-2.3628
 Corkage Chapel Row,BA1 1HN,51.3828,-2.3644
-Pizza Express,BA1 1HQ,51.3823,-2.3627
 Green Park Brasserie,BA1 1JB,51.3815,-2.3669
 Pizzas of Bath,BA1 1JB,51.3813,-2.3668
 The Royal Hotel,BA1 1JP,51.3782,-2.3567
@@ -44,12 +38,11 @@ The Colombian Company Ltd ,BA1 1NP,51.3803,-2.3591
 Mrs Potts Chocolate House Limited,BA1 1NQ,51.3809,-2.3587
 Bath bun tea shoppe,BA1 1NW,51.3803,-2.3587
 Sally Lunn's ,BA1 1NX,51.3808,-2.3585
-Caffe Nero,BA1 1QF,51.3802,-2.3601
-Costa Coffee,BA1 1QH,51.3813,-2.3606
-Pret A Manger,BA1 1QL,51.3814,-2.3602
+Costa Coffee,BA1 1QH,51.3814,-2.3605
+Pret A Manger,BA1 1QL,51.3815,-2.3603
 Chapel Arts Cafe,BA1 1QR,51.3797,-2.3604
 Sweet Little Things Limited,BA1 1QR,51.3797,-2.3604
-Kentucky Fried Chicken (KFC),BA1 1QX,51.3799,-2.3602
+KFC,BA1 1QX,51.3799,-2.3602
 The Drawing Rooms,BA1 1RD,51.3821,-2.3601
 Cascara,BA1 1RG,51.3829,-2.3597
 The Whole Bagel,BA1 1RG,51.3828,-2.3601
@@ -61,23 +54,17 @@ Bonghy Bo,BA1 1RZ,51.3828,-2.3600
 FLY FITNESS LTD,BA1 1SB,51.3807,-2.3606
 Lulu Caffe,BA1 1SJ,51.3803,-2.3616
 Cafe au Lait Bath Ltd,BA1 1SS,51.3781,-2.3583
-Caffe Nero,BA1 1SS,51.3782,-2.3584
 Chilli family noodles ,BA1 1SS,51.3782,-2.3584
 Mokoko Coffee Southgate,BA1 1SS,51.3781,-2.3583
 Tivoli Cinema Bath,BA1 1SS,51.3782,-2.3584
-Starbucks,BA1 1SU,51.3777,-2.3569
-Franco Manca,BA1 1SX,51.3776,-2.3582
-Gourmet Burger Kitchen Ltd,BA1 1SX,51.3775,-2.3582
 Graze  Bath,BA1 1SX,51.3775,-2.3578
-Nando's,BA1 1SX,51.3774,-2.3569
-Prezzo,BA1 1SX,51.3774,-2.3569
-Costa Coffee,BA1 1TG,51.3794,-2.3599
+Costa Coffee,BA1 1TG,51.3792,-2.3598
+McDonald's,BA1 1TG,51.3788,-2.3599
 McDonalds,BA1 1TG,51.3794,-2.3599
 Subway,BA1 1TP,51.3782,-2.3601
 Hondo Sushi ,BA1 1UL,51.3793,-2.3611
 Noya's Kitchen,BA1 1UL,51.3793,-2.3611
 Creams Cafe,BA1 1UN,51.3808,-2.3631
-Starbucks Coffee,BA1 1UN,51.3808,-2.3631
 the black fox,BA1 1UQ,51.3797,-2.3612
 The Kingsmead Kitchen,BA1 2AA,51.3815,-2.3637
 seafoods  fish and chips restaurant,BA1 2AA,51.3815,-2.3637
@@ -93,11 +80,10 @@ Subway,BA1 2AG,51.3813,-2.3647
 Comins Tea,BA1 2AN,51.3817,-2.3629
 New Inn,BA1 2AY,51.3829,-2.3658
 The Scallop Shell,BA1 2AY,51.3829,-2.3658
-Nando's Chicken Land Ltd,BA1 2BX,51.3808,-2.3649
-TGI Fridays,BA1 2BX,51.3808,-2.3649
+Bar + Block Bath,BA1 2BX,51.3806,-2.3644
+The King of Wessex Bath (Wetherspoon),BA1 2BX,51.3809,-2.3647
 Apex City of Bath,BA1 2DA,51.3808,-2.3631
 Goulash ,BA1 2DR,51.3812,-2.3686
-Wagamama,BA1 2EB,51.3849,-2.3613
 Adventure cafe,BA1 2ED,51.3852,-2.3613
 SAME SAME BUT DIFFERENT LTD,BA1 2ED,51.3852,-2.3613
 Sub 13,BA1 2EE,51.3852,-2.3619
@@ -112,7 +98,6 @@ MGALLERY FRANCIS HOTEL BATH,BA1 2HH,51.3829,-2.3633
 Ole Tapas,BA1 2JL,51.3834,-2.3621
 The Salamander,BA1 2JL,51.3834,-2.3621
 THE GRAND EASTERN LTD,BA1 2JS,51.3834,-2.3619
-Hall & Woodhouse,BA1 2JW,51.3838,-2.3627
 Belushi's Bath,BA1 2JY,51.3835,-2.3606
 The Circus Restaurant,BA1 2LN,51.3863,-2.3653
 The Green Bird Cafe,BA1 2LP,51.3867,-2.3658
@@ -137,7 +122,6 @@ Rooted Vegetarian Cafe ,BA1 3JX,51.3845,-2.3885
 Lansdown Cricket Club,BA1 3NE,51.3877,-2.3898
 Bathen House Hotel,BA1 3QA,51.3882,-2.3953
 Society Cafe ,BA1 4BB,51.3962,-2.3849
-Caffe Nero,BA1 5AJ,51.3824,-2.3595
 Society Cafe ,BA1 5AJ,51.3824,-2.3595
 Dough pizza ltd,BA1 5AP,51.3823,-2.3598
 Fox & Kit cafe,BA1 5AP,51.3821,-2.3598
@@ -173,7 +157,6 @@ The Bell Inn,BA11 2QT,51.2597,-2.3561
 Babington House,BA11 3RW,51.2579,-2.4251
 Corsham Pub Company Ltd,BA11 6AG,51.2895,-2.2911
 The Cross Keys Rode,BA11 6NZ,51.2829,-2.2836
-Starbucks,BA11 6SF,51.2693,-2.2844
 Mes Amis CafeDeli,BA11 6SW,51.2660,-2.2869
 The Horse & Groom,BA13 3DY,51.2627,-2.1804
 Leigh Park Community Centre,BA13 3FN,51.2531,-2.1971
@@ -183,34 +166,30 @@ Fairwood Lakes Holiday Park Ltd,BA13 4EL,51.2619,-2.2210
 Ben's Catering,BA13 4JT,51.2760,-2.2034
 players club,BA13 4JT,51.2761,-2.2036
 The Royal Oak Hawkeridge Limited,BA13 4LA,51.2822,-2.1989
-Costa Coffee,BA14 0AZ,51.3040,-2.2092
-KFC,BA14 0AZ,51.3040,-2.2092
 McDonald's Restaurant,BA14 0AZ,51.3040,-2.2092
-McDonalds Restaurants Ltd,BA14 0AZ,51.3040,-2.2092
+McDonald's,BA14 0AZ,51.3032,-2.2094
 THE BAYTREE CAFE TROWBRIDGE LIMITED,BA14 0DT,51.3092,-2.2248
+Costa Coffee,BA14 0RQ,51.3026,-2.2090
 KFC Trowbridge Bradley Road,BA14 0RQ,51.3051,-2.2100
+KFC,BA14 0RQ,51.3023,-2.2088
 The Rising Sun North Bradley Ltd,BA14 0SB,51.2981,-2.2075
-Elior UK,BA14 0XB,51.3022,-2.1992
 The Longs Arms  Steeple Ashton,BA14 6EU,51.3097,-2.1344
 Somerset Arms,BA14 6JR,51.3450,-2.1475
 The Old Bear Inn,BA14 6PB,51.3448,-2.2084
 The Tollgate Inn,BA14 6PX,51.3535,-2.2042
 OLD HAM TREE,BA14 6PY,51.3542,-2.2048
+Thyme,BA14 8AH,51.3187,-2.2070
 The Kings Arms,BA14 8AN,51.3207,-2.2085
+The Albany Palace Trowbridge (Wetherspoon),BA14 8AQ,51.3200,-2.2064
 Boswells Cafe,BA14 8AT,51.3204,-2.2091
 Tale Of Spice,BA14 8AU,51.3194,-2.2077
 Trowbridge Sports Bar,BA14 8AY,51.3188,-2.2074
 Leykers Coffee Central,BA14 8BY,51.3207,-2.2068
 Free Range Cafe,BA14 8EQ,51.3202,-2.2069
-Costa Coffee,BA14 8ER,51.3210,-2.2079
-Starbucks,BA14 8ES,51.3213,-2.2076
+Costa Coffee,BA14 8ER,51.3210,-2.2078
 Namaste Trowbridge,BA14 8HA,51.3212,-2.2087
 Little Earth,BA14 8HQ,51.3215,-2.2099
-Elior UK Ltd,BA14 8JN,51.3172,-2.2107
 LITTLE DESSERT SHOP TROWBRIDGE,BA14 8TQ,51.3180,-2.2069
-Nandos,BA14 8TQ,51.3180,-2.2068
-Prezzo,BA14 8TQ,51.3180,-2.2068
-Wagamama Ltd,BA14 8TQ,51.3180,-2.2068
 The Moonraker Hotel,BA14 9BL,51.3284,-2.2285
 THE POPLARS,BA14 9LN,51.3103,-2.2587
 Hope Nature Centre Animal Park & Cafe,BA14 9QD,51.2998,-2.2310
@@ -246,6 +225,8 @@ Cumberwell Park,BA15 2PQ,51.3668,-2.2593
 Leigh Park Hotel,BA15 2RA,51.3563,-2.2444
 Merkins Farm Cafe,BA15 2RW,51.3621,-2.2312
 The Butchers Arms,BA2 0AE,51.3431,-2.4826
+Costa Coffee,BA2 1EP,51.3807,-2.3905
+McDonald's,BA2 1EP,51.3806,-2.3900
 McDonalds,BA2 1EP,51.3808,-2.3911
 Hillier Garden Centre Bath,BA2 2RG,51.3690,-2.4004
 The Bear Hotel,BA2 3AQ,51.3741,-2.3668
@@ -253,7 +234,6 @@ Pizza Hut,BA2 3BQ,51.3798,-2.3715
 matty s cafe,BA2 3BT,51.3813,-2.3759
 Mintroom,BA2 3EB,51.3810,-2.3733
 The Belvoir Castle,BA2 3EH,51.3816,-2.3754
-Coffee#1,BA2 3GG,51.3835,-2.3742
 The Grumpy Baker,BA2 3PJ,51.3768,-2.3787
 Domino's Pizza,BA2 3PN,51.3771,-2.3783
 Subway,BA2 3PN,51.3772,-2.3785
@@ -263,14 +243,12 @@ Bodrum BBQ Bath Ltd,BA2 4AN,51.3827,-2.3582
 CAPPADOCIA RESTAURANT (BATH) LTD,BA2 4AN,51.3826,-2.3581
 Joya Italian Steakhouse,BA2 4AN,51.3825,-2.3581
 Cortado Cafe,BA2 4AS,51.3829,-2.3586
-Turtle Bay,BA2 4AS,51.3830,-2.3586
 The Bridge Coffee Shop,BA2 4AY,51.3830,-2.3578
 ANTICA PULTNEY BRIDGE ,BA2 4BA,51.3834,-2.3575
 ANTICA PULTNEY BRIDGE RESTAURANT,BA2 4BA,51.3834,-2.3575
 Chez Dominique,BA2 4BQ,51.3832,-2.3571
 The Herd Steak Restaurant,BA2 4BQ,51.3832,-2.3571
 No15 Great Pulteney,BA2 4BS,51.3846,-2.3547
-Benugo Ltd,BA2 4DB,51.3858,-2.3509
 Framptons,BA2 4DF,51.3823,-2.3579
 Dexter's coffee shop,BA2 4EN,51.3827,-2.3494
 The Bird  Bath,BA2 4EZ,51.3828,-2.3518
@@ -304,7 +282,9 @@ Newton Farm Foods Ltd,BA2 9BT,51.3816,-2.4275
 The Ring O' Bells,BA2 9EE,51.3430,-2.4400
 Darwin Bath Mill Limited,BA2 9JF,51.3820,-2.4092
 Jacarandas Limited,BA3 2DA,51.2860,-2.4812
+The Palladium Electric Midsomer Norton (Wetherspoon),BA3 2DA,51.2861,-2.4807
 Costa Coffee,BA3 2DT,51.2863,-2.4825
+Costa Coffee,BA3 2DT,51.2865,-2.4826
 The Greek Grill ,BA3 2HQ,51.2853,-2.4834
 Longfellow's Cafe,BA3 3AL,51.2832,-2.4719
 Subway ,BA3 3PT,51.2921,-2.4461
@@ -323,15 +303,16 @@ Pizza Hut,BS15 1AP,51.4634,-2.5156
 Zest restaurant,BS15 3DG,51.4489,-2.5158
 Chilli Inn Ltd,BS15 3DP,51.4497,-2.5184
 The Italian Kitchen  Hanham,BS15 3DQ,51.4493,-2.5171
+The Jolly Sailor Bristol (Wetherspoon),BS15 3DQ,51.4492,-2.5170
 The Elm Tree,BS15 3NR,51.4352,-2.5131
 The Old Lock And Weir,BS15 3NU,51.4290,-2.5091
 The Horseshoe,BS15 4PA,51.4697,-2.4850
+The Kingswood Colliers Bristol (Wetherspoon),BS15 8HP,51.4623,-2.5070
 SUBWAY,BS15 8HU,51.4623,-2.5078
 RAVENNA COFFEE BAR,BS15 8LJ,51.4626,-2.5069
 Boswells Cafe,BS15 8LP,51.4631,-2.5087
-McDonalds,BS15 9LA,51.4498,-2.4980
-Nandos Chickenland Ltd,BS15 9LA,51.4498,-2.4980
-Pizza Hut (UK) Ltd,BS15 9LA,51.4498,-2.4980
+McDonald's,BS15 9LA,51.4484,-2.4993
+Nando's,BS15 9LA,51.4501,-2.4988
 The Hollybush,BS30 5JP,51.4534,-2.4632
 WHITE HARTE LIMITED,BS30 5NA,51.4577,-2.4603
 The Cross House,BS30 5TF,51.4646,-2.4056
@@ -339,16 +320,14 @@ The Pine Tree Coffee Shop,BS30 6HX,51.4303,-2.4690
 The Swan in Swineford,BS30 6LN,51.4198,-2.4454
 The Upton Inn,BS30 6LY,51.4254,-2.4455
 Chief Trading Post Ltd,BS30 6QY,51.4364,-2.4723
-Caffe Nero,BS30 7DA,51.4445,-2.4980
+Costa Coffee,BS30 7DA,51.4448,-2.4972
 Flip Out Bristol,BS30 7DA,51.4444,-2.4977
 Subway (Longwell Green),BS30 7DA,51.4445,-2.4980
 FIRST CHOICE KEBAB,BS30 8DB,51.4488,-2.4790
 Be Weird Be Wild Be Wonderful Ltd,BS30 9DD,51.4367,-2.4913
 Crumbs of Keynsham ,BS31 1DQ,51.4170,-2.4993
-Coffee#1,BS31 1DS,51.4156,-2.4982
 Dalia Cocina,BS31 1DS,51.4156,-2.4982
 Grounded,BS31 1DS,51.4156,-2.4982
-Costa Coffee,BS31 1DX,51.4155,-2.4988
 Cinnamon Lounge and Dining,BS31 1EA,51.4146,-2.4983
 keynsham fish bar,BS31 1EB,51.4147,-2.4978
 Temple Street Canteen,BS31 1EH,51.4133,-2.4978
@@ -356,7 +335,7 @@ Pomegranate Restaurant,BS31 1FS,51.4141,-2.4970
 pomegranate canteen,BS31 1FS,51.4141,-2.4970
 Haywards at the Grasmere,BS31 1SN,51.4122,-2.4896
 KFC Keynsham,BS31 1ST,51.4205,-2.4825
-KFC,BS31 1SX,51.4134,-2.4780
+KFC,BS31 1ST,51.4133,-2.4823
 La Famiglia ,BS31 1TN,51.4102,-2.4744
 Avon Valley Adventure and Wildlife Park,BS31 1TP,51.4121,-2.4765
 Old Manor House Hotel Keynsham Limited,BS31 2BA,51.4176,-2.5005
@@ -378,10 +357,9 @@ LA CAMPAGNA BAR & RESTAURANT LIMITED,BS39 7RJ,51.3009,-2.4952
 The Lord Raglan Ltd,BS5 8LN,51.4569,-2.5291
 The Trooper,BS5 8QT,51.4524,-2.5239
 STARBUCKS ,SN12 6AD,51.3554,-2.1399
-Starbucks,SN12 6AD,51.3554,-2.1399
 MOJA KHABAR LIMITED,SN12 6ES,51.3710,-2.1394
 Henry's of Melksham,SN12 6JU,51.3725,-2.1380
-Costa Coffee,SN12 6JY,51.3733,-2.1381
+The Bear Melksham (Wetherspoon),SN12 6LL,51.3749,-2.1387
 ALBA RISTORANTE ITALIANO,SN12 6LP,51.3755,-2.1388
 antico caffe ,SN12 6LP,51.3755,-2.1388
 Springers Cafe,SN12 6SP,51.3565,-2.1311
@@ -392,7 +370,7 @@ THE WHITE HART,SN12 8JR,51.3926,-2.1914
 THE BELL ON THE COMMON,SN12 8LX,51.3761,-2.1806
 The Pear Tree,SN12 8QX,51.3966,-2.1711
 McDonald's Restaurant,SN12 8RP,51.3819,-2.1432
-Mcdonalds Restaurant Ltd,SN12 8RP,51.3819,-2.1432
+McDonald's,SN12 8RP,51.3819,-2.1432
 Moonlight Indian Restaurant,SN13 0ES,51.4315,-2.1859
 The café Corsham ,SN13 0ES,51.4317,-2.1859
 Mother & Wild,SN13 0HB,51.4318,-2.1854
@@ -410,8 +388,8 @@ The Greenhouse,SN13 9FN,51.4135,-2.2157
 The Great Western,SN13 9JA,51.4277,-2.1835
 The Neston Country Inn,SN13 9SN,51.4158,-2.2001
 McDonald's Restaurant,SN14 0AF,51.4482,-2.1498
-McDonalds Restaurant,SN14 0AF,51.4482,-2.1498
-Elior,SN14 0WT,51.4458,-2.1472
+McDonald's,SN14 0AF,51.4482,-2.1497
+Costa Coffee,SN14 0UL,51.4471,-2.1472
 White Horse ,SN14 7DG,51.4608,-2.1972
 Tollgate Catering LTD,SN14 8LF,51.4706,-2.3661
 Sweetapples Tea Shop ,SN14 8LR,51.4620,-2.3187

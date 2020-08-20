@@ -1,18 +1,18 @@
 name,postcode,lat,lon
-Costa Coffee,SY1 1BN,52.7096,-2.7524
+Costa Coffee,SY1 1BN,52.7098,-2.7529
 Cafe Flavour,SY1 1BP,52.7096,-2.7525
 Frankie’s cafe,SY1 1BW,52.7096,-2.7524
 The River View Cafe,SY1 1DL,52.7086,-2.7507
 Subway - 3. St. Mary's Street  Shrewsbury  SY11DS,SY1 1DS,52.7089,-2.7518
 CROMWELLS BAR RESTAURANT AND HOTEL,SY1 1EN,52.7073,-2.7513
 Darwin's Kitchen,SY1 1EQ,52.7078,-2.7518
-Caffe Nero,SY1 1HD,52.7080,-2.7545
 Chez Sophie,SY1 1HD,52.7080,-2.7545
 The York Roast Co,SY1 1HD,52.7080,-2.7545
 Ashleys Wine Bar LTd,SY1 1HF,52.7075,-2.7555
 Darwins,SY1 1HF,52.7076,-2.7553
 The Drayton Restaurant,SY1 1HF,52.7076,-2.7553
 Hickory's Smokehouse,SY1 1HH,52.7095,-2.7590
+Montgomerys Tower Shrewsbury (Wetherspoon),SY1 1HH,52.7093,-2.7587
 Riverbank Bar & Kitchen ,SY1 1HH,52.7097,-2.7584
 AleOli,SY1 1HQ,52.7078,-2.7563
 Moli Tea House,SY1 1HQ,52.7078,-2.7563
@@ -21,7 +21,6 @@ The Market Buffet,SY1 1HQ,52.7078,-2.7563
 Little Dessert Shop Shrewsbury Ltd,SY1 1HS,52.7077,-2.7561
 The Loopy Shrew,SY1 1HU,52.7075,-2.7569
 CAFFEINE UK HOLDING LIMITED,SY1 1JZ,52.7074,-2.7540
-Starbucks,SY1 1JZ,52.7073,-2.7542
 Off the square cafe bistro ,SY1 1LE,52.7075,-2.7552
 The Old Market Hall,SY1 1LH,52.7071,-2.7546
 stop. cafe bar,SY1 1LH,52.7071,-2.7546
@@ -30,9 +29,9 @@ The Coach and Horses,SY1 1NF,52.7070,-2.7559
 The  Albert Lounge Bar,SY1 1PB,52.7113,-2.7518
 Kings Head ,SY1 1PP,52.7095,-2.7564
 Paws Cafe,SY1 1PP,52.7094,-2.7558
-Pizza Express,SY1 1PP,52.7094,-2.7558
 Village Coffee House,SY1 1PS,52.7091,-2.7567
 Avatar Shropshire ltd,SY1 1PU,52.7091,-2.7563
+The Shrewsbury Hotel Shrewsbury (Wetherspoon),SY1 1PU,52.7095,-2.7571
 the curry house,SY1 1PU,52.7091,-2.7563
 The Ploughboy Cafe,SY1 1PY,52.7085,-2.7556
 Bistro Jacques,SY1 1PZ,52.7084,-2.7551
@@ -42,11 +41,12 @@ Palmers of Shrewsbury ,SY1 1QG,52.7081,-2.7560
 Subway - 27 Claremont Street  Shrewsbury  SY11QG,SY1 1QG,52.7081,-2.7560
 Warehouse Bar & Grill,SY1 1QG,52.7081,-2.7560
 KFC,SY1 1QJ,52.7081,-2.7575
+KFC,SY1 1QJ,52.7082,-2.7574
 Cafe Saffron,SY1 1QU,52.7090,-2.7568
 La Dolce Vita,SY1 1QU,52.7090,-2.7568
 PLANET DOUGHNUT,SY1 1RD,52.7078,-2.7577
 THE NEW PANACEA,SY1 1RT,52.7094,-2.7585
-Ask Italian,SY1 1SJ,52.7079,-2.7533
+Costa Coffee,SY1 1SP,52.7078,-2.7533
 Wheatsheaf,SY1 1ST,52.7070,-2.7530
 umai japanese cuisine,SY1 1SY,52.7068,-2.7530
 CSONS,SY1 1SZ,52.7067,-2.7525
@@ -70,23 +70,22 @@ Lion and Pheasant Hotel,SY1 1XJ,52.7060,-2.7493
 BULLS HEAD,SY1 2AB,52.7113,-2.7505
 The Castle Vaults,SY1 2AB,52.7111,-2.7504
 glouglou,SY1 2AB,52.7110,-2.7505
-Buzz Bingo,SY1 2AG,52.7115,-2.7513
 Dough & Oil,SY1 2AZ,52.7100,-2.7509
 The Little Gourmet,SY1 2AZ,52.7100,-2.7509
 Lyons Den Gourmet Burger Ltd,SY1 2BX,52.7094,-2.7509
 Sweet. Shrewsbury,SY1 2DJ,52.7119,-2.7506
-Starbucks,SY1 2DQ,52.6545,-2.7337
 Shrewsbury Prison,SY1 2HP,52.7117,-2.7470
 RASHERS,SY1 3LD,52.7330,-2.7358
 Jennys catering,SY1 3TG,52.7420,-2.7285
 KFC,SY1 4AB,52.7423,-2.7208
 Battlefields McDonald's,SY1 4AQ,52.7435,-2.7190
-McDonalds Battlefield,SY1 4AQ,52.7435,-2.7190
+KFC,SY1 4AQ,52.7397,-2.7232
+McDonald's,SY1 4AQ,52.7405,-2.7200
 Pizza Hut Delivery,SY1 4AU,52.7243,-2.7380
 The Lantern cafe,SY1 4NG,52.7310,-2.7210
 THE SHREWSBURY CLUB ,SY1 4RG,52.7280,-2.7155
 The coracle inn,SY1 4RR,52.7275,-2.7263
-Cafe Pausa @ Dunelm,SY1 4YA,52.7384,-2.7190
+Costa Coffee,SY1 4YA,52.7379,-2.7190
 Jumpin Shrewsbury,SY1 4YQ,52.7375,-2.7207
 New Inn Hotel,SY10 0EX,52.6545,-2.7337
 Lake Vyrnwy Hotel,SY10 0LY,52.6545,-2.7337
@@ -96,10 +95,7 @@ The Peach Tree Restaurant,SY2 6AE,52.7075,-2.7450
 the old bell,SY2 6BA,52.7059,-2.7362
 White Horse Inn,SY2 6JJ,52.7027,-2.7313
 the peacock,SY2 6JS,52.7006,-2.7305
-Bannatyne Health Club,SY2 6QQ,52.6921,-2.7499
 Powerleague Fives Ltd,SY2 6ST,52.6885,-2.7484
-Burger King,SY3 0DA,52.6819,-2.7616
-Starbucks,SY3 0DA,52.6819,-2.7616
 The beeches ,SY3 0NT,52.6737,-2.7739
 Ego at the Grapes,SY3 5BH,52.7134,-2.8035
 COTE KITCHEN/CHURNCOTE FARM SHOP,SY3 5EB,52.7161,-2.8240
@@ -108,7 +104,6 @@ THE INN ON THE GREEN ,SY3 6DU,52.6963,-2.7751
 Coleham Fish Bar,SY3 7DH,52.7040,-2.7483
 House Coffee Co.,SY3 7DU,52.7040,-2.7490
 The Crown,SY3 7DX,52.7034,-2.7507
-Nando's,SY3 7ET,52.7035,-2.7405
 Boathouse Inn,SY3 8JQ,52.7099,-2.7627
 Bucks Head Inn,SY3 8JR,52.7119,-2.7616
 The Olive Tree,SY3 8JR,52.7119,-2.7616
@@ -119,13 +114,10 @@ Third Place,SY3 8JX,52.7111,-2.7582
 Severn Social,SY3 8JY,52.7109,-2.7598
 AleOli y tu,SY3 8LG,52.7108,-2.7583
 The Beacon Hotel,SY3 8LP,52.7090,-2.7785
-McDonalds,SY3 9NB,52.6888,-2.7521
+Costa Coffee,SY3 9NB,52.6903,-2.7533
+McDonald's,SY3 9NB,52.6884,-2.7549
 Meole Brace McDonald's,SY3 9NB,52.6888,-2.7521
-Pizza Hut Restaurant,SY3 9NB,52.6888,-2.7521
-Starbucks,SY3 9NB,52.6888,-2.7521
 Halls Auction House Cafe,SY4 3DR,52.7487,-2.7154
-Burger King,SY4 3EQ,52.7480,-2.7176
-Starbucks,SY4 3EQ,52.7480,-2.7176
 The Bull,SY4 4QS,52.7262,-2.6117
 Corbet Arms Ltd,SY4 4SN,52.7195,-2.6996
 The Haughmond,SY4 4TZ,52.7084,-2.6610
@@ -140,7 +132,6 @@ The Wroxeter Hotel,SY5 6PH,52.6687,-2.6453
 Mytton & Mermaid,SY5 6QG,52.6792,-2.6798
 Love Coffee,SY5 6QS,52.6915,-2.7094
 Love2Stay,SY5 6QS,52.6915,-2.7094
-Wilson Vale Catering @ JCA Adventure,SY5 7AU,52.6464,-2.7462
 Shrewsbury Golf Club Limited,SY5 7BL,52.6507,-2.7639
 clock tower at netley hall,SY5 7JZ,52.6112,-2.7799
 The Fox Inn,SY5 7LS,52.6237,-2.7557
@@ -163,6 +154,7 @@ the old coppers malthouse,SY6 6DU,52.5392,-2.8075
 The Yew Tree,SY6 6HG,52.5537,-2.7970
 The National Trust,SY6 6JG,52.5461,-2.8230
 The Pound Inn ,SY6 6ND,52.5842,-2.7749
+Costa Coffee,SY6 6PQ,52.5372,-2.8023
 The Royal Oak,SY6 7JZ,52.5522,-2.7307
 INN ON THE GREEN ,SY9 5EF,52.5341,-2.9135
 George & Dragon Inn,TF13 6AA,52.5957,-2.5574

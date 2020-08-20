@@ -2,13 +2,12 @@ name,postcode,lat,lon
 Hilton Puckrup Hall Hotel,GL20 6EL,51.7642,-2.1617
 The Cafe Above,GL5 1AF,51.7447,-2.2165
 Woodruffs Cafe,GL5 1AJ,51.7450,-2.2155
-Costa Coffee,GL5 1AP,51.7454,-2.2158
+Costa Coffee,GL5 1AP,51.7452,-2.2157
 Mills Cafe,GL5 1AS,51.7455,-2.2160
 Socialight Stroud ,GL5 1AS,51.7456,-2.2163
 Penny Farthing Cafe,GL5 1AZ,51.7453,-2.2164
 Toni's Kitchen,GL5 1DZ,51.7440,-2.2100
 The Retreat,GL5 1JL,51.7462,-2.2151
-McDonalds Restaurant,GL5 1QA,51.7467,-2.2182
 Balti Spice,GL5 1QG,51.7465,-2.2171
 Galgos Latino,GL5 1QG,51.7462,-2.2171
 Rajdoot restaurant ,GL5 1QG,51.7465,-2.2171
@@ -28,13 +27,17 @@ The Ship T/A Scrumptious Catering,GL5 2QN,51.7190,-2.1922
 Felt Cafe,GL5 2TA,51.7176,-2.1863
 PAV Stroud LTD ,GL5 2TL,51.7187,-2.1796
 The Pavillion,GL5 2TL,51.7187,-2.1797
+The Lord John Stroud (Wetherspoon),GL5 3AA,51.7448,-2.2181
 Milano’s cafe ,GL5 3AB,51.7446,-2.2180
 Sorrento Italian Restaurant ,GL5 3AJ,51.7451,-2.2183
 CAFE MAX,GL5 3AQ,51.7449,-2.2185
 Stroud Georgian Tearoom,GL5 3BA,51.7450,-2.2199
 McDonald's Stroud,GL5 3BE,51.7457,-2.2194
+McDonald's,GL5 3BE,51.7456,-2.2198
 The Clothiers Arms,GL5 3JJ,51.7427,-2.2265
 Prince Albert  Stroud ,GL5 3SS,51.7391,-2.2251
+Brewers Fayre Old Nelson,GL5 4AF,51.7480,-2.2221
+Costa Coffee,GL5 4AG,51.7471,-2.2234
 The Old Crown,GL5 4AZ,51.7499,-2.2399
 Prince of Wales,GL5 4RD,51.7481,-2.2486
 Prince of wales ,GL5 4RD,51.7481,-2.2486
@@ -52,7 +55,6 @@ The Olive Tree Mediterranean Restaurant & Pizzeria,GL6 0AG,51.6967,-2.2173
 Waterloo House,GL6 0AG,51.6967,-2.2173
 Clementines Nailsworth,GL6 0BL,51.6957,-2.2181
 Williams,GL6 0BL,51.6952,-2.2182
-Blue Diamond,GL6 0BS,51.6943,-2.2135
 Amalfi (nailsworth),GL6 0BX,51.6942,-2.2190
 Wild Garlic Bistro & Rooms,GL6 0DB,51.6941,-2.2203
 The Britannia Inn,GL6 0DG,51.6937,-2.2210
@@ -79,22 +81,21 @@ INGLESIDE HERITAGE LIMITED,GL7 1BN,51.7157,-1.9588
 Twelvebells,GL7 1EA,51.7147,-1.9657
 The Talbot Inn,GL7 1EN,51.7153,-1.9619
 SJP Cafe,GL7 1FP,51.7146,-1.9734
-Costa Coffee,GL7 1HY,51.7158,-1.9672
+Costa Coffee,GL7 1HY,51.7161,-1.9676
 Amore Mio,GL7 1JH,51.7162,-1.9689
 Subway ,GL7 1JL,51.7160,-1.9688
+Beefeater Cirencester,GL7 1NP,51.7079,-1.9544
 McDonald's Cirencester,GL7 1NP,51.7072,-1.9545
-McDonalds Restaurants,GL7 1NP,51.7059,-1.9528
-KFC,GL7 1PT,51.7065,-1.9591
+McDonald's,GL7 1NP,51.7072,-1.9546
+KFC,GL7 1PT,51.7064,-1.9597
 Malt and Anchor,GL7 1QA,51.7171,-1.9691
 Somewhere Else,GL7 1QD,51.7162,-1.9700
 igloo restaurant,GL7 1QD,51.7162,-1.9700
 PORTERS BAR,GL7 1QH,51.7164,-1.9706
 Piazza Fontana ,GL7 1QH,51.7164,-1.9706
-Pizza Express,GL7 1QH,51.7164,-1.9706
 Thai Emerald,GL7 1QH,51.7164,-1.9706
 KFC,GL7 1QU,51.7061,-1.9587
 Tierra & Mar Restaurant,GL7 1QW,51.7150,-1.9711
-SLM Everyone Active,GL7 1US,51.7148,-1.9724
 Jesse Smith Farm shop & Coffee House,GL7 1YG,51.7050,-1.9602
 Jacks Cafe,GL7 2AA,51.7173,-1.9703
 The Golden Cross,GL7 2AA,51.7174,-1.9700
@@ -103,14 +104,12 @@ Corinium Hotel & Restaurant,GL7 2DG,51.7203,-1.9707
 Stratton House Hotel,GL7 2LE,51.7298,-1.9815
 The Crown ,GL7 2NH,51.7172,-1.9688
 temple mama,GL7 2NH,51.7173,-1.9683
-Caffe Nero,GL7 2NW,51.7169,-1.9675
 The Fleece,GL7 2NZ,51.7170,-1.9662
 Madeleine's,GL7 2PF,51.7162,-1.9650
 The Bear Inn,GL7 2PF,51.7162,-1.9649
 The Friar Tuck,GL7 2PF,51.7162,-1.9649
 Sultan,GL7 2PP,51.7164,-1.9641
 Cafe Mosaic,GL7 2PR,51.7170,-1.9649
-Burger King,GL7 5DS,51.7203,-1.9535
 Barnsley House,GL7 5EE,51.7430,-1.8912
 The Village Pub,GL7 5EF,51.7451,-1.8904
 De Vere Cotswold Water Park,GL7 5FP,51.6706,-1.8990

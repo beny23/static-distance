@@ -1,8 +1,10 @@
 name,postcode,lat,lon
 Rumba,CW12 1AH,53.1636,-2.2149
+The Counting House Congleton (Wetherspoon),CW12 1AH,53.1638,-2.2147
 DV8,CW12 1AR,53.1633,-2.2144
 Wild & Wild Ltd,CW12 1AY,53.1631,-2.2133
 Costa Coffee,CW12 1BA,53.1629,-2.2129
+Costa Coffee,CW12 1BA,53.1630,-2.2129
 LizzyB's,CW12 1BD,53.1627,-2.2114
 Ye Olde White Lion Congleton,CW12 1BD,53.1627,-2.2114
 Gather ,CW12 1BN,53.1630,-2.2109
@@ -10,6 +12,8 @@ The olde Kings Arms ,CW12 1BN,53.1630,-2.2109
 Bear Grills Cafe,CW12 1BP,53.1639,-2.2117
 KingfishR Indian cuisine,CW12 1HG,53.1651,-2.2146
 The Old Saw Mill,CW12 1HJ,53.1657,-2.2149
+Costa Coffee,CW12 1LR,53.1688,-2.2180
+McDonald's,CW12 1LR,53.1674,-2.2189
 McDonald’s Restaurants 552 t/a LEMACA Ltd,CW12 1LR,53.1689,-2.2176
 Spice Sector Ltd,CW12 1RP,53.1628,-2.2095
 Reuben Stubbs Bistro,CW12 1RS,53.1627,-2.2078
@@ -27,14 +31,13 @@ The Egerton Arms Country Inn,CW12 4RQ,53.1511,-2.2320
 PECKS RESTAURANT,CW12 4SB,53.1401,-2.2501
 The Brownlow Inn Ltd,CW12 4TH,53.1419,-2.2545
 Aquila,SK10 1AA,53.2612,-2.1291
-Caffe Nero,SK10 1DY,53.2601,-2.1256
-Costa Coffee,SK10 1DY,53.2601,-2.1256
+Costa Coffee,SK10 1DY,53.2603,-2.1258
 Fina Bar and Grill,SK10 1EB,53.2611,-2.1258
 O’Cha Thai restaurant ,SK10 1EX,53.2613,-2.1253
-Pizza Express,SK10 1EX,53.2613,-2.1253
 Chilli Banana Thai Restaurant,SK10 1JX,53.2600,-2.1196
+Costa Coffee,SK10 2AB,53.2643,-2.1224
 SUBSTATION MACCLESFIELD LIMITED,SK10 2BN,53.2692,-2.1183
-McDonalds Restaurant Ltd,SK10 2SF,53.2722,-2.1180
+McDonald's,SK10 2SF,53.2728,-2.1191
 McDonald’s Restaurants 723 t/a LEMACA Ltd,SK10 2SF,53.2722,-2.1180
 West Park Café ,SK10 3BJ,53.2643,-2.1342
 SUBWAY MACCLESFIELD HOPE PARK,SK10 3GR,53.2618,-2.1365
@@ -45,7 +48,6 @@ St Dunstan Inn,SK11 0BU,53.2414,-2.0888
 The Church House Inn,SK11 0DS,53.2374,-2.1057
 Ye Olde Kings Head,SK11 0HD,53.2433,-2.1142
 Fairways Garden Centre Limited,SK11 0HE,53.2397,-2.1160
-Burger King,SK11 0LP,53.2393,-2.1289
 the leathers' smithy inn,SK11 0NE,53.2397,-2.0778
 The Ryles Arms Limited,SK11 0NN,53.2228,-2.0915
 Superbowl UK Macclesfield Ltd ,SK11 0TB,53.2373,-2.1302
@@ -60,7 +62,6 @@ Jin’s Oriental LTD,SK11 6DP,53.2610,-2.1309
 FrenJabi Restaurant & Bar,SK11 6DU,53.2608,-2.1312
 Picturedrome,SK11 6DU,53.2608,-2.1312
 The Shalimar Restaurant,SK11 6DU,53.2608,-2.1312
-Elior at The Gallery,SK11 6ET,53.2601,-2.1313
 LAZEEZ RESTAURANT & TAKEAWAY ,SK11 6HN,53.2571,-2.1228
 Maliwan Thai Restaurant,SK11 6HN,53.2571,-2.1228
 Pizza Hut,SK11 6JP,53.2594,-2.1222
@@ -74,6 +75,7 @@ Kandy Sri Lankan Restaurant ,SK11 6NR,53.2574,-2.1252
 GURKHA DINING,SK11 6UW,53.2567,-2.1255
 Macclesfield Golf Club Trading Ltd,SK11 7EA,53.2521,-2.1131
 Samira (nw)ltd t/a balti kitchen,SK11 7NA,53.2566,-2.1235
+The Society Rooms Macclesfield (Wetherspoon),SK11 7NA,53.2564,-2.1244
 Paprika indian dining ltd,SK11 7NE,53.2563,-2.1223
 Flower Pot,SK11 7UF,53.2489,-2.1431
 The Weaver,SK11 7XZ,53.2474,-2.1489
@@ -97,9 +99,11 @@ Old Hall Hotel,SK17 6BD,53.2583,-1.9152
 Ice Cream Parlour - Pavilion Gardens,SK17 6BE,53.2580,-1.9186
 Tearooms - Pavilion Gardens,SK17 6BE,53.2580,-1.9186
 Sam's Plaice ,SK17 6BJ,53.2594,-1.9111
+KFC,SK17 6BP,53.2595,-1.9093
 The Hydro,SK17 6BP,53.2596,-1.9091
 stars licensed cafe,SK17 6BP,53.2596,-1.9091
 Costa Coffee,SK17 6BZ,53.2591,-1.9104
+Costa Coffee,SK17 6BZ,53.2592,-1.9106
 The Chakra Lounge,SK17 6BZ,53.2591,-1.9104
 Kwei Lin Chinese Restaurant,SK17 6DQ,53.2587,-1.9122
 The Cafe at the Green Pavilion,SK17 6DR,53.2586,-1.9127
@@ -112,8 +116,10 @@ The Old Sun Inn,SK17 6HA,53.2541,-1.9150
 Sushi Kaji,SK17 6HB,53.2537,-1.9151
 The Leewood Hotel,SK17 6TQ,53.2615,-1.9208
 The Duke,SK17 6UR,53.2537,-1.9344
+The Wye Bridge House Buxton (Wetherspoon),SK17 7DJ,53.2595,-1.9053
 Little Rascals Play Buxton Ltd,SK17 7LF,53.2601,-1.8926
 Parks Inn,SK17 9JD,53.2364,-1.9055
+Thyme,SK17 9NW,53.2502,-1.9105
 High Peak Bookstore and Cafe,SK17 9PY,53.2258,-1.8705
 Selden research staff canteen,SK17 9RZ,53.2444,-1.8967
 Red Lion Inn (Waterfall) Limited,ST10 3HZ,53.0608,-1.8806
@@ -121,12 +127,15 @@ ROEBUCK,ST13 5AB,53.1056,-2.0239
 COFFEE BEANS CAFE LIMITED,ST13 5AJ,53.1056,-2.0220
 Lawtons Pies Ltd,ST13 5AJ,53.1056,-2.0220
 Pabna Staffordshire LTD,ST13 5AS,53.1049,-2.0192
+Thyme,ST13 5AS,53.1054,-2.0199
 Silk House Leek,ST13 5DL,53.1047,-2.0264
 Domino's Pizza - Leek,ST13 5DR,53.1061,-2.0267
+The Green Dragon Leek (Wetherspoon),ST13 5DS,53.1065,-2.0271
 The Rajah Tandoori Restaurant ,ST13 5DZ,53.1058,-2.0273
 The napoli,ST13 5DZ,53.1058,-2.0273
 the red lion leek,ST13 5HH,53.1063,-2.0251
 Costa Coffee,ST13 5HJ,53.1062,-2.0257
+Costa Coffee,ST13 5HJ,53.1065,-2.0256
 Monty's,ST13 5HJ,53.1062,-2.0257
 Primo piano ,ST13 5HW,53.1061,-2.0262
 The Penguin,ST13 5HW,53.1061,-2.0262
@@ -158,17 +167,19 @@ Waterview Restaurant,ST13 8SW,53.1409,-2.0025
 Three Horseshoes Country Inn & Spa,ST13 8TW,53.1346,-1.9892
 The winking man,ST13 8UH,53.1696,-1.9638
 Sanjeev’s,ST2 7HQ,53.0577,-2.1406
+Brewers Fayre The Redwood,ST5 7EH,53.0510,-2.2463
 Rifleman Inn,ST6 4QL,53.0758,-2.2388
 Subway Tunstall ,ST6 5EA,53.0592,-2.2109
+KFC,ST6 5EN,53.0697,-2.2165
 kfc,ST6 5EN,53.0634,-2.2128
-McDonalds,ST6 5PH,53.0712,-2.2159
+McDonald's,ST6 5PH,53.0712,-2.2158
 McDonald’s Restaurants 1021 t/a LEMACA Ltd,ST6 5PH,53.0712,-2.2159
 The Furlong ,ST6 5UP,53.0648,-2.2030
+Costa Coffee,ST6 6AB,53.0574,-2.2069
 Brindleys lock,ST6 6XP,53.0796,-2.2038
 Spar,ST6 7HF,53.0653,-2.1945
 The Bistro,ST6 7QS,53.0578,-2.1787
 The Top Pub,ST6 8TX,53.0858,-2.1375
-COSTA COFFEE DRIVE THRU,ST7 1LP,53.0840,-2.2605
 Red Bull Hotel,ST7 3AJ,53.0921,-2.2580
 TRAVELLERS REST,ST7 3HA,53.1042,-2.2517
 The Rising Sun,ST7 3JT,53.1139,-2.2436
@@ -176,6 +187,7 @@ KIDSGROVE PRIMARY - ATALIAN SERVEST,ST7 4DJ,53.0949,-2.2322
 KIDSGROVE SECONDARY - ATALIAN SERVEST,ST7 4DJ,53.0949,-2.2322
 The ash inn,ST7 4NE,53.1092,-2.2154
 Sanaya Limited,ST8 6AB,53.1154,-2.1760
+The Bradley Green Biddulph (Wetherspoon),ST8 6AS,53.1157,-2.1763
 Reubens American Italian,ST8 6AW,53.1175,-2.1750
 Gardners Arms ,ST8 6PH,53.1010,-2.1858
 Roaring Meg,ST8 7EA,53.1211,-2.1608

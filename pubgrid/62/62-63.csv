@@ -4,7 +4,6 @@ imaginarium restaurant,DN18 5DA,53.6829,-0.4385
 Memories Tea and Coffee Room,DN18 5DE,53.6825,-0.4385
 THE OLD MILL,DN18 5DE,53.6825,-0.4385
 The George Inn,DN18 5ES,53.6831,-0.4399
-Barton Upon Humber Starbucks,DN18 5LQ,53.6825,-0.4505
 The Fig Tree,DN18 5PD,53.6849,-0.4409
 The Raj,DN18 5PD,53.6849,-0.4409
 The Surma ,DN18 5PD,53.6849,-0.4409
@@ -21,10 +20,9 @@ The Secret Garden,DN20 0QZ,53.5929,-0.4446
 Crafty 1,DN31 2FH,53.5807,-0.1145
 Wendy's Deli & Coffee,DN31 2FH,53.5807,-0.1145
 KFC GRIMSBY 02021,DN31 2SG,53.5760,-0.0998
-KFC,DN31 2SG,53.5760,-0.0998
 McDONALD'S RESTAURANT,DN31 2SG,53.5760,-0.0998
-McDonalds,DN31 2SG,53.5760,-0.0998
 Dunlop Oil & Marine Staff Canteen,DN31 2SY,53.5804,-0.0991
+Brewers Fayre The Haven,DN31 2UT,53.5791,-0.1085
 fresco cafe,DN37 9TZ,53.5857,-0.1322
 the whistle and flute,DN38 6DG,53.5754,-0.4102
 The Nags Head Wootton,DN39 6SJ,53.6305,-0.3520
@@ -59,6 +57,7 @@ Bert's Pizza & Gelato,HU1 1UU,53.7387,-0.3327
 Nibble,HU1 1UU,53.7387,-0.3327
 Minerva hotel,HU1 1XE,53.7384,-0.3344
 Telstar 2,HU1 1XR,53.7432,-0.3341
+The Three John Scotts Kingston Upon Hull (Wetherspoon),HU1 1XW,53.7439,-0.3328
 Chilli Devil's Bar,HU1 1YP,53.7437,-0.3346
 Solita Hull Marina,HU1 2BD,53.7381,-0.3384
 Holiday Inn Hull Marina,HU1 2BX,53.7404,-0.3403
@@ -78,27 +77,25 @@ Leonardo’s at Quayside Limited,HU1 2JX,53.7427,-0.3376
 McCoy's,HU1 2JX,53.7431,-0.3377
 Papas Fish and Chips and Cafe Tea Rooms,HU1 2JX,53.7427,-0.3377
 Steinbeck & Shaw Hull,HU1 2JX,53.7427,-0.3377
-ASK Italian,HU1 2LP,53.7419,-0.3376
 Furleys Hull Ltd T/A Furley & Co,HU1 2LP,53.7421,-0.3377
-Mecca Bingo,HU1 2NR,53.7429,-0.3441
+The Admiral of the Humber Kingston Upon Hull (Wetherspoon),HU1 2NR,53.7432,-0.3438
 Cinnamon Indian Restaurant,HU1 2PJ,53.7429,-0.3454
 Gilson Hotel,HU1 2PJ,53.7430,-0.3454
 KZR COFFEE LTD T/A Muffin Break,HU1 2PQ,53.7426,-0.3394
-Nandos,HU1 2PQ,53.7426,-0.3394
-Pizza Express,HU1 2PQ,53.7426,-0.3394
 Superbowl UK Hull Limited,HU1 2PQ,53.7426,-0.3394
+Costa Coffee,HU1 2TX,53.7389,-0.3441
 Tanyalak Thai Street Food,HU1 3BA,53.7461,-0.3377
 Napoleons Casino,HU1 3BS,53.7477,-0.3314
 Grosvenor Casino Hull,HU1 3DL,53.7456,-0.3371
-Caffe Nero,HU1 3EA,53.7446,-0.3387
 GOLDEN FRY (HULL) LTD,HU1 3EA,53.7446,-0.3387
 J-Jay's,HU1 3EA,53.7446,-0.3388
 Brew,HU1 3EN,53.7464,-0.3393
 Junkyard Cafe Bar,HU1 3EN,53.7461,-0.3392
-KFC,HU1 3HR,53.7450,-0.3395
 McDONALD'S RESTAURANT,HU1 3JA,53.7447,-0.3412
+McDonald's,HU1 3JA,53.7447,-0.3410
 Cooplands Secret Garden  Jameson Street Hull,HU1 3JF,53.7445,-0.3424
 KFC,HU1 3JJ,53.7443,-0.3437
+KFC,HU1 3JJ,53.7443,-0.3438
 Marla’s Sandwich Shop and Eatery,HU1 3PQ,53.7438,-0.3420
 Two Gingers Coffee ,HU1 3PQ,53.7437,-0.3420
 White Rabbit Chocolatiers  Hull,HU1 3PQ,53.7438,-0.3419
@@ -107,7 +104,7 @@ Domino's Pizza - Hull - City Centre,HU1 3QT,53.7439,-0.3441
 Dominos Pizza,HU1 3QT,53.7439,-0.3441
 Kaspas Desserts,HU1 3QT,53.7438,-0.3441
 LONG AN RESTAURANT,HU1 3QT,53.7438,-0.3441
-Starbucks Coffee Co,HU1 3QX,53.7442,-0.3461
+Costa Coffee,HU1 3QX,53.7444,-0.3459
 Subway,HU1 3QX,53.7442,-0.3461
 Punch Tavern,HU1 3RA,53.7434,-0.3391
 The Hispanist,HU1 3RF,53.7436,-0.3420
@@ -115,6 +112,7 @@ Robbie Johnson's,HU1 3RQ,53.7436,-0.3407
 C.G DOWNTOWN LTD,HU1 3RT,53.7463,-0.3427
 yankeeland ,HU1 3RT,53.7460,-0.3422
 COFFEE31 LIMITED,HU1 3SL,53.7455,-0.3410
+Costa Coffee,HU1 3SS,53.7447,-0.3400
 Subway,HU1 3SS,53.7448,-0.3400
 omelette limited,HU1 3TD,53.7465,-0.3421
 Royal Hull Hotel,HU1 3UF,53.7440,-0.3453
@@ -128,10 +126,10 @@ The star inn ,HU10 6BY,53.7603,-0.4484
 Papas Fish and Chips,HU10 6DP,53.7628,-0.4613
 MERCURE HULL GRANGE PARK HOTEL,HU10 6EA,53.7663,-0.4513
 McDONALD'S RESTAURANT,HU10 6EB,53.7641,-0.4552
-McDonalds Restaurant,HU10 6EB,53.7641,-0.4552
+McDonald's,HU10 6EB,53.7625,-0.4557
 cheval cafe ,HU10 6NT,53.7724,-0.4526
 Compass Group UK & Ireland Ltd,HU10 6RJ,53.7483,-0.4254
-Costa Coffee,HU10 6RJ,53.7483,-0.4254
+Costa Coffee,HU10 6RJ,53.7482,-0.4247
 Subway,HU10 6RJ,53.7482,-0.4247
 Bella Rosa Italian Restaurant,HU10 6SP,53.7452,-0.4307
 26 Wilson St Cafe Bar,HU10 7AN,53.7459,-0.4332
@@ -139,7 +137,6 @@ Crofters Restaurant,HU10 7AN,53.7459,-0.4331
 Lounge southella,HU10 7HB,53.7482,-0.4401
 Hull Golf Club,HU10 7TJ,53.7546,-0.4584
 Da Lucia Limited,HU10 7UA,53.7570,-0.4464
-Compass Group @ Asda Cafe,HU11 4AL,53.7784,-0.2537
 Papas Fish and Chips,HU11 4AU,53.7798,-0.2599
 Ganstead Park Golf Club,HU11 4LB,53.7946,-0.2499
 THE CHUCKLING DUCK,HU11 4PA,53.7948,-0.1912
@@ -154,9 +151,10 @@ Hare & Hounds ,HU12 9EA,53.7337,-0.1377
 The Purple Fish,HU12 9EB,53.7348,-0.1391
 Burstwick Country Golf,HU12 9EF,53.7394,-0.1374
 The Camerton Bar & Restaurant ,HU12 9NG,53.7187,-0.1631
-Costa Coffee,HU13 0AA,53.7228,-0.4347
+Costa Coffee,HU13 0AA,53.7229,-0.4346
 Hessle Kitchen,HU13 0BZ,53.7228,-0.4369
 The Country Park,HU13 0HB,53.7151,-0.4451
+Brewers Fayre Home Farm,HU13 0JA,53.7212,-0.4619
 Café Italiano Hessle Ltd ,HU13 0NA,53.7273,-0.4442
 Villa Natura,HU13 0RD,53.7229,-0.4364
 Cascara ,HU13 0RE,53.7231,-0.4368
@@ -180,7 +178,7 @@ NEW VILLAGE KITCHEN,HU16 4LY,53.7836,-0.4052
 southwood farmshop & Nursery,HU16 5HG,53.7742,-0.4215
 Blondes Coffee Limited,HU16 5QE,53.7810,-0.4137
 Christchurch Community Coffee,HU16 5QE,53.7809,-0.4137
-Costa Coffee,HU16 5QF,53.7817,-0.4140
+Costa Coffee,HU16 5QE,53.7817,-0.4139
 Duke Of Cumberland,HU16 5QG,53.7815,-0.4146
 Pasco's Italian Restaurant,HU16 5QQ,53.7828,-0.4140
 The Toll Cottage,HU16 5RL,53.7845,-0.4204
@@ -196,25 +194,21 @@ YINJIBAR restaurant ,HU2 8DX,53.7491,-0.3386
 Huckleberry's,HU2 8HL,53.7477,-0.3423
 The Coffee House,HU2 8LA,53.7463,-0.3448
 VIET MEMORIES RESTAURANT,HU2 8LA,53.7461,-0.3449
+Costa Coffee,HU2 8LD,53.7458,-0.3453
 Bagel Nash Hull,HU2 8LN,53.7455,-0.3475
 Burger King,HU2 8LN,53.7452,-0.3465
-Caffe Nero,HU2 8LN,53.7455,-0.3476
 Gravity - Hull,HU2 8LN,53.7455,-0.3475
-Krispy Kreme Doughnuts,HU2 8LN,53.7455,-0.3476
-Nandos,HU2 8LN,53.7455,-0.3475
-Prezzo,HU2 8LN,53.7455,-0.3475
+Nando's,HU2 8LN,53.7470,-0.3465
 Rock Up Hull,HU2 8LN,53.7455,-0.3475
 Temptation ,HU2 8LN,53.7452,-0.3465
 Wok & Go,HU2 8LN,53.7455,-0.3475
-Zizzi,HU2 8LN,53.7455,-0.3475
 the real china,HU2 8LN,53.7455,-0.3475
 Brayford Hotel Hull Limited,HU2 8NH,53.7480,-0.3475
 TICK TOCK BEANS LTD ,HU2 8PP,53.7460,-0.3443
-Burger King,HU2 8PW,53.7459,-0.3434
 Campanile Hull,HU2 9AN,53.7491,-0.3466
 Afro Food Lounge,HU3 1BL,53.7500,-0.3545
 KFC,HU3 1TY,53.7553,-0.3489
-KFC,HU3 1UP,53.7564,-0.3485
+KFC,HU3 1TY,53.7562,-0.3494
 Passage To India,HU3 1UP,53.7562,-0.3485
 Mad volume climbing,HU3 1XS,53.7492,-0.3478
 Raj Pavilion,HU3 1YE,53.7512,-0.3474
@@ -222,33 +216,31 @@ The Cafeplus,HU3 3AD,53.7364,-0.3595
 Halfway Cafe,HU3 3SD,53.7346,-0.3693
 Molly Mollones,HU3 3SD,53.7345,-0.3694
 BURGER KING-Beacon Way Hull,HU3 4AE,53.7301,-0.3745
-Burger King,HU3 4AE,53.7301,-0.3745
 KFC,HU3 4AE,53.7298,-0.3733
+KFC,HU3 4AE,53.7301,-0.3745
 TACO TIME-Hull,HU3 4AE,53.7298,-0.3733
 Choppersbar.ltd,HU3 4DL,53.7330,-0.3611
 coconut cafe,HU3 4EJ,53.7342,-0.3695
-KFC,HU3 4HA,53.7307,-0.3684
+Costa Coffee,HU3 4HA,53.7301,-0.3744
 McDONALD'S RESTAURANT,HU3 4SA,53.7275,-0.3741
-Pizza Hut Restaurant,HU3 4SA,53.7283,-0.3720
+McDonald's,HU3 4SA,53.7278,-0.3748
 Subway,HU3 4SA,53.7283,-0.3720
 Wellbean,HU3 4SA,53.7275,-0.3741
-Team Sport,HU3 4UL,53.7321,-0.3785
 Industria Macchina Limited,HU3 5GL,53.7361,-0.3802
 Ageon,HU3 6EN,53.7435,-0.3778
 The Old Tram Station,HU3 6JA,53.7442,-0.3726
 Tandoor mahal,HU3 6ST,53.7435,-0.3826
 CIAO,HU3 6UA,53.7425,-0.3889
 McDONALD'S RESTAURANT,HU3 6UA,53.7425,-0.3889
+McDonald's,HU3 6UA,53.7429,-0.3860
 Meadowbank Stores Ltd T/A Jacques Cafe Bar,HU3 6UU,53.7437,-0.3873
 Dreamland takeaway,HU4 6EY,53.7392,-0.3954
-Compass Group @ Asda Cafe,HU4 6SH,53.7447,-0.4149
 Deliciously Crafty,HU4 7RR,53.7442,-0.4132
 Dawaat Indian Restaurant & Takeaway,HU4 7RS,53.7445,-0.4163
 Kuchnia Restaurant ,HU5 1AH,53.7579,-0.3488
 Claires Cafe and Catering,HU5 1DR,53.7617,-0.3451
 HOME,HU5 1LD,53.7634,-0.3517
 Oriental Palace,HU5 1NR,53.7675,-0.3541
-Dunelm Coffee Bar,HU5 1SP,53.7670,-0.3455
 ponti Italian coffee shop ltd,HU5 2EJ,53.7678,-0.3588
 Craft & Dough,HU5 2EN,53.7661,-0.3588
 The Barista,HU5 2ER,53.7650,-0.3591
@@ -290,30 +282,30 @@ the priory inn,HU5 5RY,53.7558,-0.3982
 Rising sun,HU6 7AG,53.7886,-0.3621
 Lime Tandoori,HU6 7LG,53.7691,-0.3535
 The Dancing Goat Coffee House LTD,HU6 7LG,53.7689,-0.3535
-Mecca Bingo,HU6 7PE,53.7686,-0.3465
-Starbucks Coffee Co,HU6 7PY,53.7678,-0.3361
 Ruby Spice,HU6 7RA,53.7687,-0.3555
 Subway,HU6 7RA,53.7687,-0.3553
 Eats Italia,HU6 7RX,53.7710,-0.3688
 Eats,HU6 7RX,53.7710,-0.3688
 Sanctuary Bar,HU6 7RX,53.7696,-0.3672
+McDonald's,HU6 8QE,53.7703,-0.3821
 Gibbos Ringside Bistro,HU6 9BX,53.7872,-0.3764
-Burger King,HU7 0BA,53.7670,-0.3286
+Burger King,HU7 0BA,53.7674,-0.3282
 Rebound Hull,HU7 0YF,53.7782,-0.3446
 Big T's,HU7 0YN,53.7782,-0.3354
-Buzz Bingo,HU7 0YN,53.7782,-0.3354
 Monkey Bizness Hull,HU7 0YQ,53.7786,-0.3448
+Costa Coffee,HU7 3DA,53.7955,-0.3477
 Gino D'acampo My Restaurant ,HU7 3DA,53.7954,-0.3486
-Pizza Hut Restaurant,HU7 3DA,53.7955,-0.3480
-Hollywood Bowl,HU7 3DB,53.7925,-0.3530
 KFC,HU7 3DB,53.7925,-0.3530
-Nando's,HU7 3DB,53.7925,-0.3530
+KFC,HU7 3DB,53.7927,-0.3545
 Tribal bar and grill,HU7 3DB,53.7925,-0.3530
+Beefeater The Kingswood,HU7 3DD,53.7936,-0.3508
 McDONALD'S RESTAURANT,HU7 4HS,53.7893,-0.3513
+McDonald's,HU7 4HS,53.7946,-0.3462
 Wawne ferry ltd ,HU7 4ND,53.7924,-0.3201
 Church Street Coffee & Kitchen,HU7 4TD,53.7800,-0.3025
 The Duke of York ,HU7 4TD,53.7804,-0.3040
 McDONALD'S RESTAURANT,HU7 6EA,53.7809,-0.3450
+McDonald's,HU7 6EA,53.7926,-0.3503
 Whittington and Cat ,HU8 0ND,53.7741,-0.2994
 HETA,HU8 7LA,53.7492,-0.3224
 Subway,HU8 7QF,53.7526,-0.3157
@@ -324,11 +316,11 @@ Eurasian Restaurant,HU8 9AL,53.7644,-0.2943
 The Royal Charter,HU8 9EQ,53.7773,-0.2756
 THE LODGE HULL LIMITED,HU8 9HF,53.7771,-0.2832
 take a break cafe,HU9 1DU,53.7457,-0.3245
-BaxterStorey Ltd,HU9 1TA,53.7462,-0.2930
+Thyme,HU9 1TQ,53.7418,-0.3285
 McDONALD'S RESTAURANT,HU9 2AA,53.7530,-0.3140
-KFC,HU9 2AH,53.7514,-0.3141
+McDonald's,HU9 2AA,53.7533,-0.3132
+KFC,HU9 2AH,53.7507,-0.3146
 Inspire Cafe,HU9 2BL,53.7543,-0.3015
-Compass Group @ Asda Cafe,HU9 2BN,53.7521,-0.3144
 KFC,HU9 2BN,53.7521,-0.3144
 Judes,HU9 2HX,53.7544,-0.3122
 Preston Road Enterprises Limited,HU9 3QB,53.7588,-0.2840

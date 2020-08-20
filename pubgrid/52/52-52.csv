@@ -1,7 +1,7 @@
 name,postcode,lat,lon
 The Beacon,DE13 0AJ,52.8309,-1.6525
 subway,DE13 0AT,52.8276,-1.6202
-McDonalds Restaurant Ltd,DE13 0BB,52.8273,-1.6207
+McDonald's,DE13 0BB,52.8266,-1.6195
 McLean Restaurants Ltd,DE13 0BB,52.8273,-1.6207
 Dovecliff Hall Hotel,DE13 0DJ,52.8425,-1.6188
 The Bilash Spice,DE13 0LB,52.8310,-1.6201
@@ -21,7 +21,7 @@ THE COACH & HORSES,DE6 1GF,53.0167,-1.7331
 The Bridge at Ashbourne ,DE6 1GF,53.0167,-1.7331
 Lamplight Restaurant Ltd.,DE6 1GG,53.0176,-1.7331
 Birds Bakery,DE6 1GH,53.0175,-1.7317
-Costa Coffee,DE6 1GH,53.0175,-1.7318
+Costa Coffee,DE6 1GH,53.0173,-1.7326
 SEGRETO,DE6 1GH,53.0177,-1.7313
 St John Street Gallery & Cafe,DE6 1GH,53.0175,-1.7318
 THE GREENMAN PUBLIC HOUSE,DE6 1GH,53.0175,-1.7317
@@ -30,7 +30,6 @@ jack rabbbits cafe,DE6 1GH,53.0175,-1.7318
 Dillon's,DE6 1GP,53.0178,-1.7321
 The Basement thai restaurant ,DE6 1GP,53.0178,-1.7321
 Moy Park,DE6 1HA,53.0059,-1.7128
-Waterfall Elior@Staff Canteen,DE6 1HA,53.0059,-1.7128
 The Red Lion At Kniveton,DE6 1JH,53.0495,-1.6914
 Bentley Brook Inn,DE6 1LF,53.0498,-1.7244
 THE SHOULDER OF MUTTON,DE6 1LW,52.9909,-1.7039
@@ -55,7 +54,6 @@ The Roebuck (Draycott) Limited,DE6 5BT,52.8600,-1.7715
 The Roebuck,DE6 5BT,52.8600,-1.7715
 THE BOARS HEAD HOTEL,DE6 5GX,52.8698,-1.7607
 Sweet Little Limited,DE6 5HS,52.8853,-1.7614
-The National Trust,DE6 5HT,52.8882,-1.7670
 The Holly Bush,DE65 5AS,52.8995,-1.6936
 Kings Head,DE65 5GG,52.8728,-1.6400
 Hilton House Hotel,DE65 5GP,52.8716,-1.6404
@@ -80,10 +78,10 @@ The Raddle Inn LTD,ST10 4HQ,52.9531,-1.9203
 the dog and partridge,ST10 4LN,52.9442,-1.9749
 the farmers arms leigh ltd,ST10 4PU,52.9146,-1.9534
 Hales Hall Caravan & Camping Park,ST10 4QR,52.9937,-1.9695
-Burger King Uttoxeter,ST14 5AA,52.9083,-1.8587
-McDonalds Restaurant Ltd Uttoxeter,ST14 5AA,52.9103,-1.8720
+McDonald's,ST14 5AA,52.9103,-1.8720
 McLean Restaurants Ltd,ST14 5AA,52.9083,-1.8587
 STARBUCKS UTTOXETER,ST14 5AA,52.9083,-1.8587
+Table Table The Water Bridge,ST14 5AA,52.9072,-1.8541
 OLIVE TREE ,ST14 5AL,52.9195,-1.8812
 Strawberry Garden Centre,ST14 5BE,52.8993,-1.9002
 The Old Bramshall Inn,ST14 5BG,52.8958,-1.9086
@@ -92,17 +90,16 @@ TB Boden & Son T/A Denstone Hall Farm Shop,ST14 5HF,52.9645,-1.8500
 The Tavern,ST14 5HR,52.9637,-1.8558
 AJs diner,ST14 5JU,52.9511,-1.8387
 PANACEA PREMIER INDIAN,ST14 5JU,52.9513,-1.8420
-Eurest (Compass Group UK & Ireland)  JCB Service,ST14 5PA,52.9154,-1.8998
-Eurest (Compass Group UK & Ireland) Heavy Products,ST14 7FL,52.9170,-1.9063
-COSTA COFFEE,ST14 7FN,52.8991,-1.8662
+Costa Coffee,ST14 7FN,52.8992,-1.8663
 BEAR Uttoxeter,ST14 7HN,52.8992,-1.8657
 INDIAN SPICE ST14 LTD,ST14 7JJ,52.9022,-1.8663
 roses coffee lounge ltd,ST14 7RT,52.8989,-1.8656
-KFC,ST14 8AZ,52.9011,-1.8589
-MARSTONS BAR,ST14 8BD,52.8962,-1.8539
+Costa Coffee,ST14 8AU,52.8991,-1.8584
+KFC,ST14 8AZ,52.9001,-1.8600
 The Plough Inn,ST14 8DW,52.8920,-1.8753
 The White Hart Hotel,ST14 8EU,52.8982,-1.8664
 Divine ,ST14 8HL,52.8977,-1.8641
+The Old Swan Uttoxeter (Wetherspoon),ST14 8HN,52.8979,-1.8632
 Time,ST14 8HN,52.8980,-1.8631
 Be catered 4,ST14 8HP,52.8983,-1.8638
 Hohm Coffee & Bar Ltd,ST14 8HP,52.8983,-1.8638

@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+The Temeraire Saffron Walden (Wetherspoon),CB10 1AA,52.0222,0.2390
 The Mogul,CB10 1AT,52.0237,0.2382
 The Cross Keys,CB10 1AX,52.0234,0.2388
 The Eight Bells,CB10 1BU,52.0253,0.2367
@@ -9,18 +10,17 @@ Subway ,CB10 1EJ,52.0217,0.2405
 MOCHA CAFE DINER LTD,CB10 1ER,52.0229,0.2393
 the trawlerman chippy ltd,CB10 1ER,52.0229,0.2393
 Cafe CouCou Ltd,CB10 1EW,52.0228,0.2395
-Prezzo,CB10 1EX,52.0230,0.2401
 TEAAMO,CB10 1EX,52.0231,0.2402
 Gluttons ,CB10 1HE,52.0234,0.2404
 ANGELA REED,CB10 1HQ,52.0241,0.2406
 The Kings Arms,CB10 1HQ,52.0241,0.2406
 The Market House,CB10 1HQ,52.0241,0.2406
-Starbucks Coffee,CB10 1HZ,52.0232,0.2416
+Costa Coffee,CB10 1HR,52.0236,0.2414
 Bangkok Thai restaurant ,CB10 1JD,52.0234,0.2420
 Tiptree Tea Room at The Courtyard,CB10 1JH,52.0239,0.2424
 The Restaurant on Church Street,CB10 1JW,52.0241,0.2399
 Bicicletta Coffee con Velo,CB10 1JZ,52.0230,0.2407
-Costa Coffee,CB10 2SG,52.0131,0.2589
+Costa Coffee,CB10 2SG,52.0132,0.2581
 THE PLOUGH BAR & GRILL LTD,CB10 2TL,52.0114,0.3515
 BonnefireBox Cafe,CB10 2XA,51.9874,0.2891
 The Gate Inn,CB11 3AG,52.0196,0.2509
@@ -36,24 +36,19 @@ The Three Hills Bartlow,CB21 4PW,52.0814,0.3108
 The Old Red Lion,CB21 4QF,52.0996,0.3502
 The Chestnut Tree,CB21 5LT,52.1386,0.3481
 The Three Tuns,CB21 6AB,52.1167,0.2389
-Burger King,CB21 6AP,52.1262,0.2240
-BaxterStorey,CB21 6GP,52.1171,0.2259
-The Welding Institute (Wilson Vale),CB21 6GP,52.1186,0.2238
 Cafe 33,CB8 9XX,52.1413,0.5193
-Prezzo,CB9 0BB,52.0820,0.4429
 KFC - Lordscroft Lane Haverhill,CB9 0ER,52.0836,0.4400
-KFC,CB9 0ER,52.0836,0.4400
+KFC,CB9 0ER,52.0824,0.4419
 China Inn,CB9 0EU,52.0850,0.4375
 The Fox & Hounds ,CB9 7DQ,52.0436,0.4488
 The Red Lion,CB9 7HA,52.1063,0.4681
 Haverhill Golf Club,CB9 7UW,52.0764,0.4654
 Nine Jars,CB9 8AA,52.0825,0.4384
-Costa Coffee,CB9 8AD,52.0824,0.4393
 Raj mahal restaurant ,CB9 8AH,52.0811,0.4410
+Costa Coffee,CB9 8AR,52.0825,0.4391
 Route 66 Haverhill ,CB9 8AR,52.0811,0.4404
+The Drabbet Smock Haverhill (Wetherspoon),CB9 8BB,52.0827,0.4374
 Haven Cafe,CB9 8HB,52.0832,0.4372
-The Haven Cafe,CB9 8HB,52.0832,0.4372
-Elior UK Ltd,CB9 8LG,52.0772,0.4336
 Amber’s cafe ,CB9 9EF,52.0840,0.4374
 Dejavu sandwich bar cafe ,CB9 9EF,52.0840,0.4374
 Doffy's tearoom,CB9 9EF,52.0840,0.4374
@@ -67,7 +62,6 @@ Knead Food Ltd ,CM7 4PY,51.9391,0.4456
 Cole's of Bardfield,CM7 4SP,51.9480,0.4358
 The Vine Bar & Grill,CM7 4SR,51.9485,0.4368
 The George Inn,CM7 5HH,51.9339,0.5043
-Prezzo,CM7 8YH,51.9423,0.4926
 The Plough Inn  Hundon,CO10 8DT,52.0960,0.5129
 cafe clare ltd,CO10 8NH,52.0775,0.5813
 The Swan Inn Clare,CO10 8NY,52.0783,0.5805

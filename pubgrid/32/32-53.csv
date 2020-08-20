@@ -1,7 +1,8 @@
 name,postcode,lat,lon
 John O’Gaunt,RG17 0EG,51.4172,-1.5138
-Dobbies Hungerford (incl Costa Coffee),RG17 0HE,51.4184,-1.5048
+Costa Coffee,RG17 0HE,51.4179,-1.5035
 COSTA COFFEE HUNGERFORD,RG17 0LX,51.4151,-1.5153
+Costa Coffee,RG17 0LX,51.4150,-1.5153
 The Three Swans Hotel,RG17 0LZ,51.4148,-1.5153
 Borough Arms,RG17 0NA,51.4126,-1.5163
 The Plume of Hungerford ltd,RG17 0NB,51.4140,-1.5156
@@ -14,17 +15,11 @@ The Wheatsheaf,RG17 0TE,51.4316,-1.5382
 The Pheasant Inn,RG17 7AA,51.4579,-1.4801
 THE GREAT SHEFFORD (THE SWAN INN),RG17 7DS,51.4745,-1.4488
 The Plough Inn,RG17 7JN,51.4942,-1.5035
-Burger King At Welcome Break Membury Services  Eastbound,RG17 7TY,51.4805,-1.5576
-Burger King At Welcome Break Membury Services  Westbound,RG17 7TY,51.4805,-1.5576
-Days Inn At Welcome Break Membury Services  Westbound,RG17 7TY,51.4805,-1.5576
-Harry Ramsden's @ Welcome Break Westbound,RG17 7TY,51.4805,-1.5576
-KFC,RG17 7TY,51.4805,-1.5576
-Starbucks At Welcome Break Membury Services  Eastbound,RG17 7TY,51.4805,-1.5576
 Starbucks Drive -Thru @ Welcome Break Westbound,RG17 7TY,51.4805,-1.5576
 Starbucks at Membury Services Westbound,RG17 7TY,51.4805,-1.5576
-Starbucks at Welcome Break Membury Services  Westbound,RG17 7TY,51.4805,-1.5576
 WH Smith At Welcome Break Membury Services  Westbound,RG17 7TY,51.4805,-1.5576
-Starbucks Drive Thru At Welcome Break,RG17 7TZ,51.4842,-1.5581
+KFC,RG17 7TZ,51.4813,-1.5574
+KFC,RG17 7TZ,51.4834,-1.5572
 Subway @ Welcome Break Eastbound,RG17 7TZ,51.4842,-1.5581
 WH Smith At Welcome Break Membury Services  Eastbound,RG17 7TZ,51.4842,-1.5581
 Goodies Cafe ,RG17 8XL,51.5075,-1.5320
@@ -35,11 +30,10 @@ Waterfall Elior Ltd at Notrees,RG17 9TW,51.3992,-1.4521
 The Dundas Arms,RG17 9UT,51.4004,-1.4473
 Royal Oak,SN1 4BQ,51.5497,-1.7769
 Copacabana restaurant,SN1 7BY,51.5420,-1.7911
-Hall & Woodhouse At Witchelstowe,SN1 7DA,51.5454,-1.8095
 Broome Manor Golf Club,SN3 1RG,51.5389,-1.7645
 The Sun Inn,SN3 6AA,51.5433,-1.7343
+Costa Coffee,SN3 6BB,51.5381,-1.7278
 Retail Healthcare - Compass Group (Costa),SN3 6BB,51.5382,-1.7277
-Benugo (at Nationwide),SN38 1LN,51.5404,-1.7767
 BREWERS ARMS,SN4 0AE,51.5495,-1.6959
 The Harrow Inn,SN4 0AE,51.5494,-1.6958
 The Plough Inn,SN4 0AE,51.5495,-1.6959
@@ -61,15 +55,13 @@ Pino’s Ristorante Ltd,SN8 1AH,51.4216,-1.7286
 Hilliers Small Plates and Wine,SN8 1BE,51.4197,-1.7308
 Mercers of Marlborough ,SN8 1BE,51.4197,-1.7308
 Bunce's,SN8 1HD,51.4190,-1.7335
-Prezzo,SN8 1HD,51.4190,-1.7335
 The Marlborough,SN8 1HF,51.4182,-1.7345
+Costa Coffee,SN8 1HN,51.4216,-1.7301
 The Food Gallery,SN8 1HQ,51.4182,-1.7334
 saint peters coffee shop limited,SN8 1HQ,51.4179,-1.7342
 Biteme Burger Marlborough,SN8 1HU,51.4221,-1.7305
 Tea Inc Marlborough,SN8 1HU,51.4220,-1.7304
 Rah indian cuisine ,SN8 1JE,51.4218,-1.7297
-Caffe Nero,SN8 1LW,51.4198,-1.7317
-Pizza Express,SN8 1LW,51.4196,-1.7314
 The Polly Tearooms,SN8 1LW,51.4196,-1.7314
 Dan's at The Crown,SN8 1NE,51.4211,-1.7281
 The Lamb Inn,SN8 1NE,51.4211,-1.7281

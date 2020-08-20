@@ -1,5 +1,4 @@
 name,postcode,lat,lon
-Prezzo,PO30 1AB,50.6998,-1.2973
 Cafe 93,PO30 1BQ,50.6996,-1.2976
 castle inn newport ,PO30 1BQ,50.6996,-1.2976
 Bengal palace ,PO30 1HS,50.6910,-1.2891
@@ -8,6 +7,7 @@ Subway,PO30 1JU,50.6991,-1.2928
 Town Choice Cafe ,PO30 1JU,50.6991,-1.2928
 Cornerstop Cafe Ltd,PO30 1JZ,50.6977,-1.2944
 McDonald's Restaurant,PO30 1LB,50.6984,-1.2953
+McDonald's,PO30 1LB,50.6987,-1.2953
 Peach Vegan Kitchen & Zero Waste Store,PO30 1LB,50.6984,-1.2953
 The George Inn,PO30 1LB,50.6984,-1.2953
 Caffe Isola ,PO30 1LG,50.6978,-1.2951
@@ -19,16 +19,15 @@ Waverley inn,PO30 1PA,50.6906,-1.3171
 Gods Providence House,PO30 1SL,50.6996,-1.2936
 Pasha grill,PO30 1TY,50.7006,-1.2924
 Comicoffee,PO30 1UL,50.6989,-1.2961
+Costa Coffee,PO30 1UX,50.6994,-1.2950
 The Blue Door,PO30 1UX,50.6995,-1.2950
 Love Coffee,PO30 1XA,50.6995,-1.2949
 Newport & District Conservative Club,PO30 1XB,50.6992,-1.2942
-Pizza Express,PO30 1XB,50.6992,-1.2942
-English Heritage Tearoom,PO30 1XY,50.6874,-1.3141
+KFC,PO30 2AA,50.6982,-1.2890
+Beefeater Medina Quay,PO30 2DN,50.7068,-1.2905
 The Breeze,PO30 2LA,50.7227,-1.2740
 Robin Hill,PO30 2NU,50.6859,-1.2466
-Compass Group  UK And Ireland Limited T/a The Coffee Shop,PO30 2QH,50.6928,-1.2846
-KFC Newport IOW,PO30 2TA,50.6990,-1.2892
-Pizza Hut Restaurant,PO30 2TA,50.6990,-1.2892
+Burger King,PO30 2TA,50.6987,-1.2892
 The Dairymans Daughter,PO30 3AA,50.6781,-1.2464
 The White Lion,PO30 3AA,50.6781,-1.2464
 The Fighting Cocks ,PO30 3AR,50.6580,-1.2273
@@ -43,18 +42,19 @@ Quay Arts Trading,PO30 5BD,50.7018,-1.2925
 The Bargeman's Rest,PO30 5BS,50.7036,-1.2916
 Hong Kong Express,PO30 5EP,50.7005,-1.2939
 Hewitt's Restaurant ,PO30 5ET,50.7002,-1.2967
+The Man in the Moon Newport (Wetherspoon),PO30 5HB,50.7002,-1.2957
 Ambassador freehouse limited,PO30 5LE,50.6960,-1.3213
 Forest View Cafe,PO30 5NB,50.7071,-1.3104
 The Blacksmiths Arms,PO30 5SS,50.6893,-1.3432
 THE STAG,PO30 5TW,50.7242,-1.3046
 The Cafe,PO30 5UX,50.7065,-1.2936
-Dunelm Mill,PO30 5UZ,50.7039,-1.2931
 appley manor hotel,PO33 1PH,50.7240,-1.1401
 The Mermaid Bar ,PO33 1PX,50.7179,-1.1271
 Busy Bee Nurseries (Isle of Wight) Ltd,PO33 1QG,50.7107,-1.1455
 McDonald's Restaurant,PO33 1QG,50.7108,-1.1456
+McDonald's,PO33 1QG,50.7107,-1.1455
 Bartletts Green Farm Tea Rooms,PO33 1QQ,50.7081,-1.1463
-Costa Coffee,PO33 1QS,50.7104,-1.1406
+Costa Coffee,PO33 1QS,50.7106,-1.1438
 Ganders Restaurant,PO33 1UQ,50.6984,-1.1104
 The Galley at BHYC,PO33 1XQ,50.6930,-1.1062
 Hungry Bear,PO33 1XS,50.7010,-1.1087
@@ -105,8 +105,9 @@ The Wildheart Cafe,PO36 8QB,50.6624,-1.1360
 The Culver Haven Inn,PO36 8QT,50.6665,-1.1052
 MELVILLE HALL HOTEL LTD,PO36 9DH,50.6537,-1.1613
 Haldi Indian Restaurant,PO36 9JL,50.6488,-1.1685
+KFC,PO36 9PE,50.6471,-1.1795
+The Kitchen,PO36 9PE,50.6478,-1.1785
 The Clubhouse Kitchen Shanklin and Sandown Golf Club,PO36 9PR,50.6615,-1.1697
-KFC Lake IOW,PO36 9PT,50.6462,-1.1797
 Vernon Cottage,PO37 6AA,50.6271,-1.1783
 Brunswick Hotel,PO37 6AN,50.6284,-1.1747
 The Clifton,PO37 6AN,50.6284,-1.1747

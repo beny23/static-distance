@@ -1,37 +1,32 @@
 name,postcode,lat,lon
 McManus Cafe,DD1 1DA,56.4626,-2.9707
 The Bach ,DD1 1DJ,56.4626,-2.9700
-Brewdog,DD1 1EP,56.4632,-2.9707
 Sportsterz,DD1 1LP,56.4620,-2.9746
 Innis and Gunn Brewery Taproom Dundee,DD1 1PA,56.4578,-2.9758
 Mandarin Garden Chinese Restaurant ,DD1 1PF,56.4591,-2.9776
-Compass Group,DD1 1QB,56.4614,-2.9759
 The Pancake Place Ltd,DD1 1RH,56.4611,-2.9711
 Coffee & Co,DD1 1RX,56.4619,-2.9721
 german doner kebab,DD1 1RX,56.4619,-2.9721
-Patisserie Valerie,DD1 1SD,56.4612,-2.9695
 ALTEA4 RESTAURANTS LTD,DD1 1SG,56.4610,-2.9703
-McDonalds,DD1 1SG,56.4611,-2.9705
+McDonald's,DD1 1SG,56.4612,-2.9705
 Little Things Cafe,DD1 1SH,56.4613,-2.9708
 Blend (Dundee) Ltd,DD1 1SP,56.4619,-2.9714
+The Counting House Dundee (Wetherspoon),DD1 1SP,56.4621,-2.9718
+Costa Coffee,DD1 1UE,56.4592,-2.9739
 Debenhams Restaurant Dundee,DD1 1UE,56.4591,-2.9746
-Costa Coffee,DD1 1UF,56.4601,-2.9728
-Five Guys,DD1 1UF,56.4601,-2.9728
 Chopstix Dundee,DD1 1UG,56.4600,-2.9731
 Muffin Break Dundee,DD1 1UG,56.4600,-2.9731
-Starbucks,DD1 1UG,56.4600,-2.9731
 HA Fife Ltd T/A Subway,DD1 1UH,56.4600,-2.9713
 Bibble Milkshake bar,DD1 1UQ,56.4603,-2.9712
 Nicolls Bar and Restaurant,DD1 2AB,56.4621,-2.9693
 Shaheen Bangladeshi Restaurant and Takeaway Limited,DD1 2AF,56.4622,-2.9696
 Beans & Berries,DD1 2AP,56.4619,-2.9699
-Caffe Nero,DD1 2AZ,56.4624,-2.9691
 KFC,DD1 2AZ,56.4624,-2.9691
+KFC,DD1 2AZ,56.4625,-2.9689
 Ozzy's,DD1 2BB,56.4631,-2.9691
-Burger King,DD1 2DB,56.4639,-2.9695
 HA Fife Ltd T/A Subway,DD1 2DB,56.4639,-2.9695
 bb's coffee & muffins,DD1 2DB,56.4639,-2.9695
-Costa Coffee,DD1 2EE,56.4622,-2.9685
+Costa Coffee,DD1 2EE,56.4619,-2.9687
 Market Dundee,DD1 2EG,56.4616,-2.9677
 Henry's Coffee House,DD1 2EQ,56.4619,-2.9681
 TONYS DINER,DD1 2EW,56.4631,-2.9676
@@ -52,7 +47,6 @@ Taza,DD1 3JA,56.4623,-2.9601
 Apex City Quay Hotel & Spa,DD1 3JP,56.4608,-2.9631
 Cafe Olympia Limited,DD1 3JU,56.4639,-2.9630
 MOZZA RESTAURANT,DD1 4AA,56.4593,-2.9705
-Tony Macaroni,DD1 4AA,56.4593,-2.9705
 yamm buffet,DD1 4AA,56.4593,-2.9705
 Fisher & Donaldson(Dundee),DD1 4AF,56.4597,-2.9701
 The Brothy,DD1 4AF,56.4595,-2.9699
@@ -69,14 +63,13 @@ Medina Bar & Grill,DD1 4DH,56.4580,-2.9749
 TAILEND RESTAURANT (DUNDEE) LIMITED,DD1 4DH,56.4580,-2.9749
 Tonic,DD1 4DP,56.4573,-2.9762
 Best Western Queens Hotel ,DD1 4DU,56.4570,-2.9760
-Mecca Bingo,DD1 4EH,56.4585,-2.9730
 Bubu,DD1 4ET,56.4595,-2.9711
 The blue room,DD1 4ET,56.4595,-2.9711
-Nandos,DD1 4EY,56.4599,-2.9706
 Tartan Coffee House,DD1 4HY,56.4563,-2.9868
 Café Sicilia,DD1 4JD,56.4560,-2.9911
 Mary's Kitchen,DD1 4LL,56.4558,-2.9913
 The Giddy Goose,DD1 4LN,56.4566,-2.9788
+Beefeater Dundee,DD1 4XA,56.4560,-2.9701
 Pizza Hut,DD1 5BP,56.4608,-2.9857
 Rishis Indian Aroma,DD1 5DL,56.4602,-2.9809
 3 Session Street,DD1 5DN,56.4602,-2.9800
@@ -95,31 +88,25 @@ Más,DD2 1AU,56.4562,-2.9947
 Pacamara Food & Drink,DD2 1AU,56.4562,-2.9947
 Invercarse Hotel,DD2 1PG,56.4576,-3.0246
 Botanic Garden Catering Limited,DD2 1QH,56.4563,-3.0252
+Costa Coffee,DD2 1UG,56.4547,-2.9763
 Bridgeview Express,DD2 1UQ,56.4541,-3.0080
 Davies Cafe and Ice cream Parlour,DD2 3AW,56.4707,-3.0088
 KFC,DD2 3SQ,56.4813,-3.0220
-McDonalds,DD2 3SQ,56.4814,-3.0220
-Nandos,DD2 3SQ,56.4814,-3.0220
-Starbucks Coffee,DD2 3WT,56.4813,-3.0161
+KFC,DD2 3SQ,56.4815,-3.0212
+McDonald's,DD2 3SQ,56.4814,-3.0220
 Starbucks,DD2 3WT,56.4813,-3.0161
-Buzz Bingo,DD2 3XN,56.4743,-3.0072
-Baxterstorey,DD2 3XR,56.4811,-3.0095
-Starbucks Coffee,DD2 4SW,56.4727,-3.0549
 Starbucks,DD2 4SW,56.4727,-3.0549
 JA Fife Ltd T/A Subway,DD2 4TD,56.4777,-3.0373
-Compass Group UK & Ireland Ltd,DD2 4WB,56.4758,-3.0485
 Invergowrie Inn ,DD2 5BE,56.4613,-3.0617
 The Post House Coffee Co.,DD2 5BE,56.4613,-3.0617
 THE LONGFORGAN COACHING INN,DD2 5EU,56.4571,-3.1192
 The Landmark Hotel & Leisure Club,DD2 5JT,56.4663,-3.0647
+Beefeater Gourdie Croft,DD2 5JU,56.4703,-3.0597
 Piperdam Golf & Leisure Resort Limited,DD2 5LP,56.4992,-3.1314
 Redood Berkhill Limited ,DD2 5PG,56.4933,-3.0530
 The Pinecone Cafe,DD3 0PP,56.5049,-3.0432
 Three Barrels,DD3 7RW,56.4724,-2.9770
-Burger King,DD3 8RX,56.4815,-2.9944
-Costa Coffee,DD3 8RX,56.4815,-2.9944
-Dunelm Soft Furnishings Ltd,DD3 8RX,56.4815,-2.9944
-Pizza Hut Restaurant,DD3 8RX,56.4815,-2.9944
+Costa Coffee,DD3 8RX,56.4818,-2.9955
 Downfield Hotel,DD3 9BR,56.4915,-2.9966
 Nine Maidens,DD3 9QU,56.4960,-3.0103
 NuttyElla,DD4 6QN,56.4709,-2.9574
@@ -127,6 +114,7 @@ ENJOY CAFE,DD4 6QQ,56.4690,-2.9580
 the view restaurant,DD6 8NE,56.4254,-2.9774
 Armstrong's Bar & Restaurant,DD8 1QT,56.6442,-3.0160
 strathmore arms,DD8 1RS,56.6086,-3.0031
+The Fair OBlair Blairgowrie (Wetherspoon),PH10 6AB,56.5926,-3.3384
 The wee coffee shop ,PH10 6AB,56.5925,-3.3381
 Cargills Bistro,PH10 6AQ,56.5927,-3.3371
 NUMBER THIRTY ONE,PH10 6AS,56.5915,-3.3376

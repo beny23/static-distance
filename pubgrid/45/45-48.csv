@@ -1,8 +1,5 @@
 name,postcode,lat,lon
-Caffe Nero,DY10 1AA,52.3871,-2.2505
-McDonalds,DY10 1AA,52.3871,-2.2505
-Pizza Hut Restaurant,DY10 1AA,52.3871,-2.2505
-Starbucks,DY10 1AA,52.3871,-2.2505
+Costa Coffee,DY10 1AA,52.3875,-2.2505
 Love Food Italia,DY10 1AF,52.3847,-2.2477
 Delightful Desserts,DY10 1BL,52.3866,-2.2482
 Rees Cafe,DY10 1BT,52.3865,-2.2484
@@ -11,7 +8,7 @@ WALL 2 WALL,DY10 1BY,52.3863,-2.2496
 The Swan,DY10 1DE,52.3873,-2.2486
 Cafe pacifico Kidderminster limited,DY10 1EJ,52.3874,-2.2481
 A&S Restaurants LTD T/A McDonalds,DY10 1JS,52.3707,-2.2463
-McDonalds,DY10 1JS,52.3707,-2.2463
+McDonald's,DY10 1JS,52.3704,-2.2466
 Cue and Brew Sports Bar,DY10 1PA,52.3864,-2.2462
 Sher-E-Punjab,DY10 1PY,52.3866,-2.2427
 The station inn,DY10 1UG,52.3840,-2.2378
@@ -29,17 +26,18 @@ ROWBERRYS NURSERY/RESTAURANT,DY10 4QN,52.3562,-2.1602
 THE FOX INN,DY10 4QN,52.3562,-2.1602
 Chaddesley Tea Room,DY10 4SA,52.3605,-2.1595
 Bodenham Farm & Arboretum,DY11 5TB,52.4215,-2.2763
+Costa Coffee,DY11 6DY,52.3909,-2.2550
 China Lodge,DY11 6RX,52.3877,-2.2577
 A&S Restaurants LTD T/A McDonalds,DY11 6TT,52.3884,-2.2516
+McDonald's,DY11 6TT,52.3883,-2.2521
 La Brasserie,DY11 6UU,52.3881,-2.2509
 dy11 6uu,DY11 6UU,52.3882,-2.2509
 Cafe Masala,DY11 6XB,52.3893,-2.2566
-Starbucks Kidderminster Drive Thru,DY11 7BG,52.3745,-2.2596
 Starbucks,DY11 7BG,52.3745,-2.2596
 Subway,DY11 7BQ,52.3752,-2.2600
 KFC,DY11 7BW,52.3693,-2.2638
+KFC,DY11 7BW,52.3712,-2.2625
 The Loom and Shuttle ,DY11 7BW,52.3693,-2.2638
-Elior UK At Wyre Forest Community Housing,DY11 7FH,52.3714,-2.2600
 Burger King,DY11 7PT,52.3619,-2.2650
 the white hart,DY11 7TD,52.3373,-2.2365
 Starbucks Hartlebury,DY11 7XP,52.3246,-2.2239
@@ -52,6 +50,7 @@ Sherpuri Ltd,DY12 2AP,52.3756,-2.3163
 The Mulberry restaurant,DY12 2AP,52.3756,-2.3163
 Vhujon restaurant,DY12 2AP,52.3756,-2.3163
 Chang Thai River ,DY12 2AW,52.3761,-2.3150
+George Hotel Bewdley (Wetherspoon),DY12 2AW,52.3758,-2.3154
 the little pack horse,DY12 2DH,52.3743,-2.3145
 Pomodoro 1 ltd,DY12 2DJ,52.3740,-2.3146
 The Courtyard Bewdley,DY12 2DX,52.3760,-2.3140
@@ -66,7 +65,6 @@ Ye Olde New Inn,DY12 3LF,52.4063,-2.3610
 The Harbour Inn,DY12 3NF,52.4170,-2.3485
 The Old Beams,DY13 0AA,52.3357,-2.2828
 KINGS ARMS,DY13 0NN,52.3244,-2.2939
-Switchback Cafe At Midwest Moto,DY13 0TF,52.3333,-2.3022
 The Dog at Dunley,DY13 0UE,52.3177,-2.3149
 Stourport Bakery ,DY13 8BS,52.3399,-2.2797
 the open kitchen cafe,DY13 8UT,52.3389,-2.2816
@@ -108,13 +106,14 @@ Hickory's Smokehouse,DY6 0EN,52.5010,-2.1829
 the new wall heath tandoori,DY6 0HA,52.5047,-2.1781
 Alam International Restaurant Limited,DY6 0NP,52.5060,-2.1787
 KFC,DY6 7AP,52.5044,-2.1664
-KFC,DY6 7LE,52.5080,-2.1534
+KFC,DY6 7AP,52.5080,-2.1543
 Alexander Greek Restaurant,DY6 8AA,52.4973,-2.1677
 Cross Balti Limited,DY6 8AA,52.4977,-2.1674
+The Cross Inn Kingswinford (Wetherspoon),DY6 8AA,52.4973,-2.1682
 the bell inn,DY6 8AJ,52.4979,-2.1646
 Zingaz ,DY6 8AW,52.4981,-2.1628
-Costa Coffee,DY6 8WT,52.5002,-2.1516
-McDonalds Restaurants Limited,DY6 8WT,52.5001,-2.1519
+Beefeater The Kingswinford,DY6 8WT,52.5002,-2.1520
+McDonald's,DY6 8WT,52.5002,-2.1529
 McDonald’s Kingswinford,DY6 8WT,52.5002,-2.1517
 Delightful Desserts,DY6 9EL,52.5000,-2.1736
 Jilly's Coffee Shop,DY6 9JL,52.4970,-2.1692
@@ -140,9 +139,7 @@ cafe express,DY8 1AB,52.4568,-2.1473
 stourbridge Institute & social club,DY8 1AD,52.4566,-2.1480
 THE PLOUGH & HARROW,DY8 1AX,52.4512,-2.1487
 The Yak Nepalese  and indian cuisine,DY8 1DP,52.4566,-2.1466
-Caffe Nero,DY8 1DT,52.4563,-2.1457
 The Talbot Hotel,DY8 1DW,52.4571,-2.1468
-Pizza Express,DY8 1DX,52.4560,-2.1448
 Surantha patisserie,DY8 1ED,52.4553,-2.1437
 Cafe 105,DY8 1EE,52.4554,-2.1446
 Cock N Bull.Co,DY8 1EE,52.4554,-2.1446
@@ -151,12 +148,16 @@ Delightful Desserts,DY8 1EL,52.4558,-2.1438
 THE DUKE WILLIAM,DY8 1EP,52.4576,-2.1468
 The French Connection,DY8 1EP,52.4577,-2.1466
 The French Deli,DY8 1EP,52.4576,-2.1468
+The Chequers Inn Stourbridge (Wetherspoon),DY8 1FA,52.4550,-2.1438
 COSTA COFFEE,DY8 1HJ,52.4559,-2.1463
-Coffee#1,DY8 1HJ,52.4559,-2.1463
+Costa Coffee,DY8 1HJ,52.4558,-2.1464
 COSTA COFFEE,DY8 1JN,52.4602,-2.1466
+Costa Coffee,DY8 1JN,52.4608,-2.1471
+KFC,DY8 1JN,52.4590,-2.1459
 KFC,DY8 1JN,52.4602,-2.1466
-McDonalds,DY8 1JN,52.4602,-2.1466
+McDonald's,DY8 1JN,52.4584,-2.1456
 McDonald’s Stourbridge,DY8 1JN,52.4602,-2.1466
+Brewers Fayre Stourbridge Town Centre,DY8 1JR,52.4575,-2.1405
 The Seven Stars,DY8 1NQ,52.4490,-2.1358
 FULL OF BEANS CAFE LIMITED,DY8 1PH,52.4545,-2.1440
 Coffee Shop Oldswinford Ltd,DY8 1QU,52.4492,-2.1410

@@ -1,9 +1,9 @@
 name,postcode,lat,lon
-Kfc,PO13 0FE,50.8344,-1.1736
+KFC,PO13 0AB,50.8337,-1.1733
 Monkey Bizness Gosport,PO13 0GW,50.8255,-1.1630
 Bridgemary Manor Hotel & Pub,PO13 0JY,50.8216,-1.1645
+Costa Coffee,PO13 8AR,50.8026,-1.1663
 lee on solent community association,PO13 8JU,50.8046,-1.1933
-Costa Coffee,PO13 8ZW,50.8026,-1.1675
 Subway,PO13 8ZW,50.8026,-1.1675
 Kingfisher Caravan Park,PO13 9BE,50.7902,-1.1710
 Sapori Italian Restaurant,PO13 9DA,50.8017,-1.2016
@@ -19,17 +19,17 @@ On The Waterfront Ltd,PO13 9LW,50.8044,-1.2062
 Court Barn Catering,PO13 9NZ,50.8075,-1.1966
 Lee-on-the-Solent Golf Club,PO13 9PB,50.8147,-1.1865
 The Rolling Scones Cafe,PO13 9UB,50.8118,-1.1694
-Costa Coffee,PO14 1AN,50.8373,-1.1852
+Costa Coffee,PO14 1AN,50.8376,-1.1858
+Beefeater Oast & Squire,PO14 1RJ,50.8510,-1.2115
 McDonald's Restaurant,PO14 1TZ,50.8347,-1.1869
-Mcdonalds Restaurants Ltd,PO14 1TZ,50.8347,-1.1869
+McDonald's,PO14 1TZ,50.8346,-1.1869
 The Bakers ,PO14 2JG,50.8258,-1.2145
-Costa Coffee,PO14 2LE,50.8258,-1.2135
+Costa Coffee,PO14 2LE,50.8253,-1.2138
 The Golden Bowler,PO14 2NQ,50.8149,-1.2143
 The Crofton Pub,PO14 3QF,50.8201,-1.2234
 The Wheatsheaf Titchfield ,PO14 4AD,50.8507,-1.2335
 The Wine Garden,PO14 4DL,50.8482,-1.2348
 The Sir Joseph Paxton,PO14 4PF,50.8557,-1.2566
-Dunelm Mill,PO14 4QL,50.8613,-1.2538
 Stewarts Abbey Garden Centre,PO15 5RB,50.8558,-1.2313
 Holiday Inn Fareham,PO15 5RJ,50.8554,-1.2422
 Cake and cafe,PO15 6HZ,50.8599,-1.2087
@@ -41,34 +41,27 @@ Solent Hotel & Spa,PO15 7AJ,50.8799,-1.2507
 Fresh to Desk,PO15 7AW,50.8791,-1.2412
 Trenchers,PO15 7AW,50.8791,-1.2412
 Clement’s Deli,PO15 7AZ,50.8761,-1.2440
+Nando's,PO15 7FD,50.8862,-1.2477
+Costa Coffee,PO15 7LJ,50.8844,-1.2452
 Starbucks Whiteley Village ,PO15 7LJ,50.8848,-1.2472
-Compass Group HSBC Canteen,PO15 7PA,50.8788,-1.2427
-Cafe Nero,PO15 7PD,50.8853,-1.2460
+Bar + Block Whiteley,PO15 7PD,50.8862,-1.2485
 DIM T,PO15 7PD,50.8853,-1.2460
-Five Guys,PO15 7PD,50.8853,-1.2460
 Friendly Phils,PO15 7PD,50.8853,-1.2460
-Nando's,PO15 7PD,50.8853,-1.2460
 Pizza Express,PO15 7PD,50.8853,-1.2460
-Prezzo,PO15 7PD,50.8854,-1.2466
 Rock Up Whiteley,PO15 7PD,50.8854,-1.2466
-Starbucks,PO15 7PD,50.8854,-1.2466
 Wagamama,PO15 7PD,50.8854,-1.2466
-Wildwood,PO15 7PD,50.8853,-1.2460
-Yo Sushi Whiteley,PO15 7PD,50.8853,-1.2460
 McDonald's Restaurant,PO16 0AB,50.8528,-1.1803
-Mcdonalds Ltd,PO16 0AB,50.8528,-1.1803
 Rancho steak house fareham,PO16 0AB,50.8527,-1.1804
 Stones Cafe Ltd,PO16 0AB,50.8528,-1.1803
-Burger King,PO16 0AP,50.8528,-1.1781
 BAGUETTE CAFE LTD,PO16 0AY,50.8527,-1.1770
-Coffee#1 Ltd,PO16 0BA,50.8527,-1.1767
-Costa Coffee,PO16 0BT,50.8521,-1.1789
-Nandos Chickenland Ltd,PO16 0BX,50.8521,-1.1789
+Costa Coffee,PO16 0BT,50.8519,-1.1782
 CRUMBLEJACK,PO16 0EF,50.8528,-1.1841
 Vintage Tea Room,PO16 0EH,50.8524,-1.1844
+The Lord Arthur Lee Fareham (Wetherspoon),PO16 0EP,50.8525,-1.1814
 INDIAN COTTAGE,PO16 0EQ,50.8524,-1.1852
-Cafe Nero,PO16 0JN,50.8520,-1.1775
-Costa Coffee,PO16 0LE,50.8517,-1.1759
+The Crown Inn Fareham (Wetherspoon),PO16 0JW,50.8523,-1.1768
+Costa Coffee,PO16 0LE,50.8509,-1.1761
+Costa Coffee,PO16 0PF,50.8531,-1.1787
 Cafe Giardino - Fareham,PO16 0PG,50.8534,-1.1770
 Three Joes Sourdough Pizza,PO16 0PQ,50.8534,-1.1772
 Golden Lion,PO16 7AE,50.8543,-1.1738
@@ -80,8 +73,7 @@ dragon chinese restaurant,PO16 7SQ,50.8544,-1.1839
 The Delme Arms,PO16 8QY,50.8527,-1.1652
 THE ROUNDABOUT HOTEL,PO16 8SB,50.8541,-1.1672
 Cob and Pen,PO16 8SL,50.8570,-1.1713
-Baxterstorey Customer Cafe,PO16 8SU,50.8583,-1.1733
-Costa Coffee,PO16 8SU,50.8583,-1.1733
+Costa Coffee,PO16 8SU,50.8577,-1.1734
 Cams Hall Estate Golf Club,PO16 8UP,50.8520,-1.1651
 The Dovecote Eatery,PO16 8UT,50.8487,-1.1659
 Rodizio Grill ,PO17 5BT,50.8829,-1.1813
@@ -94,6 +86,7 @@ Lilly's Tea and Coffee House,PO17 5JT,50.9003,-1.1870
 Wickham Park Golf Club,PO17 5PJ,50.9008,-1.2012
 MURRAYS,PO31 7AT,50.7623,-1.2978
 spice central,PO31 7AT,50.7623,-1.2978
+Costa Coffee,PO31 7AX,50.7620,-1.2980
 Harbour Kitchen,PO31 7AX,50.7619,-1.2978
 TONINOS ITALIAN RESTAURANT,PO31 7BE,50.7609,-1.2974
 jolliffes cowes,PO31 7BE,50.7609,-1.2974
@@ -124,14 +117,16 @@ Albert Cottage Hotel & Restaurant,PO32 6BD,50.7532,-1.2782
 The Lunch Box Cafe,PO32 6EP,50.7573,-1.2881
 English Heritage Gift Shop,PO32 6JZ,50.7506,-1.2701
 The Lifeboat,PO32 6UB,50.7509,-1.2906
+Costa Coffee,PO33 1HW,50.7285,-1.1630
 So Yummy,PO33 2HT,50.7279,-1.1633
 slice of life cafe,PO33 2HW,50.7289,-1.1635
 Blacksheep Bar and Club Lounge ,PO33 2LF,50.7305,-1.1629
-JD Wetherspoon,PO33 2LF,50.7305,-1.1629
+S Fowler  Co Ryde (Wetherspoon),PO33 2LF,50.7304,-1.1627
 Thekebabhouse ,PO33 2PN,50.7296,-1.1631
 Kevars,PO33 2RE,50.7271,-1.1630
 The Fishbourne,PO33 4EU,50.7332,-1.2121
 Darwin (Woodside Bay) limited,PO33 4JT,50.7408,-1.2291
+Thyme,SO14 0AB,50.9072,-1.3985
 Flying Aubergine Cafe Southampton,SO14 0DA,50.9077,-1.4021
 Alsulaimaniyah grill house,SO14 0DR,50.9114,-1.3940
 SHIRE RESTAURANT LTD,SO14 0JD,50.9133,-1.3995
@@ -139,7 +134,6 @@ Gurkha Lounge,SO14 0JR,50.9167,-1.3957
 Boulder Shack Climbing Gym,SO14 0JW,50.9167,-1.3934
 Monkey Bizness Southampton,SO14 0JW,50.9165,-1.3937
 Nativ Southampton ,SO14 0JZ,50.9180,-1.3952
-Jurys Inn Hotel,SO14 0TB,50.9106,-1.4007
 Ding Tea UK Ltd,SO14 1JU,50.9028,-1.4029
 Taco Bell,SO14 1JU,50.9028,-1.4029
 CATTLE STEAK HOUSE,SO14 1JX,50.9028,-1.4016
@@ -167,14 +161,15 @@ Chatime,SO14 2BY,50.9021,-1.4047
 Poppins Restaurant & Cafe,SO14 2BY,50.9021,-1.4047
 sprinkles gelato Below bar,SO14 2BY,50.9021,-1.4047
 Indian Melody,SO14 2DF,50.9007,-1.4037
-Costa Coffee,SO14 2DH,50.9021,-1.4037
+The Standing Order Southampton (Wetherspoon),SO14 2DF,50.9005,-1.4037
+Costa Coffee,SO14 2DH,50.9022,-1.4038
 KOREAN BBQ MANNA RESTAURANT,SO14 2DH,50.9021,-1.4037
-Burger King,SO14 2FT,50.9026,-1.4048
 Dolphin Hotel,SO14 2HN,50.9002,-1.4034
 The Star Hotel,SO14 2NA,50.9008,-1.4033
 ARGENTO STEAK HOUSE,SO14 2NS,50.8991,-1.4035
 BayLeaf kitchen,SO14 2NS,50.8991,-1.4035
 GERMAN ALE LTD T/S stein garten,SO14 2NS,50.8990,-1.4035
+The Red Lion Southampton (Wetherspoon),SO14 2NS,50.8990,-1.4037
 The Platform Tavern,SO14 2NY,50.8964,-1.4036
 SHANGHAI 1814,SO14 2NZ,50.9015,-1.4046
 Everest Cuisine,SO14 3AQ,50.8982,-1.4020
@@ -184,11 +179,11 @@ dhaba 59 ltd,SO14 3DL,50.8985,-1.3994
 Max's Bar and Brasserie,SO14 3DP,50.8979,-1.3980
 Medbar ,SO14 3DP,50.8979,-1.3980
 Oxford Brasserie Soton Ltd,SO14 3DS,50.8981,-1.3973
-Pizza Express,SO14 3DS,50.8981,-1.3973
 Simon's Bar Kitchen,SO14 3DS,50.8981,-1.3973
 Romano Caffe Pizzeria,SO14 3FH,50.8972,-1.3944
 Subway,SO14 3HE,50.9019,-1.4033
 Banana Wharf Ocean Village,SO14 3JF,50.8973,-1.3912
+The Admiral Sir Lucius Curtis Southampton (Wetherspoon),SO14 3JS,50.8969,-1.3938
 Blue Jasmine,SO14 3QS,50.8957,-1.3928
 Jetty Ocean Village,SO14 3QU,50.8952,-1.3920
 Southampton Harbour Hotel,SO14 3QU,50.8952,-1.3920
@@ -199,11 +194,8 @@ The Bistro Shamrock Quay,SO14 5QL,50.9103,-1.3809
 The Yellow Welly,SO14 5QL,50.9102,-1.3801
 The Guide Dog Alehouse Ltd,SO14 6SF,50.9179,-1.3972
 104 Bar Southampton,SO14 7DT,50.9055,-1.4041
-Burger King,SO14 7DT,50.9055,-1.4042
-CAFFE NERO,SO14 7DT,50.9052,-1.4041
-Coffee#1,SO14 7DT,50.9054,-1.4041
-Gourmet Burger Kitchen,SO14 7DU,50.9075,-1.4042
-Nando's,SO14 7DU,50.9075,-1.4042
+Burger King,SO14 7DT,50.9057,-1.4042
+Costa Coffee,SO14 7DU,50.9084,-1.4044
 sprinkles Gelato -Above bar,SO14 7DU,50.9079,-1.4044
 Belgium and Blues,SO14 7DW,50.9091,-1.4045
 Mango Above Bar,SO14 7DW,50.9090,-1.4044
@@ -211,66 +203,52 @@ Shanghai Bay ,SO14 7DX,50.9033,-1.4046
 Fusion Grill House Limited,SO14 7FG,50.9060,-1.4048
 GERMAN DONER KEBAB,SO14 7FG,50.9056,-1.4048
 Starbucks Above Bar,SO14 7FG,50.9060,-1.4048
-Starbucks,SO14 7FG,50.9060,-1.4048
 La Tavernetta,SO14 7FJ,50.9067,-1.4053
 Mint Dosa,SO14 7FL,50.9071,-1.4052
-KFC,SO14 7FN,50.9073,-1.4048
+KFC,SO14 7FN,50.9071,-1.4048
 Tang’s chinese restaurant ,SO14 7FN,50.9073,-1.4048
-Turtle Bay,SO14 7FP,50.9077,-1.4049
-Costa Coffee,SO14 7SJ,50.9059,-1.4059
+Costa Coffee,SO14 7SJ,50.9060,-1.4063
 Fredericks,SO14 7SJ,50.9059,-1.4059
 Neds Noodle Bar Southampton,SO14 7SJ,50.9059,-1.4059
 STAKKS PANCAKE HOUSE LTD,SO14 7SJ,50.9059,-1.4059
 Vida Marina Fish & Chips at Sea Life Play Centre Limited,SO14 7SJ,50.9059,-1.4059
 Piccolo Mondo ,SO14 7SL,50.9065,-1.4054
-KFC,SO15 0LS,50.9183,-1.4570
-McDonalds,SO15 0LS,50.9153,-1.4391
+KFC,SO15 0LS,50.9182,-1.4568
 The Ship Inn,SO15 0NN,50.9211,-1.4726
 Holiday Inn Southampton,SO15 1AG,50.8998,-1.4077
 Hampshire Constab - Southern Road,SO15 1AN,50.9064,-1.4164
 McDonald's Restaurant,SO15 1BA,50.9042,-1.4101
-McDonalds,SO15 1BA,50.9042,-1.4101
-Next / Starbucks,SO15 1BA,50.9042,-1.4101
-TGI Fridays UK Ltd,SO15 1BA,50.9042,-1.4101
+McDonald's,SO15 1BA,50.9048,-1.4139
+Thyme,SO15 1BA,50.9020,-1.4081
 Alpin PMK Ltd t/a L'Osteria,SO15 1DE,50.9022,-1.4071
 Casa Brasil (West Quay) Ltd,SO15 1DE,50.9022,-1.4071
 Costa at Showcase Cinema de Lux Southampton,SO15 1DE,50.9022,-1.4071
-Five Guys,SO15 1DE,50.9022,-1.4071
-Nandos,SO15 1DE,50.9022,-1.4071
+Nando's,SO15 1DE,50.9036,-1.4073
 Red Dog Saloon - Southampton,SO15 1DE,50.9022,-1.4071
-Zizzi,SO15 1DE,50.9022,-1.4071
 Naked Coffee,SO15 1GD,50.9084,-1.4123
 The Mayflower Village,SO15 1GE,50.9087,-1.4107
 BGGL Limited T/A Gusto Lounge,SO15 1GF,50.9091,-1.4096
 K.bap BBQ restaurant ,SO15 1GF,50.9090,-1.4096
 Leelawadee Thai Restaurant,SO15 1GF,50.9091,-1.4096
 Soleto italian,SO15 1GF,50.9090,-1.4095
-Costa Coffee,SO15 1GQ,50.9080,-1.4158
-Starbucks Coffee,SO15 1GX,50.9085,-1.4135
+Costa Coffee,SO15 1GX,50.9082,-1.4138
+McDonald's,SO15 1QB,50.9048,-1.4139
 SO15 1QB,SO15 1QB,50.9029,-1.4071
 Subway,SO15 1QB,50.9029,-1.4071
-Costa Coffee,SO15 1QE,50.9036,-1.4072
-KFC,SO15 1QE,50.9036,-1.4072
+Costa Coffee,SO15 1QD,50.9038,-1.4062
+Costa Coffee,SO15 1QE,50.9039,-1.4075
 Krispy Kreme Doughnuts,SO15 1QE,50.9036,-1.4072
-McDonalds,SO15 1QE,50.9036,-1.4072
-Wagamama,SO15 1QE,50.9036,-1.4072
 Chopstix Southampton ,SO15 1QF,50.9037,-1.4075
 Creams Cafe Southampton,SO15 1QF,50.9037,-1.4075
 McDonald's Restaurant,SO15 1QF,50.9037,-1.4075
-Nando's,SO15 1QF,50.9036,-1.4072
-Pizza Express,SO15 1QF,50.9036,-1.4072
-Pizza Hut,SO15 1QF,50.9036,-1.4072
 Slim Chickens,SO15 1QF,50.9037,-1.4075
 Stone Ground Donuts,SO15 1QF,50.9037,-1.4075
 Thaikhun,SO15 1QF,50.9037,-1.4075
-Tortilla,SO15 1QF,50.9036,-1.4072
-Yo Sushi,SO15 1QF,50.9036,-1.4072
-Starbucks Coffee,SO15 2AB,50.9123,-1.4039
 Roosters Piri Piri -Southampton London Road,SO15 2AD,50.9118,-1.4044
 Subway,SO15 2AD,50.9118,-1.4044
+The Giddy Bridge Southampton (Wetherspoon),SO15 2AF,50.9110,-1.4044
 MEXIGO,SO15 2AG,50.9115,-1.4039
 The Alexandra Hotel,SO15 2AY,50.9124,-1.4015
-Premier Inn  Whitbread PLC,SO15 2BG,50.9101,-1.4075
 Nara,SO15 2BX,50.9120,-1.4064
 Everestbasmati ltd TA Basmati Restaurant,SO15 2DB,50.9119,-1.4059
 HALLADAY'S TEA ROOMS,SO15 2DB,50.9119,-1.4059
@@ -284,8 +262,8 @@ Cafemonde,SO15 2DS,50.9132,-1.4067
 Piecaramba Southampton Ltd,SO15 2DX,50.9128,-1.4056
 The Black Phoenix,SO15 2DX,50.9129,-1.4054
 Smugglers,SO15 2DY,50.9127,-1.4050
-Brewdog,SO15 2EF,50.9130,-1.4057
 Funky Flamingo,SO15 2EL,50.9125,-1.4046
+Thyme,SO15 2WY,50.9101,-1.4075
 Wellington Arms,SO15 3DE,50.9127,-1.4240
 Pig and Whistle Pub,SO15 3FD,50.9125,-1.4214
 Thai 2 Go,SO15 3FJ,50.9147,-1.4232
@@ -293,8 +271,9 @@ Sanjha,SO15 3HL,50.9168,-1.4266
 5 Sons Cafe,SO15 3HT,50.9168,-1.4258
 Puccinis Shirley ltd ,SO15 3HW,50.9178,-1.4272
 Kachina Restaurant,SO15 3HY,50.9188,-1.4293
+The Bright Water Inn Shirley (Wetherspoon),SO15 3HY,50.9198,-1.4305
+McDonald's,SO15 3JD,50.9188,-1.4285
 McDonald's,SO15 3JD,50.9193,-1.4292
-McDonalds,SO15 3JD,50.9193,-1.4292
 Overdraft,SO15 3JD,50.9194,-1.4293
 Roosters Piri Piri,SO15 3JF,50.9205,-1.4308
 Dahlia Restaurant,SO15 3LR,50.9209,-1.4320
@@ -302,34 +281,33 @@ CAFE AROMA,SO15 3NF,50.9220,-1.4334
 Cafe aroma Shirley ,SO15 3NF,50.9220,-1.4334
 The Hungry Diner,SO15 3NF,50.9220,-1.4334
 Pizza Hut,SO15 3NH,50.9212,-1.4323
+Costa Coffee,SO15 3NP,50.9224,-1.4334
 Make & Brew,SO15 5FB,50.9209,-1.4217
 the moby dick fish and chips,SO15 5LG,50.9229,-1.4323
-BaxterStorey At Ordnance Survey,SO16 0AS,50.9379,-1.4706
 The Horns Inn,SO16 0XA,50.9473,-1.4636
+Beefeater Balmoral Inn,SO16 0XJ,50.9453,-1.4617
 Grove Place Village,SO16 0XY,50.9488,-1.4724
 The Four Horseshoes,SO16 0YA,50.9449,-1.4749
-Atalian Servest Food Co At Tesco Distribution Centre,SO16 0YS,50.9397,-1.4801
 Subway,SO16 2JA,50.9392,-1.3786
 McDonald's,SO16 2JE,50.9380,-1.3805
-McDonalds,SO16 2JE,50.9380,-1.3805
+McDonald's,SO16 2JE,50.9391,-1.3803
 Melo Persian Restaurant ,SO16 2JE,50.9379,-1.3805
 Garden Restaurant,SO16 2JF,50.9384,-1.3800
 little alex homemade limited,SO16 2NS,50.9421,-1.3780
-Burger King,SO16 3AU,50.9385,-1.3889
+Burger King,SO16 3AU,50.9384,-1.3892
 Chef China,SO16 3AY,50.9383,-1.3913
 Stoneham Golf Club,SO16 3TT,50.9472,-1.3925
 Kali Mirchi ,SO16 4FB,50.9230,-1.4348
 The Nest Coffee Shop,SO16 4LL,50.9219,-1.4449
-Costa Coffee,SO16 4QE,50.9240,-1.4452
-Costa Coffee,SO16 6YD,50.9330,-1.4351
+Costa Coffee,SO16 4QE,50.9238,-1.4475
+Costa Coffee,SO16 6YD,50.9335,-1.4340
 The View,SO16 7AY,50.9401,-1.4205
 Jehangir Restaurant Ltd,SO16 7DJ,50.9347,-1.4178
 Uptons of Bassett Ltd,SO16 7DJ,50.9347,-1.4178
-Buzz Bingo,SO16 8HY,50.9407,-1.4491
+McDonald's,SO16 9SH,50.9181,-1.4574
 McDonald's,SO16 9SH,50.9182,-1.4573
 Ceno Restaurant,SO17 1AQ,50.9278,-1.3916
 Brewhouse and Kitchen Southampton,SO17 1QD,50.9313,-1.4000
-Pret A Manger,SO17 1TW,50.9377,-1.3976
 Elizabeth House Hotel,SO17 1XP,50.9199,-1.4039
 Mango Thai Tapas Portswood,SO17 2ES,50.9204,-1.3956
 La Baronia ,SO17 2ET,50.9209,-1.3958
@@ -337,7 +315,6 @@ La Baronia ,SO17 2ET,50.9209,-1.3958
 Persian Paradise Restaurant,SO17 2FW,50.9222,-1.3951
 Smokeys Burger & Shakes ,SO17 2FY,50.9236,-1.3945
 Baboo Ji Vegetarian Kitchen,SO17 2LD,50.9274,-1.3902
-Coffee#1 Portswood,SO17 2NF,50.9258,-1.3930
 Kates Cafe Lounge ltd ,SO17 2NF,50.9258,-1.3931
 Ordu Ltd t/a Poppins Cafe,SO17 2NF,50.9258,-1.3931
 VICEROY INDIAN CUISINE ,SO17 2NF,50.9258,-1.3931
@@ -357,6 +334,7 @@ Il picchio,SO18 1NN,50.9246,-1.3757
 Miss Ellie's Cafe,SO18 1NN,50.9246,-1.3757
 Riverside Diner,SO18 1NN,50.9246,-1.3757
 The Roundabout Cafe ,SO18 2LE,50.9420,-1.3728
+Thyme,SO18 2XU,50.9486,-1.3645
 Haskins Garden Centre West End,SO18 3HW,50.9377,-1.3564
 Choudhury’s spice ltd,SO18 3RA,50.9329,-1.3524
 Jewels Restaurant ,SO18 3RA,50.9326,-1.3526
@@ -365,8 +343,8 @@ Subway ,SO19 2BN,50.9094,-1.3603
 Tandoori,SO19 7PE,50.8976,-1.3748
 The Boat Shop Cafe,SO19 7QT,50.8985,-1.3783
 MILLERS POND PUB,SO19 8FQ,50.8981,-1.3614
-Buzz Bingo,SO19 8NE,50.9065,-1.3410
-KFC,SO19 8NE,50.9065,-1.3410
+Costa Coffee,SO19 8NE,50.9055,-1.3394
+KFC,SO19 8NE,50.9058,-1.3400
 Annie’s ltd,SO19 9AA,50.8980,-1.3798
 Sugar & Spice Coffee Shop,SO19 9AT,50.8942,-1.3499
 Piggys,SO19 9DX,50.8973,-1.3799
@@ -379,21 +357,20 @@ The Brewery Bar,SO30 2AA,50.9149,-1.2695
 The Railway Inn,SO30 2DN,50.9154,-1.2575
 Purbani Botley Restaurant ,SO30 2EA,50.9145,-1.2715
 Regginas Restaurant Limited,SO30 2EA,50.9142,-1.2711
-THE DOLPHIN (WADWORTH),SO30 2EA,50.9141,-1.2707
 Hillier Garden Centre Botley,SO30 2EZ,50.9205,-1.2839
 The Old Mill Restaurant ,SO30 2GB,50.9147,-1.2687
 Kings country kitchen and bar,SO30 2HA,50.9135,-1.2609
 The Horse & Jockey Pub and Restaraunt,SO30 2HB,50.9000,-1.2531
 The Southampton Arms,SO30 2HG,50.9325,-1.3208
-KFC,SO30 2JN,50.9241,-1.3114
-PIZZA HUT RESTAURANT,SO30 2JN,50.9238,-1.3113
-BURGER KING,SO30 2QY,50.9265,-1.3110
+Burger King,SO30 2QY,50.9265,-1.3109
+KFC,SO30 2UH,50.9244,-1.3115
 McDonald's Restaurant,SO30 2UH,50.9225,-1.3117
+McDonald's,SO30 2UH,50.9196,-1.3134
 The Master Builder,SO30 3AH,50.9302,-1.3454
 CH&Co @ Countess Mountbatten Hospice,SO30 3JB,50.9287,-1.3256
 Joy In Golf II Limited,SO30 4BZ,50.9124,-1.3160
-COSTA COFFEE,SO30 4DY,50.9136,-1.3047
-Starbucks,SO30 4RT,50.9167,-1.3130
+Costa Coffee,SO30 4DY,50.9136,-1.3048
+Costa Coffee,SO30 4RT,50.9178,-1.3119
 Park gate tandoori,SO31 1BX,50.8755,-1.2670
 The Boat House Cafe,SO31 1ZL,50.8827,-1.3001
 THE KING AND QUEEN,SO31 4HA,50.8585,-1.3135
@@ -406,7 +383,6 @@ Beach Hut Cafe,SO31 4JB,50.8573,-1.3127
 Ketch Rigger,SO31 4JD,50.8558,-1.3169
 The Cinnamon Bay,SO31 4JE,50.8592,-1.3193
 Ye Olde Whyte Harte Ltd,SO31 4JF,50.8587,-1.3167
-ELIOR @ GE AVIATION STAFF RESTAURANT,SO31 4NF,50.8630,-1.3324
 Banana Wharf Hamble,SO31 4QA,50.8593,-1.3196
 The Flying Boat Cafe,SO31 4RF,50.8588,-1.3264
 Hampshire Constab - Hamble Lane,SO31 4TS,50.8679,-1.3351
@@ -414,10 +390,9 @@ PURBANI NETLEY,SO31 5DH,50.8758,-1.3556
 P K S V LEISURE LTD. T/A THE PRINCE CONSORT PUB,SO31 5DS,50.8721,-1.3526
 The Dancing Goose,SO31 5FH,50.8797,-1.3504
 The Cottage Inn,SO31 5FN,50.8799,-1.3401
-Tgi Fridays,SO31 6AF,50.8684,-1.2590
-Costa Coffee,SO31 6DX,50.8638,-1.2755
+Breakfast Room,SO31 6AF,50.8672,-1.2561
+Costa Coffee,SO31 6DX,50.8636,-1.2750
 Little Big Village,SO31 6DX,50.8636,-1.2750
-Pizza Hut Delivery,SO31 6DX,50.8638,-1.2755
 Soothills Ltd,SO31 6DX,50.8638,-1.2755
 The Strawberry Field Tavern,SO31 6DX,50.8638,-1.2755
 basmati indian restaurant locksheath,SO31 6DX,50.8638,-1.2755
@@ -427,7 +402,6 @@ The Navigator,SO31 7EB,50.8837,-1.2994
 The Bold Forester,SO31 7EL,50.8760,-1.2836
 The Old Ship,SO31 7FN,50.8810,-1.2958
 Kams Palace Restaurant ,SO31 7GD,50.8710,-1.2668
-MILLER & CARTER,SO31 8DW,50.8949,-1.3175
 The Coffee Shop,SO31 8ES,50.8899,-1.3174
 Ship & Shovel,SO31 9HX,50.8530,-1.2969
 The Cricketers Inn,SO32 2BH,50.9293,-1.2267
@@ -443,12 +417,12 @@ The Compass Inn,SO40 2HE,50.9288,-1.5453
 Le Chateau,SO40 2NX,50.9279,-1.5726
 AFC Totton-Strakers Cafe,SO40 2RW,50.9370,-1.5114
 Broadlands lakes clubhouse ,SO40 2RX,50.9432,-1.5156
-MCDONALDS,SO40 3AF,50.9187,-1.4848
+McDonald's,SO40 3AF,50.9186,-1.4831
 McDonald's,SO40 3AF,50.9187,-1.4848
 Lucky Buddha 888 Ltd,SO40 3AH,50.9190,-1.4865
 The Salmon Leap,SO40 3BR,50.9235,-1.4883
-COSTA COFFEE,SO40 3BX,50.9193,-1.4885
 Cafe aroma,SO40 3BX,50.9193,-1.4885
+Costa Coffee,SO40 3BX,50.9190,-1.4882
 Subway Totton,SO40 3DF,50.9186,-1.4907
 Pat's Sandwich Bar,SO40 3DP,50.9189,-1.4912
 Thistledonicely,SO40 3DP,50.9189,-1.4912
@@ -471,7 +445,6 @@ Sunnyfields Farm,SO40 9FX,50.9047,-1.4830
 The Anchor Inn,SO40 9GD,50.9134,-1.4820
 Big Blue Cafe,SO40 9LA,50.9082,-1.5012
 Otter Nursery,SO41 0JD,50.7470,-1.5719
-THE HAVEN BAR & RESTAURANT,SO41 3QD,50.7510,-1.5308
 The Mayflower,SO41 3QD,50.7510,-1.5308
 Lymington Town Sailing Club,SO41 3SE,50.7544,-1.5301
 ROYAL LYMINGTON YACHT CLUB,SO41 3SE,50.7544,-1.5301
@@ -486,9 +459,7 @@ Lymington Hospital,SO41 8QD,50.7694,-1.5451
 Stanwell House Hotel,SO41 9AA,50.7588,-1.5387
 Cafe Tres Bon,SO41 9AD,50.7584,-1.5401
 Lemana Coffee & Kitchen,SO41 9AD,50.7584,-1.5401
-CAFFE NERO,SO41 9AF,50.7584,-1.5410
-PREZZO,SO41 9AH,50.7576,-1.5443
-PIZZA EXPRESS,SO41 9AL,50.7581,-1.5439
+Costa Coffee,SO41 9AP,50.7585,-1.5420
 Deep Blue Restaurants,SO41 9AQ,50.7591,-1.5394
 Lal Quilla Restaurant ALLCLUB LTD,SO41 9AQ,50.7590,-1.5393
 Lounges ,SO41 9AQ,50.7590,-1.5393
@@ -498,6 +469,7 @@ BOROUGH ARMS,SO41 9GP,50.7611,-1.5473
 Monkey House,SO41 9HA,50.7669,-1.5526
 RIVAAZ LYMINGTON,SO41 9NA,50.7571,-1.5473
 The Yard at Guy Kremer ,SO41 9NA,50.7571,-1.5473
+The Six Bells Lymington (Wetherspoon),SO41 9ND,50.7575,-1.5455
 Bridges of Lymington,SO41 9NE,50.7573,-1.5476
 The Sail Inn,SO41 9NG,50.7574,-1.5488
 Cambium at Careys Manor Hotel,SO42 7RH,50.8208,-1.5715
@@ -528,18 +500,18 @@ Searcys at Exbury Gardens,SO45 1AZ,50.7993,-1.3962
 Falcon Inn,SO45 1DD,50.8266,-1.3504
 The Hideaway Cafe,SO45 1XA,50.8190,-1.3735
 Langley Tavern (New Forest) Ltd,SO45 1XR,50.8049,-1.3671
-KFC,SO45 2LG,50.8316,-1.3803
 The Forest Home,SO45 3FH,50.8421,-1.3915
 Fountain (Hythe) Limited,SO45 3NE,50.8568,-1.3908
 The Glen,SO45 3RF,50.8508,-1.4045
 Bebe’s cafe ,SO45 4AP,50.8597,-1.4114
 St. Andrew's Coffee House Ltd,SO45 4PT,50.8526,-1.4162
+Whitbread Inns The Heath,SO45 4PW,50.8513,-1.4170
 The Lovely Little cafe,SO45 4PY,50.8531,-1.4141
 DIBDEN GOLF CENTRE,SO45 5TB,50.8723,-1.4232
 Number 15 cafe,SO45 6AG,50.8701,-1.3984
 Seashells Bar & Restaurant,SO45 6AG,50.8702,-1.3986
 The Lord Nelson,SO45 6AG,50.8702,-1.3986
-COSTA COFFEE,SO45 6AH,50.8701,-1.3990
+Costa Coffee,SO45 6AH,50.8699,-1.3986
 amalfi restaurant & pizzeria ltd,SO45 6AH,50.8701,-1.3990
 Millies Tea Room,SO45 6AJ,50.8700,-1.3994
 The Thai Corner,SO45 6AN,50.8700,-1.4000

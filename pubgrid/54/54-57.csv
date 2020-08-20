@@ -27,7 +27,9 @@ Mour Hotel,NG15 0EA,53.0680,-1.2520
 THE BROOMHILL INN,NG15 6AJ,53.0272,-1.1988
 Arunothai,NG15 6DY,53.0299,-1.2074
 Green Dragon Hucknall,NG15 6GR,53.0210,-1.2272
+Costa Coffee,NG15 7AX,53.0382,-1.2027
 Costa Hucknall,NG15 7AX,53.0385,-1.2038
+The Pilgrim Oak Hucknall (Wetherspoon),NG15 7AX,53.0381,-1.2025
 HALF MOON,NG15 7BS,53.0384,-1.2056
 New Era Restaurants Ltd t/a Moda,NG15 7DE,53.0420,-1.2115
 Mrs C's Vintage Tea Room,NG15 7HJ,53.0375,-1.2019
@@ -35,10 +37,8 @@ Alaskan Ice Ltd,NG15 7LE,53.0376,-1.2030
 Pizza Hut,NG15 7SB,53.0314,-1.1956
 The Station Hotel,NG15 7TQ,53.0390,-1.1977
 McDonald's Hucknall,NG15 7UQ,53.0361,-1.1954
-McDonalds,NG15 7UQ,53.0361,-1.1954
 THE HORSE AND GROOM,NG15 8AE,53.0542,-1.2027
 Bella Mia Restaurant,NG15 8AY,53.0480,-1.2151
-Miller & Carter,NG15 8FJ,53.0565,-1.1550
 Roses Pantry,NG15 9BD,53.0855,-1.1659
 Ve Raj Restaurant ,NG15 9DH,53.0842,-1.1556
 The Larch Farm,NG15 9HA,53.0931,-1.1788
@@ -54,13 +54,9 @@ The Dog House at Kimberley,NG16 2NG,52.9971,-1.2553
 Rumbletums (Kimberley) Ltd,NG16 2NH,52.9976,-1.2555
 Cricketers Rest,NG16 2NP,52.9981,-1.2576
 HOGS HEAD HOTEL LTD,NG16 2RN,52.9946,-1.2805
-Costa Coffee (Next Retail Ltd),NG16 2RP,53.0029,-1.2821
-Nando's,NG16 2RP,53.0029,-1.2821
-Pizza Express,NG16 2RP,53.0029,-1.2821
+Costa Coffee,NG16 2RP,53.0014,-1.2809
 Starbucks Giltbrook,NG16 2RP,53.0029,-1.2821
-Starbucks,NG16 2RP,53.0029,-1.2821
 Subway Giltbrook,NG16 2RP,53.0029,-1.2821
-The Haven,NG16 2RZ,52.9835,-1.2838
 Olive Tree Grill,NG16 3GR,53.0143,-1.2946
 The Dog and Quayle pub,NG16 5FF,53.0529,-1.2907
 1958 Coffee  House,NG16 5FX,53.0548,-1.2895
@@ -70,18 +66,20 @@ Costa Coffee,NG17 1AQ,53.1239,-1.2636
 Kings Caffe,NG17 1AT,53.1234,-1.2635
 ENJOY CAFE,NG17 1AZ,53.1253,-1.2613
 McDonald's,NG17 1BE,53.1245,-1.2587
-McDonalds,NG17 1BE,53.1245,-1.2587
+McDonald's,NG17 1BE,53.1264,-1.2636
 Naboulsi's Caffe,NG17 1BP,53.1252,-1.2634
 Street Coffee,NG17 1BP,53.1252,-1.2634
+The Picture House Sutton in Ashfield (Wetherspoon),NG17 1DA,53.1259,-1.2619
 Duke of Sussex (Sutton in Ashfield) Ltd,NG17 1JN,53.1139,-1.2881
+KFC,NG17 2AE,53.1261,-1.2627
 kfc,NG17 2AE,53.1268,-1.2642
 Teamworks Karting East Midlands,NG17 2NB,53.1176,-1.2997
 The Carnarvon,NG17 3JA,53.1473,-1.2899
 Pizza Hut,NG17 4AX,53.1261,-1.2589
 Bekash Tandoori,NG17 4BG,53.1288,-1.2562
 The Mango Leaf - Indian Restaurant,NG17 4BG,53.1288,-1.2562
-Costa Coffee,NG17 4JL,53.1347,-1.2381
-McDonalds,NG17 4JP,53.1317,-1.2349
+Costa Coffee,NG17 4JL,53.1353,-1.2356
+McDonald's,NG17 4JP,53.1317,-1.2348
 funtimez at jimmy beans,NG17 4NE,53.1265,-1.2415
 Subway,NG17 4NU,53.1319,-1.2400
 Strawberry Fayre,NG17 4PA,53.1290,-1.2290
@@ -92,6 +90,7 @@ Coxmoor Golf Club,NG17 5LF,53.1143,-1.2235
 The Tea Room,NG17 7AR,53.0992,-1.2475
 Through The Looking Glass,NG17 7AS,53.0990,-1.2464
 Subway,NG17 7BQ,53.0994,-1.2439
+The Regent KirkbyinAshfield (Wetherspoon),NG17 7BQ,53.0987,-1.2441
 Ribbons tea room,NG17 7DR,53.0972,-1.2436
 FullerFlavour,NG17 7LJ,53.1055,-1.2476
 Notts Golf Club Ltd,NG17 7QR,53.0846,-1.2223
@@ -100,30 +99,29 @@ The Countryman Pub,NG17 9LE,53.0913,-1.2758
 The Swan,NG18 1AE,53.1437,-1.1944
 Priors Well Brewery Ltd (Old Brewery Cafe),NG18 1AH,53.1461,-0.9927
 Ciao Bella,NG18 1BJ,53.1407,-1.1950
-Gurkha flavours resturant ,NG18 1BQ,53.1420,-1.1961
+Gurkha flavours resturant ,NG18 1BQ,53.1421,-1.1964
 Apollo Bingo Mansfield,NG18 1BU,53.1362,-1.1995
-Costa Coffee within Odeon Cinema,NG18 1BU,53.1362,-1.1995
-McDonalds Restaurants Limited,NG18 1BU,53.1362,-1.1995
-Nando's,NG18 1BU,53.1362,-1.1995
+McDonald's,NG18 1BU,53.1362,-1.1985
 KFC,NG18 1BW,53.1363,-1.1974
-Pizza Hut Restaurant,NG18 1BW,53.1374,-1.1984
 Waterlily Restaurant ,NG18 1BW,53.1374,-1.1984
 caseys coffee bar,NG18 1DG,53.1436,-1.1953
 MANGROVE INDIAN BISTRO & GRILL,NG18 1DJ,53.1430,-1.1959
 Pizza Hut,NG18 1EA,53.1426,-1.1957
-Burger King,NG18 1HA,53.1393,-1.2025
-Dunelm Mill Pausa Coffee shop,NG18 1HA,53.1393,-1.2025
 Your Space Mansfield,NG18 1HB,53.1381,-1.1993
 MANSFIELD BOWL,NG18 1LG,53.1448,-1.2000
+The Widow Frost Mansfield (Wetherspoon),NG18 1NB,53.1458,-1.1949
 Britalia ,NG18 1NE,53.1449,-1.1953
 Rima Faz Restaurant,NG18 1NE,53.1449,-1.1953
 Subway,NG18 1NE,53.1449,-1.1953
 andwhynot,NG18 1NG,53.1462,-1.1944
 Blue Chilli Thai 2012 Ltd,NG18 1NJ,53.1453,-1.1947
+The Stag  Pheasant Mansfield (Wetherspoon),NG18 1NU,53.1458,-1.1955
 CHAND INDIAN CUISINE ,NG18 1NW,53.1449,-1.1949
 Snowflakes Desserts,NG18 1QH,53.1461,-1.2033
+Costa Coffee,NG18 1RS,53.1454,-1.1974
 ELBEES CAFE,NG18 1RU,53.1461,-1.1992
 Cafe silver ltd,NG18 1RX,53.1457,-1.1987
+McDonald's,NG18 1RY,53.1448,-1.1968
 McDonald's,NG18 1RY,53.1449,-1.1972
 Debenhams Restaurant Mansfield,NG18 1SX,53.1452,-1.1989
 Mansfield lodge Hotel Ltd,NG18 2AF,53.1501,-1.1940
@@ -140,10 +138,11 @@ The Bakers Shop Cafe Limited,NG18 5GY,53.1326,-1.2152
 The Red Bar & Grill,NG18 5LQ,53.1435,-1.2035
 William IV ,NG18 5QE,53.1422,-1.2067
 Bar Cod Fish and Grill,NG19 0GG,53.1561,-1.1735
-Costa Coffee,NG19 0GG,53.1561,-1.1735
 Jangos Indoor Play and Party Centre,NG19 0GG,53.1561,-1.1735
 KFC,NG19 0GG,53.1561,-1.1735
 Subway,NG19 0GG,53.1561,-1.1735
+Costa Coffee,NG19 0HA,53.1559,-1.1727
+KFC,NG19 0HA,53.1558,-1.1723
 Redgate Inn,NG19 6EH,53.1506,-1.2169
 Rufford,NG19 7ES,53.1561,-1.2157
 The White Swan,NG19 7SQ,53.1723,-1.2454
@@ -187,9 +186,6 @@ Ice Cream Parlour - Rufford Park,NG22 9DF,53.1760,-1.0360
 Mill Tea Shop - Rufford Park,NG22 9DF,53.1760,-1.0360
 Savile Restaurant,NG22 9DF,53.1760,-1.0360
 Talbot Suite - Rufford Park,NG22 9DF,53.1760,-1.0360
-Center Parcs Catering Unit - Main Kitchen,NG22 9DN,53.1680,-1.0545
-Starbucks - Sports Cafe,NG22 9DN,53.1680,-1.0545
-Starbucks,NG22 9DN,53.1680,-1.0545
 The Boot & Shoe Pub,NG23 5LA,53.0056,-0.8949
 The Dapper Spaniel,NG23 5SG,53.0673,-0.8892
 Caunton Beck,NG23 6AB,53.1324,-0.8878
@@ -216,11 +212,12 @@ The Bromley Arms,NG25 0UL,53.0515,-0.9034
 The Full Moon Inn,NG25 0UT,53.0529,-0.9180
 Bread & Bitter,NG3 5JL,52.9842,-1.1243
 The Cheesecake Shop Mapperley,NG3 5JL,52.9842,-1.1243
+The Woodthorpe Top Nottingham (Wetherspoon),NG3 5JL,52.9837,-1.1233
 Bombay brassiere ,NG3 5JU,52.9854,-1.1202
-Costa Coffee,NG3 5JU,52.9853,-1.1203
+Costa Coffee,NG3 5JU,52.9851,-1.1207
 Costa Mapperley,NG3 5JU,52.9853,-1.1203
 Holy cannoli Nottingham ltd,NG3 5LG,52.9846,-1.1218
-KFC Nottingham Mapperley Drive Thru,NG3 5QG,52.9820,-1.1272
+KFC,NG3 5QG,52.9826,-1.1248
 kfc,NG3 5QG,52.9820,-1.1272
 Tipsy T,NG3 5QR,52.9837,-1.1220
 passage to india,NG3 5QR,52.9837,-1.1220
@@ -244,22 +241,24 @@ Crafty Teller ,NG5 2FR,52.9801,-1.1467
 Delightful Desserts (Sherwood  Nottingham),NG5 2FR,52.9801,-1.1468
 LA CAPANNA LIMITED,NG5 2FS,52.9814,-1.1459
 Marc & Daina's Restaurant,NG5 2FW,52.9827,-1.1457
-Pizza Hut,NG5 2FW,52.9827,-1.1457
 Rikshaw urban indian,NG5 2FW,52.9827,-1.1457
 The Crimson Tree,NG5 2FX,52.9834,-1.1450
 cafe cchino's,NG5 2GA,52.9826,-1.1450
 Le Mistral,NG5 2JN,52.9818,-1.1464
 Rakki Rakkas,NG5 2JN,52.9818,-1.1464
 The Pudding Pantry Sherwood,NG5 2JN,52.9818,-1.1463
+The Samuel Hall Nottingham (Wetherspoon),NG5 2JN,52.9814,-1.1466
 WOODTHORPE TANDOORI LTD,NG5 3FH,52.9924,-1.1390
 subway,NG5 3FW,52.9868,-1.1413
 La Mensa,NG5 3GF,52.9940,-1.1392
 Coffee Hideout Woodthorpe LTD,NG5 4LW,52.9917,-1.1214
 Maureens coffee shop & cafe ,NG5 5EJ,53.0105,-1.1741
 Mark's munchies ,NG5 6AT,52.9973,-1.1404
+Breakfast Room,NG5 6BH,53.0002,-1.1388
 McDonald's Arnold,NG5 6BN,52.9986,-1.1359
-McDonalds Restaurant,NG5 6BN,52.9986,-1.1359
+McDonald's,NG5 6BN,52.9987,-1.1346
 Golden Phoenix,NG5 6FZ,52.9971,-1.1521
+The Ernehale Arnold (Wetherspoon),NG5 6JN,53.0015,-1.1306
 LUIGI'S RESTAURANT,NG5 6LF,53.0008,-1.1309
 Ohannes Burger Arnold,NG5 6LF,53.0009,-1.1308
 Refresh cafe ,NG5 6ND,53.0021,-1.1282
@@ -268,7 +267,7 @@ Everest Fusion Lounge,NG5 7DS,53.0060,-1.1291
 EMILIOS GREEK RESTAURANT LIMITED,NG5 7DZ,53.0031,-1.1291
 Birds Bakery,NG5 7EA,53.0024,-1.1289
 Costa Arnold,NG5 7EA,53.0024,-1.1289
-Costa Coffee,NG5 7EA,53.0024,-1.1289
+Costa Coffee,NG5 7EA,53.0027,-1.1283
 FRONT STREET CAFE,NG5 7ED,53.0054,-1.1273
 Himalayan Inn ,NG5 7EG,53.0051,-1.1268
 delicci cafebar,NG5 7EG,53.0051,-1.1268
@@ -277,11 +276,13 @@ Bestwood Lodge,NG5 8HT,53.0133,-1.1527
 The Banyan Tree Restaurant,NG5 8PG,53.0213,-1.1314
 Subway,NG5 9DD,53.0022,-1.1783
 Buzz Bingo,NG5 9RU,52.9977,-1.1780
-KFC Bulwell Drive Thru,NG6 8AJ,53.0057,-1.1912
+KFC,NG6 8AJ,53.0056,-1.1931
 McDonald's Bulwell,NG6 8EP,53.0104,-1.1898
+McDonald's,NG6 8EP,53.0101,-1.1906
 kfc,NG6 8EP,53.0104,-1.1898
 Costa Bulwell,NG6 8EW,53.0018,-1.1960
-Costa Coffee,NG6 8EW,53.0018,-1.1960
+Costa Coffee,NG6 8EW,53.0018,-1.1961
+The William Peverel Nottingham (Wetherspoon),NG6 8EZ,53.0025,-1.1962
 limekiln pub,NG6 8GE,53.0052,-1.2084
 Red Kangaroo,NG6 8WA,53.0077,-1.2170
 Waterfall Elior Group,NG6 9EU,52.9934,-1.1862
@@ -290,11 +291,11 @@ WILLOW TREE INN,NG7 7DA,52.9771,-1.1674
 Hajis,NG7 7DG,52.9793,-1.1701
 BestOfBoth World ,NG7 7EA,52.9757,-1.1733
 McDonald's Valley Road,NG7 7EX,52.9789,-1.1743
-McDonalds Restaurants,NG7 7EX,52.9789,-1.1743
 Gingers cob shop,NG8 5BU,52.9762,-1.1894
-KFC Nuthall,NG8 6AD,52.9838,-1.1973
+KFC,NG8 6AD,52.9843,-1.1989
 kfc,NG8 6AD,52.9838,-1.1973
 Clip'n Climb Nottingham,NG8 6AR,52.9897,-1.2028
+Beefeater Millers Barn,NG8 6AS,52.9878,-1.2080
 The Nuthall,NG8 6AX,52.9869,-1.2092
 Exceptional Hotels & Resorts Uk Ltd,NG8 6AZ,52.9859,-1.2008
 Nottingham Belfry Hotel and Spa,NG8 6PY,52.9815,-1.2381

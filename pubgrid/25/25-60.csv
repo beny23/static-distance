@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 Bengal tandoori ,BN16 1AF,50.8167,-0.4770
 Bengal,BN16 1AF,50.8167,-0.4770
+Whitbread Inns The Roundstone,BN16 1EB,50.8177,-0.4758
 Ristorante al mare,BN16 1JJ,50.8110,-0.4812
 Masala lounge ,BN16 1JN,50.8102,-0.4805
 Penang Village,BN16 1NN,50.8055,-0.4818
@@ -9,14 +10,16 @@ Tudor Tavern,BN16 1NN,50.8050,-0.4818
 Seaview Hotel,BN16 1PD,50.8039,-0.4806
 Broadmark cafe,BN16 2NE,50.8100,-0.5049
 KFC,BN16 2NE,50.8102,-0.5048
+KFC,BN16 2NN,50.8102,-0.5048
 Tandoori Nights,BN16 2RD,50.8096,-0.5108
 The Honeypot Cafe & Kitchen,BN16 2RD,50.8099,-0.5108
 CAFE OASIS,BN16 3DA,50.8110,-0.5059
 La cucina ,BN16 3DE,50.8107,-0.5066
+Costa Coffee,BN16 3DN,50.8101,-0.5058
 Monsoon,BN16 3DR,50.8102,-0.5075
+Costa Coffee,BN16 3FH,50.8194,-0.5047
 The Windmill Inn (Rustington) Ltd,BN16 3JN,50.8167,-0.5021
 Lemongrass Thai Restaurant,BN16 3NR,50.8111,-0.5107
-Baxterstorey @ Sainsbury's Cafe,BN16 3RT,50.8176,-0.4981
 Angmering Manor,BN16 4AG,50.8285,-0.4807
 The Lamb At Angmering,BN16 4EQ,50.8294,-0.4840
 Lanes Health Clubs,BN16 4NB,50.8224,-0.5037
@@ -26,6 +29,7 @@ GustoLab,BN17 5AG,50.8094,-0.5403
 Arcade Lounge ,BN17 5AP,50.8086,-0.5405
 Harbour Lights Cafe,BN17 5AW,50.8081,-0.5452
 PICCOLA ITALIA,BN17 5BG,50.8090,-0.5439
+The George Inn Littlehampton (Wetherspoon),BN17 5BG,50.8092,-0.5437
 Wimpy LIttlehampton,BN17 5BG,50.8093,-0.5437
 The Steam Packet Inn,BN17 5BZ,50.8104,-0.5492
 The Arun View Inn,BN17 5DD,50.8106,-0.5500
@@ -33,7 +37,7 @@ Ritas Cafe,BN17 5DE,50.8088,-0.5502
 WEST BEACH CAFE,BN17 5DL,50.8010,-0.5425
 The Boathouse in The Marina ,BN17 5DS,50.8102,-0.5556
 BadSaint Restaurant,BN17 5EA,50.8093,-0.5422
-Costa Coffee,BN17 5EJ,50.8096,-0.5417
+Costa Coffee,BN17 5EJ,50.8095,-0.5418
 east beach cafe,BN17 5GB,50.8026,-0.5327
 Pizza Hut,BN17 5HT,50.8085,-0.5402
 Chopsticks restaurant ,BN17 5HZ,50.8089,-0.5401
@@ -48,9 +52,7 @@ vardar vip club,BN17 5NH,50.8051,-0.5352
 Toast,BN17 5PL,50.8043,-0.5321
 Edge by the Sea,BN17 5TJ,50.8032,-0.5310
 The Fish Factory,BN17 6AU,50.8097,-0.5410
-Burger King,BN17 6LE,50.8205,-0.5262
 McDonald's Restaurant,BN17 7QQ,50.8400,-0.5419
-McDonalds Restaurant,BN17 7QQ,50.8400,-0.5419
 The Brewhouse Project,BN17 7QQ,50.8400,-0.5419
 PEBBLE HOTELS LIMITED,BN18 0AD,50.8566,-0.5805
 Ship & Anchor Pub,BN18 0BJ,50.8266,-0.5770
@@ -58,15 +60,13 @@ Edgcumbe Tea & Coffee,BN18 0DF,50.8261,-0.5922
 the black horse,BN18 0LP,50.8489,-0.6089
 The Spur,BN18 0NE,50.8638,-0.6238
 The Holly Tree,BN18 0PH,50.8458,-0.6207
-Burger King,BN18 0SB,50.8546,-0.6472
-KFC (Fontwell),BN18 0SB,50.8546,-0.6472
+KFC,BN18 0SB,50.8559,-0.6498
 Norfolk Arms Hotel ,BN18 9AB,50.8546,-0.5539
 The Burger Shop Co.,BN18 9AB,50.8558,-0.5534
 Lulamaes,BN18 9AD,50.8541,-0.5534
 Moathouse cafe,BN18 9AD,50.8539,-0.5533
 Cockburn's Tea Rooms & Confectioners Ltd,BN18 9AG,50.8543,-0.5541
 Motte & Bailey Cafe,BN18 9AG,50.8544,-0.5542
-Pizza Express,BN18 9AG,50.8541,-0.5540
 The Red Lion,BN18 9AG,50.8544,-0.5541
 INDIAN ROYAL ,BN18 9AH,50.8545,-0.5533
 La Campania Limited,BN18 9AJ,50.8546,-0.5544
@@ -79,6 +79,7 @@ The Parsons Table,BN18 9DG,50.8542,-0.5552
 Riverside Tearooms,BN18 9LP,50.8973,-0.5425
 The Sportsman Inn,BN18 9NR,50.9114,-0.5221
 WWT Arundel Wetland Centre,BN18 9PB,50.8668,-0.5452
+Beefeater Crossbush,BN18 9PQ,50.8457,-0.5405
 The George At Burpham,BN18 9RR,50.8704,-0.5239
 MYSTIQUE MASALA ,GU28 0AB,50.9869,-0.6088
 basmati indian restaurant,GU28 0AH,50.9862,-0.6102
@@ -98,8 +99,7 @@ The Royal Oak ,GU29 0EP,50.9741,-0.7399
 The Three Horseshoes,GU29 0JY,50.9705,-0.8389
 HAMILTON ARMS - NAVA THAI,GU29 0NZ,50.9932,-0.7781
 The Wheatsheaf Inn,GU29 9BX,50.9859,-0.7391
-Costa Coffee,GU29 9DH,50.9877,-0.7389
-Pizza Express,GU29 9DH,50.9877,-0.7389
+Costa Coffee,GU29 9DJ,50.9870,-0.7389
 Faustino's,GU29 9DJ,50.9879,-0.7382
 The Olive & Vine,GU29 9DJ,50.9879,-0.7382
 Lime and spice,GU29 9DU,50.9897,-0.7377
@@ -135,34 +135,24 @@ Design Vintage,PO18 9HJ,50.8708,-0.8209
 The White Horse,PO18 9HX,50.9265,-0.8225
 Fox & Hounds,PO18 9LL,50.8691,-0.8643
 The Boston Tea Party Group Limited,PO19 1BF,50.8356,-0.7757
-Wildwood,PO19 1DP,50.8332,-0.7800
 fat fig cafe,PO19 1DR,50.8340,-0.7795
-Zizzi,PO19 1DS,50.8349,-0.7793
 Confucius Chinese Restaurant,PO19 1EB,50.8360,-0.7790
 Charlie Harpers,PO19 1ED,50.8364,-0.7740
-Prezzo,PO19 1EE,50.8360,-0.7790
 Buttery Restaurants Ltd,PO19 1EJ,50.8354,-0.7797
-Pizza Express,PO19 1EL,50.8345,-0.7799
 Subway,PO19 1EL,50.8346,-0.7798
 Wagamama,PO19 1EL,50.8345,-0.7799
 The Snack Shack,PO19 1EQ,50.8340,-0.7805
 SANTORINI GREEK & AEGEAN RESTAURANT,PO19 1ES,50.8335,-0.7803
 The Fountain,PO19 1ES,50.8335,-0.7803
 The Vestry,PO19 1ES,50.8335,-0.7803
-Pret A Manger,PO19 1HA,50.8363,-0.7784
-Caffe Nero,PO19 1HL,50.8362,-0.7769
-ASK Italian,PO19 1HX,50.8363,-0.7755
 Crispins Cafe,PO19 1HX,50.8363,-0.7755
 Real Eating Company Ltd,PO19 1JE,50.8360,-0.7753
-Giggling Squid,PO19 1JN,50.8363,-0.7733
 China Royal Restaurant,PO19 1JW,50.8357,-0.7739
 reina kitchen,PO19 1JW,50.8357,-0.7739
+Costa Coffee,PO19 1JX,50.8362,-0.7768
 Starbucks Chichester,PO19 1LB,50.8374,-0.7791
-Starbucks,PO19 1LB,50.8374,-0.7791
 SPIRES BAKERY & COFFEE SHOP,PO19 1LH,50.8382,-0.7796
-Caffe Nero,PO19 1LP,50.8381,-0.7785
 Luckes Cafe,PO19 1LP,50.8381,-0.7784
-Patisserie Valerie,PO19 1LQ,50.8372,-0.7785
 Real Eating Company Ltd,PO19 1LQ,50.8372,-0.7785
 Cafe Paradiso,PO19 1NF,50.8396,-0.7787
 Two Sisters Exclusive Cake Shop and Vintage Tea Room,PO19 1NF,50.8396,-0.7787
@@ -172,8 +162,8 @@ The Hole in the Wall,PO19 1NP,50.8368,-0.7780
 THE GEORGE AND DRAGON INN,PO19 1NQ,50.8397,-0.7783
 The Park Tavern ,PO19 1NS,50.8385,-0.7770
 Little London Cafe,PO19 1PL,50.8369,-0.7758
-J D Wetherspoon,PO19 1QD,50.8367,-0.7794
-Costa Coffee,PO19 1QF,50.8367,-0.7799
+The Dolphin  Anchor Chichester (Wetherspoon),PO19 1QD,50.8369,-0.7800
+Costa Coffee,PO19 1QF,50.8367,-0.7797
 The Duke & Rye,PO19 1QU,50.8370,-0.7816
 Luckes Deli,PO19 1RD,50.8323,-0.7839
 Chichester Inn,PO19 1RP,50.8368,-0.7830
@@ -187,6 +177,7 @@ McDonald's Restaurant,PO19 4WT,50.8425,-0.7561
 Caper and Berry,PO19 6AP,50.8431,-0.7774
 The Bell Inn,PO19 6AT,50.8421,-0.7791
 Elior At University Of Chichester,PO19 6PE,50.8443,-0.7750
+Costa Coffee,PO19 6SE,50.8436,-0.7680
 Flip Out Chichester ,PO19 7BJ,50.8417,-0.7523
 The Eastgate Public House Limited,PO19 7JG,50.8362,-0.7721
 Chichester Park Hotel,PO19 7QL,50.8463,-0.7572
@@ -197,18 +188,15 @@ Lemongrass,PO19 7SJ,50.8368,-0.7729
 MASALA CITY ,PO19 7SJ,50.8368,-0.7729
 nags head,PO19 7SJ,50.8368,-0.7729
 THE WICKHAM ARMS,PO19 7TW,50.8332,-0.7614
-Costa Coffee,PO19 7WT,50.8425,-0.7555
-McDonalds,PO19 7WT,50.8425,-0.7555
-Pizza Hut,PO19 7WT,50.8425,-0.7555
+McDonald's,PO19 7WT,50.8425,-0.7554
 Toy’s flying wok(Chichester)ltd,PO19 8DG,50.8321,-0.7803
 Smith & Western,PO19 8DN,50.8324,-0.7818
-Gourmet Burger Kitchen,PO19 8EL,50.8300,-0.7848
-KFC,PO19 8EL,50.8300,-0.7848
 McDonald's Restaurant,PO19 8EL,50.8300,-0.7848
-McDonalds Restaurant,PO19 8EL,50.8300,-0.7848
-Nando's,PO19 8EL,50.8300,-0.7848
+McDonald's,PO19 8EL,50.8298,-0.7860
+Nando's,PO19 8EL,50.8299,-0.7838
 Taco Bell,PO19 8EL,50.8300,-0.7848
-Tenpin,PO19 8EL,50.8300,-0.7848
+Thyme,PO19 8EL,50.8287,-0.7859
+KFC,PO19 8FH,50.8289,-0.7862
 Muchos nachos,PO19 8HT,50.8312,-0.7664
 Compass Group Staff Canteen,PO19 8TX,50.8326,-0.7917
 Spade and Fork Cafe Ltd,PO20 1EG,50.8269,-0.7382
@@ -227,10 +215,9 @@ Chichester Yacht Club Limited,PO20 7EJ,50.8027,-0.8235
 The Boat House Cafe,PO20 7EJ,50.8031,-0.8240
 The Royal Oak,PO21 5JF,50.8006,-0.6935
 Passage To India (WS) Ltd,PO22 0HB,50.8321,-0.6406
-Ch&co Catering Group Ltd.,PO22 9NQ,50.8011,-0.6637
-Mcdonalds,PO22 9SD,50.8031,-0.6663
+KFC,PO22 9SA,50.8036,-0.6675
+McDonald's,PO22 9SA,50.8035,-0.6663
 McDonald's Restaurant,PO22 9SE,50.8034,-0.6645
-KFC,PO22 9TR,50.8031,-0.6685
 so india  pulborough,RH20 1BG,50.9699,-0.4986
 Pulborough Garden Centre,RH20 1DS,50.9554,-0.5317
 The Swan,RH20 1EL,50.9582,-0.5626

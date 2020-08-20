@@ -1,7 +1,6 @@
 name,postcode,lat,lon
 Le Petit Canard,DT2 0BE,50.7775,-2.5725
 The Fox and Hounds Inn,DT2 0JH,50.7947,-2.5794
-FULLERS EARTH,DT2 0JL,50.7930,-2.5788
 Summer Lodge Hotel,DT2 0JR,50.8383,-2.6068
 The Acorn Inn,DT2 0JW,50.8386,-2.6064
 WHITE HORSE INN,DT2 9AT,50.7082,-2.6404
@@ -21,6 +20,7 @@ Subtropical Gardens,DT3 4LA,50.6623,-2.6295
 Rakhang Thai Cuisine,DT6 3JX,50.7335,-2.7560
 Olive Tree Restaurant,DT6 3LB,50.7332,-2.7537
 Taj Mahal Bridport,DT6 3LF,50.7332,-2.7571
+The Greyhound Bridport (Wetherspoon),DT6 3LF,50.7335,-2.7579
 THE LORD NELSON,DT6 3LL,50.7329,-2.7536
 The Green Yard Cafe ,DT6 3LY,50.7338,-2.7543
 Soulshine Cafe,DT6 3NN,50.7315,-2.7583
@@ -28,7 +28,7 @@ The Sundorbon,DT6 3NN,50.7315,-2.7583
 Beach and Barnicott,DT6 3NQ,50.7329,-2.7585
 The Market House Inn,DT6 3QN,50.7340,-2.7593
 The Ropemakers,DT6 3QP,50.7337,-2.7598
-Costa Coffee,DT6 3QW,50.7342,-2.7609
+Costa Coffee,DT6 3QW,50.7341,-2.7602
 Jurassic Coast Coffee Ltd t/a Costa Coffee Ltd Bridport,DT6 3QW,50.7342,-2.7609
 Red Brick Cafe,DT6 3RR,50.7321,-2.7618
  Marquis of Lorne,DT6 3SY,50.7581,-2.6855
@@ -39,7 +39,6 @@ Ivy House Kitchen at Groves Nurseries,DT6 4BA,50.7228,-2.7574
 Cafe Sladers,DT6 4EL,50.7116,-2.7599
 Café Sladers,DT6 4EL,50.7116,-2.7599
 Bridport Arms Hotel,DT6 4EN,50.7104,-2.7614
-The Cornish Bakery,DT6 4EN,50.7104,-2.7614
 WATCH HOUSE CAFE,DT6 4EN,50.7104,-2.7614
 The station kitchen,DT6 4EW,50.7108,-2.7603
 seagulls restaurant,DT6 4EW,50.7108,-2.7603
@@ -69,10 +68,9 @@ The Lyme Bay Cafe & Bar,DT7 3QA,50.7250,-2.9327
 Rock Point Inn,DT7 3QD,50.7245,-2.9339
 The Bell Cliff Restaurant Ltd,DT7 3QD,50.7245,-2.9339
 Goose and Badger,DT7 3QE,50.7247,-2.9354
-The Cornish Bakery,DT7 3QE,50.7247,-2.9354
 The Volunteer Inn,DT7 3QE,50.7247,-2.9354
 Tom's - in the pop up kitchen Lyme Regis,DT7 3QE,50.7247,-2.9354
-COSTA COFFEE,DT7 3QF,50.7251,-2.9350
+Costa Coffee,DT7 3QF,50.7251,-2.9354
 Jurassic Coast Coffee Ltd t/a Costa Coffee Lyme Regis,DT7 3QF,50.7250,-2.9350
 Pizza Steak House,DT7 3QP,50.7249,-2.9339
 Cilla & Camilla Cafe,DT8 3AU,50.8087,-2.7390

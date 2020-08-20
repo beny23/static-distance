@@ -9,7 +9,6 @@ Bom Bom Patisserie Canal House,LE11 1AW,52.7773,-1.2144
 Caravelli italian restaurant,LE11 1BT,52.7745,-1.2027
 Bamboo African & Carribean Restaurant,LE11 1ER,52.7747,-1.2009
 Deli Bites Cafe,LE11 1EU,52.7749,-1.2011
-Starbucks,LE11 1FS,52.7722,-1.2038
 Boat Inn,LE11 1JN,52.7785,-1.2027
 Baxter's Tearoom and Winebar,LE11 1TG,52.7725,-1.2050
 Beacon Bingo Loughborough,LE11 1TG,52.7725,-1.2050
@@ -28,8 +27,8 @@ LG Thai Derm Restaurant,LE11 2AQ,52.7663,-1.1991
 CINNAMON RESTAURANT,LE11 2BX,52.7600,-1.2093
 NOODLE BAR,LE11 2DS,52.7682,-1.2078
 subway,LE11 2FF,52.7542,-1.1983
+McDonald's,LE11 2HJ,52.7591,-1.2058
 McDonalds Restaurant ,LE11 2HJ,52.7586,-1.2068
-McDonalds,LE11 2HJ,52.7586,-1.2068
 Cactus Cafe ,LE11 2PY,52.7715,-1.2049
 FERNANDOS GRILLHOUSE,LE11 2PY,52.7715,-1.2049
 LA FAVORTA,LE11 2PY,52.7715,-1.2049
@@ -44,10 +43,10 @@ Subway,LE11 3BE,52.7719,-1.2138
 Dolcino Loughborough Limited,LE11 3DL,52.7703,-1.2067
 Devonshire Fisheries,LE11 3DW,52.7700,-1.2075
 The Cheesecake Shop Loughborough,LE11 3DW,52.7697,-1.2077
-Caffe Nero,LE11 3EA,52.7717,-1.2068
-Costa Coffee,LE11 3EA,52.7717,-1.2068
+Costa Coffee,LE11 3EA,52.7711,-1.2069
 Fork in chips,LE11 3EA,52.7721,-1.2065
 German Doner Kebab Loughborough,LE11 3EB,52.7718,-1.2061
+McDonald's,LE11 3EB,52.7722,-1.2059
 McDonalds Restaurant ,LE11 3EB,52.7717,-1.2061
 Subway,LE11 3EB,52.7717,-1.2061
 Teas and C's coffee shop,LE11 3EB,52.7715,-1.2061
@@ -58,6 +57,7 @@ Cafe Ambience,LE11 3ER,52.7718,-1.2089
 Muzzy's Turquoise Cafe,LE11 3ER,52.7717,-1.2085
 Party Pieces Coffee House,LE11 3ER,52.7717,-1.2085
 yakii express,LE11 3ER,52.7717,-1.2084
+The Moon  Bell Loughborough (Wetherspoon),LE11 3HA,52.7692,-1.2077
 The blacksmiths ,LE11 3HB,52.7690,-1.2075
 Browns Lane Bar & Restaurant ,LE11 3HE,52.7683,-1.2095
 Charnwood Service Station,LE11 3QU,52.7610,-1.2585
@@ -67,6 +67,7 @@ Cino cafe,LE11 3XA,52.7718,-1.2074
 Tylers Department Store,LE11 3XA,52.7718,-1.2074
 Longcliffe Golf Club,LE11 3YA,52.7522,-1.2551
 The Priory,LE11 3YD,52.7520,-1.2481
+McDonald's,LE11 4UG,52.7808,-1.2282
 Peter  and that's enough,LE11 5AA,52.7721,-1.2093
 The Griffin,LE11 5AA,52.7721,-1.2094
 Charnwood Golf & Leisure Complex,LE11 5AD,52.7855,-1.2390
@@ -75,15 +76,16 @@ Slider Town,LE11 5AY,52.7727,-1.2076
 Grab and go,LE11 5BE,52.7734,-1.2089
 Pizza Hut,LE11 5BE,52.7733,-1.2094
 Swan In The Rushes,LE11 5BE,52.7733,-1.2094
+The Amber Rooms Loughborough (Wetherspoon),LE11 5BE,52.7737,-1.2094
 MUGAL E SHAHI,LE11 5BG,52.7734,-1.2087
 Indian ocean,LE11 5BJ,52.7725,-1.2081
 SUNDAES GELATO,LE11 5BJ,52.7722,-1.2068
 2 Monkeys Cafe,LE11 5BL,52.7726,-1.2077
 The Basin Restaurant and Bar,LE11 5BX,52.7754,-1.2134
 Doorstep Desserts,LE11 5DF,52.7746,-1.2239
-Pizza Hut Restaurant,LE11 5HG,52.7802,-1.2242
 Royal Voluntary Service,LE11 5JY,52.7732,-1.2259
-KFC,LE11 5PH,52.7730,-1.2138
+KFC,LE11 5PF,52.7737,-1.2128
+Thyme,LE11 9SA,52.7685,-1.2054
 The Greyhound,LE12 5AG,52.7855,-1.1251
 THE ROYAL OAK,LE12 5DB,52.8036,-1.2833
 The Falcon Inn,LE12 5DG,52.8070,-1.2918
@@ -94,7 +96,6 @@ the anchor inn,LE12 5JB,52.7919,-1.2536
 Richard and Inger Mee,LE12 5LL,52.7943,-1.2628
 NICAL LTD,LE12 5PE,52.8232,-1.2536
 The Star,LE12 5RQ,52.8322,-1.2360
-Everyman Driving Experience,LE12 5SQ,52.7883,-1.1431
 Cafe  Mash,LE12 5TQ,52.7870,-1.1004
 HEAT INDIAN RESTAURANT LIMITED,LE12 6JG,52.8341,-1.1771
 Three Horseshoes East Leake,LE12 6PB,52.8291,-1.1834
@@ -143,10 +144,9 @@ Quorn Lodge hotel,LE13 0HR,52.7670,-0.8927
 Wildfig catering,LE13 0PB,52.7703,-0.8919
 La Perla Restaurant ,LE13 0PP,52.7642,-0.8880
 New Apurba ,LE13 0PP,52.7645,-0.8890
-Atalian Servest Group Staff Canteen At Brooksby Foods,LE13 0RG,52.7517,-0.9107
 Subway ,LE13 0TR,52.7651,-0.8883
+The Kettleby Cross Melton Mowbray (Wetherspoon),LE13 0UJ,52.7657,-0.8893
 Cafe Smiles,LE13 1JY,52.7693,-0.8881
-KFC,LE13 1JY,52.7692,-0.8882
 The Market Tavern,LE13 1JY,52.7692,-0.8882
 AMICI,LE13 1NN,52.7658,-0.8883
 All things nice cafe,LE13 1NN,52.7657,-0.8882
@@ -160,17 +160,13 @@ The Crown Inn,LE14 3LF,52.8082,-1.0053
 J & L Sysonby Holdings Limited,LE14 3QU,52.7645,-0.9184
 The Empress Of India ,LE14 3RZ,52.7642,-0.9483
 NAGS HEAD,LE14 4BN,52.8721,-0.8958
-KFC,LE4 3LH,52.6861,-1.1282
+KFC,LE4 3BT,52.6904,-1.1271
 Dining room restaurant ,LE4 4GL,52.6814,-1.1174
 the cafe on the corner leicester limited ,LE4 4NB,52.6790,-1.1232
 R Treats Limited ,LE4 4NG,52.6805,-1.1239
 Generous raj,LE4 8DS,52.6795,-1.0976
 The Harrow Inn,LE4 8EB,52.6757,-1.1016
-Dunelm,LE4 8GP,52.6840,-1.0895
 McDonald's Restaurants Ltd,LE4 8GP,52.6840,-1.0895
-Pizza Hut Restaurant,LE4 8GP,52.6840,-1.0895
-McDonalds Restaurants Ltd,LE4 8GS,52.6839,-1.0848
-Starbucks,LE4 8GS,52.6839,-1.0848
 The Bradgate,LE6 0AE,52.6852,-1.2341
 THE GREY LADY,LE6 0AH,52.6974,-1.2323
 Jade tearoom,LE6 0HB,52.6821,-1.2259
@@ -193,7 +189,7 @@ The New World Cafe,LE7 2HB,52.6971,-1.0760
 subway,LE7 2HD,52.6986,-1.0741
 Mumbai Wok Limited,LE7 2JS,52.6948,-1.0788
 Spice of India,LE7 2JS,52.6948,-1.0789
-Costa Coffee,LE7 2JT,52.6979,-1.0740
+Costa Coffee,LE7 2JT,52.6988,-1.0732
 Costa Syston,LE7 2JT,52.6979,-1.0741
 Gurkha Embassy,LE7 2JT,52.6979,-1.0740
 MOINA SYSTON T/A TARAJ PALACE,LE7 2JT,52.6979,-1.0741
@@ -210,7 +206,6 @@ Clara's Cafe,LE7 7BW,52.6783,-1.1836
 The Pumping Station,LE7 7GB,52.6977,-1.1877
 The Bradgate Arms,LE7 7HG,52.6941,-1.1780
 Wheatsheaf Inn,LE7 7JN,52.6951,-1.1631
-Miller & Carter Rothley,LE7 7NJ,52.7106,-1.1273
 The Blue Bell,LE7 7NW,52.7056,-1.1412
 Deli 1880,LE7 7PS,52.7106,-1.1369
 Granite's Coffee Shop,LE7 7UE,52.7229,-1.1567
@@ -221,7 +216,7 @@ KFC,NG10 1HD,52.8978,-1.2689
 The Cods Scallops,NG10 1JE,52.8974,-1.2710
 Mount Gurkha Spice,NG10 1JF,52.8963,-1.2720
 AL NASEEB RESTAURANT,NG10 1JL,52.8978,-1.2713
-Costa Coffee,NG10 1JL,52.8978,-1.2713
+Costa Coffee,NG10 1JL,52.8978,-1.2711
 Costa Long Eaton,NG10 1JL,52.8978,-1.2713
 Copper Cogs,NG10 1JQ,52.8992,-1.2717
 Trent Lock Golf & Country Club,NG10 2FY,52.8767,-1.2735

@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 Dyke golf club,BN1 8YJ,50.8727,-0.2005
-KFC,BN11 1BE,50.8130,-0.3705
+KFC,BN11 1BE,50.8131,-0.3703
+The Three Fishes Worthing (Wetherspoon),BN11 1BE,50.8133,-0.3707
 Cafe-Bar Orange,BN11 1BG,50.8144,-0.3710
 KASPAS ,BN11 1BN,50.8149,-0.3710
 CORNER HOUSE PUB & GARDEN,BN11 1DJ,50.8155,-0.3678
@@ -24,13 +25,15 @@ cucinetta,BN11 1QN,50.8110,-0.3727
 Shorely Scrumptious,BN11 1RL,50.8107,-0.3762
 The Dining Room Worthing,BN11 1RL,50.8107,-0.3762
 McDonald's Restaurant,BN11 1SX,50.8106,-0.3710
-McDonalds,BN11 1SX,50.8106,-0.3710
+McDonald's,BN11 1SX,50.8106,-0.3711
 THE COFFEE HOUSE,BN11 1SY,50.8114,-0.3708
 Enzos Itlaian Restaurant ,BN11 1TL,50.8108,-0.3760
 Aunty Bunny's Hut Ltd,BN11 1YJ,50.8114,-0.3713
 Palm court pavilion limited,BN11 2DB,50.8151,-0.3663
+Costa Coffee,BN11 2DH,50.8165,-0.3635
 Chipwick ,BN11 2EN,50.8124,-0.3597
 Cocks kitchen,BN11 2EN,50.8124,-0.3597
+Costa Coffee,BN11 2HP,50.8160,-0.3398
 Mfg- Brooklands,BN11 2HP,50.8162,-0.3395
 The Vegan Bakery Company,BN11 2NN,50.8167,-0.3517
 Vals Cafe,BN11 2NW,50.8169,-0.3516
@@ -38,10 +41,7 @@ Sunny restaurant ,BN11 2QX,50.8146,-0.3513
 Rose Petal Cake Company,BN11 2QY,50.8161,-0.3516
 Delightful Desserts,BN11 3AA,50.8110,-0.3696
 HoneyBee Donuts,BN11 3AA,50.8104,-0.3697
-KFC,BN11 3AA,50.8110,-0.3696
-Starbucks,BN11 3AA,50.8110,-0.3696
 Cafe Vita,BN11 3AL,50.8100,-0.3702
-Caffe Nero,BN11 3AL,50.8100,-0.3702
 Toy’s flying wok(Worthing)ltd,BN11 3AL,50.8100,-0.3702
 Esquires Coffee Worthing,BN11 3AW,50.8110,-0.3703
 Issa Sushi,BN11 3AW,50.8110,-0.3703
@@ -49,6 +49,7 @@ Munch Coffee Bar and Kitchen,BN11 3AY,50.8100,-0.3705
 burger mee,BN11 3AY,50.8100,-0.3705
 Bungaroosh,BN11 3BA,50.8099,-0.3706
 NRG Cavern,BN11 3BA,50.8099,-0.3706
+Costa Coffee,BN11 3BG,50.8101,-0.3721
 S R SANDWICHES LTD,BN11 3BG,50.8098,-0.3720
 Wine & Reason,BN11 3BG,50.8098,-0.3720
 poppins cafe and restaurant,BN11 3BP,50.8099,-0.3756
@@ -58,7 +59,6 @@ Mahaan Restaurant,BN11 3DA,50.8098,-0.3781
 Bites cafe and kitchen ,BN11 3DF,50.8119,-0.3693
 Jonny’s ,BN11 3DF,50.8119,-0.3689
 The Continental,BN11 3DF,50.8119,-0.3693
-ASK Italian,BN11 3DJ,50.8117,-0.3682
 Pitch Restaurant,BN11 3DJ,50.8117,-0.3682
 The Grape Escape,BN11 3DJ,50.8116,-0.3688
 Giuseppes Restaurant ,BN11 3DP,50.8120,-0.3685
@@ -75,12 +75,10 @@ Siam Thai Cuisine,BN11 3EF,50.8122,-0.3659
 Spices Worthing Ltd,BN11 3EF,50.8122,-0.3659
 Rocking Horse ,BN11 3EG,50.8121,-0.3671
 Fioridilatte Worthing ltd,BN11 3EZ,50.8116,-0.3683
-Pizza Express,BN11 3EZ,50.8116,-0.3683
 Coffee Me,BN11 3HF,50.8102,-0.3753
 Pizzaface Worthing Ltd,BN11 3HG,50.8101,-0.3771
 Floral Cafe ,BN11 3JJ,50.8097,-0.3796
 Om Taste Of Nepal,BN11 3JN,50.8099,-0.3818
-Buzz Bingo,BN11 3JS,50.8100,-0.3797
 Ami Bistro,BN11 3JX,50.8098,-0.3835
 Brunswick and Thorn Limited,BN11 3ND,50.8091,-0.3808
 CrabShack,BN11 3PN,50.8107,-0.3644
@@ -95,6 +93,7 @@ The Lido Restaurant,BN11 3PX,50.8091,-0.3696
 Boutique restaurant ,BN11 3QA,50.8097,-0.3712
 Harry Ramsden's,BN11 3QA,50.8097,-0.3708
 view cafe bar,BN11 3QB,50.8092,-0.3748
+Thyme,BN11 3QJ,50.8082,-0.3813
 The Burlington Hotel (Worthing) Limited,BN11 3QL,50.8082,-0.3821
 Istanbul Cafe,BN11 3RG,50.8095,-0.3848
 Efesim restaurant ltd,BN11 4DP,50.8171,-0.3784
@@ -105,8 +104,7 @@ DELICE PERI PERI GORING LTD,BN12 4AD,50.8136,-0.4029
 LEMON GRASS (GORING) LIMITED,BN12 4AJ,50.8138,-0.4015
 Pizza Hut,BN12 4AJ,50.8140,-0.4014
 The Lazybrunch Kitchen ,BN12 4AJ,50.8140,-0.4014
-Costa Coffee,BN12 4AR,50.8131,-0.4032
-KFC,BN12 4NX,50.8120,-0.4223
+Costa Coffee,BN12 4AR,50.8132,-0.4030
 Mulakat Indian Dining,BN12 4PE,50.8125,-0.4213
 The Verandah ,BN12 4PE,50.8125,-0.4213
 Tides Restaurant,BN12 4UU,50.8146,-0.4308
@@ -118,7 +116,7 @@ Highdown Garden Centre Limited,BN12 6PW,50.8200,-0.4586
 THE HENTY ARMS,BN12 6QY,50.8172,-0.4460
 The Park View,BN13 2JR,50.8356,-0.4121
 Subway,BN13 3FG,50.8321,-0.4254
-Elior Uk,BN13 3NX,50.8241,-0.4263
+Costa Coffee,BN13 3PB,50.8316,-0.4253
 The Coach & Horses,BN13 3UA,50.8399,-0.4246
 coach and horses,BN13 3UA,50.8399,-0.4246
 The Fox at Patching,BN13 3UJ,50.8411,-0.4702
@@ -141,12 +139,11 @@ The Old Bakehouse,BN14 7NN,50.8254,-0.3934
 Zeera Bangladeshi Cuisine,BN14 8AG,50.8217,-0.3727
 unclesams ,BN14 8AG,50.8216,-0.3727
 Rens Kitchen,BN14 8PG,50.8294,-0.3657
-Costa Coffee,BN14 9BT,50.8282,-0.3745
+Costa Coffee,BN14 9BT,50.8282,-0.3746
 NOORIS INDIAN CUISINE,BN14 9BT,50.8284,-0.3749
 GIORGIO RISTORANTE,BN14 9BY,50.8289,-0.3755
-Starbucks,BN14 9BY,50.8288,-0.3755
 KFC Broadwater,BN14 9DB,50.8293,-0.3751
-KFC,BN14 9DB,50.8293,-0.3751
+KFC,BN14 9DB,50.8293,-0.3752
 Muldoons Broadwater,BN14 9DB,50.8293,-0.3751
 The Cricketers PH,BN14 9DE,50.8297,-0.3764
 Picnic Cafe,BN14 9JH,50.8340,-0.3678
@@ -156,12 +153,12 @@ The gardeners arms,BN15 0AR,50.8346,-0.3541
 Hangtight limited TA Prithi Raj,BN15 8AS,50.8229,-0.3237
 Meze meze lancing ltd,BN15 8AU,50.8221,-0.3245
 Perch On Lancing Beach,BN15 8RA,50.8206,-0.3242
-Pizza Hut,BN15 9AB,50.8279,-0.3223
 Naaz,BN15 9AE,50.8274,-0.3223
 Crabtree Inn,BN15 9NQ,50.8324,-0.3291
 Uncle Sams,BN15 9PJ,50.8321,-0.3219
 Bengal tandoori ,BN16 1AF,50.8167,-0.4770
 Bengal,BN16 1AF,50.8167,-0.4770
+Whitbread Inns The Roundstone,BN16 1EB,50.8177,-0.4758
 Ristorante al mare,BN16 1JJ,50.8110,-0.4812
 Masala lounge ,BN16 1JN,50.8102,-0.4805
 Penang Village,BN16 1NN,50.8055,-0.4818
@@ -170,14 +167,16 @@ Tudor Tavern,BN16 1NN,50.8050,-0.4818
 Seaview Hotel,BN16 1PD,50.8039,-0.4806
 Broadmark cafe,BN16 2NE,50.8100,-0.5049
 KFC,BN16 2NE,50.8102,-0.5048
+KFC,BN16 2NN,50.8102,-0.5048
 Tandoori Nights,BN16 2RD,50.8096,-0.5108
 The Honeypot Cafe & Kitchen,BN16 2RD,50.8099,-0.5108
 CAFE OASIS,BN16 3DA,50.8110,-0.5059
 La cucina ,BN16 3DE,50.8107,-0.5066
+Costa Coffee,BN16 3DN,50.8101,-0.5058
 Monsoon,BN16 3DR,50.8102,-0.5075
+Costa Coffee,BN16 3FH,50.8194,-0.5047
 The Windmill Inn (Rustington) Ltd,BN16 3JN,50.8167,-0.5021
 Lemongrass Thai Restaurant,BN16 3NR,50.8111,-0.5107
-Baxterstorey @ Sainsbury's Cafe,BN16 3RT,50.8176,-0.4981
 Angmering Manor,BN16 4AG,50.8285,-0.4807
 The Spotted Cow,BN16 4AW,50.8284,-0.4747
 Haskins Roundstone Garden Centre ,BN16 4BD,50.8193,-0.4733
@@ -189,6 +188,7 @@ GustoLab,BN17 5AG,50.8094,-0.5403
 Arcade Lounge ,BN17 5AP,50.8086,-0.5405
 Harbour Lights Cafe,BN17 5AW,50.8081,-0.5452
 PICCOLA ITALIA,BN17 5BG,50.8090,-0.5439
+The George Inn Littlehampton (Wetherspoon),BN17 5BG,50.8092,-0.5437
 Wimpy LIttlehampton,BN17 5BG,50.8093,-0.5437
 The Steam Packet Inn,BN17 5BZ,50.8104,-0.5492
 The Arun View Inn,BN17 5DD,50.8106,-0.5500
@@ -196,7 +196,7 @@ Ritas Cafe,BN17 5DE,50.8088,-0.5502
 WEST BEACH CAFE,BN17 5DL,50.8010,-0.5425
 The Boathouse in The Marina ,BN17 5DS,50.8102,-0.5556
 BadSaint Restaurant,BN17 5EA,50.8093,-0.5422
-Costa Coffee,BN17 5EJ,50.8096,-0.5417
+Costa Coffee,BN17 5EJ,50.8095,-0.5418
 east beach cafe,BN17 5GB,50.8026,-0.5327
 Pizza Hut,BN17 5HT,50.8085,-0.5402
 Chopsticks restaurant ,BN17 5HZ,50.8089,-0.5401
@@ -211,9 +211,7 @@ vardar vip club,BN17 5NH,50.8051,-0.5352
 Toast,BN17 5PL,50.8043,-0.5321
 Edge by the Sea,BN17 5TJ,50.8032,-0.5310
 The Fish Factory,BN17 6AU,50.8097,-0.5410
-Burger King,BN17 6LE,50.8205,-0.5262
 McDonald's Restaurant,BN17 7QQ,50.8400,-0.5419
-McDonalds Restaurant,BN17 7QQ,50.8400,-0.5419
 The Brewhouse Project,BN17 7QQ,50.8400,-0.5419
 PEBBLE HOTELS LIMITED,BN18 0AD,50.8566,-0.5805
 Ship & Anchor Pub,BN18 0BJ,50.8266,-0.5770
@@ -225,7 +223,6 @@ Lulamaes,BN18 9AD,50.8541,-0.5534
 Moathouse cafe,BN18 9AD,50.8539,-0.5533
 Cockburn's Tea Rooms & Confectioners Ltd,BN18 9AG,50.8543,-0.5541
 Motte & Bailey Cafe,BN18 9AG,50.8544,-0.5542
-Pizza Express,BN18 9AG,50.8541,-0.5540
 The Red Lion,BN18 9AG,50.8544,-0.5541
 INDIAN ROYAL ,BN18 9AH,50.8545,-0.5533
 La Campania Limited,BN18 9AJ,50.8546,-0.5544
@@ -238,11 +235,12 @@ The Parsons Table,BN18 9DG,50.8542,-0.5552
 Riverside Tearooms,BN18 9LP,50.8973,-0.5425
 The Sportsman Inn,BN18 9NR,50.9114,-0.5221
 WWT Arundel Wetland Centre,BN18 9PB,50.8668,-0.5452
+Beefeater Crossbush,BN18 9PQ,50.8457,-0.5405
 The George At Burpham,BN18 9RR,50.8704,-0.5239
 The Gather Inn,BN3 4LW,50.8285,-0.2008
 17 Grams,BN3 5TD,50.8344,-0.2063
 Colosseo Hove Limited,BN3 5TD,50.8344,-0.2063
-KFC,BN3 5TD,50.8344,-0.2063
+KFC,BN3 5TE,50.8306,-0.2086
 Cafe an-an,BN3 7GB,50.8371,-0.2045
 West Hove Golf Club Ltd,BN3 8EX,50.8579,-0.2067
 THE BLUE ANCHOR,BN41 1DF,50.8310,-0.2085
@@ -281,12 +279,11 @@ Toast by the Coast,BN43 5ZE,50.8322,-0.2746
 The Tides Pizzeria,BN43 6BF,50.8415,-0.2603
 CAFE ARTISAN,BN43 6DA,50.8329,-0.2731
 The Hut,BN43 6PA,50.8337,-0.2679
-Dunelm Mill,BN43 6PW,50.8334,-0.2653
 McDonald's Restaurant,BN43 6PW,50.8334,-0.2653
-McDonalds,BN43 6PW,50.8334,-0.2653
+McDonald's,BN43 6PW,50.8333,-0.2643
 cythereas taverna,BN43 6RE,50.8322,-0.2687
+McDonald's,BN43 6TD,50.8451,-0.2487
 McDonalds Holmbush Centre,BN43 6TD,50.8421,-0.2519
-McDonalds,BN43 6TD,50.8421,-0.2519
 The Fountain Ashurst,BN44 3AP,50.9116,-0.4575
 Springwells,BN44 3GG,50.8874,-0.3267
 THE KINGS HEAD,BN44 3HZ,50.8824,-0.3058
@@ -338,7 +335,7 @@ the windmill inn,RH13 8EJ,50.9796,-0.3016
 The George And Dragon Pub,RH13 8GE,50.9992,-0.3764
 The Partridge,RH13 8JS,50.9604,-0.3085
 The Green Man ,RH13 8JT,50.9664,-0.3103
-McDonalds Restaurant,RH13 8LW,50.9918,-0.3412
+McDonald's,RH13 8LW,50.9917,-0.3411
 McDonald’s Restaurant,RH13 8LW,50.9918,-0.3412
 The Orchard Restaurant,RH13 8LY,50.9901,-0.3110
 Camelia Botnar Homes & Gardens,RH13 8NA,50.9859,-0.3033
@@ -385,4 +382,4 @@ Joanna's Boutique Tearoom,RH20 4DU,50.9175,-0.4529
 Cottage tandoori,RH20 4DZ,50.9180,-0.4564
 Golden Willow Restaurant ,RH20 4HJ,50.9197,-0.4639
 The Old Forge Restaurant,RH20 4LA,50.9172,-0.4547
-Costa Coffee,RH20 4NQ,50.9182,-0.4520
+Costa Coffee,RH20 4NQ,50.9184,-0.4519

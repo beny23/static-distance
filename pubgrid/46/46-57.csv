@@ -1,27 +1,28 @@
 name,postcode,lat,lon
+Breakfast Room,CV21 1HL,52.3905,-1.2556
 Barley Mow,CV21 1HW,52.3911,-1.2830
-Costa Coffee,CV21 1RW,52.3852,-1.2592
+Costa Coffee,CV21 1RG,52.3874,-1.2566
+Costa Coffee,CV21 1RW,52.3853,-1.2606
 KFC - Junction One Retail Pk Rugby,CV21 1RW,52.3852,-1.2604
-KFC Drive Thru,CV21 1RW,52.3852,-1.2592
 McDonald's Restaurant,CV21 1RW,52.3852,-1.2592
+McDonald's,CV21 1RW,52.3857,-1.2611
 Subway Junction 1 Retail Park,CV21 1RW,52.3852,-1.2589
-Nando's,CV21 1SR,52.3883,-1.2605
+Costa Coffee,CV21 1SR,52.3888,-1.2589
+Nando's,CV21 1SR,52.3880,-1.2588
 starbucks,CV21 1SR,52.3886,-1.2599
 Dilruba,CV21 3HQ,52.3764,-1.2556
-Butlers Leap Marstons PLC,CV21 3TX,52.3772,-1.2378
 Stobart Truckstops LTD,CV23 0AE,52.3819,-1.1888
 the stag and pheasant,CV23 0DY,52.3988,-1.2207
 The Old Lion ,CV23 0HQ,52.4099,-1.2985
 The Barn at Willey,CV23 0SL,52.4635,-1.2909
 FRESH IN FOOD LTD,CV23 0UX,52.4018,-1.2452
-Baxterstorey Ltd -Amazon BHX5,CV23 0XF,52.4044,-1.2481
+Brewers Fayre Central Park,CV23 0WE,52.4021,-1.2456
 The Bricklayers,LE10 3PP,52.5214,-1.2932
 Aldwinckles Coffee House Ltd,LE16 7AA,52.4792,-0.9217
-Zizzi,LE16 7AF,52.4796,-0.9225
 Gallones Market Harborough,LE16 7AG,52.4785,-0.9208
 Insomnia Market Harborough Ltd.,LE16 7AG,52.4785,-0.9208
+Costa Coffee,LE16 7DR,52.4774,-0.9188
 KFC - Market Harborough ,LE16 7DR,52.4774,-0.9188
-Pizza Express,LE16 7DR,52.4774,-0.9188
 Han Chinese Restaurant,LE16 7DS,52.4782,-0.9184
 Starbucks,LE16 7DS,52.4782,-0.9184
 simply han ltd t/as taste dot social,LE16 7DS,52.4782,-0.9184
@@ -34,18 +35,18 @@ SWEET NAGA CHILLI LTD,LE16 7DU,52.4779,-0.9177
 The Shoulder of Mutton,LE16 7EU,52.4922,-0.9039
 WELTONS,LE16 7EU,52.4922,-0.9039
 McDonald's Restaurant,LE16 7FD,52.5113,-0.9427
-McDonalds Restaurant Ltd,LE16 7FD,52.5113,-0.9427
+McDonald's,LE16 7FD,52.5110,-0.9415
+Table Table Langton Inn,LE16 7FD,52.5117,-0.9418
 The Red Lion Great Bowden,LE16 7HB,52.4924,-0.9060
 Appleby's,LE16 7LT,52.4783,-0.9202
 Casa Nostra Restaurant,LE16 7LT,52.4783,-0.9202
 Sweet Pea's Tea Room,LE16 7LT,52.4783,-0.9202
+The Sugar Loaf Market Harborough (Wetherspoon),LE16 7NJ,52.4790,-0.9224
 The Three Swans Hotel,LE16 7NJ,52.4785,-0.9223
-Wildwood,LE16 7NJ,52.4785,-0.9223
 Milo's Cafe,LE16 7NL,52.4800,-0.9236
 Rocksalt Bistro,LE16 7NL,52.4800,-0.9236
 53 The Square ltd (T/A Square Cafe Bar,LE16 7PA,52.4779,-0.9204
 Rio Bravo,LE16 7PA,52.4779,-0.9204
-Caffe Nero,LE16 7PE,52.4773,-0.9211
 Foxton Locks Inn,LE16 7RA,52.5011,-0.9824
 The Black Horse,LE16 7RD,52.5016,-0.9720
 THE BELL INN,LE16 7RU,52.5038,-0.9964
@@ -69,7 +70,7 @@ The Royalist,LE16 9PL,52.4702,-0.9256
 Coach and Horses Lubenham,LE16 9TF,52.4793,-0.9610
 RED LION,LE16 9UD,52.4383,-1.0018
 E&R Tearoom Ltd,LE17 4AD,52.4551,-1.2003
-Costa Coffee,LE17 4AL,52.4556,-1.2019
+Costa Coffee,LE17 4AL,52.4556,-1.2016
 Costa Lutterworth,LE17 4AL,52.4556,-1.2019
 The New Sunar Gow,LE17 4AP,52.4556,-1.1978
 CHEIKHO'S RESTAURANT,LE17 4AW,52.4557,-1.2006
@@ -101,24 +102,21 @@ The White Hart,LE17 6DN,52.4305,-1.1122
 The White Lion,LE17 6EP,52.4465,-1.0937
 The Chandlers,LE17 6PL,52.5114,-1.0822
 COSTA COFFEE,LE18 1AD,52.5855,-1.1047
+Costa Coffee,LE18 1AD,52.5856,-1.1043
 Mr Beanbags Cafe,LE18 1AD,52.5855,-1.1047
 The Cheesecake Shop Wigston,LE18 1DR,52.5870,-1.1062
+The William Wygston Wigston (Wetherspoon),LE18 1DR,52.5877,-1.1056
 Bella Italia ,LE18 1JW,52.5967,-1.1119
 OZ Leicester LTD ,LE18 1JX,52.5963,-1.1126
 Mrs T's Pantry,LE18 1NR,52.5870,-1.1057
 SAABS GRILL,LE18 1NR,52.5869,-1.1057
-McDonalds Restaurants Ltd,LE18 1PD,52.5886,-1.1035
+McDonald's,LE18 1PD,52.5886,-1.1034
 Subway,LE18 2AJ,52.5847,-1.1067
-Atalian Servest Food Co.,LE18 2FL,52.5873,-1.1248
 TNS Catering_Cromwell Tools,LE18 2FS,52.5848,-1.1234
 Cuisine of India,LE18 3QW,52.5834,-1.1000
 Bhansha enterprise limited (Gorkha8848),LE18 4PA,52.5796,-1.1343
 Tree house cafe,LE18 4PA,52.5796,-1.1343
-Costa Coffee,LE18 4PH,52.5829,-1.1166
-Baxterstorey Ltd At National Distribution Centre,LE19 1SN,52.5989,-1.1914
-Baxterstorey Ltd At Centrica Spinneyside,LE19 1SY,52.5959,-1.1864
-Pizza Hut Restaurant,LE19 1WW,52.5980,-1.1856
-Miller & Carter,LE19 2BJ,52.5822,-1.1927
+McDonald's,LE19 1HX,52.5979,-1.1774
 G Palmer and Son (Nurserymen) Limited,LE19 2BS,52.5883,-1.1866
 The Dovecote,LE19 2GN,52.5710,-1.2142
 Dales,LE19 2HL,52.5722,-1.2030
@@ -128,6 +126,7 @@ Gran Jefe Ltd,LE19 4NJ,52.5889,-1.2105
 The Dog & Gun,LE19 4NJ,52.5889,-1.2105
 Zen Kitchen,LE19 4QF,52.5855,-1.2180
 Glen Gorse Golf Club,LE2 4RF,52.5892,-1.0643
+Costa Coffee,LE2 5BB,52.5995,-1.0835
 Cheikho’s restaurants ,LE2 5BD,52.5982,-1.0822
 SUBWAY,LE2 5BF,52.5997,-1.0840
 Tipu Sultan Leicester,LE2 5BF,52.5997,-1.0840
@@ -136,8 +135,6 @@ The Wheel Inn,LE2 5DP,52.5967,-1.0748
 the sports launge bar and grill,LE2 5DP,52.5967,-1.0748
 Tasty Corner,LE2 5JG,52.5984,-1.0854
 ISTANBUL BBQ HOUSE,LE2 6HS,52.5969,-1.1217
-Elior Waterfall At Glenhills Court,LE2 9DH,52.5819,-1.1628
-Elior Waterfall At Birch Court,LE2 9NH,52.5880,-1.1685
 The Railway Arms,LE8 0LN,52.5378,-0.9940
 Simon Mayers T/A Crumbs at Kibworth Golf Club,LE8 0LP,52.5349,-0.9929
 Kibworth Swan,LE8 0LR,52.5374,-0.9937

@@ -4,6 +4,7 @@ The Royal Oak,BA22 9NW,50.9076,-2.6883
 Rakhang Thai Cuisine,DT6 3JX,50.7335,-2.7560
 Olive Tree Restaurant,DT6 3LB,50.7332,-2.7537
 Taj Mahal Bridport,DT6 3LF,50.7332,-2.7571
+The Greyhound Bridport (Wetherspoon),DT6 3LF,50.7335,-2.7579
 THE LORD NELSON,DT6 3LL,50.7329,-2.7536
 The Green Yard Cafe ,DT6 3LY,50.7338,-2.7543
 Soulshine Cafe,DT6 3NN,50.7315,-2.7583
@@ -11,7 +12,7 @@ The Sundorbon,DT6 3NN,50.7315,-2.7583
 Beach and Barnicott,DT6 3NQ,50.7329,-2.7585
 The Market House Inn,DT6 3QN,50.7340,-2.7593
 The Ropemakers,DT6 3QP,50.7337,-2.7598
-Costa Coffee,DT6 3QW,50.7342,-2.7609
+Costa Coffee,DT6 3QW,50.7341,-2.7602
 Jurassic Coast Coffee Ltd t/a Costa Coffee Ltd Bridport,DT6 3QW,50.7342,-2.7609
 Red Brick Cafe,DT6 3RR,50.7321,-2.7618
  Marquis of Lorne,DT6 3SY,50.7581,-2.6855
@@ -28,7 +29,7 @@ Newlands Holiday Park,DT6 6RB,50.7385,-2.8901
 Taste of India ,DT7 3HR,50.7256,-2.9374
 Italia,DT7 3PX,50.7259,-2.9327
 The Lyme Bay Cafe & Bar,DT7 3QA,50.7250,-2.9327
-COSTA COFFEE,DT7 3QF,50.7251,-2.9350
+Costa Coffee,DT7 3QF,50.7251,-2.9354
 Jurassic Coast Coffee Ltd t/a Costa Coffee Lyme Regis,DT7 3QF,50.7250,-2.9350
 The Talbot Arms,DT7 3TF,50.7355,-2.9576
 Cilla & Camilla Cafe,DT8 3AU,50.8087,-2.7390
@@ -42,7 +43,7 @@ Arts Cafe Bar,EX13 5AQ,50.7812,-2.9993
 Golden House Chinese restaurant ,EX13 5AU,50.7821,-2.9967
 The Lamb Inn,EX13 5BE,50.7806,-2.9921
 The George Hotel,EX13 5DW,50.7824,-2.9978
-Costa Coffee,EX13 5NQ,50.7826,-2.9983
+Costa Coffee,EX13 5NQ,50.7825,-2.9981
 Jurassic Coast Coffee Ltd t/a Costa Coffee Axminster,EX13 5NQ,50.7826,-2.9983
 Le Pisani Axminster ,EX13 5NX,50.7813,-3.0003
 The Hunters Lodge Inn,EX13 5SZ,50.7617,-2.9633
@@ -52,7 +53,6 @@ Greg's bar,EX13 7DY,50.7847,-3.0706
 Tuckers arms,EX13 7EG,50.7991,-3.0678
 RIDGEWAY INN,EX13 7JJ,50.8035,-2.9918
 Cranberries hideaway,EX13 7NS,50.7682,-3.0319
-Axminster Starbucks,EX13 7PZ,50.7806,-3.0734
 A35 Pit stop,EX13 7RB,50.7789,-3.0321
 THE OLD INN,EX13 7RB,50.7789,-3.0321
 New Inn,EX13 7SF,50.7789,-3.0404
@@ -72,7 +72,7 @@ Phelips Arms,TA15 6XB,50.9494,-2.7155
 Lord Poulett Arms,TA17 8SE,50.9104,-2.8249
 Dinnington Docks Ltd,TA17 8SX,50.9143,-2.8497
 Crooked Swan - The Swan Hotel,TA18 7HR,50.8848,-2.7964
-Costa Coffee,TA18 7JS,50.8839,-2.7953
+Costa Coffee,TA18 7JS,50.8840,-2.7951
 Jurassic Coast Coffee Ltd t/a Costa Coffee Crewkerne,TA18 7JS,50.8839,-2.7953
 Bilbys,TA18 7JY,50.8842,-2.7963
 The George Hotel,TA18 7LP,50.8849,-2.7952
@@ -80,7 +80,6 @@ The White Hart Inn,TA18 7LW,50.8850,-2.7947
 Haselbury Mill Ltd,TA18 7NY,50.8975,-2.7695
 The white horse,TA18 7RJ,50.8966,-2.7522
 The Home Bakery,TA18 8AG,50.8799,-2.7858
-Elior UK,TA19 0BN,50.9253,-2.9065
 Balti house ilminster limited,TA19 0BQ,50.9260,-2.9101
 cafe square,TA19 0DH,50.9266,-2.9110
 The Dolphin Inn,TA19 0DR,50.9273,-2.9128
@@ -88,16 +87,15 @@ New Inn,TA19 0NZ,50.9077,-2.8905
 The Volunteer Inn,TA19 0QE,50.9335,-2.8417
 Seavington Shop and Cafe,TA19 0QH,50.9307,-2.8439
 Shrubbery Hotel (2013) Limited,TA19 9AR,50.9285,-2.9180
-Costa Coffee,TA19 9FF,50.9324,-2.9355
 The Flying Fish Pub,TA19 9NX,50.9442,-2.9837
-Burger King,TA19 9PT,50.9336,-2.9415
 Monks Yard,TA19 9PY,50.9336,-2.9462
 The Five Dials Inn,TA19 9QH,50.9289,-2.9659
 The Bell Broadway,TA19 9RG,50.9345,-2.9655
 PHOENIX HOTEL,TA20 1PH,50.8729,-2.9652
-Costa Coffee,TA20 1PP,50.8730,-2.9645
+Costa Coffee,TA20 1PT,50.8727,-2.9640
 Eleos Cafe,TA20 1PT,50.8728,-2.9632
 Jurassic Coast Coffee Ltd t/a Costa Coffee Chard,TA20 1PT,50.8728,-2.9632
+The Cerdic Chard (Wetherspoon),TA20 1PT,50.8733,-2.9627
 SPICE VILLA INDIAN RESTAURANT,TA20 1QF,50.8725,-2.9667
 Bath House Hotel & Restaurant ,TA20 2AH,50.8721,-2.9655
 The Art Cafe & Bistro,TA20 2AH,50.8721,-2.9655

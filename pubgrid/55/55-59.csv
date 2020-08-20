@@ -1,21 +1,19 @@
 name,postcode,lat,lon
-McDonalds,DN22 0PG,53.2554,-0.9206
 Cara Restaurants Limited McDonalds 376,DN22 0QU,53.2568,-0.9250
+KFC,DN22 0QU,53.2549,-0.9247
 Markham Moor Inn ,DN22 0QU,53.2570,-0.9249
-Markham Moor KFC,DN22 0QU,53.2570,-0.9249
+McDonald's,DN22 0QU,53.2556,-0.9215
 Colbourne's Cafe,LN1 2BB,53.2617,-0.6170
 Friendship Inn,LN1 2JZ,53.2735,-0.7458
 scrummies,LN1 2LN,53.2670,-0.6616
 The Generous Briton,LN5 0RZ,53.0776,-0.6324
 The Bugle Horn,LN5 9HQ,53.1284,-0.6390
 Five Bells (Bassingham) Ltd,LN5 9JZ,53.1306,-0.6388
-Baxterstorey,LN6 3AD,53.1739,-0.6502
 Leo's Catering Service Ltd,LN6 3QP,53.2014,-0.6157
 DAMONS RESTAURANTS (UK) LIMITED,LN6 3SE,53.2072,-0.6151
 Doddington Cafe,LN6 4RU,53.2195,-0.6540
 Doddington Coffee Shop,LN6 4RU,53.2196,-0.6540
 Doddington Tea Room at The Coach House,LN6 4RU,53.2196,-0.6540
-Burger King,LN6 9AJ,53.1775,-0.6264
 Thorpe On The Hill Service Station,LN6 9AJ,53.1771,-0.6261
 Lake View Restaurant,LN6 9BW,53.1844,-0.6367
 Whisby Animal Park,LN6 9BY,53.1984,-0.6275
@@ -25,8 +23,8 @@ The Green Man,LN6 9JU,53.1217,-0.6725
 THE BENTLEY HOTEL LTD,LN6 9NH,53.1789,-0.6206
 Pennells Garden Centre Restaurant,LN6 9NT,53.1786,-0.6214
 Activities Away,LN6 9NW,53.1817,-0.6223
+Brewers Fayre Gateway Park,LN6 9UH,53.1777,-0.6211
 McDonald's,LN6 9UJ,53.1775,-0.6205
-McDonalds,LN6 9UJ,53.1775,-0.6205
 Keyworth Tavern,NG12 5DW,53.1461,-0.9927
 Priors Well Brewery Ltd (Old Brewery Cafe),NG18 1AH,53.1461,-0.9927
 Rajdhaani,NG22 0AD,53.1698,-0.9484
@@ -45,14 +43,12 @@ THE WAGGON AT HALAM,NG22 8AE,53.0856,-0.9908
 The Old Reindeer at Edingley,NG22 8BE,53.0964,-1.0094
 The Java & Me Ltd.,NG22 8LS,53.1178,-1.0219
 Bella Vita Restaurant ,NG22 9AD,53.2007,-1.0218
-Center Parcs Head Office,NG22 9DP,53.2021,-1.0106
 The Fox Inn Kelham,NG23 5QP,53.0935,-0.8469
 The Dapper Spaniel,NG23 5SG,53.0673,-0.8892
 Caunton Beck,NG23 6AB,53.1324,-0.8878
 The Plough,NG23 6AB,53.1324,-0.8878
 The Muskham Ferry,NG23 6HB,53.1206,-0.8096
 Ashiana ,NG23 6HN,53.1219,-0.8178
-Burger King,NG23 6HU,53.1330,-0.8060
 OK Diner Carlton ,NG23 6JF,53.1546,-0.8060
 The Plough Inn Norwell Ltd,NG23 6JN,53.1475,-0.8468
 Great Northern Inn,NG23 6NT,53.1695,-0.8152
@@ -69,6 +65,7 @@ New King Wah Restaurant,NG24 1AD,53.0778,-0.8095
 Bentleys Fish Restaurant,NG24 1AG,53.0770,-0.8102
 Strays Coffee,NG24 1AJ,53.0772,-0.8107
 ASHA NEWARK,NG24 1AN,53.0764,-0.8118
+Costa Coffee,NG24 1AW,53.0761,-0.8106
 Thai Sabai,NG24 1AW,53.0762,-0.8116
 The Prince Rupert,NG24 1AW,53.0762,-0.8116
 Castle Cuisine,NG24 1AX,53.0783,-0.8106
@@ -79,20 +76,19 @@ The Everest Inn Newark,NG24 1BG,53.0761,-0.8133
 The Old Lock House,NG24 1BG,53.0763,-0.8136
 Carriages Cafe,NG24 1BL,53.0802,-0.8129
 The Ranch Cafe,NG24 1BL,53.0798,-0.8136
+The Sir John Arderne NewarkonTrent (Wetherspoon),NG24 1DT,53.0766,-0.8092
 loft coffee lounge & eatery,NG24 1DT,53.0768,-0.8091
 Green Olive ,NG24 1DU,53.0766,-0.8096
 THAI RICE,NG24 1DU,53.0766,-0.8092
 Starbucks Newark - Market Place,NG24 1EA,53.0763,-0.8084
-Starbucks,NG24 1EA,53.0763,-0.8084
 mamma whites pancake parlour,NG24 1EA,53.0763,-0.8081
 PJ's American Diner,NG24 1EB,53.0757,-0.8096
 The Old Bakery tea rooms and restaurant ltd,NG24 1EL,53.0768,-0.8095
-Pizza Express,NG24 1EU,53.0788,-0.8106
 The Castle Barge Ltd,NG24 1EU,53.0788,-0.8106
-Costa Coffee,NG24 1HP,53.0829,-0.8014
 Mad Hatter’s ,NG24 1JR,53.0761,-0.8076
 Thyme out cafe,NG24 1JR,53.0769,-0.8065
 Fox & Crown,NG24 1JY,53.0767,-0.8059
+Costa Coffee,NG24 1LS,53.0820,-0.8001
 Oscar's Inn,NG24 1RY,53.0722,-0.8035
 deincourt hotel,NG24 1TF,53.0721,-0.8064
 The Coffee Chain ,NG24 1TL,53.0821,-0.8053
@@ -104,9 +100,12 @@ Teapots and teacups tearoom,NG24 1XA,53.0756,-0.8092
 Little Cherry Deli,NG24 1XF,53.0750,-0.8117
 BeanBlock,NG24 1XS,53.0753,-0.8112
 Koinonia Restaurant ,NG24 1XS,53.0753,-0.8112
+Beefeater Roman Way,NG24 2DB,53.0927,-0.7903
 Cara Restaurants Limited McDonalds 777,NG24 2DB,53.0921,-0.7901
 KFC,NG24 2DB,53.0924,-0.7908
+McDonald's,NG24 2DB,53.0921,-0.7901
 Brownhills Cafe,NG24 2EA,53.0915,-0.7868
+KFC,NG24 2FJ,53.0915,-0.7908
 The Lord Nelson,NG24 2NN,53.1034,-0.7827
 The Coddington Plough Ltd,NG24 2PN,53.0805,-0.7549
 Jennys Cafe,NG24 3AG,53.0613,-0.7874

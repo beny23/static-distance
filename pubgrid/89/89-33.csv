@@ -1,8 +1,8 @@
 name,postcode,lat,lon
 Clockwork Beer Company,G42 9HB,55.8231,-4.2587
 Eastern Trading co (Glasgow) t/a Alishan Tandoori ,G42 9HU,55.8249,-4.2621
+Costa Coffee,G43 1AP,55.8218,-4.2975
 Hector and Harriet Pollok Golf Club,G43 1BG,55.8221,-4.3070
-Costa Coffee,G43 1EA,55.8223,-4.2997
 Loks Bar and Kitchen,G43 2XU,55.8232,-4.2877
 White Elephant,G44 3DL,55.8137,-4.2679
 Ashoka South Side,G44 3EA,55.8122,-4.2696
@@ -11,9 +11,8 @@ Williamwood Golf Club,G44 3YR,55.7960,-4.2740
 Koo-ee Cafe,G44 4BN,55.8184,-4.2610
 Steak Lounge and Grill,G44 4EF,55.8177,-4.2617
 Croft Bar and Restaurant,G44 5HB,55.8152,-4.2276
-Castlemilk West Church The Haven,G44 5UW,55.8184,-4.2548
+McDonald's,G45 9AA,55.8066,-4.2336
 McDonald's,G45 9AA,55.8067,-4.2351
-McDonalds,G45 9AA,55.8067,-4.2351
 bramble cafe,G46 6JD,55.8050,-4.2942
 Turban Tandoori,G46 6JF,55.8042,-4.2939
 Andiamo,G46 6JG,55.8040,-4.2945
@@ -29,37 +28,28 @@ Subway,G46 6XW,55.8047,-4.2949
 Rouken Glen Garden Centre,G46 7JL,55.7970,-4.3073
 ORCHARD PARK HOTEL,G46 7PH,55.8022,-4.2957
 Pepes,G46 7RX,55.8073,-4.3170
+McDonald's,G46 7RY,55.8087,-4.3145
 McDonald's,G46 7RY,55.8088,-4.3145
-McDonalds,G46 7RY,55.8088,-4.3145
 THE COURTYARD,G46 7UG,55.7983,-4.3177
 The Boathouse  Rouken Glen Park,G46 7UG,55.7983,-4.3173
 Cineworld Cinemas And Starbucks,G53 6AF,55.8229,-4.3421
 MOZZA RESTAURANT,G53 6AF,55.8229,-4.3421
+McDonald's,G53 6AF,55.8228,-4.3431
 McDonald's,G53 6AF,55.8229,-4.3421
-McDonalds,G53 6AF,55.8229,-4.3421
-Nando's,G53 6AF,55.8229,-4.3421
-Pizza Hut,G53 6AF,55.8229,-4.3421
 Chopstix Glasgow Silverburn Centre,G53 6AG,55.8218,-4.3421
-Costa Coffee,G53 6AG,55.8229,-4.3421
-Five Guys,G53 6AG,55.8229,-4.3421
-Patisserie Valerie,G53 6AG,55.8229,-4.3421
-Pizza Express,G53 6AG,55.8229,-4.3421
+Nando's,G53 6AG,55.8229,-4.3420
 Sasha Subs Limited T/A Subway ,G53 6AG,55.8218,-4.3421
 Stack and Still Silverburn,G53 6AG,55.8229,-4.3421
-Starbucks Coffee,G53 6AG,55.8229,-4.3421
 Tim Hortons,G53 6AG,55.8229,-4.3421
-Tony Macaroni,G53 6AG,55.8229,-4.3421
-Tortilla,G53 6AG,55.8229,-4.3421
-Wagamama,G53 6AG,55.8229,-4.3421
-Zizzi,G53 6AG,55.8229,-4.3421
 Thaikhun,G53 6EW,55.8232,-4.3449
+Costa Coffee,G53 6QR,55.8221,-4.3418
 GROUND ESPRESSO BARS (UK NORTH) LTD,G53 6QR,55.8232,-4.3429
 RAYAN TAKEAWAY LTD,G53 7AB,55.8199,-4.3626
 cafe asia,G53 7DA,55.8218,-4.3627
-Costa Coffee,G53 7RH,55.8051,-4.3407
+Costa Coffee,G53 7RH,55.8040,-4.3410
 KFC,G53 7RH,55.8051,-4.3407
 McDonald's,G53 7RH,55.8051,-4.3407
-McDonalds,G53 7RH,55.8051,-4.3407
+KFC,G53 7RJ,55.8049,-4.3396
 100 Acre,G73 2EB,55.8235,-4.2310
 KINGSPARK HOTEL,G73 2LX,55.8199,-4.2166
 Cafe Gelato Ltd,G73 3SA,55.8181,-4.2023
@@ -67,21 +57,19 @@ Old Oak Inn,G73 3SU,55.8187,-4.1916
 Cathkin Braes Golf Club,G73 4SE,55.7982,-4.2084
 The Burnside Hotel,G73 5EA,55.8155,-4.1962
 McDonald's,G74 1HE,55.7643,-4.1961
-McDonalds,G74 1HE,55.7643,-4.1961
+McDonald's,G74 1HE,55.7648,-4.2102
 Airthrill,G74 5BA,55.7694,-4.2135
 Wonder World East Kilbride,G74 5BA,55.7694,-4.2135
+KFC,G74 5NY,55.7645,-4.2056
 KFC,G74 5NY,55.7649,-4.2104
 D’lish Ltd.,G74 5QD,55.7605,-4.2281
-SkyPizzaLtd T/A Pizza Hut,G74 5QD,55.7605,-4.2281
-Tony Macaroni,G74 5QE,55.7605,-4.2267
 Coppertrees Bar & Grill,G74 5QG,55.7596,-4.2285
 Pacinis Restaurant & Take Away,G75 8TT,55.7452,-4.2063
 The Wishing Well Tearoom ,G76 0AU,55.7374,-4.2795
 ian's kitchen ltd,G76 0JQ,55.7439,-4.2763
 Eglinton Arms Hotel,G76 0LG,55.7403,-4.2735
 Cafe Roma,G76 7AU,55.7885,-4.2756
-Costa Coffee,G76 7BG,55.7899,-4.2769
-Pizza Hut,G76 7BG,55.7900,-4.2771
+Costa Coffee,G76 7BG,55.7898,-4.2767
 eatdeli,G76 7BG,55.7898,-4.2767
 NEWLANDS HOME BAKERY LIMITED,G76 7DH,55.7841,-4.2750
 MJ's Brasserie,G76 7PG,55.7924,-4.2893
@@ -95,9 +83,10 @@ La Vita Piccolino e Vino,G77 5LU,55.7749,-4.3142
 Costello Cafe,G77 5RR,55.7707,-4.2928
 PARKLANDS HOTEL & COUNTRY CLUB,G77 6DT,55.7766,-4.3267
 L L Italiano,G77 6EG,55.7806,-4.3190
-Costa Coffee,G77 6EY,55.7729,-4.3339
+Costa Coffee,G77 6EY,55.7728,-4.3344
 Fortuna Foods Ltd trading as Nonna Gina's,G77 6EY,55.7729,-4.3339
 Meomar foods ltd t/a primavera bistro,G77 6EY,55.7729,-4.3339
+Beefeater The Castle,G77 6NP,55.7845,-4.3483
 Caulders Braidbar,G77 6RS,55.7531,-4.3485
 The Royal Indian Restaurant,G77 6UT,55.7815,-4.3378
 SWAGATH INDIAN RESTAURANTS,G78 1BS,55.8047,-4.3819
@@ -113,12 +102,13 @@ Uplawmoor Hotel,G78 4AF,55.7655,-4.4933
 THE DUKE,KA1 1BL,55.6098,-4.4996
 DCl Ayrshire Ltd -t/a Clansmann,KA1 1BS,55.6096,-4.4991
 Rock Diner and Aces,KA1 1DU,55.6079,-4.4983
-BaxterStorey Ltd,KA1 1ED,55.6073,-4.4997
 Bar Luca,KA1 1HA,55.6093,-4.4980
 GOLDBERRY ARMS,KA1 1HA,55.6093,-4.4980
 Subway,KA1 1HA,55.6093,-4.4980
 Coffeepress Ltd,KA1 1HJ,55.6092,-4.4989
 The Wynd Coffee Shop,KA1 1HN,55.6095,-4.4985
+Costa Coffee,KA1 1HZ,55.6103,-4.4967
+The Wheatsheaf Inn Kilmarnock (Wetherspoon),KA1 1JG,55.6111,-4.4971
 Coffee Trader,KA1 1LN,55.6103,-4.4959
 A&S R LIMITED ,KA1 1PH,55.6057,-4.4969
 Geppettos,KA1 1PH,55.6055,-4.4969
@@ -126,19 +116,17 @@ Meat in the Middle ,KA1 1PH,55.6057,-4.4969
 THE LONGHOUSE,KA1 1PH,55.6055,-4.4969
 The Park Hotel ,KA1 1UR,55.6029,-4.5098
 Brass and granite,KA1 2DD,55.6087,-4.5016
-Compass Group UK (JCP),KA1 2DF,55.6092,-4.5023
 The Portmann Hotel,KA1 2DL,55.6079,-4.5039
 The Killie Club,KA1 2DP,55.6054,-4.5086
 MEMORY LANE,KA1 2QS,55.6118,-4.5053
+Cookhouse + Pub Cotton Mill,KA1 2RS,55.6030,-4.5316
 Dick Institute Cafe,KA1 3BU,55.6084,-4.4896
 Paris Match Cafe,KA1 3DD,55.6073,-4.4965
 Prince's Cafe,KA1 3DD,55.6073,-4.4965
 Oceans 11,KA1 3DG,55.6065,-4.4966
 McDonald's,KA1 3HT,55.6042,-4.4963
-Burger King,KA1 3XB,55.6001,-4.4899
 KFC,KA1 3XB,55.6001,-4.4899
-Kentucky Fried Chicken (KFC),KA1 3XB,55.6001,-4.4899
-Powerleague Soccer Centre,KA1 3XF,55.6014,-4.4876
+Burger King,KA1 3XF,55.6014,-4.4896
 Maggie's Bar & Kitchen,KA1 4AH,55.6008,-4.4966
 Lamlash House,KA16 9AS,55.6067,-4.3265
 The Crown Hotel ,KA16 9DJ,55.6080,-4.3216

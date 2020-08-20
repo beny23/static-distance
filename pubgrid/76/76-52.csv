@@ -1,19 +1,18 @@
 name,postcode,lat,lon
 Co Ho,DH1 1SL,54.7795,-1.5762
-ASK Italian,DH1 1SQ,54.7780,-1.5763
-Nandos,DH1 1SQ,54.7780,-1.5763
+Nando's,DH1 1SQ,54.7783,-1.5757
+Thyme,DH1 1SQ,54.7785,-1.5760
 ebony champagne and cocktail bar ,DH1 1SQ,54.7780,-1.5763
+The Bishops Mill Durham (Wetherspoon),DH1 1WA,54.7783,-1.5757
 Cafedral,DH1 3HB,54.7752,-1.5751
 GJK (Durham) Ltd T/A Bells Fish & Chips,DH1 3NE,54.7767,-1.5758
 Spice Lounge Durham,DH1 3NJ,54.7772,-1.5760
 cafe cenno,DH1 3NJ,54.7772,-1.5760
 La Spaghettata,DH1 3NP,54.7761,-1.5753
-Pizza Express,DH1 3PG,54.7760,-1.5753
 Leonard’s Coffee House ,DH1 3RA,54.7768,-1.5772
 OiSaki Kitchen,DH1 3RB,54.7760,-1.5770
 Riverview kitchen ,DH1 3RB,54.7760,-1.5770
 Akarsu Turkish Restaurant & Grill Ltd,DH1 3RD,54.7764,-1.5769
-Caffe Nero,DH1 3RD,54.7764,-1.5769
 Coviello Coffee&Barber ,DH1 3RD,54.7761,-1.5772
 ESQUIRES COFFEE HOUSES DURHAM,DH1 3RD,54.7764,-1.5769
 Sweet treat Durham ltd,DH1 3RD,54.7764,-1.5769
@@ -25,8 +24,7 @@ Antico durham,DH1 4JX,54.7715,-1.5950
 Garden House Inn,DH1 4NQ,54.7831,-1.5857
 The Fighting Cocks,DH1 4PP,54.7759,-1.5790
 Nadon Thai Durham,DH1 4PR,54.7762,-1.5802
-Starbucks Coffee,DH1 4PW,54.7760,-1.5786
-Costa Coffee,DH1 4RB,54.7791,-1.5817
+Costa Coffee,DH1 4RB,54.7798,-1.5819
 The Head of Steam,DH1 4RZ,54.7770,-1.5801
 Bean Social,DH1 4SF,54.7777,-1.5819
 NORTH ROAD INDIAN LIMITED,DH1 4SF,54.7778,-1.5820
@@ -45,13 +43,15 @@ Thai River Restaurant,DH1 4SL,54.7768,-1.5789
 The Food Pit,DH1 4SL,54.7768,-1.5789
 CLX LTD ,DH1 4SP,54.7765,-1.5792
 Green Machine CBD Durham Ltd,DH1 4SQ,54.7771,-1.5806
+The Water House Durham (Wetherspoon),DH1 4SQ,54.7773,-1.5810
 Whispers coffee lounge,DH1 4SQ,54.7771,-1.5807
 La Spada Ristorante ,DH1 5DE,54.8052,-1.5880
+KFC,DH1 5DG,54.8062,-1.5783
 Millennium Restaurant,DH1 5EE,54.7965,-1.5906
-Costa Coffee,DH1 5GB,54.8068,-1.5818
-Dunelm Ridge Brewers Fayre,DH1 5GB,54.8068,-1.5818
-McDonalds,DH1 5GB,54.8068,-1.5818
+Brewers Fayre Dunelm Ridge,DH1 5GB,54.8070,-1.5858
+Costa Coffee,DH1 5GB,54.8081,-1.5814
 subway,DH1 5GB,54.8068,-1.5818
+McDonald's,DH1 5GD,54.8082,-1.5800
 KFC,DH1 5GF,54.8057,-1.5791
 The Kitchen,DH1 5LX,54.7993,-1.5763
 GJK (Durham) Ltd T/A Bells Fish & Chips,DH1 5RW,54.8035,-1.5796
@@ -81,7 +81,10 @@ The New Board Inn,DH7 9RL,54.7936,-1.6671
 The Dig Inn-Diggerland Durham,DH7 9TT,54.8015,-1.6728
 The Rams Head,DH7 9UU,54.7989,-1.6749
 paws for a cuppa,DH7 9XE,54.7986,-1.6709
+Costa Coffee,DH8 5SB,54.8488,-1.8364
 KFC,DH8 5SB,54.8480,-1.8350
+KFC,DH8 5SB,54.8487,-1.8369
+McDonald's,DH8 5XP,54.8491,-1.8380
 The Travellers Rest,DH8 7JU,54.8495,-1.8274
 The Pavilion Pub and Restaurant Ltd,DH8 7TE,54.8480,-1.7899
 pauline thompson t/as The Old Mill,DH8 9EL,54.8277,-1.8165
@@ -109,6 +112,7 @@ The smokehouse railway street,DL14 7LR,54.6589,-1.6735
 BREAKING BREAD KITCHEN AND BAKEHOUSE,DL14 7NJ,54.6653,-1.6730
 Chang Thai Restaurant,DL14 7NJ,54.6653,-1.6730
 Fifteas  vintage Tearooms,DL14 7NJ,54.6653,-1.6730
+The Stanley Jefferson Bishop Auckland (Wetherspoon),DL14 7NJ,54.6653,-1.6730
 reading rooms,DL14 7NJ,54.6653,-1.6730
 Bishop Auckland Town Hall,DL14 7NP,54.6660,-1.6726
 merry monk,DL14 7NP,54.6660,-1.6726
@@ -122,10 +126,11 @@ Park Head Hotel,DL14 8QB,54.6661,-1.6475
 THE TOP HOUSE,DL14 8QB,54.6661,-1.6475
 Dene Valley Heritage Cafe,DL14 8TD,54.6443,-1.6487
 KFC,DL14 9AE,54.6377,-1.6934
-Costa Coffee,DL14 9FA,54.6410,-1.6955
+Brewers Fayre Tindale Crossing,DL14 9AP,54.6385,-1.6873
+Costa Coffee,DL14 9SX,54.6404,-1.6952
 JOEYS WAFFLE HOUSE,DL14 9TT,54.6404,-1.6929
-McDonalds,DL14 9TT,54.6402,-1.6931
-Starbucks Coffee,DL14 9TT,54.6402,-1.6931
+KFC,DL14 9TT,54.6392,-1.6918
+McDonald's,DL14 9TT,54.6406,-1.6934
 THE BURN PUB & KITCHEN,DL15 0HW,54.7136,-1.7010
 The Joiners Arms,DL15 0JW,54.6866,-1.7092
 The Quarry Burn Guest House & Restaurant Ltd,DL15 0LG,54.6929,-1.7089
@@ -134,11 +139,13 @@ The Dairy Barn,DL15 8AN,54.6865,-1.7314
 Duke of York,DL15 8DG,54.7060,-1.7854
 Cafe J's,DL15 9AZ,54.7157,-1.7442
 Viva restaurant ,DL15 9BG,54.7148,-1.7443
+The Horse Shoe Inn Crook (Wetherspoon),DL15 9BH,54.7150,-1.7431
 Blue Stone Tea Shop,DL15 9HP,54.7146,-1.7480
 The Butchers Tap ,DL15 9HS,54.7157,-1.7470
 The Crook Hotel,DL15 9HU,54.7170,-1.7473
 The green ,DL15 9TA,54.7302,-1.7511
 KJ's Coffee Shot,DL16 6BB,54.6984,-1.6039
+The Grand Electric Hall Spennymoor (Wetherspoon),DL16 6DJ,54.6996,-1.6002
 THE OLIVE GROVE,DL16 6HQ,54.7009,-1.5824
 The Green Tree,DL16 6LE,54.7142,-1.5965
 TASTY BITES SPENNYMOOR LIMITED ,DL16 6PZ,54.7005,-1.5985
@@ -150,7 +157,6 @@ CLEMS SPENNYMOOR LTD,DL16 7SE,54.6966,-1.6058
 Shildon Civic Hall,DL4 1AH,54.6324,-1.6499
 Salvos Cucina Italiana,DL4 1AJ,54.6328,-1.6490
 corner cafe,DL4 1DS,54.6336,-1.6472
-Costa Coffee,DL4 1DX,54.6342,-1.6463
 The Sweet Shake Shack,DL4 1DX,54.6342,-1.6459
 Breaking Bread Restaurants Ltd,DL4 1HH,54.6258,-1.6474
 Woodham Country Club Ltd,DL5 4PN,54.6397,-1.5768

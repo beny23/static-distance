@@ -3,6 +3,7 @@ At The Chapel,BA10 0AE,51.1118,-2.4548
 The Sun Inn,BA10 0AH,51.1120,-2.4550
 Roth Bar & Grill Limited,BA10 0NL,51.1098,-2.4489
 On The Brook,BA10 0QP,51.1172,-2.4555
+Costa Coffee,BA11 1AD,51.2316,-2.3211
 Fat Radish,BA11 1AN,51.2313,-2.3209
 Subway ,BA11 1AN,51.2314,-2.3208
 The River House,BA11 1AR,51.2320,-2.3203
@@ -10,7 +11,6 @@ Black Swan Cafe,BA11 1BB,51.2331,-2.3195
 Loop de Loop ,BA11 1BE,51.2336,-2.3201
 Archangel,BA11 1BH,51.2308,-2.3207
 Nook,BA11 1BH,51.2305,-2.3204
-Coffee#1,BA11 1BS,51.2320,-2.3216
 Eight Stony Street,BA11 1BU,51.2309,-2.3224
 the garden cafe,BA11 1BU,51.2310,-2.3222
 23 Bath St Ltd,BA11 1DJ,51.2306,-2.3218
@@ -22,13 +22,14 @@ The Artisan Frome,BA11 1EQ,51.2304,-2.3262
 Alfreds Bread ,BA11 1RE,51.2267,-2.3110
 Hesperian Fish,BA11 1RE,51.2267,-2.3110
 Station Approach,BA11 1RE,51.2268,-2.3106
+Beefeater Frome Flyer,BA11 2LD,51.2447,-2.2907
 Oldford spice kitchen ltd t/s jay’s Kitchen ,BA11 2ND,51.2499,-2.3081
 Rye Bakery,BA11 3BY,51.2315,-2.3243
 The Griffin,BA11 3DB,51.2330,-2.3248
 The Talbot Inn,BA11 3PN,51.2413,-2.3911
 KFC,BA11 4DH,51.2171,-2.3320
 McDonald's Restaurant,BA11 4DH,51.2171,-2.3320
-Pizza Hut Restaurant,BA11 4DH,51.2171,-2.3320
+McDonald's,BA11 4DH,51.2163,-2.3323
 Tool & Gauge ,BA11 4FN,51.2200,-2.3231
 Field 725 Cafe,BA11 4LJ,51.2248,-2.3519
 The George Inn,BA11 4LW,51.2096,-2.3780
@@ -36,7 +37,6 @@ Cafe Nouveau ,BA11 5BW,51.2055,-2.3315
 The White Hart Inn,BA11 5DP,51.1933,-2.3638
 LA CAMPAGNA WARMINSTER LTD,BA12 0AG,51.2297,-2.1930
 FUNWAYS,BA12 0DF,51.2098,-2.1587
-Starbucks,BA12 6AQ,51.1014,-2.1859
 The Walnut Tree Inn ,BA12 6BH,51.0849,-2.2620
 The Bell & Crown,BA12 6NJ,51.0852,-2.3126
 Spread Eagle Inn,BA12 6QE,51.1048,-2.3215
@@ -45,8 +45,6 @@ The Bath Arms,BA12 7LY,51.1740,-2.2737
 Longleat Safari and Adventure Park,BA12 7NW,51.1866,-2.2775
 The Cross Keys Corsley,BA12 7PB,51.2165,-2.2583
 Royal Oak Corsley ,BA12 7PR,51.2075,-2.2596
-Burger King,BA12 7RU,51.2179,-2.2000
-Moto Hospitality,BA12 7RU,51.2179,-2.2000
 The Garden Room Coffee Shop,BA12 8AP,51.1803,-2.1923
 The Weymouth Arms,BA12 8JA,51.2049,-2.1870
 The Cockinn ,BA12 8JZ,51.2034,-2.1966
@@ -56,6 +54,8 @@ Maya Indian cuisine,BA12 8QB,51.2056,-2.1847
 Nagas the spice minister,BA12 8QH,51.2088,-2.1807
 Le cafe journal,BA12 9AE,51.2052,-2.1819
 The Old Fire Station,BA12 9AL,51.2058,-2.1824
+Costa Coffee,BA12 9AY,51.2049,-2.1807
+The Bath Arms Warminster (Wetherspoon),BA12 9AZ,51.2048,-2.1801
 Castello,BA12 9BA,51.2050,-2.1808
 AGRA RESTAURANT,BA12 9BN,51.2040,-2.1781
 The Masons Arms Warminster,BA12 9BN,51.2040,-2.1781
@@ -86,7 +86,7 @@ Levant Restaurant,BA7 7BX,51.0889,-2.5181
 Bay Tree,BA7 7ET,51.0844,-2.5195
 Emily Estate UK Ltd,BA7 7NG,51.0779,-2.4873
 The Brook House Inn ,BA7 7PF,51.1025,-2.5234
-KFC,BA9 8AD,51.0491,-2.4312
+KFC,BA9 8AB,51.0484,-2.4206
 old inn ,BA9 8AR,51.0414,-2.4509
 The Stags Head Inn Yarlington Limited,BA9 8DG,51.0616,-2.4953
 Otter Garden Centre,BA9 8HA,51.0723,-2.4107
@@ -106,6 +106,7 @@ Compton McRae Limited,SP7 9AW,51.0449,-2.1720
 THE COPPLERIDGE INN,SP7 9HW,51.0390,-2.2256
 Gillingham Tandoori,SP8 4AY,51.0375,-2.2779
 Cafe Corsa Motocorsa,SP8 4NW,51.0383,-2.2933
+Costa Coffee,SP8 4QT,51.0371,-2.2725
 Costa Coffee,SP8 4QT,51.0371,-2.2728
 The Secret Garden Cafe,SP8 4RE,51.0327,-2.2882
 The White Lion Inn,SP8 5AT,51.0785,-2.3165

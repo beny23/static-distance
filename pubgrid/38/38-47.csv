@@ -1,5 +1,4 @@
 name,postcode,lat,lon
-Dobbies Garden Centres,GL10 3DP,51.7919,-2.2874
 Beacon & Railway Hotel,GL10 3DX,51.7878,-2.2727
 The White Hart,GL14 1JB,51.8134,-2.4401
 Severn & Wye Smokery Ltd,GL14 1QW,51.8264,-2.3811
@@ -47,14 +46,15 @@ Rose and Crown at Redmarley,GL19 3NB,51.9818,-2.3494
 Grapevine Restaurant,GL19 3QA,51.9623,-2.3062
 THE SWAN,GL19 3QA,51.9623,-2.3062
 Pizza Hut,GL2 2GT,51.8205,-2.2683
-McDonalds,GL2 2RQ,51.8050,-2.2898
+McDonald's,GL2 2RQ,51.8049,-2.2898
 Indian Memories,GL2 4NE,51.8328,-2.2755
-Costa Coffee,GL2 4PE,51.8264,-2.2782
+Costa Coffee,GL2 4PE,51.8272,-2.2791
 The Thatch Inn,GL2 4PQ,51.8280,-2.2762
 INCITO GROUP HOLDINGS LIMITED T/A McDONALD'S,GL2 4RG,51.8160,-2.2841
 INCITO GROUP HOLDINGS LIMITED T/A McDONALD'S,GL2 5DN,51.8397,-2.2682
-McDonalds,GL2 5DN,51.8397,-2.2682
+McDonald's,GL2 5DN,51.8383,-2.2698
 KFC,GL2 5EA,51.8376,-2.2748
+KFC,GL2 5EN,51.8369,-2.2731
 The Red Lion Arlingham,GL2 7JN,51.7986,-2.4226
 The Stables Cafe,GL2 7LA,51.7803,-2.3571
 The Ship Inn - Framilode,GL2 7LH,51.7904,-2.3624
@@ -67,12 +67,14 @@ New Harp Inn  ,HR2 6QH,51.9604,-2.6621
 The Walwyn Arms,HR8 2LY,51.9950,-2.4994
 The Scrumpy House,HR8 2NQ,51.9950,-2.5133
 Burger Master,HR9 5BS,51.9138,-2.5829
+The Mail Rooms RossonWye (Wetherspoon),HR9 5BS,51.9138,-2.5820
 No3 Restaurant,HR9 5BU,51.9140,-2.5822
 Baraka Ross- on- Wye ltd,HR9 5BZ,51.9137,-2.5838
 Leonards at 39,HR9 5HD,51.9142,-2.5843
 Pots and Pieces Teashop and Gallery ,HR9 5HD,51.9141,-2.5842
 The King's Head Hotel,HR9 5HL,51.9144,-2.5850
 Obilash,HR9 5LQ,51.9138,-2.5793
+Costa Coffee,HR9 5NU,51.9143,-2.5837
 Inn on the Wye,HR9 5QS,51.8750,-2.6023
 Castle Lodge Hotel,HR9 6AD,51.9159,-2.5992
 ORLES BARN HOTEL & RESTAURANT,HR9 6AE,51.9152,-2.6023
@@ -95,10 +97,9 @@ Seven Seas Fish Bar and Restaurant ,HR9 7EA,51.9152,-2.5830
 The Cellar Bar,HR9 7EA,51.9153,-2.5829
 The Penny Farthing at Aston Crews Ltd,HR9 7LW,51.9068,-2.4786
 Weston Cross Inn ,HR9 7NU,51.9080,-2.5367
-KFC,HR9 7QJ,51.9286,-2.5622
-Ross Spur Starbucks,HR9 7QJ,51.9286,-2.5622
-Ross on Wye Burger King,HR9 7QJ,51.9286,-2.5622
+Beefeater Travellers Rest (Ross on Wye),HR9 7QJ,51.9309,-2.5615
 The Alma Inn,HR9 7RY,51.9261,-2.4971
+KFC,HR9 7US,51.9145,-2.5824
 KFC,HR9 7US,51.9283,-2.5703
 Ross Labels Ltd - Cafe/Food Emporium,HR9 7US,51.9283,-2.5703
 the ross-on-wye golf club,HR9 7UT,51.9334,-2.4879

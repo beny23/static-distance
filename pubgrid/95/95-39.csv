@@ -1,9 +1,10 @@
 name,postcode,lat,lon
 Dam Good Coffee at Gartmorn Dam,FK10 3AZ,56.1245,-3.7558
 The Puttery,FK10 4BB,56.0773,-3.7199
+McDonald's,FK10 4DA,56.1155,-3.7748
 McDonalds ,FK10 4DA,56.1159,-3.7745
 Tilly Tearoom,FK13 6DP,56.1532,-3.7433
-Costa Coffee,FK13 6HQ,56.1493,-3.7421
+Costa Coffee,FK13 6HQ,56.1489,-3.7428
 The Devonpark,FK13 6HR,56.1473,-3.7404
 MUIRCOT FARM SHOP,FK13 6LS,56.1424,-3.7315
 Butterfly Inns Ltd,FK13 6NS,56.1517,-3.7389
@@ -13,23 +14,23 @@ The Inn at Muckhart,FK14 7JN,56.1892,-3.6112
 The Tormaukin Hotel ,FK14 7JY,56.2279,-3.6469
 Airth Castle Hotel Limited,FK2 8JF,56.0620,-3.7736
 BP AIRTH,FK2 8PF,56.0538,-3.7593
+Brewers Fayre Kincardine Way,FK2 8PJ,56.0535,-3.7587
 Everest Inn,KY11 3AT,56.0624,-3.4474
 Tim Hortons,KY11 3AU,56.0616,-3.4451
+McDonald's,KY11 4LP,56.0808,-3.4137
 McDonalds Asda Dunfermline,KY11 4LP,56.0815,-3.4089
-McDonalds Restaurants Ltd,KY11 4LR,56.0811,-3.4142
 Pitbauchlie House Hotel,KY11 4PB,56.0613,-3.4407
 MOLINARO LTD LUCA'S,KY11 4UH,56.0694,-3.4174
 The King Malcolm Hotel,KY11 8DS,56.0589,-3.4406
+Brewers Fayre Crooked Glen,KY11 8EX,56.0788,-3.3992
 Carlton Bingo  Dunfermline,KY11 8EX,56.0780,-3.3975
+KFC,KY11 8EX,56.0779,-3.3982
 KFC,KY11 8EX,56.0780,-3.3975
-Kentucky Fried Chicken (KFC),KY11 8EX,56.0780,-3.3975
+McDonald's,KY11 8EX,56.0786,-3.3982
 McDonalds Dunfermline,KY11 8EX,56.0780,-3.3975
-McDonalds Restaurants,KY11 8EX,56.0780,-3.3975
-Nandos,KY11 8EX,56.0780,-3.3975
-Pizza Hut Restaurant,KY11 8EX,56.0780,-3.3975
+Nando's,KY11 8EX,56.0786,-3.3957
 Smashburger,KY11 8EX,56.0780,-3.3975
 Starbucks,KY11 8EX,56.0780,-3.3975
-Tony Macaroni,KY11 8EX,56.0780,-3.3975
 Holiday Inn Express Dunfermline ,KY11 8JH,56.0771,-3.4132
 Pizza Hut Deliver,KY11 8JZ,56.0616,-3.4056
 Pitreavie golf club,KY11 8PR,56.0554,-3.4372
@@ -44,22 +45,22 @@ Carlucci Restaurant,KY12 7AR,56.0714,-3.4635
 La Menta,KY12 7AT,56.0716,-3.4613
 Bob & Berts Dunfermline  ,KY12 7DP,56.0716,-3.4600
 Caffe Nero,KY12 7DR,56.0712,-3.4601
+The Guildhall  Linen Exchange Dunfermline (Wetherspoon),KY12 7DR,56.0713,-3.4614
 Casa Mia ,KY12 7DS,56.0667,-3.4583
 Tapas Ducal,KY12 7DS,56.0667,-3.4583
 Dhoom Streetery and Bar,KY12 7EA,56.0710,-3.4589
 Commercial Inn,KY12 7EB,56.0718,-3.4610
 Juniper Wine Cafe,KY12 7EF,56.0709,-3.4582
-Costa Coffee,KY12 7JG,56.0715,-3.4584
+Costa Coffee,KY12 7JG,56.0715,-3.4588
 THE ELIZABETHAN,KY12 7LX,56.0781,-3.4270
 The Old Inn,KY12 7NA,56.0706,-3.4644
 Fresh Coffee Shop,KY12 7NB,56.0709,-3.4635
-Costa Coffee,KY12 7NF,56.0724,-3.4596
-Starbucks,KY12 7NF,56.0724,-3.4596
 FABRIC - DRINK & DINE,KY12 7NT,56.0704,-3.4593
 Khushis,KY12 7NU,56.0703,-3.4607
 The Canmore House Bar & Restaurant,KY12 7NU,56.0703,-3.4607
 Monterey Jacks Dunfermline Ltd,KY12 7NX,56.0698,-3.4580
 bb's coffee & muffins,KY12 7QA,56.0724,-3.4596
+Costa Coffee,KY12 7QU,56.0716,-3.4596
 Subway ,KY12 7QU,56.0719,-3.4600
 The Pancake Place Ltd,KY12 7QU,56.0724,-3.4596
 Garvock House Hotel,KY12 7TU,56.0714,-3.4433
@@ -76,9 +77,8 @@ Saline golf club,KY12 9LT,56.1132,-3.5589
 OAKLEY CAFE,KY12 9QF,56.0864,-3.5686
 Kinnairds Bistro,KY12 9TF,56.1314,-3.5090
 Paddock Cafe & Bar,KY12 9TF,56.1317,-3.5231
-BP Forecourt Moto,KY13 0NQ,56.2087,-3.4440
+Costa Coffee,KY13 0NQ,56.2098,-3.4396
 Le Jardin Ltd,KY13 0NQ,56.2087,-3.4440
-Moto Hospitality Ltd Burger King,KY13 0NQ,56.2087,-3.4440
 avant garde,KY13 8AA,56.2052,-3.4212
 No.98,KY13 8AJ,56.2037,-3.4213
 Kirklands Hotel,KY13 8AN,56.2053,-3.4218
@@ -92,5 +92,4 @@ The Harbour Cafe,KY13 8GB,56.1995,-3.4249
 Heaven Scent Coffee Shop,KY13 9XA,56.2257,-3.4208
 Milnathort Golf Club,KY13 9XA,56.2257,-3.4208
 thistle hotel ltd,KY13 9XT,56.2270,-3.4178
-Youngs Diner,KY4 0AE,56.1344,-3.3810
 Duchally House Leisure Ltd,PH3 1PN,56.2679,-3.7175

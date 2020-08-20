@@ -8,23 +8,22 @@ The George and Dragon ,CV13 6EZ,52.5709,-1.4169
 Mango Tree,CV13 6HE,52.5720,-1.4138
 White Swan,CV13 6HE,52.5720,-1.4138
 Holiday Inn Coventry,CV2 2HP,52.4309,-1.4352
-Buzz Bingo,CV2 2QQ,52.4283,-1.4334
-Coventry Tenpin,CV2 2SH,52.4330,-1.4314
 KFC CROSS POINT,CV2 2SH,52.4330,-1.4314
-KFC,CV2 2SH,52.4330,-1.4314
+Brewers Fayre Cross Point,CV2 2SZ,52.4348,-1.4295
 Costa Coventry,CV2 2SZ,52.4347,-1.4292
-Nando's,CV2 2SZ,52.4347,-1.4293
-Pizza Hut Restaurant,CV2 2SZ,52.4347,-1.4293
+Nando's,CV2 2SZ,52.4357,-1.4291
+Breakfast Room,CV21 1HL,52.3905,-1.2556
 Barley Mow,CV21 1HW,52.3911,-1.2830
-Costa Coffee,CV21 1RW,52.3852,-1.2592
+Costa Coffee,CV21 1RG,52.3874,-1.2566
+Costa Coffee,CV21 1RW,52.3853,-1.2606
 KFC - Junction One Retail Pk Rugby,CV21 1RW,52.3852,-1.2604
-KFC Drive Thru,CV21 1RW,52.3852,-1.2592
 McDonald's Restaurant,CV21 1RW,52.3852,-1.2592
+McDonald's,CV21 1RW,52.3857,-1.2611
 Subway Junction 1 Retail Park,CV21 1RW,52.3852,-1.2589
-Nando's,CV21 1SR,52.3883,-1.2605
+Costa Coffee,CV21 1SR,52.3888,-1.2589
+Nando's,CV21 1SR,52.3880,-1.2588
 starbucks,CV21 1SR,52.3886,-1.2599
 Dilruba,CV21 3HQ,52.3764,-1.2556
-Butlers Leap Marstons PLC,CV21 3TX,52.3772,-1.2378
 Stobart Truckstops LTD,CV23 0AE,52.3819,-1.1888
 the stag and pheasant,CV23 0DY,52.3988,-1.2207
 The Old Lion ,CV23 0HQ,52.4099,-1.2985
@@ -35,13 +34,14 @@ the bulls head brinklow,CV23 0NE,52.4106,-1.3653
 Rebecca's Kitchen ,CV23 0PE,52.4291,-1.3371
 The Barn at Willey,CV23 0SL,52.4635,-1.2909
 FRESH IN FOOD LTD,CV23 0UX,52.4018,-1.2452
-Baxterstorey Ltd -Amazon BHX5,CV23 0XF,52.4044,-1.2481
+Brewers Fayre Central Park,CV23 0WE,52.4021,-1.2456
 OLD SMITHY,CV23 9EF,52.3834,-1.3401
 Coombe Abbey Hotel,CV3 2AB,52.4121,-1.4091
-TGI Fridays,CV3 2TA,52.3967,-1.4325
+Breakfast Room,CV3 2TA,52.3970,-1.4317
+Costa Coffee,CV3 2XA,52.3974,-1.4331
 The Rose And Castle,CV7 9HZ,52.4471,-1.4141
 Nettle Hill Ltd,CV7 9JL,52.4396,-1.3923
-Sparrow Brewers Fayre  C/O Whitbread,CV7 9JP,52.4332,-1.3980
+Brewers Fayre The Sparrow,CV7 9JP,52.4337,-1.3987
 Mercure Brandon Hall Hotel,CV8 3FW,52.3831,-1.4063
 Brandon Wood Golf Course & Club,CV8 3GQ,52.3826,-1.4186
 Royal Oak Brandon ,CV8 3HR,52.3819,-1.4012
@@ -54,7 +54,9 @@ Rendezvous ,LE10 0DP,52.5474,-1.3716
 THE WHITE BEAR,LE10 0JT,52.5391,-1.3785
 The Golden Spoon Thai Restaurant Ltd,LE10 0JT,52.5391,-1.3785
 Balti Raj,LE10 0JU,52.5373,-1.3854
+Brewers Fayre Marina,LE10 0NB,52.5370,-1.4003
 KFC HINCKLEY - D/T,LE10 0NQ,52.5352,-1.3950
+KFC,LE10 0NQ,52.5360,-1.4010
 Simla Restaurant,LE10 0NQ,52.5354,-1.3949
 Carters the Restaurant,LE10 0QD,52.5383,-1.3776
 Snack shack ,LE10 0QD,52.5384,-1.3772
@@ -62,15 +64,12 @@ Stottie shop,LE10 0QD,52.5384,-1.3772
 Carters Lounge,LE10 0QJ,52.5392,-1.3752
 Delightful desserts Hinckley,LE10 0QJ,52.5392,-1.3753
 Burger King - Hinckley,LE10 0QQ,52.5389,-1.3743
-Burger King,LE10 0QQ,52.5389,-1.3743
-Costa Coffee,LE10 0QQ,52.5389,-1.3743
+Costa Coffee,LE10 0QQ,52.5389,-1.3750
 I Due Vulcani,LE10 0QQ,52.5389,-1.3743
-Prezzo,LE10 0QQ,52.5389,-1.3743
-Wildwood,LE10 0QQ,52.5389,-1.3743
 THE RAILWAY,LE10 1AP,52.5374,-1.3723
 Elbow Room Ale & Cider House,LE10 1AR,52.5381,-1.3733
 FAB,LE10 1AW,52.5399,-1.3731
-Costa Coffee,LE10 1DA,52.5417,-1.3698
+Costa Coffee,LE10 1DA,52.5415,-1.3713
 FIZHAS LTD T/A LEEJA RESTAURANT,LE10 1DA,52.5417,-1.3698
 Sovranos Caffe,LE10 1DA,52.5417,-1.3698
 Subway,LE10 1DA,52.5417,-1.3698
@@ -87,27 +86,23 @@ Everest Dine,LE10 1QW,52.5442,-1.3696
 Ashby Tavern,LE10 1SL,52.5493,-1.3679
 Charlotte's Cafe Bar Ltd,LE10 1YG,52.5564,-1.3753
 McDonald's Restaurants Ltd,LE10 1YG,52.5564,-1.3770
-McDonalds,LE10 1YG,52.5564,-1.3770
 HOUSE KITCHEN ,LE10 2AF,52.5317,-1.3502
 Windsor Tiffin,LE10 2EE,52.5266,-1.3503
 The Den - Coffee Shop ,LE10 2HL,52.5254,-1.3548
 THREE POTS PANTRY LTD,LE10 2JJ,52.5203,-1.3662
-KFC,LE10 3BE,52.5378,-1.4029
 Subway,LE10 3BE,52.5377,-1.4023
 McDonald's Restaurants Ltd,LE10 3BZ,52.5373,-1.4115
-McDonalds,LE10 3BZ,52.5373,-1.4115
 Acorns Coffee Shop,LE10 3DD,52.5531,-1.3390
 hinckley golf club,LE10 3DR,52.5541,-1.3473
 Lime Kilns,LE10 3ED,52.5336,-1.4099
 Pesto at the Axe & Compass,LE10 3HG,52.4968,-1.3575
 Sketchley Grange Hotel & Spa,LE10 3HU,52.5246,-1.3755
 Barnacles Restaurant & Bar Bistro,LE10 3JA,52.5128,-1.3596
-Jurys Inn Hinckley Island Hotel,LE10 3JA,52.5128,-1.3596
 The Bulls Head,LE10 3LB,52.4875,-1.3689
 THE BLUE PIG,LE10 3LG,52.4870,-1.3708
 The Bricklayers,LE10 3PP,52.5214,-1.2932
 E&R Tearoom Ltd,LE17 4AD,52.4551,-1.2003
-Costa Coffee,LE17 4AL,52.4556,-1.2019
+Costa Coffee,LE17 4AL,52.4556,-1.2016
 Costa Lutterworth,LE17 4AL,52.4556,-1.2019
 The New Sunar Gow,LE17 4AP,52.4556,-1.1978
 CHEIKHO'S RESTAURANT,LE17 4AW,52.4557,-1.2006
@@ -139,24 +134,21 @@ The White Hart,LE17 6DN,52.4305,-1.1122
 The White Lion,LE17 6EP,52.4465,-1.0937
 The Chandlers,LE17 6PL,52.5114,-1.0822
 COSTA COFFEE,LE18 1AD,52.5855,-1.1047
+Costa Coffee,LE18 1AD,52.5856,-1.1043
 Mr Beanbags Cafe,LE18 1AD,52.5855,-1.1047
 The Cheesecake Shop Wigston,LE18 1DR,52.5870,-1.1062
+The William Wygston Wigston (Wetherspoon),LE18 1DR,52.5877,-1.1056
 Bella Italia ,LE18 1JW,52.5967,-1.1119
 OZ Leicester LTD ,LE18 1JX,52.5963,-1.1126
 Mrs T's Pantry,LE18 1NR,52.5870,-1.1057
 SAABS GRILL,LE18 1NR,52.5869,-1.1057
-McDonalds Restaurants Ltd,LE18 1PD,52.5886,-1.1035
+McDonald's,LE18 1PD,52.5886,-1.1034
 Subway,LE18 2AJ,52.5847,-1.1067
-Atalian Servest Food Co.,LE18 2FL,52.5873,-1.1248
 TNS Catering_Cromwell Tools,LE18 2FS,52.5848,-1.1234
 Cuisine of India,LE18 3QW,52.5834,-1.1000
 Bhansha enterprise limited (Gorkha8848),LE18 4PA,52.5796,-1.1343
 Tree house cafe,LE18 4PA,52.5796,-1.1343
-Costa Coffee,LE18 4PH,52.5829,-1.1166
-Baxterstorey Ltd At National Distribution Centre,LE19 1SN,52.5989,-1.1914
-Baxterstorey Ltd At Centrica Spinneyside,LE19 1SY,52.5959,-1.1864
-Pizza Hut Restaurant,LE19 1WW,52.5980,-1.1856
-Miller & Carter,LE19 2BJ,52.5822,-1.1927
+McDonald's,LE19 1HX,52.5979,-1.1774
 G Palmer and Son (Nurserymen) Limited,LE19 2BS,52.5883,-1.1866
 The Dovecote,LE19 2GN,52.5710,-1.2142
 Dales,LE19 2HL,52.5722,-1.2030
@@ -166,6 +158,7 @@ Gran Jefe Ltd,LE19 4NJ,52.5889,-1.2105
 The Dog & Gun,LE19 4NJ,52.5889,-1.2105
 Zen Kitchen,LE19 4QF,52.5855,-1.2180
 Glen Gorse Golf Club,LE2 4RF,52.5892,-1.0643
+Costa Coffee,LE2 5BB,52.5995,-1.0835
 Cheikho’s restaurants ,LE2 5BD,52.5982,-1.0822
 SUBWAY,LE2 5BF,52.5997,-1.0840
 Tipu Sultan Leicester,LE2 5BF,52.5997,-1.0840
@@ -174,8 +167,6 @@ The Wheel Inn,LE2 5DP,52.5967,-1.0748
 the sports launge bar and grill,LE2 5DP,52.5967,-1.0748
 Tasty Corner,LE2 5JG,52.5984,-1.0854
 ISTANBUL BBQ HOUSE,LE2 6HS,52.5969,-1.1217
-Elior Waterfall At Glenhills Court,LE2 9DH,52.5819,-1.1628
-Elior Waterfall At Birch Court,LE2 9NH,52.5880,-1.1685
 queens head ,LE8 0QH,52.5205,-1.0311
 Dipali Cuisine Limited,LE8 4DW,52.5743,-1.1639
 COFFEE BEAN,LE8 4FZ,52.5761,-1.1636

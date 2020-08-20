@@ -7,11 +7,11 @@ The Angel Hotel,CO10 9QZ,52.1091,0.7967
 The Great House Restaurant & Hotel Limited,CO10 9QZ,52.1091,0.7967
 Number Ten Wine Bar and Kitchen,CO10 9RA,52.1081,0.7967
 The Cock Horse Inn,CO10 9SA,52.1058,0.7929
+McDonald's,IP1 5NP,52.0854,1.1133
 McDonalds,IP1 5PX,52.0854,1.1133
-Mcdonalds Drive In Restaurant,IP1 5PX,52.0854,1.1133
+Costa Coffee,IP1 5QP,52.0846,1.1167
 KFC Ipswich - Bury Road,IP1 5QP,52.0845,1.1183
-KFC,IP1 5QP,52.0845,1.1183
-Pizza Hut Restaurant,IP1 5QP,52.0845,1.1183
+KFC,IP1 5QP,52.0843,1.1163
 Al’s cafe T/A Ace Coffee Ltd,IP1 6EB,52.0785,1.1272
 Bekash Tandoori Restaurant,IP1 6EB,52.0785,1.1272
 Waterfall Elior,IP1 6ET,52.0810,1.1280
@@ -19,10 +19,10 @@ Best Western Gatehouse Hotel,IP1 6LH,52.0866,1.1223
 Laurel Farm Garden Centre,IP1 6TE,52.0894,1.1533
 The Dog at Grundisburgh ,IP13 6TA,52.2317,1.0865
 Pickwicks Coffee Shop,IP14 1AB,52.1871,0.9971
-Prezzo,IP14 1AZ,52.1860,0.9983
 127 Trading Ltd,IP14 1BB,52.1854,0.9993
+The Willow Tree Stowmarket (Wetherspoon),IP14 1BB,52.1855,0.9991
 Aimes Ltd t/a Costa Coffee Stowmarket,IP14 1DE,52.1875,0.9940
-Costa Coffee,IP14 1DE,52.1875,0.9940
+Costa Coffee,IP14 1DE,52.1876,0.9942
 Osier Cafe,IP14 1DL,52.1872,0.9946
 Langams Coffee Shop Ltd,IP14 1DP,52.1879,0.9950
 Petite Pancakes,IP14 1DT,52.1880,0.9955
@@ -36,9 +36,12 @@ Stowmarket Golf Club Limited,IP14 3DA,52.1907,0.9385
 The Crown ,IP14 4BQ,52.1985,1.0287
 The Bull Inn,IP14 4LJ,52.2629,1.0015
 Trowel and Hammer Inn Cotton,IP14 4QL,52.2658,1.0286
+Costa Coffee,IP14 5BE,52.1845,1.0189
+McDonald's,IP14 5EP,52.1826,1.0192
 McDonalds,IP14 5EP,52.1858,1.0072
 The Aviary,IP14 5FP,52.1898,1.0131
 Aimes Ltd t/a Costa Coffee DT Stowmarket,IP14 5XF,52.1827,1.0192
+Costa Coffee,IP14 5XF,52.1831,1.0181
 Bistro at the barns,IP14 6AT,52.1889,1.1381
 The Harbour Inn,IP18 6TA,52.2317,1.0865
 The Walnut Tree,IP23 7ED,52.2726,1.1008
@@ -54,7 +57,6 @@ Ravenwood Hall Hotel Ltd,IP30 9JA,52.2368,0.7831
 ICE ,IP30 9ND,52.2414,0.7752
 the gardners,IP30 9PA,52.2364,0.8641
 The Bull Inn,IP30 9SA,52.2254,0.8871
-CH&CO Catering Ltd @ BUUK Head Offic,IP30 9UP,52.2259,0.8784
 Rambling Rose Coffee House & Bistro,IP31 2HH,52.2974,0.8318
 The Pykkerell Inn,IP31 2HH,52.2974,0.8318
 Bunbury Arms,IP31 2NX,52.2724,0.7829
@@ -62,6 +64,7 @@ The Fox and Hounds ,IP31 3QT,52.2504,0.8072
 New Green Community Trust,IP31 3TG,52.2519,0.8117
 Best Western Claydon Hotel,IP6 0AR,52.1057,1.1113
 The Greyhound,IP6 0AR,52.1057,1.1112
+Thyme,IP6 0BE,52.0992,1.1076
 CHEQUERS ,IP6 0LP,52.1156,1.0908
 Sorrel Horse Inn Ltd,IP6 0PG,52.1206,1.1032
 Manor Farm Coffee Shop Ltd,IP6 0PU,52.1161,1.1264
@@ -70,7 +73,6 @@ The angel needham market ,IP6 8AP,52.1530,1.0529
 Coffee Craft N Moore,IP6 8DQ,52.1549,1.0503
 Lion,IP6 8EH,52.1500,1.0550
 The Fox at Barking,IP6 8HP,52.1359,1.0224
-Burger King,IP6 8LP,52.1475,1.0799
 The Highwayman,IP6 8PD,52.1589,1.0888
 The Railway  Inn,IP6 9AA,52.0817,1.1661
 The Swan Inn,IP6 9AJ,52.0876,1.1748

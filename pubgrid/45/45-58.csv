@@ -1,10 +1,9 @@
 name,postcode,lat,lon
 Aldwinckles Coffee House Ltd,LE16 7AA,52.4792,-0.9217
-Zizzi,LE16 7AF,52.4796,-0.9225
 Gallones Market Harborough,LE16 7AG,52.4785,-0.9208
 Insomnia Market Harborough Ltd.,LE16 7AG,52.4785,-0.9208
+Costa Coffee,LE16 7DR,52.4774,-0.9188
 KFC - Market Harborough ,LE16 7DR,52.4774,-0.9188
-Pizza Express,LE16 7DR,52.4774,-0.9188
 Han Chinese Restaurant,LE16 7DS,52.4782,-0.9184
 Starbucks,LE16 7DS,52.4782,-0.9184
 simply han ltd t/as taste dot social,LE16 7DS,52.4782,-0.9184
@@ -17,18 +16,18 @@ SWEET NAGA CHILLI LTD,LE16 7DU,52.4779,-0.9177
 The Shoulder of Mutton,LE16 7EU,52.4922,-0.9039
 WELTONS,LE16 7EU,52.4922,-0.9039
 McDonald's Restaurant,LE16 7FD,52.5113,-0.9427
-McDonalds Restaurant Ltd,LE16 7FD,52.5113,-0.9427
+McDonald's,LE16 7FD,52.5110,-0.9415
+Table Table Langton Inn,LE16 7FD,52.5117,-0.9418
 The Red Lion Great Bowden,LE16 7HB,52.4924,-0.9060
 Appleby's,LE16 7LT,52.4783,-0.9202
 Casa Nostra Restaurant,LE16 7LT,52.4783,-0.9202
 Sweet Pea's Tea Room,LE16 7LT,52.4783,-0.9202
+The Sugar Loaf Market Harborough (Wetherspoon),LE16 7NJ,52.4790,-0.9224
 The Three Swans Hotel,LE16 7NJ,52.4785,-0.9223
-Wildwood,LE16 7NJ,52.4785,-0.9223
 Milo's Cafe,LE16 7NL,52.4800,-0.9236
 Rocksalt Bistro,LE16 7NL,52.4800,-0.9236
 53 The Square ltd (T/A Square Cafe Bar,LE16 7PA,52.4779,-0.9204
 Rio Bravo,LE16 7PA,52.4779,-0.9204
-Caffe Nero,LE16 7PE,52.4773,-0.9211
 Foxton Locks Inn,LE16 7RA,52.5011,-0.9824
 The Black Horse,LE16 7RD,52.5016,-0.9720
 THE BELL INN,LE16 7RU,52.5038,-0.9964
@@ -68,9 +67,8 @@ Red Lion,NN14 1NF,52.3753,-0.7741
 Thornhill arms,NN14 1RL,52.4383,-0.7620
 English Heritage,NN14 1RP,52.4393,-0.7873
 Rushton Hall Ltd,NN14 1RR,52.4364,-0.7710
-Kyra Enterprises t/a McDonalds,NN14 1SS,52.4145,-0.7901
 McDonald's Restaurant,NN14 1SS,52.4145,-0.7901
-Costa Coffee,NN14 2ND,52.4423,-0.8214
+McDonald's,NN14 1SS,52.4148,-0.7911
 The R Inn Tapas Bar & Grill,NN14 2RL,52.4425,-0.8199
 West Lodge Farm Park,NN14 2SH,52.4567,-0.8088
 The Old Bank,NN14 6AD,52.4223,-0.8036
@@ -80,6 +78,7 @@ The Red Lion Rothwell Ltd,NN14 6BW,52.4228,-0.7997
 bewiched coffee,NN14 6BW,52.4228,-0.7997
 The Old Bakehouse,NN14 6FE,52.4227,-0.7994
 Taste of India,NN14 6JW,52.4230,-0.8013
+Brewers Fayre Telford Lodge,NN16 8FX,52.4076,-0.7510
 Glebe Farm Tea Room,NN16 8XF,52.4119,-0.7688
 the wharf inn,NN6 6JQ,52.4226,-1.0540
 The Pytchley Inn,NN6 7AP,52.3409,-1.0753
@@ -91,9 +90,7 @@ Crick Wharf,NN6 7SQ,52.3478,-1.1231
 INDIAN LODGE,NN6 7TP,52.3484,-1.1382
 The Wheatsheaf ,NN6 7TU,52.3473,-1.1356
 THE RED LION,NN6 7TX,52.3469,-1.1358
-Costa Coffee,NN6 7UZ,52.3056,-1.1222
-Costa Coffee,NN6 7UZ,52.3063,-1.1232
-Mcdonalds Restaurants Ltd,NN6 7UZ,52.3056,-1.1222
+Costa Coffee,NN6 7UZ,52.3074,-1.1206
 Red lion  East Haddon,NN6 8BU,52.3076,-1.0211
 The Kings Head Spratton,NN6 8HH,52.3248,-0.9487
 Highgate House,NN6 8NN,52.3376,-0.9578

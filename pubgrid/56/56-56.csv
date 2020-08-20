@@ -1,14 +1,15 @@
 name,postcode,lat,lon
-(Fresh Food Cafe) Roadchef (M1 Northbound),DE55 5TX,53.1304,-1.3401
-(Fresh Food Cafe) Roadchef (M1 Southbound),DE55 5TX,53.1304,-1.3401
-Costa Coffee,DE55 5TX,53.1304,-1.3401
-McDonalds,DE55 5TX,53.1304,-1.3401
 Roadchef Motorways,DE55 5TX,53.1304,-1.3401
+Costa Coffee,DE55 5TZ,53.1373,-1.3321
+McDonald's,DE55 5TZ,53.1361,-1.3329
 Santo's Higham Farm Hotel & Restaurant,DE55 6EH,53.1269,-1.4182
 The White Bear,DE55 6ET,53.1458,-1.4150
 ENJOY CAFE,NG17 1AZ,53.1253,-1.2613
+McDonald's,NG17 1BE,53.1264,-1.2636
 Naboulsi's Caffe,NG17 1BP,53.1252,-1.2634
 Street Coffee,NG17 1BP,53.1252,-1.2634
+The Picture House Sutton in Ashfield (Wetherspoon),NG17 1DA,53.1259,-1.2619
+KFC,NG17 2AE,53.1261,-1.2627
 kfc,NG17 2AE,53.1268,-1.2642
 funtimez at bizzy beans,NG17 2LQ,53.1306,-1.3017
 Huthwaite Tandoori restaurant ,NG17 2QY,53.1287,-1.3021
@@ -17,37 +18,36 @@ The Carnarvon,NG17 3JA,53.1473,-1.2899
 Pizza Hut,NG17 4AX,53.1261,-1.2589
 Bekash Tandoori,NG17 4BG,53.1288,-1.2562
 The Mango Leaf - Indian Restaurant,NG17 4BG,53.1288,-1.2562
-Costa Coffee,NG17 4JL,53.1347,-1.2381
-McDonalds,NG17 4JP,53.1317,-1.2349
+Costa Coffee,NG17 4JL,53.1353,-1.2356
+McDonald's,NG17 4JP,53.1317,-1.2348
 funtimez at jimmy beans,NG17 4NE,53.1265,-1.2415
 Subway,NG17 4NU,53.1319,-1.2400
 Strawberry Fayre,NG17 4PA,53.1290,-1.2290
 The Swan,NG18 1AE,53.1437,-1.1944
 Ciao Bella,NG18 1BJ,53.1407,-1.1950
-Gurkha flavours resturant ,NG18 1BQ,53.1420,-1.1961
+Gurkha flavours resturant ,NG18 1BQ,53.1421,-1.1964
 Apollo Bingo Mansfield,NG18 1BU,53.1362,-1.1995
-Costa Coffee within Odeon Cinema,NG18 1BU,53.1362,-1.1995
-McDonalds Restaurants Limited,NG18 1BU,53.1362,-1.1995
-Nando's,NG18 1BU,53.1362,-1.1995
+McDonald's,NG18 1BU,53.1362,-1.1985
 KFC,NG18 1BW,53.1363,-1.1974
-Pizza Hut Restaurant,NG18 1BW,53.1374,-1.1984
 Waterlily Restaurant ,NG18 1BW,53.1374,-1.1984
 caseys coffee bar,NG18 1DG,53.1436,-1.1953
 MANGROVE INDIAN BISTRO & GRILL,NG18 1DJ,53.1430,-1.1959
 Pizza Hut,NG18 1EA,53.1426,-1.1957
-Burger King,NG18 1HA,53.1393,-1.2025
-Dunelm Mill Pausa Coffee shop,NG18 1HA,53.1393,-1.2025
 Your Space Mansfield,NG18 1HB,53.1381,-1.1993
 MANSFIELD BOWL,NG18 1LG,53.1448,-1.2000
+The Widow Frost Mansfield (Wetherspoon),NG18 1NB,53.1458,-1.1949
 Britalia ,NG18 1NE,53.1449,-1.1953
 Rima Faz Restaurant,NG18 1NE,53.1449,-1.1953
 Subway,NG18 1NE,53.1449,-1.1953
 andwhynot,NG18 1NG,53.1462,-1.1944
 Blue Chilli Thai 2012 Ltd,NG18 1NJ,53.1453,-1.1947
+The Stag  Pheasant Mansfield (Wetherspoon),NG18 1NU,53.1458,-1.1955
 CHAND INDIAN CUISINE ,NG18 1NW,53.1449,-1.1949
 Snowflakes Desserts,NG18 1QH,53.1461,-1.2033
+Costa Coffee,NG18 1RS,53.1454,-1.1974
 ELBEES CAFE,NG18 1RU,53.1461,-1.1992
 Cafe silver ltd,NG18 1RX,53.1457,-1.1987
+McDonald's,NG18 1RY,53.1448,-1.1968
 McDonald's,NG18 1RY,53.1449,-1.1972
 Debenhams Restaurant Mansfield,NG18 1SX,53.1452,-1.1989
 Mansfield lodge Hotel Ltd,NG18 2AF,53.1501,-1.1940
@@ -64,10 +64,11 @@ The Bakers Shop Cafe Limited,NG18 5GY,53.1326,-1.2152
 The Red Bar & Grill,NG18 5LQ,53.1435,-1.2035
 William IV ,NG18 5QE,53.1422,-1.2067
 Bar Cod Fish and Grill,NG19 0GG,53.1561,-1.1735
-Costa Coffee,NG19 0GG,53.1561,-1.1735
 Jangos Indoor Play and Party Centre,NG19 0GG,53.1561,-1.1735
 KFC,NG19 0GG,53.1561,-1.1735
 Subway,NG19 0GG,53.1561,-1.1735
+Costa Coffee,NG19 0HA,53.1559,-1.1727
+KFC,NG19 0HA,53.1558,-1.1723
 Redgate Inn,NG19 6EH,53.1506,-1.2169
 Rufford,NG19 7ES,53.1561,-1.2157
 The White Swan,NG19 7SQ,53.1723,-1.2454
@@ -107,12 +108,9 @@ Ice Cream Parlour - Rufford Park,NG22 9DF,53.1760,-1.0360
 Mill Tea Shop - Rufford Park,NG22 9DF,53.1760,-1.0360
 Savile Restaurant,NG22 9DF,53.1760,-1.0360
 Talbot Suite - Rufford Park,NG22 9DF,53.1760,-1.0360
-Center Parcs Catering Unit - Main Kitchen,NG22 9DN,53.1680,-1.0545
-Starbucks - Sports Cafe,NG22 9DN,53.1680,-1.0545
-Starbucks,NG22 9DN,53.1680,-1.0545
 The Green Hut Cafe,NG22 9DR,53.2010,-1.0278
 Cara Restaurants Limited McDonalds 935,NG22 9DT,53.2002,-1.0273
-McDonalds,NG22 9DT,53.2002,-1.0273
+McDonald's,NG22 9DT,53.2005,-1.0265
 The Baytree Cafe,NG22 9EP,53.2351,-1.0453
 The Crew Yard Cafe and Bistro,NG22 9EX,53.2241,-1.0762
 RUBEEZ RESTAURANT ,S12 2LN,53.3462,-1.4269
@@ -125,7 +123,6 @@ The Bridge Inn,S12 3YD,53.3195,-1.3988
 Treat Squad,S12 4EJ,53.3472,-1.3787
 Waterfall Elior,S12 4HJ,53.3445,-1.3851
 Waterfall Elior,S12 4QE,53.3467,-1.3903
-Starbucks,S20 1DP,53.3483,-1.3386
 The Meeting Place,S20 1EF,53.3488,-1.3361
 Waterfall Elior,S20 1EG,53.3427,-1.3326
 Pulpd Ltd,S20 3AB,53.3294,-1.3340
@@ -136,16 +133,14 @@ The British Oak,S20 5AY,53.3301,-1.3727
 Mosborough Hall Hotel,S20 5EA,53.3215,-1.3567
 D&H Taylor t/as McDonald's,S20 7JJ,53.3446,-1.3569
 KFC,S20 7JJ,53.3446,-1.3569
-McDonalds Restaurants Ltd,S20 7JJ,53.3452,-1.3565
-Starbucks,S20 7JJ,53.3446,-1.3569
-Pizza Hut Restaurant,S20 7JL,53.3436,-1.3530
+KFC,S20 7JL,53.3444,-1.3538
 Waterfall Elior,S20 7JU,53.3364,-1.3514
-Compass Group UK & Ireland,S20 7JZ,53.3443,-1.3610
 Shhhh Coffee Shop LTD,S20 7PH,53.3416,-1.3534
 The ginger publican company limited,S20 7PH,53.3416,-1.3535
 D&H Taylor t/as McDonald's,S20 7PJ,53.3420,-1.3514
 KFC,S20 7PJ,53.3416,-1.3511
-McDonalds Restaurants Ltd,S20 7PJ,53.3420,-1.3514
+McDonald's,S20 7PJ,53.3416,-1.3512
+Costa Coffee,S20 7PN,53.3419,-1.3510
 Waterfall Elior,S20 8FB,53.3305,-1.3485
 Akhtars In Killarmarsh Ltd,S21 1DX,53.3250,-1.3215
 The Travellers Rest,S21 2BW,53.3179,-1.2979
@@ -160,26 +155,21 @@ The Vintage Tack Room and Playbarn,S26 5PQ,53.3494,-1.2994
 ASIA PALACE,S26 5QJ,53.3413,-1.2918
 The station pub,S26 6NP,53.3366,-1.2407
 Traditionals of Kiveton Park,S26 6RD,53.3409,-1.2707
-Burger King,S26 7XR,53.3152,-1.2815
-KFC,S26 7XR,53.3152,-1.2815
-McDonalds,S26 7XR,53.3152,-1.2815
-Starbucks Drive-Thru,S26 7XR,53.3152,-1.2815
-Starbucks,S26 7XR,53.3152,-1.2815
+KFC,S26 7XR,53.3151,-1.2814
 Welcome Break South Retail,S26 7XR,53.3152,-1.2815
 The Beehive,S26 7YH,53.3220,-1.2605
 Subway,S40 1AH,53.2359,-1.4308
 The Market Pub,S40 1AH,53.2359,-1.4308
 Market Hall Cafe,S40 1AR,53.2355,-1.4295
+The Portland Hotel Chesterfield (Wetherspoon),S40 1AY,53.2352,-1.4312
 Westbars Tandoori ,S40 1AZ,53.2358,-1.4353
 KFC,S40 1BA,53.2359,-1.4368
 Mutiara Chinese Restaurant,S40 1BA,53.2359,-1.4364
 the barley mow,S40 1JR,53.2375,-1.4304
 The County Music Bar,S40 1JS,53.2376,-1.4297
-Mecca Bingo Club,S40 1NJ,53.2378,-1.4371
 Cara Restaurants Limited McDonalds 142,S40 1PB,53.2349,-1.4293
-McDonalds (Cara Restaurants Ltd),S40 1PB,53.2349,-1.4293
+McDonald's,S40 1PB,53.2350,-1.4281
 peacock coffee lounge ,S40 1PB,53.2349,-1.4293
-Caffe Nero,S40 1PF,53.2348,-1.4276
 Woodheads Cafe,S40 1PF,53.2348,-1.4276
 Royal Oak,S40 1PX,53.2354,-1.4278
 Thyme To Eat,S40 1PX,53.2354,-1.4278
@@ -187,7 +177,7 @@ CHESTERFIELDS VICTORIA BAKERY LTD,S40 1QF,53.2362,-1.4290
 jamjar interiors ltd trading as vintage tea rooms,S40 1QR,53.2341,-1.4282
 No10 Cafe & Restaurant ,S40 1QX,53.2345,-1.4273
 The Soulville Steakhouse (Chesterfield),S40 1QX,53.2346,-1.4273
-Costa Coffee,S40 1RB,53.2355,-1.4271
+Costa Coffee,S40 1RB,53.2351,-1.4271
 ODYSSEY GREEK  RESTAURANT,S40 1RF,53.2362,-1.4278
 Bottle and Thyme,S40 1RL,53.2365,-1.4272
 O-TOKUDA Japanese Restaurant,S40 1RL,53.2365,-1.4271
@@ -195,32 +185,34 @@ Smoothies and bites ltd,S40 1SA,53.2355,-1.4258
 The Rectory,S40 1SF,53.2356,-1.4250
 Pizza Pi ,S40 1SH,53.2341,-1.4269
 The Spread Eagle,S40 1SH,53.2340,-1.4270
-Pizza Hut Restaurant,S40 1TB,53.2327,-1.4285
+Costa Coffee,S40 1TA,53.2329,-1.4280
 Pinocchio Pizza & Pasta House,S40 1TX,53.2370,-1.4295
 Thai Pavilion,S40 1TX,53.2370,-1.4295
+Thyme,S40 1UN,53.2373,-1.4280
 Lunchbox,S40 1UR,53.2367,-1.4276
 Coffee Street,S40 1XA,53.2368,-1.4255
 Ciuri ciuri restaurant ,S40 1XL,53.2364,-1.4251
 Stephensons Tea and Coffee House ,S40 1XL,53.2364,-1.4251
-McDonalds (Cara Restaurants Ltd),S40 2EZ,53.2294,-1.4220
-Nandos,S40 2EZ,53.2294,-1.4220
+McDonald's,S40 2ED,53.2290,-1.4230
 Boythorpe,S40 2NE,53.2306,-1.4366
 CHESTERFIELD BOWL,S40 2TU,53.2195,-1.4236
 Masons Coffee House,S41 0JA,53.2204,-1.4073
 Lockoford Inn,S41 0TQ,53.2502,-1.4152
-Costa Coffee,S41 7EW,53.2511,-1.4269
-Costa Coffee,S41 7EW,53.2515,-1.4261
+KFC,S41 7EW,53.2514,-1.4261
 Casa Hotel,S41 7JB,53.2509,-1.4238
+Costa Coffee,S41 7JB,53.2512,-1.4262
 KFC,S41 7JB,53.2507,-1.4239
 chesters chesterfield ltd,S41 7JH,53.2477,-1.4264
 El cafe verde,S41 7JQ,53.2494,-1.4275
 Lombardi's Ristorante Italiano,S41 7LL,53.2399,-1.4279
 Sicily Restaurant,S41 7LS,53.2427,-1.4268
+Brewers Fayre Lock Keeper,S41 7NJ,53.2510,-1.4198
 Thai Thai restaurant,S41 7RW,53.2337,-1.4239
 ASHOKA ,S41 7SA,53.2373,-1.4243
 Einstein's,S41 7SA,53.2373,-1.4243
 Miss Poppys Coffee Shop,S41 7SB,53.2370,-1.4250
 The Old Post Restaurant,S41 7SH,53.2385,-1.4259
+Spa Lane Vaults Chesterfield (Wetherspoon),S41 7TH,53.2352,-1.4242
 The galleon steakhouse ,S41 7TH,53.2348,-1.4242
 PIG & PUMP,S41 7TJ,53.2356,-1.4244
 Pomegranate,S41 7TJ,53.2356,-1.4244
@@ -229,9 +221,9 @@ Bar Rumba,S41 7TP,53.2368,-1.4229
 Indian Blues Ltd,S41 7TP,53.2368,-1.4229
 Urban kitchen ,S41 7UG,53.2386,-1.4217
 Dehli 41 Indian Restaurant,S41 8LP,53.2576,-1.4283
+Costa Coffee,S41 8LS,53.2512,-1.4262
 Afats grill,S41 8LT,53.2586,-1.4280
 Giorgio's Italian Restaurant,S41 8LT,53.2586,-1.4280
-Burger King,S41 9BE,53.2588,-1.4206
 Whittington Care Centre (Elior UK),S41 9HF,53.2679,-1.4336
 The Blue Bell Inn,S42 5HY,53.1775,-1.3962
 Anaarkali ,S42 5RA,53.1885,-1.3542
@@ -243,31 +235,30 @@ Lyric Hotels Ltd t/a Ringwood Hall Hotel,S43 1DQ,53.2585,-1.3822
 Chutney Spice ,S43 1JG,53.2572,-1.3957
 Atalian Servest (Bistro),S43 3LY,53.2578,-1.3595
 The Royal Oak,S43 4EU,53.2901,-1.2901
-Baxterstorey Ltd,S43 4PZ,53.2815,-1.2866
 Van Dyk By Wildes ,S43 4TD,53.2879,-1.2550
 THE PEBLEY INN,S43 4TH,53.3085,-1.2813
 Cara Restaurants Limited McDonalds 1027,S43 4WP,53.2836,-1.2909
-Cara Restaurants Ltd T/A McDonalds Restaurants Ltd,S43 4WP,53.2837,-1.2921
-Costa Coffee,S43 4WP,53.2837,-1.2921
-KFC,S43 4WP,53.2837,-1.2921
-McDonalds Restaurants Ltd,S44 5ER,53.2461,-1.3357
+Costa Coffee,S43 4WP,53.2836,-1.2923
+KFC,S43 4WP,53.2837,-1.2920
+McDonald's,S43 4WP,53.2844,-1.2913
 Cara Restaurants Limited McDonalds 1398,S44 5HB,53.2481,-1.3400
+McDonald's,S44 5HB,53.2440,-1.3332
 KFC Markham Vale,S44 5HP,53.2465,-1.3325
-Starbucks Coffee,S44 5HS,53.2421,-1.3296
+KFC,S44 5HP,53.2445,-1.3334
 The Arkwright Arms,S44 5JG,53.2373,-1.3426
 Plug And Feathers,S44 5LY,53.1901,-1.2984
 English Heritage,S44 5QJ,53.1666,-1.3100
 THE ELM TREE,S44 5SE,53.1995,-1.3350
-Starbucks,S44 5SW,53.2010,-1.3406
 The white hart,S44 5TE,53.2340,-1.3787
 Courtyard Kitchen,S44 6DB,53.2295,-1.2903
 Masons little cafe ,S44 6DT,53.2292,-1.2900
 The Pump Bolsover,S44 6PN,53.2293,-1.2921
+The Pillar of Rock Chesterfield (Wetherspoon),S44 6PP,53.2299,-1.2938
 Twin Oaks Hotel,S44 6UZ,53.1995,-1.3181
 The Shoulder at Hardstoft ,S45 8AE,53.1622,-1.3443
 Booths Coffee Shop,S45 8DB,53.1649,-1.3746
 Cara Restaurants Limited McDonalds 1528,S45 9AG,53.1721,-1.4180
-McDonalds,S45 9AG,53.1721,-1.4180
+McDonald's,S45 9AG,53.1733,-1.4159
 Moonlight,S45 9EG,53.1642,-1.4153
 kathmandu dinner ,S45 9EL,53.1630,-1.4156
 Clay Cross Desserts,S45 9JE,53.1667,-1.4145
@@ -285,28 +276,28 @@ piccolo espresso bar,S80 1HS,53.3013,-1.1248
 Best Western Lion Hotel,S80 1HT,53.3017,-1.1248
 Cypriana Coffee House,S80 1JA,53.3030,-1.1249
 Cafe Neo,S80 1JR,53.3058,-1.1251
-Costa Coffee,S80 1JR,53.3058,-1.1251
+Costa Coffee,S80 1JR,53.3064,-1.1251
 THE SHIREOAKS INN,S80 1LT,53.3026,-1.1283
 The Avenue Coffee House Ltd,S80 1NH,53.3033,-1.1316
 THE MILLHOUSE,S80 1NN,53.3031,-1.1359
 Chocolate Orange Tearooms,S80 1PH,53.3084,-1.1217
 THE STATION HOTEL,S80 1PS,53.3104,-1.1212
 Stop & Pour,S80 2AR,53.3041,-1.1224
+The Liquorice Gardens Worksop (Wetherspoon),S80 2AS,53.3043,-1.1236
 Cuckoo Wharf Coffee Shop,S80 2EH,53.3068,-1.1195
 WORKSOP GOLF CLUB LTD,S80 2SQ,53.2923,-1.1107
+McDonald's,S80 3AT,53.3101,-1.1437
 McDonald's,S80 3AT,53.3101,-1.1477
 The Old School Tearooms,S80 3BP,53.2477,-1.0937
 Woodshed Cafe & Bar at Clumber Park Lodges,S80 3BQ,53.2763,-1.0945
 Laing O Rourke,S80 3DT,53.2978,-1.1678
 ARROW FARM SHOP,S80 3DZ,53.3021,-1.1870
 Half Moon,S80 3EE,53.2937,-1.2008
-McDonalds Restaurants Ltd,S80 3EZ,53.3113,-1.1403
 Woodhouse Inn,S80 3HD,53.3162,-1.1507
 The Parish Oven  Thorpe Salvin,S80 3JU,53.3237,-1.2158
 Creswell Heritage Trust,S80 3LH,53.2790,-1.2054
 Notcutts Dukeries,S80 3LW,53.2621,-1.1761
 The Harley Cafe,S80 3LW,53.2621,-1.1761
-Starbucks,S80 3QD,53.3033,-1.1400
 S80 Coffee House,S80 4AA,53.2636,-1.2107
 Limestone House (Elmton and Creswell Village Company),S80 4JE,53.2624,-1.2176
 The Elm Tree Elmton ,S80 4LS,53.2543,-1.2459

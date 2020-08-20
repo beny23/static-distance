@@ -1,26 +1,24 @@
 name,postcode,lat,lon
+Costa Coffee,CB23 3AS,52.2287,-0.1016
 McDonald's Caxton Gibbet,CB23 3AS,52.2286,-0.1024
 Perfect Meals Pizza Pasta / Fish and Chips,CB23 3AS,52.2283,-0.1015
 Subway,CB23 3AS,52.2284,-0.1015
-Costa Coffee,CB23 3PE,52.2286,-0.1028
+McDonald's,CB23 3PE,52.2287,-0.1028
 Royal Papworth Hospital,CB23 3RE,52.2487,-0.1155
 The Courtyard ,CB23 3UY,52.2513,-0.1188
 The George and Dragon Elsworth,CB23 4JQ,52.2562,-0.0685
 Golden Ball Hotel,CB23 4LY,52.2594,-0.0277
 Chopstix Cambridge Extra,CB23 4WU,52.2689,-0.0088
+Costa Coffee,CB23 4WU,52.2689,-0.0087
 EL MEXICANA,CB23 4WU,52.2689,-0.0089
 FRESH ,CB23 4WU,52.2689,-0.0088
-KFC,CB23 4WU,52.2689,-0.0088
 McDonald's Cambridge Services,CB23 4WU,52.2689,-0.0088
-Moto Costa Coffee,CB23 4WU,52.2689,-0.0089
-Patisserie Valerie,CB23 4WU,52.2689,-0.0089
+McDonald's,CB23 4WU,52.2688,-0.0089
 Three Horseshoes,CB23 8AB,52.2259,0.0431
-Burger King,CB23 8DR,52.2590,0.0190
 Fox Inn,CB23 8DY,52.2533,0.0217
-Costa Coffee,CB23 8DZ,52.2535,0.0184
+Costa Coffee,CB23 8EL,52.2534,0.0186
 BAR HILL SPORTS AND SOCIAL CLUB,CB23 8SU,52.2489,0.0159
 TNS Catering_Domino,CB23 8TU,52.2582,0.0182
-Waterfall Elior,CB23 8TU,52.2581,0.0180
 The White Horse,CB24 3AB,52.2609,0.0632
 The Olive Tree Cafe,CB24 3BD,52.2571,0.0639
 black bull ,CB24 3BS,52.2818,0.0450
@@ -38,26 +36,25 @@ Barley mow,CB24 9JD,52.2524,0.1055
 THE INDIAN OCEAN,CB24 9JE,52.2532,0.1047
 The Boot,CB24 9LG,52.2519,0.1066
 The Railway Vue,CB24 9NP,52.2453,0.1100
-Elior,CB24 9NR,52.2469,0.1040
 Scotsdales Cafe Horningsea,CB25 9JG,52.2393,0.1851
 The Crown & Punchbowl,CB25 9JG,52.2393,0.1851
 The Plough and Fleece,CB25 9JG,52.2393,0.1851
 Old Crown,CB3 0QD,52.2411,0.0810
 Girton Golf Club (Cambridge) Limited,CB3 0QE,52.2434,0.0795
 KFC CAMBRIDGE SERVICE,CB3 8WG,52.2494,-0.1173
-BaxterStorey,CB4 0FP,52.2315,0.1443
+KFC,CB3 8WG,52.2689,-0.0088
 The Bradfield Centre,CB4 0GA,52.2342,0.1478
 St John's Innovation Centre Ltd The Square,CB4 0WS,52.2353,0.1537
 Thoroughbreads,CB4 0WY,52.2315,0.1514
-Wilson Vale Catering Ltd  Qualcomm,CB4 0WZ,52.2288,0.1537
 Pizza Hut,CB4 2AD,52.2351,0.1180
+Thyme,CB4 2GW,52.2348,0.1162
 Cafe Camtown,CB4 2XF,52.2321,0.1227
+Costa Coffee,CB4 6AZ,52.2388,0.1546
 The Village Inn,CB6 2HQ,52.3869,0.2056
 The lazy otter ,CB6 3LU,52.3340,0.2014
 Twenty Pence Garden Centre,CB6 3RN,52.3481,0.1746
 The Cherry Tree Haddenham,CB6 3UE,52.3537,0.1496
 THE THREE KINGS,CB6 3XD,52.3613,0.1495
-Prezzo,CB7 4JZ,52.3738,0.0071
 The Three Horseshoes,PE19 6PL,52.2598,-0.1706
 Indiaana ,PE26 1AB,52.4480,-0.1077
 The Ale House Kitchen ,PE26 1AB,52.4480,-0.1077
@@ -71,14 +68,17 @@ The White Lion,PE26 2PA,52.4386,-0.1159
 St Ives (Hunts) Golf Club,PE27 4AD,52.3379,-0.0451
 Costa Coffee,PE27 4AE,52.3302,-0.0600
 Eric's Fish & Chips,PE27 4AE,52.3302,-0.0600
-Kyra Enterprises Ltd T/A McDonalds,PE27 4AE,52.3302,-0.0600
 McDonald's Restaurant,PE27 4AE,52.3302,-0.0600
 Subway St Ives,PE27 4AE,52.3302,-0.0600
 The Queens Head,PE27 4SA,52.3303,-0.0336
 Pike & Eel,PE27 4TW,52.3232,-0.0060
 pike and eel,PE27 4TW,52.3232,-0.0060
+Costa Coffee,PE27 4WJ,52.3303,-0.0599
+McDonald's,PE27 4WY,52.3310,-0.0610
+Costa Coffee,PE27 5AB,52.3239,-0.0740
 Costa Coffee,PE27 5AB,52.3240,-0.0739
 The Golden Lion Hotel,PE27 5AL,52.3230,-0.0731
+The Swan and Angel St Ives (Wetherspoon),PE27 5AL,52.3231,-0.0728
 Amore,PE27 5AR,52.3229,-0.0743
 Floods,PE27 5BX,52.3246,-0.0762
 PR MASSALA,PE27 5DX,52.3227,-0.0735
@@ -95,7 +95,6 @@ SLEPE HALL HOTEL,PE27 5RB,52.3287,-0.0765
 The Seven Wives,PE27 5RF,52.3321,-0.0767
 River Tea Rooms Ltd,PE27 5UW,52.3232,-0.0753
 Zzohanna ,PE27 5UW,52.3232,-0.0751
-Dobbies Garden Centres Ltd,PE28 2AA,52.3366,-0.1388
 The Three Jolly Butchers ,PE28 2AD,52.3346,-0.1255
 The Three Horseshoes,PE28 2BE,52.3329,-0.1200
 Inflatabounce Ltd,PE28 2DY,52.3398,-0.1102
@@ -111,7 +110,6 @@ green man colne,PE28 3LZ,52.3640,0.0175
 The Axe and Compass,PE28 9AH,52.3222,-0.1187
 Hemingford Garden Room,PE28 9BJ,52.3185,-0.1037
 The Cock ,PE28 9BJ,52.3189,-0.1048
-Burger King,PE28 9LP,52.2986,-0.0607
 The Duchess,PE28 9LQ,52.2984,-0.0723
 PRINCE OF WALES,PE28 9NG,52.2796,-0.1124
 Elior,PE29 1AF,52.3332,-0.1839
@@ -120,22 +118,21 @@ The Barley Mow,PE29 1XU,52.3383,-0.1591
 king of the belgians,PE29 1XU,52.3383,-0.1591
 The White Hart,PE29 2BW,52.3194,-0.1663
 Planet Spice,PE29 2HA,52.3182,-0.1751
-Costa Coffee,PE29 3AQ,52.3296,-0.1825
+Costa Coffee,PE29 3AQ,52.3297,-0.1824
 Original Thai ,PE29 3AQ,52.3296,-0.1825
+Sandford House Huntingdon (Wetherspoon),PE29 3BD,52.3305,-0.1870
 83 High Street Limited t/a Rajpoot Huntingdon,PE29 3ER,52.3325,-0.1861
-Pizza Express,PE29 3LB,52.3312,-0.1848
 Rosamunds,PE29 3LD,52.3307,-0.1837
 SUBWAY HUNTINGDON,PE29 3LJ,52.3305,-0.1823
-Caffe Nero,PE29 3LZ,52.3304,-0.1817
+Costa Coffee,PE29 3NQ,52.3308,-0.1814
 Hill Ephesus,PE29 3NR,52.3303,-0.1848
 Samuel Pepys,PE29 3TF,52.3282,-0.1791
 Curry Pizza Express,PE29 6DY,52.3434,-0.1898
-BaxterStorey,PE29 6YE,52.3481,-0.1894
-Waterway Cafe (BaxterStorey),PE29 6YJ,52.3464,-0.1992
+Costa Coffee,PE29 7DZ,52.3523,-0.1827
 Costa Coffee,PE29 7DZ,52.3528,-0.1844
 KFC - Towerfields Huntingdon,PE29 7EG,52.3513,-0.1803
-KFC,PE29 7EG,52.3514,-0.1807
+KFC,PE29 7EG,52.3507,-0.1812
 McDonald's Restaurant,PE29 7EG,52.3514,-0.1807
-McDonalds,PE29 7EG,52.3514,-0.1807
-Nandos,PE29 7EG,52.3513,-0.1804
+McDonald's,PE29 7EG,52.3515,-0.1818
+Nando's,PE29 7EG,52.3515,-0.1814
 Aslan bross Tonys takeway,PE29 7HN,52.3454,-0.1757

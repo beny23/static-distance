@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+The Obediah Brooke Cleckheaton (Wetherspoon),BD19 3JH,53.7246,-1.7124
 Aldo's Restaurant,BD19 3RU,53.7234,-1.7122
 The Bull's Head,BD19 4HX,53.7227,-1.6844
 The Wheatsheaf,BD19 4JQ,53.7234,-1.6925
@@ -38,30 +39,32 @@ Cubley Hall,S36 9DF,53.5155,-1.6325
 ti amo restaurant ltd,S36 9EF,53.5289,-1.6374
 Windmill Coffee Shop,S36 9NY,53.5296,-1.6730
 Huntsman Pub,S36 9QW,53.5267,-1.6551
-Compass Group at Capita House,S63 5DJ,53.5083,-1.3293
 Manvers Lake Cafe,S63 7DG,53.5068,-1.3367
-KFC,S63 7DQ,53.5078,-1.3369
+Costa Coffee,S63 7DQ,53.5107,-1.3585
+KFC,S63 7DQ,53.5106,-1.3584
 G J’s Cafe,S63 7EE,53.5026,-1.3277
 Coffee St.,S63 7FN,53.5105,-1.3564
 ONYX FISH BAR & GRILL,S63 7FN,53.5105,-1.3564
 Thai Garden Cage Limited,S63 7FN,53.5102,-1.3566
 Cafe Naaz ,S63 7LW,53.5020,-1.3444
+The Church House WathuponDearne (Wetherspoon),S63 7RZ,53.5022,-1.3454
 Coffee Boy,S70 1GW,53.5523,-1.4794
 Jar Bar,S70 1GW,53.5519,-1.4789
 KAY'S CAFE,S70 1GW,53.5522,-1.4786
 Khao Niew Thai Cafe,S70 1GW,53.5522,-1.4786
 MEZE TURKISH KITCHEN,S70 1GW,53.5522,-1.4786
 Rajah foods limited ,S70 1GW,53.5522,-1.4786
-McDonalds,S70 1LP,53.5493,-1.4810
+McDonald's,S70 1LQ,53.5492,-1.4796
 Albert Street Cafe,S70 1RS,53.5514,-1.4799
 Julie and Sue Catering Ltd t/a The Courtyard,S70 1RS,53.5514,-1.4802
 Pinocchios Retaurant,S70 1RX,53.5512,-1.4791
 Subway,S70 1SD,53.5544,-1.4775
-Costa Coffee,S70 1SJ,53.5527,-1.4804
+Costa Coffee,S70 1SJ,53.5526,-1.4804
 Chilli Restaurant,S70 1SN,53.5512,-1.4805
 Grille Steakhouse,S70 1SN,53.5512,-1.4805
 PJ CAFE,S70 1SN,53.5512,-1.4805
 Pasha ,S70 1SN,53.5512,-1.4805
+The Silkstone Inn Barnsley (Wetherspoon),S70 1SN,53.5512,-1.4805
 blackburns cafe,S70 1SN,53.5512,-1.4805
 Chennells,S70 1SS,53.5517,-1.4821
 Wellington st chippy,S70 1SS,53.5517,-1.4817
@@ -76,6 +79,7 @@ The White Bear,S70 2AH,53.5554,-1.4827
 Estabulo Bar & Grill,S70 2HG,53.5548,-1.4800
 Brasserie Ruelle,S70 2HT,53.5541,-1.4795
 The Garrison,S70 2HZ,53.5538,-1.4806
+The Joseph Bramah Barnsley (Wetherspoon),S70 2PX,53.5529,-1.4817
 Old George Coffee House,S70 2QE,53.5533,-1.4812
 Angelini's ,S70 2QN,53.5535,-1.4807
 Aroma Cafe Bar,S70 2QN,53.5535,-1.4806
@@ -85,16 +89,19 @@ Cafe Creme Barnsley,S70 2QP,53.5533,-1.4805
 Lemon Tree ,S70 2QT,53.5527,-1.4819
 Food hub barnsley,S70 2QX,53.5522,-1.4829
 The Pavilion Bar and Kitchen,S70 2RD,53.5535,-1.4869
-KFC,S70 2RL,53.5524,-1.4854
+Costa Coffee,S70 2RL,53.5525,-1.4858
 Taco Bell,S70 2RL,53.5526,-1.4850
+KFC,S70 2SB,53.5524,-1.4862
+Table Table Glass House,S70 2SB,53.5533,-1.4872
 Pieminister Barnsley,S70 2SW,53.5533,-1.4829
+McDonald's,S70 3NT,53.5449,-1.4377
 SUBWAY - BARNSLEY TRADE PARK,S70 3PB,53.5389,-1.4308
 Cardamom Lounge,S70 3RH,53.5468,-1.4504
 Boatmans rest ltd ,S70 4TD,53.5280,-1.4556
 The Red Lion Country Inn,S70 5LJ,53.5264,-1.4708
 Dale tavern,S70 5PG,53.5295,-1.4583
-KFC,S70 5SZ,53.5027,-1.4731
 Dunkin Donuts Rockingham,S70 5TW,53.5015,-1.4757
+KFC,S70 5TW,53.5027,-1.4731
 Taco Bell,S70 5TW,53.5015,-1.4757
 Travellers inn ,S70 5UX,53.5078,-1.4806
 Hadley’s ,S70 6AP,53.5492,-1.4898
@@ -102,10 +109,10 @@ puccinis,S70 6HL,53.5523,-1.4943
 Shaw Lane Sports Club,S70 6HZ,53.5504,-1.4933
 Rob Royd Farm Shop Ltd,S70 6NW,53.5382,-1.4912
 Metrodome Leisure Complex,S71 1AN,53.5532,-1.4735
-Buzz Bingo,S71 1AY,53.5539,-1.4763
 Subway,S71 1JE,53.5575,-1.4702
+McDonald's,S71 1LN,53.5599,-1.4741
 KFC Wakefield Road,S71 1NG,53.5681,-1.4718
-KFC,S71 1NG,53.5681,-1.4718
+KFC,S71 1NG,53.5679,-1.4717
 Barnsley Bowl Ltd,S71 2AZ,53.5734,-1.4629
 The Full House ,S71 2NW,53.5631,-1.4602
 Ruby's Ice Cream,S71 4QU,53.5980,-1.4537
@@ -116,12 +123,13 @@ Poppy's of Cudworth LTD,S72 8JN,53.5776,-1.4166
 Two Gates Fisheries,S72 8PZ,53.5897,-1.4070
 PRISSANA THAI RESTAURANT,S72 8QP,53.5894,-1.4058
 Burntwood Sports Ltd,S72 9ET,53.5916,-1.3640
+The Horseshoe Wombwell (Wetherspoon),S73 0AA,53.5227,-1.3984
 Squires Bar,S73 0DA,53.5219,-1.3978
 The Kitchen Witch Company,S73 0DA,53.5218,-1.3978
 Wombwell Hillies Golf Course,S73 0LA,53.5164,-1.3998
 The elephant and castle,S73 0NT,53.5065,-1.4063
-Pizza Hut Restaurant,S73 0TB,53.5074,-1.3893
-McDonalds,S73 0UF,53.5104,-1.3867
+McDonald's,S73 0TB,53.5078,-1.3886
+Brewers Fayre The Meadows,S73 0UN,53.5161,-1.3777
 The Old Moor Tavern,S73 0YQ,53.5206,-1.3704
 The Ash Inn,S73 8EP,53.5369,-1.4220
 Coffee Thyme,S73 8HS,53.5235,-1.4007
@@ -172,11 +180,11 @@ Lobby 1867,WF1 1EP,53.6817,-1.5023
 iris restaurant,WF1 1HA,53.6834,-1.4990
 Marmalade on the square ,WF1 1HB,53.6832,-1.4984
 Mr and Mrs C’s,WF1 1HB,53.6832,-1.4984
-Costa Coffee,WF1 1HD,53.6832,-1.4980
+Costa Coffee,WF1 1HD,53.6832,-1.4979
 Al's Tea and coffee Shop ,WF1 1HX,53.6824,-1.4938
 Harry's Fish & Chip Restaurant,WF1 1HX,53.6824,-1.4938
+The Six Chimneys Wakefield (Wetherspoon),WF1 1HX,53.6829,-1.4943
 Sweet Sensation Creamery Limited,WF1 1JG,53.6813,-1.4927
-Buzz Bingo,WF1 1JN,53.6798,-1.4995
 Holiday Inn Express Wakefield,WF1 1JU,53.6821,-1.4994
 Syhiba restaurant ,WF1 1NE,53.6808,-1.4952
 Montys,WF1 1PJ,53.6832,-1.4967
@@ -185,14 +193,10 @@ neptune diner,WF1 1PN,53.6836,-1.4970
 Tet resteraunt,WF1 1PQ,53.6829,-1.4986
 cafe lounge 46,WF1 1PQ,53.6829,-1.4986
 Trinity Bakehouse & cafe,WF1 1QG,53.6837,-1.4956
-Burger King,WF1 1QR,53.6850,-1.4968
-Pizza Express,WF1 1QR,53.6840,-1.4968
 Starbucks Wakefield Trinity Walk,WF1 1QR,53.6850,-1.4968
-Starbucks,WF1 1QR,53.6850,-1.4968
-Caffe Nero,WF1 1QS,53.6836,-1.4945
 Muffin Break Wakefield,WF1 1QS,53.6843,-1.4961
 The Chinese Buffet,WF1 1QS,53.6843,-1.4961
-Costa Coffee,WF1 1QU,53.6847,-1.4951
+Costa Coffee,WF1 1QU,53.6848,-1.4940
 love jacobs ltd,WF1 1QU,53.6848,-1.4947
 TRINITY LOUNGE,WF1 1QW,53.6840,-1.4968
 CAFE RED,WF1 1TU,53.6807,-1.4928
@@ -206,8 +210,6 @@ Jay Dee’s,WF1 1XQ,53.6822,-1.5018
 lala's wakefied,WF1 1XQ,53.6822,-1.5018
 the black horse,WF1 1XR,53.6820,-1.5032
 R Spice Wakefield Limited,WF1 2AT,53.6985,-1.5167
-Baxterstorey,WF1 2DF,53.7010,-1.5077
-Starbucks,WF1 2DH,53.6865,-1.5059
 Wetherby Whaler,WF1 2DX,53.7097,-1.5019
 Meghna India restaurant & takeaway limited ,WF1 2DY,53.7093,-1.5016
 Create Cafe,WF1 2EB,53.6842,-1.5037
@@ -216,17 +218,15 @@ Smokehouse Real BBQ Limited,WF1 2ED,53.6834,-1.4996
 The Golden Pineapple,WF1 2ED,53.6834,-1.4996
 damelio,WF1 2ED,53.6834,-1.4996
 QUBANA ,WF1 2EL,53.6833,-1.5001
-Starbucks,WF1 2GS,53.6958,-1.5041
 Festive Fusion,WF1 2HB,53.6838,-1.5002
 Kirklands Hotel,WF1 2LU,53.7128,-1.4997
 Capri At The Vine,WF1 2QF,53.6934,-1.5046
-Costa Coffee,WF1 2QN,53.6833,-1.5062
+Costa Coffee,WF1 2QN,53.6829,-1.5057
 The Priory Bar,WF1 2TJ,53.6827,-1.5048
 Estabulo Bar & Grill,WF1 2TS,53.6831,-1.5036
-Burger King,WF1 2UJ,53.6988,-1.5079
+Brewers Fayre Rhubarb Triangle,WF1 2UF,53.6988,-1.5079
 Kashmiri Aroma (Wakefield) LLP,WF1 2UJ,53.6988,-1.5079
-Costa Coffee,WF1 2UZ,53.6970,-1.5073
-McDonalds Restaurant,WF1 2UZ,53.6970,-1.5073
+McDonald's,WF1 2UZ,53.6966,-1.5062
 Ronnies Limited t/a McDonalds 1505,WF1 2UZ,53.6970,-1.5073
 Subway,WF1 2UZ,53.6970,-1.5073
 Delphi Cafe,WF1 3AN,53.6841,-1.4981
@@ -247,7 +247,6 @@ Abduls,WF1 3NR,53.6868,-1.4939
 Taste Buds At The Station,WF1 4EL,53.6787,-1.4894
 Kashmiri Posh Nosh,WF1 5DY,53.6720,-1.4824
 RAJA'S DESI GRILL,WF1 5DY,53.6720,-1.4824
-Starbucks,WF1 5FW,53.6680,-1.4839
 Aagrah Sandal ,WF1 5NX,53.6661,-1.4868
 Thornes Lane Cafe,WF1 5RS,53.6745,-1.4971
 The Kings Arms,WF1 5SL,53.6761,-1.4621
@@ -255,11 +254,9 @@ Michelle’s cafe ,WF10 3JJ,53.7235,-1.3146
 Pizza Hut,WF10 3JJ,53.7235,-1.3146
 Breakfast At Tracy's Ltd,WF10 4EJ,53.7209,-1.3553
 BB's Coffee & Muffins ,WF10 4FR,53.7127,-1.3388
-Costa Coffee,WF10 4FR,53.7119,-1.3394
-Starbucks,WF10 4FR,53.7120,-1.3395
 Tilly's Kitchen,WF10 4FR,53.7120,-1.3395
 china city restaurant,WF10 4LX,53.7154,-1.3477
-Buzz Bingo,WF10 4RW,53.7141,-1.3355
+Costa Coffee,WF10 4SB,53.7131,-1.3383
 Starbucks Castleford Outlet Centre,WF10 4SB,53.7128,-1.3356
 Starbucks Castleford Xscape Snozone,WF10 4SB,53.7128,-1.3356
 Subway,WF10 4SB,53.7128,-1.3356
@@ -267,33 +264,26 @@ Thorntons Ltd,WF10 4SB,53.7128,-1.3356
 BURGERKING,WF10 4TA,53.7102,-1.3419
 Domino's Pizza - Castleford,WF10 4TA,53.7102,-1.3419
 Gravity - Xscape,WF10 4TA,53.7101,-1.3422
+KFC,WF10 4TA,53.7089,-1.3376
 KFC,WF10 4TA,53.7102,-1.3419
-McDonalds Restaurant,WF10 4TA,53.7102,-1.3419
-Nandos,WF10 4TA,53.7101,-1.3422
-Pizza Express,WF10 4TA,53.7102,-1.3419
-Pizza Hut,WF10 4TA,53.7102,-1.3419
+McDonald's,WF10 4TA,53.7094,-1.3357
+Nando's,WF10 4TA,53.7100,-1.3406
 Smoky Boys,WF10 4TA,53.7102,-1.3419
 Snozone Limited Castleford,WF10 4TA,53.7102,-1.3419
-Starbucks,WF10 4TA,53.7101,-1.3422
 Subway,WF10 4TA,53.7102,-1.3419
-TGI Fridays,WF10 4TA,53.7102,-1.3419
-Tenpin Ltd,WF10 4TA,53.7102,-1.3419
-Windmill (NI) Ltd t/a Burger King,WF10 4TA,53.7102,-1.3419
+The Winter Seam Castleford (Wetherspoon),WF10 4TA,53.7096,-1.3407
+Thyme,WF10 4TA,53.7098,-1.3401
 new eastern court restaurant,WF10 4TA,53.7102,-1.3419
-Costa Coffee,WF10 4UA,53.7128,-1.3482
 zoes foodfactory,WF10 5BP,53.7220,-1.3554
 Red chilli 1 ltd ,WF10 5BS,53.7213,-1.3558
-Baxterstorey,WF10 5GT,53.7101,-1.3887
-Compass Group Catering,WF10 5HX,53.7063,-1.3467
 Battyes (Castleford) Limited,WF10 5JT,53.7153,-1.3500
 Scufflers Cafe ,WF10 5JU,53.7222,-1.3638
 COFFEEBOY,WF10 5NW,53.7163,-1.3820
 Westys and co,WF10 5NW,53.7164,-1.3826
 The Twisted Tree,WF10 5PT,53.7133,-1.3865
+Thyme,WF10 5TG,53.7116,-1.3870
 Woolpack Country Inn,WF12 0LZ,53.6566,-1.6672
-Costa Coffee,WF12 8EN,53.6892,-1.6280
-Kfc,WF12 8EQ,53.6904,-1.6245
-Mecca Bingo,WF12 8EQ,53.6904,-1.6245
+KFC,WF12 8EB,53.6885,-1.6264
 Spinners arms,WF12 8PX,53.6916,-1.5983
 Deli Delicious ,WF12 9AU,53.6851,-1.6281
 yaadgaar,WF12 9AY,53.6822,-1.6258
@@ -306,6 +296,7 @@ Pops,WF13 1DX,53.6932,-1.6296
 Islamabad Catering Ltd T/A The Royal Palm Restaurant,WF13 1HD,53.6906,-1.6350
 Royal King Grill Restaurant,WF13 1JS,53.6903,-1.6315
 Costa Coffee,WF13 1NH,53.6904,-1.6287
+Costa Coffee,WF13 1NH,53.6913,-1.6281
 Cafe Mon Amis,WF13 1QG,53.6926,-1.6279
 Subway,WF13 1QH,53.6922,-1.6283
 Pizza GoGo,WF13 1QN,53.6927,-1.6288
@@ -346,8 +337,9 @@ Crafty Kids ,WF16 0HH,53.7072,-1.6782
 Cafe 54,WF16 0HX,53.7073,-1.6743
 Samarkand Restaurant ,WF16 0JA,53.7073,-1.6733
 Shama Heckmondwike Ltd,WF16 9BJ,53.7211,-1.6688
+Costa Coffee,WF16 9RL,53.7095,-1.6763
 McDonald's Restaurant,WF16 9RL,53.7085,-1.6762
-McDonalds,WF16 9RL,53.7085,-1.6762
+McDonald's,WF16 9RL,53.7092,-1.6769
 Chaiiwala Batley,WF17 5DA,53.7143,-1.6341
 Exotica Cafe ,WF17 5DR,53.7150,-1.6328
 K&K GELATO LTD,WF17 5EP,53.7131,-1.6308
@@ -355,6 +347,7 @@ icestone gelato,WF17 5EP,53.7131,-1.6309
 Yorem Turkish Restaurant Ltd,WF17 5EY,53.7132,-1.6300
 Desi Dhaba ,WF17 5HJ,53.7127,-1.6295
 brew batley ltd,WF17 5HU,53.7122,-1.6329
+The Union Rooms Batley (Wetherspoon),WF17 5HW,53.7126,-1.6286
 Indian Nights,WF17 5JE,53.7120,-1.6333
 Mr T's,WF17 5LZ,53.7116,-1.6267
 CEYLON DOSA LTD,WF17 5PN,53.7105,-1.6275
@@ -381,9 +374,7 @@ LAKESIDE,WF2 6QG,53.6384,-1.4979
 Campanile Wakefield,WF2 7AL,53.6652,-1.5100
 Wetherby Whaler,WF2 7AW,53.6638,-1.5053
 BURGER KING-Peel Avenue Wakefield,WF2 7BL,53.6520,-1.5240
-Burger King,WF2 7BL,53.6520,-1.5240
 KFC,WF2 7BL,53.6520,-1.5240
-Starbucks,WF2 7BL,53.6520,-1.5240
 Fortythree Boutique Coffee Shop,WF2 7EE,53.6486,-1.4964
 Rinaldis Restaurant  ,WF2 7JE,53.6494,-1.4978
 Elior UK,WF2 7LJ,53.6415,-1.5155
@@ -393,18 +384,14 @@ Cross lane fisheries ,WF2 8BQ,53.6742,-1.5186
 The Queens Arms ,WF2 8ED,53.6706,-1.5037
 Mother Hubbards,WF2 8TU,53.6777,-1.5160
 Pizza Hut,WF2 8TU,53.6777,-1.5160
-McDonalds Restaurant,WF2 9BL,53.6787,-1.5166
 coffeeboy,WF2 9BL,53.6788,-1.5163
+McDonald's,WF2 9BY,53.6785,-1.5229
 Ronnies Limited t/a McDonalds 569,WF2 9BY,53.6784,-1.5252
 Smokie joes,WF2 9RG,53.6801,-1.5089
+KFC,WF2 9SD,53.6785,-1.5045
 KFC,WF2 9SE,53.6781,-1.5025
-Mcdonalds Restaurant,WF2 9SE,53.6781,-1.5026
+McDonald's,WF2 9SE,53.6761,-1.5027
 Ronnies Limited t/a McDonalds 668,WF2 9SE,53.6781,-1.5026
-Costa Coffee,WF2 9SH,53.6772,-1.5061
-KFC,WF2 9SH,53.6772,-1.5061
-Mecca Bingo,WF2 9SH,53.6772,-1.5061
-Nandos,WF2 9SH,53.6772,-1.5061
-Pizza Hut,WF2 9SH,53.6772,-1.5061
 Subway,WF2 9SH,53.6772,-1.5061
 Beans,WF3 1AE,53.7240,-1.5696
 British Oak,WF3 1AF,53.7240,-1.5772
@@ -415,7 +402,9 @@ Spar,WF4 1HF,53.6593,-1.4239
 Redbeck Motel Ltd,WF4 1RR,53.6647,-1.4474
 YOH BURGER (WAKEFIELD),WF4 1RR,53.6648,-1.4464
 Rycroft Leisure CIO,WF4 2BB,53.6222,-1.4133
+KFC,WF4 3AD,53.6518,-1.5245
 HAMPSONSPLANTWORLD LTD,WF4 3AZ,53.6541,-1.5192
+Breakfast Room,WF4 3BB,53.6528,-1.5222
 Kingfisher Fish and Chips,WF4 3DA,53.6471,-1.5385
 Blackerhall Farm Shop Limited,WF4 3DN,53.6347,-1.5456
 STATION PUB,WF4 3ER,53.6342,-1.5437
@@ -425,10 +414,7 @@ Kaye Arms Bistro,WF4 4BG,53.6371,-1.6558
 CINNAMON LOUNGE,WF4 4BP,53.6280,-1.6777
 The Sun Inn ,WF4 4DW,53.6298,-1.6452
 The Kitchen at YSP,WF4 4LG,53.6073,-1.5632
-Burger King,WF4 4LQ,53.6220,-1.5446
-Costa Coffee,WF4 4LQ,53.6220,-1.5446
-Moto Hospitality Forecourt North,WF4 4LQ,53.6220,-1.5446
-Moto Hospitality Forecourt South,WF4 4LQ,53.6220,-1.5446
+Costa Coffee,WF4 4LQ,53.6222,-1.5456
 The Spiced Mango,WF4 4NS,53.6508,-1.5963
 SeedRoom,WF4 4RG,53.6491,-1.6099
 Reindeer Inn (OVERTON) Ltd,WF4 4RL,53.6446,-1.6149
@@ -458,15 +444,11 @@ Gandhi Spice Ltd,WF5 8PS,53.6789,-1.5802
 The Oak Pub Limited,WF5 9AU,53.6980,-1.5978
 Niko's Greek and Mediterranean Restaurant ,WF5 9DB,53.6811,-1.5795
 The Mews Hotel,WF5 9HN,53.6838,-1.5777
-Compass Group Uk & Ireland Ltd,WF6 1TL,53.7061,-1.3951
-Baxterstorey,WF6 1TN,53.7059,-1.3885
-Compass Group Uk & Ireland Ltd,WF6 1TN,53.7059,-1.3885
 Corner Kitchen,WF6 2AD,53.6998,-1.4196
 Gem's Bistro ,WF6 2AF,53.7002,-1.4185
 SLICED CAFE,WF6 2AF,53.7002,-1.4185
 Trennerys cafe,WF6 2AQ,53.7000,-1.4181
 Arooje restaurant ,WF6 2AR,53.6995,-1.4218
-Compass Group Uk & Ireland Ltd,WF6 2TZ,53.7194,-1.4113
 Warburtons Canteen,WF6 2TZ,53.7194,-1.4113
 Farmer Copleys Farm Shop Ltd,WF7 5AF,53.6799,-1.3358
 Shuhag Indian Restaurant LTD ,WF7 5BJ,53.6770,-1.3590
@@ -484,6 +466,7 @@ Mauds Cafe Bar,WF8 1AQ,53.6910,-1.3106
 The Blind Pig,WF8 1AT,53.6916,-1.3115
 Flavours Coffee Shops Ltd,WF8 1BA,53.6920,-1.3112
 KFC,WF8 1BJ,53.6920,-1.3139
+KFC,WF8 1BJ,53.6921,-1.3135
 Coffee At The Court,WF8 1BP,53.6921,-1.3150
 AL JAMIL BALTI RESTAURANT ,WF8 1DA,53.6918,-1.3147
 KAYASAN YORKSHIRE LIMITED ,WF8 1HE,53.6926,-1.3101
@@ -494,15 +477,16 @@ Tulsi Indian restaurant ,WF8 1LG,53.6902,-1.3127
 Alleyc'zam cafe and bar,WF8 1LN,53.6898,-1.3131
 WF8 1LN,WF8 1LN,53.6898,-1.3125
 The Blue Bell,WF8 1LW,53.6906,-1.3114
-Baxterstorey,WF8 1NJ,53.6923,-1.3154
 Angie's Cafe,WF8 1PD,53.6926,-1.3085
+The Broken Bridge Pontefract (Wetherspoon),WF8 1PD,53.6927,-1.3095
 Knights of Pontefract,WF8 1PE,53.6927,-1.3095
 Gelato creamery,WF8 1PQ,53.6917,-1.3090
 Dominos Pizza,WF8 1QD,53.6934,-1.3068
 Waterfall Elior Limited,WF8 4GY,53.6867,-1.3171
 Kings Croft Hotel,WF8 4HA,53.6842,-1.3298
 MEHMOOD BIG BITES,WF8 4LR,53.6805,-1.3196
-McDonalds Restaurant,WF8 4PR,53.6973,-1.3193
+McDonald's,WF8 4PR,53.6975,-1.3204
+The Blue Bell Pontefract (Wetherspoon),WF9 4LQ,53.6136,-1.3543
 Snack in a Box,WF9 4QZ,53.6130,-1.3602
 Elior Uk @ Four Seasons,WF9 5EA,53.6229,-1.3640
 Lakeside Cafe Bar,WF9 5JB,53.6265,-1.3583

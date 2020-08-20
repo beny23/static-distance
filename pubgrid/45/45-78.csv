@@ -1,7 +1,6 @@
 name,postcode,lat,lon
 Southwold Pier,IP18 6BN,52.3308,1.6850
 Cafe 51,IP18 6DJ,52.3271,1.6772
-The Cornish Bakery,IP18 6DN,52.3272,1.6777
 Tiptree Tea Room at The High Street,IP18 6DN,52.3272,1.6777
 The Crown,IP18 6DP,52.3266,1.6787
 FARMHOUSE BAKERY,IP18 6DS,52.3263,1.6784
@@ -12,10 +11,13 @@ The sail Loft,IP18 6HQ,52.3211,1.6775
 The Randolph Hotel,IP18 6PZ,52.3377,1.6653
 The Bell Inn,IP18 6TN,52.3142,1.6657
 White Hart,IP19 9LQ,52.3223,1.5979
+The Joseph Conrad Lowestoft (Wetherspoon),NR32 1BA,52.4743,1.7510
 McDonald's Restaurant,NR32 1BH,52.4748,1.7509
+McDonald's,NR32 1BH,52.4747,1.7509
 Subway,NR32 1BH,52.4748,1.7509
 Hippodrome Bingo Lowestoft,NR32 1DH,52.4754,1.7537
 Woodbine Cafe,NR32 1DZ,52.4742,1.7520
+Costa Coffee,NR32 1EP,52.4747,1.7514
 Costa Coffee,NR32 1EP,52.4748,1.7517
 Starbucks,NR32 1HA,52.4766,1.7532
 Sgt Peppers Restaurant Ltd,NR32 1HU,52.4842,1.7562
@@ -26,6 +28,7 @@ MARTELLO COFFEE HOUSE,NR32 1XG,52.4879,1.7576
 The flint house Lowestoft ,NR32 1XN,52.4809,1.7559
 JOJO'S Kitchen and Bar,NR32 1XW,52.4799,1.7557
 Bains Fish bar ,NR32 2AG,52.4756,1.7493
+Costa Coffee,NR32 2ED,52.4775,1.7332
 Subway,NR32 2ED,52.4781,1.7349
 The Norman Warrior,NR32 2RB,52.4858,1.7327
 Ole Frank Public House,NR32 3DQ,52.4849,1.7199
@@ -33,6 +36,7 @@ THE WOLF INN,NR32 3LN,52.4760,1.7124
 Wherry Hotel Castle Carvery,NR32 3LN,52.4760,1.7124
 Labone Indian Cuisine,NR32 3LP,52.4773,1.7150
 The Commodore,NR32 3NE,52.4763,1.7109
+Beefeater The Foxburrow,NR32 4AA,52.4986,1.7335
 Vera G's Cakes and Teas,NR32 4HW,52.4861,1.7489
 Kitchen at Baytree House ,NR32 4PD,52.4897,1.7542
 The Royal Norfolk & Suffolk Yacht Club ,NR32 4PW,52.4942,1.7519
@@ -43,20 +47,17 @@ the chippy,NR33 0BB,52.4674,1.7449
 Lord Kitchener Memorial Holiday Centre,NR33 0BY,52.4654,1.7436
 Thatched Restaurant,NR33 0BY,52.4654,1.7437
 The Hotel Victoria ,NR33 0BZ,52.4636,1.7427
-WSH Group  Baxterstorey,NR33 0HT,52.4583,1.7397
 The Gardens Tea Rooms,NR33 0HY,52.4597,1.7381
 The Jolly Sailors,NR33 0JS,52.4557,1.7365
 Trowel and Hammer ,NR33 0JS,52.4553,1.7360
 Blues & Bloater,NR33 0PW,52.4703,1.7453
-Starbucks (Drive Thru),NR33 0PX,52.4705,1.7419
 Starbucks,NR33 0PX,52.4705,1.7419
 The Hatfield Hotel,NR33 0QG,52.4684,1.7470
 KFC Lowestoft - Marine Parade,NR33 0QN,52.4696,1.7470
-KFC,NR33 0QN,52.4696,1.7470
+KFC,NR33 0QN,52.4689,1.7463
 Tramway Hotel,NR33 7AA,52.4532,1.7301
 McDonald's Restaurant,NR33 7BG,52.4473,1.7270
-McDonalds Drive Thru,NR33 7BG,52.4473,1.7270
-Pizza Hut Restaurant,NR33 7NG,52.4448,1.7229
+McDonald's,NR33 7BG,52.4466,1.7251
 Subway,NR33 7NG,52.4448,1.7229
 PITSTOP CAFE,NR33 7NJ,52.4480,1.7187
 Pakefield Holiday Village,NR33 7PF,52.4389,1.7280

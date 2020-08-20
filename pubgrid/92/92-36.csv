@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 Johnston's Bar - Bistro ,FK1 1DG,56.0002,-3.7869
 Costa Coffee,FK1 1HG,55.9984,-3.7863
+Costa Coffee,FK1 1HG,55.9987,-3.7868
 THE ALLOTMENT CAFE,FK1 1HG,55.9984,-3.7863
 Antonio's Deli,FK1 1HR,56.0032,-3.7842
 cafe corvina,FK1 1HR,56.0035,-3.7843
@@ -8,28 +9,27 @@ Central Perk Falkirk,FK1 1HS,56.0027,-3.7844
 The Fork & Mustard,FK1 1HX,56.0009,-3.7858
 Behind the Wall,FK1 1HZ,56.0011,-3.7854
 Sumo Noodle Cafe,FK1 1HZ,56.0011,-3.7854
+Costa Coffee,FK1 1JR,55.9997,-3.7848
 Costa Coffee,FK1 1JR,55.9998,-3.7850
 Costa Coffee,FK1 1LD,56.0029,-3.7835
+Costa Coffee,FK1 1LD,56.0029,-3.7837
 Finnegans,FK1 1LL,56.0013,-3.7841
 Monterey Jacks Falkirk Ltd,FK1 1LL,56.0009,-3.7841
 The Wine Library,FK1 1LS,56.0005,-3.7836
 Sportsters ,FK1 1LU,56.0007,-3.7835
-Dunelm Mill / Caffe Pausa,FK1 1LW,56.0038,-3.7799
+McDonald's,FK1 1LW,56.0037,-3.7769
 McDonalds ,FK1 1LW,56.0038,-3.7799
-Nando's,FK1 1LW,56.0038,-3.7799
-Pizza Hut Restaurant,FK1 1LW,56.0038,-3.7799
 The Corner Cafe,FK1 1LZ,55.9995,-3.7845
-Wetherspoons,FK1 1NB,56.0001,-3.7835
+The Carron Works Falkirk (Wetherspoon),FK1 1NB,56.0002,-3.7831
 JOLLY GIN AND CRAFT,FK1 1NJ,55.9995,-3.7838
 The Jolly Gin & Craft,FK1 1NJ,55.9995,-3.7838
 The Wooer,FK1 1NJ,55.9995,-3.7838
 Bob & Berts Falkirk Limited,FK1 1NR,55.9991,-3.7831
-Caffe Nero,FK1 1NR,55.9991,-3.7831
 Tea Jennys Scotland Limited,FK1 1PG,55.9988,-3.7840
 Pizza Hut,FK1 1PR,55.9976,-3.7808
 pots,FK1 1PU,55.9977,-3.7831
-Buzz Bingo,FK1 1RJ,55.9998,-3.7796
 KFC,FK1 1XS,55.9983,-3.7792
+KFC,FK1 1XS,55.9985,-3.7778
 eskers,FK1 1XS,55.9983,-3.7792
 fireaway,FK1 1XS,55.9983,-3.7792
 sanam restaurant,FK1 1XS,55.9983,-3.7792
@@ -38,7 +38,7 @@ THE MILK BARN,FK1 3AA,55.9811,-3.7888
 Cafe at Canada Wood,FK1 3AZ,55.9867,-3.8287
 Cawley Hotels & Leisure ltd,FK1 4AD,56.0069,-3.8390
 The Coppertop,FK1 4BN,56.0043,-3.8079
-Tenpin,FK1 4DD,56.0058,-3.8186
+Beefeater The Rosebank,FK1 4DS,56.0022,-3.8053
 Marco's deli and cafe,FK1 4EG,56.0033,-3.8135
 Mariner Centre,FK1 4HJ,56.0044,-3.8188
 Pepes Falkirk,FK1 4HJ,56.0045,-3.8194
@@ -66,7 +66,7 @@ blossoms at torwood garden centre limited,FK5 4EG,56.0364,-3.8416
 The plough Hotel ,FK5 4EY,56.0257,-3.8174
 Tim Hortons,FK5 4HA,56.0273,-3.8150
 TWO Coffee shop & Bistro,FK5 4NT,56.0278,-3.8361
-Starbucks,FK5 4WR,56.0256,-3.8481
+Breakfast Room,FK5 4RX,56.0330,-3.8387
 The Stables ,FK5 4XA,56.0339,-3.8041
 Rost Coffee Co,FK5 4XT,56.0358,-3.8207
 The Courtyard Coffee Shop,FK6 5LH,56.0066,-3.8976
@@ -76,44 +76,39 @@ Town tavern glasgow ltd,G32 7NR,55.8522,-4.1756
 Nello’s,G32 7PB,55.8519,-4.1703
 THE DRUM BAR,G32 7PE,55.8518,-4.1683
 china house restaurant,G32 7YR,55.8514,-4.1642
+Table Table Orion Way,G32 8EY,55.8360,-4.1696
 Watscookin Ltd ,G32 8FA,55.8337,-4.1688
 FULLARTON HOTEL,G32 8HH,55.8423,-4.1645
 CASA TIMIS,G32 8UT,55.8441,-4.1738
 Cobbs Cafe Glasgow,G32 8XQ,55.8388,-4.1742
 McDonald's,G32 8XX,55.8399,-4.1387
-KFC,G32 8YX,55.8363,-4.1688
-McDonalds,G32 8YX,55.8358,-4.1698
+KFC,G32 8YX,55.8366,-4.1695
+McDonald's,G32 8YX,55.8363,-4.1688
 Cafe Gia ,G32 9AN,55.8504,-4.1543
 The Kirkhouse Bar & Ktichen,G32 9AT,55.8513,-4.1583
 Coffee Corner,G32 9EE,55.8488,-4.1527
 Woodend Bar,G32 9QW,55.8399,-4.1477
-Costa Coffee,G33 1AD,55.8910,-4.1870
+Costa Coffee,G33 1AD,55.8905,-4.1823
+McDonald's,G33 1AD,55.8909,-4.1869
 McDonald's,G33 1AD,55.8910,-4.1870
-McDonalds,G33 1AD,55.8910,-4.1870
 JJs cafe,G33 5NZ,55.8752,-4.1582
 Garfield Hotel,G33 6HW,55.8954,-4.1367
-Bannatyne Health Club,G33 6HZ,55.8933,-4.1372
 Noble’s...The Sandwich Company ,G33 6HZ,55.8933,-4.1372
+Brewers Fayre Buchanan Gate,G33 6LE,55.8946,-4.1324
 Dug’n’Duck ,G33 6ND,55.8832,-4.1635
 BREAD MEATS BREAD GLASGOW FORT,G34 9DL,55.8717,-4.1384
+Costa Coffee,G34 9DL,55.8701,-4.1374
 Stack and Still Glasgow Fort,G34 9DL,55.8717,-4.1384
-Starbucks,G34 9DL,55.8730,-4.1369
-Tony Macaroni,G34 9DL,55.8730,-4.1369
 Subway easterhouse,G34 9DT,55.8685,-4.1223
 wee betty’s ,G34 9DT,55.8685,-4.1223
-Costa Coffee,G34 9DY,55.8702,-4.1374
-Nando's Chickenland Ltd,G34 9DY,55.8712,-4.1381
-Pizza Hut,G34 9DY,55.8712,-4.1381
-Pret A Manger,G34 9DY,55.8708,-4.1380
-Wagamama,G34 9DY,55.8712,-4.1381
+Nando's,G34 9DY,55.8700,-4.1362
 milkwood food company ltd t/a Coffee Boy Glasgow,G34 9JJ,55.8683,-4.1280
-McDonalds,G34 9PE,55.8689,-4.1200
+McDonald's,G34 9PE,55.8688,-4.1200
 KCC Trading Limited TA Cafe Refresh,G65 0AL,55.9778,-4.0571
 New gulistan tandoori restaurant ,G65 0BD,55.9759,-4.0554
 Alex's Place,G65 0HL,55.9776,-4.0583
 The Coachman Hotel,G65 0SP,55.9788,-4.0583
 The Boathouse,G65 9SG,55.9672,-4.0522
-Elior UK Ltd (within William Patrick Library),G66 1AD,55.9416,-4.1590
 Nonnas Kitchen,G66 1HF,55.9385,-4.1554
 Bar Bliss Ltd,G66 1HW,55.9412,-4.1588
 Bistro75,G66 1HW,55.9400,-4.1570
@@ -124,6 +119,7 @@ Regent Brasserie,G66 1JD,55.9396,-4.1564
 The Courtyard Cafe,G66 1JH,55.9395,-4.1572
 MARIANA,G66 1JT,55.9392,-4.1558
 Thai Cafe,G66 1NG,55.9377,-4.1536
+The Kirky Puffer Glasgow (Wetherspoon),G66 1NG,55.9382,-4.1546
 The sweetie shop ,G66 1NG,55.9377,-4.1538
 Kirkintilloch Baptist Church No52 ,G66 1NL,55.9367,-4.1533
 The Lion & Star,G66 1NL,55.9376,-4.1543
@@ -132,8 +128,8 @@ Lux Nightclub Ltd,G66 1PN,55.9422,-4.1563
 Indian cottage kirkintilloch ,G66 1QD,55.9428,-4.1529
 Caulders Kirkintiloch,G66 1QF,55.9462,-4.1425
 Kirkintilloch Golf Club,G66 1RN,55.9433,-4.1713
+McDonald's,G66 1SY,55.9432,-4.1542
 McDonald's,G66 1SY,55.9432,-4.1543
-McDonalds,G66 1SY,55.9432,-4.1543
 The Redbrae bar,G66 2BX,55.9391,-4.1449
 Elior UK Ltd (within Kirkintilloch Leisure Centre),G66 3DD,55.9315,-4.1515
 Billingtons of Lenzie,G66 4LQ,55.9220,-4.1544
@@ -143,16 +139,17 @@ Rasoi Indian Restaurant,G66 5JD,55.9209,-4.1512
 The Fells Coffee House,G66 8BQ,55.9646,-4.1616
 Kincaid House Hotel,G66 8BZ,55.9582,-4.1640
 Subway,G67 1AW,55.9500,-3.9860
-Burger King,G67 1AX,55.9511,-3.9840
+Beefeater The Dovecote,G67 1AX,55.9505,-3.9846
+Burger King,G67 1AX,55.9500,-3.9853
 KFC,G67 1AX,55.9511,-3.9840
-Pizza Hut (UK) Ltd,G67 1AX,55.9511,-3.9840
-Buzz Bingo,G67 1BD,55.9483,-3.9839
+KFC,G67 1AX,55.9515,-3.9832
 Cornerstone Cafe,G67 1BZ,55.9464,-3.9900
 Cafe Alba,G67 1JW,55.9464,-3.9884
+Costa Coffee,G67 1JW,55.9455,-3.9897
 Costa Coffee,G67 1JW,55.9464,-3.9884
-Costa Coffee,G67 1JW,55.9465,-3.9885
 Subway,G67 1JW,55.9464,-3.9884
-McDonalds Restaurants Ltd,G67 1NF,55.9496,-3.9869
+McDonald's,G67 1NF,55.9492,-3.9848
+The Carrick Stone Glasgow (Wetherspoon),G67 1NG,55.9487,-3.9875
 Bombay Dreams,G67 2PL,55.9418,-3.9819
 james walker t/a the black bull,G67 2RT,55.9619,-3.9763
 Invitation - Indian and Nepalese Restaurant,G67 2RX,55.9623,-3.9759
@@ -173,30 +170,28 @@ Caulders Cumbernauld ,G68 0EB,55.9608,-4.0066
 DoubleTree by Hilton Hotel Glasgow Westerwood Spa & Golf Resort,G68 0EW,55.9683,-3.9794
 Castlecary Hotel,G68 0HD,55.9802,-3.9474
 Innoflate Cumbernauld,G68 9HX,55.9283,-4.0555
-14 Forty (Compass Group UK & Ireland),G68 9LB,55.9341,-4.0543
 Tim Hortons,G68 9NE,55.9447,-4.0371
 Costa Coffee,G69 6JX,55.8503,-4.1145
 Kastriots  Med. Bar & Grill,G69 6SG,55.8504,-4.1137
 cd restaurant ltd,G69 7HL,55.8503,-4.1058
-McDonalds Restaurant Ltd,G69 7TX,55.8499,-4.0701
+McDonald's,G69 7TU,55.8477,-4.0662
+KFC,G69 7TX,55.8476,-4.0654
 McDonalds Showcase Bargeddie,G69 7TX,55.8499,-4.0701
-Hollywood Bowl,G69 7TZ,55.8475,-4.0645
 TEA HOUSE ON THE LOCH,G69 8BE,55.8967,-4.0861
 Chin chin,G69 8EU,55.8882,-4.0826
 DNCP LTD t/a Capolanda/3 Ragazzi,G69 9AA,55.8999,-4.1087
 Indish,G69 9AB,55.8996,-4.1098
 Crowwood Hotel,G69 9BS,55.8978,-4.1168
-The Barrbridge (Greene King Brewing & Retail Ltd),G697TZ,55.8475,-4.0645
 Cafe in the square,G71 5AL,55.8283,-4.0549
 Cafe rendezvous ,G71 5PH,55.8355,-4.0705
 Cobbs Cafe Uddingston,G71 5PR,55.8370,-4.0868
-Dunelm Mill Store,G71 5PR,55.8363,-4.0856
 Redstones hotel,G71 7AS,55.8262,-4.0873
+Beefeater Black Bear,G71 7SA,55.8370,-4.1104
 The Mailcoach,G71 7SG,55.8377,-4.1166
-Brewdog Hop Hub Taproom,ML1 4UY,55.8260,-3.9855
 Brewdog PLC,ML1 4UY,55.8280,-3.9926
 Regis Coffee Bar & Bistro,ML1 4WQ,55.8346,-3.9824
 Greenside Garden Centre,ML1 5ST,55.8264,-3.9256
+Beefeater The Newhouse,ML1 5SY,55.8311,-3.9300
 Elior UK PLC,ML1 5SY,55.8299,-3.9362
 Crown Jewel Restaurant,ML5 1EG,55.8572,-4.0448
 The Georgian hotel,ML5 1LZ,55.8629,-4.0393
@@ -208,16 +203,17 @@ Mondo,ML5 3BJ,55.8617,-4.0243
 Firehouse Grill Ltd ,ML5 3BQ,55.8622,-4.0259
 Subway,ML5 3BQ,55.8621,-4.0250
 The Big Coffee Cup,ML5 3EG,55.8622,-4.0236
+The Vulcan Coatbridge (Wetherspoon),ML5 3HH,55.8617,-4.0224
 Shimla cottage ,ML5 3HR,55.8669,-4.0283
 Shimla cottage,ML5 3HR,55.8669,-4.0283
 Big Owens Bar Limited,ML5 3RS,55.8601,-4.0067
 Club 3000 Bingo Coatbridge,ML5 3RT,55.8592,-4.0042
-KFC,ML5 3SP,55.8579,-4.0199
+KFC,ML5 3SP,55.8574,-4.0200
+McDonald's,ML5 3SP,55.8605,-4.0199
 McDonalds Coatbridge,ML5 3SP,55.8579,-4.0198
-McDonalds Restaurants Ltd,ML5 3SP,55.8579,-4.0199
 Subway ,ML5 3SP,55.8577,-4.0199
 The Mad Batter Bakery and Coffee Shop,ML5 3SP,55.8579,-4.0199
-Costa Coffee,ML5 3SQ,55.8576,-4.0230
+Costa Coffee,ML5 3SQ,55.8571,-4.0222
 KFC,ML5 3SS,55.8568,-4.0195
 The Junction,ML5 4EN,55.8527,-4.0208
 Himalyan Dine in,ML6 0AS,55.8659,-3.9836
@@ -231,6 +227,7 @@ Agnes Place,ML6 6AH,55.8669,-3.9796
 Weanz World Play Cafe,ML6 6AH,55.8667,-3.9787
 ILCAPO LIMITED,ML6 6AW,55.8670,-3.9767
 Costa Coffee,ML6 6BU,55.8659,-3.9798
+Costa Coffee,ML6 6BU,55.8660,-3.9791
 ZANTE FOOD,ML6 6DB,55.8659,-3.9785
 Cafe Alba,ML6 6DD,55.8665,-3.9784
 FOOD BAR (AIRDRIE) LTD,ML6 6DD,55.8664,-3.9775
@@ -242,5 +239,5 @@ THE BISTRO AIRDRIE,ML6 7AG,55.8675,-3.9534
 PETRUS,ML6 7RA,55.8893,-3.8822
 Trattoria Guidi Limited,ML6 9AF,55.8618,-4.0015
 Monterey Jacks Airdrie Ltd,ML6 9BG,55.8615,-4.0023
-McDonalds Restaurants Ltd,ML6 9JB,55.8640,-3.9784
+McDonald's,ML6 9JB,55.8633,-3.9761
 Taste,ML6 9JB,55.8640,-3.9784

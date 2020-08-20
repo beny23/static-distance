@@ -2,6 +2,7 @@ name,postcode,lat,lon
 Molly May’s Tea Room,DG1 1BG,55.0698,-3.6107
 The Back Street Restaurant,DG1 1BH,55.0701,-3.6114
 hideout scot ltd,DG1 1BT,55.0704,-3.6107
+The Robert the Bruce Dumfries (Wetherspoon),DG1 1DJ,55.0703,-3.6134
 Kings Coffee & Books,DG1 1EX,55.0686,-3.6099
 Mrs Green's Tea Lounge,DG1 1EX,55.0686,-3.6099
 Casa Mia Dumfries,DG1 1JW,55.0799,-3.6102
@@ -14,11 +15,9 @@ Cavens Arms Limited,DG1 2AH,55.0698,-3.6144
 The India Palm,DG1 2AH,55.0698,-3.6143
 R Barbour & Sons Ltd,DG1 2AL,55.0694,-3.6154
 Starbucks Dumfries,DG1 2BA,55.0695,-3.6115
-Starbucks,DG1 2BA,55.0693,-3.6112
 Cairndale Hotel,DG1 2DF,55.0696,-3.6056
 The Hitching Post ,DG1 2EQ,55.0677,-3.5955
-Costa Coffee,DG1 2JA,55.0673,-3.6096
-Buzz Bingo,DG1 2JJ,55.0689,-3.6067
+Costa Coffee,DG1 2JA,55.0675,-3.6099
 Burns Coffee House,DG1 2NX,55.0680,-3.6122
 The Corner Eatery and Bar Store,DG1 2NX,55.0680,-3.6122
 La Dolce Vita,DG1 2PB,55.0680,-3.6114
@@ -29,8 +28,8 @@ The Bank Bar and Tapas,DG1 2RS,55.0676,-3.6123
 The Frothy Bike Co,DG1 2RT,55.0671,-3.6116
 Domino's Pizza - Dumfries,DG1 2RX,55.0657,-3.6099
 Bruno's Restaurant,DG1 3BE,55.0719,-3.5955
+Table Table Solway Gate,DG1 3JX,55.0700,-3.5583
 Tarff coffee shop ,DG1 3PF,55.0754,-3.5814
-Starbucks Coffee,DG1 3SE,55.0685,-3.5510
 Cornerstone Cafe,DG1 4EJ,55.0639,-3.5868
 The Jolly Harvester,DG1 4HB,55.0606,-3.5815
 Drummuir Farm Ice Cream,DG1 4PX,55.0535,-3.5005
@@ -38,7 +37,7 @@ Nith Hotel,DG1 4RE,55.0022,-3.5734
 The Boathouse Glencaple,DG1 4RE,55.0022,-3.5734
 The Swan,DG1 4SU,55.0461,-3.6061
 Easterbrook Bistro ,DG1 4TL,55.0524,-3.5905
-McDonalds Restaurants Ltd,DG2 0DY,55.0785,-3.6286
+McDonald's,DG2 0DY,55.0799,-3.6292
 McDonalds,DG2 0DY,55.0785,-3.6286
 Woodland House Hotel,DG2 0HZ,55.0947,-3.6495
 Friars Carse Hotel,DG2 0SA,55.1456,-3.6973
@@ -49,7 +48,9 @@ Loch Arthur Farm Shop,DG2 8JQ,55.0018,-3.7252
 The Topiary Coffee Shop,DG2 8PP,55.0654,-3.6402
 Kilnford Farm shop & Farmhouse Kitchen,DG2 8PT,55.0608,-3.6649
 The Inn on the loch,DG2 8RF,55.0239,-3.8464
+Costa Coffee,DG2 9BF,55.0757,-3.6252
 KFC,DG2 9BF,55.0763,-3.6275
+KFC,DG2 9BF,55.0767,-3.6242
 The Granite Kitchen,DG5 4AA,54.9324,-3.8220
 Birchtree Hotel ,DG5 4AH,54.9331,-3.8234
 Maxwell Arms Hotel,DG5 4AH,54.9331,-3.8234

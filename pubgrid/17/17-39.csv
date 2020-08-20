@@ -2,9 +2,12 @@ name,postcode,lat,lon
 Torbay Leisure Centre,TQ4 5JR,50.4241,-3.5658
 Squires of Churston,TQ4 6LE,50.4031,-3.5649
 SPLASHDOWN QUAYWEST,TQ4 6LN,50.4244,-3.5605
+Brewers Fayre Inn On The Quay,TQ4 6LP,50.4249,-3.5597
+Beefeater White Rock,TQ4 7AZ,50.4141,-3.5797
 The Jetty,TQ4 7JE,50.4132,-3.5681
 HOBURNE DEVON BAY,TQ4 7JP,50.4203,-3.5678
 McDonald's Restaurant Paignton,TQ4 7PE,50.4203,-3.5977
+McDonald's,TQ4 7PE,50.4217,-3.5880
 Sunshine Cafe,TQ4 7QL,50.4227,-3.5915
 Churston Golf Club,TQ5 0LA,50.3982,-3.5578
 Lupton House,TQ5 0LD,50.3902,-3.5449
@@ -24,7 +27,7 @@ Shipmates ,TQ5 8AW,50.3972,-3.5132
 The Bay Coffee Company,TQ5 8AW,50.3972,-3.5132
 The Harbour Diner,TQ5 8AW,50.3971,-3.5132
 beamers restaurant,TQ5 8AW,50.3972,-3.5132
-Costa Coffee,TQ5 8DS,50.3944,-3.5153
+Costa Coffee,TQ5 8DS,50.3947,-3.5145
 The ChartRoom,TQ5 8DZ,50.3952,-3.5137
 Simply Fish,TQ5 8EF,50.3957,-3.5128
 Nick’s fish bar ,TQ5 8EH,50.3960,-3.5131
@@ -40,6 +43,7 @@ shoals restaurant on the lido,TQ5 9AF,50.3991,-3.5055
 Berry Head Hotel,TQ5 9AJ,50.4008,-3.4958
 The Guardhouse Cafe,TQ5 9AW,50.3995,-3.4835
 The Larder,TQ5 9BZ,50.3934,-3.5161
+The Vigilance Brixham (Wetherspoon),TQ5 9DE,50.3937,-3.5160
 Landscove Holiday Park,TQ5 9EP,50.3938,-3.4972
 The Burton Brixham,TQ5 9HZ,50.3898,-3.5164
 Chefs corner,TQ5 9QW,50.3833,-3.5115
@@ -73,7 +77,7 @@ Smith Street Deli,TQ6 9QR,50.3507,-3.5791
 The Seven Stars,TQ6 9QR,50.3507,-3.5791
 The Cherub Inn,TQ6 9RB,50.3504,-3.5786
 Browns,TQ6 9RT,50.3512,-3.5808
-Costa Coffee,TQ6 9SA,50.3513,-3.5818
+Costa Coffee,TQ6 9RT,50.3515,-3.5798
 DARTMOUTH & DISTRICT CONSERVATIVE CLUB,TQ6 9SA,50.3513,-3.5818
 Dart to Mouth Deli,TQ6 9SE,50.3517,-3.5803
 Old Market Cafe,TQ6 9SE,50.3517,-3.5803

@@ -1,20 +1,14 @@
 name,postcode,lat,lon
 Holiday Inn High Wycombe,HP11 1TL,51.6133,-0.7707
+Costa Coffee,HP11 1UA,51.6132,-0.7733
+McDonald's,HP11 2AG,51.6289,-0.7509
+The Falcon High Wycombe (Wetherspoon),HP11 2AX,51.6292,-0.7512
 The Works,HP11 2AZ,51.6293,-0.7504
-Costa Coffee,HP11 2BN,51.6295,-0.7505
+Costa Coffee,HP11 2BN,51.6296,-0.7508
 R Kelly Ltd - Trading as  Lunch ,HP11 2BW,51.6296,-0.7513
-Patisserie Valerie,HP11 2BY,51.6296,-0.7551
-Pret A Manger,HP11 2BY,51.6297,-0.7554
-Starbucks Coffee,HP11 2BY,51.6297,-0.7554
+Costa Coffee,HP11 2BY,51.6298,-0.7564
 Starbucks High Wycombe - Eden Centre,HP11 2BY,51.6297,-0.7554
-Cafe Nero (House Of Fraser),HP11 2BZ,51.6304,-0.7566
-Hollywood Bowl,HP11 2DB,51.6308,-0.7562
-Nandos,HP11 2DB,51.6308,-0.7562
-Pizza Express,HP11 2DB,51.6308,-0.7562
-Wagamama,HP11 2DB,51.6308,-0.7562
 Wok & Go,HP11 2DB,51.6308,-0.7562
-Yo Sushi,HP11 2DB,51.6308,-0.7562
-Zizzi,HP11 2DB,51.6308,-0.7562
 Mad Squirrel Tap,HP11 2DE,51.6300,-0.7517
 Roosters Peri Peri High Wycombe,HP11 2DG,51.6306,-0.7531
 Treatz High Wycombe ,HP11 2DG,51.6307,-0.7533
@@ -30,17 +24,17 @@ The White Horse,HP11 2LR,51.6345,-0.7637
 ENZO SRILANKAN STREET FOOD LTD,HP11 2QA,51.6315,-0.7605
 LA-KOCO COFFEE,HP11 2QA,51.6314,-0.7599
 Gul's Grill,HP12 3PB,51.6274,-0.7691
-BaxterStorey @ Instron Limited,HP12 3SY,51.6185,-0.7760
-McDonalds,HP12 4NT,51.6115,-0.7799
+McDonald's,HP12 4NU,51.6111,-0.7800
 McDonald’s Restaurants limited ,HP12 4NU,51.6112,-0.7805
 The Squirrel Pub,HP12 4RZ,51.6198,-0.7907
 K S PIRI PIRI LIMITED,HP12 4UA,51.6166,-0.7808
 Pepe's Piri Piri,HP13 5DG,51.6316,-0.7524
-KFC,HP13 5DQ,51.6315,-0.7531
+KFC,HP13 5DQ,51.6312,-0.7531
 TUCKIN CATERERS LTD t/a KFC,HP13 5DQ,51.6312,-0.7532
 The Air Raid Shelter Cafe and Tea Room,HP13 5ES,51.6312,-0.7518
-McDonalds,HP13 5HL,51.6318,-0.7531
+McDonald's,HP13 5HL,51.6326,-0.7540
 McDonald’s Restaurants limited ,HP13 5HL,51.6318,-0.7531
+Thyme,HP13 5HL,51.6319,-0.7532
 The Mowchak Indian Restaurant ,HP13 5UW,51.6454,-0.7773
 Coffee shop on the common ,HP13 5XJ,51.6490,-0.7753
 Ks starlight ,HP13 5XJ,51.6490,-0.7753
@@ -77,13 +71,13 @@ The George Hotel,OX10 0BS,51.6011,-1.1242
 Shellfish Cow Restaurant and Bar,OX10 0BU,51.6009,-1.1241
 Avanti,OX10 0BW,51.6012,-1.1226
 The cross keys wallingford ,OX10 0DB,51.6010,-1.1276
+Costa Coffee,OX10 0EG,51.6001,-1.1244
 Bean & Brew Limited,OX10 0EL,51.6006,-1.1241
 Ribizli,OX10 0ER,51.5991,-1.1249
 Royal Standard,OX10 0ET,51.5976,-1.1250
-Pizza Express,OX10 0EW,51.5990,-1.1247
 The Shepherds Hut,OX10 6HQ,51.6204,-1.0740
 Chequers inn,OX10 6JN,51.6424,-1.1033
-McDonalds Restaurants Ltd,OX10 6LX,51.6212,-1.1129
+McDonald's,OX10 6LX,51.6230,-1.1181
 No.25 ,OX10 6RP,51.6210,-1.1069
 WATERFRONT CAFE BENSON LTD,OX10 6SJ,51.6200,-1.1155
 The Cartshed,OX10 6SL,51.6140,-1.1123
@@ -111,7 +105,7 @@ House of Spice Watlington,OX49 5QQ,51.6441,-1.0056
 Mercure Thame Lambert Hotel  Bar & Restaurant,OX49 5SQ,51.6775,-0.9553
 THE BULL AT WARGRAVE LTD,RG10 8DD,51.4995,-0.8702
 COSTA COFFEE TWYFORD,RG10 9AB,51.4773,-0.8673
-Costa Coffee,RG10 9AB,51.4773,-0.8673
+Costa Coffee,RG10 9AB,51.4774,-0.8668
 HAWELI TANDOORI,RG10 9DN,51.4773,-0.8662
 Haa Hoos Ltd,RG10 9DN,51.4773,-0.8660
 The Bia Hub,RG10 9EE,51.4767,-0.8646
@@ -155,7 +149,7 @@ The Greyhound,RG8 7EL,51.4897,-1.0861
 Baxters Cafe Kitchen,RG8 7HY,51.4839,-1.0840
 Nino’s Trattoria Italiana,RG8 7LR,51.4839,-1.0853
 COSTA COFFEE PANGBOURNE,RG8 7LY,51.4836,-1.0850
-Costa Coffee,RG8 7LY,51.4836,-1.0851
+Costa Coffee,RG8 7LY,51.4837,-1.0856
 Miah's Of Pangbourne,RG8 7LY,51.4836,-1.0851
 Red Lion Upper basildon,RG8 8NG,51.4833,-1.1450
 Pierreponts Cafe,RG8 9AB,51.5233,-1.1403
@@ -174,24 +168,18 @@ Bistro at the boathouse,RG9 1AZ,51.5353,-0.9001
 Henley Chocolate Theatre Cafe Ltd,RG9 1BH,51.5371,-0.9013
 villa marina limited,RG9 1BH,51.5371,-0.9013
 The Three Horseshoes (Henley) LTD,RG9 1DN,51.5306,-0.9000
-CH&Co Catering Group,RG9 1RA,51.5302,-0.9267
 Pachangas Mexican Restaurant,RG9 1UP,51.5369,-0.9045
 Drifters Coffee House,RG9 1UR,51.5369,-0.9041
-Pizza Express,RG9 2AA,51.5373,-0.9058
 The Argyll,RG9 2AA,51.5373,-0.9058
 Three Tuns ,RG9 2AA,51.5373,-0.9058
 Crockers Henley Limited,RG9 2AH,51.5377,-0.9059
 Hof's Bar & Dining,RG9 2AH,51.5377,-0.9059
-Patisserie Valerie,RG9 2AH,51.5377,-0.9059
-Starbucks,RG9 2AH,51.5377,-0.9059
 The Dub,RG9 2AH,51.5377,-0.9059
-Zizzi,RG9 2AR,51.5378,-0.9031
+The Catherine Wheel HenleyonThames (Wetherspoon),RG9 2AR,51.5378,-0.9038
 Berries Coffee,RG9 2AU,51.5375,-0.9030
-Giggling Squid,RG9 2AU,51.5375,-0.9032
 Hart Street Tavern,RG9 2AU,51.5375,-0.9032
 Bull on Bell Street,RG9 2BA,51.5386,-0.9050
 Starbucks Henley Market Street,RG9 2BA,51.5386,-0.9050
-Caffe Nero,RG9 2BG,51.5386,-0.9046
 Coppa Club,RG9 2BG,51.5386,-0.9046
 Hotel Du Vin Henley on Thames,RG9 2BP,51.5393,-0.9027
 Phyllis Court Members club Ltd,RG9 2HT,51.5413,-0.9013
@@ -209,7 +197,6 @@ The Rising Sun,RG9 5PF,51.5513,-0.9972
 The Crooked Billet,RG9 5PU,51.5520,-1.0157
 The Cherry Tree Inn,RG9 5QA,51.5513,-1.0159
 Stoke Row Store,RG9 5QL,51.5509,-1.0194
-The National Trust,RG9 5RY,51.5858,-1.0210
 The Five Horseshoes,RG9 6EX,51.5909,-0.9611
 The Barn at Turville Heath,RG9 6JY,51.6157,-0.9272
 The Yew Tree Frieth,RG9 6PJ,51.6056,-0.8516
@@ -226,11 +213,7 @@ The Dew Drop Inn,SL6 6RB,51.5254,-0.8172
 Fego Restaurant Marlow,SL7 1AB,51.5698,-0.7744
 Maliks of Marlow Ltd,SL7 1AB,51.5695,-0.7742
 Strawberry Grove Marlow Ltd,SL7 1AB,51.5698,-0.7745
-Starbucks Coffee,SL7 1AH,51.5703,-0.7755
 Starbucks Marlow,SL7 1AH,51.5704,-0.7756
-Zizzi's,SL7 1AH,51.5703,-0.7756
-Prezzo,SL7 1AU,51.5712,-0.7760
-Pizza Express,SL7 1AW,51.5707,-0.7760
 The Chequers,SL7 1BA,51.5705,-0.7752
 Suum Vietnamese Kitchen LTD ,SL7 1DB,51.5726,-0.7764
 The Oarsman,SL7 1DB,51.5730,-0.7759
@@ -241,6 +224,7 @@ Crowne Plaza Marlow,SL7 1GJ,51.5713,-0.7517
 The Marlow Club,SL7 1LU,51.5709,-0.7597
 PRINCE OF WALES,SL7 1PX,51.5698,-0.7706
 The Bull Inn Bisham Limited,SL7 1RR,51.5581,-0.7751
+Whitbread Inns George and Dragon - Marlow,SL7 2AA,51.5690,-0.7738
 Hand and Flowers ,SL7 2BP,51.5704,-0.7809
 Danesfield House Hotel Ltd,SL7 2EY,51.5520,-0.8287
 The Dog and Badger,SL7 2HE,51.5540,-0.8424
@@ -248,8 +232,6 @@ The Royal Oak,SL7 2JF,51.5757,-0.7958
 The Coach,SL7 2LS,51.5710,-0.7780
 The Ship Ltd,SL7 2LS,51.5710,-0.7780
 Tiger Garden,SL7 2LS,51.5710,-0.7780
-Costa Coffee,SL7 2NB,51.5714,-0.7780
-Giggling Squid,SL7 2NB,51.5714,-0.7778
 The Cedar,SL7 2NB,51.5714,-0.7780
 Clayton's Marlow,SL7 2NL,51.5723,-0.7803
 Notcutts Booker,SL7 3DH,51.6070,-0.8043

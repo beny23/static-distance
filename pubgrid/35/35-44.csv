@@ -1,11 +1,10 @@
 name,postcode,lat,lon
 V’Nillapod Cafe Ltd,NP10 8BB,51.5596,-3.0362
-Elior @ Airbus Defence And Space,NP10 8FZ,51.5574,-3.0449
 Junction 28,NP10 8LD,51.5786,-3.0449
 Friendly Fox,NP10 8LW,51.5789,-3.0611
 Rhiwderin Inn ,NP10 8RX,51.5801,-3.0682
 Parc Golf Centre,NP10 8TU,51.5524,-3.0483
-Baxterstorey @ Office Of National Statistics,NP10 8XG,51.5663,-3.0272
+McDonald's,NP10 8XL,51.5567,-3.0212
 mcdonalds,NP10 8XL,51.5570,-3.0211
 The Rising Sun Hotel,NP10 9AQ,51.5907,-3.0482
 The Three Mughals,NP10 9DS,51.5795,-3.0376
@@ -13,6 +12,7 @@ MAMMA LINA'S,NP10 9EJ,51.5839,-3.0512
 Tiny Rebel,NP10 9FQ,51.5890,-3.0539
 J & N Catering,NP10 9FX,51.5966,-3.0566
 Newport Golf Club,NP10 9FX,51.5966,-3.0566
+McDonald's,NP10 9HZ,51.5973,-3.0771
 mcdonalds,NP10 9HZ,51.5972,-3.0777
 Sparkle Snack Bar,NP10 9LY,51.5887,-3.0393
 The New Court Inn,NP15 1AD,51.7004,-2.9019
@@ -39,7 +39,6 @@ Sugarloaf Restaurant,NP15 2BH,51.7742,-2.8880
 The Beaufort  Raglan,NP15 2DY,51.7649,-2.8537
 No.12 Fish & Chips,NP16 5DA,51.6408,-2.6775
 Costa Coffee ,NP16 5EP,51.6424,-2.6751
-Costa Coffee,NP16 5EP,51.6424,-2.6751
 Pitchers Sports Bar And Grill,NP16 5EP,51.6423,-2.6751
 Sitar Balti Indian Restaurant,NP16 5EP,51.6424,-2.6751
 The Orange Crate,NP16 5EP,51.6424,-2.6751
@@ -75,8 +74,9 @@ The Ship Inn,NP18 1QF,51.6068,-2.9512
 Marston's Logistics,NP18 2BS,51.5665,-2.9503
 The Old Barn Inn,NP18 2EB,51.6005,-2.8756
 The Rib,NP18 2LX,51.6031,-2.9197
+Beefeater The Coldra,NP18 2NX,51.6024,-2.9224
 McDonald's,NP18 2NX,51.6024,-2.9223
-McDonalds,NP18 2NX,51.6024,-2.9223
+McDonald's,NP18 2NX,51.6027,-2.9237
 Holiday Inn Newport,NP18 2YG,51.5997,-2.9279
 The Pod,NP19 0AP,51.5880,-2.9889
 Ryson Cyf trading as Let Loose ,NP19 0BH,51.5875,-2.9848
@@ -85,15 +85,11 @@ Restpoint cafe,NP19 0HT,51.5827,-2.9644
 Horton's Coffee House,NP19 0NU,51.5875,-2.9884
 Man of steel,NP19 4NW,51.5788,-2.9504
 Burger King - Newport 2,NP19 4QQ,51.5775,-2.9441
-Caffe Nero,NP19 4QQ,51.5776,-2.9436
-Nandos Chicken Land,NP19 4QQ,51.5776,-2.9436
-Pizza Express,NP19 4QQ,51.5776,-2.9436
-Burger King,NP19 4QR,51.5747,-2.9440
+Costa Coffee,NP19 4QQ,51.5776,-2.9441
+McDonald's,NP19 4QR,51.5742,-2.9453
 McDonald's,NP19 4QR,51.5747,-2.9440
-McDonalds,NP19 4QR,51.5747,-2.9440
-Pizza Hut Restaurant,NP19 4QR,51.5747,-2.9440
 Tawa Indian Buffet,NP19 4QR,51.5751,-2.9429
-KFC,NP19 4SL,51.5720,-2.9484
+KFC,NP19 4QT,51.5759,-2.9496
 Funky Monkeys Softplay Newport Ltd,NP19 4TX,51.5757,-2.9508
 Riverside Bar And Kitchen,NP19 7AB,51.5913,-2.9912
 Pasha Balti,NP19 7DB,51.5962,-2.9838
@@ -103,20 +99,16 @@ The victoria ,NP19 7FX,51.5968,-2.9822
 Villa Dino Restaurant,NP19 8BY,51.5906,-2.9827
 The Dodger,NP19 8EA,51.5909,-2.9885
 Tamarind,NP19 8EF,51.5899,-2.9801
+The Godfrey Morgan Newport (Wetherspoon),NP19 8EG,51.5897,-2.9784
 M S MON LIMITED,NP19 8LY,51.5933,-2.9687
 The Potters ,NP20 1DL,51.5874,-2.9947
 BISTROT PIERRE - NEWPORT,NP20 1DR,51.5870,-2.9936
-Costa Coffee,NP20 1DR,51.5870,-2.9936
+Costa Coffee,NP20 1DR,51.5870,-2.9945
 Muffin Break,NP20 1DR,51.5870,-2.9936
 Superbowl UK Newport Ltd ,NP20 1DR,51.5870,-2.9936
 Bistrot Pierre - Newport,NP20 1DS,51.5861,-2.9927
-KFC,NP20 1DS,51.5861,-2.9927
-Nando's Chickenland,NP20 1DS,51.5861,-2.9927
-Prezzo,NP20 1DS,51.5861,-2.9927
-Wagamama,NP20 1DS,51.5861,-2.9927
-Zizzi Restaurant,NP20 1DS,51.5861,-2.9927
+KFC,NP20 1DS,51.5862,-2.9930
 Boswells Cafe,NP20 1EB,51.5849,-2.9930
-Starbucks,NP20 1EB,51.5849,-2.9930
 NEW LAHORE ,NP20 1EE,51.5841,-2.9913
 Hatti,NP20 1EH,51.5836,-2.9898
 STARBUCKS ,NP20 1EW,51.5842,-2.9930
@@ -125,18 +117,17 @@ Falafilo island ,NP20 1FW,51.5892,-2.9969
 Le Public Space (Newport) Limited,NP20 1FW,51.5892,-2.9969
 Murenger House,NP20 1GA,51.5892,-2.9973
 The Pot Cafe,NP20 1GD,51.5888,-2.9976
+McDonald's,NP20 1GF,51.5882,-2.9972
 mcdonalds,NP20 1GF,51.5885,-2.9973
 Coffee bean house,NP20 1HP,51.5861,-2.9947
 M. VACARA & COMPANY,NP20 1HR,51.5858,-2.9942
 The Pen & Wig,NP20 1JD,51.5873,-2.9971
 Java Coffee House,NP20 1JU,51.5853,-2.9960
 Kaspas Newport Ltd T/A Kaspas Newport,NP20 1LN,51.5851,-2.9947
-Caffe Nero,NP20 1LP,51.5853,-2.9942
 Nipa Hut ltd,NP20 1LQ,51.5846,-2.9936
 Subway,NP20 1PX,51.5862,-2.9943
-Costa Coffee,NP20 1SN,51.5869,-2.9952
+Costa Coffee,NP20 1SN,51.5868,-2.9953
 Burger King - Newport ,NP20 1YD,51.5867,-2.9951
-Burger King,NP20 1YD,51.5867,-2.9951
 The Health Hut,NP20 2BL,51.5802,-2.9854
 Castle Bingo Newport,NP20 2BP,51.5857,-2.9897
 LILLO GRILL ,NP20 2ED,51.5818,-2.9933
@@ -144,31 +135,32 @@ New Ole,NP20 2ED,51.5818,-2.9933
 Pizza Hut Delivery,NP20 2ED,51.5818,-2.9933
 Subway,NP20 2ED,51.5818,-2.9933
 Kebab Joint Ltd,NP20 2GW,51.5762,-2.9881
+KFC,NP20 2NN,51.5692,-3.0007
 Jump Adventure Newport,NP20 2NS,51.5709,-3.0002
-KFC,NP20 2NW,51.5684,-2.9994
-Costa Coffee @ The Royal Gwent Hospital,NP20 2UB,51.5798,-2.9982
+Costa Coffee,NP20 2UB,51.5799,-2.9975
 Subway,NP20 3AE,51.5730,-3.0126
 McDonald's,NP20 3BA,51.5725,-3.0104
-McDonalds,NP20 3BA,51.5725,-3.0104
+McDonald's,NP20 3BA,51.5745,-3.0090
 Handpost Hotel ltd ,NP20 3EA,51.5825,-3.0127
 Just Perfect Catering Ltd,NP20 4AG,51.5884,-2.9992
+The John Wallace Linton Newport (Wetherspoon),NP20 4AN,51.5876,-2.9987
+The Queens Hotel Newport (Wetherspoon),NP20 4AN,51.5876,-2.9987
 Vittorio's,NP20 4ED,51.5827,-2.9998
 BELLE VUE TEA ROOM,NP20 4FP,51.5785,-3.0048
 Meat Bar & Grill,NP20 4NZ,51.5873,-3.0031
 Rogue Fox Coffee House,NP20 4NZ,51.5872,-3.0033
 the ridgeway,NP20 5AJ,51.5866,-3.0178
 The Royal mail cafe ,NP20 5HA,51.5909,-2.9978
+McDonald's,NP20 5JG,51.5960,-2.9970
 mcdonalds,NP20 5JG,51.5961,-2.9970
 Shoboraj,NP20 5PA,51.5977,-2.9993
 Subway,NP20 6WB,51.6090,-3.0073
-Burger King,NP25 4BG,51.7746,-2.8051
-Starbucks,NP25 4BG,51.7746,-2.8051
 The Lion Inn Trellech Limited,NP25 4PA,51.7454,-2.7250
 The Wheatsheaf Inn,NP26 3HN,51.5809,-2.8299
 GOLDEN LION MAGOR LTD,NP26 3HY,51.5804,-2.8308
 Subway,NP26 3RA,51.5851,-2.8447
-Elior Catering @ Tesco Trunking Centre,NP26 3TS,51.5723,-2.8593
-Atalian Servest Food Co. @ Wilkinson Distribution Centre,NP26 3WN,51.5755,-2.8660
+Costa Coffee,NP26 3YL,51.5883,-2.8362
+McDonald's,NP26 3YL,51.5883,-2.8363
 The Cellar Bar & Kitchen,NP26 4AA,51.5883,-2.7598
 AKOL Limited ,NP26 4BG,51.5913,-2.7521
 LITE BITE,NP26 4BG,51.5914,-2.7522
@@ -182,7 +174,9 @@ The Star Inn,NP4 0JF,51.7233,-3.0052
 The Lower New Inn,NP4 0NU,51.6836,-3.0060
 Aahar finest Indian kitchen ,NP4 0PJ,51.6897,-3.0098
 Denise's Fish Bar,NP4 0PJ,51.6897,-3.0098
-KFC,NP4 0XB,51.6927,-3.0210
+Breakfast Room,NP4 0RH,51.6945,-3.0223
+KFC,NP4 0XB,51.6923,-3.0216
+McDonald's,NP4 0XB,51.6933,-3.0207
 McDonalds,NP4 0XB,51.6927,-3.0210
 Amici D Italia Ltd,NP4 6HB,51.7005,-3.0458
 Ashley at the Unicorn Ltd,NP4 6LE,51.6990,-3.0414
@@ -192,30 +186,31 @@ Horseshoe Inn,NP4 8QZ,51.7393,-3.0018
 The Keepers cafe,NP4 9ND,51.7723,-3.0851
 THE LION HOTEL BLAENAVON LTD,NP4 9NH,51.7745,-3.0835
 Butterflies Bar & Kitchen,NP4 9PN,51.7744,-3.0815
-KFC,NP44 1AH,51.6538,-3.0224
+Table Table Ashbridge Inn,NP44 1DE,51.6707,-3.0176
 Trios Teashop,NP44 1EG,51.6615,-3.0256
 Morgan’s breakfast and baguettes ,NP44 1HN,51.6626,-3.0395
 Club 3000 Bingo Cwmbran,NP44 1PE,51.6520,-3.0215
+The John Fielding Cwmbran (Wetherspoon),NP44 1PP,51.6553,-3.0205
 Caspian Fish Restaurant Ltd,NP44 1PR,51.6549,-3.0217
+McDonald's,NP44 1PR,51.6550,-3.0212
 Rabaiotti's Restaurant,NP44 1PR,51.6549,-3.0217
 mcdonalds,NP44 1PR,51.6549,-3.0217
 subway,NP44 1PR,51.6549,-3.0217
 STARBUCKS ,NP44 1PS,51.6533,-3.0212
-Starbucks,NP44 1PS,51.6533,-3.0212
 Millingtons Cafe & Coffee Lounge,NP44 1PT,51.6533,-3.0221
+Costa Coffee,NP44 1PU,51.6524,-3.0214
 Boswells Cafe,NP44 1PW,51.6540,-3.0217
 Warrens Bakery Cwmbran,NP44 1PX,51.6529,-3.0206
 Brown Bear's Coffee House Ltd,NP44 1QR,51.6536,-3.0220
-Hollywood Bowl Cwmbran,NP44 1QS,51.6549,-3.0193
 Kaspas Cwmbran LTD,NP44 1QS,51.6549,-3.0195
 Pepe's Piri Piri Cwmbran,NP44 1QS,51.6549,-3.0195
 Greenmeadow Golf & Country Club Ltd,NP44 2BZ,51.6686,-3.0015
 Owen's Cafe,NP44 2HD,51.6574,-3.0046
 The Upper Cock Inn,NP44 2HE,51.6619,-3.0039
-BaxterStorey,NP44 3AB,51.6316,-3.0093
 T J'S Catering,NP44 3AX,51.6365,-3.0196
 Page's Fish & Chips Restaurant,NP44 3EW,51.6546,-3.0265
 Lizzy's Cafe Limited,NP44 3JN,51.6468,-3.0219
+Costa Coffee,NP44 3JQ,51.6534,-3.0271
 The Parkway Hotel and Ravellos Restaurant,NP44 3UW,51.6320,-3.0172
 Pizza Hut,NP44 3XU,51.6511,-3.0178
 Cheeky Monkeys ,NP44 4PS,51.6444,-3.0429

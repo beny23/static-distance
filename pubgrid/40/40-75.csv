@@ -4,18 +4,20 @@ The Alma Inn and Dining Rooms,CO12 3EE,51.9473,1.2863
 The New Bell Inn,CO12 3EN,51.9472,1.2889
 Thai up at the Quay,CO12 3EZ,51.9474,1.2868
 The Pier at Harwich,CO12 3HH,51.9479,1.2865
+The Bottle Kiln Harwich (Wetherspoon),CO12 3JR,51.9364,1.2811
 The Tower Hotel (Dovercourt) Limited,CO12 3PJ,51.9364,1.2758
 Dovercourt Skate Rink,CO12 3ST,51.9270,1.2700
-Costa Coffee,CO12 4EN,51.9410,1.2604
 Costa Coffee,CO12 4FE,51.9390,1.2642
+Costa Coffee,CO12 4FE,51.9412,1.2581
 Harwich McDonalds,CO12 4GA,51.9393,1.2599
+McDonald's,CO12 4GA,51.9393,1.2600
 Shadowcat Coffee Shop,CO12 4HT,51.9333,1.2571
+Brewers Fayre The Mayflower,CO12 4NX,51.9392,1.2582
 Fryatts Hotel & Bar,CO12 4PA,51.9430,1.2559
 Skippers Fish & Chips,CO12 4PB,51.9425,1.2538
 STENA BRITANNICA,CO12 4SX,51.9474,1.2555
 The castle inn,CO12 5HH,51.9284,1.2160
 Waterfall Elior At Bucklesham Primary School,IP10 0AX,52.0295,1.2799
-Miller & Carter Steakhouse,IP10 0DF,52.0290,1.2273
 The Shannon Inn,IP10 0DR,52.0305,1.2685
 Priory Park Clubhouse,IP10 0JT,52.0188,1.1930
 The Ship Inn,IP10 0LQ,52.0046,1.2546
@@ -26,14 +28,14 @@ Edwards & Blake Elior At Trimley St Mary CP School,IP11 0ST,51.9798,1.3201
 Mariners Freehouse,IP11 0TN,51.9847,1.3137
 Boardwalk Cafe Bar,IP11 2AB,51.9580,1.3464
 Alba Chiara,IP11 2AF,51.9592,1.3481
+Thyme,IP11 2AN,51.9584,1.3426
 STEAK LOBSTER & CO LIMITED,IP11 2AQ,51.9601,1.3513
 147 Club/Felixstowe Snooker Club,IP11 2DH,51.9536,1.3399
 Beach Bites FXT,IP11 2DR,51.9519,1.3367
 The Dolphin Hotel,IP11 2EY,51.9526,1.3349
-Felixstowe Beach Park Holidays UK,IP11 2HA,51.9548,1.3331
-McDonalds,IP11 2HA,51.9548,1.3331
 The Laydens,IP11 2NA,51.9665,1.3344
 Saltwater fish and chips,IP11 2QN,51.9529,1.3393
+McDonald's,IP11 2QX,51.9563,1.3282
 McDonalds,IP11 2QX,51.9565,1.3302
 The Dooley Inn,IP11 3QX,51.9599,1.3166
 VIEWPOINT CAFE,IP11 3TW,51.9389,1.3211
@@ -43,11 +45,9 @@ Costa Coffee,IP11 7AF,51.9632,1.3518
 SUBWAY,IP11 7AF,51.9632,1.3518
 The cafe on the corner ,IP11 7AU,51.9609,1.3514
 Blue Naan ,IP11 7AX,51.9610,1.3508
-Caffe Nero,IP11 7BE,51.9629,1.3511
 Wimpy,IP11 7BE,51.9629,1.3511
 Palace Cinema Felixstowe,IP11 7BG,51.9634,1.3518
 BLUE AND BERRY CAFE,IP11 7BL,51.9646,1.3517
-Prezzo,IP11 7BN,51.9650,1.3518
 Liman Ltd,IP11 7DB,51.9613,1.3506
 Ruby’s ,IP11 7DG,51.9602,1.3511
 The Grand,IP11 7DG,51.9602,1.3511
@@ -60,17 +60,15 @@ Cuppa,IP11 9AA,51.9679,1.3458
 the Falcon Inn,IP11 9DS,51.9727,1.3387
 The Ferryboat Inn,IP11 9RZ,51.9871,1.3896
 Winkles at the Ferry,IP11 9RZ,51.9871,1.3896
-Costa Coffee,IP12 1AA,52.0930,1.3172
+Costa Coffee,IP12 1AA,52.0930,1.3174
 The Sandwich Shop,IP12 1AA,52.0929,1.3173
 Mrs pipers ,IP12 1AH,52.0938,1.3197
 Christine's Patisserie and tea room,IP12 1AL,52.0937,1.3200
 Honey and Harveys Woodbridge,IP12 1AL,52.0936,1.3199
-Caffe Nero,IP12 1AQ,52.0929,1.3181
 Wild Tayberry Cafe Ltd,IP12 1BW,52.0903,1.3193
 Anchor trading Ltd ,IP12 1BX,52.0915,1.3170
 Coffeelink ,IP12 1BY,52.0907,1.3207
 East Coast Diner,IP12 1DH,52.0932,1.3155
-Prezzo,IP12 1DS,52.0929,1.3156
 Shapla Cuisine Ltd,IP12 1DS,52.0929,1.3156
 new street canteen,IP12 1DX,52.0943,1.3165
 The Coach & Horses ,IP12 1PD,52.1028,1.3282
@@ -102,24 +100,24 @@ The White Lion,IP13 6DW,52.1188,1.3561
 The Turks Head,IP13 6JG,52.1081,1.2803
 Seckford Hall Hotel ,IP13 6NU,52.0877,1.2868
 KFC Ipswich - Felixstowe Road,IP3 8SU,52.0415,1.1977
-KFC,IP3 8SU,52.0415,1.1977
 Rendezvous Coffee Shop Limited,IP3 9EX,52.0411,1.1899
 Suffolk Catering Ltd,IP3 9EX,52.0410,1.1899
 The Golden Hind,IP3 9NF,52.0362,1.1901
+McDonald's,IP3 9QJ,52.0300,1.2012
 McDonalds,IP3 9QJ,52.0305,1.1993
 HALF MOON FOODS LTD,IP3 9SJ,52.0265,1.2138
-Burger King,IP3 9SN,52.0334,1.2073
-Nando's,IP3 9SN,52.0334,1.2073
+Burger King,IP3 9SN,52.0330,1.2049
+Costa Coffee,IP3 9SR,52.0333,1.2018
+Brewers Fayre Swallow,IP3 9SS,52.0269,1.2063
 Clip 'n Climb Ipswich,IP3 9ST,52.0279,1.2187
 Ottoman Restaurant,IP4 4PS,52.0612,1.1855
-Costa Coffee - (Eurest. South Wards),IP4 5PD,52.0569,1.1979
+Costa Coffee,IP4 5PD,52.0562,1.1981
 Ipswich Hospital NHS Trust,IP4 5PD,52.0568,1.1979
 Milsoms Kesgrave Hall,IP5 2PU,52.0710,1.2567
-Compass Group - Staff Restaurant At Suffolk Police HQ,IP5 3QS,52.0671,1.2694
 KFC Ipswich - Martlesham Heath,IP5 3RA,52.0652,1.2755
 KFC,IP5 3RA,52.0652,1.2755
 Play2Day Ipswich,IP5 3RJ,52.0610,1.2781
-Tenpin Ltd,IP5 3RJ,52.0611,1.2770
+Costa Coffee,IP5 3RX,52.0647,1.2761
 THE FOUNTAIN,IP6 9BT,52.0917,1.1987
 Fynn Valley Cafe Terrace ,IP6 9JA,52.0973,1.1841
 The Moon & Mushroom Inn,IP6 9LR,52.1266,1.1921
