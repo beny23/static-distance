@@ -223,6 +223,7 @@ Cafe de Akbar,BD3 7AE,53.7978,-1.7111
 KFC,BD3 7AT,53.8006,-1.7038
 KFC,BD3 7AT,53.8006,-1.7039
 Aagrah Midpoint,BD3 7AY,53.7985,-1.7039
+Lahori Chaska LTD,BD3 7DB,53.8017,-1.7061
 Habibs Restaurant,BD3 7JD,53.7991,-1.7203
 D&H Taylor t/as McDonald's,BD3 7NH,53.8008,-1.7090
 icestone gelato,BD3 8DG,53.7937,-1.7177
@@ -244,12 +245,12 @@ STEAK HUT TAKEAWAY LTD,BD3 9DB,53.7972,-1.7345
 rawal kebab and sweet house,BD3 9DB,53.7972,-1.7345
 FRAME 2 CATERING AND ENTERTAINMENT LTD,BD3 9DJ,53.7976,-1.7323
 DIRILIS YORKSHIRE LTD,BD3 9LY,53.7924,-1.7315
+OODLES BRADFORD,BD3 9QX,53.7926,-1.7390
 Shinwari restaurant ltd,BD3 9QX,53.7926,-1.7395
 Sopranos Cafe Bistro,BD3 9QX,53.7926,-1.7395
 Vanilla Rooms,BD3 9QX,53.7925,-1.7386
 Pasha,BD3 9RA,53.7922,-1.7378
 King coffee co,BD3 9TY,53.7921,-1.7309
-cafe sk ,BD3 9TY,53.7921,-1.7296
 mughal restaurant and sweet centre,BD3 9TY,53.7921,-1.7300
 north 38 restaurant ,BD3 9TY,53.7921,-1.7296
 The Curry Counter at Pakeezah Leeds Rd ,BD3 9UD,53.7929,-1.7385
@@ -275,6 +276,7 @@ babtooma lts,BD5 0AX,53.7902,-1.7589
 Classic Persian restaurant (bradford)limited ,BD5 0NB,53.7834,-1.7640
 Anglo-Asian Foods Ltd T/A Lahori Gate,BD5 0TG,53.7865,-1.7539
 LISTER ARMS SUBWAY,BD5 7JX,53.7822,-1.7574
+PIZZA DE NIROS,BD5 8DJ,53.7746,-1.7608
 Sugar Snap Kitchen Ltd,BD5 8HB,53.7703,-1.7484
 Cedar Court Hotel Bradford,BD5 8HW,53.7714,-1.7532
 McDonald's,BD5 8JY,53.7688,-1.7476
@@ -337,11 +339,11 @@ Peri Fusion,BD7 4EG,53.7797,-1.7859
 Burning Bull,BD7 4EY,53.7792,-1.7885
 Bb fast food ,BD7 4JB,53.7731,-1.7863
 Nawaab hotel,BD8 7AQ,53.8108,-1.7638
+SALS PIZZA,BD8 7DT,53.8043,-1.7623
 Jamurath Curry Counter,BD8 7JS,53.8031,-1.7591
 ChaiiCorner,BD8 8AB,53.8055,-1.7683
 Gino's Pizza & Grill Ltd,BD8 8BE,53.8054,-1.7720
 Cafe bismilla,BD8 8DA,53.8039,-1.7728
-The White Abbey Ballroom ,BD8 8NL,53.8007,-1.7712
 Cha Cha Chai Donuts,BD8 9AN,53.7971,-1.7853
 McDonald's,BD8 9AP,53.7976,-1.7844
 Subway,BD8 9AP,53.7974,-1.7840
@@ -350,6 +352,7 @@ KFC,BD8 9BH,53.7985,-1.7843
 KFC,BD8 9BH,53.7985,-1.7844
 Aleysha Bower T/A Mamma Leeshas Soul Kitchen,BD8 9BS,53.7992,-1.7828
 Yam spice foods ,BD8 9BS,53.7992,-1.7828
+RAJAS CHICKEN BAR,BD8 9DJ,53.8034,-1.7762
 BBQ Express Yorkshire Ltd,BD8 9HL,53.8058,-1.7855
 Shaan restaurant ,BD8 9HL,53.8058,-1.7855
 New Allerton ,BD8 9NQ,53.8006,-1.7878
@@ -591,6 +594,7 @@ Tattu Leeds,LS1 5PS,53.7982,-1.5490
 San Carlo Leeds,LS1 5QX,53.7992,-1.5480
 Gusto Italian,LS1 5RU,53.7982,-1.5478
 Bar Soba (Greek Street),LS1 5RW,53.7986,-1.5473
+Neighbourhood Leeds,LS1 5RW,53.7985,-1.5473
 The Alchemist Greek St,LS1 5SH,53.7986,-1.5480
 Starbucks Leeds Albion Street,LS1 6AB,53.7975,-1.5450
 AB travel inn,LS1 6AD,53.7984,-1.5449
@@ -745,7 +749,6 @@ The Old Unicorn Leeds (Wetherspoon),LS13 3NA,53.8109,-1.6275
 McDonald's,LS13 4JE,53.7951,-1.6216
 TAFZALHSHAH LTD,LS13 4JE,53.7958,-1.6214
 Subway,LS13 4JF,53.7956,-1.6207
-Dominos Pizza,LS13 4LS,53.7956,-1.6206
 Little Bees Play and Party Ltd,LS14 1LU,53.8271,-1.4616
 Powerleague Fives Ltd,LS14 1NH,53.8286,-1.4625
 KFC COAL RD 02042,LS14 2AL,53.8316,-1.4610
@@ -1143,6 +1146,7 @@ Chef's Takeaway & Restaurant,LS7 4LA,53.8259,-1.5341
 Pizza Hut,LS7 4LA,53.8259,-1.5341
 Chinese Canteen,LS7 4LZ,53.8283,-1.5372
 Rasoi Stories,LS7 4LZ,53.8288,-1.5375
+PINCHE PINCHE MEXICAN RESTAURANT,LS7 4NY,53.8294,-1.5378
 THE OLIVE,LS7 4NZ,53.8308,-1.5382
 Sukhothai,LS7 4PE,53.8300,-1.5375
 Bengal spice,LS8 1AA,53.8444,-1.5192
@@ -1261,8 +1265,8 @@ Kashmiri Aroma (Wakefield) LLP,WF1 2UJ,53.6988,-1.5079
 McDonald's,WF1 2UZ,53.6966,-1.5062
 Ronnies Limited t/a McDonalds 1505,WF1 2UZ,53.6970,-1.5073
 Subway,WF1 2UZ,53.6970,-1.5073
-Delphi Cafe,WF1 3AN,53.6841,-1.4981
-Delphi Restaurant Ltd,WF1 3AN,53.6841,-1.4981
+Delphi Cafe,WF1 3AN,53.6841,-1.4982
+Delphi Restaurant Ltd,WF1 3AN,53.6841,-1.4982
 Calder & Hops ,WF1 3AP,53.6842,-1.4991
 Sofra Restaurant,WF1 3AS,53.6847,-1.4995
 Rustico Italian Restaurant,WF1 3BJ,53.6838,-1.4992
@@ -1283,6 +1287,7 @@ Aagrah Sandal ,WF1 5NX,53.6661,-1.4868
 Thornes Lane Cafe,WF1 5RS,53.6745,-1.4971
 The Kings Arms,WF1 5SL,53.6761,-1.4621
 Woolpack Country Inn,WF12 0LZ,53.6566,-1.6672
+China delight,WF12 7HP,53.7039,-1.6038
 KFC,WF12 8EB,53.6885,-1.6264
 Spinners arms,WF12 8PX,53.6916,-1.5983
 Deli Delicious ,WF12 9AU,53.6851,-1.6281

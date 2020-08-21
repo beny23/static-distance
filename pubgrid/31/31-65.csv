@@ -262,6 +262,7 @@ The Broadwick,BR7 5AF,51.4180,0.0673
 Nene Cafe Bistro,BR7 5AG,51.4192,0.0658
 Shaon Restaurant,BR7 5AG,51.4192,0.0658
 Mountain View,BR7 5AN,51.4182,0.0678
+Thaidine,BR7 5AQ,51.4197,0.0669
 Chislehurst Golf Club Ltd,BR7 5HJ,51.4112,0.0654
 Imperial Courtyard Ltd,BR7 5LZ,51.4088,0.0608
 Santipur Ltd T/A Gurkha square ,BR7 6AN,51.4204,0.0695
@@ -372,6 +373,7 @@ Uncle Lim's Malaysian Kitchen,CR0 1UZ,51.3755,-0.1004
 Mecca Bingo,CR0 1XX,51.3771,-0.1028
 The Lunch Box,CR0 1XX,51.3771,-0.1028
 The Milan Bar Croydon (Wetherspoon),CR0 1YA,51.3731,-0.1006
+Rio's Piri Piri Croydon,CR0 1YB,51.3725,-0.1006
 The Dutchie,CR0 1YB,51.3725,-0.1006
 Central Cafe and Restaurant ,CR0 1YL,51.3733,-0.0976
 THE WINDMILL ,CR0 2BW,51.3815,-0.0934
@@ -767,6 +769,7 @@ JRK Bros (Lee),SE12 8SS,51.4557,0.0124
 The Edmund Halley Lee Green (Wetherspoon),SE12 8SS,51.4554,0.0117
 Thyme,SE13 5AF,51.4651,-0.0108
 Lewisham Bowl,SE13 5AU,51.4626,-0.0091
+Dessert House on the River Ltd,SE13 5FH,51.4618,-0.0074
 Vinothec Social,SE13 5FL,51.4651,-0.0127
 ALPHA LOUNGE RESTAURANT AND BAR,SE13 5JH,51.4629,-0.0108
 SAJEE RESTURANT,SE13 5LD,51.4625,-0.0089
@@ -922,7 +925,6 @@ Blue Belle Cafe,SE20 8JB,51.4145,-0.0552
 SHAHI FOOD ZONE LTD,SE20 8JB,51.4145,-0.0551
 Circus Bros ltd,SE20 8TW,51.4087,-0.0664
 Belair House,SE21 7AB,51.4424,-0.0886
-Romeo Jones,SE21 7AJ,51.4495,-0.0855
 The Real Greek,SE21 7AQ,51.4485,-0.0859
 Rocca di Papa,SE21 7BJ,51.4492,-0.0849
 The Dulwich Clock Cafe,SE21 7BQ,51.4467,-0.0850
@@ -1211,6 +1213,7 @@ Warrens Bakery / Baked / Popadums,SM1 1JF,51.3632,-0.1933
 GJC Sutton UK Ltd,SM1 1JU,51.3656,-0.1944
 Taco Bell,SM1 1JU,51.3661,-0.1946
 Merry Plaice,SM1 1LD,51.3679,-0.1953
+m k buono ltd,SM1 1LF,51.3635,-0.1928
 Bangkok Pad Thai ,SM1 1LT,51.3631,-0.1928
 Sutton Green Cafe Ltd,SM1 1LW,51.3699,-0.1952
 Starbucks Sutton - High Street,SM1 1LX,51.3644,-0.1934
@@ -1225,7 +1228,6 @@ Lahore Spices ,SM1 1PQ,51.3688,-0.1950
 Roti Masters,SM1 1PQ,51.3685,-0.1949
 Everest Spice - Nepalese and Indian Restaurant,SM1 1SN,51.3611,-0.1929
 Yummys Sutton Limited ,SM1 1SN,51.3611,-0.1929
-Bulgarian Restaurant 681,SM1 3HE,51.3836,-0.1900
 KFC - Sutton,SM1 3HE,51.3833,-0.1901
 KFC,SM1 3HE,51.3832,-0.1902
 Simon's Cafe & Diner,SM1 3HH,51.3780,-0.1957
@@ -1237,7 +1239,6 @@ Curryzma Indian restaurant ,SM2 6BG,51.3439,-0.1998
 Casa Nostra Limited,SM2 6LE,51.3591,-0.1921
 Heens,SM2 6LE,51.3591,-0.1921
 iima sushi,SM2 6LE,51.3591,-0.1921
-Schnitzel House,SM4 5AZ,51.4022,-0.1949
 Metronome,SM4 5BL,51.4018,-0.1961
 Morden Cafe,SM4 5BQ,51.4032,-0.1928
 Superfish,SM4 5BQ,51.4032,-0.1928
@@ -1255,9 +1256,8 @@ CAFFE LA LAVELLA ,SM4 5HT,51.4025,-0.1932
 Instagrab Pretzel,SM4 5HT,51.4029,-0.1924
 KFC Morden,SM4 5HT,51.4025,-0.1932
 KFC,SM4 5HT,51.4021,-0.1939
-Sultan Spice World ,SM4 5JN,51.4003,-0.1923
 Restaurant Deja Vu,SM4 5LQ,51.4024,-0.1926
-Larryies Kitchen ,SM4 5LT,51.3977,-0.1951
+Peri peri and pizza ,SM4 5RP,51.3972,-0.1901
 Mecca Bingo,SM4 6BP,51.3856,-0.1885
 Star Express Coffee Shop (Rose Hill),SM5 1AF,51.3835,-0.1881
 Costa Coffee,SM5 1AG,51.3831,-0.1885
@@ -1384,6 +1384,7 @@ Stretched & Fired,SW11 3TU,51.4664,-0.1807
 GAZETTE BATTERSEA,SW11 3UY,51.4661,-0.1825
 Lost Society,SW11 4LS,51.4741,-0.1566
 Bistro brazil,SW11 4LX,51.4742,-0.1535
+NURTURE BAR LIMITED Trading as Vibes Battersea,SW11 4LX,51.4742,-0.1535
 Vibes Battersea,SW11 4LX,51.4742,-0.1535
 Vibes Cafe,SW11 4LX,51.4743,-0.1534
 chada thai cuisine,SW11 4ND,51.4738,-0.1605
@@ -1532,6 +1533,7 @@ Kaspa's Tooting Limited,SW17 0DN,51.4299,-0.1664
 Saravanaa Bhavan,SW17 0DN,51.4299,-0.1664
 The Selkirk,SW17 0ES,51.4298,-0.1680
 Vegan Express Limited,SW17 0LT,51.4316,-0.1760
+very pizza ltd,SW17 0NG,51.4321,-0.1789
 Fire Around,SW17 0PG,51.4333,-0.1818
 Peabodys  - Rose Centre,SW17 0QT,51.4267,-0.1757
 Peabodys - Lanesborough Wing,SW17 0QT,51.4267,-0.1757
@@ -1593,6 +1595,7 @@ Kolam South Indian Restaurant,SW17 7PB,51.4342,-0.1627
 CHICKEN COTTAGE,SW17 7PD,51.4347,-0.1620
 Habaneros Tooting,SW17 7PD,51.4347,-0.1620
 Spice Village Tooting ,SW17 7PD,51.4347,-0.1620
+Village Spice ,SW17 7PD,51.4347,-0.1620
 Roosters Grill,SW17 7PG,51.4353,-0.1609
 The Wheatsheaf,SW17 7PG,51.4353,-0.1609
 chaiiwala,SW17 7PG,51.4352,-0.1610
@@ -1922,7 +1925,6 @@ Senzala Creperie Bar and Cafe,SW9 8PR,51.4626,-0.1118
 Station 26,SW9 8PR,51.4626,-0.1118
 The Agile Rabbit limited,SW9 8PR,51.4625,-0.1118
 champagne fromage Brixton,SW9 8PR,51.4626,-0.1118
-Dre's Delicious Foods,SW9 8PS,51.4626,-0.1118
 Federation Coffee,SW9 8PS,51.4626,-0.1118
 Okan Brixton Village,SW9 8PS,51.4626,-0.1118
 PARISSI,SW9 8PX,51.4607,-0.1113

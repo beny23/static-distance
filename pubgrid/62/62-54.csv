@@ -126,6 +126,7 @@ Tattu Leeds,LS1 5PS,53.7982,-1.5490
 San Carlo Leeds,LS1 5QX,53.7992,-1.5480
 Gusto Italian,LS1 5RU,53.7982,-1.5478
 Bar Soba (Greek Street),LS1 5RW,53.7986,-1.5473
+Neighbourhood Leeds,LS1 5RW,53.7985,-1.5473
 The Alchemist Greek St,LS1 5SH,53.7986,-1.5480
 Starbucks Leeds Albion Street,LS1 6AB,53.7975,-1.5450
 AB travel inn,LS1 6AD,53.7984,-1.5449
@@ -255,7 +256,6 @@ The mailbox Leeds,LS12 6LT,53.7838,-1.5749
 McDonald's,LS13 4JE,53.7951,-1.6216
 TAFZALHSHAH LTD,LS13 4JE,53.7958,-1.6214
 Subway,LS13 4JF,53.7956,-1.6207
-Dominos Pizza,LS13 4LS,53.7956,-1.6206
 Chopstix Leeds Skelton Lake,LS15 0AE,53.7844,-1.4597
 morenos restaurant,LS15 0DR,53.7940,-1.4720
 Breakfast Room,LS15 7AY,53.7982,-1.4502
@@ -459,8 +459,8 @@ Kashmiri Aroma (Wakefield) LLP,WF1 2UJ,53.6988,-1.5079
 McDonald's,WF1 2UZ,53.6966,-1.5062
 Ronnies Limited t/a McDonalds 1505,WF1 2UZ,53.6970,-1.5073
 Subway,WF1 2UZ,53.6970,-1.5073
-Delphi Cafe,WF1 3AN,53.6841,-1.4981
-Delphi Restaurant Ltd,WF1 3AN,53.6841,-1.4981
+Delphi Cafe,WF1 3AN,53.6841,-1.4982
+Delphi Restaurant Ltd,WF1 3AN,53.6841,-1.4982
 Calder & Hops ,WF1 3AP,53.6842,-1.4991
 Sofra Restaurant,WF1 3AS,53.6847,-1.4995
 Rustico Italian Restaurant,WF1 3BJ,53.6838,-1.4992
@@ -531,6 +531,7 @@ Westys and co,WF10 5NW,53.7164,-1.3826
 The Twisted Tree,WF10 5PT,53.7133,-1.3865
 Thyme,WF10 5TG,53.7116,-1.3870
 Woolpack Country Inn,WF12 0LZ,53.6566,-1.6672
+China delight,WF12 7HP,53.7039,-1.6038
 KFC,WF12 8EB,53.6885,-1.6264
 Spinners arms,WF12 8PX,53.6916,-1.5983
 Deli Delicious ,WF12 9AU,53.6851,-1.6281
@@ -743,7 +744,6 @@ Angie's Cafe,WF8 1PD,53.6926,-1.3085
 The Broken Bridge Pontefract (Wetherspoon),WF8 1PD,53.6927,-1.3095
 Knights of Pontefract,WF8 1PE,53.6927,-1.3095
 Gelato creamery,WF8 1PQ,53.6917,-1.3090
-Dominos Pizza,WF8 1QD,53.6934,-1.3068
 Waterfall Elior Limited,WF8 4GY,53.6867,-1.3171
 Kings Croft Hotel,WF8 4HA,53.6842,-1.3298
 MEHMOOD BIG BITES,WF8 4LR,53.6805,-1.3196

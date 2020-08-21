@@ -317,7 +317,6 @@ Olam-D Kitchen ,S2 4HT,53.3598,-1.4740
 Pour,S2 4HT,53.3598,-1.4740
 China Town Restaurant,S2 4LA,53.3723,-1.4765
 The Clubhouse,S2 4LA,53.3721,-1.4766
-Toro steakhouse,S2 4LA,53.3723,-1.4765
 cedar court food ,S2 4LA,53.3723,-1.4765
 stack lounge,S2 4LE,53.3704,-1.4774
 Pepe's Piri Piri,S2 4LH,53.3694,-1.4768
@@ -339,8 +338,10 @@ Amigos Mexican Kitchen ,S2 4LW,53.3682,-1.4763
 Imrans diner,S2 4LW,53.3682,-1.4763
 Little Istanbul 2,S2 4LW,53.3682,-1.4763
 Treatz Sheffield,S2 4LW,53.3682,-1.4763
+Butta la Pasta,S2 4NA,53.3669,-1.4755
 Jabbarwocky,S2 4NA,53.3669,-1.4755
 Golden Taste,S2 4NF,53.3671,-1.4752
+Southernfriedchickenoutletsltd,S2 4NF,53.3672,-1.4752
 Wasabisabi ,S2 4NF,53.3671,-1.4752
 Waterfall Elior,S2 4NJ,53.3644,-1.4722
 OISOI Gathering,S2 4QF,53.3720,-1.4748
@@ -453,7 +454,6 @@ The Grind Cafe Kelham Island Limited,S3 8SJ,53.3883,-1.4735
 JORO RESTAURANT LIMITED,S3 8US,53.3883,-1.4758
 Waterfall Elior,S35 0AE,53.4238,-1.5441
 Shoulder of mutton,S35 0AQ,53.4243,-1.5410
-SAL Desserts,S4 7BH,53.4008,-1.4550
 Waterfall Elior,S4 7BX,53.4034,-1.4638
 Nile Cafe,S4 7JB,53.3925,-1.4574
 ALNASIM RESTAURANT,S4 7LF,53.3912,-1.4590
@@ -723,6 +723,7 @@ Everest Tandoori,S8 0RL,53.3584,-1.4754
 Elior,S8 0SB,53.3457,-1.4789
 The Woodseats Palace Sheffield (Wetherspoon),S8 0SD,53.3441,-1.4784
 Kashmiri Aroma (S Yorks) LLP,S8 0SF,53.3420,-1.4784
+Sultan ,S8 0SF,53.3420,-1.4784
 Costa Coffee,S8 0SH,53.3403,-1.4796
 KFC,S8 0SH,53.3404,-1.4795
 Viraaj Restaurant,S8 0SL,53.3434,-1.4779
@@ -804,15 +805,12 @@ Thyme,S9 2YL,53.4099,-1.4069
 tinsley subway,S9 2YL,53.4095,-1.4077
 McDonald's Meadowhall Retail Park  near Valley Centertainment,S9 2YZ,53.4052,-1.4124
 McDonald's,S9 2YZ,53.4057,-1.4146
-BAIG COFFEE N CREAM,S9 3FR,53.3882,-1.4204
-BAIG DESSERTS PARLOUR,S9 3FR,53.3882,-1.4204
 Courtyard Cafe-Bar,S9 3QS,53.3927,-1.4332
 La Vlad Restaurant,S9 3RA,53.3924,-1.4350
 Blast Snack Bar,S9 3RE,53.3947,-1.4315
 Big Baps Sandwich Shop ,S9 3RN,53.3934,-1.4325
 Indus The Restaurant Limited,S9 3RP,53.3940,-1.4317
 Costa Coffee,S9 3YE,53.3958,-1.4431
-PRIY EATERY,S9 4AD,53.3813,-1.4000
 Waterfall Elior,S9 4GQ,53.3799,-1.4175
 waverley road cafe,S9 4PJ,53.3852,-1.4083
 Waterfall Elior,S9 5EF,53.3946,-1.4172
