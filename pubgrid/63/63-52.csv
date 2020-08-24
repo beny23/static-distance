@@ -36,7 +36,6 @@ Subway Westgate,BD1 2QL,53.7944,-1.7560
 Zaffran,BD1 2RN,53.7972,-1.7610
 Sheesh Mahal,BD1 2RW,53.7971,-1.7616
 The Deli Bar Restaurant Ltd,BD1 3BW,53.8010,-1.7619
-Food2go extra ltd,BD1 3EB,53.8002,-1.7588
 4 Bros (Bradford) Limited,BD1 3EP,53.8007,-1.7592
 Chonis Inc. Limited,BD1 3EP,53.8007,-1.7592
 Al freshco,BD1 3ES,53.8011,-1.7595
@@ -44,6 +43,7 @@ NOODLE K8 LTD,BD1 3JH,53.7976,-1.7571
 The Record Cafe,BD1 3JH,53.7976,-1.7571
 Rum Shack A Lack,BD1 3JL,53.7968,-1.7564
 Fountains Coffee House Limited,BD1 3JS,53.7961,-1.7572
+Rosso fine dining,BD1 3PE,53.7968,-1.7556
 Fish dish,BD1 3PZ,53.7957,-1.7564
 Smorgasbord Coffee Bar,BD1 3QQ,53.7959,-1.7554
 Pizza Design,BD1 3QR,53.7960,-1.7540
@@ -62,7 +62,7 @@ BITE BURGER,BD1 5AY,53.7923,-1.7470
 Bradford cafe limited ta arabian krush ,BD1 5BD,53.7948,-1.7450
 Cafe Jinnah LLP,BD1 5BL,53.7935,-1.7439
 Samchai Ltd.  Trading As Bangkok Thai Restaurant,BD1 5EE,53.7938,-1.7438
-Frankies,BD1 5LD,53.7916,-1.7478
+Rosso fine dining,BD1 5HD,53.7941,-1.7441
 Nando's,BD1 5LD,53.7909,-1.7476
 Thyme,BD1 5LD,53.7917,-1.7478
 Jacobs Well,BD1 5RL,53.7907,-1.7537
@@ -112,6 +112,7 @@ Guide Post Hotel,BD12 0ST,53.7559,-1.7634
 Sweet & smokys,BD12 7AA,53.7475,-1.7413
 Bostock & crowther,BD12 7DT,53.7469,-1.7388
 Rendezvous Deli Bar & Tea Room,BD12 8AD,53.7431,-1.7675
+Lower Wyke Community Lunch,BD12 9AE,53.7299,-1.7735
 FRATELLO'S LIMITED,BD12 9NT,53.7402,-1.7685
 The Old Dolphin ,BD13 1DR,53.7712,-1.8255
 THE QUEENS HEAD,BD13 1NA,53.7779,-1.8685
@@ -124,6 +125,7 @@ Headley Venue & Golf Club,BD13 3LX,53.7863,-1.8475
 Ring O Bells Inn Thornton,BD13 3QL,53.7947,-1.8646
 The rock & heifer Inn,BD13 3RH,53.8001,-1.8628
 WHITE HORSE INN,BD13 3SJ,53.7930,-1.8769
+Emily's Eatery ,BD13 4EN,53.7952,-1.8930
 Emilys Eatery ,BD13 4EN,53.7952,-1.8930
 danchinos,BD13 5HB,53.8269,-1.9017
 The George Hotel,BD13 5HN,53.8278,-1.9008
@@ -220,6 +222,7 @@ Luigi's,BD19 5DR,53.7226,-1.7244
 Tappinos Limited,BD19 5ET,53.7230,-1.7146
 The Rose and Crown,BD19 5ET,53.7230,-1.7146
 Ribbon Tree Communitea Room,BD19 5EY,53.7231,-1.7166
+THE EXPRESS BRADFORD LIMITED,BD19 5HA,53.7237,-1.7173
 Cafe Pango,BD19 5LJ,53.7186,-1.7060
 DM's Diner,BD19 5LY,53.7180,-1.7020
 Brewers Fayre The Hunsworth,BD19 6HG,53.7366,-1.7217
@@ -241,7 +244,6 @@ Shimla spice ,BD21 1NR,53.8642,-1.9116
 Lemon Tree Cafe Bistro,BD21 1QT,53.8628,-1.9170
 PONTE VECCHIO (KEIGHLEY) LIMITED,BD21 2AA,53.8658,-1.9104
 BALTI HOUSE (KEIGHLEY) LTD,BD21 2AT,53.8687,-1.9110
-Chaxys,BD21 2LT,53.8674,-1.9198
 Aroush Cafe,BD21 2SR,53.8695,-1.9100
 The Livery Rooms Keighley (Wetherspoon),BD21 3AA,53.8687,-1.9098
 Wilsons Fish Restaurant,BD21 3DX,53.8685,-1.9073
@@ -268,6 +270,7 @@ Lahori Karahi and Charga,BD21 3RG,53.8679,-1.9047
 Stockbridge Arms Fish Restaurant,BD21 4AH,53.8747,-1.8932
 Rock and Rolls Cafe,BD21 4AW,53.8742,-1.8941
 De-Cafe Limited,BD21 4JH,53.8690,-1.8941
+Dragons den,BD21 4JH,53.8690,-1.8941
 Santoni Osteria,BD21 4LW,53.8707,-1.8870
 KHALID'S DESI RESTAURANT,BD21 4PD,53.8679,-1.9021
 Chaipoint,BD21 5HS,53.8652,-1.9100
@@ -293,6 +296,7 @@ Hunters of Haworth,BD22 8DA,53.8296,-1.9544
 The Fleece Inn,BD22 8DA,53.8296,-1.9544
 the old registry ,BD22 8DA,53.8296,-1.9544
 Cobbles and Clay,BD22 8DP,53.8311,-1.9553
+Emmas ,BD22 8DP,53.8311,-1.9553
 Emma’s Cafe,BD22 8DP,53.8311,-1.9553
 The Apothecary Tea Rooms,BD22 8DP,53.8311,-1.9553
 The Cookhouse ,BD22 8DP,53.8311,-1.9553
@@ -307,6 +311,7 @@ Mill Hey Brew House Limited,BD22 8NQ,53.8318,-1.9479
 Crossroads Indian ,BD22 9DL,53.8352,-1.9350
 The Kitchen Cafe,BD22 9DL,53.8352,-1.9350
 The Waggon and Horses ,BD22 9QE,53.8013,-1.9700
+Drop farm tearooms,BD22 9RE,53.8192,-1.9779
 The Dog and Gun Bar and Restaurant Ltd,BD22 9SN,53.8050,-1.9321
 Nawaab Gourmet,BD3 0ND,53.8064,-1.7499
 The Rooftop Barbecue Garden LTD,BD3 0RP,53.7991,-1.7423
@@ -319,6 +324,7 @@ Habibs Restaurant,BD3 7JD,53.7991,-1.7203
 D&H Taylor t/as McDonald's,BD3 7NH,53.8008,-1.7090
 icestone gelato,BD3 8DG,53.7937,-1.7177
 berries bagels & Shakes,BD3 8DS,53.7946,-1.7192
+WATAN SUPERSTORE (BRADFORD) LTD,BD3 8ED,53.7949,-1.7215
 Desi khanna,BD3 8EZ,53.7922,-1.7256
 spuddys ltd ,BD3 8EZ,53.7923,-1.7254
 Akbar's Restaurant,BD3 8LF,53.7947,-1.7148
@@ -343,7 +349,7 @@ Vanilla Rooms,BD3 9QX,53.7925,-1.7386
 Pasha,BD3 9RA,53.7922,-1.7378
 King coffee co,BD3 9TY,53.7921,-1.7309
 mughal restaurant and sweet centre,BD3 9TY,53.7921,-1.7300
-north 38 restaurant ,BD3 9TY,53.7921,-1.7296
+rajas pizzabar ,BD3 9TY,53.7921,-1.7296
 The Curry Counter at Pakeezah Leeds Rd ,BD3 9UD,53.7929,-1.7385
 Bollywood Brasserie,BD4 0RP,53.7691,-1.6713
 Tong Garden Centre,BD4 0RY,53.7690,-1.6712
@@ -365,16 +371,20 @@ Subway,BD4 9PZ,53.7727,-1.7229
 Omar khans ,BD5 0AL,53.7899,-1.7580
 babtooma lts,BD5 0AX,53.7902,-1.7589
 Classic Persian restaurant (bradford)limited ,BD5 0NB,53.7834,-1.7640
+dil dil eats,BD5 0QZ,53.7865,-1.7541
 Anglo-Asian Foods Ltd T/A Lahori Gate,BD5 0TG,53.7865,-1.7539
 LISTER ARMS SUBWAY,BD5 7JX,53.7822,-1.7574
+Clear dining,BD5 8DH,53.7733,-1.7615
 PIZZA DE NIROS,BD5 8DJ,53.7746,-1.7608
 Sugar Snap Kitchen Ltd,BD5 8HB,53.7703,-1.7484
 Cedar Court Hotel Bradford,BD5 8HW,53.7714,-1.7532
 McDonald's,BD5 8JY,53.7688,-1.7476
 TAFZALHSHAH LTD,BD5 8JY,53.7691,-1.7485
+Bombay club,BD5 8LX,53.7680,-1.7608
 Food Fusion,BD5 8NN,53.7686,-1.7631
 Fuzebox ,BD5 8NN,53.7686,-1.7631
 dessert bus ,BD5 8PQ,53.7743,-1.7498
+Clear dining,BD5 9DQ,53.7766,-1.7702
 P F HOLDINGS UK LTD T/A PEARLS TEA ROOM ,BD6 1DA,53.7684,-1.7517
 Pizza Hut,BD6 1JQ,53.7616,-1.7688
 KFC,BD6 1PR,53.7644,-1.7628
@@ -385,20 +395,22 @@ Mangosteen,BD6 2EA,53.7585,-1.7957
 SHEZZAANS RESTAURANT BFD LTD,BD6 2LH,53.7598,-1.7851
 The Kashmir Restaurant,BD7 1AG,53.7903,-1.7595
 Cafe Liza,BD7 1AH,53.7910,-1.7616
+dil dil eats,BD7 1AJ,53.7916,-1.7573
 Aleppo,BD7 1AL,53.7915,-1.7589
 LEGENDS DESSERTS BURGERS (BFD) LTD,BD7 1AL,53.7915,-1.7589
 Mylahore,BD7 1AL,53.7915,-1.7589
 OMARS BALTI HOUSE,BD7 1AL,53.7915,-1.7589
 boston burgers and shakes,BD7 1AL,53.7915,-1.7589
 Burger Time ,BD7 1AZ,53.7906,-1.7625
+Halo Cafe,BD7 1AZ,53.7907,-1.7633
 Subway Great Horton Rd,BD7 1AZ,53.7906,-1.7625
 The Real Doner co,BD7 1AZ,53.7908,-1.7627
 friesday limited,BD7 1AZ,53.7906,-1.7625
 Bky limited t/a International Restaurant,BD7 1BA,53.7904,-1.7616
 H kitchen ,BD7 1BA,53.7904,-1.7616
 Just coffee,BD7 1BA,53.7904,-1.7616
+deli bite,BD7 1BB,53.7898,-1.7614
 STARBAKE PATISSERIES LTD,BD7 1JR,53.7942,-1.7690
-Perry frangos,BD7 1ND,53.7925,-1.7731
 Subway ,BD7 1ND,53.7931,-1.7721
 Mezza Restaurants,BD7 1NH,53.7919,-1.7744
 MUMBAI BITES,BD7 1NX,53.7908,-1.7707
@@ -422,7 +434,7 @@ Ambala The Spice Lounge,BD7 1RP,53.7874,-1.7726
 Anams Restaurant,BD7 1RP,53.7874,-1.7726
 Candia cafe,BD7 2AA,53.7912,-1.7791
 Insane Air ,BD7 2BR,53.7842,-1.7845
-Food2go express clayton ltd,BD7 2SQ,53.7831,-1.8025
+sims grill and curry house ,BD7 3AH,53.7876,-1.7775
 ROMEOS DINER,BD7 3BZ,53.7829,-1.7815
 Bharat Restaurant Bar & Grill,BD7 3HR,53.7844,-1.7793
 Mumtaz,BD7 3HS,53.7856,-1.7771
@@ -436,6 +448,7 @@ ChaiiCorner,BD8 8AB,53.8055,-1.7683
 Gino's Pizza & Grill Ltd,BD8 8BE,53.8054,-1.7720
 Cafe bismilla,BD8 8DA,53.8039,-1.7728
 Cha Cha Chai Donuts,BD8 9AN,53.7971,-1.7853
+RAJAS,BD8 9AN,53.7971,-1.7853
 McDonald's,BD8 9AP,53.7976,-1.7844
 Subway,BD8 9AP,53.7974,-1.7840
 TAFZALHSHAH LTD,BD8 9AP,53.7974,-1.7840
@@ -446,7 +459,7 @@ Yam spice foods ,BD8 9BS,53.7992,-1.7828
 RAJAS CHICKEN BAR,BD8 9DJ,53.8034,-1.7762
 BBQ Express Yorkshire Ltd,BD8 9HL,53.8058,-1.7855
 Shaan restaurant ,BD8 9HL,53.8058,-1.7855
-New Allerton ,BD8 9NQ,53.8006,-1.7878
+M S TRAILL,BD8 9RE,53.7981,-1.7897
 Deli 29,BD9 4EY,53.8197,-1.7742
 Lister Park Boating Pavilion & Coffee Shop,BD9 4JN,53.8134,-1.7711
 Kashmiri Aroma (Bradford) LLP,BD9 4JR,53.8161,-1.7737
@@ -461,6 +474,7 @@ Choudharys,BD9 5ES,53.8058,-1.7889
 Fresh fillingz cafe ,BD9 5ES,53.8058,-1.7889
 Fresh fillingz cafe,BD9 5ES,53.8058,-1.7889
 Deli.co (Bradford) LTD,BD9 5EU,53.8055,-1.7909
+masters resturant,BD9 5EU,53.8055,-1.7909
 Hare & Hounds,BD9 5NN,53.8127,-1.7958
 West Bradford Golf Club,BD9 6NP,53.8125,-1.8161
 Costa Coffee,BD9 6RJ,53.8065,-1.7961
@@ -475,6 +489,7 @@ Thai Sakon Restaurant,HD1 5AY,53.6507,-1.7844
 The Scullery kitchen and bar Ltd,HD1 5BZ,53.6512,-1.7876
 Apadana ,HD1 5DL,53.6507,-1.7831
 Gringos Restaurant ,HD1 5DL,53.6507,-1.7831
+primo restaurant,HD1 5DL,53.6507,-1.7831
 Peppers Grill and Pizza Bar,HD1 5EY,53.6577,-1.7900
 Mother Hubbards ,HD1 6DZ,53.6552,-1.7826
 Saim's Restaurant,HD1 6DZ,53.6556,-1.7826
@@ -514,6 +529,7 @@ DA SANDRO RESTAURANT,HD3 3NT,53.6662,-1.8231
 Cedar Court Hotel Huddersfield,HD3 3RH,53.6705,-1.8289
 WAPPY SPRING INN ,HD3 3TD,53.6652,-1.8446
 The white swan,HD3 3YJ,53.6589,-1.8687
+Old golf house hotel,HD3 3YP,53.6578,-1.8718
 Merrie England Coffee Shops Ltd,HD3 4BU,53.6541,-1.8234
 Blacksmiths Arms,HD5 0PH,53.6640,-1.7209
 The Royal & Anicent ,HD5 0RE,53.6754,-1.7346
@@ -542,6 +558,7 @@ Bella Pizza,HD6 2DR,53.7063,-1.7865
 Crow Nest Park Golf Club Ltd,HD6 2LN,53.7172,-1.7936
 The Dusty Miller,HD6 2PB,53.7150,-1.8028
 Enchanted wood Cafe,HD6 2QD,53.7107,-1.7961
+The Red Lion,HD6 3EL,53.6925,-1.7875
 the sun inn pub rastrick,HD6 3PZ,53.6837,-1.7997
 FOUR SONS INN,HD6 3QP,53.6802,-1.7916
 Big Shots Cafe,HD6 4AH,53.7089,-1.7797
@@ -862,6 +879,7 @@ The Crossed Shuttle Leeds (Wetherspoon),LS28 7BJ,53.7965,-1.6618
 Open mode limited,LS28 7LJ,53.7975,-1.6640
 7 Steps,LS28 7RZ,53.7926,-1.6700
 HOWDY 28 LTD,LS28 8ED,53.8034,-1.6951
+RANA 2 LTD,LS28 8ED,53.8034,-1.6953
 Lahori Karahi and Charga Bradford,LS28 8EE,53.8025,-1.6988
 lala's restaurant pudsey,LS28 8EE,53.8025,-1.6988
 Fox and grapes Pudsey ,LS28 8HU,53.7905,-1.6773
@@ -952,7 +970,6 @@ TTH Dewsbury LTD,WF13 2DU,53.6959,-1.6312
 grilled and filtered,WF13 2DU,53.6958,-1.6312
 MOONLIGHT,WF13 2JN,53.6954,-1.6344
 The Express D,WF13 3ET,53.6800,-1.6592
-cafe express,WF13 3ET,53.6800,-1.6592
 Wenjo’s health bar,WF13 3LD,53.6786,-1.6651
 chill and chat cafe ,WF13 3NT,53.6941,-1.6570
 The Pie Shed,WF13 4DH,53.6982,-1.6511
@@ -993,7 +1010,6 @@ Costa Coffee,WF16 9RL,53.7095,-1.6763
 McDonald's Restaurant,WF16 9RL,53.7085,-1.6762
 McDonald's,WF16 9RL,53.7092,-1.6769
 Chaiiwala Batley,WF17 5DA,53.7143,-1.6341
-Exotica Cafe ,WF17 5DR,53.7150,-1.6328
 K&K GELATO LTD,WF17 5EP,53.7131,-1.6308
 icestone gelato,WF17 5EP,53.7131,-1.6309
 Yorem Turkish Restaurant Ltd,WF17 5EY,53.7132,-1.6300
@@ -1030,6 +1046,7 @@ The Hare & Hounds,WF3 1DU,53.7160,-1.5798
 The Spiced Mango,WF4 4NS,53.6508,-1.5963
 Di bosco (retail) LTD,WF4 5PR,53.6579,-1.5769
 Capri Horbury,WF4 5QA,53.6560,-1.5796
+The Secret Garden Children's Soft Play Centre,WF4 5QA,53.6560,-1.5796
 Eller Coffee,WF5 8AD,53.6790,-1.5795
 Mama T's,WF5 8AD,53.6790,-1.5795
 Elior Uk,WF5 8AQ,53.6782,-1.5757

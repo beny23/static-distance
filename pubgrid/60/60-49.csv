@@ -156,6 +156,7 @@ Costa Coffee,M1 1WA,53.4817,-2.2385
 Cottonopolis Food & Liquor,M1 2AE,53.4812,-2.2335
 Bundobust Manchester,M1 2AG,53.4811,-2.2345
 Subway,M1 2AG,53.4811,-2.2345
+Rosso fine dining,M1 2AN,53.4810,-2.2337
 Gardens Hotel,M1 2AP,53.4812,-2.2351
 Wetherspoons Manchester (Wetherspoon),M1 2AP,53.4812,-2.2351
 Pret A Manger,M1 2BN,53.4776,-2.2315
@@ -174,6 +175,7 @@ Moose Coffee (UK) Ltd,M1 2GH,53.4784,-2.2317
 Rice,M1 2GH,53.4784,-2.2317
 Subway,M1 2GH,53.4784,-2.2317
 IDLE HANDS COFFEE LTD,M1 2HF,53.4813,-2.2329
+North Star Piccadilly,M1 2HG,53.4802,-2.2321
 Thyme,M1 2HR,53.4797,-2.2322
 Escape to Freight Island,M1 2PY,53.4751,-2.2276
 Ducie Street Warehouse,M1 2TP,53.4792,-2.2311
@@ -305,6 +307,7 @@ BEST FOOD CORNER LTD T/A LAHORI NAZARA,M12 4QA,53.4538,-2.1957
 LAHORI DERA ORIGINAL LTD,M12 4QA,53.4538,-2.1957
 Club 3000 Bingo Hyde Road,M12 5FL,53.4652,-2.1947
 Teppanyaki chinatown,M12 5GH,53.4579,-2.1910
+SPICY GRILL,M12 6DB,53.4716,-2.2213
 Universal Restaurant,M12 6JH,53.4707,-2.2143
 M2 Foods MCR Ltd,M13 0FN,53.4596,-2.2192
 Banoful sweet house ,M13 0GW,53.4512,-2.1967
@@ -360,7 +363,6 @@ Hekayat limited ,M14 5SS,53.4553,-2.2246
 Camel One,M14 5SU,53.4554,-2.2249
 New York Eatery Ltd,M14 5SU,53.4554,-2.2249
 SA KOFTE LTD,M14 5SU,53.4554,-2.2249
-jacks steak house,M14 5SU,53.4554,-2.2249
 Al Taiba Bukhari,M14 5TB,53.4565,-2.2255
 Falafel House Ltd,M14 5TB,53.4567,-2.2256
 ICEBURG,M14 5TB,53.4567,-2.2256
@@ -769,7 +771,6 @@ The Moon Under Water Manchester (Wetherspoon),M3 2FN,53.4827,-2.2469
 Point Blank Shooting,M3 2FW,53.4828,-2.2472
 Roxy Ball Room Manchester,M3 2FW,53.4828,-2.2472
 Bem Brasil,M3 2GQ,53.4814,-2.2482
-FR Cafe,M3 2LB,53.4823,-2.2476
 GAUCHO Manchester,M3 2LB,53.4823,-2.2475
 ESSYS LTD,M3 2PW,53.4820,-2.2489
 Wah Ji Wah,M3 2PW,53.4820,-2.2489
@@ -797,6 +798,7 @@ BLVD Spinningfields,M3 3BZ,53.4812,-2.2507
 Costa Coffee,M3 3BZ,53.4812,-2.2506
 Pret A Manger,M3 3EB,53.4797,-2.2518
 Tattu Restaurant ,M3 3EB,53.4799,-2.2522
+kanzer kebabs and pizza,M3 3EB,53.4796,-2.2529
 Bagel Nash Spinningfields,M3 3HA,53.4799,-2.2510
 Banyan  Spinningfields,M3 3HF,53.4795,-2.2511
 Comptoir Manchester,M3 3HF,53.4799,-2.2508
@@ -915,6 +917,7 @@ Brewers Fayre Stable Gate,M34 3SH,53.4555,-2.1348
 KFC DENTON ROCK 02039,M34 3SH,53.4553,-2.1334
 KFC,M34 3SH,53.4562,-2.1343
 Indi2nite ,M34 5BU,53.4689,-2.1118
+Riverside Sandwich Bar and Cafe,M34 5DW,53.4676,-2.1060
 The Queens Arms,M34 5FF,53.4707,-2.1131
 Rockys easy diner ,M34 5GJ,53.4778,-2.1299
 The Boundary,M34 5HD,53.4756,-2.1164
@@ -953,7 +956,6 @@ ALMOST FAMOUS NQ,M4 1HP,53.4845,-2.2369
 LUCK LUST LIQUOR AND BURN,M4 1HP,53.4845,-2.2369
 Cat Cafe Manchester,M4 1HQ,53.4850,-2.2358
 Noi Quattro,M4 1HQ,53.4850,-2.2358
-degrees ,M4 1HQ,53.4850,-2.2358
 Sweet Mandarin Restaurant Limited,M4 1HS,53.4844,-2.2361
 Common,M4 1HW,53.4842,-2.2360
 HOME SWEET HOME ,M4 1HW,53.4842,-2.2360
@@ -981,7 +983,6 @@ SEED & CHERRY,M4 1PN,53.4829,-2.2379
 GINGER'S COMFORT EMPORIUM,M4 1PW,53.4825,-2.2362
 Cafe Metro,M4 1QB,53.4828,-2.2387
 Britannia Sachas Hotel,M4 1SH,53.4822,-2.2369
-Frank's,M4 2BS,53.4852,-2.2408
 Hard Rock Café Manchester ,M4 2BS,53.4852,-2.2408
 Nando's,M4 2BS,53.4851,-2.2407
 PATEL FOODS LIMITED,M4 2BS,53.4852,-2.2408
@@ -1357,6 +1358,7 @@ Subway Aldi Rochdale,OL12 6XD,53.6147,-2.1674
 NUTTERS RESTAURANT,OL12 7TT,53.6319,-2.2327
 Owd Betts,OL12 7TY,53.6406,-2.2590
 Nok ThaiCuisine ,OL12 8RU,53.6449,-2.1810
+Smallbridge Fish & Chips,OL12 9SA,53.6330,-2.1361
 The waterside restaurant,OL15 0AY,53.6418,-2.0955
 The Wine Press,OL15 0AZ,53.6346,-2.0965
 Lake lounge,OL15 0DQ,53.6315,-2.1028
@@ -1391,6 +1393,7 @@ Funkie Fusion Limited,OL16 1RE,53.6166,-2.1560
 the castle cafe,OL16 1SR,53.6156,-2.1509
 PLAYERS ROCHDALE,OL16 1UA,53.6146,-2.1530
 Caffe Grande Abaco Rochdale Interchange,OL16 1YG,53.6177,-2.1546
+WATAN SUPERSTORE ROCHDALE LTD,OL16 2DP,53.6212,-2.1502
 Sahara Rochdale,OL16 2DR,53.6218,-2.1482
 indialicious caterers limited,OL16 2US,53.6216,-2.1329
 Bellavista,OL16 3JW,53.6147,-2.1089
@@ -1566,6 +1569,7 @@ Oldham Greenhill Community Sports & recreation Club,OL8 1JR,53.5352,-2.1125
 Sanahs,OL8 1JX,53.5350,-2.1151
 Aminah Catering (UK) Ltd,OL8 1QN,53.5291,-2.1126
 MaliK Brothers Caterers Ltd,OL8 1QN,53.5291,-2.1126
+FRESH RESTAURANT,OL8 1QT,53.5311,-2.1137
 Creelers - Compass Group,OL8 1XU,53.5387,-2.1187
 The famous king George ,OL8 3AA,53.5249,-2.1201
 Kilroy's Kitchen,OL8 3AB,53.5232,-2.1214

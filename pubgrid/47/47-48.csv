@@ -2,6 +2,7 @@ name,postcode,lat,lon
 LE RAJ RESTAURANT (DUDLEY) LIMITED,DY3 2UA,52.5173,-2.1321
 Mad Hatters Tea Room,DY3 2UA,52.5172,-2.1329
 Seven Stars,DY3 3LT,52.5391,-2.1287
+kanzer kebabs,DY3 3RT,52.5542,-2.1281
 The Summerhouse Sedgley Ltd,DY3 4AN,52.5409,-2.1447
 The Dudley Arms Pub Company,DY3 4LB,52.5185,-2.1758
 Green Man Inn,DY3 4NR,52.5127,-2.2041
@@ -102,6 +103,7 @@ The Smokey Cow,TF11 9DN,52.6108,-2.3523
 The Hundred House Hotel,TF11 9EE,52.6000,-2.4023
 Apley Estate,TF11 9EF,52.5933,-2.4012
 Moon Hon Limited,TF12 5EP,52.6121,-2.4820
+Zengh Fine Dining,TF12 5ET,52.6124,-2.4815
 Ironmaster,TF12 5EZ,52.6138,-2.4838
 Bare nutrition ,TF3 1ET,52.6550,-2.4357
 Stirchley Spice,TF3 1ET,52.6546,-2.4358
@@ -162,6 +164,7 @@ Subway Wulfrun Centre,WV1 3HG,52.5834,-2.1275
 Oceans Fryer Ltd,WV1 3HH,52.5832,-2.1270
 Central Cafe,WV1 3NN,52.5850,-2.1279
 Lindy Lou's coffee shop ltd,WV1 3NP,52.5847,-2.1293
+SACHIN'S DELHI,WV1 3NP,52.5847,-2.1293
 The Subcontinent,WV1 3NP,52.5847,-2.1293
 Nutmeg,WV1 3NU,52.5845,-2.1290
 Delhi 2 Bombay,WV1 4EP,52.5858,-2.1398
@@ -172,6 +175,7 @@ MARIGOLD INDIAN RESTAURANT UK LIMITED,WV1 4LP,52.5839,-2.1328
 THE NEW SPICE RESTAURANT LIMITED,WV1 4LR,52.5839,-2.1316
 Rocco Italian,WV1 4LY,52.5854,-2.1326
 Heavenly Desserts,WV1 4ND,52.5853,-2.1335
+Express Kebab,WV1 4PE,52.5935,-2.1364
 Hamiltons Restaurant at A Park View Hotel,WV1 4PP,52.5870,-2.1399
 Annabels Bar Cafe,WV1 4QL,52.5880,-2.1332
 Pizza Hut,WV10 6AN,52.6190,-2.1299
@@ -232,7 +236,10 @@ THE NEW BL LTD ,WV2 3AF,52.5751,-2.1264
 VEGGIE SUPREME PIZZA LTD,WV2 3AJ,52.5741,-2.1279
 Milijo's ,WV2 3AY,52.5719,-2.1254
 UPPER CRUST CAFE WOLVES LTD,WV2 3BY,52.5765,-2.1261
+C & E Foods,WV2 4AG,52.5816,-2.1260
+M&T Cafe,WV2 4AG,52.5816,-2.1260
 Jack’s Cafe bar ltd,WV2 4DU,52.5786,-2.1277
+The cave lounge,WV2 4DU,52.5786,-2.1277
 Kaz Bar Wolves Limited ,WV2 4HJ,52.5770,-2.1323
 Desi yew tree,WV2 4HN,52.5781,-2.1307
 MEAT AND EAT,WV2 4LD,52.5827,-2.1306
@@ -280,6 +287,7 @@ Farmer & Friends,WV5 9JB,52.5353,-2.1855
 The Queen Victoria Hotel,WV6 0AG,52.5915,-2.1480
 Wolverhampton Lawn Tennis & Squash Club,WV6 0LH,52.5949,-2.1605
 Holiday Inn Wolverhampton - Racecourse,WV6 0PE,52.6017,-2.1355
+Tasty Sweets,WV6 0PP,52.5942,-2.1376
 Pegasus ,WV6 0QQ,52.5967,-2.1404
 Kebab House,WV6 0QW,52.5942,-2.1429
 Lychgate Coffee Shop,WV6 7BQ,52.5891,-2.2656

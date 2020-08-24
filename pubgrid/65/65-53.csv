@@ -1,7 +1,6 @@
 name,postcode,lat,lon
 Tiffin Coffee Grande,BD1 1US,53.8022,-1.7559
 The Deli Bar Restaurant Ltd,BD1 3BW,53.8010,-1.7619
-Food2go extra ltd,BD1 3EB,53.8002,-1.7588
 4 Bros (Bradford) Limited,BD1 3EP,53.8007,-1.7592
 Chonis Inc. Limited,BD1 3EP,53.8007,-1.7592
 Al freshco,BD1 3ES,53.8011,-1.7595
@@ -120,7 +119,6 @@ Cafe bismilla,BD8 8DA,53.8039,-1.7728
 RAJAS CHICKEN BAR,BD8 9DJ,53.8034,-1.7762
 BBQ Express Yorkshire Ltd,BD8 9HL,53.8058,-1.7855
 Shaan restaurant ,BD8 9HL,53.8058,-1.7855
-New Allerton ,BD8 9NQ,53.8006,-1.7878
 Deli 29,BD9 4EY,53.8197,-1.7742
 Lister Park Boating Pavilion & Coffee Shop,BD9 4JN,53.8134,-1.7711
 Kashmiri Aroma (Bradford) LLP,BD9 4JR,53.8161,-1.7737
@@ -135,6 +133,7 @@ Choudharys,BD9 5ES,53.8058,-1.7889
 Fresh fillingz cafe ,BD9 5ES,53.8058,-1.7889
 Fresh fillingz cafe,BD9 5ES,53.8058,-1.7889
 Deli.co (Bradford) LTD,BD9 5EU,53.8055,-1.7909
+masters resturant,BD9 5EU,53.8055,-1.7909
 Hare & Hounds,BD9 5NN,53.8127,-1.7958
 West Bradford Golf Club,BD9 6NP,53.8125,-1.8161
 Costa Coffee,BD9 6RJ,53.8065,-1.7961
@@ -241,6 +240,7 @@ Starbeck tandoori,HG2 7LH,54.0004,-1.4979
 Boxcar willys 2,HG2 7LQ,53.9993,-1.4992
 Drakes,HG2 7LT,53.9961,-1.5146
 Secret Bakery Harrogate,HG2 7SR,53.9959,-1.5146
+The Harrogate Golf Club Ltd,HG2 7TF,54.0036,-1.4926
 THE CURRY COUNTER (HARROGATE) LTD,HG2 8BE,53.9779,-1.5339
 No.43 Brew Bar ,HG2 8LT,53.9908,-1.5201
 Indulge,HG2 8QT,53.9775,-1.5219
@@ -552,6 +552,7 @@ dome thai,LS28 6ES,53.8053,-1.6663
 Aalfies Limited,LS28 6LS,53.8091,-1.6537
 The sandwich bar,LS28 6QB,53.8061,-1.6813
 HOWDY 28 LTD,LS28 8ED,53.8034,-1.6951
+RANA 2 LTD,LS28 8ED,53.8034,-1.6953
 Lahori Karahi and Charga Bradford,LS28 8EE,53.8025,-1.6988
 lala's restaurant pudsey,LS28 8EE,53.8025,-1.6988
 Fulneck Golf Club Limited,LS28 8NT,53.8224,-1.5366
@@ -760,6 +761,8 @@ AISHA'S CAFE,LS8 5AJ,53.8133,-1.5213
 PIASSA BAR AND RESTAURANT,LS8 5AQ,53.8112,-1.5248
 Opaa,LS8 5DR,53.8085,-1.5276
 Singh's indian street food,LS8 5DR,53.8083,-1.5278
+Desi Khana House Ltd ,LS8 5HS,53.8128,-1.5170
+DESI KHANA YORKSHIRE LTD,LS8 5NA,53.8109,-1.5250
 Taj Curry House,LS8 5NA,53.8109,-1.5250
 Tastys karahi restaurant ,LS8 5NA,53.8109,-1.5250
 Mother Hubbards,LS8 5PB,53.8141,-1.5176
@@ -768,6 +771,7 @@ Chickano's,LS8 5PL,53.8138,-1.5194
 RAJAS DOUGHNUTS,LS8 5PL,53.8138,-1.5194
 KFC HAREHILLS 02003,LS8 5RL,53.8172,-1.5163
 KFC,LS8 5RL,53.8169,-1.5166
+Antalay grill ,LS9 6AX,53.8098,-1.5098
 Mix of Flavour,LS9 6AZ,53.8103,-1.5083
 Dave hot food,LS9 6DR,53.8069,-1.5104
 Gipton old Fire station,LS9 6NL,53.8023,-1.4941

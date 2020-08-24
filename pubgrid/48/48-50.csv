@@ -69,6 +69,7 @@ CAFE CASITA LTD,DY3 1UP,52.5298,-2.1181
 McDonald's,DY3 1UX,52.5263,-2.1144
 Upper Gornal McDonald's,DY3 1UX,52.5278,-2.1162
 Seven Stars,DY3 3LT,52.5391,-2.1287
+kanzer kebabs,DY3 3RT,52.5542,-2.1281
 The Summerhouse Sedgley Ltd,DY3 4AN,52.5409,-2.1447
 The Staffordshire Golf Club,DY3 4PU,52.5275,-2.2315
 Veronica House Nursing Home - Elior UK,DY4 0DX,52.5448,-2.0378
@@ -129,7 +130,6 @@ Shimla Peppers at Balloons,WS1 2EU,52.5834,-1.9758
 oliver leisure ltd trading as lyndon house ,WS1 2HA,52.5836,-1.9764
 Walsall Golf Club Limited,WS1 3EY,52.5699,-1.9646
 Five Rivers A la Carte,WS1 3NA,52.5809,-1.9831
-JYOT RESTAURANT,WS1 3NA,52.5809,-1.9831
 Lal Haveli Restaurant ,WS1 3QD,52.5814,-1.9849
 Rendezvous Walsall ltd,WS1 3QQ,52.5809,-1.9862
 Sultan’s restaurant and takeaway limited,WS1 3RB,52.5782,-1.9818
@@ -412,6 +412,7 @@ Little Dessert Shop Ltd,WV1 3JW,52.5858,-2.1246
 The Queens,WV1 3JW,52.5857,-2.1246
 Central Cafe,WV1 3NN,52.5850,-2.1279
 Lindy Lou's coffee shop ltd,WV1 3NP,52.5847,-2.1293
+SACHIN'S DELHI,WV1 3NP,52.5847,-2.1293
 The Subcontinent,WV1 3NP,52.5847,-2.1293
 Nutmeg,WV1 3NU,52.5845,-2.1290
 Delhi 2 Bombay,WV1 4EP,52.5858,-2.1398
@@ -422,6 +423,7 @@ MARIGOLD INDIAN RESTAURANT UK LIMITED,WV1 4LP,52.5839,-2.1328
 THE NEW SPICE RESTAURANT LIMITED,WV1 4LR,52.5839,-2.1316
 Rocco Italian,WV1 4LY,52.5854,-2.1326
 Heavenly Desserts,WV1 4ND,52.5853,-2.1335
+Express Kebab,WV1 4PE,52.5935,-2.1364
 Hamiltons Restaurant at A Park View Hotel,WV1 4PP,52.5870,-2.1399
 Annabels Bar Cafe,WV1 4QL,52.5880,-2.1332
 Table Table The Bluebrick,WV10 0BA,52.5886,-2.1196
@@ -519,7 +521,10 @@ UPPER CRUST CAFE WOLVES LTD,WV2 3BY,52.5765,-2.1261
 Lakshmi Sweet Centre LTD,WV2 3DR,52.5714,-2.1247
 Dosa Hut,WV2 3JY,52.5679,-2.1239
 ORO,WV2 3JY,52.5679,-2.1239
+C & E Foods,WV2 4AG,52.5816,-2.1260
+M&T Cafe,WV2 4AG,52.5816,-2.1260
 Jack’s Cafe bar ltd,WV2 4DU,52.5786,-2.1277
+The cave lounge,WV2 4DU,52.5786,-2.1277
 Kaz Bar Wolves Limited ,WV2 4HJ,52.5770,-2.1323
 Desi yew tree,WV2 4HN,52.5781,-2.1307
 MEAT AND EAT,WV2 4LD,52.5827,-2.1306
@@ -572,6 +577,7 @@ Farmer & Friends,WV5 9JB,52.5353,-2.1855
 The Queen Victoria Hotel,WV6 0AG,52.5915,-2.1480
 Wolverhampton Lawn Tennis & Squash Club,WV6 0LH,52.5949,-2.1605
 Holiday Inn Wolverhampton - Racecourse,WV6 0PE,52.6017,-2.1355
+Tasty Sweets,WV6 0PP,52.5942,-2.1376
 Pegasus ,WV6 0QQ,52.5967,-2.1404
 Kebab House,WV6 0QW,52.5942,-2.1429
 The Cowshed,WV6 7EN,52.5705,-2.2544

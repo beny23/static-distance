@@ -117,7 +117,6 @@ SAPORE VERO MANAGEMENT LIMITED,BR3 1ED,51.4083,-0.0255
 Bigcatch,BR3 1EN,51.4067,-0.0289
 Costa Coffee,BR3 1EN,51.4069,-0.0282
 Starbucks Beckenham,BR3 1EN,51.4067,-0.0289
-Village Bistro Cafe,BR3 1EW,51.4075,-0.0280
 DE FOOD & LEISURE LIMITED,BR3 1SD,51.4124,-0.0239
 The Langley Quarter ,BR3 3DE,51.3907,-0.0277
 The Amber Fort,BR3 3DY,51.3915,-0.0389
@@ -140,6 +139,7 @@ Novi & Co.Limited,BR3 4EP,51.4070,-0.0325
 500 DEGREES CLOCK HOUSE LTD,BR3 4PR,51.4083,-0.0385
 El Molino,BR3 4RP,51.4099,-0.0460
 SE Twenty,BR3 4SY,51.4056,-0.0566
+CHOKHA RESTAURANT,BR3 5JE,51.4084,-0.0241
 Chokha ,BR3 5JE,51.4084,-0.0241
 The Chancery,BR3 5NP,51.4069,-0.0175
 SAJNA RESTAURANT LIMITED,BR3 5NT,51.4067,-0.0158
@@ -359,6 +359,7 @@ Waterfall Elior At Oasis Academy Shirley Park,CR0 7AL,51.3861,-0.0622
 Shirley Park Golf Club ,CR0 7LB,51.3758,-0.0614
 The Butterfly Patch,CR0 7RR,51.3887,-0.0505
 Lorenzo,CR0 8BE,51.3742,-0.0512
+HELVADERE,CR0 8DN,51.3767,-0.0329
 MCDONALD'S RESTAURANT LIMITED- SHIRLEY POPPY,CR0 8DN,51.3767,-0.0329
 McDonald's,CR0 8DN,51.3765,-0.0349
 Shahi dawat,CR0 8NG,51.3698,-0.0303
@@ -453,6 +454,7 @@ Hilton Croydon ,CR9 4HH,51.3578,-0.1156
 Medirest Healthcare Compass Group At Shirley Oaks Hospital,CR9 8AB,51.3823,-0.0564
 The munch spot ,E1 0AH,51.5111,-0.0517
 Two Magpies Cafe LTD,E1 0HJ,51.5133,-0.0432
+Popular cafe,E1 0HY,51.5129,-0.0426
 MUREX GLOBAL LTD,E1 1BA,51.5190,-0.0589
 London Hospital Tavern - Urban Bar,E1 1BJ,51.5193,-0.0573
 TURAG FOODS LIMITED T/A KOLAPATA RESTAURANTS,E1 1BJ,51.5193,-0.0573
@@ -540,6 +542,7 @@ PINEAPPLE XPRESS,E1 5JP,51.5204,-0.0717
 The Urban Chocolatier Whitechapel,E1 5NB,51.5184,-0.0658
 Tender Loving Chicken,E1 5QJ,51.5234,-0.0546
 Bottles,E1 6AA,51.5192,-0.0759
+Mr Bombay,E1 6AA,51.5192,-0.0759
 Costa Coffee,E1 6AG,51.5194,-0.0782
 Pho,E1 6AG,51.5190,-0.0766
 The English Restaurant,E1 6AG,51.5190,-0.0766
@@ -601,8 +604,8 @@ The Athenian - Shoreditch Boxpark,E1 6GY,51.5235,-0.0763
 Voodoo Ray's Boxpark,E1 6GY,51.5235,-0.0762
 What the pitta shoreditch,E1 6GY,51.5235,-0.0763
 cedarberry stirling ,E1 6GY,51.5235,-0.0763
-rainbo,E1 6GY,51.5235,-0.0763
 salad mafia,E1 6GY,51.5235,-0.0763
+Nha Mor,E1 6HQ,51.5188,-0.0766
 Busaba Shoreditch,E1 6HT,51.5238,-0.0740
 Rum Kitchen,E1 6HT,51.5238,-0.0740
 Pret A Manger,E1 6HU,51.5239,-0.0775
@@ -649,7 +652,6 @@ Bengal Village,E1 6QL,51.5217,-0.0723
 Big Chill Brick Lane,E1 6QL,51.5210,-0.0720
 Brick Lane Brasserie,E1 6QL,51.5217,-0.0723
 Eastern Eye Balti House,E1 6QL,51.5217,-0.0723
-Foodema,E1 6QL,51.5210,-0.0720
 Italiku Limited T/A Laboratorio Pizza,E1 6QL,51.5217,-0.0723
 Muhib Indian cuisine ,E1 6QL,51.5217,-0.0723
 Standard Balti House,E1 6QL,51.5200,-0.0721
@@ -814,6 +816,7 @@ Grill Republic ,E13 9HH,51.5295,0.0247
 Lansbury Heritage Hotel,E14 0AE,51.5091,-0.0154
 Chartwell (Compass Group) at Our Lady's & St Josephs,E14 0DE,51.5100,-0.0199
 Hungry Hut,E14 0DJ,51.5093,-0.0191
+Popular cafe,E14 0DL,51.5091,-0.0204
 Eastenders Pie & Mash,E14 0EA,51.5114,-0.0138
 Pizza Hut Delivery,E14 0EA,51.5114,-0.0125
 The Pizza Room,E14 0EA,51.5114,-0.0150
@@ -902,7 +905,6 @@ Nando's,E14 5NY,51.5028,-0.0189
 Pret A Manger,E14 5NY,51.5031,-0.0183
 The Athenian - Canary Wharf,E14 5NY,51.5031,-0.0186
 The Vurger Co - Canary Wharf,E14 5NY,51.5031,-0.0186
-rainbo,E14 5NY,51.5031,-0.0186
 Starbucks Coffee Company (UK) Ltd,E14 5RB,51.5044,-0.0146
 Maureens ,E14 6AH,51.5132,-0.0151
 Donasao Kitchen & Bar,E14 6BT,51.5117,-0.0146
@@ -1054,6 +1056,7 @@ Istanbul Sofrasi ,E16 4HB,51.5165,0.0090
 Franjo's ,E16 4HQ,51.5178,0.0122
 KFC,E16 4HQ,51.5177,0.0118
 SUBWAY,E16 4HQ,51.5179,0.0122
+SPICE HUT PFCXPRESS,E16 4LF,51.5204,0.0124
 Kilnbridge Construction,E16 4TL,51.5204,-0.0010
 Strada,E1W 1AA,51.5087,-0.0736
 Bravas Tapas,E1W 1AT,51.5072,-0.0718
@@ -1355,7 +1358,6 @@ SOM Restaurants ltd,E6 5JP,51.5149,0.0577
 SHEPHERD'S INN BECKTON,E6 5LX,51.5145,0.0578
 Brewers Fayre Winsor House,E6 5NT,51.5148,0.0610
 Red Lion,E6 6ET,51.5307,0.0555
-Parekhs,E6 6JN,51.5250,0.0591
 BECKTON TREATS LIMITED,E6 6LG,51.5213,0.0709
 KFC,E6 6LG,51.5206,0.0708
 McDonald's,E6 6LG,51.5219,0.0718
@@ -1419,6 +1421,7 @@ JFB Jerk Grill,E8 1FA,51.5499,-0.0582
 Kavala ltd,E8 1FN,51.5497,-0.0575
 The Vincent ,E8 1FN,51.5497,-0.0575
 WAVE  We Are Vegan Everything by Cupcakes and Shhht,E8 1FT,51.5490,-0.0546
+COOL BUNZ,E8 1HA,51.5466,-0.0549
 The barrel boulangerie ,E8 1HA,51.5465,-0.0549
 Baxters Court Hackney (Wetherspoon),E8 1HE,51.5453,-0.0551
 Vicolo Hackney ,E8 1HP,51.5493,-0.0548
@@ -2467,6 +2470,7 @@ Islington Town House,N1 0RW,51.5338,-0.1072
 Marathon Restaurant,N1 0SL,51.5364,-0.1170
 Halo Bar and Restaurant,N1 0UY,51.5362,-0.1049
 IBERIA-Georgian Restaurant ,N1 1BA,51.5393,-0.1165
+KAWA KAWA Limited,N1 1BA,51.5392,-0.1165
 COSTA COFFEE,N1 1DU,51.5413,-0.1169
 Costa Coffee,N1 1DU,51.5415,-0.1169
 The Drapers Arms,N1 1ER,51.5406,-0.1083
@@ -2543,6 +2547,7 @@ De Beauvoir Arms,N1 3JS,51.5408,-0.0855
 Sweet Thursday,N1 3JS,51.5407,-0.0855
 The Cure,N1 3JS,51.5412,-0.0853
 TRADE,N1 3PB,51.5435,-0.0903
+Sutton and Sons,N1 3PD,51.5442,-0.0893
 Salut Restaurant,N1 3PJ,51.5460,-0.0872
 KHP Social,N1 4AP,51.5463,-0.0780
 Duke of Wellington,N1 4BL,51.5462,-0.0800
@@ -2962,7 +2967,6 @@ Seven- Heaven Ccocolate Co,NW1 8AH,51.5423,-0.1477
 Seven- Heaven Chocolate Co ,NW1 8AH,51.5423,-0.1477
 Seven- Heaven Chocolate Co,NW1 8AH,51.5423,-0.1477
 Seven-heaven juices,NW1 8AH,51.5423,-0.1478
-Thai Thai ,NW1 8AH,51.5423,-0.1478
 Thai street food,NW1 8AH,51.5420,-0.1474
 The Cheese Bar,NW1 8AH,51.5423,-0.1477
 Yaki Box,NW1 8AH,51.5423,-0.1477
@@ -3021,6 +3025,7 @@ oka restaurant ,NW1 8UY,51.5415,-0.1574
 Joe & The Juice - Regent's Park,NW1 8XL,51.5410,-0.1571
 Odettes Restaurant,NW1 8XL,51.5407,-0.1572
 Ripe Kitchen,NW1 8XL,51.5407,-0.1573
+Sweet Things,NW1 8XL,51.5409,-0.1572
 J Pizzeria,NW1 8XN,51.5415,-0.1567
 The Lord Stanley,NW1 9BH,51.5472,-0.1296
 King of Falafel,NW1 9DL,51.5393,-0.1420
@@ -3572,6 +3577,7 @@ Pret A Manger,SE1 7HR,51.4991,-0.1130
 Sista Barista,SE1 7HR,51.4991,-0.1134
 The Travel Cafe,SE1 7HR,51.4991,-0.1134
 THE CORNER CAFE RESTAURANT LIMITED,SE1 7JY,51.4954,-0.1168
+Garden Museum cafe,SE1 7LB,51.4951,-0.1202
 Cafe Nero Express (2),SE1 7LY,51.5032,-0.1133
 Pure Waterloo Station,SE1 7LY,51.5032,-0.1133
 Starbucks (Platform B \& C),SE1 7LY,51.5032,-0.1133
@@ -4292,6 +4298,8 @@ Masala Wala Cafe LTD,SE4 2AB,51.4654,-0.0361
 Arlo & Moe ,SE4 2BT,51.4560,-0.0367
 The Crofton Park Tavern,SE4 2BT,51.4560,-0.0367
 FREDS LONDON LTD,SE4 2BY,51.4546,-0.0377
+Eda ema ltd,SE4 2PH,51.4546,-0.0371
+Emaedaltd,SE4 2PH,51.4546,-0.0371
 Jerome's wine bar & shop,SE4 2PH,51.4546,-0.0371
 Bella Nova,SE4 2RA,51.4592,-0.0342
 The Brockley Barge Brockley (Wetherspoon),SE4 2RR,51.4642,-0.0365
@@ -4334,6 +4342,7 @@ SILK ROAD RESTAURANT,SE5 8TR,51.4741,-0.0896
 The Camberwell Arms,SE5 8TR,51.4741,-0.0896
 Corner Store,SE5 8UH,51.4741,-0.0811
 Crane's Kitchen,SE5 8UH,51.4741,-0.0811
+Tina's kitchen,SE5 9DB,51.4698,-0.0996
 Wagamama Limited,SE5 9JR,51.4725,-0.0994
 Brunchies,SE5 9NG,51.4724,-0.0944
 Geek Retreat London Camberwell ,SE5 9NR,51.4711,-0.0937
@@ -4375,6 +4384,7 @@ Cattleya,SE7 7AB,51.4854,0.0326
 THE VALLEY CAFE,SE7 7AE,51.4864,0.0321
 Costa Coffee,SE7 7AJ,51.4876,0.0276
 Subway,SE7 7AL,51.4872,0.0280
+Tina's kitchen,SE7 7AL,51.4872,0.0268
 Costa Coffee,SE7 7FR,51.4906,0.0232
 Punjabi kesar Ltd,SE7 7RA,51.4865,0.0212
 JRK Bros (Makro Charlton),SE7 7RZ,51.4885,0.0291
@@ -4460,6 +4470,7 @@ McDonald's,SE9 5LN,51.4527,0.0349
 Coco’s,SE9 5PR,51.4500,0.0520
 Pizza Hut,SE9 6BZ,51.4599,0.0493
 Fresh Ground Coffee House Eltham,SE9 6DH,51.4552,0.0401
+THAI THAI RESTAURANT,SE9 6SF,51.4514,0.0524
 The Tudor Barn,SE9 6SZ,51.4580,0.0497
 ARA FAST FOOD LIMITED,SE9 6TY,51.4675,0.0527
 Costa Coffee,SM1 1AN,51.3686,-0.1957
@@ -4556,6 +4567,7 @@ Morden Cafe,SM4 5BQ,51.4032,-0.1928
 Superfish,SM4 5BQ,51.4032,-0.1928
 Blue Junction Bar & Restaurant,SM4 5DA,51.4016,-0.1967
 Chicken Land,SM4 5HJ,51.3997,-0.1967
+Larryies kitchen ,SM4 5HJ,51.3997,-0.1967
 New Galito's Piri Piri,SM4 5HJ,51.3997,-0.1967
 PRINCESS OF INDIA,SM4 5HJ,51.3997,-0.1967
 Pizza Hut,SM4 5HJ,51.3997,-0.1967
@@ -4568,7 +4580,10 @@ CAFFE LA LAVELLA ,SM4 5HT,51.4025,-0.1932
 Instagrab Pretzel,SM4 5HT,51.4029,-0.1924
 KFC Morden,SM4 5HT,51.4025,-0.1932
 KFC,SM4 5HT,51.4021,-0.1939
+Auto repair ,SM4 5JN,51.4003,-0.1923
+Leo’s café,SM4 5JN,51.4003,-0.1923
 Restaurant Deja Vu,SM4 5LQ,51.4024,-0.1926
+Ali’s Burgers ,SM4 5LT,51.3977,-0.1951
 Peri peri and pizza ,SM4 5RP,51.3972,-0.1901
 Mecca Bingo,SM4 6BP,51.3856,-0.1885
 Star Express Coffee Shop (Rose Hill),SM5 1AF,51.3835,-0.1881
@@ -4917,6 +4932,7 @@ Voodoo Chicken & Spice,SW15 2NU,51.4639,-0.2085
 MEIWEI LONDON,SW15 2PP,51.4642,-0.2132
 Hotaru ,SW15 2PT,51.4634,-0.2116
 YAMIRO KOREAN RESTAURANT,SW15 2PT,51.4634,-0.2116
+Georgian Sisters,SW15 2RX,51.4569,-0.2043
 East Putney Tavern,SW15 2SP,51.4599,-0.2119
 The Prince of Wales,SW15 2SP,51.4599,-0.2119
 Zaga cicchetti,SW15 2SP,51.4599,-0.2119
@@ -5289,6 +5305,7 @@ The Patio,SW19 8EE,51.4395,-0.1969
 Lupo Bros,SW19 8EF,51.4381,-0.1971
 The box ,SW19 8JZ,51.4270,-0.1912
 McChina Eating,SW19 8LA,51.4268,-0.1904
+Pizza and Pasta Hut,SW19 8LA,51.4268,-0.1904
 Al Forno,SW19 8QN,51.4206,-0.2019
 No.601 Queens Road,SW19 8YA,51.4208,-0.2050
 Costa Coffee,SW19 8YE,51.4209,-0.2056
@@ -5377,6 +5394,7 @@ Pret A Manger,SW1P 2AA,51.4947,-0.1295
 Ravello,SW1P 2AA,51.4946,-0.1293
 The Loose Box,SW1P 2AA,51.4946,-0.1293
 Ravello,SW1P 2AF,51.4952,-0.1275
+Sapori cafe,SW1P 2AF,51.4952,-0.1275
 Ma La Sichuan,SW1P 2BL,51.4966,-0.1307
 Barley Mow,SW1P 2EE,51.4950,-0.1313
 Mio Restaurant Bar,SW1P 2HD,51.4967,-0.1334
@@ -5508,6 +5526,7 @@ Hans Crescent Food Limited,SW1X 0LZ,51.4998,-0.1620
 Benugo,SW1X 7AW,51.4985,-0.1478
 Horse and Groom,SW1X 7BA,51.4995,-0.1509
 Old English Coffee House,SW1X 7DU,51.5005,-0.1518
+Mango Tree ,SW1X 7EQ,51.4985,-0.1478
 Pret A Manger,SW1X 7HN,51.4999,-0.1494
 Al Basha Restaurant,SW1X 7JN,51.5025,-0.1577
 Dinner by Heston Blumenthal,SW1X 7LA,51.5024,-0.1600
@@ -5925,6 +5944,7 @@ The Little Blue Door,SW6 5HP,51.4740,-0.2069
 Boys 'N' Berry,SW6 5HQ,51.4749,-0.2062
 Chairs & Coffee,SW6 5NJ,51.4798,-0.1992
 Jack and Beyond,SW6 5RP,51.4769,-0.2034
+Nuntee Thai Cuisine,SW6 5RP,51.4769,-0.2034
 Pappa Ciccia,SW6 5RQ,51.4761,-0.2092
 LOCAL HERO (FULHAM) LTD,SW6 5RT,51.4764,-0.2048
 Pizza Hut Delivery,SW6 5RU,51.4761,-0.2055
@@ -6261,6 +6281,7 @@ The Shack 68,TW11 8DE,51.4308,-0.3337
 Cafe Benedict,TW11 8EW,51.4270,-0.3329
 Milos Cafe Limited,TW11 8EW,51.4270,-0.3329
 Prem Restaurant,TW11 8HA,51.4274,-0.3312
+Shambles  Restaurant,TW11 8HG,51.4274,-0.3296
 Shambles Italian Restaurant ,TW11 8HG,51.4274,-0.3296
 The Kings Head ,TW11 8HG,51.4274,-0.3296
 the bowl and roll - Poke,TW11 8HG,51.4273,-0.3303
@@ -6303,6 +6324,7 @@ Costa Coffee,TW8 0EB,51.4882,-0.2906
 The Express Tavern,TW8 0EW,51.4891,-0.2879
 Rada cafe,TW8 0GD,51.4901,-0.3028
 McDonald's,TW8 0JS,51.4862,-0.2989
+Albany Spice,TW8 0JW,51.4858,-0.3012
 The Griffin Pub,TW8 0NP,51.4871,-0.3027
 The Brook Freehouse,TW8 0NU,51.4887,-0.3033
 Café Capri Ltd,TW8 8AH,51.4834,-0.3080
@@ -6437,6 +6459,7 @@ KOMBU LTD,W11 1LL,51.5179,-0.2064
 TASTE OF JAPAN LTD,W11 1LL,51.5179,-0.2064
 Portobello Garden,W11 1LR,51.5179,-0.2068
 Saporitalia,W11 1LR,51.5178,-0.2068
+Blanche Eatery,W11 1LT,51.5171,-0.2062
 Brown Rice ,W11 1LU,51.5163,-0.2055
 E&O,W11 1NN,51.5159,-0.2056
 Good Life Eatery,W11 1NN,51.5159,-0.2057
@@ -6501,6 +6524,7 @@ Hilton London Kensington,W11 4UL,51.5051,-0.2133
 Bridgeo Co Ltd,W12 0BJ,51.5155,-0.2467
 Proud Marys Cafe,W12 0JD,51.5074,-0.2369
 LITTLE NAPOLI,W12 0NR,51.5066,-0.2378
+Lahori Restaurant,W12 0NR,51.5066,-0.2378
 Wild Thyme,W12 0PQ,51.5082,-0.2387
 QPR CAFE,W12 7DA,51.5116,-0.2346
 Albertine Wine Bar & Restaurant,W12 7DP,51.5065,-0.2249
@@ -7764,6 +7788,7 @@ KFC PARK ROYAL,W3 0PA,51.5253,-0.2813
 KFC,W3 0PA,51.5253,-0.2813
 Nando's,W3 0PA,51.5251,-0.2802
 Subway Park Royal,W3 0PA,51.5253,-0.2813
+ANAYA LONDON LIMITED,W3 0SL,51.5250,-0.2831
 Basrah Lounge,W3 0SL,51.5250,-0.2831
 Buono,W3 6AY,51.5085,-0.2657
 Hungry Pizza ltd,W3 6AY,51.5085,-0.2657

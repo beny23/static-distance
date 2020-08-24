@@ -1,7 +1,6 @@
 name,postcode,lat,lon
 Tiffin Coffee Grande,BD1 1US,53.8022,-1.7559
 The Deli Bar Restaurant Ltd,BD1 3BW,53.8010,-1.7619
-Food2go extra ltd,BD1 3EB,53.8002,-1.7588
 4 Bros (Bradford) Limited,BD1 3EP,53.8007,-1.7592
 Chonis Inc. Limited,BD1 3EP,53.8007,-1.7592
 Al freshco,BD1 3ES,53.8011,-1.7595
@@ -140,7 +139,6 @@ Shimla spice ,BD21 1NR,53.8642,-1.9116
 Lemon Tree Cafe Bistro,BD21 1QT,53.8628,-1.9170
 PONTE VECCHIO (KEIGHLEY) LIMITED,BD21 2AA,53.8658,-1.9104
 BALTI HOUSE (KEIGHLEY) LTD,BD21 2AT,53.8687,-1.9110
-Chaxys,BD21 2LT,53.8674,-1.9198
 Aroush Cafe,BD21 2SR,53.8695,-1.9100
 The Livery Rooms Keighley (Wetherspoon),BD21 3AA,53.8687,-1.9098
 Wilsons Fish Restaurant,BD21 3DX,53.8685,-1.9073
@@ -168,6 +166,7 @@ Lahori Karahi and Charga,BD21 3RG,53.8679,-1.9047
 Stockbridge Arms Fish Restaurant,BD21 4AH,53.8747,-1.8932
 Rock and Rolls Cafe,BD21 4AW,53.8742,-1.8941
 De-Cafe Limited,BD21 4JH,53.8690,-1.8941
+Dragons den,BD21 4JH,53.8690,-1.8941
 Santoni Osteria,BD21 4LW,53.8707,-1.8870
 KHALID'S DESI RESTAURANT,BD21 4PD,53.8679,-1.9021
 Chaipoint,BD21 5HS,53.8652,-1.9100
@@ -193,6 +192,7 @@ Hunters of Haworth,BD22 8DA,53.8296,-1.9544
 The Fleece Inn,BD22 8DA,53.8296,-1.9544
 the old registry ,BD22 8DA,53.8296,-1.9544
 Cobbles and Clay,BD22 8DP,53.8311,-1.9553
+Emmas ,BD22 8DP,53.8311,-1.9553
 Emma’s Cafe,BD22 8DP,53.8311,-1.9553
 The Apothecary Tea Rooms,BD22 8DP,53.8311,-1.9553
 The Cookhouse ,BD22 8DP,53.8311,-1.9553
@@ -207,6 +207,7 @@ Mill Hey Brew House Limited,BD22 8NQ,53.8318,-1.9479
 Crossroads Indian ,BD22 9DL,53.8352,-1.9350
 The Kitchen Cafe,BD22 9DL,53.8352,-1.9350
 The Waggon and Horses ,BD22 9QE,53.8013,-1.9700
+Drop farm tearooms,BD22 9RE,53.8192,-1.9779
 The Dog and Gun Bar and Restaurant Ltd,BD22 9SN,53.8050,-1.9321
 Bolton Abbey Railway Station,BD23 6AF,53.9763,-1.9087
 Embsay & Bolton Abbey Steam Railway ,BD23 6AF,53.9763,-1.9087
@@ -230,7 +231,6 @@ Cafe bismilla,BD8 8DA,53.8039,-1.7728
 RAJAS CHICKEN BAR,BD8 9DJ,53.8034,-1.7762
 BBQ Express Yorkshire Ltd,BD8 9HL,53.8058,-1.7855
 Shaan restaurant ,BD8 9HL,53.8058,-1.7855
-New Allerton ,BD8 9NQ,53.8006,-1.7878
 Deli 29,BD9 4EY,53.8197,-1.7742
 Lister Park Boating Pavilion & Coffee Shop,BD9 4JN,53.8134,-1.7711
 Kashmiri Aroma (Bradford) LLP,BD9 4JR,53.8161,-1.7737
@@ -245,6 +245,7 @@ Choudharys,BD9 5ES,53.8058,-1.7889
 Fresh fillingz cafe ,BD9 5ES,53.8058,-1.7889
 Fresh fillingz cafe,BD9 5ES,53.8058,-1.7889
 Deli.co (Bradford) LTD,BD9 5EU,53.8055,-1.7909
+masters resturant,BD9 5EU,53.8055,-1.7909
 Hare & Hounds,BD9 5NN,53.8127,-1.7958
 West Bradford Golf Club,BD9 6NP,53.8125,-1.8161
 Costa Coffee,BD9 6RJ,53.8065,-1.7961
@@ -395,6 +396,7 @@ dome thai,LS28 6ES,53.8053,-1.6663
 Aalfies Limited,LS28 6LS,53.8091,-1.6537
 The sandwich bar,LS28 6QB,53.8061,-1.6813
 HOWDY 28 LTD,LS28 8ED,53.8034,-1.6951
+RANA 2 LTD,LS28 8ED,53.8034,-1.6953
 Lahori Karahi and Charga Bradford,LS28 8EE,53.8025,-1.6988
 lala's restaurant pudsey,LS28 8EE,53.8025,-1.6988
 panhandlecatering ltd,LS29 0BE,53.9329,-1.8368

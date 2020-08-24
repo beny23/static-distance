@@ -88,6 +88,7 @@ Manjaros,B11 1QT,52.4607,-1.8736
 Al Fursan,B11 1RB,52.4629,-1.8763
 Barakah cafe,B11 1RB,52.4629,-1.8762
 MARA CADDE LTD,B11 1RD,52.4640,-1.8771
+dil dil eats,B11 2NU,52.4547,-1.8572
 area 51 cafe ltd,B11 3LU,52.4534,-1.8601
 SHAHI NAN KABAB ( BIRMINGHAM ) LIMITED,B11 4JY,52.4580,-1.8706
 BIG CHICKEN LTD ,B11 4JZ,52.4570,-1.8697
@@ -118,7 +119,7 @@ Thaana restaurant ltd,B12 8JS,52.4577,-1.8764
 Artisan Desserts,B12 8JT,52.4563,-1.8764
 Chaudhry Bites,B12 8JU,52.4553,-1.8769
 GRILLZ steakhouse ,B12 8JU,52.4553,-1.8769
-MULAN EATS RESTAURANT,B12 8JU,52.4553,-1.8769
+Rosso fine dining,B12 8JU,52.4553,-1.8769
 Shahi Qila Taste Of Lahore Ltd ,B12 8JU,52.4553,-1.8769
 ANTEP LOKANTASI LTD,B12 8JY,52.4538,-1.8777
 Baskin Robbins,B12 8JY,52.4538,-1.8777
@@ -275,6 +276,7 @@ Nando's,B2 4DU,52.4796,-1.9018
 Second Cup Coffee Company,B2 4DU,52.4795,-1.9012
 T4,B2 4EG,52.4794,-1.8997
 Tim Hortons,B2 4EU,52.4791,-1.8996
+Wok to Walk ,B2 4EU,52.4791,-1.8999
 Faculty Coffee,B2 4HD,52.4790,-1.9000
 200 Degrees,B2 4JD,52.4788,-1.8994
 Thyme,B2 4NH,52.4767,-1.9035
@@ -386,7 +388,6 @@ Apple Green Service Station,B32 1HP,52.4635,-1.9945
 Costa Coffee,B32 2AL,52.4627,-1.9983
 the new talbot quinton,B32 2AY,52.4650,-1.9850
 NEW ISLAND INN QUINTON LTD,B32 2PP,52.4537,-1.9808
-ICS CATERING LIMITED,B32 2QD,52.4522,-1.9832
 German Doner Kebab,B4 6AB,52.4813,-1.8961
 Wayland's Yard Birmingham,B4 6AF,52.4823,-1.8963
 Soul Deli,B4 6EQ,52.4820,-1.8958
@@ -475,6 +476,7 @@ Rodroj Coffee Lounge & Restaurant Ltd,B5 4EN,52.4755,-1.8996
 Holiday Inn Birmingham City Centre,B5 4EW,52.4757,-1.8992
 Rodroj Fish & Chips,B5 4HE,52.4752,-1.8991
 Subway,B5 4LJ,52.4763,-1.8977
+CAFE NEO,B5 4RB,52.4761,-1.8938
 OTORO SUSHI,B5 4RQ,52.4761,-1.8951
 Chung Ying Cantonese Restaurant,B5 4RT,52.4754,-1.8975
 LY 968 Limited T/A RuGa Bistro,B5 4RX,52.4760,-1.8964
@@ -562,6 +564,7 @@ KFC,B63 3HR,52.4515,-2.0506
 KFC,B63 3HR,52.4527,-2.0468
 Loyal lodge public house,B63 3LY,52.4576,-2.0499
 Teamworks Karting Halesowen,B63 3NR,52.4560,-2.0465
+Bakers cafe,B63 3NS,52.4562,-2.0474
 Blue Spice Halesowen,B63 3QX,52.4536,-2.0645
 Subway Shortcross,B63 3UA,52.4525,-2.0580
 Flute,B63 3UD,52.4531,-2.0613
@@ -837,6 +840,7 @@ Upper Gornal McDonald's,DY3 1UX,52.5278,-2.1162
 LE RAJ RESTAURANT (DUDLEY) LIMITED,DY3 2UA,52.5173,-2.1321
 Mad Hatters Tea Room,DY3 2UA,52.5172,-2.1329
 Seven Stars,DY3 3LT,52.5391,-2.1287
+kanzer kebabs,DY3 3RT,52.5542,-2.1281
 The Summerhouse Sedgley Ltd,DY3 4AN,52.5409,-2.1447
 The Dudley Arms Pub Company,DY3 4LB,52.5185,-2.1758
 Green Man Inn,DY3 4NR,52.5127,-2.2041
@@ -1019,7 +1023,6 @@ Shimla Peppers at Balloons,WS1 2EU,52.5834,-1.9758
 oliver leisure ltd trading as lyndon house ,WS1 2HA,52.5836,-1.9764
 Walsall Golf Club Limited,WS1 3EY,52.5699,-1.9646
 Five Rivers A la Carte,WS1 3NA,52.5809,-1.9831
-JYOT RESTAURANT,WS1 3NA,52.5809,-1.9831
 Lal Haveli Restaurant ,WS1 3QD,52.5814,-1.9849
 Rendezvous Walsall ltd,WS1 3QQ,52.5809,-1.9862
 Sultan’s restaurant and takeaway limited,WS1 3RB,52.5782,-1.9818
@@ -1222,6 +1225,7 @@ Little Dessert Shop Ltd,WV1 3JW,52.5858,-2.1246
 The Queens,WV1 3JW,52.5857,-2.1246
 Central Cafe,WV1 3NN,52.5850,-2.1279
 Lindy Lou's coffee shop ltd,WV1 3NP,52.5847,-2.1293
+SACHIN'S DELHI,WV1 3NP,52.5847,-2.1293
 The Subcontinent,WV1 3NP,52.5847,-2.1293
 Nutmeg,WV1 3NU,52.5845,-2.1290
 Delhi 2 Bombay,WV1 4EP,52.5858,-2.1398
@@ -1232,6 +1236,7 @@ MARIGOLD INDIAN RESTAURANT UK LIMITED,WV1 4LP,52.5839,-2.1328
 THE NEW SPICE RESTAURANT LIMITED,WV1 4LR,52.5839,-2.1316
 Rocco Italian,WV1 4LY,52.5854,-2.1326
 Heavenly Desserts,WV1 4ND,52.5853,-2.1335
+Express Kebab,WV1 4PE,52.5935,-2.1364
 Hamiltons Restaurant at A Park View Hotel,WV1 4PP,52.5870,-2.1399
 Annabels Bar Cafe,WV1 4QL,52.5880,-2.1332
 Table Table The Bluebrick,WV10 0BA,52.5886,-2.1196
@@ -1328,7 +1333,10 @@ UPPER CRUST CAFE WOLVES LTD,WV2 3BY,52.5765,-2.1261
 Lakshmi Sweet Centre LTD,WV2 3DR,52.5714,-2.1247
 Dosa Hut,WV2 3JY,52.5679,-2.1239
 ORO,WV2 3JY,52.5679,-2.1239
+C & E Foods,WV2 4AG,52.5816,-2.1260
+M&T Cafe,WV2 4AG,52.5816,-2.1260
 Jack’s Cafe bar ltd,WV2 4DU,52.5786,-2.1277
+The cave lounge,WV2 4DU,52.5786,-2.1277
 Kaz Bar Wolves Limited ,WV2 4HJ,52.5770,-2.1323
 Desi yew tree,WV2 4HN,52.5781,-2.1307
 MEAT AND EAT,WV2 4LD,52.5827,-2.1306
@@ -1381,6 +1389,7 @@ Farmer & Friends,WV5 9JB,52.5353,-2.1855
 The Queen Victoria Hotel,WV6 0AG,52.5915,-2.1480
 Wolverhampton Lawn Tennis & Squash Club,WV6 0LH,52.5949,-2.1605
 Holiday Inn Wolverhampton - Racecourse,WV6 0PE,52.6017,-2.1355
+Tasty Sweets,WV6 0PP,52.5942,-2.1376
 Pegasus ,WV6 0QQ,52.5967,-2.1404
 Kebab House,WV6 0QW,52.5942,-2.1429
 The Cowshed,WV6 7EN,52.5705,-2.2544

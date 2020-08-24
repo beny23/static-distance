@@ -38,6 +38,7 @@ NOODLE K8 LTD,BD1 3JH,53.7976,-1.7571
 The Record Cafe,BD1 3JH,53.7976,-1.7571
 Rum Shack A Lack,BD1 3JL,53.7968,-1.7564
 Fountains Coffee House Limited,BD1 3JS,53.7961,-1.7572
+Rosso fine dining,BD1 3PE,53.7968,-1.7556
 Fish dish,BD1 3PZ,53.7957,-1.7564
 Smorgasbord Coffee Bar,BD1 3QQ,53.7959,-1.7554
 Pizza Design,BD1 3QR,53.7960,-1.7540
@@ -53,7 +54,7 @@ BITE BURGER,BD1 5AY,53.7923,-1.7470
 Bradford cafe limited ta arabian krush ,BD1 5BD,53.7948,-1.7450
 Cafe Jinnah LLP,BD1 5BL,53.7935,-1.7439
 Samchai Ltd.  Trading As Bangkok Thai Restaurant,BD1 5EE,53.7938,-1.7438
-Frankies,BD1 5LD,53.7916,-1.7478
+Rosso fine dining,BD1 5HD,53.7941,-1.7441
 Nando's,BD1 5LD,53.7909,-1.7476
 Thyme,BD1 5LD,53.7917,-1.7478
 Jacobs Well,BD1 5RL,53.7907,-1.7537
@@ -78,6 +79,7 @@ Guide Post Hotel,BD12 0ST,53.7559,-1.7634
 Sweet & smokys,BD12 7AA,53.7475,-1.7413
 Bostock & crowther,BD12 7DT,53.7469,-1.7388
 Rendezvous Deli Bar & Tea Room,BD12 8AD,53.7431,-1.7675
+Lower Wyke Community Lunch,BD12 9AE,53.7299,-1.7735
 FRATELLO'S LIMITED,BD12 9NT,53.7402,-1.7685
 The Old Dolphin ,BD13 1DR,53.7712,-1.8255
 Ring o Bells,BD13 2AD,53.7677,-1.8477
@@ -107,6 +109,7 @@ Luigi's,BD19 5DR,53.7226,-1.7244
 Tappinos Limited,BD19 5ET,53.7230,-1.7146
 The Rose and Crown,BD19 5ET,53.7230,-1.7146
 Ribbon Tree Communitea Room,BD19 5EY,53.7231,-1.7166
+THE EXPRESS BRADFORD LIMITED,BD19 5HA,53.7237,-1.7173
 Cafe Pango,BD19 5LJ,53.7186,-1.7060
 DM's Diner,BD19 5LY,53.7180,-1.7020
 Brewers Fayre The Hunsworth,BD19 6HG,53.7366,-1.7217
@@ -116,6 +119,7 @@ Aagrah Midpoint,BD3 7AY,53.7985,-1.7039
 Habibs Restaurant,BD3 7JD,53.7991,-1.7203
 icestone gelato,BD3 8DG,53.7937,-1.7177
 berries bagels & Shakes,BD3 8DS,53.7946,-1.7192
+WATAN SUPERSTORE (BRADFORD) LTD,BD3 8ED,53.7949,-1.7215
 Desi khanna,BD3 8EZ,53.7922,-1.7256
 spuddys ltd ,BD3 8EZ,53.7923,-1.7254
 Akbar's Restaurant,BD3 8LF,53.7947,-1.7148
@@ -140,7 +144,7 @@ Vanilla Rooms,BD3 9QX,53.7925,-1.7386
 Pasha,BD3 9RA,53.7922,-1.7378
 King coffee co,BD3 9TY,53.7921,-1.7309
 mughal restaurant and sweet centre,BD3 9TY,53.7921,-1.7300
-north 38 restaurant ,BD3 9TY,53.7921,-1.7296
+rajas pizzabar ,BD3 9TY,53.7921,-1.7296
 The Curry Counter at Pakeezah Leeds Rd ,BD3 9UD,53.7929,-1.7385
 Bollywood Brasserie,BD4 0RP,53.7691,-1.6713
 Tong Garden Centre,BD4 0RY,53.7690,-1.6712
@@ -162,16 +166,20 @@ Subway,BD4 9PZ,53.7727,-1.7229
 Omar khans ,BD5 0AL,53.7899,-1.7580
 babtooma lts,BD5 0AX,53.7902,-1.7589
 Classic Persian restaurant (bradford)limited ,BD5 0NB,53.7834,-1.7640
+dil dil eats,BD5 0QZ,53.7865,-1.7541
 Anglo-Asian Foods Ltd T/A Lahori Gate,BD5 0TG,53.7865,-1.7539
 LISTER ARMS SUBWAY,BD5 7JX,53.7822,-1.7574
+Clear dining,BD5 8DH,53.7733,-1.7615
 PIZZA DE NIROS,BD5 8DJ,53.7746,-1.7608
 Sugar Snap Kitchen Ltd,BD5 8HB,53.7703,-1.7484
 Cedar Court Hotel Bradford,BD5 8HW,53.7714,-1.7532
 McDonald's,BD5 8JY,53.7688,-1.7476
 TAFZALHSHAH LTD,BD5 8JY,53.7691,-1.7485
+Bombay club,BD5 8LX,53.7680,-1.7608
 Food Fusion,BD5 8NN,53.7686,-1.7631
 Fuzebox ,BD5 8NN,53.7686,-1.7631
 dessert bus ,BD5 8PQ,53.7743,-1.7498
+Clear dining,BD5 9DQ,53.7766,-1.7702
 P F HOLDINGS UK LTD T/A PEARLS TEA ROOM ,BD6 1DA,53.7684,-1.7517
 Pizza Hut,BD6 1JQ,53.7616,-1.7688
 KFC,BD6 1PR,53.7644,-1.7628
@@ -182,20 +190,22 @@ Mangosteen,BD6 2EA,53.7585,-1.7957
 SHEZZAANS RESTAURANT BFD LTD,BD6 2LH,53.7598,-1.7851
 The Kashmir Restaurant,BD7 1AG,53.7903,-1.7595
 Cafe Liza,BD7 1AH,53.7910,-1.7616
+dil dil eats,BD7 1AJ,53.7916,-1.7573
 Aleppo,BD7 1AL,53.7915,-1.7589
 LEGENDS DESSERTS BURGERS (BFD) LTD,BD7 1AL,53.7915,-1.7589
 Mylahore,BD7 1AL,53.7915,-1.7589
 OMARS BALTI HOUSE,BD7 1AL,53.7915,-1.7589
 boston burgers and shakes,BD7 1AL,53.7915,-1.7589
 Burger Time ,BD7 1AZ,53.7906,-1.7625
+Halo Cafe,BD7 1AZ,53.7907,-1.7633
 Subway Great Horton Rd,BD7 1AZ,53.7906,-1.7625
 The Real Doner co,BD7 1AZ,53.7908,-1.7627
 friesday limited,BD7 1AZ,53.7906,-1.7625
 Bky limited t/a International Restaurant,BD7 1BA,53.7904,-1.7616
 H kitchen ,BD7 1BA,53.7904,-1.7616
 Just coffee,BD7 1BA,53.7904,-1.7616
+deli bite,BD7 1BB,53.7898,-1.7614
 STARBAKE PATISSERIES LTD,BD7 1JR,53.7942,-1.7690
-Perry frangos,BD7 1ND,53.7925,-1.7731
 Subway ,BD7 1ND,53.7931,-1.7721
 Mezza Restaurants,BD7 1NH,53.7919,-1.7744
 MUMBAI BITES,BD7 1NX,53.7908,-1.7707
@@ -219,7 +229,7 @@ Ambala The Spice Lounge,BD7 1RP,53.7874,-1.7726
 Anams Restaurant,BD7 1RP,53.7874,-1.7726
 Candia cafe,BD7 2AA,53.7912,-1.7791
 Insane Air ,BD7 2BR,53.7842,-1.7845
-Food2go express clayton ltd,BD7 2SQ,53.7831,-1.8025
+sims grill and curry house ,BD7 3AH,53.7876,-1.7775
 ROMEOS DINER,BD7 3BZ,53.7829,-1.7815
 Bharat Restaurant Bar & Grill,BD7 3HR,53.7844,-1.7793
 Mumtaz,BD7 3HS,53.7856,-1.7771
@@ -227,6 +237,7 @@ Peri Fusion,BD7 4EG,53.7797,-1.7859
 Burning Bull,BD7 4EY,53.7792,-1.7885
 Bb fast food ,BD7 4JB,53.7731,-1.7863
 Cha Cha Chai Donuts,BD8 9AN,53.7971,-1.7853
+RAJAS,BD8 9AN,53.7971,-1.7853
 McDonald's,BD8 9AP,53.7976,-1.7844
 Subway,BD8 9AP,53.7974,-1.7840
 TAFZALHSHAH LTD,BD8 9AP,53.7974,-1.7840
@@ -234,6 +245,7 @@ KFC,BD8 9BH,53.7985,-1.7843
 KFC,BD8 9BH,53.7985,-1.7844
 Aleysha Bower T/A Mamma Leeshas Soul Kitchen,BD8 9BS,53.7992,-1.7828
 Yam spice foods ,BD8 9BS,53.7992,-1.7828
+M S TRAILL,BD8 9RE,53.7981,-1.7897
 The Cherry Tree Huddersfield (Wetherspoon),HD1 1BA,53.6475,-1.7821
 heavenly desserts,HD1 1BG,53.6479,-1.7825
 pepes peri peri,HD1 1BG,53.6477,-1.7824
@@ -323,6 +335,7 @@ Thai Sakon Restaurant,HD1 5AY,53.6507,-1.7844
 The Scullery kitchen and bar Ltd,HD1 5BZ,53.6512,-1.7876
 Apadana ,HD1 5DL,53.6507,-1.7831
 Gringos Restaurant ,HD1 5DL,53.6507,-1.7831
+primo restaurant,HD1 5DL,53.6507,-1.7831
 Peppers Grill and Pizza Bar,HD1 5EY,53.6577,-1.7900
 Mother Hubbards ,HD1 6DZ,53.6552,-1.7826
 Saim's Restaurant,HD1 6DZ,53.6556,-1.7826
@@ -419,6 +432,7 @@ Bella Pizza,HD6 2DR,53.7063,-1.7865
 Crow Nest Park Golf Club Ltd,HD6 2LN,53.7172,-1.7936
 The Dusty Miller,HD6 2PB,53.7150,-1.8028
 Enchanted wood Cafe,HD6 2QD,53.7107,-1.7961
+The Red Lion,HD6 3EL,53.6925,-1.7875
 the sun inn pub rastrick,HD6 3PZ,53.6837,-1.7997
 FOUR SONS INN,HD6 3QP,53.6802,-1.7916
 Big Shots Cafe,HD6 4AH,53.7089,-1.7797
@@ -458,6 +472,7 @@ The Foresters Arms,HD9 6DW,53.6008,-1.7956
 Aneeka Ltd t/a Blue Tiger ,HD9 6EE,53.5983,-1.7975
 Jacobs Well,HD9 6PU,53.6033,-1.7880
 The Travellers Rest,HD9 7AZ,53.5998,-1.7788
+spice fusion restaurant new mill ltd,HD9 7JT,53.5755,-1.7552
 Coffee Culture (Mereside) Ltd,HX3 6XG,53.7301,-1.8448
 Stump Cross Inn,HX3 7AY,53.7360,-1.8402
 22 The Square LTD,HX3 7HW,53.7401,-1.8279
@@ -612,7 +627,6 @@ San co co,LS1 6NU,53.7999,-1.5412
 Sushi Waka,LS1 6NU,53.8000,-1.5407
 The Brotherhood Leeds,LS1 6NU,53.8000,-1.5407
 Headrow House,LS1 6PU,53.7988,-1.5409
-21 Restaurant ,LS1 7BR,53.7959,-1.5402
 HUMPIT,LS1 7BR,53.7960,-1.5402
 If Up North ,LS1 7BT,53.7953,-1.5408
 Knaves Kitchen,LS1 7BT,53.7953,-1.5408
@@ -843,7 +857,6 @@ POT POT,WF1 1UY,53.6827,-1.5002
 Silver Spice Ltd ,WF1 1UY,53.6827,-1.5002
 BNJ BARS LIMITED,WF1 1XD,53.6825,-1.5001
 Rooster King,WF1 1XH,53.6825,-1.5009
-WF ONE,WF1 1XJ,53.6825,-1.5017
 Jay Dee’s,WF1 1XQ,53.6822,-1.5018
 lala's wakefied,WF1 1XQ,53.6822,-1.5018
 the black horse,WF1 1XR,53.6820,-1.5032
@@ -883,6 +896,7 @@ The Yorkshire Deli & Pizza Bar,WF1 3BX,53.6852,-1.5003
 Fryday,WF1 3NA,53.6872,-1.4967
 Abduls,WF1 3NR,53.6868,-1.4939
 Taste Buds At The Station,WF1 4EL,53.6787,-1.4894
+Jhelum Super Store Cafe,WF1 5AU,53.6667,-1.4791
 Kashmiri Posh Nosh,WF1 5DY,53.6720,-1.4824
 RAJA'S DESI GRILL,WF1 5DY,53.6720,-1.4824
 Aagrah Sandal ,WF1 5NX,53.6661,-1.4868
@@ -913,7 +927,6 @@ TTH Dewsbury LTD,WF13 2DU,53.6959,-1.6312
 grilled and filtered,WF13 2DU,53.6958,-1.6312
 MOONLIGHT,WF13 2JN,53.6954,-1.6344
 The Express D,WF13 3ET,53.6800,-1.6592
-cafe express,WF13 3ET,53.6800,-1.6592
 Wenjo’s health bar,WF13 3LD,53.6786,-1.6651
 chill and chat cafe ,WF13 3NT,53.6941,-1.6570
 The Pie Shed,WF13 4DH,53.6982,-1.6511
@@ -954,7 +967,6 @@ Costa Coffee,WF16 9RL,53.7095,-1.6763
 McDonald's Restaurant,WF16 9RL,53.7085,-1.6762
 McDonald's,WF16 9RL,53.7092,-1.6769
 Chaiiwala Batley,WF17 5DA,53.7143,-1.6341
-Exotica Cafe ,WF17 5DR,53.7150,-1.6328
 K&K GELATO LTD,WF17 5EP,53.7131,-1.6308
 icestone gelato,WF17 5EP,53.7131,-1.6309
 Yorem Turkish Restaurant Ltd,WF17 5EY,53.7132,-1.6300
@@ -1053,6 +1065,7 @@ The Quarry Restaurant and Grill,WF4 5NF,53.6590,-1.5665
 Cinnamon Lounge,WF4 5NN,53.6577,-1.5742
 Di bosco (retail) LTD,WF4 5PR,53.6579,-1.5769
 Capri Horbury,WF4 5QA,53.6560,-1.5796
+The Secret Garden Children's Soft Play Centre,WF4 5QA,53.6560,-1.5796
 Rich and Fancy ,WF4 6LP,53.6602,-1.5551
 The Cherry Tree Horbury Limited,WF4 6LT,53.6607,-1.5544
 Malagor,WF5 0NH,53.6777,-1.5636

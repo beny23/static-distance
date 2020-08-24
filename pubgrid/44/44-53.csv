@@ -33,7 +33,6 @@ Costa Coffee,B28 8BN,52.4419,-1.8497
 KFC,B28 8HN,52.4358,-1.8462
 KFC,B28 8HP,52.4374,-1.8442
 Summer House Bar and Grill,B28 8ST,52.4425,-1.8449
-RED VELVET EATERY,B28 9EH,52.4273,-1.8412
 Breakfast Room,B28 9ES,52.4234,-1.8374
 Lambs Lunches,B28 9JA,52.4211,-1.8358
 Costa Coffee,B40 1PU,52.4471,-1.7177
@@ -113,6 +112,7 @@ Tap & Tandoor,B91 3DX,52.4148,-1.7773
 The Delhi,B91 3DX,52.4148,-1.7773
 Costa Coffee,B91 3GS,52.4123,-1.7785
 THEOBROMA,B91 3GS,52.4123,-1.7781
+dil dil eats,B91 3GS,52.4123,-1.7781
 YAKINORI SOLIHULL LTD,B91 3HT,52.4117,-1.7788
 Crowne Plaza Solihull,B91 3QD,52.4106,-1.7805
 The Boston Tea Party Group Limited,B91 3QE,52.4137,-1.7811
@@ -120,15 +120,16 @@ Asha's Restaurant & Cocktail Bar,B91 3QW,52.4116,-1.7785
 Jamaya,B91 3QW,52.4115,-1.7789
 COFFEE LOUNGE,B91 3QZ,52.4109,-1.7784
 Big Bitez,B91 3RX,52.4147,-1.7819
-Curry Bitez,B91 3RX,52.4147,-1.7819
 Indian Brewery Solihull Ltd,B91 3RX,52.4147,-1.7819
 Jade Wok Restaurant,B91 3RX,52.4147,-1.7819
 Thyme,B91 3RX,52.4147,-1.7817
+dil dil eats,B91 3RX,52.4147,-1.7818
 The White Swan Solihull (Wetherspoon),B91 3SB,52.4145,-1.7811
 the chicken shack,B91 3SB,52.4145,-1.7807
 Burger King,B91 3SJ,52.4139,-1.7790
 akali Gourmet dining,B91 3SR,52.4125,-1.7767
 Panchuli Indian Restaurant,B91 3ST,52.4122,-1.7762
+Rosso fine dining,B91 3ST,52.4122,-1.7763
 Pret A Manger,B91 3TA,52.4128,-1.7778
 McDonald's,B91 3TB,52.4133,-1.7788
 McDonald's,B91 3TB,52.4133,-1.7793
@@ -200,6 +201,7 @@ The Butchers' Social Ltd,B95 5AT,52.2942,-1.7789
 Arden Tandoori Restaurant,B95 5AU,52.2927,-1.7796
 The Nags Head,B95 5BA,52.2909,-1.7801
 Naya Restaurant ,B95 5BS,52.2912,-1.7804
+Cheal’s of Henley,B95 5BX,52.2935,-1.7800
 Dolce Caffe,B95 5BY,52.2925,-1.7805
 Henley Kitchen & Bakery,B95 5BY,52.2925,-1.7805
 THE WHITE SWAN,B95 5BY,52.2925,-1.7805
@@ -301,6 +303,7 @@ HADRAMUD RESTAURANT LTD,CV1 5PW,52.4093,-1.5001
 Finger Licking Kitchen,CV1 5QJ,52.4104,-1.5028
 Basement Browns - Coventry,CV1 5RE,52.4075,-1.5090
 Chi Bar,CV1 5RE,52.4075,-1.5090
+Clear dining,CV1 5RE,52.4074,-1.5089
 Subway,CV1 5RE,52.4075,-1.5090
 The Earl of Mercia Coventry (Wetherspoon),CV1 5RE,52.4071,-1.5086
 Playwrights Bar & Bistro,CV1 5RF,52.4076,-1.5085
@@ -362,8 +365,8 @@ Procaffeinate,CV31 2DN,52.2825,-1.5315
 Plough & Harrow,CV31 2HX,52.2674,-1.5235
 Cafè 81,CV31 2QY,52.2691,-1.5208
 Five rivers ,CV31 3AB,52.2861,-1.5336
+VIALLIS FAST FOOD RESTAURANT,CV31 3AB,52.2861,-1.5336
 King Baba Indian Cuisine,CV31 3AE,52.2849,-1.5330
-SIZZLERS,CV31 3AE,52.2849,-1.5330
 Temperance,CV31 3AF,52.2849,-1.5325
 millennium balti ,CV31 3AG,52.2846,-1.5321
 The Urban Fox,CV31 3BE,52.2778,-1.5335
