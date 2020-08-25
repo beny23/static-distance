@@ -167,14 +167,14 @@ KING STREET KITCHEN,BB7 9SW,53.8223,-2.4069
 Tastebuds (Whalley) Limited,BB7 9TH,53.8221,-2.4076
 The Strawbury Duck,BL7 0LU,53.6530,-2.4169
 1260 Craft & Crust,PR1 0AD,53.7502,-2.7293
-No 15 Cafe,PR1 0AR,53.7508,-2.7298
-Costa Coffee - Penwortham,PR1 0DQ,53.7497,-2.7332
+No 15 Cafe,PR1 0AR,53.7509,-2.7297
+Costa Coffee - Penwortham,PR1 0DQ,53.7499,-2.7322
 Costa Coffee,PR1 0DQ,53.7493,-2.7344
-Lime Bar Lounge,PR1 0DQ,53.7497,-2.7332
-SUBWAY,PR1 0DQ,53.7497,-2.7332
+Lime Bar Lounge,PR1 0DQ,53.7499,-2.7322
+SUBWAY,PR1 0DQ,53.7491,-2.7352
 THE SIR TOM FINNEY,PR1 0NL,53.7417,-2.7426
-Andreas Fish and Chips,PR1 0QB,53.7488,-2.7347
-The Cow Shed,PR1 0QB,53.7488,-2.7347
+Andreas Fish and Chips,PR1 0QB,53.7489,-2.7343
+The Cow Shed,PR1 0QB,53.7489,-2.7343
 Booths,PR1 0XW,53.7360,-2.7310
 The Stanley Arms,PR1 1DA,53.7589,-2.6974
 Home Bakery ,PR1 1FB,53.7609,-2.6978
@@ -304,9 +304,9 @@ The Continental,PR1 8JP,53.7506,-2.7089
 Pavilion Cafe,PR1 8JT,53.7531,-2.7030
 Papershopplus At Better Butts,PR1 8NL,53.7593,-2.7132
 THE SILK ROUTE RESTAURANT,PR1 8UY,53.7607,-2.7195
-The Pear Tree Inn Penwortham,PR1 9QB,53.7393,-2.7065
-Ristorante Salvatore's,PR1 9XD,53.7497,-2.7306
-Tap and Vine,PR1 9XD,53.7497,-2.7306
+The Pear Tree Inn Penwortham,PR1 9QB,53.7400,-2.7070
+Ristorante Salvatore's,PR1 9XD,53.7494,-2.7323
+Tap and Vine,PR1 9XD,53.7494,-2.7321
 Ignite Cafe,PR2 1AU,53.7630,-2.7280
 Lyn's Lunch Box,PR2 1UL,53.7693,-2.7550
 Lillybetts,PR2 1XL,53.7673,-2.7632
@@ -345,7 +345,7 @@ THE CAFE LTD,PR25 2AA,53.6954,-2.6947
 New Wonderland Ltd,PR25 2EX,53.6905,-2.6998
 The Hideout ,PR25 2LD,53.6943,-2.6947
 Emmas Coffee House at the Museum Ltd,PR25 2LE,53.6942,-2.6937
-Antonellos,PR25 2SA,53.6955,-2.6922
+Antonellos,PR25 2SA,53.6958,-2.6926
 The Leyland Lion Leyland (Wetherspoon),PR25 2SA,53.6955,-2.6927
 The Gables,PR25 2SD,53.6945,-2.6958
 Withy Arms,PR25 3EL,53.6886,-2.6979
@@ -353,12 +353,12 @@ McDonald's Restaurants Ltd,PR25 3LZ,53.6977,-2.6907
 McDonald's,PR25 3LZ,53.6971,-2.6906
 Sweet Delight,PR25 3NH,53.6974,-2.6896
 The Cookie Jar,PR25 3NP,53.6980,-2.6906
-the viceroy,PR25 3NP,53.6980,-2.6906
+the viceroy,PR25 3NP,53.6979,-2.6897
 The Chequered Flag Cafe Ltd,PR25 3XJ,53.6980,-2.6997
 King Grill Pizza,PR25 4NT,53.7002,-2.6861
-Lakeside Coffee House,PR25 5DA,53.6833,-2.6770
+Lakeside Coffee House,PR25 5DA,53.6833,-2.6774
 Bangla Spice,PR25 5SB,53.7030,-2.6725
-Avant Garden Centre Cafe ,PR25 5XW,53.6897,-2.6767
+Avant Garden Centre Cafe ,PR25 5XW,53.6895,-2.6763
 The Midge Hall,PR26 6TN,53.7027,-2.7443
 Leyland Garden Centre,PR26 8LQ,53.6636,-2.7485
 Lot 1 The Coffee Shop Ltd,PR26 8PH,53.7016,-2.7127
@@ -428,13 +428,13 @@ Boars Head,PR5 0RX,53.7347,-2.5875
 The Royal Oak at Riley Green,PR5 0SL,53.7245,-2.5747
 Subway Tickled Trout Services,PR5 0UJ,53.7652,-2.6399
 Farmhouse Kitchen at Huntleys,PR5 0UN,53.7721,-2.5920
-Bukhara Samlesbury,PR5 0UP,53.7693,-2.5725
+Bukhara Samlesbury,PR5 0UP,53.7686,-2.5807
 SAMLESBURY HALL LIMITED ,PR5 0UP,53.7693,-2.5725
 Samlesbury Hall Limited,PR5 0UP,53.7693,-2.5725
 Nabs Head Hotel,PR5 0UQ,53.7615,-2.5758
 New Hall Tavern ,PR5 0XA,53.7572,-2.6220
 The Yew Tree,PR5 4AU,53.7497,-2.6748
-McDonald's Restaurants Ltd,PR5 4AW,53.7488,-2.6791
+McDonald's Restaurants Ltd,PR5 4AW,53.7489,-2.6774
 McDonald's,PR5 4AW,53.7480,-2.6782
 SUBWAY,PR5 4AW,53.7480,-2.6770
 Starbucks Capitol Retail Park,PR5 4AW,53.7481,-2.6771
@@ -455,10 +455,11 @@ Dilnaz Indian restaurant ltd,PR5 6FN,53.7229,-2.6611
 Walton Arms ,PR5 6GD,53.7355,-2.6622
 Valley Coffee,PR5 6GS,53.7339,-2.6598
 Tiny Tea Cups Play Cafe Ltd,PR5 6LF,53.7296,-2.6595
-The Beam and Brycg,PR5 6QL,53.7347,-2.6631
+The Beam and Brycg,PR5 6QL,53.7356,-2.6632
 Withy Arms,PR5 6QP,53.7315,-2.6625
 The Greedy Goose Cafe ,PR5 6TP,53.7293,-2.6612
 THE HOSPITAL INN,PR5 6YP,53.7259,-2.6385
+Baxterstorey Caterers,PR5 8BX,53.7187,-2.6508
 Sagar Premier,PR5 8HZ,53.7173,-2.6380
 masons arms,PR6 0HU,53.6613,-2.6210
 the ley inn ,PR6 7EU,53.7001,-2.6526
