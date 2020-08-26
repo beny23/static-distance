@@ -67,7 +67,6 @@ Basrai Restaurant (Blackpool) Limited,FY1 3EF,53.8197,-3.0480
 The Brew Room,FY1 3NX,53.8178,-3.0469
 Tea and Vintage Tearoom,FY1 3NY,53.8178,-3.0459
 american pizza city,FY1 3PX,53.8186,-3.0440
-american pizza and chicken,FY1 3RX,53.8234,-3.0411
 Harry Ramsdens,FY1 4BJ,53.8160,-3.0552
 Blackpool Resort Coffee Lounge,FY1 4BW,53.8129,-3.0497
 Raikes Hall,FY1 4HE,53.8181,-3.0404
@@ -86,6 +85,7 @@ The Albert and The Lion Blackpool (Wetherspoon),FY1 4RU,53.8153,-3.0555
 KFC,FY1 4RY,53.8161,-3.0541
 KFC,FY1 4RY,53.8164,-3.0550
 Calypso hotel,FY1 4TA,53.8148,-3.0527
+Coolfun Ltd,FY1 4TQ,53.8149,-3.0551
 Lilys Traditional Fish and Chips ,FY1 5AB,53.8108,-3.0547
 Mario’s,FY1 5AB,53.8108,-3.0547
 Waverley Cafe,FY1 5AE,53.8110,-3.0545
@@ -152,9 +152,7 @@ The 4 seasons eatery,FY3 0AY,53.8229,-2.9984
 The plough inn,FY3 0BX,53.8176,-2.9905
 Staining lodge golf course,FY3 0DE,53.8155,-2.9853
 Costa Coffee,FY3 4AN,53.8234,-3.0392
-american pizza and chicken,FY3 7AJ,53.8273,-3.0367
 Chick filla fried & grilled chicken ,FY3 7AS,53.8264,-3.0378
-american pizza and chicken,FY3 7AS,53.8264,-3.0378
 Mr Nitro's Ice Cream & Desserts (Layton),FY3 7BJ,53.8283,-3.0307
 SUBWAY,FY3 7BJ,53.8283,-3.0306
 Lyttles hidden gem,FY3 7UN,53.8364,-3.0247
@@ -183,6 +181,7 @@ McDonald's,FY4 1AR,53.7982,-3.0554
 Beachcomber fish and chips,FY4 1BA,53.7950,-3.0556
 The Velvet Coaster Blackpool (Wetherspoon),FY4 1BA,53.7948,-3.0560
 Blackpool Operating Company Ltd,FY4 1BB,53.7943,-3.0573
+Auntie T's Spice Shak Ltd,FY4 1BE,53.7954,-3.0542
 C4 CURRY & KEBAB HOUSE,FY4 1BE,53.7954,-3.0542
 Sallys Bake n Take,FY4 1BE,53.7954,-3.0542
 The Mornington Hotel,FY4 1BE,53.7954,-3.0542
@@ -367,13 +366,13 @@ The Cafe Bar,PR1 2AA,53.7573,-2.7018
 Thyme,PR1 2AB,53.7585,-2.7039
 Cafune - South American Cafe,PR1 2AR,53.7591,-2.6998
 Istanbul shawarma ,PR1 2AT,53.7606,-2.7045
-Jaffa,PR1 2AT,53.7607,-2.7045
 Shahzaad Tandoori Restaurant ,PR1 2AT,53.7606,-2.7045
 Town House Coffee and Brew Bar,PR1 2AT,53.7606,-2.7045
 Subway,PR1 2AU,53.7595,-2.7009
 tinos restaurant,PR1 2BB,53.7602,-2.7043
 Cocos ,PR1 2ED,53.7618,-2.7059
 Cool Panda,PR1 2ED,53.7618,-2.7059
+Paninihouse,PR1 2ED,53.7618,-2.7059
 Thai royal ,PR1 2ED,53.7618,-2.7059
 A Taste of Thailand,PR1 2EE,53.7611,-2.7043
 AASEM & NOOR LTD,PR1 2EE,53.7610,-2.7041
@@ -424,6 +423,7 @@ Legacy Preston International Hotel,PR1 2YF,53.7599,-2.7074
 Angelos,PR1 3BN,53.7576,-2.6977
 Stratos,PR1 3BN,53.7576,-2.6977
 Authentic Cuisine (Preston) Ltd,PR1 3BQ,53.7592,-2.6958
+Paninihouse,PR1 3BQ,53.7592,-2.6958
 The Twelve Tellers Preston (Wetherspoon),PR1 3BQ,53.7588,-2.6969
 Mamma Mia Preston,PR1 3BT,53.7590,-2.6947
 Pepe's Piri Piri,PR1 3BT,53.7590,-2.6947
@@ -447,6 +447,7 @@ zingas,PR1 4HL,53.7573,-2.6910
 Flipout Preston,PR1 4LQ,53.7607,-2.6827
 The Destination ,PR1 4LQ,53.7588,-2.6839
 top cafe,PR1 5EB,53.7664,-2.6794
+Sergiana,PR1 5HH,53.7678,-2.6806
 THE VENUE PRESTON LTD,PR1 5LG,53.7634,-2.6886
 Firdous Limited,PR1 5UT,53.7667,-2.6761
 Rosemary on the Park,PR1 6AU,53.7750,-2.6959
@@ -468,6 +469,7 @@ RK Dining,PR1 7EN,53.7696,-2.7113
 Khan'z,PR1 7JN,53.7673,-2.7155
 Pizza Hut (Delivery),PR1 7RB,53.7688,-2.7102
 THEATRE STREET BAR & GRILL,PR1 8BQ,53.7570,-2.7044
+Tastymunch,PR1 8DN,53.7545,-2.7144
 MOKA ON THE BALCONY,PR1 8HJ,53.7570,-2.7058
 McDonald's Restaurants Ltd,PR1 8HJ,53.7570,-2.7058
 McDonald's,PR1 8HJ,53.7573,-2.7053
@@ -486,6 +488,7 @@ Lyn's Lunch Box,PR2 1UL,53.7693,-2.7550
 Lillybetts,PR2 1XL,53.7673,-2.7632
 Delicachix ,PR2 2LP,53.7712,-2.7282
 Pitstop Cafe,PR2 2NE,53.7655,-2.7165
+Paninihouse,PR2 2NH,53.7648,-2.7189
 Tang Restaurant,PR2 2NH,53.7648,-2.7189
 Taboosh ,PR2 2NJ,53.7652,-2.7189
 MAHARANI SOUTH INDIAN RESTAURANT LTD,PR2 2NN,53.7638,-2.7236
@@ -543,6 +546,7 @@ The White Bull Bilsborrow,PR3 0RE,53.8531,-2.7452
 Guy's Lodge,PR3 0RS,53.8505,-2.7614
 Guys Eating Establishments Ltd,PR3 0RS,53.8505,-2.7614
 Owd Nells Tavern,PR3 0RS,53.8505,-2.7614
+Light Ash Farm Shop & Cafe Ltd,PR3 0RT,53.8518,-2.7746
 The Grapes ,PR3 0TJ,53.8644,-2.8209
 the black bull,PR3 0YB,53.8548,-2.8711
 The Cartford Inn,PR3 0YP,53.8586,-2.8817

@@ -50,6 +50,7 @@ Harlow Restaurant Ltd,CM20 1BX,51.7714,0.0926
 The William Aylmer Harlow (Wetherspoon),CM20 1DG,51.7713,0.0920
 Kebabish Harlow,CM20 1ES,51.7707,0.0948
 chicken hut,CM20 1ES,51.7707,0.0948
+P5 Lounge Ltd,CM20 1HP,51.7706,0.0934
 Royal Kebabs,CM20 1HP,51.7706,0.0934
 McDonald's,CM20 1JA,51.7696,0.0943
 McDonald’s Harlow Town,CM20 1JA,51.7697,0.0939
@@ -89,6 +90,7 @@ William the Fourth,E10 6AE,51.5747,-0.0112
 CAVALIERI LIMITED,E10 6AJ,51.5768,-0.0116
 Lost Asia grill restaurant ,E10 6AP,51.5760,-0.0117
 Subway,E10 6AP,51.5760,-0.0117
+dixy chicken,E10 6AP,51.5760,-0.0117
 Al Farooq Kebabish,E10 6AW,51.5770,-0.0096
 Black Pepper,E10 6AW,51.5768,-0.0104
 Jaros grill,E10 6AW,51.5770,-0.0096
@@ -102,6 +104,7 @@ Deeney's,E10 6QE,51.5635,-0.0107
 Fireaway Pizza Leyton,E10 6QE,51.5626,-0.0103
 Franzos,E10 6QE,51.5635,-0.0107
 RELAX BAR CAFÉ,E10 6RF,51.5691,-0.0086
+Tony's cafe,E10 6RF,51.5693,-0.0086
 t/a Hanedan Cafe or  Hanedan Catering Ltd,E10 6RF,51.5693,-0.0086
 Bread And Oregano,E10 6RT,51.5675,-0.0085
 Shish mahal,E10 7AA,51.5743,-0.0112
@@ -115,6 +118,7 @@ Costa Coffee,E10 7EQ,51.5752,-0.0136
 Scoffs Essex Ltd t/a Costa Coffee Leyton Bakers Arms,E10 7EQ,51.5751,-0.0137
 The Drum Leyton (Wetherspoon),E10 7EQ,51.5749,-0.0137
 TASTY AFRICAN RESTAURANT,E10 7JQ,51.5682,-0.0235
+BB Cafe,E10 7LD,51.5691,-0.0281
 Hare & Hounds,E10 7LD,51.5691,-0.0281
 Italianslice ,E10 7LD,51.5691,-0.0279
 Starlight Suite Ltd,E10 7LD,51.5691,-0.0281
@@ -129,7 +133,6 @@ Costa Coffee,E11 1HH,51.5695,0.0121
 Costa Coffee,E11 1HH,51.5695,0.0122
 The Walnut Tree Leytonstone (Wetherspoon),E11 1HH,51.5698,0.0129
 The Olive Restaurant / Enfes Limited,E11 1HP,51.5695,0.0097
-horizon cafe,E11 1HQ,51.5680,0.0105
 042 restaurant and bar,E11 1HR,51.5708,0.0141
 McDonald's,E11 1HR,51.5701,0.0134
 Stone Pizzeria ,E11 1HR,51.5708,0.0141
@@ -248,6 +251,7 @@ Market cafe,E17 7BX,51.5838,-0.0256
 big ben cafe,E17 7BX,51.5838,-0.0256
 Cafe Rio,E17 7DB,51.5828,-0.0291
 Nando's,E17 7FD,51.5849,-0.0206
+BAGGIO BURGER,E17 7FY,51.5804,-0.0325
 HANOI CA PHE LIMITED,E17 7FY,51.5804,-0.0325
 Long & Short Coffee,E17 7FY,51.5804,-0.0325
 The Green Grill,E17 7FY,51.5804,-0.0325
@@ -635,6 +639,7 @@ Dejavu ,EN8 0BX,51.7085,-0.0375
 Karvin Retail Limited,EN8 0JA,51.7114,-0.0503
 Costa Coffee,EN8 0QE,51.7187,-0.0388
 Cinnamon Lounge,EN8 7AA,51.6828,-0.0338
+Adukkala Spice Garden ,EN8 7AE,51.6841,-0.0334
 The Breakfast Bar,EN8 7AN,51.6862,-0.0336
 regina cafe  ristorante pizzeria ,EN8 7AP,51.6875,-0.0335
 Ekushe Ltd T/A Subway,EN8 7BU,51.6841,-0.0325
@@ -748,6 +753,7 @@ Sweet. Ilford,IG1 4NH,51.5612,0.0696
 The Urban Chocolatier Ilford,IG1 4NH,51.5611,0.0698
 loaded ig1 ltd,IG1 4NH,51.5611,0.0698
 RED PIRI PIRI LTD,IG1 4PA,51.5600,0.0696
+Cafe Bufanu,IG1 4PG,51.5604,0.0694
 La mama London ltd,IG1 4PG,51.5604,0.0694
 Subway,IG1 4PG,51.5604,0.0693
 WAZIR Turkish Restaurant,IG1 4PG,51.5604,0.0693
@@ -906,11 +912,14 @@ NO 1 Shish Ltd,IG8 0HQ,51.6080,0.0340
 Lilys Place Ltd,IG8 0PN,51.6156,0.0257
 Mezze Ocakbasi,IG8 0XA,51.6093,0.0223
 Pizza Hut,IG8 7HU,51.6081,0.0372
+Pauls Pukkka Pie and Mash,IG8 7JA,51.6075,0.0403
 Temple Indian Fusion,IG8 7QF,51.6075,0.0353
 Costa Coffee,IG8 8AH,51.6061,0.0542
 Scoffs Essex Ltd t/a Costa Coffee Woodford Bridge,IG8 8AH,51.6062,0.0542
 SPICE OF CHIGWELL LIMITED,IG8 8AL,51.6067,0.0554
+Casa Pipino,IG8 8AU,51.6101,0.0607
 Virgin Active Repton Park,IG8 8GN,51.6054,0.0692
+Marks Munchies,IG8 9JL,51.6068,0.0238
 The Royal Oak,IG8 9LN,51.6042,0.0029
 A Game Of Bones London,IG8 9NH,51.6056,0.0102
 The Epping Forest Hotel,IG8 9NY,51.6033,0.0109
@@ -1185,6 +1194,7 @@ Drury 188 189 Hackney,N16 7UY,51.5562,-0.0742
 POSTER HAUSS,N16 7UY,51.5566,-0.0742
 devran restaurant,N16 7UY,51.5562,-0.0742
 stoke newington devran limited,N16 7UY,51.5562,-0.0742
+Jigs Chips and Babs,N16 7XB,51.5526,-0.0746
 Oowee Vegan,N16 7XB,51.5521,-0.0747
 Cirrik 19 Numara Bos ,N16 7XJ,51.5516,-0.0748
 Hasan Meze & Mangal,N16 7XN,51.5510,-0.0748
@@ -1479,6 +1489,7 @@ GOKYUZU LTD,N4 1LG,51.5805,-0.0990
 Gokyuzu restaurant,N4 1LG,51.5805,-0.0990
 HALA RESTAURANT,N4 1LG,51.5804,-0.0990
 VENUS cafe,N4 1TD,51.5766,-0.0885
+Poonams Bagel House,N4 2AA,51.5648,-0.1040
 E.Mono,N4 2AL,51.5659,-0.1069
 Costa Coffee,N4 2DD,51.5644,-0.1053
 Costa Coffee,N4 2DD,51.5646,-0.1053
@@ -1489,7 +1500,6 @@ Dotori,N4 2DQ,51.5647,-0.1052
 Pret A Manger,N4 2DQ,51.5647,-0.1053
 BALAGERU RESTURANT,N4 2DW,51.5634,-0.1033
 Lara's Restaurant,N4 2DW,51.5634,-0.1033
-Paella Shack by London Paella School,N4 2DX,51.5613,-0.0995
 Pizzadelique ,N4 2EA,51.5608,-0.1006
 Brownswood Park Tavern,N4 2EX,51.5642,-0.0929
 Blighty Cafe (Finsbury Park) ,N4 2JF,51.5641,-0.1031
@@ -1615,6 +1625,7 @@ Dreamz Cafe,N7 7BP,51.5531,-0.1112
 E Cofee Shop,N7 7BP,51.5532,-0.1112
 LITTLE WONDER CAFE,N7 7BP,51.5531,-0.1112
 tea stall,N7 7BP,51.5532,-0.1112
+Sizzlers,N7 7NL,51.5568,-0.1113
 wolkite restaurant,N7 7NN,51.5561,-0.1110
 Asmarino Cafe,N7 7NS,51.5604,-0.1143
 7/01/2015,N7 7PL,51.5611,-0.1129
@@ -1668,6 +1679,7 @@ Tomo Pizzeria & Restaurant,N8 7NU,51.5876,-0.1173
 ZAPPZAA THAI CAFE,N8 7NU,51.5876,-0.1171
 Intrepid Bakers Limited,N8 7NX,51.5873,-0.1198
 LE POT DE TERRE ,N8 7NX,51.5874,-0.1195
+La Paceña Grill Tapas Bar ,N8 7PB,51.5871,-0.1210
 Pomodoro Ltd,N8 7PB,51.5871,-0.1208
 La Gioconda,N8 7QB,51.5880,-0.1168
 Silkway Holdings Limited trading as Istanbul,N8 7QB,51.5879,-0.1182
@@ -1916,6 +1928,7 @@ Koko cafe ,RM1 2LX,51.5762,0.1902
 The Hideout,RM1 3AB,51.5800,0.1823
 BB's Coffee and Muffins Romford ,RM1 3EE,51.5793,0.1851
 CAFFE Della Continental,RM1 3EE,51.5794,0.1857
+Della Continental Ltd,RM1 3EE,51.5794,0.1857
 Della Continental,RM1 3EE,51.5794,0.1857
 McDonald's Romford 2,RM1 3EE,51.5793,0.1851
 McDonald's,RM1 3EE,51.5794,0.1856

@@ -319,7 +319,6 @@ Damas Cafe & Eatery ,L1 2SJ,53.4029,-2.9758
 Indian delight,L1 2SJ,53.4028,-2.9757
 UNI Restaurant,L1 2SJ,53.4032,-2.9761
 Yukti isf,L1 2SJ,53.4031,-2.9759
-kanzer kebabs liverpool,L1 2ST,53.4034,-2.9761
 The Butterfly and Grasshopper,L1 2SU,53.4029,-2.9749
 Bao & Bap,L1 2TE,53.4027,-2.9733
 Cafe' Porto,L1 2TE,53.4027,-2.9733
@@ -401,6 +400,7 @@ Cafe Tabac,L1 4JA,53.4019,-2.9762
 Jimmy's,L1 4JA,53.4018,-2.9760
 The Italian Club Fish,L1 4JA,53.4019,-2.9762
 Big bowl noodle bar,L1 4JF,53.4015,-2.9761
+Thai Sweet,L1 4JF,53.4013,-2.9762
 Pattersons Gradwell,L1 4JH,53.4024,-2.9830
 Clockworks,L1 4JJ,53.4021,-2.9820
 ALMOST FAMOUS LIVERPOOL,L1 4JN,53.4019,-2.9800
@@ -522,6 +522,7 @@ bistro pierre,L2 6PS,53.4061,-2.9862
 Pattersons Baltic,L2 6PT,53.4061,-2.9863
 Roxy Ball Room Liverpool Two,L2 6PX,53.4060,-2.9869
 McCooleys,L2 6PY,53.4066,-2.9867
+FESTIVAL FOOD AND DRINK GRILL,L2 6RE,53.4063,-2.9876
 Subway,L2 6SG,53.4057,-2.9882
 Neighbourhood Liverpool,L2 7LQ,53.4057,-2.9907
 The Slaughterhouse,L2 7LS,53.4056,-2.9912
@@ -550,11 +551,17 @@ Subway,L20 3ER,53.4516,-2.9903
 Golden castle ,L20 3ET,53.4527,-2.9907
 Let’s buffet sandwich bar ,L20 3EX,53.4536,-2.9909
 The Wild Rose Bootle (Wetherspoon),L20 3EX,53.4529,-2.9912
+Deadlydiner,L20 4HA,53.4548,-3.0024
 The Cafe,L20 4ST,53.4517,-2.9928
 Subway,L20 4SZ,53.4516,-2.9931
 TJ Hughes Bootle,L20 4SZ,53.4517,-2.9929
 Harrison's Tea Room,L20 4TZ,53.4522,-2.9943
+Mightymunchers,L20 5AH,53.4587,-2.9911
+Domhouse,L20 5GB,53.4591,-2.9882
+Pizza Planet,L20 7DA,53.4440,-2.9890
 The Climbing Hangar Liverpool,L20 8PD,53.4318,-2.9912
+Mastermeats,L20 9NN,53.4442,-2.9765
+Tasty Bites,L21 6PH,53.4676,-3.0016
 KFC,L21 7PF,53.4699,-2.9988
 Subway,L21 7PJ,53.4702,-2.9997
 Bigbites food house ltd,L22 0LD,53.4776,-3.0233
@@ -661,6 +668,7 @@ Manhattan Chicken Ltd,L3 6DJ,53.4114,-2.9879
 Tranquil Evolution,L3 7BB,53.4128,-2.9989
 Ten Streets Social,L3 7BX,53.4186,-2.9997
 Factory Kitchen,L3 7ED,53.4183,-2.9979
+VCW Cakes,L3 8HY,53.4094,-2.9752
 Costa Coffee,L3 8JA,53.4095,-2.9741
 TJ Hughes Liverpool,L3 8JA,53.4097,-2.9718
 Layers Food Drink Market,L3 8JG,53.4102,-2.9695
@@ -690,6 +698,7 @@ Georgie porgy cafe,L4 0RQ,53.4295,-2.9607
 Elegance Cakes & Catering,L4 0SF,53.4320,-2.9646
 The Isla Gladstone Conservatory,L4 0TD,53.4328,-2.9673
 WOK ON LTD,L4 0UE,53.4276,-2.9586
+VCW Cakes,L4 1RG,53.4346,-2.9851
 Miru sushi,L4 2QZ,53.4248,-2.9538
 Wok noodle,L4 2QZ,53.4248,-2.9540
 The Cabbage Hall Bar & Restaurant,L4 2RB,53.4271,-2.9515
@@ -707,6 +716,8 @@ hot wok,L4 4DA,53.4373,-2.9680
 The Goodison Cafe ,L4 4EH,53.4383,-2.9678
 SPELLOW MATCH DAY PUB LTD,L4 4EN,53.4409,-2.9679
 Frames Lounge ,L4 6UH,53.4408,-2.9523
+VCW Cakes,L4 6UY,53.4413,-2.9525
+Olvias bar,L5 0RN,53.4294,-2.9754
 CHATIME YORK LTD,L5 3BB,53.4229,-2.9759
 THE CREPES HOUSE LIMITED,L5 3BB,53.4229,-2.9759
 Sedpraiz Eatery ,L5 4NH,53.4233,-2.9611
@@ -716,6 +727,7 @@ KFC,L5 5AA,53.4241,-2.9818
 McDonald's,L5 5AA,53.4235,-2.9816
 McDonald's,L5 5AA,53.4242,-2.9813
 Subway,L5 5AA,53.4245,-2.9802
+Delicious Doms,L5 6SL,53.4258,-2.9645
 Newton Park limited ,L5 9TZ,53.4246,-2.9960
 Subway,L5 9ZH,53.4267,-2.9973
 Starbucks Prescot Street,L6 1BA,53.4107,-2.9653
@@ -752,11 +764,14 @@ APOCALYPSE COW LIVERPOOL (HH FOOD LTD),L8 5XJ,53.3936,-2.9781
 Baltic beer garden,L8 5XJ,53.3936,-2.9781
 LITTLE FURNACE WOOD FIRED PIZZAS LTD,L8 5XJ,53.3936,-2.9781
 Lu Ban Restaurant,L8 5XJ,53.3936,-2.9781
+Pizza Planet,L8 6SE,53.3862,-2.9669
+VCW Cakes,L8 6TG,53.3900,-2.9758
 Blackburne Arms ,L8 7NL,53.3995,-2.9685
 Liverpool Women's NHS,L8 7SS,53.3985,-2.9601
 Noso,L9 0ED,53.4667,-2.9501
 The Queens Arms,L9 0HZ,53.4722,-2.9550
 Aintree tandoori ,L9 0JB,53.4730,-2.9551
+Tasty Bites,L9 1AF,53.4536,-2.9628
 China Garden Restaurant,L9 1DG,53.4529,-2.9628
 The Raven Liverpool (Wetherspoon),L9 2BU,53.4637,-2.9587
 McDonald's,L9 3BY,53.4567,-2.9624

@@ -36,6 +36,7 @@ Kohinoor Bolton ltd,BL3 6JT,53.5698,-2.4391
 The Fig And The Olive ,BL3 6JT,53.5698,-2.4391
 Chunky Chicken Bolton,BL3 6LH,53.5674,-2.4425
 chunky chicken ,BL3 6LH,53.5674,-2.4425
+Sergiana,BL3 6LS,53.5667,-2.4446
 grillaz original limited,BL3 6LS,53.5667,-2.4446
 grillaz orignal,BL3 6LS,53.5667,-2.4446
 Cafe Pierre,BL3 6NF,53.5721,-2.4349
@@ -43,7 +44,6 @@ Taste Bakery Limited t/a Taste,BL3 6SZ,53.5672,-2.4391
 unity catering ltd,BL4 0LQ,53.5513,-2.4419
 AK GRILL & CURRIES,BL4 7LE,53.5544,-2.4020
 PERI HUT 3,BL4 7LE,53.5544,-2.4020
-Farnworth & Kearsley Events Team,BL4 7ST,53.5518,-2.4063
 Krave Dessert (Bolton) Ltd,BL4 9RJ,53.5444,-2.4121
 Costa Coffee,BL5 1FN,53.5421,-2.4537
 Mama G's kitchen ,BL5 2JZ,53.5411,-2.5165
@@ -204,6 +204,7 @@ Subway,WA10 1NW,53.4520,-2.7388
 The Running Horses St Helens (Wetherspoon),WA10 1PY,53.4511,-2.7401
 Momo's Cafe CIC,WA10 1QJ,53.4534,-2.7415
 Superbowl UK St Helens Ltd ,WA10 1QT,53.4519,-2.7437
+Pauls Cuisine,WA10 1SN,53.4544,-2.7376
 Mecca Bingo Hall,WA10 2EG,53.4553,-2.7464
 MILLON RESTAURANT (SH) LTD,WA10 2JE,53.4555,-2.7406
 AKESG,WA10 2JF,53.4557,-2.7422
@@ -233,6 +234,7 @@ Dentons Deli,WA10 6SH,53.4607,-2.7550
 The Ship Inn,WA11 0AB,53.4642,-2.7017
 Hotel ibis Styles Haydock,WA11 0GR,53.4721,-2.6650
 The Wood Pit,WA11 0LF,53.4691,-2.6569
+Pauls Cuisine,WA11 0LT,53.4699,-2.6535
 Costa Coffee,WA11 0TH,53.4649,-2.6652
 Bridge Farm Coffee Shop and cafe,WA11 7JT,53.5165,-2.7877
 The Junction,WA11 7JU,53.5185,-2.7903
@@ -380,6 +382,7 @@ THE ANMOL,WA5 2JP,53.3845,-2.6469
 Spice of India ,WA5 2XD,53.3773,-2.6924
 KFC,WA5 3AX,53.4172,-2.6379
 Subway Sankey,WA5 3LX,53.3930,-2.6646
+Pauls Cuisine,WA5 3ND,53.3932,-2.6657
 Costa Coffee,WA5 7TY,53.4150,-2.6281
 McDonald's Gemini,WA5 7TY,53.4160,-2.6267
 McDonald's,WA5 7TY,53.4160,-2.6267
@@ -434,6 +437,7 @@ KFC,WA9 1JB,53.4510,-2.7284
 Costa Coffee,WA9 1JF,53.4449,-2.7333
 Subway Ravenhead Retail Park ,WA9 1JF,53.4441,-2.7333
 Costa Coffee,WA9 1JJ,53.4498,-2.7262
+Pauls Cuisine,WA9 2HZ,53.4530,-2.6907
 Junction Inn,WA9 3JL,53.4345,-2.6995
 Cafe express,WA9 3JN,53.4352,-2.7016
 Station House Cafe,WA9 3LA,53.4339,-2.7000
@@ -487,6 +491,7 @@ Casino De Cuba,WN1 1YB,53.5464,-2.6307
 THE FAT OLIVE RESTAURANT ,WN1 2AD,53.5506,-2.6310
 The Brocket Arms Wigan (Wetherspoon),WN1 2DD,53.5569,-2.6344
 Basmati restaurant wigan,WN1 2LF,53.5535,-2.6280
+Sergiana,WN1 2LF,53.5535,-2.6280
 The Cherry Gardens Hotel,WN1 2NT,53.5631,-2.6304
 FORBES ,WN1 2NU,53.5628,-2.6311
 Jks kitchen,WN1 3EU,53.5433,-2.6227
@@ -515,6 +520,7 @@ Hideout,WN3 4HX,53.5418,-2.6320
 Shimlar,WN3 4UG,53.5264,-2.6108
 Postcode Coffee House,WN3 5AB,53.5411,-2.6420
 Foodie Cafe & Resto,WN3 5BD,53.5396,-2.6403
+Jumjo Inn,WN3 5UA,53.5353,-2.6422
 McDonald's,WN3 6XA,53.5202,-2.6529
 McDonalds ,WN3 6XA,53.5202,-2.6530
 Brewers Fayre Wheatlea Park,WN3 6XB,53.5161,-2.6537
@@ -534,6 +540,7 @@ PRIMO RESTAURANT,WN4 9AL,53.4865,-2.6382
 Costa Coffee - Ashton in Makerfield,WN4 9AN,53.4864,-2.6366
 Costa Coffee,WN4 9AN,53.4861,-2.6352
 The Sir Thomas Gerard AshtoninMakerfield (Wetherspoon),WN4 9AN,53.4876,-2.6369
+Pauls Cuisine,WN4 9AR,53.4882,-2.6376
 Green Cardamom ,WN4 9BJ,53.4894,-2.6387
 The Old Band House Ltd,WN4 9BJ,53.4894,-2.6387
 Market Kitchen Limited,WN4 9PL,53.4856,-2.6395
@@ -609,6 +616,7 @@ KFC,WN8 6LN,53.5506,-2.7716
 McDonald's,WN8 6LQ,53.5500,-2.7717
 McDonalds,WN8 6LQ,53.5499,-2.7743
 JMO SPORTS LTD,WN8 8BX,53.5453,-2.8111
+Thai Sweet,WN8 8LQ,53.5496,-2.8068
 Mellors Catering Services Ltd,WN8 9PG,53.5308,-2.7652
 Balcony Restaurant,WN8 9QD,53.5315,-2.7452
 LANCASHIRE MANOR HOTEL,WN8 9QD,53.5315,-2.7452

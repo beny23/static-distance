@@ -46,6 +46,7 @@ zis piri piri,CB1 2AD,52.2012,0.1337
 Al Casbah,CB1 2AS,52.2004,0.1357
 Bibimbap House,CB1 2AS,52.2004,0.1357
 Carlos BBQ,CB1 2AS,52.2004,0.1357
+JJP JUNK AND JUICE,CB1 2AS,52.2005,0.1358
 Maurizio Dining & Co,CB1 2AS,52.2004,0.1358
 Modigliani ,CB1 2AS,52.2006,0.1355
 Mr Ho's,CB1 2AS,52.2005,0.1358
@@ -86,6 +87,7 @@ The Sea Tree,CB1 3AH,52.1980,0.1436
 Tradizioni Restaurant,CB1 3AH,52.1980,0.1436
 The Empress,CB1 3AX,52.2003,0.1481
 The Edge Cafe,CB1 3DF,52.1971,0.1508
+CHICKTIKA AND CHOPS,CB1 3EB,52.2023,0.1466
 Thyme,CB1 3EP,52.2089,0.1432
 Costa Coffee,CB1 3ER,52.2051,0.1445
 Subway,CB1 3ET,52.2053,0.1449
@@ -99,6 +101,8 @@ Costa Coffee,CB1 7AA,52.1888,0.1388
 Costa Coffee,CB1 7AA,52.1891,0.1368
 Rock of virtue EAT out ,CB1 7AA,52.1888,0.1388
 Tradizioni at Sorrento,CB1 7AN,52.1877,0.1455
+JYOTIS PASTA AND PIZZA,CB1 7AW,52.1874,0.1473
+JigStop,CB1 7AW,52.1874,0.1475
 Hot Spot Cambridge Limited,CB1 7DY,52.1902,0.1369
 Nines Global Buffet,CB1 7DY,52.1902,0.1369
 Pizza 1889 Cambridge Leisure Park,CB1 7DY,52.1902,0.1369
@@ -148,6 +152,7 @@ The Cambridge Oven Ltd.,CB2 1LA,52.1969,0.1292
 The Flying Pig,CB2 1LQ,52.1942,0.1313
 La Maison du Steak,CB2 1PG,52.1934,0.1332
 The Earl of Derby,CB2 1PG,52.1934,0.1332
+Breakfast at Britts,CB2 1QA,52.1992,0.1216
 Hot Numbers Coffee - Trumpington Street,CB2 1QA,52.1990,0.1218
 Hotel Du Vin Cambridge,CB2 1QA,52.1990,0.1218
 Fitzwilliam Museum,CB2 1RB,52.1997,0.1199
@@ -161,6 +166,7 @@ Hong Kong Fusion Restaurant ,CB2 1TW,52.2081,0.1184
 Le Patissier ltd,CB2 1TW,52.2081,0.1184
 Bridges Cambridge,CB2 1UF,52.2090,0.1183
 Bridges,CB2 1UF,52.2090,0.1183
+Sanjs fine dining,CB2 1UF,52.2089,0.1183
 Chinese Canteen,CB2 1UJ,52.2096,0.1172
 CrepeAffaire Cambridge,CB2 1UR,52.2081,0.1187
 Fitzbillies,CB2 1UW,52.2095,0.1165
@@ -186,6 +192,7 @@ B.Tap Baron,CB2 3NA,52.2050,0.1209
 Nanna Mexico,CB2 3NB,52.2053,0.1201
 Wasabi Sushi & Bento,CB2 3NB,52.2053,0.1201
 Costa Coffee,CB2 3NJ,52.2058,0.1192
+Desi Mir ,CB2 3NJ,52.2054,0.1196
 Stazione restaurant,CB2 3NJ,52.2054,0.1197
 Pret A Manger,CB2 3NZ,52.2059,0.1197
 Butch Annies,CB2 3PA,52.2062,0.1199
@@ -311,9 +318,9 @@ Costa Coffee,CB4 0WZ,52.2239,0.1576
 Polonia Club Cambridge,CB4 1AS,52.2158,0.1313
 Stir Cambridge Ltd,CB4 1BG,52.2161,0.1332
 Royal Spice Indian & Bangladeshi cuisine ,CB4 1EH,52.2140,0.1256
-Bayrate limited ,CB4 1EN,52.2143,0.1264
 The Old Spring,CB4 1HB,52.2138,0.1277
 Cafe Bread and Butter,CB4 1JY,52.2152,0.1258
+Jyotis Kitchen,CB4 1JY,52.2152,0.1258
 SUBWAY STORE (60278),CB4 1JY,52.2152,0.1258
 The Haymakers,CB4 1NG,52.2170,0.1388
 Cafe 121,CB4 1XE,52.2202,0.1332

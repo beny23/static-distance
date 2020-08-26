@@ -17,6 +17,7 @@ Starbucks (Rivington North),BL6 5UZ,53.6010,-2.5728
 Starbucks (Rivington South),BL6 5UZ,53.6010,-2.5728
 Il Toro,BL6 6AA,53.5990,-2.5397
 Nando's,BL6 6JA,53.5840,-2.5377
+Sanjs fine dining,BL6 7AA,53.5992,-2.5468
 THYME DELI,BL6 7AA,53.5992,-2.5468
 Home bakery /cafe latte,BL6 7AD,53.5994,-2.5471
 Max Italia,BL6 7AE,53.6003,-2.5471
@@ -24,10 +25,13 @@ la salsa,BL6 7AF,53.6012,-2.5501
 last sale de tapas,BL6 7AF,53.6012,-2.5501
 Tails & Ale Limited,BL6 7AG,53.6014,-2.5495
 Pizza Paradise Limited,BL6 7AU,53.6008,-2.5470
+Thai Sweet,BL6 7AU,53.6008,-2.5470
+Desi Mir ,BL6 7JD,53.6019,-2.5514
 SPICE VALLEY BAR & RESTAURANT,BL6 7JD,53.6019,-2.5514
 bowling green,BL6 7JD,53.6019,-2.5514
 CHILL AT THE COWSHED LTD,BL6 7NX,53.5987,-2.5478
 Sokrates Greek Taverna (Horwich),BL6 7NZ,53.5982,-2.5486
+Breakfast at Britts,BL6 7QJ,53.6016,-2.5538
 Rocco's Italian Restaurant,BL6 7QJ,53.6016,-2.5538
 Cafe at Spring Cottage,BL6 7SB,53.6247,-2.5618
 Great House Barn,BL6 7SB,53.6247,-2.5618
@@ -95,13 +99,13 @@ The Cafe Bar,PR1 2AA,53.7573,-2.7018
 Thyme,PR1 2AB,53.7585,-2.7039
 Cafune - South American Cafe,PR1 2AR,53.7591,-2.6998
 Istanbul shawarma ,PR1 2AT,53.7606,-2.7045
-Jaffa,PR1 2AT,53.7607,-2.7045
 Shahzaad Tandoori Restaurant ,PR1 2AT,53.7606,-2.7045
 Town House Coffee and Brew Bar,PR1 2AT,53.7606,-2.7045
 Subway,PR1 2AU,53.7595,-2.7009
 tinos restaurant,PR1 2BB,53.7602,-2.7043
 Cocos ,PR1 2ED,53.7618,-2.7059
 Cool Panda,PR1 2ED,53.7618,-2.7059
+Paninihouse,PR1 2ED,53.7618,-2.7059
 Thai royal ,PR1 2ED,53.7618,-2.7059
 A Taste of Thailand,PR1 2EE,53.7611,-2.7043
 AASEM & NOOR LTD,PR1 2EE,53.7610,-2.7041
@@ -152,6 +156,7 @@ Legacy Preston International Hotel,PR1 2YF,53.7599,-2.7074
 Angelos,PR1 3BN,53.7576,-2.6977
 Stratos,PR1 3BN,53.7576,-2.6977
 Authentic Cuisine (Preston) Ltd,PR1 3BQ,53.7592,-2.6958
+Paninihouse,PR1 3BQ,53.7592,-2.6958
 The Twelve Tellers Preston (Wetherspoon),PR1 3BQ,53.7588,-2.6969
 Mamma Mia Preston,PR1 3BT,53.7590,-2.6947
 Pepe's Piri Piri,PR1 3BT,53.7590,-2.6947
@@ -174,12 +179,16 @@ chicos preston limited,PR1 4HL,53.7573,-2.6910
 zingas,PR1 4HL,53.7573,-2.6910
 Flipout Preston,PR1 4LQ,53.7607,-2.6827
 The Destination ,PR1 4LQ,53.7588,-2.6839
+Paninihouse,PR1 4ST,53.7637,-2.6741
 new hall lane cafe,PR1 4ST,53.7637,-2.6741
+La Mitica,PR1 4SX,53.7654,-2.6670
 The Hesketh’s arms ,PR1 4SY,53.7658,-2.6647
 top cafe,PR1 5EB,53.7664,-2.6794
+Sergiana,PR1 5HH,53.7678,-2.6806
 THE VENUE PRESTON LTD,PR1 5LG,53.7634,-2.6886
 Miller rd cafe,PR1 5QS,53.7680,-2.6705
 Firdous Limited,PR1 5UT,53.7667,-2.6761
+Tastymunch,PR1 5XB,53.7640,-2.6741
 Rosemary on the Park,PR1 6AU,53.7750,-2.6959
 Fiza Foods Ltd,PR1 6PZ,53.7652,-2.6924
 Marco & Carl ,PR1 6PZ,53.7653,-2.6926
@@ -199,6 +208,7 @@ RK Dining,PR1 7EN,53.7696,-2.7113
 Khan'z,PR1 7JN,53.7673,-2.7155
 Pizza Hut (Delivery),PR1 7RB,53.7688,-2.7102
 THEATRE STREET BAR & GRILL,PR1 8BQ,53.7570,-2.7044
+Tastymunch,PR1 8DN,53.7545,-2.7144
 MOKA ON THE BALCONY,PR1 8HJ,53.7570,-2.7058
 McDonald's Restaurants Ltd,PR1 8HJ,53.7570,-2.7058
 McDonald's,PR1 8HJ,53.7573,-2.7053
@@ -217,6 +227,7 @@ Lyn's Lunch Box,PR2 1UL,53.7693,-2.7550
 Lillybetts,PR2 1XL,53.7673,-2.7632
 Delicachix ,PR2 2LP,53.7712,-2.7282
 Pitstop Cafe,PR2 2NE,53.7655,-2.7165
+Paninihouse,PR2 2NH,53.7648,-2.7189
 Tang Restaurant,PR2 2NH,53.7648,-2.7189
 Taboosh ,PR2 2NJ,53.7652,-2.7189
 MAHARANI SOUTH INDIAN RESTAURANT LTD,PR2 2NN,53.7638,-2.7236
@@ -423,6 +434,7 @@ Bay leaf ,PR7 2SQ,53.6511,-2.6314
 Pizza Hut Delivery,PR7 2SQ,53.6511,-2.6314
 Texas steakhouse ,PR7 3DL,53.6488,-2.6299
 Piccolo Italian Restaurant,PR7 3DX,53.6477,-2.6284
+Aamis Kitchen,PR7 3QG,53.6389,-2.6379
 Birkacre Nurseries Ltd,PR7 3QL,53.6364,-2.6524
 Duxbury Park Golf Course ,PR7 4AT,53.6341,-2.6184
 Retreat Adlington,PR7 4EX,53.6138,-2.6053

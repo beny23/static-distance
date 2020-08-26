@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+bagel bitez,CH1 5NX,53.2016,-2.9265
 Flip Out Chester,CH1 6LT,53.2471,-2.9321
 The Kitchen  Flip Out Chester,CH1 6LT,53.2471,-2.9321
 Crabwall Manor Hotel & Spa ,CH1 6NE,53.2199,-2.9247
@@ -103,6 +104,7 @@ Costa Coffee,L13 1FA,53.4088,-2.9255
 Jos cafe,L13 3DN,53.4159,-2.9143
 derby lane sandwich bar,L13 3DW,53.4175,-2.9149
 Murrys Diner,L13 4AH,53.4065,-2.9142
+Tasty Bites,L13 4BT,53.4063,-2.9017
 Franky’z ,L13 5SD,53.4131,-2.9127
 The Navigator Stoneycroft (Wetherspoon),L13 5UH,53.4151,-2.9057
 Costa Coffee,L13 5XE,53.4133,-2.9130
@@ -116,10 +118,13 @@ Subway,L14 2DD,53.4191,-2.8892
 KFC,L14 2DE,53.4198,-2.8835
 Rocket Pub & Kitchen Ltd,L14 3PA,53.4062,-2.8997
 Streats waffle bar & bistro ,L15 3JJ,53.3915,-2.9316
+Yum Tum,L15 3JJ,53.3918,-2.9322
 Loaded Burgers,L15 3JL,53.3903,-2.9295
 REYHOON ,L15 3JL,53.3902,-2.9288
 Evil eye burrito ltd ,L15 3JT,53.3904,-2.9308
+Pizza Planet,L15 3JT,53.3908,-2.9314
 Halabala Bistro,L15 4LF,53.4002,-2.9272
+VCW Cakes,L15 4LF,53.4002,-2.9272
 Something else,L15 4LG,53.3996,-2.9240
 Cafe express deli,L15 4LL,53.4002,-2.9283
 TIGER ROCK LTD,L15 5AG,53.3892,-2.9170
@@ -137,6 +142,7 @@ Costa Coffee,L15 5AU,53.3903,-2.9263
 Waterfall Elior,L15 6TQ,53.3957,-2.9165
 Canton Palace Chinese Restaurant,L15 6UY,53.3967,-2.8987
 The Childwall Fiveways Hotel Liverpool (Wetherspoon),L15 6XS,53.3968,-2.8966
+Tasty Bites,L15 7JU,53.4049,-2.9088
 Wavertree Town Hall,L15 8HF,53.3986,-2.9177
 The Doghouse Pennylane,L15 9EA,53.3898,-2.9148
 spire restaurant,L15 9EA,53.3896,-2.9148
@@ -252,6 +258,7 @@ Subway,L25 2RF,53.3907,-2.8601
 McDonald's Restaurant Belle Vale,L25 2RJ,53.3910,-2.8564
 McDonald's,L25 2RJ,53.3910,-2.8564
 Sayers Cafe,L25 2RQ,53.3908,-2.8587
+Pizza Planet,L25 5JA,53.3754,-2.8671
 HOLDI (NW) LTD,L25 5NH,53.3755,-2.8667
 The Elephant ,L25 5NH,53.3756,-2.8668
 Stablers Catering,L25 5PN,53.3796,-2.8550
@@ -408,6 +415,7 @@ THE ANMOL,WA5 2JP,53.3845,-2.6469
 Spice of India ,WA5 2XD,53.3773,-2.6924
 KFC,WA5 3AX,53.4172,-2.6379
 Subway Sankey,WA5 3LX,53.3930,-2.6646
+Pauls Cuisine,WA5 3ND,53.3932,-2.6657
 Costa Coffee,WA5 7TY,53.4150,-2.6281
 McDonald's Gemini,WA5 7TY,53.4160,-2.6267
 McDonald's,WA5 7TY,53.4160,-2.6267

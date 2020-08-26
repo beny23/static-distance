@@ -129,6 +129,7 @@ Very Peri Manchester ,M3 5JT,53.4829,-2.2637
 The Eccles Cross Eccles (Wetherspoon),M30 0BP,53.4833,-2.3347
 FREDDYS CHICKEN & PIZZA,M30 0DF,53.4848,-2.3352
 MRS. A'S KITCHEN LTD,M30 0DF,53.4847,-2.3351
+bagel bunz,M30 0DW,53.4878,-2.3330
 Mammazohra31 Ltd,M30 0LJ,53.4836,-2.3381
 Milton Manchester Hotel,M30 0NA,53.4843,-2.3392
 ECO FRESH LIMITED,M30 0QN,53.4815,-2.3570
@@ -156,7 +157,9 @@ The Coffee House Partington,M31 4EL,53.4182,-2.4254
 The Hideaway,M31 4EL,53.4190,-2.4258
 KEBABISH EXPRESS LTD,M32 0SF,53.4614,-2.2886
 The Bishop Blaize Stretford (Wetherspoon),M32 0SF,53.4613,-2.2890
+Safsburgers,M32 0TY,53.4527,-2.2945
 Longford ,M32 8DA,53.4474,-2.2926
+Chickenmunchers,M32 8DP,53.4469,-2.3138
 McDonald's Restaurant,M32 8NB,53.4437,-2.3093
 McDonald's,M32 8NB,53.4430,-2.3099
 Costa Coffee,M32 9BA,53.4451,-2.3119
@@ -164,9 +167,12 @@ Costa Coffee - Stretford,M32 9BD,53.4452,-2.3108
 STRETFORD FOODHALL,M32 9BD,53.4457,-2.3094
 The Hive Stretford,M32 9BH,53.4453,-2.3085
 uplift cafe,M32 9BH,53.4453,-2.3085
+Delicious Treats,M32 9HZ,53.4478,-2.3186
+Burgerbhais,M32 9LJ,53.4508,-2.3217
 HIGHLINK CAPITAL LTD,M32 9LN,53.4503,-2.3232
 HIGHLINK VENTURES LTD,M32 9LN,53.4503,-2.3232
 MBUK VENTURES LTD,M32 9LN,53.4503,-2.3232
+Messymunch,M32 9PQ,53.4533,-2.3328
 Italian Pizza Express,M32 9RW,53.4546,-2.3259
 FRENCH FEELING,M33 2DH,53.4243,-2.3171
 Milktray ,M33 2DH,53.4243,-2.3171
@@ -269,7 +275,9 @@ The Boat House,M44 6DN,53.4476,-2.4140
 Subway,M44 6EH,53.4503,-2.4151
 D’ Grand Haveli ,M44 6FF,53.4514,-2.4137
 Pot Kettle Black Coffee Limited,M5 2BW,53.4812,-2.2804
+Safsburgers,M5 3AH,53.4769,-2.2812
 AC Hotel by Marriott Manchester Salford Quays,M5 3AW,53.4716,-2.2821
+Safa burgers,M5 3DD,53.4697,-2.2801
 Leon Restaurants,M5 3LW,53.4687,-2.2760
 Nyah Cafe,M5 3PH,53.4741,-2.2815
 Costa Coffee,M5 3TP,53.4777,-2.2673
@@ -281,6 +289,7 @@ Campanile Manchester,M5 4RS,53.4763,-2.2639
 McDonald's Restaurant,M5 4TJ,53.4754,-2.2653
 McDonald's,M5 4TJ,53.4754,-2.2653
 Seven Brothers Middlewood Limited,M5 4YP,53.4799,-2.2640
+Wrapmania,M5 5FX,53.4848,-2.3087
 Kabin,M50 1BB,53.4831,-2.3167
 BLUEBERRIES,M50 1FB,53.4820,-2.3071
 McDonald's Restaurant,M50 1ZD,53.4825,-2.3281
@@ -291,6 +300,7 @@ GRINDSMITH MEDIA CITY ,M50 2BS,53.4738,-2.2998
 Costa Coffee,M50 2EQ,53.4723,-2.3001
 Pret A Manger,M50 2HE,53.4728,-2.2967
 Dockyard,M50 2HQ,53.4729,-2.2997
+Safsburgers,M50 2TR,53.4793,-2.2882
 The Alchemist Media City,M50 3AB,53.4711,-2.2837
 Cult & Coffee LTD,M50 3AD,53.4667,-2.2841
 Costa Coffee,M50 3AG,53.4708,-2.2930
@@ -310,11 +320,15 @@ Subway,M6 5JA,53.4889,-2.2867
 KFC,M6 5JP,53.4900,-2.2857
 Speedy chicken & pizza ,M6 5PP,53.4874,-2.2946
 Yummy Zaika Ltd,M6 5PW,53.4864,-2.2952
+Natalienatters,M6 5TJ,53.4855,-2.2964
+Natalienatters,M6 6AR,53.4927,-2.2763
 Subway Poets Corner ,M6 6BA,53.4960,-2.2735
 Bengal balti ,M6 6DE,53.4977,-2.2749
 THE BENGAL BALTI RESTAURANT,M6 6DE,53.4977,-2.2749
+Tastiest Spot,M6 8FB,53.4918,-2.3229
 Golden Kitchen ,M6 8HA,53.4888,-2.3262
 subway,M6 8HA,53.4888,-2.3268
+Safsburgers,M7 2JT,53.4965,-2.2682
 Bar MCR,M90 1QX,53.3619,-2.2709
 Café Balzar,M90 1QX,53.3619,-2.2708
 Giraffe ,M90 1QX,53.3619,-2.2709
@@ -373,6 +387,7 @@ Thyme,WA1 4GB,53.3982,-2.5143
 ROPE AND ANCHOR,WA1 4HJ,53.3986,-2.5295
 Hotel ibis Styles Haydock,WA11 0GR,53.4721,-2.6650
 The Wood Pit,WA11 0LF,53.4691,-2.6569
+Pauls Cuisine,WA11 0LT,53.4699,-2.6535
 Costa Coffee,WA11 0TH,53.4649,-2.6652
 Haydock Park Golf Club Co Ltd,WA12 0HX,53.4633,-2.6091
 Newton Deli,WA12 8EW,53.4478,-2.6298
@@ -524,7 +539,6 @@ rose and crown,WA16 6DT,53.3040,-2.3729
 NEKI Café ,WA16 6DW,53.3030,-2.3713
 Gusto Italian,WA16 6DX,53.3042,-2.3727
 Shamoli Restaurant,WA16 6DX,53.3042,-2.3727
-The Tea Room,WA16 6DX,53.3042,-2.3727
  Dabbang pan asian restaurant ,WA16 6ED,53.3049,-2.3738
 Blue Sky Foods Limited T/A King Street Kitchen,WA16 6ED,53.3049,-2.3738
 Cafe on the corner,WA16 6ED,53.3049,-2.3738
@@ -649,6 +663,7 @@ Delgados Pizzeria,WA5 2EY,53.3866,-2.6560
 THE ANMOL,WA5 2JP,53.3845,-2.6469
 KFC,WA5 3AX,53.4172,-2.6379
 Subway Sankey,WA5 3LX,53.3930,-2.6646
+Pauls Cuisine,WA5 3ND,53.3932,-2.6657
 Costa Coffee,WA5 7TY,53.4150,-2.6281
 McDonald's Gemini,WA5 7TY,53.4160,-2.6267
 McDonald's,WA5 7TY,53.4160,-2.6267
@@ -671,6 +686,7 @@ PRIMO RESTAURANT,WN4 9AL,53.4865,-2.6382
 Costa Coffee - Ashton in Makerfield,WN4 9AN,53.4864,-2.6366
 Costa Coffee,WN4 9AN,53.4861,-2.6352
 The Sir Thomas Gerard AshtoninMakerfield (Wetherspoon),WN4 9AN,53.4876,-2.6369
+Pauls Cuisine,WN4 9AR,53.4882,-2.6376
 Green Cardamom ,WN4 9BJ,53.4894,-2.6387
 The Old Band House Ltd,WN4 9BJ,53.4894,-2.6387
 Market Kitchen Limited,WN4 9PL,53.4856,-2.6395

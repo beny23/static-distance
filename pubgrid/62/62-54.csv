@@ -22,11 +22,13 @@ Cafe Pango,BD19 5LJ,53.7186,-1.7060
 DM's Diner,BD19 5LY,53.7180,-1.7020
 Cafe de Akbar,BD3 7AE,53.7978,-1.7111
 Aagrah Midpoint,BD3 7AY,53.7985,-1.7039
+Mitus Steak Corner,BD3 8JB,53.7976,-1.7120
 Bollywood Brasserie,BD4 0RP,53.7691,-1.6713
 Tong Garden Centre,BD4 0RY,53.7690,-1.6712
 Nawaab Tong,BD4 0SB,53.7615,-1.6841
 The 6 Acres,BD4 0SF,53.7619,-1.6846
 Top of the range cafe,BD4 6LY,53.7679,-1.7101
+Indian Village,BD4 6NA,53.7669,-1.7076
 KFC,BD4 6SX,53.7648,-1.7103
 KFC,BD4 6SX,53.7660,-1.7103
 Gap Cafe,BD4 8JH,53.7910,-1.7112
@@ -109,6 +111,7 @@ Rudys Leeds,LS1 5DL,53.7954,-1.5451
 The Brewery Tap,LS1 5DL,53.7955,-1.5451
 Bundobust Leeds,LS1 5DQ,53.7952,-1.5453
 Tharavadu,LS1 5DQ,53.7953,-1.5453
+Yum Tum,LS1 5DQ,53.7953,-1.5455
 Shabab Restaurant Leeds,LS1 5DY,53.7954,-1.5462
 Tapped Leeds,LS1 5EL,53.7962,-1.5458
 Subway,LS1 5EQ,53.7957,-1.5444
@@ -256,6 +259,7 @@ McDonald's,LS13 4JE,53.7951,-1.6216
 TAFZALHSHAH LTD,LS13 4JE,53.7958,-1.6214
 Subway,LS13 4JF,53.7956,-1.6207
 Chopstix Leeds Skelton Lake,LS15 0AE,53.7844,-1.4597
+Noodles ranch,LS15 0AN,53.7909,-1.4810
 morenos restaurant,LS15 0DR,53.7940,-1.4720
 Breakfast Room,LS15 7AY,53.7982,-1.4502
 Rice Paper Cantonese Restaurant and Takeaway,LS15 7HW,53.7961,-1.4711
@@ -366,10 +370,12 @@ Wetherby Whaler,LS28 7AA,53.7974,-1.6609
 The Crossed Shuttle Leeds (Wetherspoon),LS28 7BJ,53.7965,-1.6618
 Open mode limited,LS28 7LJ,53.7975,-1.6640
 7 Steps,LS28 7RZ,53.7926,-1.6700
+Fox and grapes ,LS28 8HU,53.7905,-1.6773
 Fox and grapes Pudsey ,LS28 8HU,53.7905,-1.6773
 No54 Tearooms and Antiques,LS28 8NT,53.7841,-1.6643
 The Britannia ,LS28 9AP,53.7992,-1.6518
 The Fox and Newt Public House,LS3 1LD,53.8000,-1.5595
+Yum Tum,LS3 1LD,53.8000,-1.5595
 Breakfast Room,LS3 1LW,53.7978,-1.5618
 Grosvenor Casinos Leeds Westgate,LS3 1LW,53.7978,-1.5620
 Napoleons Casino,LS3 1LX,53.7991,-1.5622
@@ -548,12 +554,12 @@ Costa Coffee,WF13 1NH,53.6904,-1.6287
 Costa Coffee,WF13 1NH,53.6913,-1.6281
 Cafe Mon Amis,WF13 1QG,53.6926,-1.6279
 Subway,WF13 1QH,53.6922,-1.6283
-Pizza GoGo,WF13 1QN,53.6927,-1.6288
 Fortune Cookie,WF13 2DU,53.6958,-1.6312
 TTH Dewsbury LTD,WF13 2DU,53.6959,-1.6312
 grilled and filtered,WF13 2DU,53.6958,-1.6312
+Feastmeat,WF13 2HH,53.7009,-1.6344
 MOONLIGHT,WF13 2JN,53.6954,-1.6344
-The Express D,WF13 3ET,53.6800,-1.6592
+Shimlas Express D limited,WF13 3ET,53.6800,-1.6592
 Wenjo’s health bar,WF13 3LD,53.6786,-1.6651
 chill and chat cafe ,WF13 3NT,53.6941,-1.6570
 The Pie Shed,WF13 4DH,53.6982,-1.6511
@@ -589,6 +595,8 @@ Costa Coffee,WF16 9RL,53.7095,-1.6763
 McDonald's Restaurant,WF16 9RL,53.7085,-1.6762
 McDonald's,WF16 9RL,53.7092,-1.6769
 Chaiiwala Batley,WF17 5DA,53.7143,-1.6341
+Feastmeat,WF17 5DP,53.7147,-1.6345
+Chickano's,WF17 5EP,53.7131,-1.6309
 K&K GELATO LTD,WF17 5EP,53.7131,-1.6308
 icestone gelato,WF17 5EP,53.7131,-1.6309
 Yorem Turkish Restaurant Ltd,WF17 5EY,53.7132,-1.6300
@@ -597,13 +605,16 @@ brew batley ltd,WF17 5HU,53.7122,-1.6329
 The Union Rooms Batley (Wetherspoon),WF17 5HW,53.7126,-1.6286
 Indian Nights,WF17 5JE,53.7120,-1.6333
 Mr T's,WF17 5LZ,53.7116,-1.6267
+Feastmeat,WF17 5PH,53.7109,-1.6274
 CEYLON DOSA LTD,WF17 5PN,53.7105,-1.6275
 Lalas Restaurant ,WF17 5PQ,53.7095,-1.6273
 Kake Temptations Yorkshire Ltd ,WF17 5PS,53.7099,-1.6274
 tiffin by loonat,WF17 5PW,53.7110,-1.6268
 The Corner Cafe,WF17 5RY,53.7150,-1.6338
 Dixxi Pizza Bar Ltd ,WF17 5SA,53.7157,-1.6333
+Feastmeat,WF17 6HT,53.7091,-1.6262
 Oasis Restaurant ,WF17 6HT,53.7091,-1.6262
+Feastmeat,WF17 6HY,53.7079,-1.6270
 Snowcold Creamery ,WF17 6HY,53.7079,-1.6270
 Zucchini Restaurant Ltd,WF17 6JD,53.7046,-1.6277
 Oaktree cafe,WF17 6JL,53.7029,-1.6301
@@ -717,6 +728,7 @@ Elior Uk,WF7 5JT,53.6736,-1.3703
 The Kabin (Leeds) Limited,WF7 5PL,53.6749,-1.3506
 Notcutts Victoria,WF7 6BS,53.6752,-1.3842
 Angel Inn,WF7 7AB,53.6410,-1.3469
+bagel n bunz,WF7 7AD,53.6402,-1.3466
 The ElectricTheatre ( Ackworth) Limited ,WF7 7AZ,53.6422,-1.3537
 EGO at the Beverley Arms,WF7 7BX,53.6413,-1.3358
 THE RUSTIC ARMS,WF7 7EZ,53.6577,-1.3148

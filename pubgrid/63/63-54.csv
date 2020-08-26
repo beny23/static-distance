@@ -35,11 +35,13 @@ KFC,BD3 7AT,53.8006,-1.7039
 Aagrah Midpoint,BD3 7AY,53.7985,-1.7039
 Lahori Chaska LTD,BD3 7DB,53.8017,-1.7061
 D&H Taylor t/as McDonald's,BD3 7NH,53.8008,-1.7090
+Mitus Steak Corner,BD3 8JB,53.7976,-1.7120
 Bollywood Brasserie,BD4 0RP,53.7691,-1.6713
 Tong Garden Centre,BD4 0RY,53.7690,-1.6712
 Nawaab Tong,BD4 0SB,53.7615,-1.6841
 The 6 Acres,BD4 0SF,53.7619,-1.6846
 Top of the range cafe,BD4 6LY,53.7679,-1.7101
+Indian Village,BD4 6NA,53.7669,-1.7076
 KFC,BD4 6SX,53.7648,-1.7103
 KFC,BD4 6SX,53.7660,-1.7103
 Gap Cafe,BD4 8JH,53.7910,-1.7112
@@ -133,6 +135,7 @@ Rudys Leeds,LS1 5DL,53.7954,-1.5451
 The Brewery Tap,LS1 5DL,53.7955,-1.5451
 Bundobust Leeds,LS1 5DQ,53.7952,-1.5453
 Tharavadu,LS1 5DQ,53.7953,-1.5453
+Yum Tum,LS1 5DQ,53.7953,-1.5455
 Shabab Restaurant Leeds,LS1 5DY,53.7954,-1.5462
 Tapped Leeds,LS1 5EL,53.7962,-1.5458
 Subway,LS1 5EQ,53.7957,-1.5444
@@ -319,6 +322,7 @@ Subway,LS14 6PX,53.8237,-1.4617
 McDonald's,LS14 6UF,53.8053,-1.4783
 Ronnies Limited t/a McDonalds 438,LS14 6UF,53.8051,-1.4811
 Chopstix Leeds Skelton Lake,LS15 0AE,53.7844,-1.4597
+Noodles ranch,LS15 0AN,53.7909,-1.4810
 morenos restaurant,LS15 0DR,53.7940,-1.4720
 tina's tea room,LS15 4EF,53.8312,-1.3839
 Langlands,LS15 4NF,53.8392,-1.4255
@@ -354,6 +358,7 @@ KFC COLTON MILL 02023,LS15 9JH,53.7919,-1.4319
 McDonald's,LS15 9JH,53.7928,-1.4317
 Ronnies Limited t/a McDonalds 1294,LS15 9JH,53.7919,-1.4319
 Subway Colton Mill,LS15 9JH,53.7919,-1.4319
+The Luxury Dessert House ,LS16 5JX,53.8298,-1.5848
 Voujon Restaurant,LS16 5JX,53.8298,-1.5848
 LAVANTA MEZE & GRILL,LS16 5LN,53.8342,-1.5938
 West Park Cafe,LS16 5LQ,53.8326,-1.5920
@@ -608,6 +613,7 @@ HOWDY 28 LTD,LS28 8ED,53.8034,-1.6951
 RANA 2 LTD,LS28 8ED,53.8034,-1.6953
 Lahori Karahi and Charga Bradford,LS28 8EE,53.8025,-1.6988
 lala's restaurant pudsey,LS28 8EE,53.8025,-1.6988
+Fox and grapes ,LS28 8HU,53.7905,-1.6773
 Fox and grapes Pudsey ,LS28 8HU,53.7905,-1.6773
 Fulneck Golf Club Limited,LS28 8NT,53.8224,-1.5366
 No54 Tearooms and Antiques,LS28 8NT,53.7841,-1.6643
@@ -623,6 +629,7 @@ Rajas,LS3 1JP,53.8043,-1.5684
 Deli chez Leeds ,LS3 1JX,53.8029,-1.5660
 Haftsin Restaurant,LS3 1JX,53.8029,-1.5660
 The Fox and Newt Public House,LS3 1LD,53.8000,-1.5595
+Yum Tum,LS3 1LD,53.8000,-1.5595
 MyLahore Leeds,LS3 1LT,53.8008,-1.5658
 northern snooker centre (leeds) ltd,LS3 1LT,53.8006,-1.5656
 Breakfast Room,LS3 1LW,53.7978,-1.5618
@@ -952,12 +959,12 @@ Costa Coffee,WF13 1NH,53.6904,-1.6287
 Costa Coffee,WF13 1NH,53.6913,-1.6281
 Cafe Mon Amis,WF13 1QG,53.6926,-1.6279
 Subway,WF13 1QH,53.6922,-1.6283
-Pizza GoGo,WF13 1QN,53.6927,-1.6288
 Fortune Cookie,WF13 2DU,53.6958,-1.6312
 TTH Dewsbury LTD,WF13 2DU,53.6959,-1.6312
 grilled and filtered,WF13 2DU,53.6958,-1.6312
+Feastmeat,WF13 2HH,53.7009,-1.6344
 MOONLIGHT,WF13 2JN,53.6954,-1.6344
-The Express D,WF13 3ET,53.6800,-1.6592
+Shimlas Express D limited,WF13 3ET,53.6800,-1.6592
 Wenjo’s health bar,WF13 3LD,53.6786,-1.6651
 chill and chat cafe ,WF13 3NT,53.6941,-1.6570
 The Pie Shed,WF13 4DH,53.6982,-1.6511
@@ -993,6 +1000,8 @@ Costa Coffee,WF16 9RL,53.7095,-1.6763
 McDonald's Restaurant,WF16 9RL,53.7085,-1.6762
 McDonald's,WF16 9RL,53.7092,-1.6769
 Chaiiwala Batley,WF17 5DA,53.7143,-1.6341
+Feastmeat,WF17 5DP,53.7147,-1.6345
+Chickano's,WF17 5EP,53.7131,-1.6309
 K&K GELATO LTD,WF17 5EP,53.7131,-1.6308
 icestone gelato,WF17 5EP,53.7131,-1.6309
 Yorem Turkish Restaurant Ltd,WF17 5EY,53.7132,-1.6300
@@ -1001,13 +1010,16 @@ brew batley ltd,WF17 5HU,53.7122,-1.6329
 The Union Rooms Batley (Wetherspoon),WF17 5HW,53.7126,-1.6286
 Indian Nights,WF17 5JE,53.7120,-1.6333
 Mr T's,WF17 5LZ,53.7116,-1.6267
+Feastmeat,WF17 5PH,53.7109,-1.6274
 CEYLON DOSA LTD,WF17 5PN,53.7105,-1.6275
 Lalas Restaurant ,WF17 5PQ,53.7095,-1.6273
 Kake Temptations Yorkshire Ltd ,WF17 5PS,53.7099,-1.6274
 tiffin by loonat,WF17 5PW,53.7110,-1.6268
 The Corner Cafe,WF17 5RY,53.7150,-1.6338
 Dixxi Pizza Bar Ltd ,WF17 5SA,53.7157,-1.6333
+Feastmeat,WF17 6HT,53.7091,-1.6262
 Oasis Restaurant ,WF17 6HT,53.7091,-1.6262
+Feastmeat,WF17 6HY,53.7079,-1.6270
 Snowcold Creamery ,WF17 6HY,53.7079,-1.6270
 Zucchini Restaurant Ltd,WF17 6JD,53.7046,-1.6277
 Oaktree cafe,WF17 6JL,53.7029,-1.6301

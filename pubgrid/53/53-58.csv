@@ -1,4 +1,5 @@
 name,postcode,lat,lon
+Happy Haddock,NG1 1DF,52.9548,-1.1373
 Fox & Grapes,NG1 1DL,52.9532,-1.1378
 Marys kitchen,NG1 1DL,52.9532,-1.1378
 Blend Coffee House Ltd,NG1 1DS,52.9540,-1.1388
@@ -94,6 +95,7 @@ Million Doner,NG1 3BA,52.9551,-1.1439
 Curious Tavern,NG1 3BE,52.9541,-1.1446
 PEGGYS SKYLIGHT LIMITED,NG1 3BH,52.9545,-1.1454
 Tarn Thai,NG1 3BH,52.9545,-1.1454
+Food factory,NG1 3DA,52.9551,-1.1450
 subway,NG1 3DJ,52.9545,-1.1457
 The Nottingham catering ,NG1 3DL,52.9607,-1.1494
 MOJO Nottingham,NG1 3DR,52.9539,-1.1464
@@ -105,6 +107,9 @@ McDonald's,NG1 3ED,52.9546,-1.1478
 BISTROT PIERRE - NOTTINGHAM,NG1 3EN,52.9562,-1.1489
 KFC,NG1 3EN,52.9557,-1.1484
 kfc,NG1 3EN,52.9562,-1.1489
+Happy Haddock,NG1 3FB,52.9582,-1.1494
+Health Shack,NG1 3FB,52.9582,-1.1494
+Lotus Spice,NG1 3FB,52.9582,-1.1494
 Juice Bar 91 Ltd,NG1 3FN,52.9606,-1.1505
 Mayfair Restaurant,NG1 3FN,52.9603,-1.1503
 The Golden Fleece,NG1 3FN,52.9603,-1.1503
@@ -211,6 +216,7 @@ Pan Asia BBQ,NG1 6LF,52.9549,-1.1534
 Starbucks Upper Parliament Street,NG1 6LF,52.9549,-1.1534
 Effy,NG1 7AA,52.9519,-1.1498
 Hounds Gate Teahouse,NG1 7AB,52.9519,-1.1512
+Cheesy chomp ,NG1 7DD,52.9509,-1.1490
 Cartwheel Cafe and Roastery,NG1 7DL,52.9514,-1.1478
 Esculent,NG1 7DL,52.9514,-1.1478
 The Magic Garden,NG1 7DL,52.9514,-1.1472
@@ -305,6 +311,7 @@ The Cheesecake Shop Colwick,NG2 4DH,52.9465,-1.1237
 Scoops Express,NG2 4HJ,52.9538,-1.1225
 Papas Wok,NG2 4HU,52.9544,-1.1224
 The Dale’s Grill,NG2 4HU,52.9544,-1.1224
+Health Shack,NG2 4LW,52.9535,-1.1240
 Fei Xiang Ltd,NG2 4PB,52.9533,-1.1369
 Secret Pizza Nottingham,NG2 4RG,52.9531,-1.1367
 Thyme,NG2 4UU,52.9493,-1.1400
@@ -410,7 +417,6 @@ Jennys Cafe,NG24 3AG,53.0613,-0.7874
 Chesters,NG24 3LL,53.0552,-0.7800
 The Brews Brothers,NG24 3RQ,53.0461,-0.7702
 Frank Hardy and Sons (Farndon) Limited,NG24 3SD,53.0556,-0.8470
-Farndon Ferry ,NG24 3SX,53.0610,-0.8533
 Farndon Ferry Limited,NG24 3SX,53.0610,-0.8533
 The Riverside,NG24 3SX,53.0610,-0.8533
 Gannets Middlebeck ,NG24 3XP,53.0605,-0.7746
@@ -455,12 +461,15 @@ Chungs Of Mapperley Ltd,NG3 5QS,52.9848,-1.1202
 THE OLD FLOWER SHOP,NG3 5QS,52.9848,-1.1202
 The Wine Room,NG3 5QS,52.9848,-1.1202
 Brookfields Garden Centre,NG3 5RW,53.0044,-1.1009
+Happy Haddock,NG3 6DH,52.9847,-1.1175
 Toros Steakhouse Nottingham,NG3 7EE,52.9594,-1.1123
 Everest Bhansaghar,NG4 1JA,52.9658,-1.1136
+Health Shack,NG4 1JA,52.9658,-1.1136
 Albies Nottingham limited,NG4 1JB,52.9660,-1.1106
 Piginns cafe ,NG4 1JD,52.9661,-1.1095
 The Free Man Nottingham (Wetherspoon),NG4 1JD,52.9661,-1.1092
 The Waiting Room Nottingham ltd,NG4 2LA,52.9645,-1.0783
+Lotus Spice,NG4 2NN,52.9634,-1.0766
 Costa Coffee,NG4 2PE,52.9625,-1.0654
 McDonald's,NG4 2PE,52.9613,-1.0674
 Victoria Retail Park McDonalds,NG4 2PE,52.9613,-1.0674

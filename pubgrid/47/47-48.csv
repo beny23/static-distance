@@ -2,7 +2,6 @@ name,postcode,lat,lon
 LE RAJ RESTAURANT (DUDLEY) LIMITED,DY3 2UA,52.5173,-2.1321
 Mad Hatters Tea Room,DY3 2UA,52.5172,-2.1329
 Seven Stars,DY3 3LT,52.5391,-2.1287
-kanzer kebabs,DY3 3RT,52.5542,-2.1281
 The Summerhouse Sedgley Ltd,DY3 4AN,52.5409,-2.1447
 The Dudley Arms Pub Company,DY3 4LB,52.5185,-2.1758
 Green Man Inn,DY3 4NR,52.5127,-2.2041
@@ -109,8 +108,11 @@ Bare nutrition ,TF3 1ET,52.6550,-2.4357
 Stirchley Spice,TF3 1ET,52.6546,-2.4358
 airea51,TF3 3BJ,52.6712,-2.4209
 Subway,TF3 4DE,52.6749,-2.4470
+Subway. ,TF3 4DE,52.6749,-2.4470
 Nando's,TF3 4EJ,52.6737,-2.4477
+Nando’s,TF3 4EJ,52.6737,-2.4469
 Costa Coffee,TF3 4JG,52.6734,-2.4479
+Miller & carter,TF3 4JG,52.6745,-2.4480
 PM Telford Ltd,TF3 4JL,52.6750,-2.4455
 Wrekin View,TF4 2JH,52.6737,-2.4703
 Horsehay golf Centre ,TF4 3BT,52.6582,-2.4897
@@ -120,7 +122,9 @@ The Telford Golf & Spa Hotel,TF7 4DT,52.6260,-2.4464
 The Miners Arms,TF7 4DY,52.6382,-2.4427
 The Three Furnaces,TF7 4JB,52.6438,-2.4453
 Madebrook Carvery,TF7 4JF,52.6332,-2.4343
+Hazels cafe,TF7 4PP,52.6408,-2.4340
 majic catering,TF7 4QL,52.6395,-2.4228
+Box wood cafe & catering,TF7 4QN,52.6381,-2.4247
 Food on the move,TF7 4QT,52.6442,-2.4322
 Maharaja Telford Ltd,TF7 5AR,52.6370,-2.4464
 Mercure Telford Madeley Court Hotel,TF7 5DW,52.6431,-2.4512
@@ -170,6 +174,7 @@ Nutmeg,WV1 3NU,52.5845,-2.1290
 Delhi 2 Bombay,WV1 4EP,52.5858,-2.1398
 Rosso E Nero Restaurant,WV1 4HW,52.5853,-2.1312
 Marstons Brewery,WV1 4JT,52.5850,-2.1371
+Just Spice and Rice,WV1 4LP,52.5840,-2.1327
 MARIGOLD INDIAN RESTAURANT UK LIMITED ,WV1 4LP,52.5839,-2.1328
 MARIGOLD INDIAN RESTAURANT UK LIMITED,WV1 4LP,52.5839,-2.1328
 THE NEW SPICE RESTAURANT LIMITED,WV1 4LR,52.5839,-2.1316
@@ -178,12 +183,14 @@ Heavenly Desserts,WV1 4ND,52.5853,-2.1335
 Express Kebab,WV1 4PE,52.5935,-2.1364
 Hamiltons Restaurant at A Park View Hotel,WV1 4PP,52.5870,-2.1399
 Annabels Bar Cafe,WV1 4QL,52.5880,-2.1332
+Masala Wings Chops and Chips,WV10 6AN,52.6190,-2.1299
 Pizza Hut,WV10 6AN,52.6190,-2.1299
 SA & JBC DINING LIMITED,WV10 6AN,52.6190,-2.1299
 SUBWAY,WV10 6AN,52.6190,-2.1299
 McDonald's,WV10 6JF,52.6019,-2.1295
 McDonald’s Stafford Road,WV10 6JF,52.6018,-2.1295
 Tastebuds (Wolverhampton) Limited,WV10 6JH,52.6036,-2.1320
+Delhi Delights,WV10 6NR,52.6291,-2.1257
 The Brook Coffee House Limited,WV10 6NR,52.6291,-2.1257
 ming moon restaurant wolverhampton,WV10 6RR,52.6191,-2.1305
 Three Hammers Bar & Bistro,WV10 7PP,52.6507,-2.1267
@@ -267,6 +274,7 @@ The Roebuck Pub,WV4 4DE,52.5610,-2.1536
 CARIBBA RESTAURANT,WV4 4DF,52.5607,-2.1541
 Penny's Cafe,WV4 4HU,52.5568,-2.1684
 The Springhill,WV4 4LB,52.5576,-2.1722
+Delhi Delights,WV4 4LP,52.5660,-2.1665
 Evoke Coffee,WV4 4LP,52.5669,-2.1660
 5 Spice Cuisine Ltd,WV4 4PP,52.5683,-2.1676
 Indigo Restaurant,WV4 4QL,52.5658,-2.1676
@@ -304,11 +312,13 @@ Fiume Restaurant LTD,WV6 8AB,52.5867,-2.1741
 Pizza Hut,WV6 8AE,52.5862,-2.1775
 Fieldhouse Inn,WV6 8DP,52.5874,-2.1921
 vanilla,WV6 8EJ,52.5906,-2.1819
+Health Shack,WV6 8EN,52.5910,-2.1833
 Cute Hair Salon and Coffee Lounge Ltd,WV6 8ET,52.5939,-2.1876
 The Mount Hotel Country Manor,WV6 8HL,52.5879,-2.1862
 Monsoon ,WV6 8QQ,52.5980,-2.1689
 Gluttons For Nourishment (Tettenhall) Limited,WV6 8QS,52.5980,-2.1679
 Seats at Robinsons,WV6 8QT,52.5982,-2.1682
+Desi Stop,WV6 8RH,52.5977,-2.1775
 Massalla Club - Wolverhampton ,WV6 8RH,52.5977,-2.1775
 Abbey Len Catering Ltd,WV6 9BQ,52.6039,-2.1711
 The South Staffordshire Golf Club Ltd,WV6 9BQ,52.6039,-2.1711

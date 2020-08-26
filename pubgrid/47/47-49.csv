@@ -111,6 +111,7 @@ SUNNY COFFEE HOUSE LIMITED,B70 7NW,52.5173,-1.9929
 The Smokehouse Bar & Grill,B70 7PE,52.5192,-1.9881
 PEPE'S ,B70 7PN,52.5192,-1.9937
 Costa Coffee,B70 7PP,52.5197,-1.9917
+Funky Monkeys Softplay West Brom Ltd,B70 7PP,52.5195,-1.9912
 Mr singh's Pizza,B70 7PP,52.5198,-1.9907
 Sprinkles Gelato- West Bromwich,B70 7PP,52.5195,-1.9912
 subway,B70 7PP,52.5195,-1.9912
@@ -189,7 +190,6 @@ Upper Gornal McDonald's,DY3 1UX,52.5278,-2.1162
 LE RAJ RESTAURANT (DUDLEY) LIMITED,DY3 2UA,52.5173,-2.1321
 Mad Hatters Tea Room,DY3 2UA,52.5172,-2.1329
 Seven Stars,DY3 3LT,52.5391,-2.1287
-kanzer kebabs,DY3 3RT,52.5542,-2.1281
 The Summerhouse Sedgley Ltd,DY3 4AN,52.5409,-2.1447
 The Dudley Arms Pub Company,DY3 4LB,52.5185,-2.1758
 Green Man Inn,DY3 4NR,52.5127,-2.2041
@@ -413,6 +413,7 @@ Beefeater Bentley Green,WS2 0WB,52.5818,-2.0267
 TNS Catering_TJX Europe,WS2 7PT,52.6004,-1.9949
 Light Cinemas Walsall,WS2 8DD,52.5867,-1.9929
 Subway,WS2 8DH,52.5859,-1.9896
+RAMSEY FISH & CHIPS LTD,WS2 8HX,52.5911,-1.9900
 parkbrook bar and grill ltd,WS2 8RJ,52.5875,-2.0069
 KFC,WS2 8RL,52.5860,-2.0108
 The Alma Inn ,WS2 8SP,52.5913,-2.0034
@@ -470,6 +471,7 @@ Top Nosh,WV1 1TQ,52.5855,-2.1285
 THE NEW VICTORIA LTD,WV1 2BA,52.5880,-2.0938
 The Glassy junction ,WV1 2HR,52.5835,-2.1014
 Fresh Bakes Cafe,WV1 2HW,52.5835,-2.1030
+Delhi Delights,WV1 2SQ,52.5876,-2.1031
 Burger King,WV1 2UN,52.5742,-2.1000
 Hickmans Cafe ,WV1 2XF,52.5792,-2.1035
 subway,WV1 3AE,52.5849,-2.1253
@@ -490,6 +492,7 @@ Nutmeg,WV1 3NU,52.5845,-2.1290
 Delhi 2 Bombay,WV1 4EP,52.5858,-2.1398
 Rosso E Nero Restaurant,WV1 4HW,52.5853,-2.1312
 Marstons Brewery,WV1 4JT,52.5850,-2.1371
+Just Spice and Rice,WV1 4LP,52.5840,-2.1327
 MARIGOLD INDIAN RESTAURANT UK LIMITED ,WV1 4LP,52.5839,-2.1328
 MARIGOLD INDIAN RESTAURANT UK LIMITED,WV1 4LP,52.5839,-2.1328
 THE NEW SPICE RESTAURANT LIMITED,WV1 4LR,52.5839,-2.1316
@@ -500,12 +503,14 @@ Hamiltons Restaurant at A Park View Hotel,WV1 4PP,52.5870,-2.1399
 Annabels Bar Cafe,WV1 4QL,52.5880,-2.1332
 Table Table The Bluebrick,WV10 0BA,52.5886,-2.1196
 THE COFFEE HOUSE,WV10 0QP,52.5997,-2.0956
+Masala Wings Chops and Chips,WV10 6AN,52.6190,-2.1299
 Pizza Hut,WV10 6AN,52.6190,-2.1299
 SA & JBC DINING LIMITED,WV10 6AN,52.6190,-2.1299
 SUBWAY,WV10 6AN,52.6190,-2.1299
 McDonald's,WV10 6JF,52.6019,-2.1295
 McDonald’s Stafford Road,WV10 6JF,52.6018,-2.1295
 Tastebuds (Wolverhampton) Limited,WV10 6JH,52.6036,-2.1320
+Delhi Delights,WV10 6NR,52.6291,-2.1257
 The Brook Coffee House Limited,WV10 6NR,52.6291,-2.1257
 ming moon restaurant wolverhampton,WV10 6RR,52.6191,-2.1305
 Beefeater Moseley Park,WV10 6TA,52.6359,-2.1240
@@ -523,6 +528,8 @@ Mcbellas,WV10 9EZ,52.6190,-2.1239
 THE DINER LTD,WV10 9QY,52.6049,-2.1060
 KFC,WV10 9TW,52.6047,-2.1292
 Hungry hemmings cafe ,WV10 9UL,52.6167,-2.1174
+Health Shack,WV10 9UW,52.6176,-2.1170
+Cosmos,WV11 1BP,52.5969,-2.0903
 Costa Coffee,WV11 1BP,52.5975,-2.0880
 McDonald's,WV11 1BP,52.5960,-2.0910
 McDonald’s Wednesfield,WV11 1BP,52.5969,-2.0903
@@ -566,6 +573,7 @@ Bilston McDonald's,WV14 0EZ,52.5639,-2.0814
 McDonald's,WV14 0EZ,52.5629,-2.0823
 Purple Flamez,WV14 0LH,52.5580,-2.0714
 Britsh Car Auction Wolverhampton Catering,WV14 0QL,52.5615,-2.0875
+Delhi Delights,WV14 6JD,52.5746,-2.0623
 The Grapes ,WV14 6JG,52.5784,-2.0739
 Shan (Midlands) Ltd,WV14 7DW,52.5618,-2.0600
 The Golden Cue Snooker Club Limited ,WV14 7LH,52.5710,-2.0714
@@ -599,6 +607,7 @@ Milijo's ,WV2 3AY,52.5719,-2.1254
 UPPER CRUST CAFE WOLVES LTD,WV2 3BY,52.5765,-2.1261
 Lakshmi Sweet Centre LTD,WV2 3DR,52.5714,-2.1247
 Dosa Hut,WV2 3JY,52.5679,-2.1239
+NN Dosa Hut,WV2 3JY,52.5679,-2.1239
 ORO,WV2 3JY,52.5679,-2.1239
 C & E Foods,WV2 4AG,52.5816,-2.1260
 M&T Cafe,WV2 4AG,52.5816,-2.1260
@@ -631,6 +640,7 @@ The Roebuck Pub,WV4 4DE,52.5610,-2.1536
 CARIBBA RESTAURANT,WV4 4DF,52.5607,-2.1541
 Penny's Cafe,WV4 4HU,52.5568,-2.1684
 The Springhill,WV4 4LB,52.5576,-2.1722
+Delhi Delights,WV4 4LP,52.5660,-2.1665
 Evoke Coffee,WV4 4LP,52.5669,-2.1660
 5 Spice Cuisine Ltd,WV4 4PP,52.5683,-2.1676
 Indigo Restaurant,WV4 4QL,52.5658,-2.1676
@@ -645,6 +655,9 @@ PARKFIELD CENTRAL GRILL LTD,WV4 6HQ,52.5661,-2.1102
 Saturn Coffee Company,WV4 6JX,52.5637,-2.1023
 The Garden Bar,WV4 6NZ,52.5572,-2.1081
 The Three Crowns ,WV4 6RB,52.5516,-2.1130
+Rickys dinners,WV4 6RZ,52.5615,-2.1160
+Rickz dinnerz,WV4 6RZ,52.5615,-2.1160
+Delhi Delights,WV4 6SF,52.5610,-2.1137
 The Red Lion Wombourne Limited,WV5 0JJ,52.5353,-2.1784
 Woodman restaurant limited,WV5 7DG,52.5481,-2.2815
 The Bell Inn ,WV5 7JB,52.5460,-2.2173
@@ -674,11 +687,13 @@ Fiume Restaurant LTD,WV6 8AB,52.5867,-2.1741
 Pizza Hut,WV6 8AE,52.5862,-2.1775
 Fieldhouse Inn,WV6 8DP,52.5874,-2.1921
 vanilla,WV6 8EJ,52.5906,-2.1819
+Health Shack,WV6 8EN,52.5910,-2.1833
 Cute Hair Salon and Coffee Lounge Ltd,WV6 8ET,52.5939,-2.1876
 The Mount Hotel Country Manor,WV6 8HL,52.5879,-2.1862
 Monsoon ,WV6 8QQ,52.5980,-2.1689
 Gluttons For Nourishment (Tettenhall) Limited,WV6 8QS,52.5980,-2.1679
 Seats at Robinsons,WV6 8QT,52.5982,-2.1682
+Desi Stop,WV6 8RH,52.5977,-2.1775
 Massalla Club - Wolverhampton ,WV6 8RH,52.5977,-2.1775
 Abbey Len Catering Ltd,WV6 9BQ,52.6039,-2.1711
 The South Staffordshire Golf Club Ltd,WV6 9BQ,52.6039,-2.1711
