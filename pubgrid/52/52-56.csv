@@ -83,7 +83,6 @@ THE WHITE SWAN,DE72 3RB,52.9171,-1.3722
 Royal Oak,DE72 3SE,52.9235,-1.3725
 Risley Hall Hotel,DE72 3SS,52.9175,-1.3221
 The Risley Park,DE72 3SS,52.9172,-1.3223
-Chill and Grill,DE72 3SW,52.9216,-1.3075
 James’ coffee shop,DE72 3TT,52.9116,-1.3227
 Bay Leaf,DE73 6TB,52.8692,-1.4373
 No 61,DE73 6TB,52.8692,-1.4373
@@ -95,6 +94,7 @@ Red Lion,DE74 2DA,52.8358,-1.2811
 Best Western Premier Yew Lodge Hotel,DE74 2DF,52.8369,-1.2842
 Sweet Olives Restaurant at The Kegworth Hotel,DE74 2DF,52.8369,-1.2842
 Cap and Stocking,DE74 2FF,52.8374,-1.2789
+Castle Grill Ltd,DE74 2LA,52.8417,-1.3389
 Curry Tonight ,DE74 2LB,52.8427,-1.3375
 Rose of Bengal Ltd,DE74 2LB,52.8427,-1.3375
 The CASTLE INN,DE74 2PP,52.8388,-1.3435
@@ -550,7 +550,7 @@ Health Shack,NG4 1JA,52.9658,-1.1136
 Albies Nottingham limited,NG4 1JB,52.9660,-1.1106
 Piginns cafe ,NG4 1JD,52.9661,-1.1095
 The Free Man Nottingham (Wetherspoon),NG4 1JD,52.9661,-1.1092
-The Waiting Room Nottingham ltd,NG4 2LA,52.9645,-1.0783
+The Waiting Room Nottingham ltd,NG4 2LA,52.9647,-1.0783
 Lotus Spice,NG4 2NN,52.9634,-1.0766
 Costa Coffee,NG4 2PE,52.9625,-1.0654
 McDonald's,NG4 2PE,52.9613,-1.0674
@@ -649,7 +649,6 @@ Waterfall Elior,NG7 2UH,52.9434,-1.1858
 jukebox cafe,NG7 3AD,52.9609,-1.1726
 2days grill house limited ,NG7 3AQ,52.9603,-1.1756
 UK PIZZA,NG7 3BN,52.9582,-1.1759
-Vasile grancsa,NG7 3EX,52.9568,-1.1791
 The Garden Nottingham Ltd,NG7 3FY,52.9553,-1.1819
 White Horse Cafe,NG7 3FY,52.9553,-1.1819
 The Sir John Borlase Warren,NG7 3GD,52.9558,-1.1628
@@ -666,6 +665,7 @@ The Compatriot Ltd ,NG7 3JR,52.9589,-1.1676
 Nottingnam pizza and Kabab house,NG7 3NG,52.9567,-1.1628
 Sans Patrie LTD,NG7 3NG,52.9566,-1.1628
 Tipoo Turkish Restaurant ,NG7 3NN,52.9572,-1.1639
+COCHIN FORT,NG7 3NS,52.9589,-1.1670
 hukka lounge ltd,NG7 3NS,52.9585,-1.1665
 Dixy Chicken,NG7 3NU,52.9593,-1.1677
 Mamma D's kitchen,NG7 3NW,52.9596,-1.1688
@@ -687,6 +687,7 @@ kfc,NG7 5NH,52.9641,-1.1789
 Coffee stop ,NG7 6AQ,52.9649,-1.1675
 Wafflebox,NG7 6AU,52.9686,-1.1692
 Brill burger ,NG7 6HX,52.9714,-1.1646
+Food,NG7 6JA,52.9712,-1.1602
 Indulge in food ltd,NG7 6LU,52.9707,-1.1625
 AFRICAN BASE RESTAURANT LTD,NG7 7AJ,52.9752,-1.1639
 WILLOW TREE INN,NG7 7DA,52.9771,-1.1674

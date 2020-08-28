@@ -22,7 +22,6 @@ Burger King  - Bradford,BD1 1US,53.7941,-1.7500
 Costa Coffee,BD1 1US,53.7943,-1.7486
 FRANKIE'S BROADWAY,BD1 1US,53.7941,-1.7500
 KFC,BD1 1US,53.7941,-1.7500
-Kitchen cafe,BD1 1US,53.7941,-1.7500
 Little Lotus Bradford,BD1 1US,53.7941,-1.7500
 Taco Bell,BD1 1US,53.7941,-1.7500
 Tiffin Coffee Grande,BD1 1US,53.8022,-1.7559
@@ -273,7 +272,6 @@ The Cavendish ,BD21 3RL,53.8682,-1.9060
 Stockbridge Arms Fish Restaurant,BD21 4AH,53.8747,-1.8932
 Rock and Rolls Cafe,BD21 4AW,53.8742,-1.8941
 De-Cafe Limited,BD21 4JH,53.8690,-1.8941
-Dragons den,BD21 4JH,53.8690,-1.8941
 Santoni Osteria,BD21 4LW,53.8707,-1.8870
 KHALID'S DESI RESTAURANT,BD21 4PD,53.8679,-1.9021
 Chaipoint,BD21 5HS,53.8652,-1.9100
@@ -314,7 +312,6 @@ Mill Hey Brew House Limited,BD22 8NQ,53.8318,-1.9479
 Crossroads Indian ,BD22 9DL,53.8352,-1.9350
 The Kitchen Cafe,BD22 9DL,53.8352,-1.9350
 The Waggon and Horses ,BD22 9QE,53.8013,-1.9700
-Drop farm tearooms,BD22 9RE,53.8192,-1.9779
 The Dog and Gun Bar and Restaurant Ltd,BD22 9SN,53.8050,-1.9321
 Nawaab Gourmet,BD3 0ND,53.8064,-1.7499
 The Rooftop Barbecue Garden LTD,BD3 0RP,53.7991,-1.7423
@@ -322,7 +319,6 @@ Cafe de Akbar,BD3 7AE,53.7978,-1.7111
 KFC,BD3 7AT,53.8006,-1.7038
 KFC,BD3 7AT,53.8006,-1.7039
 Aagrah Midpoint,BD3 7AY,53.7985,-1.7039
-Lahori Chaska LTD,BD3 7DB,53.8017,-1.7061
 Habibs Restaurant,BD3 7JD,53.7991,-1.7203
 D&H Taylor t/as McDonald's,BD3 7NH,53.8008,-1.7090
 icestone gelato,BD3 8DG,53.7937,-1.7177
@@ -355,7 +351,6 @@ Pasha,BD3 9RA,53.7922,-1.7378
 Chickano's Bradford,BD3 9TY,53.7921,-1.7300
 King coffee co,BD3 9TY,53.7921,-1.7309
 mughal restaurant and sweet centre,BD3 9TY,53.7921,-1.7300
-rajas pizzabar ,BD3 9TY,53.7921,-1.7296
 The Curry Counter at Pakeezah Leeds Rd ,BD3 9UD,53.7929,-1.7385
 Bollywood Brasserie,BD4 0RP,53.7691,-1.6713
 Tong Garden Centre,BD4 0RY,53.7690,-1.6712
@@ -383,7 +378,6 @@ dil dil eats,BD5 0QZ,53.7865,-1.7541
 Anglo-Asian Foods Ltd T/A Lahori Gate,BD5 0TG,53.7865,-1.7539
 LISTER ARMS SUBWAY,BD5 7JX,53.7822,-1.7574
 Clear dining,BD5 8DH,53.7733,-1.7615
-PIZZA DE NIROS,BD5 8DJ,53.7746,-1.7608
 Wajs diner,BD5 8DJ,53.7746,-1.7608
 Sugar Snap Kitchen Ltd,BD5 8HB,53.7703,-1.7484
 Cedar Court Hotel Bradford,BD5 8HW,53.7714,-1.7532
@@ -413,6 +407,7 @@ Mylahore,BD7 1AL,53.7915,-1.7589
 OMARS BALTI HOUSE,BD7 1AL,53.7915,-1.7589
 Royals restaurants  ,BD7 1AL,53.7915,-1.7589
 boston burgers and shakes,BD7 1AL,53.7915,-1.7589
+GELATO,BD7 1AT,53.7914,-1.7605
 Burger Time ,BD7 1AZ,53.7906,-1.7625
 Halo Cafe,BD7 1AZ,53.7907,-1.7633
 Subway Great Horton Rd,BD7 1AZ,53.7906,-1.7625
@@ -430,6 +425,7 @@ Lahori Karahi and Charga,BD7 1PS,53.7892,-1.7683
 Manjaros,BD7 1PS,53.7893,-1.7683
 Shimlas Restaurant,BD7 1PS,53.7893,-1.7683
 Bigfellas (Bradford) ltd,BD7 1PU,53.7884,-1.7712
+HFC ,BD7 1PU,53.7884,-1.7712
 Heavenly Desserts ,BD7 1PU,53.7884,-1.7712
 icestone gelato,BD7 1PU,53.7884,-1.7712
 rajas,BD7 1PU,53.7884,-1.7712
@@ -447,18 +443,17 @@ Anams Restaurant,BD7 1RP,53.7874,-1.7726
 Candia cafe,BD7 2AA,53.7912,-1.7791
 Insane Air ,BD7 2BR,53.7842,-1.7845
 food2go express clayton ltd,BD7 2SQ,53.7831,-1.8025
-sims grill and curry house ,BD7 3AH,53.7876,-1.7775
 ROMEOS DINER,BD7 3BZ,53.7829,-1.7815
 Bharat Restaurant Bar & Grill,BD7 3HR,53.7844,-1.7793
 Mumtaz,BD7 3HS,53.7856,-1.7771
 Peri Fusion,BD7 4EG,53.7797,-1.7859
 Burning Bull,BD7 4EY,53.7792,-1.7885
-Bb fast food ,BD7 4JB,53.7731,-1.7863
 Nawaab hotel,BD8 7AQ,53.8108,-1.7638
 SALS PIZZA,BD8 7DT,53.8043,-1.7623
 Jamurath Curry Counter,BD8 7JS,53.8031,-1.7591
 ChaiiCorner,BD8 8AB,53.8055,-1.7683
 Gino's Pizza & Grill Ltd,BD8 8BE,53.8054,-1.7720
+DELI CHEZ,BD8 8BY,53.8052,-1.7728
 Cafe bismilla,BD8 8DA,53.8039,-1.7728
 Soul Food,BD8 8DP,53.8005,-1.7685
 Cha Cha Chai Donuts,BD8 9AN,53.7971,-1.7853
@@ -481,6 +476,8 @@ Kashmiri Aroma (Bradford) LLP,BD9 4JR,53.8161,-1.7737
 SUBWAY,BD9 4JR,53.8161,-1.7737
 My Thai Restaurant,BD9 4JZ,53.8162,-1.7728
 Jungle Grill Bradford,BD9 4QB,53.8088,-1.7713
+Oak Lane Fried Chicken,BD9 4QU,53.8085,-1.7746
+Yazz's Pizza Diner,BD9 4RD,53.8083,-1.7759
 Chunkys,BD9 5AD,53.8070,-1.7804
 DHESI GRILL,BD9 5AD,53.8070,-1.7804
 Indian Village,BD9 5BU,53.8102,-1.7914
@@ -490,7 +487,6 @@ Choudharys,BD9 5ES,53.8058,-1.7889
 Fresh fillingz cafe ,BD9 5ES,53.8058,-1.7889
 Fresh fillingz cafe,BD9 5ES,53.8058,-1.7889
 Deli.co (Bradford) LTD,BD9 5EU,53.8055,-1.7909
-masters resturant,BD9 5EU,53.8055,-1.7909
 Hare & Hounds,BD9 5NN,53.8127,-1.7958
 West Bradford Golf Club,BD9 6NP,53.8125,-1.8161
 Costa Coffee,BD9 6RJ,53.8065,-1.7961
@@ -889,6 +885,7 @@ The wok,LS28 6AT,53.8050,-1.6721
 Little Burrowers,LS28 6AU,53.8042,-1.6681
 Cafe el ,LS28 6ES,53.8053,-1.6662
 Rupyal Restaurant &takeaway,LS28 6ES,53.8063,-1.6639
+Rupyal restaurant ltd,LS28 6ES,53.8063,-1.6639
 dome thai,LS28 6ES,53.8053,-1.6663
 Aalfies Limited,LS28 6LS,53.8091,-1.6537
 The sandwich bar,LS28 6QB,53.8061,-1.6813

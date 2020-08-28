@@ -112,18 +112,17 @@ Arabesque ,B12 0UD,52.4669,-1.8843
 SYRIAN HOUSE RESTAURANT LTD,B12 0YR,52.4653,-1.8920
 Alfaisals,B12 8AQ,52.4548,-1.8734
 Pizza Land,B12 8AQ,52.4550,-1.8734
-SVS PIZZA AND PASTA,B12 8BT,52.4531,-1.8774
 Shake House Stoney Lane,B12 8DL,52.4590,-1.8721
 Taste of Pakistani ltd,B12 8DP,52.4593,-1.8761
 AK RESTAURANTS PVT LTD,B12 8ED,52.4587,-1.8731
 Yaqubs steakhouse ,B12 8ED,52.4586,-1.8730
+Apna Lahore LTD. ,B12 8JA,52.4589,-1.8765
 Chaska & Chai,B12 8JA,52.4589,-1.8765
 Roscoes,B12 8JJ,52.4577,-1.8737
 AL BADER LOUNGE LTD,B12 8JS,52.4577,-1.8764
 Infernoz,B12 8JS,52.4577,-1.8764
 Lahore Village ,B12 8JS,52.4569,-1.8764
 SHAHD ASIA LTD,B12 8JS,52.4577,-1.8764
-SVS KEBAB HOUSE,B12 8JS,52.4577,-1.8764
 Southern fried chicken & pizza ltd,B12 8JS,52.4582,-1.8764
 Thaana restaurant ltd,B12 8JS,52.4577,-1.8764
 Artisan Desserts,B12 8JT,52.4563,-1.8764
@@ -147,6 +146,7 @@ Heavenly Desserts  Ladypool Road,B12 8LA,52.4524,-1.8788
 Meat Street,B12 8LA,52.4529,-1.8784
 RHL Group Ltd T/A Truburger ,B12 8LA,52.4525,-1.8788
 Sweet. Ladypool Road,B12 8LA,52.4524,-1.8788
+Toros steakhouse,B12 8LA,52.4524,-1.8788
 OODLES,B12 8LB,52.4535,-1.8781
 Adians dining ,B12 8LD,52.4543,-1.8779
 LP BIRMINGHAM LTD,B12 8LF,52.4551,-1.8778
@@ -342,7 +342,6 @@ Mr singh's Pizza,B20 2HY,52.5155,-1.9337
 Titanic restaurant ,B20 3BX,52.5140,-1.9015
 Burger Town,B20 3DD,52.5132,-1.9017
 SweetLab Desserts,B20 3DD,52.5133,-1.9017
-Munchies,B20 3RE,52.5117,-1.9139
 Chik King,B21 0AP,52.5088,-1.9572
 McDonald's,B21 0AP,52.5101,-1.9618
 McDonald’s ,B21 0AP,52.5088,-1.9572
@@ -415,9 +414,7 @@ Little Bengal Indian & Bangladeshi restaurant ,B26 1AY,52.4664,-1.8091
 McDonald's Yardley,B26 1DS,52.4597,-1.8023
 McDonald's,B26 1DS,52.4600,-1.8028
 Peachy Keens Buffet Ltd,B26 1DS,52.4597,-1.8023
-DRAGON PALACE RESTAURANT,B26 1PB,52.4604,-1.8020
 Subway ,B26 1PB,52.4604,-1.8020
-Brunch master,B26 1TN,52.4653,-1.8041
 Roar Peri Peri And Grill,B26 2RR,52.4635,-1.7781
 Jilabi Birmingham Casual Dining Ltd,B26 3DY,52.4538,-1.7913
 Gorkha Lounge,B26 3EJ,52.4525,-1.7814
@@ -426,7 +423,6 @@ B26 food of India,B26 3JH,52.4519,-1.7805
 Istanbul Restaurant Sheldon Ltd,B26 3JH,52.4519,-1.7803
 Pizza Hut,B26 3JH,52.4519,-1.7805
 KFC,B26 3JQ,52.4533,-1.7868
-GULSHAN RESTAURANT,B26 3JR,52.4517,-1.7779
 Subway,B26 3JR,52.4517,-1.7779
 Titash Contemporary Indian Restaurant,B26 3JR,52.4517,-1.7778
 La Nonna ,B26 3LX,52.4525,-1.7706
@@ -524,7 +520,6 @@ subway,B37 7AB,52.4673,-1.7528
 The Picnic Basket,B37 7AE,52.4674,-1.7551
 German Doner Kebab,B4 6AB,52.4813,-1.8961
 Wayland's Yard Birmingham,B4 6AF,52.4823,-1.8963
-Jolly fried chicken ,B4 6DF,52.4848,-1.8967
 Soul Deli,B4 6EQ,52.4820,-1.8958
 Burger hut,B4 6HW,52.4865,-1.9009
 Holiday Inn Express Birmingham Snow Hill,B4 6HY,52.4852,-1.8974
@@ -543,7 +538,6 @@ ISKENDER KEBAB ,B4 7AA,52.4804,-1.8950
 KFC,B4 7AA,52.4804,-1.8950
 Pizza Hut Delivery,B4 7AT,52.4873,-1.8929
 Benugo Ltd,B4 7BD,52.4898,-1.8917
-Hungry belly ,B4 7DA,52.4856,-1.8910
 brgri,B4 7DP,52.4879,-1.8915
 Geek Retreat Birmingham,B4 7LA,52.4821,-1.8934
 Subway,B4 7LB,52.4807,-1.8945
@@ -573,6 +567,7 @@ The New Bell,B42 2NX,52.5415,-1.9182
 caspian,B42 2PW,52.5362,-1.9074
 Veggie Master,B42 2QS,52.5392,-1.9025
 Pizza Hut,B43 6BN,52.5455,-1.9344
+Shikas takeaway,B43 6NR,52.5469,-1.9348
 Simla spice,B43 6PL,52.5462,-1.9310
 Special spices,B43 6QU,52.5425,-1.9574
 Basmati restaurant,B43 7AG,52.5577,-1.9376
@@ -645,6 +640,7 @@ Pho Viet,B5 4RX,52.4762,-1.8963
 China Court Restaurant,B5 4ST,52.4750,-1.8964
 LOOK IN,B5 4ST,52.4756,-1.8965
 Malaysian Nyonya Food Limited,B5 4ST,52.4756,-1.8965
+Miyako Teppanyaki,B5 4ST,52.4756,-1.8965
 HAPPY HOT POT,B5 4SZ,52.4758,-1.8967
 PEACH GARDEN,B5 4SZ,52.4757,-1.8969
 Wu Shuang,B5 4SZ,52.4757,-1.8970
@@ -864,6 +860,7 @@ Moor Hall Golf Club Ltd,B75 6LN,52.5831,-1.8126
 Moor Hall Hotel Limited,B75 6LN,52.5831,-1.8126
 Farmhouse Bistro LLP,B75 6NA,52.5843,-1.8068
 THE COFFEE HOUSE,B75 7RR,52.5674,-1.8121
+Amir caravan,B76 0BY,52.5467,-1.7027
 Lea Marston Hotel Golf & Country Club Ltd,B76 0BY,52.5467,-1.7027
 The old barn coffee shop,B76 0DY,52.5607,-1.7002
 Compass Group/Kuehne & Nagel Ltd,B76 1BL,52.5258,-1.7770
@@ -908,6 +905,7 @@ Nando's,B78 3HD,52.6269,-1.7054
 Beefeater The Ladybridge,B78 3HQ,52.6293,-1.7016
 Costa Coffee,B78 3JD,52.6285,-1.7020
 KFC,B78 3JD,52.6273,-1.7007
+Kudos signature ,B78 3RB,52.6142,-1.6988
 Fazeley Park Restaurant ,B78 3RF,52.6144,-1.6983
 IVORY TUSK ,B78 3RG,52.6137,-1.6991
 Newton Regis Garden Centre,B79 0DF,52.6538,-1.6049

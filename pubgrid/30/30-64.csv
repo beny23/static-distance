@@ -26,7 +26,6 @@ Crown of Bromley,BR2 9JG,51.3956,0.0248
 DonGiovanni Restaurant,BR2 9LB,51.3972,0.0293
 Pizza Hut Delivery,BR2 9LD,51.3969,0.0293
 Rosie lee cafe & Deli,BR2 9LD,51.3969,0.0293
-Mos Sandwiches and Salads,BR2 9QN,51.3927,0.0347
 Pink Garlic,BR2 9QN,51.3927,0.0347
 The Fireball Pizza Company,BR2 9QN,51.3927,0.0347
 Virgin Active Bromley,BR2 9RB,51.3969,0.0389
@@ -204,7 +203,6 @@ KFC,CR0 2RE,51.3784,-0.1033
 Mazi restaurant ,CR0 2RF,51.3797,-0.1046
 TIMBER GARDENS RESTAURANT LTD,CR0 2RJ,51.3818,-0.1070
 DOSA KADA,CR0 2RL,51.3833,-0.1082
-Utpalas Uttapams and Dosas,CR0 2RL,51.3833,-0.1082
 SPICE LAND ,CR0 2TE,51.3818,-0.1057
 La Pasta,CR0 2TL,51.3825,-0.1043
 Croydon & District Masonic Hall PLC,CR0 2UX,51.3818,-0.1013
@@ -243,7 +241,6 @@ The Tram Stop,CR0 6RD,51.3808,-0.0724
 Zafran,CR0 6RG,51.3825,-0.0680
 CURRY ON NAANSTOP LIMITED,CR0 6SG,51.3752,-0.0836
 The Cricketers ,CR0 6SG,51.3753,-0.0838
-Manzoors Mahal,CR0 6YF,51.3902,-0.0744
 Welcome Friends Chinese Restaurant,CR0 7AA,51.3799,-0.0735
 Waterfall Elior At Oasis Academy Shirley Park,CR0 7AL,51.3861,-0.0622
 Shirley Park Golf Club ,CR0 7LB,51.3758,-0.0614
@@ -342,7 +339,6 @@ KFC THORNTON HEATH,CR7 6JA,51.3937,-0.1139
 KFC,CR7 6JA,51.3937,-0.1139
 MCDONALD'S RESTAURANT LIMITED- THORNTON HEATH ,CR7 6XJ,51.3984,-0.1169
 McDonald's,CR7 6XJ,51.3984,-0.1169
-Utpalas Spice,CR7 7AW,51.3975,-0.0998
 Urban Guj,CR7 7PA,51.3955,-0.1147
 Costa Coffee,CR7 8LF,51.3987,-0.0951
 Costa Coffee,CR7 8LF,51.3991,-0.0967
@@ -457,7 +453,6 @@ Brewers Fayre Heathside,KT20 6BW,51.3040,-0.2194
 New Khyber,KT20 6EB,51.2954,-0.2144
 No 12 Restaurant,KT20 6EB,51.2954,-0.2144
 Waterhouse Cafe,KT20 6EB,51.2954,-0.2144
-Kingswood kebab centre ,KT20 6HF,51.2969,-0.2107
 SURREY DOWNS GOLF CLUB,KT20 6JS,51.2895,-0.1895
 KINGSWOOD GOLF & COUNTRY CLUB LIMITED,KT20 6NE,51.2848,-0.2064
 The Sportsman,KT20 7ES,51.2637,-0.2241
@@ -478,7 +473,6 @@ Rye cafe and juice bar,KT21 2DB,51.3135,-0.3103
 The Star,KT22 0DP,51.3272,-0.3274
 Leatherhead Golf Club Limited,KT22 0EE,51.3209,-0.3306
 Charlie & Ginger,KT22 7AX,51.2952,-0.3301
-Reigate peri peri ,KT22 7QN,51.3114,-0.3314
 Layla's Coffee House,KT22 8AB,51.2955,-0.3282
 Piazza Firenze,KT22 8AG,51.2956,-0.3272
 Costa Coffee,KT22 8AH,51.2957,-0.3279
@@ -713,6 +707,7 @@ Spice Tavern Restaurant ,RH5 5DZ,51.1786,-0.2782
 The Surrey Oaks,RH5 5DZ,51.1786,-0.2783
 Denbies Wine Estate Limited,RH5 6AA,51.2482,-0.3319
 The Running Horses,RH5 6DU,51.2675,-0.3242
+Sheilas Cafe,RH6 8EH,51.1787,-0.1765
 The Farmhouse ,RH6 9LJ,51.1811,-0.1558
 Langshott Manor Hotel,RH6 9LN,51.1780,-0.1444
 The Star Inn,RH7 6AH,51.1754,-0.0142
@@ -781,7 +776,6 @@ McDonalds Sutton,SM1 1NL,51.3653,-0.1935
 KFC Sutton,SM1 1NR,51.3659,-0.1939
 KFC,SM1 1NR,51.3661,-0.1941
 M.Manze,SM1 1NT,51.3668,-0.1943
-Tim’s Cafe,SM1 1NT,51.3668,-0.1943
 Lahore Spices ,SM1 1PQ,51.3688,-0.1950
 Roti Masters,SM1 1PQ,51.3685,-0.1949
 Everest Spice - Nepalese and Indian Restaurant,SM1 1SN,51.3611,-0.1929
@@ -843,12 +837,10 @@ Perfect Chicken,SM3 9PL,51.3832,-0.2048
 CAFE ROYALE,SM4 4PD,51.3860,-0.2123
 CH&CO Catering Ltd at Aragon Primary School,SM4 4QU,51.3892,-0.2214
 Chicken Land,SM4 5HJ,51.3997,-0.1967
-Larryies kitchen ,SM4 5HJ,51.3997,-0.1967
 New Galito's Piri Piri,SM4 5HJ,51.3997,-0.1967
 PRINCESS OF INDIA,SM4 5HJ,51.3997,-0.1967
 Pizza Hut,SM4 5HJ,51.3997,-0.1967
 Verona Italian Restaurant ,SM4 5HJ,51.3997,-0.1967
-Peri peri and pizza ,SM4 5RP,51.3972,-0.1901
 Mecca Bingo,SM4 6BP,51.3856,-0.1885
 Star Express Coffee Shop (Rose Hill),SM5 1AF,51.3835,-0.1881
 Costa Coffee,SM5 1AG,51.3831,-0.1885

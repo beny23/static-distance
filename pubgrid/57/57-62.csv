@@ -2,6 +2,7 @@ name,postcode,lat,lon
 La Trattoria da Vincenzo ,LN1 1JT,53.2312,-0.5415
 Pizza Hut,LN1 1JX,53.2320,-0.5435
 QUEEN IN THE WEST,LN1 1PR,53.2338,-0.5536
+The Swan,LN1 1RD,53.2293,-0.5491
 The Horse and Groom,LN1 1RH,53.2305,-0.5478
 teetime catering,LN1 1SE,53.2339,-0.5598
 COFFEE AROMA,LN1 1TR,53.2294,-0.5412
@@ -98,6 +99,7 @@ International Bomber Command Centre ,LN4 2HQ,53.2139,-0.5310
 Beefeater Mill Lodge,LN4 2RF,53.2115,-0.5237
 curtis of lincoln ,LN5 7AF,53.2261,-0.5426
 Bar Unico,LN5 7AR,53.2280,-0.5416
+Towers,LN5 7AT,53.2266,-0.5438
 Stokes High Bridge cafe,LN5 7AU,53.2285,-0.5409
 Beijing Buffet Restaurant Ltd ,LN5 7BA,53.2259,-0.5431
 Grand coffee house,LN5 7BS,53.2263,-0.5380
@@ -117,7 +119,9 @@ The Craftea Cafe,LN5 7HW,53.2275,-0.5364
 Ritz Lincoln (Wetherspoon),LN5 7PJ,53.2243,-0.5433
 Blest Curry Ltd,LN5 7PR,53.2228,-0.5442
 The Modern Tandoori Restaurant,LN5 7RU,53.2233,-0.5434
+Food,LN5 7UG,53.2202,-0.5367
 PlayZone,LN5 7XH,53.2195,-0.5389
+Cristian food,LN5 8AQ,53.2189,-0.5475
 Golden Eagle,LN5 8BD,53.2165,-0.5460
 KFC,LN5 8HX,53.2195,-0.5446
 KFC,LN5 8HX,53.2197,-0.5447
