@@ -1270,7 +1270,6 @@ The Breakfast Club Hackney Wick,E15 2GW,51.5470,-0.0236
 Print House Bar,E15 2RB,51.5324,-0.0089
 Westbridge Hotel London,E15 2TF,51.5364,-0.0036
 Best Halal Grill LTD,E15 3ET,51.5337,0.0120
-marto ltd,E15 3EU,51.5325,0.0148
 Just another grill,E15 3QJ,51.5370,0.0135
 KING EDWARD VII,E15 4BQ,51.5410,0.0026
 R&P Restaurrants LTD  The Grill Stratford ,E15 4BZ,51.5420,0.0059
@@ -1559,7 +1558,6 @@ Ariana restaurant Mile End,E3 4SE,51.5212,-0.0337
 DELIZIA,E3 4TN,51.5226,-0.0338
 Meds london,E3 4TN,51.5225,-0.0338
 ORANGE ROOM LEBANESE LTD,E3 4TN,51.5225,-0.0338
-Thomas fish & chips,E3 4TN,51.5225,-0.0338
 Wagamama Ltd,E3 4UR,51.5237,-0.0233
 the lord tredegar ,E3 5AL,51.5286,-0.0325
 Milano pizza ,E3 5AX,51.5265,-0.0355
@@ -2427,6 +2425,7 @@ Thyme,EC4Y 8EN,51.5129,-0.1051
 salamis kitchen,IG1 2LR,51.5499,0.0747
 Franzos,IG1 2LT,51.5481,0.0760
 AL FATH LTD,IG1 2LZ,51.5478,0.0760
+Bims,IG1 2LZ,51.5479,0.0759
 Chicken & Pizza 4U,IG1 2SN,51.5465,0.0768
 Big Moe's Diner,IG11 0AD,51.5256,0.0799
 Black&White Lounge restaurant,IG11 0AD,51.5256,0.0799
@@ -2543,6 +2542,7 @@ The White Swan Islington (Wetherspoon),N1 1RY,51.5457,-0.1034
 Maggie and Rose (N1) Ltd,N1 1UL,51.5387,-0.1036
 LLERENA IBERICOS TAPAS BAR,N1 1US,51.5410,-0.1030
 Megan's at the Sorting Office,N1 1WL,51.5384,-0.1046
+ESTORICK CAFFE,N1 2AN,51.5440,-0.0999
 CANONBURY KITCHEN,N1 2AS,51.5430,-0.1021
 Zaffrani,N1 2BB,51.5393,-0.1016
 Smokehouse,N1 2DG,51.5422,-0.0991
@@ -2579,6 +2579,7 @@ KHP Social,N1 4AP,51.5463,-0.0780
 Duke of Wellington,N1 4BL,51.5462,-0.0800
 Weino BIB,N1 4BW,51.5461,-0.0784
 The Scolt Head,N1 4HT,51.5439,-0.0816
+Islanduk ltd ,N1 4JX,51.5426,-0.0799
 The Talbot,N1 4JY,51.5430,-0.0792
 The Lady Mildmay,N1 4PR,51.5500,-0.0844
 Korat Thai Cafe,N1 4QT,51.5480,-0.0874
@@ -3309,6 +3310,7 @@ The Gentlemen Baristas Borough,SE1 1SG,51.5039,-0.0950
 The Boot & Flogger,SE1 1TA,51.5042,-0.0936
 Bittenclub,SE1 1TD,51.5039,-0.0942
 Breddos Tacos at Flat Iron Square,SE1 1TD,51.5040,-0.0944
+Katsutopia Ltd,SE1 1TD,51.5040,-0.0944
 Lupins restaurants ltd,SE1 1TD,51.5039,-0.0942
 Mother Clucker,SE1 1TD,51.5040,-0.0944
 Tapas Brindisa London Bridge,SE1 1TJ,51.5051,-0.0905
@@ -4265,6 +4267,7 @@ Masala Wala Cafe LTD,SE4 2AB,51.4654,-0.0361
 Arlo & Moe ,SE4 2BT,51.4560,-0.0367
 The Crofton Park Tavern,SE4 2BT,51.4560,-0.0367
 FREDS LONDON LTD,SE4 2BY,51.4546,-0.0377
+Jabar,SE4 2NE,51.4677,-0.0384
 Burger Zone,SE4 2PH,51.4546,-0.0371
 Jerome's wine bar & shop,SE4 2PH,51.4546,-0.0371
 Bella Nova,SE4 2RA,51.4592,-0.0342
@@ -4333,6 +4336,7 @@ Costa Coffee,SE6 4AF,51.4475,-0.0178
 Grill Kebab House,SE6 4AF,51.4475,-0.0178
 KASPAS DESSERTS CATFORD,SE6 4AF,51.4475,-0.0178
 The London  Rye Catford (Wetherspoon),SE6 4AF,51.4470,-0.0183
+Vioara lts,SE6 4DD,51.4353,-0.0322
 Sema’s Cafe,SE6 4DT,51.4389,-0.0334
 Catford KFC Store,SE6 4HQ,51.4462,-0.0197
 Tai Won Mein,SE6 4HW,51.4474,-0.0188
@@ -4701,6 +4705,7 @@ Al Gusto,SW11 6PJ,51.4583,-0.1658
 Sea Fare Fish Bar,SW11 6PL,51.4579,-0.1657
 Warrens Bakery / Baked / Popadums,SW11 6PL,51.4579,-0.1657
 Numero Uno Restaurant ,SW11 6PX,51.4559,-0.1648
+Kibou,SW11 6QF,51.4539,-0.1637
 AKASH Restaurant,SW11 6QL,51.4583,-0.1663
 Franco Manca,SW11 6QL,51.4583,-0.1663
 MEATLiquor,SW11 6QL,51.4583,-0.1663
@@ -6084,10 +6089,12 @@ MNJV3 Corporation Limited - Maitre Choux,W1D 6AW,51.5127,-0.1322
 Shake Shack Leicester Square,W1D 6BH,51.5106,-0.1319
 Cafe de Paris,W1D 6BL,51.5106,-0.1320
 Layalina Piccadilly,W1D 6BR,51.5102,-0.1320
+AUNTIE ANNE'S,W1D 6BS,51.5102,-0.1319
 Pret A Manger,W1D 6BZ,51.5103,-0.1316
 Waxy O'Connor's,W1D 6DD,51.5109,-0.1322
 Heritage Restaurant,W1D 6DE,51.5109,-0.1323
 Daiwan Bee,W1D 6DH,51.5111,-0.1326
+Yolkin ,W1D 6DQ,51.5110,-0.1325
 C&R Restaurant (Chinatown),W1D 6DY,51.5112,-0.1325
 AMORINO,W1D 6HF,51.5127,-0.1322
 Salad & falafel ltd,W1D 6HG,51.5127,-0.1322
@@ -6223,6 +6230,7 @@ Obica Poland St,W1F 8QF,51.5150,-0.1371
 Corazon,W1F 8QR,51.5154,-0.1373
 T & j II (ltd),W1F 8QT,51.5155,-0.1375
 Tommi's Burger Joint Ltd,W1F 8RS,51.5146,-0.1357
+Toi Moi,W1F 8RT,51.5148,-0.1358
 The Real Greek,W1F 8SJ,51.5155,-0.1362
 Ember Yard,W1F 8SU,51.5154,-0.1366
 Co&Ko Jeon’s kitchen,W1F 8TD,51.5148,-0.1361
@@ -6556,6 +6564,7 @@ HIBA MARKET ,W1T 4TD,51.5211,-0.1357
 Vantra Eden,W1T 4TD,51.5211,-0.1357
 Pret A Manger,W1T 4TT,51.5224,-0.1364
 Sushi Fabrique,W1T 4TT,51.5228,-0.1368
+Sub Food Ltd (Subway),W1T 5AD,51.5230,-0.1370
 Paul UK Ltd - Tottenham Court Road,W1T 5AU,51.5241,-0.1378
 McDonald's,W1T 5BA,51.5244,-0.1380
 Oklava Bakery and Wine,W1T 5DP,51.5234,-0.1383
@@ -6870,7 +6879,9 @@ The Queens Park Hotel,W2 3SJ,51.5117,-0.1851
 Royal Park Hotel,W2 3UL,51.5141,-0.1762
 Hankies Westbourne Terrace,W2 3UY,51.5155,-0.1785
 Durbar Tandoori Restaurant,W2 4AA,51.5147,-0.1935
+Sunny Taste Limited,W2 4AA,51.5147,-0.1935
 Aphrodite Taverna,W2 4AB,51.5141,-0.1940
+Connect Way Limited,W2 4AB,51.5141,-0.1940
 Hafez Restaurant ,W2 4AB,51.5141,-0.1940
 The Laslett Hotel,W2 4DU,51.5095,-0.1968
 The Hill Cafe,W2 4EL,51.5116,-0.1932

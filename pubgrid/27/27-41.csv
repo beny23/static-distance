@@ -1,6 +1,7 @@
 name,postcode,lat,lon
 Wellhayes Vineyard,EX16 7NY,51.0000,-3.3936
 The Toucan,EX16 9LY,50.9905,-3.4862
+spelt,EX16 9LY,50.9896,-3.4852
 The Swan,EX16 9NG,50.9895,-3.4886
 eat the bird,TA1 1AE,51.0187,-3.1022
 Maliha & Taj Bengali & Indian Restaurant,TA1 1DE,51.0194,-3.1069
@@ -23,6 +24,7 @@ Lotus Flower restaurant,TA1 1PB,51.0215,-3.1035
 The Plough Inn,TA1 1PB,51.0215,-3.1035
 Dunelm,TA1 1QB,51.0197,-3.0954
 Great Western Hotel,TA1 1QW,51.0228,-3.1029
+The Great Western Hotel ,TA1 1QW,51.0228,-3.1029
 Solz Cafe,TA1 1SE,51.0149,-3.1008
 The Bank Taunton Ltd,TA1 1SJ,51.0171,-3.1012
 Princess Royal Inn ,TA1 1SW,51.0171,-3.0989
