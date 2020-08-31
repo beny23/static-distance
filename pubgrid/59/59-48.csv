@@ -46,6 +46,7 @@ grillaz orignal,BL3 6LS,53.5667,-2.4446
 Cafe Pierre,BL3 6NF,53.5721,-2.4349
 Taste Bakery Limited t/a Taste,BL3 6SZ,53.5672,-2.4391
 unity catering ltd,BL4 0LQ,53.5513,-2.4419
+Kakan,BL4 7BQ,53.5472,-2.4037
 lime tree restaurant ltd,BL4 7JN,53.5546,-2.3996
 AK GRILL & CURRIES,BL4 7LE,53.5544,-2.4020
 PERI HUT 3,BL4 7LE,53.5544,-2.4020
@@ -219,6 +220,7 @@ O'Sheas,M1 6NF,53.4752,-2.2386
 Middle Kingdom,M1 6NG,53.4747,-2.2381
 One Plus Chinese Restaurant,M1 7DB,53.4739,-2.2385
 YES,M1 7DB,53.4741,-2.2383
+Wingem,M1 7DN,53.4731,-2.2358
 Archie's,M1 7DU,53.4710,-2.2374
 PIZZA CO M LTD,M1 7DU,53.4710,-2.2374
 Dixy Chicken,M1 7DY,53.4705,-2.2371
@@ -263,6 +265,7 @@ Club 3000 Bingo Hyde Road,M12 5FL,53.4652,-2.1947
 Teppanyaki chinatown,M12 5GH,53.4579,-2.1910
 SPICY GRILL,M12 6DB,53.4716,-2.2213
 Universal Restaurant,M12 6JH,53.4707,-2.2143
+Atlas Lounge,M13 0AF,53.4626,-2.2174
 M2 Foods MCR Ltd,M13 0FN,53.4596,-2.2192
 Urban spice,M13 0FN,53.4596,-2.2192
 Banoful sweet house ,M13 0GW,53.4512,-2.1967
@@ -341,6 +344,7 @@ Raydan Restaurant ,M14 5XF,53.4528,-2.2284
 1,M14 5XL,53.4529,-2.2235
 MANCHESTER KEBAB HOUSE,M14 5XL,53.4529,-2.2235
 Jaipur Palace Fallowfield ,M14 6AB,53.4388,-2.2217
+Wingem,M14 6AF,53.4396,-2.2208
 Pizza Hut Delivery,M14 6FS,53.4430,-2.2046
 Burger Delights,M14 6GS,53.4394,-2.2088
 Arabian Nites Manchester,M14 6JR,53.4425,-2.2188
@@ -860,6 +864,7 @@ Australasia,M3 3AP,53.4801,-2.2495
 Fazenda Rodizio Bar & Grill,M3 3AP,53.4801,-2.2495
 Nudo Sushi Box,M3 3AP,53.4798,-2.2494
 Wolf Italian Street Food,M3 3AP,53.4801,-2.2495
+Bubbleyz,M3 3AQ,53.4804,-2.2533
 THE REFINERY - SPINNINGFIELDS,M3 3AQ,53.4801,-2.2539
 itsu Manchester,M3 3AQ,53.4802,-2.2538
 Crazy Pedro's Bridge Street,M3 3BQ,53.4812,-2.2496
@@ -886,6 +891,7 @@ Pieminister Manchester - Deansgate,M3 3NE,53.4786,-2.2497
 Topkapi Catering Ltd,M3 3NW,53.4787,-2.2490
 Hawksmoor,M3 3WB,53.4791,-2.2493
 Rosa's Thai Cafe,M3 3WB,53.4791,-2.2493
+Bubbleyz,M3 4AQ,53.4764,-2.2550
 Cheapa Foods,M3 4AQ,53.4764,-2.2550
 ALMOST FAMOUS GREAT NORTHERN,M3 4EJ,53.4771,-2.2490
 All Star Lanes - Manchester,M3 4EN,53.4774,-2.2498
@@ -919,6 +925,8 @@ A Nice Sip,M3 6AX,53.4855,-2.2570
 Rios gourmet grill Salford ,M3 6AX,53.4854,-2.2571
 Porta,M3 6BY,53.4835,-2.2588
 Manchester Tennis & Racquet Club Ltd,M3 7AQ,53.4859,-2.2522
+Bubbleyz,M3 7DQ,53.4868,-2.2516
+Bubbleyz,M3 7EH,53.4891,-2.2518
 Embankment Kitchen,M3 7NH,53.4855,-2.2470
 The Eccles Cross Eccles (Wetherspoon),M30 0BP,53.4833,-2.3347
 FREDDYS CHICKEN & PIZZA,M30 0DF,53.4848,-2.3352
@@ -927,8 +935,10 @@ bagel bunz,M30 0DW,53.4878,-2.3330
 Mammazohra31 Ltd,M30 0LJ,53.4836,-2.3381
 Happy days,M30 0LZ,53.4833,-2.3442
 Milton Manchester Hotel,M30 0NA,53.4843,-2.3392
+Big brother takeaway,M30 0QN,53.4816,-2.3570
 ECO FRESH LIMITED,M30 0QN,53.4815,-2.3570
 YETTIS KITCHEN LIMITED,M30 0QN,53.4816,-2.3572
+Godfather takeaway,M30 0WD,53.4828,-2.3508
 Balti brasserie ,M30 0WZ,53.4833,-2.3498
 Shop Sofia,M30 7BT,53.4776,-2.3668
 Elior,M30 7EY,53.4779,-2.3787
@@ -1278,6 +1288,7 @@ AC Hotel by Marriott Manchester Salford Quays,M5 3AW,53.4716,-2.2821
 Safa burgers,M5 3DD,53.4697,-2.2801
 Leon Restaurants,M5 3LW,53.4687,-2.2760
 Nyah Cafe,M5 3PH,53.4741,-2.2815
+Bubbleyz,M5 3TP,53.4779,-2.2651
 Costa Coffee,M5 3TP,53.4777,-2.2673
 Graystone Action Sports Academy (Manchester) Limited,M5 4BE,53.4835,-2.2759
 McDonald's Restaurant,M5 4BN,53.4849,-2.2778
@@ -1658,6 +1669,7 @@ McDonald's,WA13 0SP,53.3590,-2.5045
 McDonald's,WA13 0SP,53.3591,-2.5052
 The Barn Owl Inn,WA13 0SW,53.3807,-2.4410
 The Wheatsheaf Bar and Grill ,WA13 0TR,53.3694,-2.4400
+Bubbleyz,WA13 0TW,53.3645,-2.4468
 La Boheme restaurant ,WA13 9SD,53.3928,-2.4488
 The Saracens Head,WA13 9TH,53.3999,-2.4432
 Tre Ciccio Altrincham,WA14 1BA,53.3868,-2.3483
@@ -1699,6 +1711,7 @@ KATHMANDU KITCHEN,WA14 2DW,53.3837,-2.3526
 Nahm Prik Thai Cuisine,WA14 2DW,53.3837,-2.3526
 California Coffee and Wine Co.,WA14 2DY,53.3838,-2.3517
 Yara Altrincham ,WA14 2ED,53.3827,-2.3507
+Hogs and kisses,WA14 2ER,53.3810,-2.3494
 Gonbay Chinese Restaurant,WA14 2QD,53.3841,-2.3528
 Rasassi Restaurant ,WA14 2QD,53.3841,-2.3528
 Batch Deli,WA14 2RD,53.3850,-2.3523
@@ -1735,7 +1748,9 @@ Little Italy Ltd,WA15 7UR,53.3981,-2.3171
 Syriana,WA15 8SP,53.3694,-2.3149
 Booths,WA15 8ST,53.3689,-2.3145
 Costa Coffee,WA15 8ST,53.3690,-2.3146
+Cliffemount cafe,WA15 8UU,53.3653,-2.2989
 Runway Visitor Park,WA15 8XQ,53.3561,-2.2845
+Cliffemount community cafe,WA15 8XU,53.3647,-2.2987
 Brasserie Blanc Hale Barns,WA15 8XW,53.3642,-2.2978
 San Carlo Fiorentina,WA15 8XW,53.3642,-2.2978
 LA FAMIGLIA RESTAURANT,WA15 9AD,53.3789,-2.3470
@@ -1784,6 +1799,7 @@ Pizza Hut,WN7 1DR,53.4973,-2.5186
 The Coal Room Ltd,WN7 1DR,53.4970,-2.5186
 The Thomas Burke Leigh (Wetherspoon),WN7 1QR,53.4994,-2.5185
 The Bowling Green ,WN7 2LD,53.4942,-2.4956
+Wingem,WN7 2XT,53.5051,-2.4833
 Leigh Cricket Tennis & Bowling Club,WN7 3LH,53.4850,-2.5227
 The Greyhound Hotel,WN7 3XQ,53.4808,-2.5012
 Frescos,WN7 4AA,53.4967,-2.5206

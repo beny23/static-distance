@@ -462,6 +462,7 @@ COSTA COFFEE   SELSDON,CR2 8LB,51.3437,-0.0619
 Favorite Chicken & Ribs,CR2 8LB,51.3437,-0.0619
 KFC SELSDON,CR2 8LB,51.3437,-0.0619
 KFC,CR2 8LB,51.3437,-0.0620
+Selsdon Fireaway Ltd,CR2 8LB,51.3437,-0.0619
 The Sir Julian Huxley Selsdon (Wetherspoon),CR2 8LB,51.3434,-0.0624
 Royal Tandoori,CR2 8LD,51.3443,-0.0605
 Star express ,CR2 8LD,51.3443,-0.0605
@@ -535,6 +536,8 @@ Spice Fusion ,DA1 3QA,51.4497,0.1815
 British Raj,DA1 4EF,51.4533,0.1768
 Assos Restaurant,DA1 4ES,51.4510,0.1790
 Crayford KFC Store,DA1 4ES,51.4510,0.1791
+pizza hot 4 you,DA1 4HG,51.4524,0.1778
+maxin chicken pizza ribs & kebab,DA1 4HH,51.4523,0.1774
 T/A New Princess Garden,DA1 4JD,51.4527,0.1790
 Costa Coffee,DA1 4LD,51.4511,0.1808
 McDonald's,DA1 4LD,51.4504,0.1814
@@ -2431,6 +2434,8 @@ Big Moe's Diner,IG11 0AD,51.5256,0.0799
 Black&White Lounge restaurant,IG11 0AD,51.5256,0.0799
 Mylahore,IG11 0AD,51.5244,0.0780
 Bravewin Ltd,IG11 0BL,51.5273,0.0911
+River restaurant,IG11 0EG,51.5162,0.1020
+Brothers cafe,IG11 0HZ,51.5246,0.1045
 Thyme,IG11 7BA,51.5342,0.0719
 Costa Coffee,IG11 7BS,51.5362,0.0707
 The Boat House Cafe and Bar,IG11 7BT,51.5315,0.0760
@@ -2869,6 +2874,7 @@ Will to Win Regent's Park Cafe,NW1 4NU,51.5283,-0.1544
 Benugo,NW1 4RY,51.5357,-0.1557
 Mumtaz Restaurant London,NW1 4SH,51.5253,-0.1600
 The Windsor Castle Pub,NW1 4SH,51.5253,-0.1600
+Kremil,NW1 5BL,51.5195,-0.1674
 Pret A Manger,NW1 5LA,51.5226,-0.1563
 The Metropolitan Bar Marylebone (Wetherspoon),NW1 5LA,51.5225,-0.1569
 Starbucks Coffee,NW1 5LD,51.5228,-0.1560
@@ -2988,6 +2994,7 @@ Hot Pot Camden Ltd,NW1 8AH,51.5423,-0.1478
 Indian Alley Limited,NW1 8AH,51.5423,-0.1478
 It’s All Greek To Me!,NW1 8AH,51.5423,-0.1477
 Mazz kebab house,NW1 8AH,51.5423,-0.1477
+Pamban Chai & Coffee House,NW1 8AH,51.5423,-0.1478
 Pino’s Warung ,NW1 8AH,51.5423,-0.1478
 Rudy's Dirty Vegan Diner,NW1 8AH,51.5423,-0.1477
 Seven- Heaven Ccocolate Co,NW1 8AH,51.5423,-0.1477
@@ -3310,6 +3317,7 @@ The Gentlemen Baristas Borough,SE1 1SG,51.5039,-0.0950
 The Boot & Flogger,SE1 1TA,51.5042,-0.0936
 Bittenclub,SE1 1TD,51.5039,-0.0942
 Breddos Tacos at Flat Iron Square,SE1 1TD,51.5040,-0.0944
+EDu,SE1 1TD,51.5041,-0.0949
 Katsutopia Ltd,SE1 1TD,51.5040,-0.0944
 Lupins restaurants ltd,SE1 1TD,51.5039,-0.0942
 Mother Clucker,SE1 1TD,51.5040,-0.0944
@@ -3561,6 +3569,7 @@ Sushi sashimi ltd,SE1 8ER,51.5022,-0.1042
 Costa Coffee,SE1 8EZ,51.5013,-0.1044
 Pret A Manger,SE1 8EZ,51.5018,-0.1043
 KFC,SE1 8FS,51.5042,-0.1138
+Baltic restaurant and bar,SE1 8HA,51.5032,-0.1051
 Masters,SE1 8HW,51.5012,-0.1051
 Tortilla,SE1 8JZ,51.5035,-0.1050
 TAS THE CUT,SE1 8LF,51.5031,-0.1068
@@ -3932,6 +3941,7 @@ The Kentish Drovers Peckham (Wetherspoon),SE15 5RS,51.4735,-0.0700
 CHICK CHICKEN LONDON LTD,SE15 5SE,51.4741,-0.0684
 naifs,SE15 5TN,51.4755,-0.0655
 JUST A FAVOUR FOOD SERVICES,SE15 6TW,51.4829,-0.0656
+Babzen,SE16 2LS,51.4922,-0.0436
 Bellucci,SE16 2LS,51.4922,-0.0436
 Pizza hut,SE16 2LS,51.4922,-0.0436
 The Pizza Room,SE16 2LW,51.4921,-0.0449
@@ -4003,6 +4013,7 @@ Pepeneros Restaurant,SE18 1BS,51.4912,0.0943
 Grizzlys,SE18 1HF,51.4860,0.0995
 Tiwa N Tiwa African Restaurant Ltd,SE18 1JQ,51.4870,0.0927
 Gurkha Club Ltd,SE18 1PR,51.4865,0.0910
+Lower marsh market,SE18 1PS,51.4844,0.0909
 The Plumstead Pantry,SE18 1QJ,51.4818,0.0837
 Punjabi Dhaba Ltd,SE18 1SB,51.4879,0.0912
 Red Lion Noodle Bar,SE18 1SB,51.4884,0.0898
@@ -4843,6 +4854,7 @@ Saravanaa Bhavan,SW17 0DN,51.4299,-0.1664
 The Selkirk,SW17 0ES,51.4298,-0.1680
 Vegan Express Limited,SW17 0LT,51.4316,-0.1760
 very pizza ltd,SW17 0NG,51.4321,-0.1789
+Figli Del Vesuvio,SW17 0NP,51.4332,-0.1847
 Fire Around,SW17 0PG,51.4333,-0.1818
 Peabodys  - Rose Centre,SW17 0QT,51.4267,-0.1757
 Peabodys - Lanesborough Wing,SW17 0QT,51.4267,-0.1757
@@ -6076,6 +6088,7 @@ Chatime,W1D 5PE,51.5122,-0.1304
 FENG SHUI INN,W1D 5PG,51.5121,-0.1305
 Hot Baker London Limited,W1D 5PJ,51.5121,-0.1307
 Little Four Seasons,W1D 5PP,51.5120,-0.1309
+Four Seasons,W1D 5PR,51.5120,-0.1310
 SHU XIANG GE LIMITED,W1D 5PW,51.5120,-0.1309
 GOLDEN PHOENIX,W1D 5QB,51.5118,-0.1308
 Leongs Legend Hot Pot,W1D 5QD,51.5118,-0.1307
@@ -6544,6 +6557,7 @@ DETOX KITCHEN ,W1T 3JJ,51.5184,-0.1388
 Nando's,W1T 3LA,51.5163,-0.1360
 Farm Girl - Fitzrovia,W1T 3LR,51.5184,-0.1371
 Flesh & Buns,W1T 3LR,51.5184,-0.1371
+Kremil,W1T 3NG,51.5177,-0.1374
 The London Edition - Berners Tavern,W1T 3NP,51.5168,-0.1360
 Champion,W1T 3PA,51.5169,-0.1373
 80 CS,W1T 4AY,51.5215,-0.1373
