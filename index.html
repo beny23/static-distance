@@ -240,6 +240,36 @@
     }
 
     function showResults(inRange) {
+        renderTable(inRange);
+        renderMap(inRange);
+    }
+    function renderMap(inRange) {
+        markerLayer.clearLayers();
+        inRange.forEach(function(d) {
+            return L.marker([d.lat, d.lon], {"title": d.name})
+                .bindPopup(makeDirectLink(d) + "<br>" + d.postcode)
+                .addTo(markerLayer)
+        });
+    }
+    function renderTable(inRange, result) {
+      inRange = inRange
+              .map(function(a) {
+                  return {
+                    name: a.name,
+                    postcode: a.postcode,
+                    lat: a.lat,
+                    lon: a.lon,
+                    distance: distance(result, a)
+                    };
+                })
+              .filter(function(a) {
+                return a.distance < (5 * 1609.34);
+                })
+              .sort(function(a, b) {
+                return a.distance - b.distance;
+                })
+							.slice(0, 250);
+
         d3.select("#results")
             .selectAll("tr")
             .data(inRange)
@@ -254,13 +284,6 @@
             })
             .join("td")
             .html(function(d) { return d; });
-
-        markerLayer.clearLayers();
-        inRange.forEach(function(d) {
-            return L.marker([d.lat, d.lon], {"title": d.name})
-                .bindPopup(makeDirectLink(d) + "<br>" + d.postcode)
-                .addTo(markerLayer)
-        });
     }
 
     const mapid = L.map('mapid');
@@ -270,6 +293,7 @@
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(mapid);
     const markerLayer = L.markerClusterGroup({maxClusterRadius: 1}).addTo(mapid);
+    let httpCache = {};
 
     var southWest = L.latLng(49, -9),
         northEast = L.latLng(61, 2);
@@ -287,30 +311,21 @@
 
         const x = Math.round((+result.lat - 49.0) / (12.0 / 160.0));
         const y = Math.round((+result.lon + 9) / (11.0 / 80.0));
-
+        let current = {"x": x, "y": y};
+        if (httpCache.location && (JSON.stringify(httpCache.location) == JSON.stringify(current))) {
+          renderTable(httpCache.pubs, result);
+          return;
+        }
         d3.csv("pubgrid/" + x + "/" + x + "-" + y + ".csv")
             .then(function(pubs) {
-                showResults(pubs
-                    .map(function(a) {
-                        return {
-                            name: a.name,
-                            postcode: a.postcode,
-                            lat: a.lat,
-                            lon: a.lon,
-                            distance: distance(result, a)
-                        };
-                    })
-                    .filter(function(a) {
-                        return a.distance < (5 * 1609.34);
-                    })
-                    .sort(function(a, b) {
-                        return a.distance - b.distance;
-                    })
-                    .slice(0, 250));
+                renderTable(pubs, result);
+                renderMap(pubs);
+                httpCache = {location: current, pubs: pubs};
             })
             .catch(function(error) {
                 showResults([]);
             });
+
     });
 
     let defaults = {
